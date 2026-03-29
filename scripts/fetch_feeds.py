@@ -167,8 +167,10 @@ def main():
         with open(args.config, "r", encoding="utf-8") as f:
             config = yaml.safe_load(f)
         feeds = config["feeds"]
+        exclude_keywords = [k.lower() for k in config.get("interests", {}).get("exclude_keywords", [])]
     else:
         feeds = json.loads(args.feeds)
+        exclude_keywords = []
     state = load_state(args.state_file)
     cutoff = datetime.now(timezone.utc) - timedelta(hours=args.hours)
 
@@ -213,6 +215,12 @@ def main():
             summary = entry.get("summary", "")
             if len(summary) > 150:
                 summary = summary[:150] + "..."
+
+            # 除外キーワードチェック
+            if exclude_keywords:
+                text_lower = f"{entry.get('title', '')} {summary}".lower()
+                if any(kw in text_lower for kw in exclude_keywords):
+                    continue
 
             article = {
                 "entry_id": entry_id,

@@ -183,7 +183,7 @@ def main():
         "errors": errors,
         "fetched_at": datetime.now(timezone.utc).isoformat(),
     }
-    print(json.dumps(result, ensure_ascii=False, indent=2))
+    print(json.dumps(result, ensure_ascii=False, separators=(",", ":")))
 
 
 if __name__ == "__main__":

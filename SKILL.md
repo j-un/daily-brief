@@ -36,6 +36,7 @@ description: >
 `uv run` で実行すれば feedparser のインストールは自動で行われる。
 
 ```bash
+# 単体での実行例（通常は Step 2 のパイプ内で実行する）
 uv run <skill_dir>/scripts/fetch_feeds.py \
   --config <skill_dir>/config.yaml \
   --state-file ~/.rss-digests/state.json \
@@ -51,10 +52,15 @@ uv run <skill_dir>/scripts/fetch_feeds.py \
 
 ### Step 2: キーワードによる粗フィルタリング
 
-Step 1 の出力JSONを `scripts/filter_articles.py` にパイプで渡す。
+Step 1 の出力をパイプで直接 `scripts/filter_articles.py` に渡す。
+**中間JSONをコンテキストに含めないよう、必ずパイプで直結すること。**
 
 ```bash
-echo '<Step1の出力>' | uv run <skill_dir>/scripts/filter_articles.py \
+uv run <skill_dir>/scripts/fetch_feeds.py \
+  --config <skill_dir>/config.yaml \
+  --state-file ~/.rss-digests/state.json \
+  --hours 24 \
+| uv run <skill_dir>/scripts/filter_articles.py \
   --config <skill_dir>/config.yaml
 ```
 

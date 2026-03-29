@@ -104,7 +104,6 @@ def main():
             "matched_count": len(filtered),
             "excluded_count": excluded_count,
             "used_fallback": used_fallback,
-            "keywords_used": keywords,
         },
     }
     print(json.dumps(result, ensure_ascii=False, separators=(",", ":")))

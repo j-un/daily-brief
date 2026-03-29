@@ -65,15 +65,43 @@ def make_entry_id(entry: dict) -> str:
     return hashlib.md5(json.dumps(entry, sort_keys=True).encode()).hexdigest()
 
 
+URL_PATTERN = re.compile(r"https?://[^\s<>\"']+")
+
+
+def is_bluesky_feed(url: str) -> bool:
+    """BlueskyのRSSフィードかどうか判定する"""
+    return "bsky.app/" in url
+
+
+def extract_external_url(description: str, post_link: str) -> tuple[str, str]:
+    """descriptionから外部URLを抽出し、(external_url, remaining_text) を返す。
+    外部URLがなければ (post_link, description) を返す。"""
+    urls = URL_PATTERN.findall(description)
+    # bsky.app 自身のURLを除外して最初の外部URLを取得
+    external_urls = [u for u in urls if "bsky.app/" not in u]
+    if external_urls:
+        external_url = external_urls[0]
+        remaining = description.replace(external_url, "").strip()
+        return external_url, remaining
+    return post_link, description
+
+
 def fetch_feed(url: str) -> list[dict]:
     """feedparserでRSSフィードを取得・パースする"""
     feed = feedparser.parse(url)
+    is_bluesky = is_bluesky_feed(url)
     entries = []
     for item in feed.entries:
+        link = getattr(item, "link", "")
+        summary = clean_html(getattr(item, "summary", getattr(item, "description", "")))
+
+        if is_bluesky and summary:
+            link, summary = extract_external_url(summary, link)
+
         entry = {
             "title": clean_html(getattr(item, "title", "")),
-            "link": getattr(item, "link", ""),
-            "summary": clean_html(getattr(item, "summary", getattr(item, "description", ""))),
+            "link": link,
+            "summary": summary,
             "published": getattr(item, "published", getattr(item, "updated", "")),
         }
         entries.append(entry)

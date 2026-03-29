@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # /// script
 # requires-python = ">=3.11"
-# dependencies = ["feedparser", "pyyaml"]
+# dependencies = ["feedparser", "pyyaml", "httpx"]
 # ///
 """
 RSSフィード取得 & 差分抽出スクリプト
@@ -19,6 +19,7 @@ from datetime import datetime, timedelta, timezone
 import html
 import re
 import feedparser
+import httpx
 import yaml
 
 
@@ -86,6 +87,29 @@ def extract_external_url(description: str, post_link: str) -> tuple[str, str]:
     return post_link, description
 
 
+TITLE_TAG_PATTERN = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+BLUESKY_SHORT_SUMMARY_THRESHOLD = 30
+
+
+def fetch_page_title(url: str, timeout: float = 5.0) -> str:
+    """URLから<title>タグだけを軽量取得する。先頭4KBのみ読み込む。"""
+    try:
+        with httpx.stream("GET", url, follow_redirects=True, timeout=timeout,
+                          headers={"User-Agent": "rss-digest/1.0"}) as resp:
+            chunk = b""
+            for data in resp.iter_bytes():
+                chunk += data
+                if len(chunk) >= 4096:
+                    break
+        text = chunk.decode("utf-8", errors="replace")
+        m = TITLE_TAG_PATTERN.search(text)
+        if m:
+            return clean_html(m.group(1))
+    except Exception:
+        pass
+    return ""
+
+
 def fetch_feed(url: str) -> list[dict]:
     """feedparserでRSSフィードを取得・パースする"""
     feed = feedparser.parse(url)
@@ -94,12 +118,18 @@ def fetch_feed(url: str) -> list[dict]:
     for item in feed.entries:
         link = getattr(item, "link", "")
         summary = clean_html(getattr(item, "summary", getattr(item, "description", "")))
+        title = clean_html(getattr(item, "title", ""))
 
         if is_bluesky and summary:
             link, summary = extract_external_url(summary, link)
+            # summaryが短く内容不明な場合、リンク先の<title>を取得して補完
+            if len(summary) < BLUESKY_SHORT_SUMMARY_THRESHOLD and link.startswith("http"):
+                page_title = fetch_page_title(link)
+                if page_title:
+                    title = page_title
 
         entry = {
-            "title": clean_html(getattr(item, "title", "")),
+            "title": title,
             "link": link,
             "summary": summary,
             "published": getattr(item, "published", getattr(item, "updated", "")),

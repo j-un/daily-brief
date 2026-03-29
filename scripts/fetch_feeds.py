@@ -151,10 +151,10 @@ def main():
             if pub_date and pub_date < cutoff:
                 continue
 
-            # 概要を300文字に切り詰め
+            # 概要を150文字に切り詰め（トークン節約）
             summary = entry.get("summary", "")
-            if len(summary) > 300:
-                summary = summary[:300] + "..."
+            if len(summary) > 150:
+                summary = summary[:150] + "..."
 
             article = {
                 "entry_id": entry_id,

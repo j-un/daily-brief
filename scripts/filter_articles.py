@@ -41,6 +41,8 @@ def main():
                         help="カンマ区切りの除外キーワード")
     parser.add_argument("--config", default="",
                         help="config.yamlのパス（interests セクションから読み込み）")
+    parser.add_argument("--max-results", type=int, default=30,
+                        help="出力する最大記事数（トークン節約）")
     parser.add_argument("--fallback-limit", type=int, default=20,
                         help="キーワードマッチが0件の場合に返す記事数")
     args = parser.parse_args()
@@ -90,6 +92,9 @@ def main():
         filtered = articles[:args.fallback_limit]
         for a in filtered:
             a["matched_keywords"] = ["(fallback — no keyword match)"]
+
+    # 最大記事数で切り詰め（トークン節約）
+    filtered = filtered[:args.max_results]
 
     result = {
         **meta,

@@ -18,143 +18,12 @@ description: >
 
 ---
 
-## RSSフィード設定
+## 設定ファイル
 
-以下のフィードリストを使用する。ユーザーが追加・削除を求めた場合はこのセクションを更新すること。
+フィードリスト・キーワード・関心テーマは `config.yaml` で管理する。
+ユーザーがフィードの追加・削除やキーワード変更を求めた場合は `config.yaml` を更新すること。
 
-```yaml
-feeds:
-  # --- main（テック・開発） ---
-  - name: "@matsuu (Bluesky)"
-    url: "https://bsky.app/profile/matsuu.bsky.social/rss"
-    category: "main"
-
-  - name: "@netmarkjp - BABA Toshiaki (Bluesky)"
-    url: "https://bsky.app/profile/netmarkjp.bsky.social/rss"
-    category: "main"
-
-  - name: "Hacker News (100pts+)"
-    url: "https://hnrss.org/newest?points=100"
-    category: "main"
-
-  - name: "techno-edge"
-    url: "https://www.techno-edge.net/rss20/index.rdf"
-    category: "main"
-
-  - name: "Amazon Web Services ブログ"
-    url: "https://aws.amazon.com/jp/blogs/news/feed/"
-    category: "main"
-
-  - name: "AWS Recent Announcements"
-    url: "https://aws.amazon.com/about-aws/whats-new/recent/feed/"
-    category: "main"
-
-  - name: "はてなブックマーク - テクノロジー"
-    url: "https://b.hatena.ne.jp/hotentry/it.rss"
-    category: "main"
-
-  - name: "GitHub Trending (Bluesky)"
-    url: "https://bsky.app/profile/github-trending.bsky.social/rss"
-    category: "main"
-
-  - name: "O'Reilly Japan - 新刊・近刊"
-    url: "https://www.oreilly.co.jp/catalog/soon.xml"
-    category: "main"
-
-  # --- book ---
-  - name: "わたしが知らないスゴ本は、きっとあなたが読んでいる"
-    url: "https://dain.cocolog-nifty.com/myblog/atom.xml"
-    category: "book"
-
-  # --- music ---
-  - name: "ICON"
-    url: "https://icon.jp/feed"
-    category: "music"
-
-  - name: "いっかい/ikkai"
-    url: "http://1ikkai.com/feed/"
-    category: "music"
-
-  - name: "CDM Create Digital Music"
-    url: "https://feeds.feedburner.com/createdigitalmusic"
-    category: "music"
-
-  # --- Culture ---
-  - name: "CINRA.NET"
-    url: "https://www.cinra.net/feed"
-    category: "Culture"
-
-  # --- blog ---
-  - name: "Chikirinの日記"
-    url: "http://d.hatena.ne.jp/Chikirin/rss"
-    category: "blog"
-
-  - name: "r7kamura.com"
-    url: "https://r7kamura.com/feed.xml"
-    category: "blog"
-
-  - name: "内田樹の研究室"
-    url: "https://blog.tatsuru.com/atom.xml"
-    category: "blog"
-
-  # --- 追加フィードはここに記述 ---
-  # - name: "フィード名"
-  #   url: "https://example.com/feed"
-  #   category: "カテゴリ名"
-```
-
-> **フィードの追加方法**: ユーザーが「〇〇のフィードを追加して」と言ったら、
-> 上のリストに追記し、SKILL.md を更新する。
-
----
-
-## ユーザーの関心事
-
-以下のキーワードと関心テーマでフィルタリングを行う。
-ユーザーが関心を変更した場合はこのセクションを更新すること。
-
-```yaml
-interests:
-  keywords:
-    - "SRE"
-    - "DevOps"
-    - "AI"
-    - "LLM"
-    - "コーディングエージェント"
-    - "プログラミング"
-    - "スタートアップ"
-    - "プロダクト開発"
-    - "AWS"
-    - "クラウド"
-    - "インフラ"
-    - "コンテナ"
-    - "Lambda"
-    - "シンセサイザー"
-    - "DTM"
-    - "音楽制作"
-    - "modular"
-    - "オープンソース"
-
-  themes:
-    - "生成AIの最新動向と実用事例"
-    - "AIを活用したシステム開発やシステム運用"
-    - "開発者ツール・DXの改善"
-    - "テック企業の戦略・資金調達"
-    - "AWSの新サービス・アップデート"
-    - "クラウドインフラとアーキテクチャ設計"
-    - "電子音楽・シンセサイザー・音楽制作ツール"
-    - "読書・書評・知的好奇心を刺激する本"
-
-  exclude_keywords:
-    - "広告"
-    - "PR記事"
-    - "スポンサー"
-    - "posfie.com"
-    - "togetter.com"
-```
-
-> **カスタマイズ**: ユーザーが「Rustの情報はもういらない」「量子コンピュータも追加して」
-> などと言ったらこのセクションを更新する。
+> **参照**: `<skill_dir>/config.yaml` — feeds / interests セクション
 
 ---
 
@@ -168,14 +37,13 @@ interests:
 
 ```bash
 uv run <skill_dir>/scripts/fetch_feeds.py \
-  --feeds '<JSON形式のフィードリスト>' \
+  --config <skill_dir>/config.yaml \
   --state-file ~/.rss-digests/state.json \
   --hours 24
 ```
 
 引数の説明:
-- `--feeds`: フィードURL一覧をJSON文字列で渡す。上記「RSSフィード設定」から以下の形式で構築する:
-  `[{"name":"Hacker News","url":"https://hnrss.org/best","category":"Tech"}, ...]`
+- `--config`: `config.yaml` のパス（feeds セクションからフィード一覧を読み込む）
 - `--state-file`: 前回取得状態を保存するJSONファイル（初回は自動作成される）
 - `--hours`: 何時間前まで遡るか（デフォルト24。「今週分」なら168を指定）
 
@@ -187,10 +55,10 @@ Step 1 の出力JSONを `scripts/filter_articles.py` にパイプで渡す。
 
 ```bash
 echo '<Step1の出力>' | uv run <skill_dir>/scripts/filter_articles.py \
-  --keywords 'AI,LLM,機械学習,プログラミング,スタートアップ,プロダクト開発,Rust,Python,TypeScript' \
-  --exclude '広告,PR記事,スポンサー'
+  --config <skill_dir>/config.yaml
 ```
 
+`config.yaml` の `interests.keywords` / `interests.exclude_keywords` を使い、
 タイトルまたは概要にキーワードが含まれる記事だけを通過させ、除外キーワードに一致する記事は除去する。
 結果はJSON形式で標準出力に返る。各記事に `matched_keywords` フィールドが追加される。
 

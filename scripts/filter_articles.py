@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# /// script
+# requires-python = ">=3.11"
+# dependencies = ["pyyaml"]
+# ///
 """
 キーワードベースの記事フィルタリングスクリプト
 
@@ -10,6 +14,7 @@ import argparse
 import json
 import sys
 import re
+import yaml
 
 
 def normalize(text: str) -> str:
@@ -30,16 +35,25 @@ def matches_any(text: str, keywords: list[str]) -> list[str]:
 
 def main():
     parser = argparse.ArgumentParser(description="キーワードで記事をフィルタリング")
-    parser.add_argument("--keywords", required=True,
+    parser.add_argument("--keywords", default="",
                         help="カンマ区切りの関心キーワード")
     parser.add_argument("--exclude", default="",
                         help="カンマ区切りの除外キーワード")
+    parser.add_argument("--config", default="",
+                        help="config.yamlのパス（interests セクションから読み込み）")
     parser.add_argument("--fallback-limit", type=int, default=20,
                         help="キーワードマッチが0件の場合に返す記事数")
     args = parser.parse_args()
 
-    keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
-    exclude = [k.strip() for k in args.exclude.split(",") if k.strip()]
+    if args.config:
+        with open(args.config, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f)
+        interests = config.get("interests", {})
+        keywords = interests.get("keywords", [])
+        exclude = interests.get("exclude_keywords", [])
+    else:
+        keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
+        exclude = [k.strip() for k in args.exclude.split(",") if k.strip()]
 
     # 標準入力からJSON読み取り
     input_data = json.load(sys.stdin)

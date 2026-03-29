@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # /// script
 # requires-python = ">=3.11"
-# dependencies = ["feedparser"]
+# dependencies = ["feedparser", "pyyaml"]
 # ///
 """
 RSSフィード取得 & 差分抽出スクリプト
@@ -19,6 +19,7 @@ from datetime import datetime, timedelta, timezone
 import html
 import re
 import feedparser
+import yaml
 
 
 def clean_html(text: str) -> str:
@@ -96,13 +97,20 @@ def save_state(state_file: str, state: dict):
 
 def main():
     parser = argparse.ArgumentParser(description="RSSフィード取得 & 差分抽出")
-    parser.add_argument("--feeds", required=True, help="フィード情報のJSON文字列")
+    group = parser.add_mutually_exclusive_group(required=True)
+    group.add_argument("--feeds", help="フィード情報のJSON文字列")
+    group.add_argument("--config", help="config.yamlのパス（feeds/interestsを含む）")
     parser.add_argument("--state-file", default=os.path.expanduser("~/.rss-digests/state.json"),
                         help="状態ファイルのパス")
     parser.add_argument("--hours", type=int, default=24, help="遡る時間数")
     args = parser.parse_args()
 
-    feeds = json.loads(args.feeds)
+    if args.config:
+        with open(args.config, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f)
+        feeds = config["feeds"]
+    else:
+        feeds = json.loads(args.feeds)
     state = load_state(args.state_file)
     cutoff = datetime.now(timezone.utc) - timedelta(hours=args.hours)
 

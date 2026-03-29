@@ -41,8 +41,8 @@ def main():
                         help="カンマ区切りの除外キーワード")
     parser.add_argument("--config", default="",
                         help="config.yamlのパス（interests セクションから読み込み）")
-    parser.add_argument("--max-results", type=int, default=30,
-                        help="出力する最大記事数（トークン節約）")
+    parser.add_argument("--max-results", type=int, default=100,
+                        help="出力する最大記事数")
     parser.add_argument("--fallback-limit", type=int, default=20,
                         help="キーワードマッチが0件の場合に返す記事数")
     args = parser.parse_args()

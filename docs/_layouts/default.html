@@ -23,5 +23,11 @@
   <footer>
     <p>Powered by <a href="https://pages.github.com/">GitHub Pages</a></p>
   </footer>
+  <script>
+    document.querySelectorAll('main a[href^="http"]').forEach(function(a) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    });
+  </script>
 </body>
 </html>

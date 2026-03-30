@@ -60,16 +60,12 @@ feeds:
     category: "Culture"
 
   # --- blog ---
-  - name: "Chikirinの日記"
-    url: "http://d.hatena.ne.jp/Chikirin/rss"
-    category: "blog"
-
   - name: "r7kamura.com"
     url: "https://r7kamura.com/feed.xml"
     category: "blog"
 
-  - name: "内田樹の研究室"
-    url: "https://blog.tatsuru.com/atom.xml"
+  - name: "iwashi.co"
+    url: "https://iwashi.co/feed.xml"
     category: "blog"
 
   # --- 追加フィードはここに記述 ---
@@ -86,6 +82,7 @@ interests:
     - "テック企業の戦略・資金調達"
     - "AWSの新サービス・アップデート"
     - "クラウドインフラとアーキテクチャ設計"
+    - "デスク周り・物理的な作業環境"
     - "電子音楽・シンセサイザー・音楽制作ツール"
     - "読書・書評・知的好奇心を刺激する本"
 

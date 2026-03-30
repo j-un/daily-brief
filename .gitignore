@@ -1,0 +1,12 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Temporary files
+articles.json

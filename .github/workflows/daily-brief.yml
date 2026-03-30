@@ -1,0 +1,62 @@
+name: Daily Brief
+
+on:
+  schedule:
+    # 毎日 AM 6:00 JST (= UTC 21:00 前日)
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: '再取得する時間数（デフォルト: 24）'
+        required: false
+        default: '24'
+      reset_state:
+        description: 'state.json をリセットして再取得する'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+        with:
+          version: "latest"
+
+      - name: Reset state (manual re-run)
+        if: inputs.reset_state == true
+        run: rm -f state.json
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Generate digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          claude \
+            --model claude-sonnet-4-6 \
+            --dangerously-skip-permissions \
+            --max-budget-usd 1.00 \
+            -p "RSSフィードチェックして。出力先は docs/brief-YYYY-MM-DD.md、state-fileは ./state.json、--hours ${{ inputs.hours || '24' }} を使うこと"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json docs/
+          if git diff --cached --quiet; then
+            echo "変更なし、コミットをスキップ"
+          else
+            DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+            git commit -m "digest: ${DATE} の日次ダイジェストを生成"
+            git push
+          fi

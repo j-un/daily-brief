@@ -1,127 +1,249 @@
-/* === Base === */
+/* === Reset === */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* === Base === */
+html {
+  font-size: 18px;
 }
 
 body {
-  max-width: 740px;
+  max-width: 680px;
   margin: 0 auto;
-  padding: 1rem 1.5rem 3rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
-  color: #24292e;
-  background: #fff;
+  padding: 2.5rem 1.5rem 4rem;
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  line-height: 1.8;
+  color: #333;
+  background: #fafafa;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: #0366d6;
-  text-decoration: none;
+  color: #333;
+  text-decoration: underline;
+  text-decoration-color: #ccc;
+  text-underline-offset: 2px;
+  transition: text-decoration-color 0.15s;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration-color: #333;
 }
 
-/* === Header === */
+/* === Site Header === */
 header {
-  margin-bottom: 2rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 2px solid #e1e4e8;
+  margin-bottom: 3rem;
 }
 
 header h1 {
-  margin: 0;
-  font-size: 1.5rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #999;
 }
 
 header h1 a {
-  color: #24292e;
+  color: #999;
+  text-decoration: none;
 }
 
-/* === Content === */
-h1 {
-  font-size: 1.6rem;
-  border-bottom: 1px solid #e1e4e8;
-  padding-bottom: 0.3rem;
+header h1 a:hover {
+  color: #555;
 }
 
-h2 {
-  font-size: 1.25rem;
-  margin-top: 2rem;
-  padding-left: 0.6rem;
-  border-left: 4px solid #0366d6;
-}
-
-h3 {
+/* === Page Title (h1 in main) === */
+main > h1 {
   font-size: 1.1rem;
-  margin-top: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #111;
+  border: none;
+  padding: 0;
+  margin-bottom: 1.2rem;
 }
 
-/* === Blockquote (stats bar) === */
+/* === Stats Bar (blockquote > table) === */
 blockquote {
-  margin: 1rem 0;
-  padding: 0.6rem 1rem;
-  background: #f1f8ff;
-  border-left: 4px solid #0366d6;
-  border-radius: 3px;
-  color: #444;
-  font-size: 0.9rem;
+  margin: 0 0 2rem;
+  padding: 0;
+  border: none;
+  background: none;
 }
 
-blockquote p {
-  margin: 0;
+blockquote table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.78rem;
+  color: #888;
+  letter-spacing: 0.03em;
 }
 
-/* === Lists === */
-ul, ol {
-  padding-left: 1.5rem;
+blockquote table td {
+  padding: 0;
+  border: none;
+  padding-right: 1.5rem;
+}
+
+/* === Section Dividers === */
+hr {
+  border: none;
+  height: 1px;
+  background: #e0e0e0;
+  margin: 2.2rem 0;
+}
+
+/* === Section Headers === */
+h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #222;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border: none;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+/* === Article Lists === */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.5rem;
 }
 
 li {
-  margin-bottom: 0.5rem;
-  line-height: 1.6;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid #efefef;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #444;
+}
+
+li:last-child {
+  border-bottom: none;
+}
+
+li p {
+  margin: 0;
+}
+
+li p + p {
+  margin-top: 0.3rem;
+  font-size: 0.9rem;
+  color: #555;
 }
 
 li strong {
+  font-weight: 500;
+}
+
+li strong a {
+  color: #2256a0;
   font-weight: 600;
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  text-decoration-color: #93b3d8;
+  text-underline-offset: 3px;
 }
 
-/* === Horizontal Rule === */
-hr {
+li strong a:hover {
+  text-decoration-style: solid;
+  text-decoration-color: #2256a0;
+}
+
+/* em-dash separator between title and summary */
+li code {
+  font-family: "SF Mono", "Fira Code", "Fira Mono", Menlo, monospace;
+  font-size: 0.82em;
+  background: #f3f3f3;
+  padding: 0.15em 0.35em;
+  border-radius: 3px;
+  color: #555;
+}
+
+/* === Footer metadata (table from trailing | in md) === */
+main > table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+}
+
+main > table td {
   border: none;
-  border-top: 1px solid #e1e4e8;
-  margin: 2rem 0;
+  padding: 0;
+  padding-right: 1rem;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: #aaa;
 }
 
-/* === Footer === */
-footer {
-  margin-top: 3rem;
-  padding-top: 1rem;
-  border-top: 1px solid #e1e4e8;
+/* === Italic text (timestamps etc) === */
+main > p > em,
+main > em {
   font-size: 0.8rem;
-  color: #959da5;
+  color: #aaa;
+  font-style: italic;
 }
 
-/* === Italic timestamp === */
-em {
-  font-size: 0.85rem;
-  color: #6a737d;
+/* === Site Footer === */
+footer {
+  margin-top: 4rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid #e8e8e8;
+  font-size: 0.72rem;
+  color: #bbb;
+  letter-spacing: 0.03em;
 }
 
-/* === Index page === */
+footer a {
+  color: #bbb;
+}
+
+footer a:hover {
+  color: #888;
+}
+
+/* === Index Page === */
 .digest-list {
   list-style: none;
   padding: 0;
 }
 
 .digest-list li {
-  padding: 0.5rem 0;
-  border-bottom: 1px solid #f0f0f0;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid #efefef;
+  font-size: 0.95rem;
 }
 
 .digest-list li:last-child {
   border-bottom: none;
+}
+
+.digest-list a {
+  color: #333;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.digest-list a:hover {
+  color: #000;
+}
+
+/* === Responsive === */
+@media (max-width: 600px) {
+  body {
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  blockquote table td {
+    display: block;
+    padding-right: 0;
+  }
 }

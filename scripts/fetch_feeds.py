@@ -95,7 +95,7 @@ def fetch_page_title(url: str, timeout: float = 5.0) -> str:
     """URLから<title>タグだけを軽量取得する。先頭4KBのみ読み込む。"""
     try:
         with httpx.stream("GET", url, follow_redirects=True, timeout=timeout,
-                          headers={"User-Agent": "rss-digest/1.0"}) as resp:
+                          headers={"User-Agent": "daily-brief/1.0"}) as resp:
             chunk = b""
             for data in resp.iter_bytes():
                 chunk += data
@@ -158,7 +158,7 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--feeds", help="フィード情報のJSON文字列")
     group.add_argument("--config", help="config.yamlのパス（feeds/interestsを含む）")
-    parser.add_argument("--state-file", default=os.path.expanduser("~/.rss-digests/state.json"),
+    parser.add_argument("--state-file", default=os.path.expanduser("~/.daily-brief/state.json"),
                         help="状態ファイルのパス")
     parser.add_argument("--hours", type=int, default=24, help="遡る時間数")
     args = parser.parse_args()

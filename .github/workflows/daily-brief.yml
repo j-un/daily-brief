@@ -44,7 +44,7 @@ jobs:
         run: |
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
           claude \
-            --model claude-haiku-4-5-20251001 \
+            --model claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --max-budget-usd 1.00 \
             -p "RSSフィードチェックして。出力先は docs/brief-${DATE}.md、state-fileは ./state.json、--hours ${{ inputs.hours || '24' }} を使うこと。日付は ${DATE} を使うこと"

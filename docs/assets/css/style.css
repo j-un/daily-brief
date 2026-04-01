@@ -211,28 +211,28 @@ footer a:hover {
 }
 
 /* === Index Page === */
-.digest-list {
+.brief-list {
   list-style: none;
   padding: 0;
 }
 
-.digest-list li {
+.brief-list li {
   padding: 0.65rem 0;
   border-bottom: 1px solid #efefef;
   font-size: 0.95rem;
 }
 
-.digest-list li:last-child {
+.brief-list li:last-child {
   border-bottom: none;
 }
 
-.digest-list a {
+.brief-list a {
   color: #333;
   text-decoration: none;
   letter-spacing: 0.02em;
 }
 
-.digest-list a:hover {
+.brief-list a:hover {
   color: #000;
 }
 

@@ -41,6 +41,10 @@ feeds:
     url: "https://dain.cocolog-nifty.com/myblog/atom.xml"
     category: "book"
 
+  - name: "BRUTUS - 読む"
+    url: "https://brutus.jp/category/read/feed/"
+    category: "book"
+
   # --- music ---
   - name: "ICON"
     url: "https://icon.jp/feed"
@@ -54,10 +58,15 @@ feeds:
     url: "https://feeds.feedburner.com/createdigitalmusic"
     category: "music"
 
+  - name: "MusicTech"
+    url: "https://musictech.com/feed"
+    category: "music"
+
+  - name: "Bandcamp Daily"
+    url: "https://daily.bandcamp.com/feed"
+    category: "music"
+
   # --- Culture ---
-  - name: "CINRA.NET"
-    url: "https://www.cinra.net/feed"
-    category: "Culture"
 
   # --- blog ---
   - name: "r7kamura.com"
@@ -82,7 +91,7 @@ interests:
     - "テック企業の戦略・資金調達"
     - "AWSの新サービス・アップデート"
     - "クラウドインフラとアーキテクチャ設計"
-    - "デスク周り・物理的な作業環境"
+    - "デスク周り・物理的な作業環境・ガジェット"
     - "電子音楽・シンセサイザー・音楽制作ツール"
     - "読書・書評・知的好奇心を刺激する本"
 

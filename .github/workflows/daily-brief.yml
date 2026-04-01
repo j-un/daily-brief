@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 jobs:
-  generate-digest:
+  generate-brief:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -35,7 +35,7 @@ jobs:
       - name: Install Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
-      - name: Generate digest
+      - name: Generate brief
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
@@ -55,6 +55,6 @@ jobs:
             echo "変更なし、コミットをスキップ"
           else
             DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-            git commit -m "digest: ${DATE} の日次ダイジェストを生成"
+            git commit -m "brief: ${DATE} の日次ブリーフィングを生成"
             git push
           fi

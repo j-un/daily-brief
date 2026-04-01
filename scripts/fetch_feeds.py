@@ -123,7 +123,7 @@ def fetch_feed(url: str) -> list[dict]:
         content = getattr(item, "content", None)
         content_value = content[0].value if content else ""
         summary = clean_html(getattr(item, "summary", getattr(item, "description", content_value)))
-        title = clean_html(getattr(item, "title", ""))
+        title = clean_html(getattr(item, "title", "")).replace("|", "\\|")
 
         if is_bluesky and summary:
             link, summary = extract_external_url(summary, link)

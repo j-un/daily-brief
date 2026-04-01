@@ -1,9 +1,6 @@
 name: Daily Brief
 
 on:
-  schedule:
-    # 毎日 AM 6:00 JST (= UTC 21:00 前日)
-    - cron: '0 21 * * *'
   workflow_dispatch:
     inputs:
       hours:
@@ -47,7 +44,7 @@ jobs:
             --model claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --max-budget-usd 1.00 \
-            -p "RSSフィードチェックして。出力先は docs/brief-${DATE}.md、state-fileは ./state.json、--hours ${{ inputs.hours || '24' }} を使うこと。日付は ${DATE} を使うこと"
+            -p "RSSフィードチェックして。出力先は docs/brief-${DATE}.md、--hours ${{ inputs.hours || '24' }} を使うこと。日付は ${DATE} を使うこと"
 
       - name: Commit and push
         run: |

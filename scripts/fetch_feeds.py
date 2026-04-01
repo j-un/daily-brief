@@ -120,7 +120,9 @@ def fetch_feed(url: str) -> list[dict]:
     entries = []
     for item in feed.entries:
         link = getattr(item, "link", "")
-        summary = clean_html(getattr(item, "summary", getattr(item, "description", "")))
+        content = getattr(item, "content", None)
+        content_value = content[0].value if content else ""
+        summary = clean_html(getattr(item, "summary", getattr(item, "description", content_value)))
         title = clean_html(getattr(item, "title", ""))
 
         if is_bluesky and summary:

@@ -1,6 +1,6 @@
 # Daily Brief
 
-RSSフィードから日次ダイジェストを生成する [Claude Code](https://docs.anthropic.com/en/docs/claude-code) スキル。
+RSSフィードからブリーフィングを生成する [Claude Code](https://docs.anthropic.com/en/docs/claude-code) スキル。
 
 ## スキル定義
 

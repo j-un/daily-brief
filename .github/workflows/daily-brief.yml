@@ -40,11 +40,16 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          HOURS="${{ inputs.hours || '24' }}"
+          PROMPT="RSSフィードチェックして。日付は ${DATE} を使うこと。git commitはしないこと。"
+          if [ "$HOURS" -ne 24 ]; then
+            PROMPT="RSSフィードチェックして。日付は ${DATE}、--hours ${HOURS} を使うこと。git commitはしないこと。"
+          fi
           claude \
             --model claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --max-budget-usd 1.00 \
-            -p "RSSフィードチェックして。出力先は docs/brief-${DATE}.md、--hours ${{ inputs.hours || '24' }} を使うこと。日付は ${DATE} を使うこと"
+            -p "$PROMPT"
 
       - name: Commit and push
         run: |

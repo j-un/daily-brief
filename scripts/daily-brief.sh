@@ -8,7 +8,18 @@ REPO_URL="git@github.com:j-un/daily-brief.git"
 
 # --- 1. Clone origin/main into temp directory ---
 TMPDIR=$(mktemp -d)
-trap 'rm -rf "$TMPDIR"' EXIT
+PUSH_SUCCESS=false
+cleanup() {
+  if [ "$PUSH_SUCCESS" = true ]; then
+    rm -rf "$TMPDIR"
+  else
+    echo ""
+    echo "Generated files are preserved in: $TMPDIR"
+    echo "  $TMPDIR/$OUTPUT_FILE"
+    echo "  $TMPDIR/state.json"
+  fi
+}
+trap cleanup EXIT
 
 echo "Cloning origin/main into $TMPDIR ..."
 git clone --depth 1 "$REPO_URL" "$TMPDIR"
@@ -58,9 +69,11 @@ if [[ "$REPLY" =~ ^[Yy]$ ]]; then
   else
     git commit -m "brief: ${DATE} daily brief"
     git push origin main
+    PUSH_SUCCESS=true
     echo ""
     echo "Pushed to main."
   fi
 else
   echo "Cancelled."
+  PUSH_SUCCESS=true
 fi

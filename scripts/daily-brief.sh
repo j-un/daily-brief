@@ -1,7 +1,14 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-HOURS="${1:-24}"
+RESET_STATE=false
+HOURS=24
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --reset-state) RESET_STATE=true; shift ;;
+    *) HOURS="$1"; shift ;;
+  esac
+done
 DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
 OUTPUT_FILE="docs/brief-${DATE}.md"
 REPO_URL="git@github.com:j-un/daily-brief.git"
@@ -24,6 +31,11 @@ trap cleanup EXIT
 echo "Cloning origin/main into $TMPDIR ..."
 git clone --depth 1 "$REPO_URL" "$TMPDIR"
 cd "$TMPDIR"
+
+if [ "$RESET_STATE" = true ]; then
+  echo "Resetting state.json ..."
+  rm -f state.json
+fi
 
 # --- 2. Fetch feeds (deterministic) ---
 echo ""

@@ -25,28 +25,47 @@ echo "Cloning origin/main into $TMPDIR ..."
 git clone --depth 1 "$REPO_URL" "$TMPDIR"
 cd "$TMPDIR"
 
-# --- 2. Generate brief ---
+# --- 2. Fetch feeds (deterministic) ---
 echo ""
-echo "=== Generating daily brief (--hours $HOURS) ==="
-echo ""
+echo "=== Fetching feeds (--hours $HOURS) ==="
+ARTICLES_JSON="$TMPDIR/articles.json"
+uv run scripts/fetch_feeds.py \
+  --config config.yaml \
+  --hours "$HOURS" \
+  > "$ARTICLES_JSON"
 
-PROMPT="RSSフィードチェックして。日付は ${DATE} を使うこと。git commitはしないこと。"
-if [ "$HOURS" -ne 24 ]; then
-  PROMPT="RSSフィードチェックして。日付は ${DATE}、--hours ${HOURS} を使うこと。git commitはしないこと。"
+ARTICLE_COUNT=$(python3 -c "import json,sys; print(json.load(sys.stdin)['total_count'])" < "$ARTICLES_JSON")
+echo "Fetched $ARTICLE_COUNT articles."
+
+if [ "$ARTICLE_COUNT" -eq 0 ]; then
+  echo "新着記事はありませんでした。"
+  PUSH_SUCCESS=true
+  exit 0
 fi
+
+# --- 3. Generate brief with Claude (LLM) ---
+echo ""
+echo "=== Generating daily brief ==="
+echo ""
 
 claude \
   --model claude-sonnet-4-6 \
   --dangerously-skip-permissions \
   --max-budget-usd 1.00 \
-  -p "$PROMPT"
+  -p "$(cat <<EOF
+${ARTICLES_JSON} の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。
+日付は ${DATE} です。git commitはしないこと。
+EOF
+)"
 
-# --- 3. Show result and confirm ---
+# --- 4. Postprocess (deterministic) ---
 if [ ! -f "$OUTPUT_FILE" ]; then
   echo ""
   echo "ERROR: File was not generated: $OUTPUT_FILE"
   exit 1
 fi
+
+uv run scripts/postprocess_brief.py "$OUTPUT_FILE"
 
 echo ""
 echo "============================================"
@@ -57,7 +76,7 @@ cat "$OUTPUT_FILE"
 echo ""
 echo "============================================"
 
-# --- 4. Commit and push ---
+# --- 5. Commit and push ---
 echo ""
 read -r -p "Push to main? [y/N] " REPLY
 echo ""

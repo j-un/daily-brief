@@ -35,21 +35,41 @@ jobs:
       - name: Install Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
+      - name: Fetch feeds
+        run: |
+          HOURS="${{ inputs.hours || '24' }}"
+          uv run scripts/fetch_feeds.py \
+            --config config.yaml \
+            --hours "$HOURS" \
+            > articles.json
+          ARTICLE_COUNT=$(python3 -c "import json,sys; print(json.load(sys.stdin)['total_count'])" < articles.json)
+          echo "Fetched $ARTICLE_COUNT articles."
+          echo "ARTICLE_COUNT=$ARTICLE_COUNT" >> "$GITHUB_ENV"
+
       - name: Generate brief
+        if: env.ARTICLE_COUNT != '0'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-          HOURS="${{ inputs.hours || '24' }}"
-          PROMPT="RSSフィードチェックして。日付は ${DATE} を使うこと。git commitはしないこと。"
-          if [ "$HOURS" -ne 24 ]; then
-            PROMPT="RSSフィードチェックして。日付は ${DATE}、--hours ${HOURS} を使うこと。git commitはしないこと。"
-          fi
+          OUTPUT_FILE="docs/brief-${DATE}.md"
           claude \
             --model claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --max-budget-usd 1.00 \
-            -p "$PROMPT"
+            -p "articles.json の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。日付は ${DATE} です。git commitはしないこと。"
+
+      - name: Postprocess
+        if: env.ARTICLE_COUNT != '0'
+        run: |
+          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          OUTPUT_FILE="docs/brief-${DATE}.md"
+          if [ -f "$OUTPUT_FILE" ]; then
+            uv run scripts/postprocess_brief.py "$OUTPUT_FILE"
+          else
+            echo "ERROR: File was not generated: $OUTPUT_FILE"
+            exit 1
+          fi
 
       - name: Commit and push
         run: |

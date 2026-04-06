@@ -12,6 +12,11 @@ feeds:
     url: "https://hnrss.org/newest?points=100"
     category: "main"
 
+  # 100ptだと日次実行だと取りきれないので、100ptでこぼれたが話題だった記事を拾うため
+  - name: "Hacker News (150pts+)"
+    url: "https://hnrss.org/newest?points=150"
+    category: "main"
+
   - name: "techno-edge"
     url: "https://www.techno-edge.net/rss20/index.rdf"
     category: "main"

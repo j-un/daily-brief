@@ -60,15 +60,39 @@ echo ""
 echo "=== Generating daily brief ==="
 echo ""
 
+CLAUDE_RESULT_JSON="$TMPDIR/claude_result.json"
 claude \
   --model claude-sonnet-4-6 \
   --dangerously-skip-permissions \
   --max-budget-usd 1.00 \
+  --output-format json \
   -p "$(cat <<EOF
 ${ARTICLES_JSON} の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。
 日付は ${DATE} です。git commitはしないこと。
 EOF
-)"
+)" > "$CLAUDE_RESULT_JSON"
+
+echo ""
+echo "=== Claude token usage ==="
+python3 - "$CLAUDE_RESULT_JSON" <<'PY'
+import json, sys
+with open(sys.argv[1]) as f:
+    data = json.load(f)
+usage = data.get("usage", {})
+cost = data.get("total_cost_usd", data.get("cost_usd"))
+input_tokens = usage.get("input_tokens", 0)
+cache_creation = usage.get("cache_creation_input_tokens", 0)
+cache_read = usage.get("cache_read_input_tokens", 0)
+output_tokens = usage.get("output_tokens", 0)
+total = input_tokens + cache_creation + cache_read + output_tokens
+print(f"  input_tokens:         {input_tokens:>10,}")
+print(f"  cache_creation:       {cache_creation:>10,}")
+print(f"  cache_read:           {cache_read:>10,}")
+print(f"  output_tokens:        {output_tokens:>10,}")
+print(f"  total:                {total:>10,}")
+if cost is not None:
+    print(f"  cost_usd:             ${cost:.4f}")
+PY
 
 # --- 4. Postprocess (deterministic) ---
 if [ ! -f "$OUTPUT_FILE" ]; then

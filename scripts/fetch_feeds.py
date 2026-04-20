@@ -4,14 +4,13 @@
 # dependencies = ["feedparser", "pyyaml", "httpx"]
 # ///
 """
-RSSフィード取得 & 差分抽出スクリプト
+RSSフィード取得 & プール追記スクリプト
 
-uv run で実行すると依存ライブラリ(feedparser)が自動解決される。
-フィードごとに新着記事を抽出し、JSON形式で標準出力に返す。
+pool.json に新着記事を追記し、指定時間内の記事のみを保持する。
+state.json で既読IDを管理して重複取得を防ぐ。
 """
 
 import argparse
-import glob
 import json
 import os
 import sys
@@ -22,8 +21,6 @@ import re
 import feedparser
 import httpx
 import yaml
-
-MARKDOWN_LINK_PATTERN = re.compile(r"\[.*?\]\((https?://[^)]+)\)")
 
 
 def clean_html(text: str) -> str:
@@ -81,7 +78,6 @@ def extract_external_url(description: str, post_link: str) -> tuple[str, str]:
     """descriptionから外部URLを抽出し、(external_url, remaining_text) を返す。
     外部URLがなければ (post_link, description) を返す。"""
     urls = URL_PATTERN.findall(description)
-    # bsky.app 自身のURLを除外して最初の外部URLを取得
     external_urls = [u for u in urls if "bsky.app/" not in u]
     if external_urls:
         external_url = external_urls[0]
@@ -143,61 +139,62 @@ def fetch_feed(url: str) -> list[dict]:
     return entries
 
 
-def load_state(state_file: str) -> dict:
-    """状態ファイルを読み込む"""
-    if os.path.exists(state_file):
-        with open(state_file, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"last_run": None, "seen_ids": {}}
-
-
-def save_state(state_file: str, state: dict):
-    """状態ファイルを保存する"""
-    os.makedirs(os.path.dirname(state_file) or ".", exist_ok=True)
-    with open(state_file, "w", encoding="utf-8") as f:
-        json.dump(state, f, ensure_ascii=False, indent=2)
-
-
-def collect_past_urls(briefs_dir: str, days: int = 7) -> set[str]:
-    """過去N日分のダイジェストMarkdownからURLを収集する"""
-    urls: set[str] = set()
-    today = datetime.now(timezone.utc).date()
-    for i in range(1, days + 1):
-        date = today - timedelta(days=i)
-        path = os.path.join(briefs_dir, f"brief-{date.isoformat()}.md")
-        if not os.path.exists(path):
-            continue
+def load_json(path: str, default):
+    """JSONファイルを読み込む。存在しなければ default を返す"""
+    if os.path.exists(path):
         with open(path, "r", encoding="utf-8") as f:
-            for match in MARKDOWN_LINK_PATTERN.finditer(f.read()):
-                urls.add(match.group(1))
-    return urls
+            return json.load(f)
+    return default
+
+
+def save_json(path: str, data):
+    """JSONファイルを保存する"""
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+
+def trim_pool(articles: list[dict], hours: int) -> list[dict]:
+    """published 優先、無ければ fetched_at で直近N時間以内の記事のみを残す"""
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    result = []
+    for a in articles:
+        ts = parse_date(a.get("published") or "") or parse_date(a.get("fetched_at") or "")
+        if ts and ts >= cutoff:
+            result.append(a)
+    return result
 
 
 def main():
-    parser = argparse.ArgumentParser(description="RSSフィード取得 & 差分抽出")
+    parser = argparse.ArgumentParser(description="RSSフィード取得 & プール追記")
     parser.add_argument("--config", required=True, help="config.yamlのパス")
     parser.add_argument("--state-file", default="./state.json",
                         help="状態ファイルのパス（デフォルト: ./state.json）")
-    parser.add_argument("--briefs-dir", default="./docs",
-                        help="過去ダイジェストの格納ディレクトリ（デフォルト: ./docs）")
-    parser.add_argument("--hours", type=int, default=24, help="遡る時間数")
+    parser.add_argument("--pool-file", default="./pool.json",
+                        help="プールファイルのパス（デフォルト: ./pool.json）")
+    parser.add_argument("--retention-hours", type=int, default=28,
+                        help="プール内の記事保持時間（デフォルト: 28）")
     args = parser.parse_args()
 
     with open(args.config, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
     feeds = config["feeds"]
     exclude_keywords = [k.lower() for k in config.get("interests", {}).get("exclude_keywords", [])]
-    state = load_state(args.state_file)
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=args.hours)
 
-    # last_runがあればそちらを優先（より新しい方を使用）
+    state = load_json(args.state_file, {"last_run": None, "seen_ids": {}})
+    pool = load_json(args.pool_file, {"articles": []})
+
+    seen_ids = state.get("seen_ids", {})
+    existing_ids = {a["entry_id"] for a in pool.get("articles", []) if "entry_id" in a}
+
+    fetched_at = datetime.now(timezone.utc).isoformat()
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=args.retention_hours)
     if state.get("last_run"):
         last_run = parse_date(state["last_run"])
         if last_run and last_run > cutoff:
             cutoff = last_run
 
-    seen_ids = state.get("seen_ids", {})
-    all_new_articles = []
+    added_articles = []
     errors = []
 
     for feed_info in feeds:
@@ -218,25 +215,26 @@ def main():
         for entry in entries:
             entry_id = make_entry_id(entry)
 
-            # 既読チェック
             if entry_id in feed_seen:
                 continue
 
-            # 日付チェック
             pub_date = parse_date(entry.get("published", ""))
             if pub_date and pub_date < cutoff:
                 continue
 
-            # 概要を150文字に切り詰め（トークン節約）
             summary = entry.get("summary", "")
             if len(summary) > 150:
                 summary = summary[:150] + "..."
 
-            # 除外キーワードチェック
             if exclude_keywords:
                 text_lower = f"{entry.get('title', '')} {summary}".lower()
                 if any(kw in text_lower for kw in exclude_keywords):
                     continue
+
+            # pool 内重複チェック（複数フィードで同じ記事の取りこぼし時など）
+            if entry_id in existing_ids:
+                new_seen.append(entry_id)
+                continue
 
             article = {
                 "entry_id": entry_id,
@@ -244,43 +242,40 @@ def main():
                 "link": entry.get("link", ""),
                 "summary": summary,
                 "published": entry.get("published", ""),
+                "fetched_at": fetched_at,
                 "feed_name": name,
                 "category": category,
             }
-            all_new_articles.append(article)
+            added_articles.append(article)
+            existing_ids.add(entry_id)
             new_seen.append(entry_id)
 
-        # 直近500件のみ保持
         seen_ids[url] = new_seen[-500:]
 
-    # 状態を保存（登録フィードに存在しないURLの残骸を除去）
+    # プール更新 + 保持期間トリム
+    pool_articles = pool.get("articles", []) + added_articles
+    pool_articles = trim_pool(pool_articles, args.retention_hours)
+
+    # state 更新（登録フィードに存在しないURLの残骸を除去）
     active_urls = {f["url"] for f in feeds}
-    state["last_run"] = datetime.now(timezone.utc).isoformat()
+    state["last_run"] = fetched_at
     state["seen_ids"] = {url: ids for url, ids in seen_ids.items() if url in active_urls}
-    save_state(args.state_file, state)
 
-    # URL重複排除（複数フィード間の重複 + 過去7日分のダイジェストに掲載済みのURL）
-    past_urls = collect_past_urls(args.briefs_dir)
-    seen_urls: set[str] = set(past_urls)
-    unique_articles: list[dict] = []
-    for article in all_new_articles:
-        url = article.get("link", "")
-        if url and url in seen_urls:
-            continue
-        if url:
-            seen_urls.add(url)
-        unique_articles.append(article)
-    all_new_articles = unique_articles
+    # pool 更新
+    pool["articles"] = pool_articles
+    pool["updated_at"] = fetched_at
 
-    result = {
-        "articles": all_new_articles,
-        "total_count": len(all_new_articles),
+    save_json(args.state_file, state)
+    save_json(args.pool_file, pool)
+
+    summary = {
+        "added": len(added_articles),
+        "pool_total": len(pool_articles),
         "errors": errors,
-        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "fetched_at": fetched_at,
     }
-    print(json.dumps(result, ensure_ascii=False, separators=(",", ":")))
+    print(json.dumps(summary, ensure_ascii=False, separators=(",", ":")))
 
 
 if __name__ == "__main__":
     main()
-

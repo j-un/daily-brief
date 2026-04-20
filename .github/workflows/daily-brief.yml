@@ -1,14 +1,11 @@
 name: Daily Brief
 
+# 当面は手動実行のみ。ローカルの scripts/daily-brief.sh が主運用。
 on:
   workflow_dispatch:
     inputs:
-      hours:
-        description: '再取得する時間数（デフォルト: 24）'
-        required: false
-        default: '24'
-      reset_state:
-        description: 'state.json をリセットして再取得する'
+      force:
+        description: '同日のブリーフが既に存在しても再生成する'
         type: boolean
         required: false
         default: false
@@ -16,54 +13,113 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-brief
+  cancel-in-progress: false
+
 jobs:
   generate-brief:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
-      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
-
-      - uses: astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a # v4
+      - name: Checkout main
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
-          version: "latest"
+          ref: main
+          path: main
 
-      - name: Reset state (manual re-run)
-        if: inputs.reset_state == true
-        run: rm -f state.json
-
-      - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
-
-      - name: Fetch feeds
-        run: |
-          HOURS="${{ inputs.hours || '24' }}"
-          uv run scripts/fetch_feeds.py \
-            --config config.yaml \
-            --hours "$HOURS" \
-            > articles.json
-          ARTICLE_COUNT=$(python3 -c "import json,sys; print(json.load(sys.stdin)['total_count'])" < articles.json)
-          echo "Fetched $ARTICLE_COUNT articles."
-          echo "ARTICLE_COUNT=$ARTICLE_COUNT" >> "$GITHUB_ENV"
-
-      - name: Generate brief
-        if: env.ARTICLE_COUNT != '0'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Compute date and check existing brief
         run: |
           DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
           OUTPUT_FILE="docs/brief-${DATE}.md"
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
+          echo "OUTPUT_FILE=$OUTPUT_FILE" >> "$GITHUB_ENV"
+          if [ -f "main/$OUTPUT_FILE" ] && [ "${{ inputs.force }}" != "true" ]; then
+            echo "Brief already exists: $OUTPUT_FILE. Use force=true to regenerate."
+            echo "SKIP=true" >> "$GITHUB_ENV"
+          else
+            echo "SKIP=false" >> "$GITHUB_ENV"
+          fi
+
+      - name: Checkout data branch
+        if: env.SKIP != 'true'
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          ref: data
+          path: data
+
+      - uses: astral-sh/setup-uv@38f3f104447c67c051c4a08e39b64a148898af3a # v4
+        if: env.SKIP != 'true'
+        with:
+          version: "latest"
+
+      - name: Install Claude Code
+        if: env.SKIP != 'true'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Refresh pool (fetch feeds)
+        if: env.SKIP != 'true'
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          uv run ../main/scripts/fetch_feeds.py \
+            --config ../main/config.yaml \
+            --state-file ./state.json \
+            --pool-file ./pool.json \
+            --retention-hours 28
+          git add pool.json state.json
+          if git diff --cached --quiet; then
+            echo "data: No new articles from fetch."
+            exit 0
+          fi
+          git commit -m "chore(data): fetch feeds for brief ${DATE}"
+          for attempt in 1 2 3; do
+            if git push origin data; then
+              exit 0
+            fi
+            echo "push failed (attempt $attempt/3), rebasing..."
+            git pull --rebase origin data
+          done
+          echo "ERROR: Failed to push fetch result after 3 attempts"
+          exit 1
+
+      - name: Prepare articles from pool
+        if: env.SKIP != 'true'
+        working-directory: main
+        run: |
+          uv run scripts/prepare_brief.py \
+            --pool-file ../data/pool.json \
+            --briefs-dir ./docs \
+            --output ../articles.json
+          ARTICLE_COUNT=$(python3 -c "import json,sys; print(json.load(sys.stdin)['total_count'])" < ../articles.json)
+          echo "Articles to process: $ARTICLE_COUNT"
+          echo "ARTICLE_COUNT=$ARTICLE_COUNT" >> "$GITHUB_ENV"
+          python3 -c "
+          import json
+          with open('../articles.json') as f:
+              data = json.load(f)
+          for a in data['articles']:
+              print(a['entry_id'])
+          " > ../consumed_ids.txt
+
+      - name: Generate brief
+        if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
+        working-directory: main
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
           claude \
             --model claude-sonnet-4-6 \
             --dangerously-skip-permissions \
             --max-budget-usd 1.00 \
-            -p "articles.json の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。日付は ${DATE} です。git commitはしないこと。"
+            -p "${GITHUB_WORKSPACE}/articles.json の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。日付は ${DATE} です。git commitはしないこと。"
 
       - name: Postprocess
-        if: env.ARTICLE_COUNT != '0'
+        if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
+        working-directory: main
         run: |
-          DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-          OUTPUT_FILE="docs/brief-${DATE}.md"
           if [ -f "$OUTPUT_FILE" ]; then
             uv run scripts/postprocess_brief.py "$OUTPUT_FILE"
           else
@@ -71,15 +127,42 @@ jobs:
             exit 1
           fi
 
-      - name: Commit and push
+      - name: Commit and push main
+        if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
+        working-directory: main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add state.json docs/
+          git add docs/
           if git diff --cached --quiet; then
-            echo "変更なし、コミットをスキップ"
+            echo "main: No changes."
           else
-            DATE=$(TZ=Asia/Tokyo date +%Y-%m-%d)
-            git commit -m "brief: ${DATE} の日次ブリーフィングを生成"
-            git push
+            git commit -m "brief: ${DATE} daily brief"
+            git push origin main
           fi
+
+      - name: Consume pool in data branch
+        if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch origin data
+            git reset --hard origin/data
+            uv run ../main/scripts/consume_pool.py \
+              --pool-file ./pool.json \
+              --consumed-ids-file ../consumed_ids.txt
+            git add pool.json
+            if git diff --cached --quiet; then
+              echo "data: No articles to consume."
+              exit 0
+            fi
+            git commit -m "chore(data): consume pool for brief ${DATE}"
+            if git push origin data; then
+              exit 0
+            fi
+            echo "push failed (attempt $attempt/3), retrying..."
+          done
+          echo "ERROR: Failed to push data after 3 attempts"
+          exit 1

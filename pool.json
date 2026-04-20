@@ -1,1 +1,1175 @@
-{"articles":[]}
+{
+  "articles": [
+    {
+      "entry_id": "db3f35c4aab62d2ac3afb35ab80e706d",
+      "title": "［エンジニアのための］データ分析基盤入門＜実践編＞ 主要プロダクトに共通する理論×技術クラウド＆オンプレ対応 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15499-8",
+      "summary": "2026年4月20日発売",
+      "published": "19 Apr 2026 16:11 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41aec56807327317cc7f145fe9d2ed97",
+      "title": "",
+      "link": "https://phyphox.org/",
+      "summary": "スマートフォンを物理センサーかのように扱い、データをエクスポートできるアプリ。Android/iOSのどちらも対応。",
+      "published": "19 Apr 2026 16:07 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e5d4fa277dbf50aaded2cf4e95e6d83",
+      "title": "Gemma 4をローカルで動かす ── PLE・量子化・TCO計算まで踏み込む実践ガイド #AI - Qiita",
+      "link": "https://qiita.com/nogataka/items/35c432ec2d48065addfc",
+      "summary": "コーディング支援には26B MoE。試してみるか。",
+      "published": "19 Apr 2026 15:59 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18aa7ca09ee860104c170c73e5d30bc5",
+      "title": "",
+      "link": "https://qiita.com/nogataka/items/d6776506848d08815be9",
+      "summary": "mesh-llmだけでなく同様ツールのPetals, exoとの比較表あり。期待したい。",
+      "published": "19 Apr 2026 15:57 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca022c30fd15aa17e328f7b4dfcadaf2",
+      "title": "",
+      "link": "https://softantenna.com/blog/linux-ai-assisted-code/",
+      "summary": "AI支援コードは `Assisted-by: AGENT_NAME:MODEL_VERSION [TOOl1] [TOOL2]` を明記と。これはLinux kernel以外にも適用してもいいかもね。",
+      "published": "19 Apr 2026 15:53 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c65f82bde937158fb88cac48d729592",
+      "title": "",
+      "link": "https://github.com/Arthur-Ficial/apfel",
+      "summary": "Apple Intelligenceが内蔵するlanguage modelに対してプロンプトを投げることができるCLIツール。brew install apfel",
+      "published": "19 Apr 2026 15:47 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd4469df7045f3b44e748917f6eb2b46",
+      "title": "",
+      "link": "https://asnokaze.hatenablog.com/entry/2026/04/13/003218",
+      "summary": "ははー。Sub-Variant毎に固定長なのかと思いきや、Lengthをつけて本当に可変長にするのね。衝突耐性向上やアプリケーション固有のデータを埋め込めると。なるほど。",
+      "published": "19 Apr 2026 14:28 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "833f74652fb57789315199095b0d2017",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/aifoundry_localmaclinux.html",
+      "summary": "クロスプラットフォーム対応をMicrosoftがリリースする時代なんだな。「対応するプログラミング言語はJavaScript、C#、Python、Rust」もうちょっとアレもコレもサポートしていただけると助かります。",
+      "published": "19 Apr 2026 13:50 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19b13c3d8f07d6b0186a098c8a7e9c62",
+      "title": "",
+      "link": "https://zenn.dev/catatsuy/articles/43b5cf583fac76",
+      "summary": "「画像サイズ」を最初ファイルサイズと勘違いしたけど、よく読んだらwidth/heightのサイズでした。",
+      "published": "19 Apr 2026 13:32 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dff6544bf326fa9f4db77f56c88514d",
+      "title": "",
+      "link": "https://github.com/idursun/jjui",
+      "summary": "Jujutsu(jj)のTUIクライアントツール。Go実装。WinGet/Scoop/Homebrew/Nixなど各種パッケージが用意されてる。もちろんgo installでもインストールできる。",
+      "published": "19 Apr 2026 13:20 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7b010ac823f4cb70e3096ee7a4d1402",
+      "title": "",
+      "link": "https://github.com/retlehs/quien",
+      "summary": "使いやすさを謳うドメイン調査用ツール。WHOISはRDAPをまずチェックする実装になっていると。Go実装",
+      "published": "19 Apr 2026 13:14 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93ad1f74b80a854f342a486a67c2ef67",
+      "title": "",
+      "link": "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html",
+      "summary": "そういえばVarnish Cacheのオープンソース版はVinyl Cacheに名称変更されたんだったな。今後はVinyl Cacheでお願いします。",
+      "published": "19 Apr 2026 13:12 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "965bf4b2f52b1892af9764a6763d7d32",
+      "title": "",
+      "link": "https://github.com/PwnKit-Labs/foxguard",
+      "summary": "Linterぐらい高速に動作するプログラミング言語を対象としたセキュリティスキャンツール。他のスキャンツールが10〜30秒以上かかるところ、このツールは0.03秒でスキャン可。早いは正義だ。pre-commitやCIにも最適と。",
+      "published": "19 Apr 2026 13:03 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "506e79dfcc15de0e6a15e1b6162d7c15",
+      "title": "BPStudy#224〜要件定義の精度を高めるための「型」と生成AIの活用 - connpass",
+      "link": "https://bpstudy.connpass.com/event/390478/",
+      "summary": "オンライン開催",
+      "published": "19 Apr 2026 12:59 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e8a79b728b8a6bff544ced5b28859f7",
+      "title": "",
+      "link": "https://songmu.jp/riji/entry/2026-04-11-ai-agent-inside-the-fence.html",
+      "summary": "OS組み込みのサンドボックス環境を使うと。なるほど。こういう環境分離はkeychain/Secure Enclave/TPM/1Passwordなどとの連携が難しくて機微情報どうやって渡すんや問題が悩ましい。",
+      "published": "19 Apr 2026 12:58 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "565274f50b76abeb50b397fea6e184e0",
+      "title": "",
+      "link": "https://gigazine.net/news/20260411-lemonade/",
+      "summary": "「AMDのGPU・NPUで効果的」な理由書いてあったわ。「Lemonadeを開発したのはAMDで、AMD製のハードウェア向けに徹底的にテスト・最適化が行われている」なるほどですね。",
+      "published": "19 Apr 2026 12:53 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a805ba941153f169bea3b9420eba4298",
+      "title": "",
+      "link": "https://github.com/andrew-waters/orchard",
+      "summary": "AppleネイティブのLinuxコンテナー管理用CLIツールであるApple ContainerのGUIアプリ。brew install orchard",
+      "published": "19 Apr 2026 12:50 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a0fa2a3305b5f10c110b79df7d9ec04",
+      "title": "",
+      "link": "https://charcuterie.elastiq.ch/",
+      "summary": "入力した文字に形が似た文字をUnicodeから探してくれるサイト。すごい。クリックするとさらに辿れる。日本語もok。上部のsearchで文字指定ができるが、IMEと相性が悪いようなのでコピペするのが良さそう。",
+      "published": "19 Apr 2026 12:44 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35d73e34a801e34e126800cb2510a03e",
+      "title": "",
+      "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "summary": "アプリ単位でネットワーク通信を確認/制御できるmacOS向けアプリLittle SnitchのLinux移植版だ。BTP(BPF Type Format)をサポートするkernelが必要な模様。",
+      "published": "19 Apr 2026 12:38 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "042c73804c1fc4b03144b7c9eec4daff",
+      "title": "",
+      "link": "https://github.com/onesuper/tui-use",
+      "summary": "BrowserUseのTUI版。TUIなアプリケーションをAIエージェントから操作。gdbのようなインタラクティブな操作もAIエージェントで実施できる。わいわい。",
+      "published": "19 Apr 2026 12:33 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a36c88e4f5e93274d83ea245c5bb221",
+      "title": "",
+      "link": "https://github.com/matt-virgo/baremail",
+      "summary": "ミニマリストのためのターミナルで動作するGmailクライアント。",
+      "published": "19 Apr 2026 12:27 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f88f2d7216ffc5df5299c570cd8ec89d",
+      "title": "",
+      "link": "https://github.com/MDA2AV/gcannon",
+      "summary": "io_uringを駆使するHTTP負荷テストツール。HTTP/1.1とWebSocketに対応。io_uringによってどの程度性能が良くなっているか気になるな。",
+      "published": "19 Apr 2026 12:17 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73e83ea4af0813c8211d5bdb0ffc3c42",
+      "title": "",
+      "link": "https://github.com/Sidenai/sidex",
+      "summary": "TauriベースでVisual Studio Codeを再構築。サイズが大幅に縮小されてメモリ消費も削減されたと。",
+      "published": "19 Apr 2026 12:03 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27f5ca6606a6e1a4c87ff50e381f0d7c",
+      "title": "新しくプロジェクトに入った人がリポジトリの現状を素早く把握するためのGitコマンド5選 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260410-git-command-before-reading-code/",
+      "summary": "普通に有用。",
+      "published": "19 Apr 2026 10:51 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "667a413e4a7a40ea9c9d1b89170a8e74",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/amazon-s3-files-pricing-visual-guide/",
+      "summary": "安価になるが色々な制約が発生するので使う場合はきちんと検証した上で。1つ気になっているのはS3 Filesのメタ情報はS3バケットに保存するとの記載をみたので、S3に直接PUT/DELETEすると壊れるんじゃないかという懸念がある",
+      "published": "19 Apr 2026 10:44 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "547969274b90c646d006b26e26194d6e",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/claude-code-trying-out-drawio-skill-for-aws-architecture/",
+      "summary": "提示されてるSKILL.mdをありがたく使わせてもらおう。わいわい",
+      "published": "19 Apr 2026 10:40 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b8d23a50668c459d0c1d4b497692e71",
+      "title": "",
+      "link": "https://www.themaestri.app/en",
+      "summary": "ターミナルをキャンバス上に複数並べて連携したりメモをつけたりできるアプリか。複数ターミナルを行ったり来たりするなら良さそうなアプローチだしVRとの相性も良さそう。",
+      "published": "19 Apr 2026 10:31 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55d5691e0fe5078d0782b3be561800f7",
+      "title": "",
+      "link": "https://zenn.dev/structnote/articles/3694beed7ab6a9",
+      "summary": "「いちばん危ないのは\"承認があるから安全\"と思い込むこと」「AI運用では、賢い推論よりも止め方と戻し方もサービス提供を継続させるために必要」わかりみ。",
+      "published": "19 Apr 2026 10:27 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "058cdad67f9024733a4b79691973b5f7",
+      "title": "ログ理解が変わると、開発の質が変わる ─ ─今あらためて押さえたい基礎と実践 - connpass",
+      "link": "https://findy.connpass.com/event/390043/",
+      "summary": "オンライン開催",
+      "published": "19 Apr 2026 10:18 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "435e0256a6a82eda041c0fb47ccb207d",
+      "title": "[コドモン x MIXI] 積み重なった課題とどう向き合うか — 長期運用のSREの実践 - connpass",
+      "link": "https://mixi.connpass.com/event/389250/",
+      "summary": "現地 / オンライン",
+      "published": "19 Apr 2026 10:16 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "70b505ae1f4f8efdc80dc2d4903af6bf",
+      "title": "",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/you-might-not-need-dedicated-architecture-for-ai",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIのための特別なアーキテクチャはいらない ― 0→1開発で実践した設計原則とガードレール",
+      "published": "20 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0579a048082b4e5c9522da0c94c4c323",
+      "title": "",
+      "link": "https://tech.smarthr.jp/entry/2026/04/13/094613",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 \"Customer Observability\" の対象となりうるものは何かを考えてみる",
+      "published": "20 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1fc39e8ecde827f7ddd86c73aed18aa",
+      "title": "",
+      "link": "https://tech.repro.io/entry/2026/04/13/postmortem-culture",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【実践】Repro のポストモーテム運用【テンプレート付き】",
+      "published": "20 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f4a322b186f1a1b27903f5016a785c5",
+      "title": "",
+      "link": "https://gihyo.jp/article/2026/04/cf-cli-local-explorer",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare、プラットフォーム全体をCLIで操作可能に ―エージェントの挙動をローカルから把握できるLocal Explorerも登場 | gihyo.jp",
+      "published": "20 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37bdd9582a0e26609421c04ebb96f3c2",
+      "title": "",
+      "link": "https://gihyo.jp/article/2026/04/how-to-start-platform-engineering",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プラットフォームエンジニアリングの導入ステップと成功のポイント | gihyo.jp",
+      "published": "20 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0b2646aa7b813ac45f39478a9eef8fc",
+      "title": "",
+      "link": "https://engineering.dena.com/blog/2026/04/lacp-network-failure/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 末端スイッチの設定ミスから拠点全体の通信障害が起きてしまった話 [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "published": "20 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0a828cda3359b1f4da39cf2342f10f7",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/aws_app_runner430amazon_rds_custom_for_oracle1aws.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS App Runnerが4月30日で新規受付停止、メンテナンスモードへ。Amazon RDS Custom for Oracleは1年後に終了など、AWSが複数のサービス終了計画発表",
+      "published": "20 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "29a4fc824ba948c2008b16f01c7d4f88",
+      "title": "",
+      "link": "https://hackerslab.aktsk.jp/2026/04/13/191553",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 YJIT・pitchforkのreforkingを導入し、パフォーマンスが3割向上しました",
+      "published": "20 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2689445ea59741a0310d03b7a1a1a55",
+      "title": "",
+      "link": "https://levtech.jp/media/detail_843/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 中学校での議論紛糾をまとめた次女らの提案。「意見を通したい時に持ち点を消費する」仕組み",
+      "published": "20 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a7def86fe0eb4677b4221e61d1f3240",
+      "title": "",
+      "link": "https://mochott.site/holybea.blue/3mjf62ohfoc2c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AT Protocol サービスをどう流行らせるか…もとい、Bluesky臭をどうやって消すか",
+      "published": "20 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "530241c007097ae033816b115f577652",
+      "title": "",
+      "link": "https://tagomoris.hatenablog.com/entry/2026/04/13/095426",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 さくらインターネット入社から1年半が経ってクラウドサービスのプロダクト責任者になった",
+      "published": "20 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f0672f776cc2a7da48f6af9adacd0a3",
+      "title": "",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/63348/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2026年度 新卒研修「サイバーエージェントのデータベース活用事例とパフォーマンス調査入門」 | CyberAgent Developers Blog",
+      "published": "20 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47941901cd633a8776d3d0fc2b1ab4cc",
+      "title": "",
+      "link": "https://blog.cybozu.io/entry/2026/04/13/113000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 仕様ですか？不具合ですか？ — 未来のチームを救うために「Why」を残す",
+      "published": "20 Apr 2026 01:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f394f16ca56147d279fe805fa98febea",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/bunheadless_brwoser_automation.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Bun、コマンドラインからヘッドレスブラウザの操作を行える新機能「Headless Browser Automation」搭載",
+      "published": "19 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e52089e39c4257182df89852a937b81",
+      "title": "",
+      "link": "https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Linuxカーネルで「AIが生成したコードのすべての行、およびそれに起因するバグやセキュリティ上の欠陥の法的責任」を提出した人間がしっかりと負うことに",
+      "published": "19 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acbf030c4265fac9932976fa665bec6a",
+      "title": "",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2101090.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Macを49.7日連続稼働させるとネットワークに接続できなくなるバグ見つかる。ユーザーへの影響は？",
+      "published": "19 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffda1d64c14f3158c514123409da5dfe",
+      "title": "",
+      "link": "https://zenn.dev/microsoft/articles/f439e06d07123e",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Copilot CLI も OTel で観測する",
+      "published": "19 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71d52a02b46bac93eb7d43e930065db5",
+      "title": "",
+      "link": "https://aws.amazon.com/jp/blogs/news/launching-s3-files-making-s3-buckets-accessible-as-file-systems/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 S3 Files の提供開始 – S3 バケットがファイルシステムとしてアクセス可能に | Amazon Web Services",
+      "published": "19 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35b57749def92304f476a5e114c5614a",
+      "title": "",
+      "link": "https://azukiazusa.dev/blog/claude-advisor-tool",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude の Advisor tool を活用して性能とコストのバランスを最適化する",
+      "published": "19 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0b32623f80e0a2cb0a0f5fd95b1ead7",
+      "title": "",
+      "link": "https://www.datacenterdynamics.com/en/news/hyperscale-operators-now-account-for-nearly-half-of-all-data-center-capacity-worldwide/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Hyperscale operators now account for nearly half of all data center capacity worldwide",
+      "published": "19 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d01d65af492c2b854fcf498a0d5353b6",
+      "title": "",
+      "link": "https://findy-code.io/media/articles/my-output-story-koba789",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「難しいのに役に立たない、それが面白い」KOBA789さん ｜私がアウトプットを続ける理由 - Findy Media",
+      "published": "19 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c80622b5894be669fb0c6535fbbeb534",
+      "title": "",
+      "link": "https://creators.bengo4.com/entry/2026/04/08/080000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ヘルプデスクに「AI マネージャー」を ─ CRE × Agent Skills で俯瞰から傾向分析まで",
+      "published": "19 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9830a2bcb4a940cd5e3bfd1ff14fb9a2",
+      "title": "",
+      "link": "https://knowledge.sakura.ad.jp/50167/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 即席チームでJANOG57 NOCを立ち上げる。GitHubバーンアップチャートと、管理用ネットワークアクセスが隠した盲点",
+      "published": "19 Apr 2026 01:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36fb874285e334df11293cfbb55321ee",
+      "title": "",
+      "link": "https://tech.bm-sms.co.jp/entry/2026/04/09/110000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 社内向け書籍レビューサイトを作ったがうまくいかなかった",
+      "published": "18 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdca22eb1bafeb898f4ae6df7655beed",
+      "title": "GitHub's Fake Star Economy",
+      "link": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "summary": "Article URL: https://awesomeagents.ai/news/github-fake-stars-investigation/ Comments URL: https://news.ycombinator.com/item?id=47831621 Points: 215 # ...",
+      "published": "Mon, 20 Apr 2026 08:26:52 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cad73c1e57f4e7a170933978eea190f7",
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "link": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+      "summary": "Article URL: https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/ Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Mon, 20 Apr 2026 07:49:48 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d459d8a492ba2636897a6c746d77b15c",
+      "title": "The insider trading suspicions looming over Trump's presidency",
+      "link": "https://www.bbc.com/news/articles/cge0grppe3po",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cge0grppe3po Comments URL: https://news.ycombinator.com/item?id=47829486 Points: 256 # Comments: 130",
+      "published": "Mon, 20 Apr 2026 01:50:35 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d02512e06852f6d8b16a9ec3b02579f4",
+      "title": "Claude Token Counter, now with model comparisons",
+      "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/20/claude-token-counts/ Comments URL: https://news.ycombinator.com/item?id=47829178 Points: 132 # Comm...",
+      "published": "Mon, 20 Apr 2026 00:56:40 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "499747d71253709b881a9a86d02c3aad",
+      "title": "Show HN: Run TRELLIS.2 Image-to-3D generation natively on Apple Silicon",
+      "link": "https://github.com/shivampkumar/trellis-mac",
+      "summary": "I ported Microsoft's TRELLIS.2 (4B parameter image-to-3D model) to run on Apple Silicon via PyTorch MPS. The original requires CUDA with flash_attn, n...",
+      "published": "Mon, 20 Apr 2026 00:07:16 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37229ce5aeee69b28991dc934232399f",
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "link": "https://mxmap.ch/",
+      "summary": "Related ongoing thread: Swiss authorities want to reduce dependency on Microsoft - https://news.ycombinator.com/item?id=47827383 Comments URL: https:/...",
+      "published": "Sun, 19 Apr 2026 22:55:47 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0733adfb90e04579c4cb12860233a147",
+      "title": "Ex-CEO, ex-CFO of iLearningEngines charged with fraud",
+      "link": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+      "summary": "Article URL: https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/ Comments URL: https://news.ycom...",
+      "published": "Sun, 19 Apr 2026 22:30:19 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e639964d06b7c9eae7c0f2ce4f827c25",
+      "title": "Swiss authorities want to reduce dependency on Microsoft",
+      "link": "https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532",
+      "summary": "Article URL: https://www.swissinfo.ch/eng/swiss-ai/swiss-authorities-want-to-reduce-dependency-on-microsoft/91280532 Comments URL: https://news.ycombi...",
+      "published": "Sun, 19 Apr 2026 20:25:29 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7c645ec440d9c1fea21988b82fe8235",
+      "title": "Stop trying to engineer your way out of listening to people",
+      "link": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
+      "summary": "Article URL: https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sun, 19 Apr 2026 20:09:09 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7c3ad97748584ee6644b6faf11e238f",
+      "title": "Scientific datasets are riddled with copy-paste errors",
+      "link": "https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/",
+      "summary": "Article URL: https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sun, 19 Apr 2026 19:18:57 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c083d433e4a1fc5593a2aa0dd8826ad",
+      "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+      "link": "https://www.vincentgregoire.com/faceoff/",
+      "summary": "Faceoff is a TUI app written in Python to follow live NHL games and browse standings and stats. I got the inspiration from Playball, a similar TUI app...",
+      "published": "Sun, 19 Apr 2026 17:44:44 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66efe5fa125426e8fd2a724db1732661",
+      "title": "The Bromine Chokepoint",
+      "link": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "summary": "Article URL: https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chi...",
+      "published": "Sun, 19 Apr 2026 17:44:03 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd4bf545e963d0ce4c0517a46ff3f5ed",
+      "title": "PM Carney declares U.S. ties now a 'weakness' in address to Canadians",
+      "link": "https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/",
+      "summary": "Article URL: https://www.ctvnews.ca/politics/article/pm-carney-declares-us-ties-now-a-weakness-in-address-to-canadians/ Comments URL: https://news.yco...",
+      "published": "Sun, 19 Apr 2026 16:21:31 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50ceb5a21697143a1bf18aaba648e4db",
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "link": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "summary": "Article URL: https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/ Comments URL...",
+      "published": "Sun, 19 Apr 2026 15:48:40 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e162cea0b1397dfa53d7b27b241b5542",
+      "title": "Vercel says internal systems hit in breach",
+      "link": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "summary": "Article URL: https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/ Comments URL: https://news.ycombinator.com/item?id=47824976 Po...",
+      "published": "Sun, 19 Apr 2026 15:23:39 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e978b589538010268c165a875a296d7a",
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "link": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "summary": "Article URL: https://twitter.com/weezerOSINT/status/2045849358462222720 Comments URL: https://news.ycombinator.com/item?id=47824945 Points: 377 # Comm...",
+      "published": "Sun, 19 Apr 2026 15:20:01 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ad0f114be8b2c22925d9a642e6c9ccf",
+      "title": "Notes from the SF peptide scene",
+      "link": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+      "summary": "Article URL: https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene Comments URL: https://news.ycombinator.com/item?id=47824681 Points: 131 # C...",
+      "published": "Sun, 19 Apr 2026 14:43:07 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c4260de18fbc2db6d10b5f3bcb45d5c",
+      "title": "When moving fast, talking is the first thing to break",
+      "link": "https://daverupert.com/2026/04/more-talk-less-grok/",
+      "summary": "Article URL: https://daverupert.com/2026/04/more-talk-less-grok/ Comments URL: https://news.ycombinator.com/item?id=47824611 Points: 112 # Comments: 5...",
+      "published": "Sun, 19 Apr 2026 14:34:38 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31daa99e829c7034d988bc46f4730b25",
+      "title": "Vercel April 2026 security incident",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "summary": "https://vercel.com/kb/bulletin/vercel-april-2026-security-in... Comments URL: https://news.ycombinator.com/item?id=47824463 Points: 769 # Comments: 44...",
+      "published": "Sun, 19 Apr 2026 14:14:38 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "713319256b4301891debb8667b953212",
+      "title": "The creative software industry has declared war on Adobe",
+      "link": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+      "summary": "Article URL: https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Sun, 19 Apr 2026 14:05:49 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67139b9746cf13b6d192d96d827a84e1",
+      "title": "「povo認定中古スマホ」提供開始、最大48項目検査・30日保証付き 保証サービスのアシュラントが販売",
+      "link": "https://www.techno-edge.net/article/2026/04/20/5004.html",
+      "summary": "Assurant JapanとKDDIが連携し、2026年4月20日から「povo 認定中古スマホ」の提供を開始。最大48項目の機能検査やバッテリー保証、30日間の無償保証を備えた品質管理済みの中古端末を、A・B・Cの3ランクで専用サイトにて販売する。",
+      "published": "Mon, 20 Apr 2026 13:31:17 +0900",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "1403afce98096a87d648be85f58d75ea",
+      "title": "『黄泉のツガイ』『とんがり帽子のアトリエ』『淡島百景』ほか注目作多数 REGZAのアニメ伝道師に訊く今期おすすめ作品 2026年春(片岡秀夫)",
+      "link": "https://www.techno-edge.net/article/2026/04/20/5003.html",
+      "summary": "レグザのアニメ伝道師、片岡秀夫氏による「今期おすすめアニメ」ガイドをお届けします。",
+      "published": "Mon, 20 Apr 2026 11:28:38 +0900",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0cda8b53a3103c3609e8d3d12a05e90",
+      "title": "[資料公開 & 開催報告] 初学者向けセミナー「これから始める AWS のコンテナサービス活用」を開催しました",
+      "link": "https://aws.amazon.com/jp/blogs/news/getting-started-with-aws-container-services-202604/",
+      "summary": "2025年4月14日（火）にコンテナサービスの基礎的な内容を扱うウェビナー「これから始める AWS のコンテナサービス活用」を開催しました。本セミナーでは、なぜコンテナが必要なのか、AWS コンテナサービスのラインナップや使い分けといった基礎的な内容から、生成 AI を活用したコンテナ環境の構築・運...",
+      "published": "Mon, 20 Apr 2026 08:34:58 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "4483269eea7db889eb3320472019455c",
+      "title": "週刊AWS – 2026/4/13週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260413/",
+      "summary": "AWS Interconnect - last mile および multicloud の一般提供開始, Amazon Redshift が Top-K クエリのパフォーマンス最適化を導入, Amazon OpenSearch Serverless が派生ソースによるストレージ最適化をサポート, A...",
+      "published": "Mon, 20 Apr 2026 08:32:11 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e399799a1b83f8b532f7d03315954db",
+      "title": "ボトルネックからブレークスルーへ：Dutchie のデータベース移行の軌跡",
+      "link": "https://aws.amazon.com/jp/blogs/news/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/",
+      "summary": "この投稿では、Dutchie が 2025 年の 4/20 週に向けて、ミッションクリティカルなワークロードを Amazon RDS for SQL Server に移行する際の課題をいかに成功裏に乗り越えたのかを探ります。",
+      "published": "Mon, 20 Apr 2026 07:43:17 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a732e33bc93d04cdecf2622a5f96caa7",
+      "title": "Amazon RDS for SQL Server における追加ストレージボリュームによるストレージの改善",
+      "link": "https://aws.amazon.com/jp/blogs/news/improving-storage-with-additional-storage-volumes-in-amazon-rds-for-sql-server/",
+      "summary": "この記事では、Amazon RDS for SQL Server の追加ストレージボリューム機能を使用して、これらの一般的な課題に対処する方法と「追加ストレージボリュームの64 TiB を超える容量の拡張 」「動的な一時ストレージの管理 」「カスタマイズされた IOPS 設定によるパフォーマンスの向...",
+      "published": "Mon, 20 Apr 2026 05:21:32 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "84744220993782817ea904a924bd2ed4",
+      "title": "Amazon Bedrock での Anthropic の Claude Opus 4.7 モデルのご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-anthropics-claude-opus-4-7-model-in-amazon-bedrock/",
+      "summary": "2026 年 4 月 16 日、Amazon Bedrock で Claude Opus 4.7 を発表いたし […]",
+      "published": "Mon, 20 Apr 2026 01:24:14 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "78e1bb23f6b48798e81603c02f82af2c",
+      "title": "Opus 4.7 が Kiro で利用可能になりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/opus-4-7/",
+      "summary": "Anthropic の最新モデル Claude Opus 4.7 が Kiro IDE および CLI に順次展開されました。Opus 4.6 の直接アップグレード版として、複雑で長時間にわたるタスクでのコーディング性能が向上し、複数ファイル・ツールにまたがるマルチステップ実装や自己検証機能を備えて...",
+      "published": "Mon, 20 Apr 2026 00:38:05 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "89c1a985c2f1269623963379c335e7ad",
+      "title": "富士通株式会社様との AI-DLC Unicorn Gym で見えた開発の未来",
+      "link": "https://aws.amazon.com/jp/blogs/news/fujitsu-aidlc/",
+      "summary": "はじめに AWS では、AI 駆動開発ライフサイクル (AI-DLC) という新しい方法論を提唱しています。A […]",
+      "published": "Mon, 20 Apr 2026 00:16:56 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "984c9e6486c1893ad1152b9d1f969bb8",
+      "title": "Kiro CLI をプログラムから実行する：ヘッドレスモードの紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-introducing-headless-mode/",
+      "summary": "Kiro CLI を使ったことがある方なら、kiro-cli login を実行するとブラウザが開いて認証が走る、というお決まりの流れはご存じかと思います。手元で作業しているときはこれで十分ですが、ブラウザが開けない環境ではそうもいきません。CI/CD パイプラインや cron ジョブ、コンテナビル...",
+      "published": "Mon, 20 Apr 2026 00:14:05 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b788a4a362cc20f77957d6befe10201e",
+      "title": "週刊生成AI with AWS – 2026/4/13週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260413/",
+      "summary": "週刊生成AI with AWS, HANNOVER MESSE 2026 開催で産業 AI の熱が高まる2026年4月13日週号 – ブラザー工業様とパナソニック エレクトリックワークス様の AI-DLC 実践事例、スギ薬局様の Amazon Bedrock を活用した現場変革事例、そして Spec...",
+      "published": "Sun, 19 Apr 2026 21:23:02 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2199d7eafbdd79bdffc34f49dcaabde",
+      "title": "おじさん「AIはこう言ってるよ(長文ﾍﾟﾀｯ)」👈️社会問題化していると話題に",
+      "link": "https://anond.hatelabo.jp/20260420121623",
+      "summary": "AIペタペタおじさんはAIの出力を大して読まず理解もせずただ貼ってくる害悪なおじさんのこと 自分で咀嚼して理解していないので的外れなことも多い それを読まされる我々は無駄なリソースを消費させられる これが社会問題化していると噂されていると人伝に聞いた人がいるらしい",
+      "published": "2026-04-20T03:16:28Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aea0a7c10d5d5e000ed983a75c900850",
+      "title": "ChatGPTの画像生成AIが「Nano Banana」超え？ 漫画や動画風カットが実用レベルに (1/4)",
+      "link": "https://ascii.jp/elem/000/004/396/4396252/",
+      "summary": "OpenAIの画像生成モデル「GPT-Image-2（仮称）」がChatGPT一部ユーザーに対して開放され始めています。4月19日時点で、公式アナウンスはされていないものの、PlusやProといった月額課金ユーザーから、動いているという報告がSNS上で続いています。OpenAIは新型モデルを調整目的...",
+      "published": "2026-04-20T00:19:47Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "81f793f7548884e25d31a084aad96a54",
+      "title": "「高性能なWi-Fiルーターは電波が強い」は本当か？ 法律と技術から読み解くWi-Fiの現実【イニシャルB】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2101648.html",
+      "summary": "",
+      "published": "2026-04-19T21:20:32Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dc80ab729c479887741336f40c8477f",
+      "title": "完全無収入、家を失い生活保護を「申請」しようと役所に行ったら「相談」だけで返された→審査をしないのは違法だがどうすればいい？",
+      "link": "https://togetter.com/li/2687967",
+      "summary": "うさぎ @runru3939_ 私は過去に、完全無収入で家も失い、生活保護を申請しに行ったことがあります。 そのとき窓口で言われたのは「収入がないと受けられません」「家がないと生活保護は出せません」「申請する元気があるなら働いてください」といった言葉でした。 申請をしに行ったはずなのに、「相談」で終...",
+      "published": "2026-04-20T07:19:42Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6879d4d599ead6f32184ece69d5bfe15",
+      "title": "DMM GAMES独自のiOS向けストアアプリが6月以降リリース決定。現在運営中のAndroid向けストアアプリと大きな違いはなし",
+      "link": "https://dengekionline.com/article/202604/72400",
+      "summary": "電撃オンラインゲームPCゲームモバイル・アプリDMM GAMES独自のiOS向けストアアプリが6月以降リリース決定。現在運営中のAndroid向けストアアプリと大きな違いはなしDMM GAMES独自のiOS向けストアアプリが6月以降リリース決定。現在運営中のAndroid向けストアアプリと大きな違い...",
+      "published": "2026-04-20T06:12:04Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d307b613dfa94c8ad7341f3dadb9f40",
+      "title": "ウクライナが前線兵士を2万5000台の地上ロボットに置き換える計画に着手",
+      "link": "https://gigazine.net/news/20260420-ukraine-replace-robot/",
+      "summary": "by President Of Ukraine ウクライナのミハイロ・フェドロフ国防相が、2万5000台のロボットで兵站や避難などの後方支援を実施する予定だと伝えました。将来的に兵站任務の100％をロボットに置き換える予定だとのことです。 Telegram: View @zedigital http...",
+      "published": "2026-04-20T02:08:55Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db96a2cc68bc1bff90d29dda096b2edd",
+      "title": "AI時代にわざわざRuby on Railsを使う理由",
+      "link": "https://zenn.dev/higakijin/articles/730a734b6b9009",
+      "summary": "こんにちは、フリーランスとして働いてるハルクです 最近自分の会社を立ち上げたことで、「AI時代にフィットしたwebフレームワークとは何か」を考えるようになりました。 私はRubyでコンピューターサイエンスの世界に入ってから、最近流行りのTypescript(Next.js, Nuxt.js)、Go、...",
+      "published": "2026-04-19T18:25:22Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "78b6cf011789f55492b9aeee136a4da4",
+      "title": "AIの台頭がインターネットのアーカイブ化を妨げているという話 - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/04/20/185308",
+      "summary": "最初に言っておくと自分は反AIではないし実際この記事を書くにあたってもリサーチにAIを使ったりしているわけですが、とはいえ何事にも良い面悪い面はあるわけで、これはAIがもたらした負の影響についての話です。 Internet Archiveはみなさんご存じでしょうか。有名なのはWayback Mach...",
+      "published": "2026-04-20T10:06:45Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b93d588070270cbedfd5bfc27edf11b2",
+      "title": "Anthropicの新指標 AIの影響を受けにくい「3割の人々」の共通点は？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2604/20/news037.html",
+      "summary": "「Claude」を提供している、AI開発企業のAnthropicがこのほど、大規模言語モデル（LLM）が労働市場に与える影響を測定する新指標を公表した。同指標によって、AIの影響を受けやすい人々の属性が明らかになる一方で、AIによる影響をほとんど受けていない人々が約3割存在することも分かった。 同社...",
+      "published": "2026-04-20T04:14:55Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef561124796717d6a63bc193dc73adb3",
+      "title": "Claude Opus 4.7でトークン消費量がどれだけ増えたか可視化するサイトが登場、同じ入力で4.6の2倍消費する実例も",
+      "link": "https://gigazine.net/news/20260420-claude-opus-4-7-token-cost/",
+      "summary": "2026年4月16日に登場した「Claude Opus 4.7」ではトークナイザーにも変更が施されており、前世代モデルと比べてトークン消費量が増えたという報告が相次いでいます。そんなClaude Opus 4.7とClaude Opus 4.6のトークン消費量を比較できるウェブサイトが「Tokeno...",
+      "published": "2026-04-20T07:45:35Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4619180a8b9fd2923c8f34f5d3001162",
+      "title": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動（アスキー） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/c465be8fe8c52668a13fb7cc6c5e789e15c511b5",
+      "summary": "大学のDXやAI活用の話を聞く機会も増えてきた。 だが、その規模の大きさはまちまち。全学的な基盤整備として大規模に投資を進める大学もあれば、特定の学部や研究室単位で実証的に導入を進めるケースも少なくない。 前者は教育・研究・事務のあらゆる領域を横断的に変革するポテンシャルを持つ一方で、組織の合意形成...",
+      "published": "2026-04-19T12:21:01Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fae0304f54c324ace2203bc908b766e",
+      "title": "中国でAIエージェント急拡大 「24時間無休の秘書」活用 政府は情報漏えいリスク警戒",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/20/news056.html",
+      "summary": "【北京＝三塚聖平】中国で、PC上などでさまざまな作業を自律的にこなすAIを活用したソフトウェア「AIエージェント」の利用が今年に入り急拡大している。人間が関わらずに電子メールの自動返信といった作業を行うことができ、「24時間無休の個人秘書」などともてはやされている。中国IT大手のみならず地方政府も活...",
+      "published": "2026-04-20T02:07:25Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6c1d8cb1c35e4ecb75c87dfd6460528",
+      "title": "Let’s Encryptの短期証明書はかなり厳しいのでARI対応クライアントを使った方がよい",
+      "link": "https://zenn.dev/catatsuy/articles/2ac24bccb4b7d1",
+      "summary": "Let’s Encryptの短期証明書は、90日証明書の延長くらいの感覚で入るとかなり厳しいです。 サブドメインを含む複数の証明書を短い間隔で発行・更新する構成では、証明書発行まわりのレート制限に引っかかりやすくなります。短期証明書では更新回数が増えるので、その影響がかなり表面化しやすくなります。 ...",
+      "published": "2026-04-19T08:20:18Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "62897f19a789de05a13e65c92f987dab",
+      "title": "GoogleのAI検索に新聞協会声明 「記事収集」拒める仕組みを - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA163EI0W6A410C2000000/",
+      "summary": "日本新聞協会は20日、米グーグルが提供する生成AI（人工知能）を使った検索サービスの改善を求める声明を公表した。ニュースサイトの記事利用について、加盟社が自らの意思で拒否できる仕組みを日本で導入するよう求めた。AI検索サービスではインターネット上の引用元から情報を探し出し、組み合わせて回答する「検索...",
+      "published": "2026-04-20T07:11:11Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7e67806456f1e0a43c8dee68d7c6b98",
+      "title": "NHKは4K放送を継続へ。「4K放送と配信を充実させ、視聴者の期待に応えていきたい」",
+      "link": "https://av.watch.impress.co.jp/docs/news/2102853.html",
+      "summary": "",
+      "published": "2026-04-20T06:43:11Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f74046f7cd85e8cdb09845e630072d8",
+      "title": "Auth0から内製認証基盤へ移行を決めた背景と移行方法 - enechain Tech Blog",
+      "link": "https://techblog.enechain.com/entry/identity-platform-migration",
+      "summary": "はじめに なぜ内製化を選んだのか プラットフォーマーとしての説明責任 制約の解消とコスト削減 認証基盤を内製で持つリスク 移行の設計 並行稼働による段階的移行 使用するデータソースの統一（SSoT） 認証基盤の内製化、並行稼働をしてみて 認証基盤全体がコントローラブルになった 内製化で得られた価値 ...",
+      "published": "2026-04-20T02:43:59Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82d9309e82df8ba2256773bb5d3ecffc",
+      "title": "Windowsのゲーム専用モード「Xbox モード」が間もなく正式展開、十字キーとボタンで快適に操作／一般的なPCでも利用可能に、とうとうRelease Previewチャネルに上陸",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2102818.html",
+      "summary": "",
+      "published": "2026-04-20T06:07:00Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0c7acd205507c57a8434554c4488689",
+      "title": "「Claude Design」が登場、AIに頼んでUIやプレゼン資料をデザイン可能",
+      "link": "https://gigazine.net/news/20260420-claude-design/",
+      "summary": "AI開発企業のAnthropicがデザインツール「Claude Design」を2026年4月17日に発表しました。Claude Designを使うことで、デザインに詳しくない人でもAIと協力して見栄えのよいUIやプレゼン資料を作ることができます。 Introducing Claude Design...",
+      "published": "2026-04-20T05:16:50Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "beae613cc75598526aa3e0c053288f79",
+      "title": "1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
+      "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
+      "summary": "1. はじめに こんにちは！はるぷです！サプライチェーン攻撃の対策してますか？？ 最近、サプライチェーン攻撃の話題が出るたび、「うちのサービスは本当に大丈夫だろうか」と社内がざわつくことはありませんか。依存ライブラリの棚卸しやSBOM整備に取り組んでいても、入り口が多すぎて全体を把握するのは至難の業...",
+      "published": "2026-04-19T23:20:11Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39556a74f688244c7ca2f738e051fdc4",
+      "title": "ロボットが北京ハーフマラソンで人間の記録を破る",
+      "link": "https://gigazine.net/news/20260420-humanoid-robot-sprints-victory-beijing-half-marathon/",
+      "summary": "2026年4月19日、中国の北京で人型ロボットによるハーフマラソン大会が開催されました。この大会で優勝したロボットは、人間の世界記録を上回る速さでハーフマラソンを完走しています。 Humanoid robot sprints to victory in Beijing, beating human ...",
+      "published": "2026-04-20T02:36:14Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b089089a7679de5803fdfaef841a67f",
+      "title": "登壇支援の「その先」は四つある、エンジニアの頑張りを一度で終わらせない技術広報の仕事 - 941::blog",
+      "link": "https://blog.kushii.net/archives/2026/04/20/105639",
+      "summary": "技術広報にとって、エンジニアの登壇支援は日常業務のひとつです。 スライドのレビュー 関係各所への確認 イベント運営との登壇関連のやりとり（必要に応じて） 登壇当日のサポート 登壇の様子の写真撮影 スライドのアップロード SNSへの投稿 CfP（Call for Paper／セッション公募）の段階から...",
+      "published": "2026-04-20T02:24:30Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "867dccbaafdb72ed630d7e4b14f733cc",
+      "title": "[スタパ齋藤の「スタパトロニクスMobile」] 電源タップから難燃ポーチまで!? スタパ的ちょっと役立つ小物たち!!!",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2102587.html",
+      "summary": "",
+      "published": "2026-04-19T19:37:17Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2931b3306440e6711a9550f9267bc8c",
+      "title": "AI検索でクリック激減……それでも成果を出すオフサイトSEOの新常識と6つの手順（前編） | Moz - SEOとインバウンドマーケティングの実践情報 | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/04/20/52493",
+      "summary": "AI検索の台頭でクリック数が減少したため、これまで以上にオフサイト施策を強化する必要アリまずは、明白な事実から確認しておこう。AI検索の普及にともない、1つの重大な結果が生じている。それは、直接クリック数の減少だ。 Seer Interactiveによる最近の調査で、この変化の規模が浮き彫りになった...",
+      "published": "2026-04-19T23:51:48Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2eb4a7c81871f047b33787ad7b19dc46",
+      "title": "Linuxの新NTFSドライバが「復活」— Torvalds氏承認、4年越しの全面書き直しでWindows互換性向上",
+      "link": "https://techfeed.io/entries/69e3f06874781e8bf4975cb3",
+      "summary": "4月18日、Phoronixが「The \"NTFS Resurrection\" Has Occurred For Linux 7.1」と題した記事を公開した。 Linux 7.1において、Linus Torvalds氏が「NTFSの復活」と表現する新しいNTFSドライバが正式にマージされた。Linu...",
+      "published": "2026-04-19T13:56:23Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "52a8757436f4be726a0b03b58a6d2429",
+      "title": "思い切った慶應義塾 全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動 (1/2)",
+      "link": "https://ascii.jp/elem/000/004/387/4387875/",
+      "summary": "大学のDXやAI活用の話を聞く機会も増えてきた。 だが、その規模の大きさはまちまち。全学的な基盤整備として大規模に投資を進める大学もあれば、特定の学部や研究室単位で実証的に導入を進めるケースも少なくない。 前者は教育・研究・事務のあらゆる領域を横断的に変革するポテンシャルを持つ一方で、組織の合意形成...",
+      "published": "2026-04-19T10:34:38Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "81bfb64247c7b0f04df7bc742b383b82",
+      "title": "インテルの次世代チップ情報がリーク。52コアのCPUが誕生する可能性",
+      "link": "https://www.gizmodo.jp/2026/04/intel_nova-lake_news.html",
+      "summary": "インテルの次世代チップ情報がリーク。52コアのCPUが誕生する可能性2026.04.19 17:00 Kyle Barr - GizmodoUS ［原文］ （ mayumine ） AMDの最強のゲーミングCPU｢Ryzen 7 9850X3D｣は今のところ競合がいなくて無敵モードですが、それが崩れ...",
+      "published": "2026-04-19T15:46:30Z",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "361d8d37c3971cf9c46b9cdede3498d4",
+      "title": "",
+      "link": "https://github.com/ruvnet/RuView",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ruvnet / RuView ⭐ 47,163 (+118) 🗒 Rust π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pos...",
+      "published": "19 Apr 2026 14:16 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9da20606e54ba5eddc4bbba7d7d3a543",
+      "title": "",
+      "link": "https://github.com/paperless-ngx/paperless-ngx",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 paperless-ngx / paperless-ngx ⭐ 38,570 (+382) 🗒 Python A community-supported supercharged document management sys...",
+      "published": "19 Apr 2026 13:16 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b78ae651a933fd23f980f79fd5e2a510",
+      "title": "",
+      "link": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Fincept-Corporation / FinceptTerminal ⭐ 5,195 (+1,169) 🗒 Python FinceptTerminal is a modern finance application of...",
+      "published": "19 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e345e19c34916d40228ef1777c4fab3",
+      "title": "エンジニアリング戦略の作り方",
+      "link": "http://www.oreilly.co.jp/books/9784814401703/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "「うちにはエンジニアリング戦略なんてない」と考えているエンジニアはたくさんいます。しかし実態は「存在しない」のではなく、言語化されていない、共有されていない、あるいは単に機能していないだけかもしれません。その結果、組織は何十人、時には数百人ものエンジニアの時間を、本来避けられたはずの混乱に費やしてい...",
+      "published": "2026-05-22T00:00:00+09:00",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
+    },
+    {
+      "entry_id": "b985020e5bdfba1e839b77c86254277c",
+      "title": "Beatport announces changes to leadership team: “Robb has been a phenomenal leader and mentor”",
+      "link": "https://musictech.com/news/industry/beatport-leadership-team-changes/?utm_source=rss&utm_medium=rss&utm_campaign=beatport-leadership-team-changes",
+      "summary": "CEO Robb McDaniels will step into an Executive Chairman role from July 2026. CFO Matt Gralen will be CEO, and CRO Helen Sartory will be President and ...",
+      "published": "Mon, 20 Apr 2026 12:01:17 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "01929ee6e5e6fd395b0923c981b14606",
+      "title": "Music Producer’s Guild Awards 2026: The winners, the highlights, and the hot topics of the night",
+      "link": "https://musictech.com/news/events/music-producers-guild-awards-2026-the-winners-the-highlights-and-the-hot-topics-of-the-night/?utm_source=rss&utm_medium=rss&utm_campaign=music-producers-guild-awards-2026-the-winners-the-highlights-and-the-hot-topics-of-the-night",
+      "summary": "Zach Nahome takes Producer of the Year, Spike Stent collects the Icon Award, and the conversation turns to opening doors for the next generation of pr...",
+      "published": "Mon, 20 Apr 2026 09:51:22 +0000",
+      "fetched_at": "2026-04-20T12:06:36.202368+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    }
+  ],
+  "updated_at": "2026-04-20T12:06:36.202368+00:00"
+}

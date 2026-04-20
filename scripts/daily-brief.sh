@@ -53,13 +53,14 @@ git clone --depth 1 --branch data "$REPO_URL" "$TMPDIR/data"
 # --- 3.5. Refresh pool.json（直前までのニュースを取り込む）---
 echo ""
 echo "=== Refreshing pool (fetch feeds) ==="
-cd "$TMPDIR/data"
-uv run "$TMPDIR/main/scripts/fetch_feeds.py" \
-  --config "$TMPDIR/main/config.yaml" \
-  --state-file ./state.json \
-  --pool-file ./pool.json \
+cd "$TMPDIR/main"
+uv run scripts/fetch_feeds.py \
+  --config config.yaml \
+  --state-file "$TMPDIR/data/state.json" \
+  --pool-file "$TMPDIR/data/pool.json" \
   --retention-hours 28
 
+cd "$TMPDIR/data"
 git add pool.json state.json
 if git diff --cached --quiet; then
   echo "data: No new articles from fetch."
@@ -194,14 +195,16 @@ fi
 # fetch が並走していてもコンフリクトしないよう、毎回最新を取得して差分適用する
 echo ""
 echo "=== Consuming pool in data branch ==="
-cd "$TMPDIR/data"
 data_done=false
 for attempt in 1 2 3; do
+  cd "$TMPDIR/data"
   git fetch origin data
   git reset --hard origin/data
-  uv run "$TMPDIR/main/scripts/consume_pool.py" \
-    --pool-file ./pool.json \
+  cd "$TMPDIR/main"
+  uv run scripts/consume_pool.py \
+    --pool-file "$TMPDIR/data/pool.json" \
     --consumed-ids-file "$CONSUMED_IDS"
+  cd "$TMPDIR/data"
   git add pool.json
   if git diff --cached --quiet; then
     echo "data: No articles to consume."

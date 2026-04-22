@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d1cb113d6520b941f3517c5d42c2feba",
-      "title": "",
-      "link": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Building a CLI for all of Cloudflare",
-      "published": "21 Apr 2026 03:55 +0000",
-      "fetched_at": "2026-04-21T07:52:46.552282+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2f748641ddda7052ca1c14d84c736373",
       "title": "",
       "link": "https://tech.pepabo.com/2026/04/15/flaky-test-investigation/",
@@ -389,7 +379,197 @@
       "fetched_at": "2026-04-22T07:49:16.071868+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "29402eadb6e14240c48a81338c11e7aa",
+      "title": "",
+      "link": "https://aws.amazon.com/jp/blogs/news/sbi-amazon-eks-auto-mode-casestudy/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 寄稿：SBI ネオバンキングシステムにおける Amazon EKS Auto Mode の導入事例 ― 移行で実現した運用負荷の軽減 | Amazon Web Services",
+      "published": "22 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2108bee178dd9767e9852b2b48401c5e",
+      "title": "",
+      "link": "https://zenn.dev/wisevine/articles/81a96b2f940951",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Web系SREの知らないGovTech・行政インフラの世界（中編）",
+      "published": "22 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d5a72a2b038414ec6800621efbde03f",
+      "title": "",
+      "link": "https://zenn.dev/atamaplus/articles/3be1911a317597",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 アプリケーションエンジニアが自力でインフラを構築・運用できる体制を作るまでの話",
+      "published": "22 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2c1c2e42f3a7612af5ead6011ce6f88",
+      "title": "",
+      "link": "https://zenn.dev/watany/articles/d8b692bbca65a3",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェントの″ハーネス″に関わる混乱と私見",
+      "published": "22 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f3ba9daee7279483e23b9a8c7e93635",
+      "title": "Windows 9x Subsystem for Linux",
+      "link": "https://social.hails.org/@hailey/116446826733136456",
+      "summary": "Article URL: https://social.hails.org/@hailey/116446826733136456 Comments URL: https://news.ycombinator.com/item?id=47861270 Points: 326 # Comments: 7...",
+      "published": "Wed, 22 Apr 2026 09:52:52 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "39d58c61a00afbbeb12c381de0346496",
+      "title": "Irony as Meta staff unhappy about running surveillance software on work PCs",
+      "link": "https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/",
+      "summary": "Article URL: https://www.theregister.com/2026/04/22/meta_employee_surveillance_software/ Comments URL: https://news.ycombinator.com/item?id=47860742 P...",
+      "published": "Wed, 22 Apr 2026 08:33:17 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d33889e7d1de7e7bc0cb3ccb0d65ebd7",
+      "title": "Google DeepMind、MCP対応の新世代リサーチエージェント「Deep Research Max」提供開始 Gemini 3.1 Proベース",
+      "link": "https://www.techno-edge.net/article/2026/04/22/5012.html",
+      "summary": "・Gemini 3.1 Pro搭載の新Deep ResearchエージェントがGemini APIで公開開始、速度重視の標準版と精度重視のMaxの2モデルを提供 ・MCPサポートにより独自データや外部専門データソースとの連携が可能になり、ウェブ検索を超えた自律型リサーチが実現 ・ネイティブチャート・...",
+      "published": "Wed, 22 Apr 2026 21:47:20 +0900",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "08b8ec09f065fbc26416eecf9a302acf",
+      "title": "HTCのAIグラスVIVE Eagleは8万円から 「ジェネリック レイバンメタ」仕様ながらオープンとプライバシー重視で差別化",
+      "link": "https://www.techno-edge.net/article/2026/04/22/5011.html",
+      "summary": "HTC NIPPON株式会社は2026年4月24日、AIグラス「VIVE Eagle」を日本国内で発売します。",
+      "published": "Wed, 22 Apr 2026 20:07:56 +0900",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8ced5a08086ec365978f3f9c2518922",
+      "title": "EngineLab AI: AWSで実現するスタジオとクリエイター向け本番制作AI環境",
+      "link": "https://aws.amazon.com/jp/blogs/news/jp-mne-enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws/",
+      "summary": "AI ツールは制作ワークフローの効率化を約束する一方で、スタジオは難しいジレンマを抱えています。AIツールを利用するためにはセキュリティ、知的財産 (IP) 保護、制作の安定性に関する現実的な懸念を伴うためです。本記事では、そんな制作現場でのトレードオフを解消するソリューションをご紹介します。[…]",
+      "published": "Wed, 22 Apr 2026 09:41:36 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "15814b031256ad85450f2470bc1f2dc2",
+      "title": "話題の「Claude Mythos」、なんて読む？ 「ミトス」か「ミソス」か、はたまた「ミュトス」か",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/22/news129.html",
+      "summary": "米Anthropicが4月7日（現地時間）に発表し、そのセキュリティ性能などから世間をにぎわす次世代大規模言語モデル「Claude Mythos」。日本では「（クロード）ミトス」「ミソス」「ミュトス」などと書かれ、日本政府や大手報道機関でも読みや表記が揺れている。正しい読み方はどれか。 Anthro...",
+      "published": "2026-04-22T09:04:17Z",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6ca228d1d3e661f420d9a1335217fd3",
+      "title": "「Firefox 150」が正式版に ～Anthropic最強モデル「Mythos」で大量の脆弱性を退治／分割ビュー、ローカル翻訳、PDF編集なども強化",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2103516.html",
+      "summary": "",
+      "published": "2026-04-22T08:09:00Z",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3340c862376a7f7e26a9ee77c664e655",
+      "title": "隠密行動中のフリゲート艦、乗組員宛の郵便物に同梱されたトラッカーで位置が特定される【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2103612.html",
+      "summary": "",
+      "published": "2026-04-22T12:03:38Z",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "70d4de67d4cf3154d05ba652f16e9063",
+      "title": "Go 1.24からのTLS、気づかぬうちにPQC(耐量子暗号)で動いてるらしい",
+      "link": "https://zenn.dev/kimifan/articles/pqc-kuwashii",
+      "summary": "はじめに Go 1.24 以降で HTTPS サーバーを動かしているなら、すでに耐量子暗号が効いてるらしい。 何も設定していないのに。 耐量子暗号という響きがかっこよく、このテーマで記事を書こうと思いたち、2024年も4月にタイトルとリンクだけ張っただけで放置してからはや2年。 気を取り直して最新の...",
+      "published": "2026-04-22T11:57:27Z",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb0be7cfe9079791d5bbff6a0f3183d3",
+      "title": "イーロン・マスク氏率いるSpaceX、AIエディタ「Cursor」の買収権を獲得 AIモデル開発で協力も",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news105.html",
+      "summary": "協業では、SpaceX傘下の米xAIが持つスーパーコンピュータ「Colossus」を活用。Anysphereが提供するコーディングエージェント向けAI「Composer」シリーズの次世代モデル開発を進める。SpaceXは今回の取り組みについて「世界で最も有用なモデルを構築できるようになる」とうたって...",
+      "published": "2026-04-22T11:06:18Z",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7634ab012b3dcc8f75dda1f92253964d",
+      "title": "",
+      "link": "https://github.com/vercel-labs/skills",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 vercel-labs / skills ⭐ 15,188 (+317) 🗒 TypeScript The open agent skills tool - npx skills",
+      "published": "22 Apr 2026 13:16 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87f34b8efe1f4858977075e124360a98",
+      "title": "",
+      "link": "https://github.com/langfuse/langfuse",
+      "summary": "📦 langfuse / langfuse ⭐ 25,379 (+67) 🗒 TypeScript 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playgr...",
+      "published": "22 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "031460a6a47206f98821a8e1badd7693",
+      "title": "Electronic music industry grew to $15.1 billion in 2025, with tech house leading the Beatport sales",
+      "link": "https://musictech.com/news/industry/ims-electronic-music-business-report-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ims-electronic-music-business-report-2026",
+      "summary": "Publishing up 11%, recorded music up 9%, and Germany remains the world's biggest electronic music market. The post Electronic music industry grew to $...",
+      "published": "Wed, 22 Apr 2026 13:06:00 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "d56e0268f753e5d2aa959916d4bec494",
+      "title": "Lorenzo Raganzini builds loud, intense techno with as few tracks as possible",
+      "link": "https://musictech.com/features/interviews/lorenzo-raganzini-interview-techno-rebels/?utm_source=rss&utm_medium=rss&utm_campaign=lorenzo-raganzini-interview-techno-rebels",
+      "summary": "The Italian dance music producer and DJ consistently challenges himself to deliver authentic experiences to his audience The post Lorenzo Raganzini bu...",
+      "published": "Wed, 22 Apr 2026 08:00:36 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fd05b8179ca3db3aaa3b79af582f5e75",
+      "title": "Fat Ray & Raphy, “Santa Rosa”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/fat-ray-raphy-santa-rosa-review",
+      "summary": "On his latest LP, Fat Ray hides pearls of knowledge inside thrillingly direct rap songs. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 22 Apr 2026 13:33:17 -0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-22T07:49:16.071868+00:00"
+  "updated_at": "2026-04-22T13:42:46.813558+00:00"
 }

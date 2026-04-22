@@ -2,8 +2,8 @@ name: Fetch Feeds
 
 on:
   schedule:
-    # 6時間ごと（UTC 00/06/12/18 = JST 09/15/21/03）
-    - cron: "0 */6 * * *"
+    # 2時間ごと（UTC 00/02/04/06/08/10/12/14/16/18/20/22 = JST +9h）
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:

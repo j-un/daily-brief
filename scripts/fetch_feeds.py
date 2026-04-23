@@ -155,11 +155,11 @@ def save_json(path: str, data):
 
 
 def trim_pool(articles: list[dict], hours: int) -> list[dict]:
-    """published 優先、無ければ fetched_at で直近N時間以内の記事のみを残す"""
+    """fetched_at（初回取得時刻）基準で直近N時間以内の記事のみを残す"""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
     result = []
     for a in articles:
-        ts = parse_date(a.get("published") or "") or parse_date(a.get("fetched_at") or "")
+        ts = parse_date(a.get("fetched_at") or "")
         if ts and ts >= cutoff:
             result.append(a)
     return result
@@ -188,11 +188,6 @@ def main():
     existing_ids = {a["entry_id"] for a in pool.get("articles", []) if "entry_id" in a}
 
     fetched_at = datetime.now(timezone.utc).isoformat()
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=args.retention_hours)
-    if state.get("last_run"):
-        last_run = parse_date(state["last_run"])
-        if last_run and last_run > cutoff:
-            cutoff = last_run
 
     added_articles = []
     errors = []
@@ -216,10 +211,6 @@ def main():
             entry_id = make_entry_id(entry)
 
             if entry_id in feed_seen:
-                continue
-
-            pub_date = parse_date(entry.get("published", ""))
-            if pub_date and pub_date < cutoff:
                 continue
 
             summary = entry.get("summary", "")

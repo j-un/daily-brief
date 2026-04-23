@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "29402eadb6e14240c48a81338c11e7aa",
-      "title": "",
-      "link": "https://aws.amazon.com/jp/blogs/news/sbi-amazon-eks-auto-mode-casestudy/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 寄稿：SBI ネオバンキングシステムにおける Amazon EKS Auto Mode の導入事例 ― 移行で実現した運用負荷の軽減 | Amazon Web Services",
-      "published": "22 Apr 2026 10:55 +0000",
-      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "3af639b5b285e1df347f7c9ec7e30c21",
       "title": "",
       "link": "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch/",
@@ -1299,7 +1289,147 @@
       "fetched_at": "2026-04-23T17:12:09.489411+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "67eef0dd333bbe37e6c953a0049629e1",
+      "title": "GPT-5.5",
+      "link": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "Article URL: https://openai.com/index/introducing-gpt-5-5/ Comments URL: https://news.ycombinator.com/item?id=47879092 Points: 328 # Comments: 110",
+      "published": "Thu, 23 Apr 2026 18:01:39 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ab8741a98421d57d83ec04b01e9f0c1",
+      "title": "An update on recent Claude Code quality reports",
+      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "Article URL: https://www.anthropic.com/engineering/april-23-postmortem Comments URL: https://news.ycombinator.com/item?id=47878905 Points: 183 # Comme...",
+      "published": "Thu, 23 Apr 2026 17:48:38 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0112a39aaa86630cb7bdc9badec028c9",
+      "title": "Palantir Employees Are Starting to Wonder If They're the Bad Guys",
+      "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+      "summary": "Article URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Thu, 23 Apr 2026 17:30:05 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "833e2a517befaca49553654d08d89974",
+      "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
+      "link": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+      "summary": "Article URL: https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/ Comments URL: https://news.ycom...",
+      "published": "Thu, 23 Apr 2026 17:01:01 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d35ce1e6264b365f30f6ebadd7a55192",
+      "title": "French government agency confirms breach as hacker offers to sell data",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/ Comments URL: https://ne...",
+      "published": "Thu, 23 Apr 2026 15:59:55 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a317eb7dd9af5b8f96d7295b417e4c2",
+      "title": "To Protect and Swerve: NYPD Cop Has 547 Speeding Tickets",
+      "link": "https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force",
+      "summary": "Article URL: https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force Comments URL: htt...",
+      "published": "Thu, 23 Apr 2026 15:08:54 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82ff7e790fcc377b28cacefc2661f659",
+      "title": "Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game",
+      "link": "https://tempest.homemade.systems",
+      "summary": "Article URL: https://tempest.homemade.systems Comments URL: https://news.ycombinator.com/item?id=47871195 Points: 100 # Comments: 34",
+      "published": "Thu, 23 Apr 2026 01:02:32 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a583b6e769e0a04a8fad3a4138e70af",
+      "title": "Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/",
+      "summary": "Amazon Quick now enables you to add co-owners to knowledge bases and data source connections for admin-managed Microsoft SharePoint Online and Google ...",
+      "published": "Thu, 23 Apr 2026 15:59:00 GMT",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7d301966ef9be6ca15c2a83d617c097",
+      "title": "Amazon Quick now supports permission verification for ACL-enabled knowledge bases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/",
+      "summary": "Amazon Quick now provides ACL verification for ACL enabled knowledge bases, enabling administrators to check whether a specific user has access to a s...",
+      "published": "Thu, 23 Apr 2026 14:56:00 GMT",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9289307c7fff5adb4af25a8d084325ba",
+      "title": "Amazon S3 now supports five additional checksum algorithms",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/",
+      "summary": "Amazon S3 now supports five additional checksum algorithms: MD5, XXHash3, XXHash64, XXHash128, and SHA-512, bringing the total to ten. S3 validates an...",
+      "published": "Thu, 23 Apr 2026 13:00:00 GMT",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6146e95e26fe932b3b67be2ad2b5c47",
+      "title": "「AIによく見られる没個性的なデザインパターン」をShow HNへの投稿数が爆増した結果から分析するとこうなる、やはり独創性の欠如が問題",
+      "link": "https://gigazine.net/news/20260423-design-slop/",
+      "summary": "起業家かつソフトウェアエンジニアのエイドリアン・クレブス氏が、エンジニアが集うコミュニティ「Hacker News」の投稿を分析し、AIによるデザインが氾濫しているという結果についてブログにまとめています。 Show HN submissions tripled and now mostly sha...",
+      "published": "2026-04-23T11:14:53Z",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87ce40c53d41a0b05c9353688024f993",
+      "title": "Google Cloud Next 2026での発表内容まとめ 自律型AIエージェントへ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news061.html",
+      "summary": "米Google傘下のGoogle Cloudは4月22日（現地時間）、企業向けの年次イベント「Google Cloud Next 2026」を開催した。本稿では主な発表内容を簡単にまとめた（完全網羅ではない）。 今回のテーマは、AIが単なる受動的なアシスタントから、自律的に思考・行動し、複数のタスク...",
+      "published": "2026-04-23T02:21:44Z",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "acd1f028b71176ba747c607f76ddd78f",
+      "title": "",
+      "link": "https://github.com/chiphuyen/aie-book",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 chiphuyen / aie-book ⭐ 15,029 (+214) 🗒 Jupyter Notebook [WIP] Resources for AI engineers. Also contains supportin...",
+      "published": "23 Apr 2026 18:16 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e0001db8f8344fb436b07cf306b8ba2",
+      "title": "",
+      "link": "https://github.com/Alishahryar1/free-claude-code",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Alishahryar1 / free-claude-code ⭐ 4,041 (+181) 🗒 Python Use claude-code for free in the terminal, VSCode extension or...",
+      "published": "23 Apr 2026 17:16 +0000",
+      "fetched_at": "2026-04-23T18:58:29.769000+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-23T17:12:09.489411+00:00"
+  "updated_at": "2026-04-23T18:58:29.769000+00:00"
 }

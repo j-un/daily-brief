@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f5f9f41735903583630a436aea82f731",
-      "title": "",
-      "link": "https://takoratta.hatenablog.com/entry/2026/04/15/183643",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SoRの復権とSoIの時代の到来",
-      "published": "22 Apr 2026 01:55 +0000",
-      "fetched_at": "2026-04-22T02:39:14.551823+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "29402eadb6e14240c48a81338c11e7aa",
       "title": "",
       "link": "https://aws.amazon.com/jp/blogs/news/sbi-amazon-eks-auto-mode-casestudy/",
@@ -179,7 +169,97 @@
       "fetched_at": "2026-04-23T04:49:41.819433+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "456c5c2ff7a087578443f2421066ac5c",
+      "title": "",
+      "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Artifacts: versioned storage that speaks Git",
+      "published": "23 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "004b2d69fdd7f1a831766037276218c2",
+      "title": "",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How GitHub uses eBPF to improve deployment safety",
+      "published": "23 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ecd50009b92ac6c9a18d10df245501",
+      "title": "「お前を消す方法」のイルカ「カイル」復活、AIキーボードCopilot Keyboard正式版公開 辞書は毎月更新、変換候補から語義参照も Win 11専用",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5015.html",
+      "summary": "■MicrosoftがWindows 11向け日本語IME「Copilot Keyboard」を無料公開",
+      "published": "Thu, 23 Apr 2026 15:43:43 +0900",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "42d0204c98edd1294ab07e7852eac174",
+      "title": "Google Cloud Next 26発表まとめ：第8世代TPU・Gemini Enterprise Agent Platformなど、全社エージェント活用向け大規模アップデート",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5014.html",
+      "summary": "Google Cloudは2026年4月22日（米国時間）、年次イベント「Google Cloud Next '26」において、企業が自律型AIエージェントを大規模に活用するための統合プラットフォーム群を発表しました。",
+      "published": "Thu, 23 Apr 2026 14:43:02 +0900",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "33135dcdbab081e8c6d74db9ea240dd6",
+      "title": "あのイルカが20年ぶりに復活 生成AIで質問に回答 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106271000",
+      "summary": "質問に回答するチャットボットの先駆けとして知られ、パソコンの文書作成ソフトなどのアシスタントとして人気だったイルカのキャラクターが、生成AIを活用した日本語入力ソフトの中で20年ぶりに復活しました。 …",
+      "published": "2026-04-23T04:59:58Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adf6ced65a592a711deb39671b28af29",
+      "title": "ハーネスエンジニアリングの本質 ー従来の開発規律を、エージェントが回せるように再設計する / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/81971/",
+      "summary": "この 4 軸は、ハーネスエンジニアリングを考えるときの基本的なフレームワークになります。 制御なき AI コーディングの課題 ハーネスなしで AI に自由にコーディングさせると、以下の問題が構造的に発生します。 一貫性の欠如: ファイルごとに実装パターンがずれる、命名規約に揺れが出るアーキテクチャの...",
+      "published": "2026-04-23T05:01:50Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89cd22ac59d50eb5ceb158d8a883a15d",
+      "title": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/82567/",
+      "summary": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey ChatGPTの登場以降、開発現場では生成AIの活用が急速に広がり、GitHub CopilotやClaude Codeといった...",
+      "published": "2026-04-23T05:01:28Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9abee24ae1aae01b7d9c07af4b63c25",
+      "title": "岩手県の山林火災でドコモに通信障害 初めて提供された「JAPANローミング」の仕組みと注意点",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news106.html",
+      "summary": "岩手県の大槌町で4月22日に発生した山林火災の影響でNTTドコモの携帯電話サービスに障害が発生し、「JAPANローミング」が初めて提供された。現地のドコモユーザーは、他社回線を使って携帯電話サービスを利用できる。 22日の午後5時ごろから岩手県大槌町の吉里吉里地区と小鎚地区で、携帯電話（4G、5G）...",
+      "published": "2026-04-23T05:27:57Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "030a87fa62565b3361e0adc90a1799b2",
+      "title": "LLMOps",
+      "link": "http://www.oreilly.co.jp/books/9784814401604/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "大規模言語モデルでは、従来のルールやMLOpsが通用せず、ハルシネーションやセキュリティ崩壊、モニタリング不全など未知の課題が発生します。本書はLLMOpsの実践ガイドとして、評価・ガバナンス・監査の設定、RAGやエージェント運用の整理、パフォーマンス監視、コスト効率の高いインフラ拡張まで、本番環境...",
+      "published": "2026-05-22T00:00:00+09:00",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-23T04:49:41.819433+00:00"
+  "updated_at": "2026-04-23T07:25:12.627217+00:00"
 }

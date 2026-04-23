@@ -1,1 +1,805 @@
-{"articles": [{"entry_id": "29402eadb6e14240c48a81338c11e7aa", "title": "", "link": "https://aws.amazon.com/jp/blogs/news/sbi-amazon-eks-auto-mode-casestudy/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 寄稿：SBI ネオバンキングシステムにおける Amazon EKS Auto Mode の導入事例 ― 移行で実現した運用負荷の軽減 | Amazon Web Services", "published": "22 Apr 2026 10:55 +0000", "fetched_at": "2026-04-22T13:42:46.813558+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "3af639b5b285e1df347f7c9ec7e30c21", "title": "", "link": "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 K3s on On-Prem Infrastructures the GitOps Way: Writing a Custom k0rdent Template from Scratch", "published": "23 Apr 2026 01:55 +0000", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "08ee8ee25cc411fb0a1e4ef4d5fd3542", "title": "", "link": "https://www.publickey1.jp/blog/26/npm_install_trivyaxios.html", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「npm install」は任意コード実行のようなもの？ Trivyやaxiosへのサプライチェーン攻撃を踏まえた、開発環境への新たな向き合い方", "published": "22 Apr 2026 23:55 +0000", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "035a15b117751b83069be6c452161bfa", "title": "", "link": "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開", "published": "22 Apr 2026 23:55 +0000", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "68f4f603a918c7f2b7ed7a742984075f", "title": "連載「歌うテックニュース」第6回：恋はレイトレーシングのように。パストレーシングとはどう違うの？ 「キミとボクとの出会い」で描く次世代ゲーム機の恋模様（西川善司）", "link": "https://www.techno-edge.net/article/2026/04/23/5013.html", "summary": "春は別れの季節であり、出会いの季節でもありますね。「そんな季節」にぴったりの話題が今回取り扱う「レイトレーシング（レイトレ）とパストレーシング（パストレ）」なのです。", "published": "Thu, 23 Apr 2026 07:08:15 +0900", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "techno-edge", "category": "main"}, {"entry_id": "e8e49a5b9eed741b97ab68fbefd3ec14", "title": "実装コストが下がった今、エンジニアの仕事はどう変わるか", "link": "https://zenn.dev/rehabforjapan/articles/after-ai-engineer", "summary": "はじめに この記事は、先日Rehab for JAPANのエンジニア月次定例で話した内容の外向け版です。社内向けに用意したスライドをもとに、要旨をあらためて整理し直しました。 テーマは「これからのITエンジニア」。AIコーディングが実務で使えるものになってきた今、エンジニアの仕事は「コードを書く人」...", "published": "2026-04-22T22:42:26Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "218bca71699348eddbb0a012daedab01", "title": "マイクロソフトがWindows 11ユーザーに明言、「2026年最良のウイルス対策ソフトはこれだ」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）", "link": "https://forbesjapan.com/articles/detail/96226", "summary": "マイクロソフトは、10億人超のWindows 11ユーザーに向けて最新の指針を公表した。「Windows セキュリティを確認して、その保護で『十分なのか』と疑問に思ったことがあるなら、それはまさに正しい問いかけです」と、同社はPCユーザーに語っている。 多くのユーザーには、Windows 11搭載の...", "published": "2026-04-22T23:02:04Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "13e6ab3a232e68d1eb73448ef9b51636", "title": "Findy初のモバイルアプリ開発におけるReact Nativeのリアル 〜技術選定の裏側と実践的OSS活用〜 - Findy Tech Blog", "link": "https://tech.findy.co.jp/entry/2026/04/23/070000", "summary": "こんにちは。ファインディ株式会社でモバイルエンジニアをしている加藤です。 先日、「React Native Lunch Talk ～いま選ばれる理由とアプリの現在地～」にて、「新規サービス開発におけるReact Nativeのリアル〜技術選定の裏側と実践的OSS活用〜」というテーマで登壇しました。 ...", "published": "2026-04-22T22:02:20Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "7cf76ac8904782ffd0206065f34d8d65", "title": "【笠原一輝のユビキタス情報局】 カイルくんがCopilot Keyboardで華麗に復活したので「お前を消す方法」を聞いてみた", "link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2103805.html", "summary": "", "published": "2026-04-23T01:05:03Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "aac74620d6bb478ff30af63afa926ea2", "title": "社名などの「ブランドTLD」取得するのハードル高すぎ!? それでも企業は申請すべきなのかどうか……JPRSに聞いた「トップレベルドメインを運用するということは、こんなにタイヘン！」", "link": "https://internet.watch.impress.co.jp/docs/special/2099511.html", "summary": "", "published": "2026-04-22T22:57:34Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "f4e464a450e5b7638d242c945a703145", "title": "SEO施策はAIにも有効？ サーバーログが示すAIクローラーの挙動と、疑問に答えるAI×SEO一問一答 | 【レポート】デジタルマーケターズサミット2026 Winter | Web担当者Forum", "link": "https://webtan.impress.co.jp/e/2026/04/23/52495", "summary": "「結局、AIが出てきたらSEOは意味がなくなるのでは？」――と疑問を抱いている人もいるだろう。しかし、AI時代だからこそSEOの重要性は高まっていると「デジタルマーケターズサミット 2026 Winter」に登壇した、アユダンテの江沢氏は解く。 本記事では、「なぜAI時代にSEOの重要性が高まってい...", "published": "2026-04-22T23:05:32Z", "fetched_at": "2026-04-23T01:57:19.026015+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "5346cd16e5ad5d875e910e85449555ba", "title": "", "link": "https://www.datadoghq.com/blog/offline-llm-evaluations/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Offline evaluation for AI agents: Best practices", "published": "23 Apr 2026 03:55 +0000", "fetched_at": "2026-04-23T04:49:41.819433+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "a43cf088ac85e5c3da54d59a3408186b", "title": "", "link": "https://findy-code.io/media/articles/modoku-netmarkjp-202604", "summary": "【 #も読 】今月分が公開されました！ Cloudflareの物理サーバーからAIの話まで扱ってます。 いいなと思ったらぜひ拍手 👏 押してくださいませ。 AIがコードを書く時、SREは信頼性をどう設計するか── クラウド/インフラ話題6選 - Findy Media", "published": "23 Apr 2026 03:09 +0000", "fetched_at": "2026-04-23T04:49:41.819433+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "1fec9ae1f4595d7f05ded91c70830178", "title": "", "link": "https://cd.foundation/blog/2026/04/16/announcing-jayex/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Announcing JayeX (formerly Jenkins X)", "published": "23 Apr 2026 02:55 +0000", "fetched_at": "2026-04-23T04:49:41.819433+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "6cee4de39a926a4d53fab658a8d0e7d4", "title": "Copilot Keyboard - いよいよ、正式版になりました - Windows Blog for Japan", "link": "https://blogs.windows.com/japan/2026/04/23/copilot-keyboard-its-finally-here-the-official-release/", "summary": "", "published": "2026-04-23T02:04:53Z", "fetched_at": "2026-04-23T04:49:41.819433+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "db50b9598674a7b0eedbe41bc05d36f9", "title": "自衛隊「AI中心の戦い」へ転換 自民提言案判明、安保3文書反映へ", "link": "https://www.itmedia.co.jp/news/articles/2604/23/news066.html", "summary": "防衛省・自衛隊のAI活用推進などを盛り込んだ自民党のAI政策に関する新たな提言案が4月22日、判明した。抑止力向上に向けて、従来の「（情報）ネットワーク中心の戦い」から「AIおよびデータ中心の戦い」への転換を要請。米イスラエルの対イラン軍事作戦で情報分析や標的選定にAIが本格投入されている状況を念頭...", "published": "2026-04-23T02:03:22Z", "fetched_at": "2026-04-23T04:49:41.819433+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "456c5c2ff7a087578443f2421066ac5c", "title": "", "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Artifacts: versioned storage that speaks Git", "published": "23 Apr 2026 06:55 +0000", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "004b2d69fdd7f1a831766037276218c2", "title": "", "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How GitHub uses eBPF to improve deployment safety", "published": "23 Apr 2026 05:55 +0000", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "d7ecd50009b92ac6c9a18d10df245501", "title": "「お前を消す方法」のイルカ「カイル」復活、AIキーボードCopilot Keyboard正式版公開 辞書は毎月更新、変換候補から語義参照も Win 11専用", "link": "https://www.techno-edge.net/article/2026/04/23/5015.html", "summary": "■MicrosoftがWindows 11向け日本語IME「Copilot Keyboard」を無料公開", "published": "Thu, 23 Apr 2026 15:43:43 +0900", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "techno-edge", "category": "main"}, {"entry_id": "42d0204c98edd1294ab07e7852eac174", "title": "Google Cloud Next 26発表まとめ：第8世代TPU・Gemini Enterprise Agent Platformなど、全社エージェント活用向け大規模アップデート", "link": "https://www.techno-edge.net/article/2026/04/23/5014.html", "summary": "Google Cloudは2026年4月22日（米国時間）、年次イベント「Google Cloud Next '26」において、企業が自律型AIエージェントを大規模に活用するための統合プラットフォーム群を発表しました。", "published": "Thu, 23 Apr 2026 14:43:02 +0900", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "techno-edge", "category": "main"}, {"entry_id": "33135dcdbab081e8c6d74db9ea240dd6", "title": "あのイルカが20年ぶりに復活 生成AIで質問に回答 | NHKニュース", "link": "https://news.web.nhk/newsweb/na/na-k10015106271000", "summary": "質問に回答するチャットボットの先駆けとして知られ、パソコンの文書作成ソフトなどのアシスタントとして人気だったイルカのキャラクターが、生成AIを活用した日本語入力ソフトの中で20年ぶりに復活しました。 …", "published": "2026-04-23T04:59:58Z", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "adf6ced65a592a711deb39671b28af29", "title": "ハーネスエンジニアリングの本質 ー従来の開発規律を、エージェントが回せるように再設計する / 開発者向けブログ・イベント | GMO Developers", "link": "https://developers.gmo.jp/technology/81971/", "summary": "この 4 軸は、ハーネスエンジニアリングを考えるときの基本的なフレームワークになります。 制御なき AI コーディングの課題 ハーネスなしで AI に自由にコーディングさせると、以下の問題が構造的に発生します。 一貫性の欠如: ファイルごとに実装パターンがずれる、命名規約に揺れが出るアーキテクチャの...", "published": "2026-04-23T05:01:50Z", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "89cd22ac59d50eb5ceb158d8a883a15d", "title": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey / 開発者向けブログ・イベント | GMO Developers", "link": "https://developers.gmo.jp/technology/82567/", "summary": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey ChatGPTの登場以降、開発現場では生成AIの活用が急速に広がり、GitHub CopilotやClaude Codeといった...", "published": "2026-04-23T05:01:28Z", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "a9abee24ae1aae01b7d9c07af4b63c25", "title": "岩手県の山林火災でドコモに通信障害 初めて提供された「JAPANローミング」の仕組みと注意点", "link": "https://www.itmedia.co.jp/news/articles/2604/23/news106.html", "summary": "岩手県の大槌町で4月22日に発生した山林火災の影響でNTTドコモの携帯電話サービスに障害が発生し、「JAPANローミング」が初めて提供された。現地のドコモユーザーは、他社回線を使って携帯電話サービスを利用できる。 22日の午後5時ごろから岩手県大槌町の吉里吉里地区と小鎚地区で、携帯電話（4G、5G）...", "published": "2026-04-23T05:27:57Z", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "030a87fa62565b3361e0adc90a1799b2", "title": "LLMOps", "link": "http://www.oreilly.co.jp/books/9784814401604/?utm_source=feed&utm_mediun=referral&utm_content=new_book", "summary": "大規模言語モデルでは、従来のルールやMLOpsが通用せず、ハルシネーションやセキュリティ崩壊、モニタリング不全など未知の課題が発生します。本書はLLMOpsの実践ガイドとして、評価・ガバナンス・監査の設定、RAGやエージェント運用の整理、パフォーマンス監視、コスト効率の高いインフラ拡張まで、本番環境...", "published": "2026-05-22T00:00:00+09:00", "fetched_at": "2026-04-23T07:25:12.627217+00:00", "feed_name": "O'Reilly Japan - 新刊・近刊", "category": "main"}, {"entry_id": "84ae78af48c04eb6d9aececd6384307c", "title": "", "link": "https://shatteredsilicon.net/aws-lambda-kiss-of-death/", "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The AWS Lambda ‘Kiss of Death’", "published": "23 Apr 2026 08:55 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)", "category": "main"}, {"entry_id": "cba7fe466ecc2a8d8072d7edb6b42ac5", "title": "I am building a cloud", "link": "https://crawshaw.io/blog/building-a-cloud", "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud Comments URL: https://news.ycombinator.com/item?id=47872324 Points: 309 # Comments: 149", "published": "Thu, 23 Apr 2026 04:44:19 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "c5daa3056c8d9a82d25adac6ff4f4b5b", "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones", "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/", "summary": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/ Comments URL: https://new...", "published": "Wed, 22 Apr 2026 20:27:31 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "ed06f2efe8f570331609f21da7eec093", "title": "Scores decline again for 13-year-old students in reading and mathematics", "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/", "summary": "Article URL: https://www.nationsreportcard.gov/highlights/ltt/2023/ Comments URL: https://news.ycombinator.com/item?id=47867755 Points: 196 # Comments...", "published": "Wed, 22 Apr 2026 18:57:20 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "94b62129035b68b795be42f4db4a0c38", "title": "Website streamed live directly from a model", "link": "https://flipbook.page/", "summary": "https://x.com/zan2434/status/2046982383430496444 (https://xcancel.com/zan2434/status/2046982383430496444) Comments URL: https://news.ycombinator.com/i...", "published": "Wed, 22 Apr 2026 18:01:18 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "69c74507a47d1cf8c7ffa5edc49281be", "title": "Workspace Agents in ChatGPT", "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/", "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=47866860 Points: 134...", "published": "Wed, 22 Apr 2026 17:47:07 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "05fbb20400748d12de52141b909b66ed", "title": "Parallel agents in Zed", "link": "https://zed.dev/blog/parallel-agents", "summary": "Article URL: https://zed.dev/blog/parallel-agents Comments URL: https://news.ycombinator.com/item?id=47866750 Points: 224 # Comments: 122", "published": "Wed, 22 Apr 2026 17:38:57 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "b04411813ee5300ce196efcc1665b74c", "title": "We found a stable Firefox identifier linking all your private Tor identities", "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/", "summary": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47866697 Poi...", "published": "Wed, 22 Apr 2026 17:35:03 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "0192b21d0f734fc386e955547630b1cd", "title": "Surveillance Pricing: Exploiting Information Asymmetries", "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/", "summary": "Article URL: https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/ Comments URL: https://news.ycombinator.com/item?id=4...", "published": "Wed, 22 Apr 2026 17:13:19 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "2bf9f3b6b3058e5340bd085fa3ff78db", "title": "Technical, cognitive, and intent debt", "link": "https://martinfowler.com/fragments/2026-04-02.html", "summary": "Article URL: https://martinfowler.com/fragments/2026-04-02.html Comments URL: https://news.ycombinator.com/item?id=47865661 Points: 260 # Comments: 68", "published": "Wed, 22 Apr 2026 16:11:23 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "2f255e32dfdc84a484ce032bd242ef08", "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder", "link": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013", "summary": "Article URL: https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013 Comments URL: https://news.yc...", "published": "Wed, 22 Apr 2026 16:00:01 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "3dad188ba0d840cfe7628ff8bf8a2576", "title": "Ping-pong robot beats top-level human players", "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/", "summary": "Article URL: https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/ Comments URL: https://new...", "published": "Wed, 22 Apr 2026 15:13:48 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "0e4b209397940ab63ee74bff5e7f6d58", "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser", "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152", "summary": "Article URL: https://duckdb.org/2026/04/13/announcing-duckdb-152 Comments URL: https://news.ycombinator.com/item?id=47864454 Points: 152 # Comments: 4...", "published": "Wed, 22 Apr 2026 14:49:02 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "9412167d081bd8d46f702b6e43716409", "title": "Ultraviolet corona discharges on treetops during storms", "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time", "summary": "Article URL: https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time Comments URL: https://n...", "published": "Wed, 22 Apr 2026 13:28:40 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "8574a4ffb5d285af3b9322c67a74a2cc", "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model", "link": "https://qwen.ai/blog?id=qwen3.6-27b", "summary": "Article URL: https://qwen.ai/blog?id=qwen3.6-27b Comments URL: https://news.ycombinator.com/item?id=47863217 Points: 838 # Comments: 385", "published": "Wed, 22 Apr 2026 13:19:58 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "8cc9c4472046ec9377129ce2e97cf139", "title": "Columnar Storage Is Normalization", "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/", "summary": "Article URL: https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/ Comments URL: https://news.ycombinator.com/item?id=47862626 Poi...", "published": "Wed, 22 Apr 2026 12:30:14 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "5fd2c6e3225fdb03f7784d711ee585ac", "title": "Our eighth generation TPUs: two chips for the agentic era", "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/", "summary": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tp... Comments URL: https://news.ycombinator.com/item?id=47862497 Points: 431 # Comments: 21...", "published": "Wed, 22 Apr 2026 12:15:29 +0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Hacker News (100pts+)", "category": "main"}, {"entry_id": "4bece8e6cf54416117655892857aefa9", "title": "Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/", "summary": "Amazon SageMaker Unified Studio now lets data workers create and manage multiple code spaces (individually configured development environments) within...", "published": "Wed, 22 Apr 2026 20:31:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "70b91e635eb8e88b39dc6d63451b9231", "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5/", "summary": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5, enabling you to fine-tune Qwen3.5 4B, 9B, and 27B parameter models using ...", "published": "Wed, 22 Apr 2026 17:53:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "709a1403eeccef47504d38a1601719ec", "title": "Amazon EC2 announces Managed resource visibility settings", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility/", "summary": "Amazon EC2 now lets you control whether resources provisioned by managed instance offerings appear in your Amazon EC2 console views and API list opera...", "published": "Wed, 22 Apr 2026 17:53:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "c20684d944ad9b140846a97f8027ee1c", "title": "Introducing GPU Health Monitoring and Auto Repair for Amazon ECS Managed Instances", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-gpu-auto-repair/", "summary": "Amazon Elastic Container Service (Amazon ECS) now offers NVIDIA GPU health monitoring and auto repair functionality for Amazon ECS Managed Instances. ...", "published": "Wed, 22 Apr 2026 17:00:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "3891aadcfb310e403c7062e54096c127", "title": "Amazon Bedrock AgentCore adds new features to help developers build agents faster", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster/", "summary": "Today, Amazon Bedrock AgentCore introduces new features to help developers go from an idea to working agent prototype faster and manage the full agent...", "published": "Wed, 22 Apr 2026 16:00:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "9a88b4a8d49a35743e8ec5459d4a740c", "title": "Amazon IVS Low-Latency Streaming now supports server-side ad insertion", "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-low-latency-streaming-server-side-ad-insertion/", "summary": "Amazon Interactive Video Service (Amazon IVS) Low-Latency Streaming now supports server-side ad insertion (SSAI), enabling you to monetize your live s...", "published": "Wed, 22 Apr 2026 15:29:00 GMT", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "AWS Recent Announcements", "category": "main"}, {"entry_id": "a58dd85dd6a6621a45c6ac01fcae1817", "title": "マイクロソフトの新IME「Copilot Keyboard」が正式版に ～そしてあいつが帰ってきた！／安定性や動作速度が大幅に向上", "link": "https://forest.watch.impress.co.jp/docs/news/2103886.html", "summary": "", "published": "2026-04-23T01:05:50Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "1fb88b27b0a9ec8ea8b4908b974e874d", "title": "Claude 4.5 Opus匹敵「Qwen3.6-27B」無償公開、前世代397Bを圧倒", "link": "https://pc.watch.impress.co.jp/docs/news/2103895.html", "summary": "", "published": "2026-04-22T17:44:30Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "773954ce301fe305f1f7c9eb1f3f783c", "title": "「AIを使えば全員同じになる」 羽生善治九段が語るAI時代の差別化と意思決定", "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news019.html", "summary": "AIによる最適解が戦略の均質化を招く中、羽生善治九段は、あえて評価の低い手を選ぶことにこそ差別化の核があると説く。数字に翻弄されず、一貫性を持って決断し、責任を負う。AI時代における人間ならではの意思決定と真の個性の在り方とは。 AIが初めて人間に将棋で勝利をしてから既に十年以上がたつ。棋士たちのA...", "published": "2026-04-23T00:02:49Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "009c59c235d1f9e0d82f839becbd45b7", "title": "ボトルネックは「人と人の間」に移動する──TOC（制約理論）の限界と絡み合った組織への適応 - Agile Journey", "link": "https://agilejourney.uzabase.com/entry/2026/04/23/103000", "summary": "ボトルネックを見つけて解消する。それで問題は解決するはずでした。 しかし実際には、別の場所にボトルネックが現れ続けます。その繰り返しの中で、問題はやがてコードや工程ではなく、「人と人の間」に移っていく。 TOC（制約理論）の考え方から出発し、複雑な組織における問題の捉え方と、「視点を動かす」という立...", "published": "2026-04-23T01:33:11Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "8e26e76abc109d009a863999b4a8e704", "title": "3D-CADはなぜ「誰でも使える」ようになったのか——「無料」と「自由」の狭間の歴史 - FabScene（ファブシーン）", "link": "https://fabscene.com/new/special/cad-software-free-history-freedom-vs-free/", "summary": "1990年代はじめ、製造業で設計の仕事をするには、まず数千万円の出費を覚悟しなければならなかった。 機械設計の現場で使われていた3次元CADシステム「CATIA」は、ソフトウェアのライセンスだけで1シート数百万円。それを動かすためのUNIXワークステーションと合わせると、設計環境1式で数千万円になる...", "published": "2026-04-23T01:09:13Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "f31ed2818c50a3f6b62eb2f8b754b18c", "title": "［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent Platform」発表", "link": "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html", "summary": "Googleは、日本時間で4月23日未明にラスベガスで開幕したイベント「Google Cloud Next 2026」で、AIエージェントの開発、運用、管理まで対応する包括的なAIエージェントのプラットフォーム「Gemini Enterprise Agent Platform」を発表しました。 Ge...", "published": "2026-04-22T12:05:20Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "359d6ab0fb4fdfda58c265652b46a2dd", "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開", "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html", "summary": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開 Googleは、日本時間で4月23日未明にラスベガスで開幕したイベント「Google Cloud Next 2026」で、ローカルマシンにインストールできる大規模分散リレー...", "published": "2026-04-22T17:15:01Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "e855de62051826f887b37c60fa8031f0", "title": "MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ", "link": "https://www.itmedia.co.jp/news/articles/2604/23/news067.html", "summary": "トランプ米大統領が掲げる「MAGA（米国を再び偉大に）」を支持する男性の間で人気を博した金髪の女性インフルエンサー「エミリー・ハート」は実在せず、インドの医学生が生成AIで作った虚像だったことを、米誌WIREDが明らかにした。医学生は、SNSを介してビキニ写真を売り荒稼ぎ、購入者を「超バカ」と評した...", "published": "2026-04-23T02:02:50Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "69c7eb76fe0b1fccaec44760ccc3d236", "title": "GitHub - google/skills: Agent Skills for Google products and technologies", "link": "https://github.com/google/skills", "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...", "published": "2026-04-22T21:08:43Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "a9e3357d6b8401cd35de75d60ad21508", "title": "日立の家電、ノジマ傘下で新たなスタート「製造業の手本に」 - 家電 Watch", "link": "https://kaden.watch.impress.co.jp/docs/news/2103772.html", "summary": "", "published": "2026-04-23T04:08:14Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "7eac33e03cdc34a91700201f1866cde1", "title": "時々実父の名前でGoogle検索する", "link": "https://anond.hatelabo.jp/20260423124257", "summary": "Yahooニュースとかで引っかかる それで、あー元気にしてんだなーって確認する 両親は幼い頃に離婚していて、実父と書いたのは母が再婚して今は別の父親がいるから 実父は結構破天荒というか、趣味や仕事に生きる人で家庭とは？？ってタイプの人だったらしい 地元が嫌で東京に飛び出した母を、「情熱的」に口説いて...", "published": "2026-04-23T03:46:58Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "6a5b1c8a3f5655e2bec27a80e2eede12", "title": "【やじうまPC Watch】 出力はナノワット。“しょぼい”けど本当に発電する「自作原子力電池」", "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2104042.html", "summary": "", "published": "2026-04-23T06:06:17Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "f7bba7d9f504ca8f71ece0c30a9bef99", "title": "OpenAIが文書中の個人名・メアド・電話番号などの個人情報をマスキングして流出を防ぐ「OpenAI Privacy Filter」をオープンソースでリリース", "link": "https://gigazine.net/news/20260423-openai-privacy-filter/", "summary": "OpenAIがテキスト中の個人情報を検出してマスキングするモデル「OpenAI Privacy Filter」を公開しました。OpenAI Privacy Filterは個人を特定できる情報の検出と伏せ字化に特化した小型モデルで、未加工の文書を外部サーバーに送らずローカル環境で処理できる点を特徴とし...", "published": "2026-04-23T03:40:35Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "98531fce388f7f297dc4abc7de968922", "title": "Cloudflare(クラウドフレア)でWebページを公開する方法", "link": "https://library.libecity.com/articles/01KPQRJ7BSM0V8R786Y4GF6CTT", "summary": "Cloudflare(クラウドフレア)でWebページを公開する方法 こんにちは。よっしーです。 両学長の朝ライブでたまに出てくる「Webページを公開できる\"クラウドフレア\"」について調べて、実際に公開するところまで実施してみました。 １．実際に公開したWebページ実際に公開したWebページは以下にな...", "published": "2026-04-22T12:11:21Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "38b4fa633eba28fc87cad7e5315ad2fa", "title": "Claude Code / Claude Cowork を Amazon Bedrock 経由で組織利用する４つのメリット | Amazon Web Services", "link": "https://aws.amazon.com/jp/blogs/startup/claude-code-cowork-amazon-bedrock-benefits/", "summary": "AWS Startup ブログ Claude Code / Claude Cowork を Amazon Bedrock 経由で組織利用する４つのメリット 最近、スタートアップのお客様から「エンジニアが Claude Code を個人プランで使い始めたが、管理が追いつかない」というご相談をいただくこ...", "published": "2026-04-23T04:08:16Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "18b9433553a38ef9c30f6c83f0d5b08b", "title": "【2026年上半期】エンジニアが知っておくべき重大セキュリティインシデント8選 - Qiita", "link": "https://qiita.com/kawabe0201/items/f45b754d9f475f2e15ea", "summary": "2026年に入ってからのセキュリティ状況は昨年にも増して深刻です。エンジニア2年目の自分が実際に追いかけていた案件・報道・公開レポートをもとに、2026年1〜4月の重大インシデント8件をまとめました。他山の石として参考にしてください。 1. 北米大手物流会社へのランサムウェア攻撃（1月） 概要: L...", "published": "2026-04-22T13:16:48Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "16bccf6edade6f422961d362b4d1e9f0", "title": "“お前を消す方法”イルカのカイルくんが「Copilot」の頭脳を獲得してまさかの復活。マイクロソフトの新IME「Copilot Keyboard」正式版にキャラとして登場", "link": "https://news.denfaminicogamer.jp/news/2604232h", "summary": "マイクロソフトは4月23日、新しい日本語入力システム（IME）の「Copilot Keyboard」正式版をリリースした。そして新たなCopilotキャラクターとして、Microsoft Office 97時代のマスコットキャラクター「カイル」が追加された。同社が公式ブログ「Windows Blog...", "published": "2026-04-23T04:19:21Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "3e7e5e7731cd758e932a248c180912f4", "title": "【神アプデ】「Google AI Studio」のヤバい新機能、秒で“アプリ完成”させる全手順（ビジネス＋IT） - Yahoo!ニュース", "link": "https://news.yahoo.co.jp/articles/e11bd711fc66c21c4e391eaef0b27e732f5c9b75", "summary": "グーグルのAI技術を無料で試すことができる「Google AI Studio」が、今年3月のアップデートで大きく進化しました。目玉の1つが、自然言語でアプリ生成が可能な「Build機能」強化です。アプリをまったく作ったことがない初心者でも、ゼロから自分専用のアプリを作り上げるGoogle AI st...", "published": "2026-04-22T23:13:42Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "ccc144cbc36b1877a4c4be61ea317187", "title": "Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット - Qiita", "link": "https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2", "summary": "はじめに Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞いを切り替えてくれる仕組みで...", "published": "2026-04-23T01:47:14Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "30af590d8b93cdae36a76ae00cb1fb6e", "title": "LLM間の「語彙の壁」を克服する世界初の「トークン共通化」技術を確立～異種LLM同士も密に連携させ、高性能化につながる知識の統合や転移を可能に～ | ニュースリリース | NTT", "link": "https://group.ntt/jp/newsrelease/2026/04/22/260422a.html", "summary": "◆大規模言語モデル（LLM）の推論における入出力単位「トークン」の語彙集合を、推論中に精度劣化なく自在に縮小できる、世界初の理論およびアルゴリズムを確立しました。 ◆本技術により、任意の異種LLM間で共通の語彙集合を介した連携が可能になりました。 ◆本技術をアンサンブルやNTT独自のポータブルチュー...", "published": "2026-04-22T18:02:03Z", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "はてなブックマーク - テクノロジー", "category": "main"}, {"entry_id": "c0dd0c15622ede64c8da931801e2a70f", "title": "“I Was Never Interested in Being Owned”: An Interview with Persian, the Anonymous Iranian Pioneer of UK Rave", "link": "https://daily.bandcamp.com/features/persian-peter-riley-interview", "summary": "In a rare interview, the producer who usually shuns press opens up about his work. Read full story on the Bandcamp Daily.", "published": "Wed, 22 Apr 2026 13:33:28 -0000", "fetched_at": "2026-04-23T09:19:52.432491+00:00", "feed_name": "Bandcamp Daily", "category": "music"}], "updated_at": "2026-04-23T09:19:52.432491+00:00"}
+{
+  "articles": [
+    {
+      "entry_id": "29402eadb6e14240c48a81338c11e7aa",
+      "title": "",
+      "link": "https://aws.amazon.com/jp/blogs/news/sbi-amazon-eks-auto-mode-casestudy/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 寄稿：SBI ネオバンキングシステムにおける Amazon EKS Auto Mode の導入事例 ― 移行で実現した運用負荷の軽減 | Amazon Web Services",
+      "published": "22 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-22T13:42:46.813558+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3af639b5b285e1df347f7c9ec7e30c21",
+      "title": "",
+      "link": "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 K3s on On-Prem Infrastructures the GitOps Way: Writing a Custom k0rdent Template from Scratch",
+      "published": "23 Apr 2026 01:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08ee8ee25cc411fb0a1e4ef4d5fd3542",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/npm_install_trivyaxios.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「npm install」は任意コード実行のようなもの？ Trivyやaxiosへのサプライチェーン攻撃を踏まえた、開発環境への新たな向き合い方",
+      "published": "22 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "035a15b117751b83069be6c452161bfa",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開",
+      "published": "22 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68f4f603a918c7f2b7ed7a742984075f",
+      "title": "連載「歌うテックニュース」第6回：恋はレイトレーシングのように。パストレーシングとはどう違うの？ 「キミとボクとの出会い」で描く次世代ゲーム機の恋模様（西川善司）",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5013.html",
+      "summary": "春は別れの季節であり、出会いの季節でもありますね。「そんな季節」にぴったりの話題が今回取り扱う「レイトレーシング（レイトレ）とパストレーシング（パストレ）」なのです。",
+      "published": "Thu, 23 Apr 2026 07:08:15 +0900",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8e49a5b9eed741b97ab68fbefd3ec14",
+      "title": "実装コストが下がった今、エンジニアの仕事はどう変わるか",
+      "link": "https://zenn.dev/rehabforjapan/articles/after-ai-engineer",
+      "summary": "はじめに この記事は、先日Rehab for JAPANのエンジニア月次定例で話した内容の外向け版です。社内向けに用意したスライドをもとに、要旨をあらためて整理し直しました。 テーマは「これからのITエンジニア」。AIコーディングが実務で使えるものになってきた今、エンジニアの仕事は「コードを書く人」...",
+      "published": "2026-04-22T22:42:26Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "218bca71699348eddbb0a012daedab01",
+      "title": "マイクロソフトがWindows 11ユーザーに明言、「2026年最良のウイルス対策ソフトはこれだ」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/96226",
+      "summary": "マイクロソフトは、10億人超のWindows 11ユーザーに向けて最新の指針を公表した。「Windows セキュリティを確認して、その保護で『十分なのか』と疑問に思ったことがあるなら、それはまさに正しい問いかけです」と、同社はPCユーザーに語っている。 多くのユーザーには、Windows 11搭載の...",
+      "published": "2026-04-22T23:02:04Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13e6ab3a232e68d1eb73448ef9b51636",
+      "title": "Findy初のモバイルアプリ開発におけるReact Nativeのリアル 〜技術選定の裏側と実践的OSS活用〜 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/04/23/070000",
+      "summary": "こんにちは。ファインディ株式会社でモバイルエンジニアをしている加藤です。 先日、「React Native Lunch Talk ～いま選ばれる理由とアプリの現在地～」にて、「新規サービス開発におけるReact Nativeのリアル〜技術選定の裏側と実践的OSS活用〜」というテーマで登壇しました。 ...",
+      "published": "2026-04-22T22:02:20Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cf76ac8904782ffd0206065f34d8d65",
+      "title": "【笠原一輝のユビキタス情報局】 カイルくんがCopilot Keyboardで華麗に復活したので「お前を消す方法」を聞いてみた",
+      "link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2103805.html",
+      "summary": "",
+      "published": "2026-04-23T01:05:03Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aac74620d6bb478ff30af63afa926ea2",
+      "title": "社名などの「ブランドTLD」取得するのハードル高すぎ!? それでも企業は申請すべきなのかどうか……JPRSに聞いた「トップレベルドメインを運用するということは、こんなにタイヘン！」",
+      "link": "https://internet.watch.impress.co.jp/docs/special/2099511.html",
+      "summary": "",
+      "published": "2026-04-22T22:57:34Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4e464a450e5b7638d242c945a703145",
+      "title": "SEO施策はAIにも有効？ サーバーログが示すAIクローラーの挙動と、疑問に答えるAI×SEO一問一答 | 【レポート】デジタルマーケターズサミット2026 Winter | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/04/23/52495",
+      "summary": "「結局、AIが出てきたらSEOは意味がなくなるのでは？」――と疑問を抱いている人もいるだろう。しかし、AI時代だからこそSEOの重要性は高まっていると「デジタルマーケターズサミット 2026 Winter」に登壇した、アユダンテの江沢氏は解く。 本記事では、「なぜAI時代にSEOの重要性が高まってい...",
+      "published": "2026-04-22T23:05:32Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5346cd16e5ad5d875e910e85449555ba",
+      "title": "",
+      "link": "https://www.datadoghq.com/blog/offline-llm-evaluations/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Offline evaluation for AI agents: Best practices",
+      "published": "23 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-23T04:49:41.819433+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a43cf088ac85e5c3da54d59a3408186b",
+      "title": "",
+      "link": "https://findy-code.io/media/articles/modoku-netmarkjp-202604",
+      "summary": "【 #も読 】今月分が公開されました！ Cloudflareの物理サーバーからAIの話まで扱ってます。 いいなと思ったらぜひ拍手 👏 押してくださいませ。 AIがコードを書く時、SREは信頼性をどう設計するか── クラウド/インフラ話題6選 - Findy Media",
+      "published": "23 Apr 2026 03:09 +0000",
+      "fetched_at": "2026-04-23T04:49:41.819433+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fec9ae1f4595d7f05ded91c70830178",
+      "title": "",
+      "link": "https://cd.foundation/blog/2026/04/16/announcing-jayex/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Announcing JayeX (formerly Jenkins X)",
+      "published": "23 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-23T04:49:41.819433+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cee4de39a926a4d53fab658a8d0e7d4",
+      "title": "Copilot Keyboard - いよいよ、正式版になりました - Windows Blog for Japan",
+      "link": "https://blogs.windows.com/japan/2026/04/23/copilot-keyboard-its-finally-here-the-official-release/",
+      "summary": "",
+      "published": "2026-04-23T02:04:53Z",
+      "fetched_at": "2026-04-23T04:49:41.819433+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db50b9598674a7b0eedbe41bc05d36f9",
+      "title": "自衛隊「AI中心の戦い」へ転換 自民提言案判明、安保3文書反映へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news066.html",
+      "summary": "防衛省・自衛隊のAI活用推進などを盛り込んだ自民党のAI政策に関する新たな提言案が4月22日、判明した。抑止力向上に向けて、従来の「（情報）ネットワーク中心の戦い」から「AIおよびデータ中心の戦い」への転換を要請。米イスラエルの対イラン軍事作戦で情報分析や標的選定にAIが本格投入されている状況を念頭...",
+      "published": "2026-04-23T02:03:22Z",
+      "fetched_at": "2026-04-23T04:49:41.819433+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "456c5c2ff7a087578443f2421066ac5c",
+      "title": "",
+      "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Artifacts: versioned storage that speaks Git",
+      "published": "23 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "004b2d69fdd7f1a831766037276218c2",
+      "title": "",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How GitHub uses eBPF to improve deployment safety",
+      "published": "23 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ecd50009b92ac6c9a18d10df245501",
+      "title": "「お前を消す方法」のイルカ「カイル」復活、AIキーボードCopilot Keyboard正式版公開 辞書は毎月更新、変換候補から語義参照も Win 11専用",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5015.html",
+      "summary": "■MicrosoftがWindows 11向け日本語IME「Copilot Keyboard」を無料公開",
+      "published": "Thu, 23 Apr 2026 15:43:43 +0900",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "42d0204c98edd1294ab07e7852eac174",
+      "title": "Google Cloud Next 26発表まとめ：第8世代TPU・Gemini Enterprise Agent Platformなど、全社エージェント活用向け大規模アップデート",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5014.html",
+      "summary": "Google Cloudは2026年4月22日（米国時間）、年次イベント「Google Cloud Next '26」において、企業が自律型AIエージェントを大規模に活用するための統合プラットフォーム群を発表しました。",
+      "published": "Thu, 23 Apr 2026 14:43:02 +0900",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "33135dcdbab081e8c6d74db9ea240dd6",
+      "title": "あのイルカが20年ぶりに復活 生成AIで質問に回答 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015106271000",
+      "summary": "質問に回答するチャットボットの先駆けとして知られ、パソコンの文書作成ソフトなどのアシスタントとして人気だったイルカのキャラクターが、生成AIを活用した日本語入力ソフトの中で20年ぶりに復活しました。 …",
+      "published": "2026-04-23T04:59:58Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adf6ced65a592a711deb39671b28af29",
+      "title": "ハーネスエンジニアリングの本質 ー従来の開発規律を、エージェントが回せるように再設計する / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/81971/",
+      "summary": "この 4 軸は、ハーネスエンジニアリングを考えるときの基本的なフレームワークになります。 制御なき AI コーディングの課題 ハーネスなしで AI に自由にコーディングさせると、以下の問題が構造的に発生します。 一貫性の欠如: ファイルごとに実装パターンがずれる、命名規約に揺れが出るアーキテクチャの...",
+      "published": "2026-04-23T05:01:50Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89cd22ac59d50eb5ceb158d8a883a15d",
+      "title": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/82567/",
+      "summary": "【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey ChatGPTの登場以降、開発現場では生成AIの活用が急速に広がり、GitHub CopilotやClaude Codeといった...",
+      "published": "2026-04-23T05:01:28Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9abee24ae1aae01b7d9c07af4b63c25",
+      "title": "岩手県の山林火災でドコモに通信障害 初めて提供された「JAPANローミング」の仕組みと注意点",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news106.html",
+      "summary": "岩手県の大槌町で4月22日に発生した山林火災の影響でNTTドコモの携帯電話サービスに障害が発生し、「JAPANローミング」が初めて提供された。現地のドコモユーザーは、他社回線を使って携帯電話サービスを利用できる。 22日の午後5時ごろから岩手県大槌町の吉里吉里地区と小鎚地区で、携帯電話（4G、5G）...",
+      "published": "2026-04-23T05:27:57Z",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "030a87fa62565b3361e0adc90a1799b2",
+      "title": "LLMOps",
+      "link": "http://www.oreilly.co.jp/books/9784814401604/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "大規模言語モデルでは、従来のルールやMLOpsが通用せず、ハルシネーションやセキュリティ崩壊、モニタリング不全など未知の課題が発生します。本書はLLMOpsの実践ガイドとして、評価・ガバナンス・監査の設定、RAGやエージェント運用の整理、パフォーマンス監視、コスト効率の高いインフラ拡張まで、本番環境...",
+      "published": "2026-05-22T00:00:00+09:00",
+      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
+    },
+    {
+      "entry_id": "84ae78af48c04eb6d9aececd6384307c",
+      "title": "",
+      "link": "https://shatteredsilicon.net/aws-lambda-kiss-of-death/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The AWS Lambda ‘Kiss of Death’",
+      "published": "23 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cba7fe466ecc2a8d8072d7edb6b42ac5",
+      "title": "I am building a cloud",
+      "link": "https://crawshaw.io/blog/building-a-cloud",
+      "summary": "Article URL: https://crawshaw.io/blog/building-a-cloud Comments URL: https://news.ycombinator.com/item?id=47872324 Points: 309 # Comments: 149",
+      "published": "Thu, 23 Apr 2026 04:44:19 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5daa3056c8d9a82d25adac6ff4f4b5b",
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/ Comments URL: https://new...",
+      "published": "Wed, 22 Apr 2026 20:27:31 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed06f2efe8f570331609f21da7eec093",
+      "title": "Scores decline again for 13-year-old students in reading and mathematics",
+      "link": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+      "summary": "Article URL: https://www.nationsreportcard.gov/highlights/ltt/2023/ Comments URL: https://news.ycombinator.com/item?id=47867755 Points: 196 # Comments...",
+      "published": "Wed, 22 Apr 2026 18:57:20 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94b62129035b68b795be42f4db4a0c38",
+      "title": "Website streamed live directly from a model",
+      "link": "https://flipbook.page/",
+      "summary": "https://x.com/zan2434/status/2046982383430496444 (https://xcancel.com/zan2434/status/2046982383430496444) Comments URL: https://news.ycombinator.com/i...",
+      "published": "Wed, 22 Apr 2026 18:01:18 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c74507a47d1cf8c7ffa5edc49281be",
+      "title": "Workspace Agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+      "summary": "Article URL: https://openai.com/index/introducing-workspace-agents-in-chatgpt/ Comments URL: https://news.ycombinator.com/item?id=47866860 Points: 134...",
+      "published": "Wed, 22 Apr 2026 17:47:07 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05fbb20400748d12de52141b909b66ed",
+      "title": "Parallel agents in Zed",
+      "link": "https://zed.dev/blog/parallel-agents",
+      "summary": "Article URL: https://zed.dev/blog/parallel-agents Comments URL: https://news.ycombinator.com/item?id=47866750 Points: 224 # Comments: 122",
+      "published": "Wed, 22 Apr 2026 17:38:57 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b04411813ee5300ce196efcc1665b74c",
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "link": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "summary": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/ Comments URL: https://news.ycombinator.com/item?id=47866697 Poi...",
+      "published": "Wed, 22 Apr 2026 17:35:03 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0192b21d0f734fc386e955547630b1cd",
+      "title": "Surveillance Pricing: Exploiting Information Asymmetries",
+      "link": "https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/",
+      "summary": "Article URL: https://lpeproject.org/blog/surveillance-pricing-exploiting-information-asymmetries/ Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Wed, 22 Apr 2026 17:13:19 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bf9f3b6b3058e5340bd085fa3ff78db",
+      "title": "Technical, cognitive, and intent debt",
+      "link": "https://martinfowler.com/fragments/2026-04-02.html",
+      "summary": "Article URL: https://martinfowler.com/fragments/2026-04-02.html Comments URL: https://news.ycombinator.com/item?id=47865661 Points: 260 # Comments: 68",
+      "published": "Wed, 22 Apr 2026 16:11:23 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f255e32dfdc84a484ce032bd242ef08",
+      "title": "Sam Altman's Creepy Eyeball-Scanning Company Gets in Bed with Zoom and Tinder",
+      "link": "https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013",
+      "summary": "Article URL: https://gizmodo.com/sam-altmans-creepy-eyeball-scanning-company-gets-in-bed-with-zoom-and-tinder-2000748013 Comments URL: https://news.yc...",
+      "published": "Wed, 22 Apr 2026 16:00:01 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dad188ba0d840cfe7628ff8bf8a2576",
+      "title": "Ping-pong robot beats top-level human players",
+      "link": "https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/",
+      "summary": "Article URL: https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/ Comments URL: https://new...",
+      "published": "Wed, 22 Apr 2026 15:13:48 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e4b209397940ab63ee74bff5e7f6d58",
+      "title": "DuckDB 1.5.2 – SQL database that runs on laptop, server, in the browser",
+      "link": "https://duckdb.org/2026/04/13/announcing-duckdb-152",
+      "summary": "Article URL: https://duckdb.org/2026/04/13/announcing-duckdb-152 Comments URL: https://news.ycombinator.com/item?id=47864454 Points: 152 # Comments: 4...",
+      "published": "Wed, 22 Apr 2026 14:49:02 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9412167d081bd8d46f702b6e43716409",
+      "title": "Ultraviolet corona discharges on treetops during storms",
+      "link": "https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time",
+      "summary": "Article URL: https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time Comments URL: https://n...",
+      "published": "Wed, 22 Apr 2026 13:28:40 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8574a4ffb5d285af3b9322c67a74a2cc",
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "link": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.6-27b Comments URL: https://news.ycombinator.com/item?id=47863217 Points: 838 # Comments: 385",
+      "published": "Wed, 22 Apr 2026 13:19:58 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cc9c4472046ec9377129ce2e97cf139",
+      "title": "Columnar Storage Is Normalization",
+      "link": "https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/",
+      "summary": "Article URL: https://buttondown.com/jaffray/archive/columnar-storage-is-normalization/ Comments URL: https://news.ycombinator.com/item?id=47862626 Poi...",
+      "published": "Wed, 22 Apr 2026 12:30:14 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fd2c6e3225fdb03f7784d711ee585ac",
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "summary": "https://cloud.google.com/blog/products/compute/tpu-8t-and-tp... Comments URL: https://news.ycombinator.com/item?id=47862497 Points: 431 # Comments: 21...",
+      "published": "Wed, 22 Apr 2026 12:15:29 +0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bece8e6cf54416117655892857aefa9",
+      "title": "Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/",
+      "summary": "Amazon SageMaker Unified Studio now lets data workers create and manage multiple code spaces (individually configured development environments) within...",
+      "published": "Wed, 22 Apr 2026 20:31:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "70b91e635eb8e88b39dc6d63451b9231",
+      "title": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5/",
+      "summary": "Amazon SageMaker AI now supports serverless model customization for Qwen3.5, enabling you to fine-tune Qwen3.5 4B, 9B, and 27B parameter models using ...",
+      "published": "Wed, 22 Apr 2026 17:53:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "709a1403eeccef47504d38a1601719ec",
+      "title": "Amazon EC2 announces Managed resource visibility settings",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility/",
+      "summary": "Amazon EC2 now lets you control whether resources provisioned by managed instance offerings appear in your Amazon EC2 console views and API list opera...",
+      "published": "Wed, 22 Apr 2026 17:53:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c20684d944ad9b140846a97f8027ee1c",
+      "title": "Introducing GPU Health Monitoring and Auto Repair for Amazon ECS Managed Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-gpu-auto-repair/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now offers NVIDIA GPU health monitoring and auto repair functionality for Amazon ECS Managed Instances. ...",
+      "published": "Wed, 22 Apr 2026 17:00:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3891aadcfb310e403c7062e54096c127",
+      "title": "Amazon Bedrock AgentCore adds new features to help developers build agents faster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster/",
+      "summary": "Today, Amazon Bedrock AgentCore introduces new features to help developers go from an idea to working agent prototype faster and manage the full agent...",
+      "published": "Wed, 22 Apr 2026 16:00:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a88b4a8d49a35743e8ec5459d4a740c",
+      "title": "Amazon IVS Low-Latency Streaming now supports server-side ad insertion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-low-latency-streaming-server-side-ad-insertion/",
+      "summary": "Amazon Interactive Video Service (Amazon IVS) Low-Latency Streaming now supports server-side ad insertion (SSAI), enabling you to monetize your live s...",
+      "published": "Wed, 22 Apr 2026 15:29:00 GMT",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a58dd85dd6a6621a45c6ac01fcae1817",
+      "title": "マイクロソフトの新IME「Copilot Keyboard」が正式版に ～そしてあいつが帰ってきた！／安定性や動作速度が大幅に向上",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2103886.html",
+      "summary": "",
+      "published": "2026-04-23T01:05:50Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fb88b27b0a9ec8ea8b4908b974e874d",
+      "title": "Claude 4.5 Opus匹敵「Qwen3.6-27B」無償公開、前世代397Bを圧倒",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2103895.html",
+      "summary": "",
+      "published": "2026-04-22T17:44:30Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "773954ce301fe305f1f7c9eb1f3f783c",
+      "title": "「AIを使えば全員同じになる」 羽生善治九段が語るAI時代の差別化と意思決定",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2604/23/news019.html",
+      "summary": "AIによる最適解が戦略の均質化を招く中、羽生善治九段は、あえて評価の低い手を選ぶことにこそ差別化の核があると説く。数字に翻弄されず、一貫性を持って決断し、責任を負う。AI時代における人間ならではの意思決定と真の個性の在り方とは。 AIが初めて人間に将棋で勝利をしてから既に十年以上がたつ。棋士たちのA...",
+      "published": "2026-04-23T00:02:49Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "009c59c235d1f9e0d82f839becbd45b7",
+      "title": "ボトルネックは「人と人の間」に移動する──TOC（制約理論）の限界と絡み合った組織への適応 - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2026/04/23/103000",
+      "summary": "ボトルネックを見つけて解消する。それで問題は解決するはずでした。 しかし実際には、別の場所にボトルネックが現れ続けます。その繰り返しの中で、問題はやがてコードや工程ではなく、「人と人の間」に移っていく。 TOC（制約理論）の考え方から出発し、複雑な組織における問題の捉え方と、「視点を動かす」という立...",
+      "published": "2026-04-23T01:33:11Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e26e76abc109d009a863999b4a8e704",
+      "title": "3D-CADはなぜ「誰でも使える」ようになったのか——「無料」と「自由」の狭間の歴史 - FabScene（ファブシーン）",
+      "link": "https://fabscene.com/new/special/cad-software-free-history-freedom-vs-free/",
+      "summary": "1990年代はじめ、製造業で設計の仕事をするには、まず数千万円の出費を覚悟しなければならなかった。 機械設計の現場で使われていた3次元CADシステム「CATIA」は、ソフトウェアのライセンスだけで1シート数百万円。それを動かすためのUNIXワークステーションと合わせると、設計環境1式で数千万円になる...",
+      "published": "2026-04-23T01:09:13Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f31ed2818c50a3f6b62eb2f8b754b18c",
+      "title": "［速報］Google、AIエージェントをローコードで作れる「Agent Studio」含むAIエージェント基盤「Gemini Enterprise Agent Platform」発表",
+      "link": "https://www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html",
+      "summary": "Googleは、日本時間で4月23日未明にラスベガスで開幕したイベント「Google Cloud Next 2026」で、AIエージェントの開発、運用、管理まで対応する包括的なAIエージェントのプラットフォーム「Gemini Enterprise Agent Platform」を発表しました。 Ge...",
+      "published": "2026-04-22T12:05:20Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "359d6ab0fb4fdfda58c265652b46a2dd",
+      "title": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
+      "summary": "［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開 Googleは、日本時間で4月23日未明にラスベガスで開幕したイベント「Google Cloud Next 2026」で、ローカルマシンにインストールできる大規模分散リレー...",
+      "published": "2026-04-22T17:15:01Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e855de62051826f887b37c60fa8031f0",
+      "title": "MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news067.html",
+      "summary": "トランプ米大統領が掲げる「MAGA（米国を再び偉大に）」を支持する男性の間で人気を博した金髪の女性インフルエンサー「エミリー・ハート」は実在せず、インドの医学生が生成AIで作った虚像だったことを、米誌WIREDが明らかにした。医学生は、SNSを介してビキニ写真を売り荒稼ぎ、購入者を「超バカ」と評した...",
+      "published": "2026-04-23T02:02:50Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c7eb76fe0b1fccaec44760ccc3d236",
+      "title": "GitHub - google/skills: Agent Skills for Google products and technologies",
+      "link": "https://github.com/google/skills",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-04-22T21:08:43Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9e3357d6b8401cd35de75d60ad21508",
+      "title": "日立の家電、ノジマ傘下で新たなスタート「製造業の手本に」 - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2103772.html",
+      "summary": "",
+      "published": "2026-04-23T04:08:14Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7eac33e03cdc34a91700201f1866cde1",
+      "title": "時々実父の名前でGoogle検索する",
+      "link": "https://anond.hatelabo.jp/20260423124257",
+      "summary": "Yahooニュースとかで引っかかる それで、あー元気にしてんだなーって確認する 両親は幼い頃に離婚していて、実父と書いたのは母が再婚して今は別の父親がいるから 実父は結構破天荒というか、趣味や仕事に生きる人で家庭とは？？ってタイプの人だったらしい 地元が嫌で東京に飛び出した母を、「情熱的」に口説いて...",
+      "published": "2026-04-23T03:46:58Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a5b1c8a3f5655e2bec27a80e2eede12",
+      "title": "【やじうまPC Watch】 出力はナノワット。“しょぼい”けど本当に発電する「自作原子力電池」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2104042.html",
+      "summary": "",
+      "published": "2026-04-23T06:06:17Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7bba7d9f504ca8f71ece0c30a9bef99",
+      "title": "OpenAIが文書中の個人名・メアド・電話番号などの個人情報をマスキングして流出を防ぐ「OpenAI Privacy Filter」をオープンソースでリリース",
+      "link": "https://gigazine.net/news/20260423-openai-privacy-filter/",
+      "summary": "OpenAIがテキスト中の個人情報を検出してマスキングするモデル「OpenAI Privacy Filter」を公開しました。OpenAI Privacy Filterは個人を特定できる情報の検出と伏せ字化に特化した小型モデルで、未加工の文書を外部サーバーに送らずローカル環境で処理できる点を特徴とし...",
+      "published": "2026-04-23T03:40:35Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98531fce388f7f297dc4abc7de968922",
+      "title": "Cloudflare(クラウドフレア)でWebページを公開する方法",
+      "link": "https://library.libecity.com/articles/01KPQRJ7BSM0V8R786Y4GF6CTT",
+      "summary": "Cloudflare(クラウドフレア)でWebページを公開する方法 こんにちは。よっしーです。 両学長の朝ライブでたまに出てくる「Webページを公開できる\"クラウドフレア\"」について調べて、実際に公開するところまで実施してみました。 １．実際に公開したWebページ実際に公開したWebページは以下にな...",
+      "published": "2026-04-22T12:11:21Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38b4fa633eba28fc87cad7e5315ad2fa",
+      "title": "Claude Code / Claude Cowork を Amazon Bedrock 経由で組織利用する４つのメリット | Amazon Web Services",
+      "link": "https://aws.amazon.com/jp/blogs/startup/claude-code-cowork-amazon-bedrock-benefits/",
+      "summary": "AWS Startup ブログ Claude Code / Claude Cowork を Amazon Bedrock 経由で組織利用する４つのメリット 最近、スタートアップのお客様から「エンジニアが Claude Code を個人プランで使い始めたが、管理が追いつかない」というご相談をいただくこ...",
+      "published": "2026-04-23T04:08:16Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18b9433553a38ef9c30f6c83f0d5b08b",
+      "title": "【2026年上半期】エンジニアが知っておくべき重大セキュリティインシデント8選 - Qiita",
+      "link": "https://qiita.com/kawabe0201/items/f45b754d9f475f2e15ea",
+      "summary": "2026年に入ってからのセキュリティ状況は昨年にも増して深刻です。エンジニア2年目の自分が実際に追いかけていた案件・報道・公開レポートをもとに、2026年1〜4月の重大インシデント8件をまとめました。他山の石として参考にしてください。 1. 北米大手物流会社へのランサムウェア攻撃（1月） 概要: L...",
+      "published": "2026-04-22T13:16:48Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "16bccf6edade6f422961d362b4d1e9f0",
+      "title": "“お前を消す方法”イルカのカイルくんが「Copilot」の頭脳を獲得してまさかの復活。マイクロソフトの新IME「Copilot Keyboard」正式版にキャラとして登場",
+      "link": "https://news.denfaminicogamer.jp/news/2604232h",
+      "summary": "マイクロソフトは4月23日、新しい日本語入力システム（IME）の「Copilot Keyboard」正式版をリリースした。そして新たなCopilotキャラクターとして、Microsoft Office 97時代のマスコットキャラクター「カイル」が追加された。同社が公式ブログ「Windows Blog...",
+      "published": "2026-04-23T04:19:21Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e7e5e7731cd758e932a248c180912f4",
+      "title": "【神アプデ】「Google AI Studio」のヤバい新機能、秒で“アプリ完成”させる全手順（ビジネス＋IT） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/e11bd711fc66c21c4e391eaef0b27e732f5c9b75",
+      "summary": "グーグルのAI技術を無料で試すことができる「Google AI Studio」が、今年3月のアップデートで大きく進化しました。目玉の1つが、自然言語でアプリ生成が可能な「Build機能」強化です。アプリをまったく作ったことがない初心者でも、ゼロから自分専用のアプリを作り上げるGoogle AI st...",
+      "published": "2026-04-22T23:13:42Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccc144cbc36b1877a4c4be61ea317187",
+      "title": "Claude Code のスキルを「中央集権しない」で配る、chezmoi dotfiles スターターキット - Qiita",
+      "link": "https://qiita.com/kamo-shika/items/6c4e74972eeb0d1a6fb2",
+      "summary": "はじめに Claude Code をはじめとする AI コーディングエージェントで、「スキル（Skills）」が運用の中核になってきています。プロンプトやワークフロー、禁則事項を SKILL.md にまとめておくと、エージェントが必要なタイミングで自動的に読み出して振る舞いを切り替えてくれる仕組みで...",
+      "published": "2026-04-23T01:47:14Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30af590d8b93cdae36a76ae00cb1fb6e",
+      "title": "LLM間の「語彙の壁」を克服する世界初の「トークン共通化」技術を確立～異種LLM同士も密に連携させ、高性能化につながる知識の統合や転移を可能に～ | ニュースリリース | NTT",
+      "link": "https://group.ntt/jp/newsrelease/2026/04/22/260422a.html",
+      "summary": "◆大規模言語モデル（LLM）の推論における入出力単位「トークン」の語彙集合を、推論中に精度劣化なく自在に縮小できる、世界初の理論およびアルゴリズムを確立しました。 ◆本技術により、任意の異種LLM間で共通の語彙集合を介した連携が可能になりました。 ◆本技術をアンサンブルやNTT独自のポータブルチュー...",
+      "published": "2026-04-22T18:02:03Z",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0dd0c15622ede64c8da931801e2a70f",
+      "title": "“I Was Never Interested in Being Owned”: An Interview with Persian, the Anonymous Iranian Pioneer of UK Rave",
+      "link": "https://daily.bandcamp.com/features/persian-peter-riley-interview",
+      "summary": "In a rare interview, the producer who usually shuns press opens up about his work. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 22 Apr 2026 13:33:28 -0000",
+      "fetched_at": "2026-04-23T09:19:52.432491+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "08fb0abee973323c4f966ab0aa9e85f3",
+      "title": "",
+      "link": "https://martinfowler.com/fragments/2026-04-14.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Fragments: April 14",
+      "published": "23 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2d6409b22635af141f5310af142e7bc",
+      "title": "高騰するメモリ(RAM)を自宅の裏庭で一から自作する方法",
+      "link": "https://gigazine.net/news/20260423-make-ram-at-my-home/",
+      "summary": "AI需要の増加でGPUやスマートフォン、PC向けのメモリ(RAM)需要が強まり、しかも供給はMicron、Samsung、SK hynixの大手3社に大きく依存しているため、すぐに増産できないという事情があります。そこでYouTubeチャンネルのDr.Semiconductorが、工場の新設を待つ代...",
+      "published": "2026-04-23T08:20:57Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "233eb85ae15f30d87fca9a5ccb7aa4c7",
+      "title": "大AIエージェント時代！AG-UI準拠でアプリを構築する - Taste of Tech Topics",
+      "link": "https://acro-engineer.hatenablog.com/entry/2026/04/23/120000",
+      "summary": "こんにちは。最近、AI将棋モデルの対局解説動画を見るのにハマっている大塚です。 将棋は全然わからないのですが、AIの予想外の手に驚いている解説を聞くのが結構面白いんですよね。 さて今回は、Agent–User Interaction（AG-UI）がどのような課題を解決するプロトコルなのかを確認します...",
+      "published": "2026-04-23T03:31:53Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6120f8ace09ddaac482440ad810d1972",
+      "title": "OpenAIが臨床現場向けAI「ChatGPT for Clinicians」をリリース、ベンチマークで人間の医師より優れたスコアを出す",
+      "link": "https://gigazine.net/news/20260423-openai-chatgpt-for-clinicians/",
+      "summary": "OpenAIが、臨床現場の業務支援に特化した新しいツール「ChatGPT for Clinicians」を発表しました。アメリカ国内の本人確認を行った医師・看護師・薬剤師などを対象に無料で提供されるとのことです。 Making ChatGPT better for clinicians | Open...",
+      "published": "2026-04-23T08:21:12Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f8792cf40eb5a4d381e9f3d6451b6a7",
+      "title": "「iPhoneの通知経由で暗号チャットの履歴を盗み見られる問題」を解決するアップデートがiOS 26.4.2として配信される",
+      "link": "https://gigazine.net/news/20260423-apple-ios-26-4-2-notification-bug-fix/",
+      "summary": "2026年4月22日、AppleはiOS 26.4.2およびiPadOS 26.4.2のセキュリティに関するアップデートを発表しました。これはFBIが暗号化メッセージングアプリであるSignalの削除済みメッセージを、iPhoneの通知データベース経由で復元したという報道を受けて実施されたアップデー...",
+      "published": "2026-04-23T05:31:45Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cad0fcdbc23c5ca26133041bf9ee43d",
+      "title": "【kintone×Claude Code】非エンジニアの人事が”書類選考の自動化システム”を自力で設計・構築した話 | えけすぽ！",
+      "link": "https://akspot.april-knights.com/technology/21135/",
+      "summary": "こんにちは！ 人事広報部の石井です。 【社員インタビュー】クリエイター：石井さん 突然ですが、みなさんの日々の業務の中に 毎回同じような手順を繰り返してる作業ってありませんか？ 僕の場合、メールで届いた情報を社内ツールに転記する。書類を1枚ずつ確認して所定のフォーマットに入力する。みたいな定常業務が...",
+      "published": "2026-04-23T10:06:51Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee39f865c854283bfe8b809dcbcb7ee3",
+      "title": "DDR5 32GB×2枚組が前回比20％前後の急落、4ヶ月ぶりの8万円割れも [4月後半のメモリ価格]",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/2103898.html",
+      "summary": "",
+      "published": "2026-04-22T22:32:23Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c7ed6c748a3d232be4f9069b83df12a",
+      "title": "New Workspace Intelligence delivers unified, real-time understanding to power agentic work. | Google Workspace ブログ",
+      "link": "https://workspace.google.com/blog/ja/product-announcements/introducing-workspace-intelligence",
+      "summary": "Google Workspace を無料で体験ビジネス メール、ストレージ、ビデオ会議など、さまざまな機能をご利用いただけます。 登録する ※この投稿は米国時間 2026 年 4 月 22 日に、Google Workspace blog に投稿されたものの抄訳です。 私たちは日々、タブを切り替え、...",
+      "published": "2026-04-23T01:56:45Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d2d6384131eab0194336a301e91f6ad",
+      "title": "OpenAI、ChatGPT向けクラウド自律AIエージェント「workspace agents」提供開始",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news063.html",
+      "summary": "米OpenAIは4月22日（現地時間）、業務を自律的に実行するクラウドベースAIエージェント「workspace agents」を「ChatGPT」で提供開始したと発表した。ChatGPTのBusiness、Enterprise、Edu、Teachersプラン向けにリサーチプレビューとして提供する。...",
+      "published": "2026-04-23T02:06:04Z",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d00b0298bac3645cf3471e090205f75",
+      "title": "IK Multimedia、最大9.1.6chの“イマーシブ・ルーム補正”に対応した「ARC X Immersive」をリリース…… iLoud MM Pro＋iLoud Subの7.1.4chバンドルも登場",
+      "link": "https://icon.jp/archives/27487",
+      "summary": "IK Multimediaが「ARC X」をアップデート。多くのユーザーが待ち望んでいた最大9.1.6chのイマーシブ・キャリブレーションに対応しました。「ARC X」のイマーシブ対応に合わせ、人気のiLoud Subを […]",
+      "published": "Thu, 23 Apr 2026 09:00:00 +0000",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "0da0c2b26d42556ef2aa60b2e2acda3d",
+      "title": "“AI-generated music is now far from a marginal phenomenon”: 44% of music uploaded to Deezer every day is AI-generated",
+      "link": "https://musictech.com/news/music/44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated/?utm_source=rss&utm_medium=rss&utm_campaign=44-percent-of-music-uploaded-to-deezer-every-day-is-ai-generated",
+      "summary": "The streamer says this is equal to 75,000 tracks per day. The post “AI-generated music is now far from a marginal phenomenon”: 44% of music uploaded t...",
+      "published": "Thu, 23 Apr 2026 10:29:24 +0000",
+      "fetched_at": "2026-04-23T11:02:02.440965+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    }
+  ],
+  "updated_at": "2026-04-23T11:02:02.440965+00:00"
+}

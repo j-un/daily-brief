@@ -29,7 +29,107 @@
       "fetched_at": "2026-04-22T13:42:46.813558+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "3af639b5b285e1df347f7c9ec7e30c21",
+      "title": "",
+      "link": "https://www.cncf.io/blog/2026/04/17/k3s-on-on-prem-infrastructures-the-gitops-way-writing-a-custom-k0rdent-template-from-scratch/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 K3s on On-Prem Infrastructures the GitOps Way: Writing a Custom k0rdent Template from Scratch",
+      "published": "23 Apr 2026 01:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08ee8ee25cc411fb0a1e4ef4d5fd3542",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/npm_install_trivyaxios.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「npm install」は任意コード実行のようなもの？ Trivyやaxiosへのサプライチェーン攻撃を踏まえた、開発環境への新たな向き合い方",
+      "published": "22 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "035a15b117751b83069be6c452161bfa",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/postgresqlmysqlsql_serversql_mcp_server.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 マイクロソフト、PostgreSQL/MySQL/SQL Serverなどへの同時接続に対応した「SQL MCP Server」オープンソースで公開",
+      "published": "22 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68f4f603a918c7f2b7ed7a742984075f",
+      "title": "連載「歌うテックニュース」第6回：恋はレイトレーシングのように。パストレーシングとはどう違うの？ 「キミとボクとの出会い」で描く次世代ゲーム機の恋模様（西川善司）",
+      "link": "https://www.techno-edge.net/article/2026/04/23/5013.html",
+      "summary": "春は別れの季節であり、出会いの季節でもありますね。「そんな季節」にぴったりの話題が今回取り扱う「レイトレーシング（レイトレ）とパストレーシング（パストレ）」なのです。",
+      "published": "Thu, 23 Apr 2026 07:08:15 +0900",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8e49a5b9eed741b97ab68fbefd3ec14",
+      "title": "実装コストが下がった今、エンジニアの仕事はどう変わるか",
+      "link": "https://zenn.dev/rehabforjapan/articles/after-ai-engineer",
+      "summary": "はじめに この記事は、先日Rehab for JAPANのエンジニア月次定例で話した内容の外向け版です。社内向けに用意したスライドをもとに、要旨をあらためて整理し直しました。 テーマは「これからのITエンジニア」。AIコーディングが実務で使えるものになってきた今、エンジニアの仕事は「コードを書く人」...",
+      "published": "2026-04-22T22:42:26Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "218bca71699348eddbb0a012daedab01",
+      "title": "マイクロソフトがWindows 11ユーザーに明言、「2026年最良のウイルス対策ソフトはこれだ」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/96226",
+      "summary": "マイクロソフトは、10億人超のWindows 11ユーザーに向けて最新の指針を公表した。「Windows セキュリティを確認して、その保護で『十分なのか』と疑問に思ったことがあるなら、それはまさに正しい問いかけです」と、同社はPCユーザーに語っている。 多くのユーザーには、Windows 11搭載の...",
+      "published": "2026-04-22T23:02:04Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13e6ab3a232e68d1eb73448ef9b51636",
+      "title": "Findy初のモバイルアプリ開発におけるReact Nativeのリアル 〜技術選定の裏側と実践的OSS活用〜 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/04/23/070000",
+      "summary": "こんにちは。ファインディ株式会社でモバイルエンジニアをしている加藤です。 先日、「React Native Lunch Talk ～いま選ばれる理由とアプリの現在地～」にて、「新規サービス開発におけるReact Nativeのリアル〜技術選定の裏側と実践的OSS活用〜」というテーマで登壇しました。 ...",
+      "published": "2026-04-22T22:02:20Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cf76ac8904782ffd0206065f34d8d65",
+      "title": "【笠原一輝のユビキタス情報局】 カイルくんがCopilot Keyboardで華麗に復活したので「お前を消す方法」を聞いてみた",
+      "link": "https://pc.watch.impress.co.jp/docs/column/ubiq/2103805.html",
+      "summary": "",
+      "published": "2026-04-23T01:05:03Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aac74620d6bb478ff30af63afa926ea2",
+      "title": "社名などの「ブランドTLD」取得するのハードル高すぎ!? それでも企業は申請すべきなのかどうか……JPRSに聞いた「トップレベルドメインを運用するということは、こんなにタイヘン！」",
+      "link": "https://internet.watch.impress.co.jp/docs/special/2099511.html",
+      "summary": "",
+      "published": "2026-04-22T22:57:34Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4e464a450e5b7638d242c945a703145",
+      "title": "SEO施策はAIにも有効？ サーバーログが示すAIクローラーの挙動と、疑問に答えるAI×SEO一問一答 | 【レポート】デジタルマーケターズサミット2026 Winter | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/04/23/52495",
+      "summary": "「結局、AIが出てきたらSEOは意味がなくなるのでは？」――と疑問を抱いている人もいるだろう。しかし、AI時代だからこそSEOの重要性は高まっていると「デジタルマーケターズサミット 2026 Winter」に登壇した、アユダンテの江沢氏は解く。 本記事では、「なぜAI時代にSEOの重要性が高まってい...",
+      "published": "2026-04-22T23:05:32Z",
+      "fetched_at": "2026-04-23T01:57:19.026015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-22T21:52:34.849819+00:00"
+  "updated_at": "2026-04-23T01:57:19.026015+00:00"
 }

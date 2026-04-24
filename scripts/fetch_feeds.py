@@ -218,7 +218,7 @@ def main():
                 summary = summary[:150] + "..."
 
             if exclude_keywords:
-                text_lower = f"{entry.get('title', '')} {summary}".lower()
+                text_lower = f"{entry.get('title', '')} {summary} {entry.get('link', '')}".lower()
                 if any(kw in text_lower for kw in exclude_keywords):
                     continue
 

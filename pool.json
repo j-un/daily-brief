@@ -679,7 +679,97 @@
       "fetched_at": "2026-04-24T07:51:19.146720+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bddb183147ba4f4660a822e48958c38e",
+      "title": "",
+      "link": "https://engineering.dena.com/blog/2026/04/solid-queue/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Solid Queue のパフォーマンス特性に関する検証と考察 | BLOG - DeNA Engineering",
+      "published": "24 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8c158c6e3b2c11fa757848cbd589466",
+      "title": "政府AI「源内」オープンソース化 GitHubで公開、商用利用もOK 民間と共創へ",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news103.html",
+      "summary": "デジタル庁は4月24日、内製した生成AI利用環境「源内」の一部を、商用利用可能なライセンスでオープンソースとしてGitHub上で公開した。 オープンソース化により、民間の提案を積極的に取り入れつつ、政府機関などでの重複開発を抑制。特定の事業者やサービスへの依存を抑えながら、各機関が自らの要件に応じて...",
+      "published": "2026-04-24T07:31:27Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41cd3e855374f458f417659d01a80fbc",
+      "title": "セキュリティ監査は死んだ｜gohan",
+      "link": "https://note.com/grandchildrice/n/n871088ba195f",
+      "summary": "2026年4月、AnthropicはClaude Mythos Previewを公開した。このモデルは数千件のゼロデイを自律的に発見したと報告され、Mozilla Firefox 150はこのモデルで発見された271件の脆弱性を一括パッチした。一方でAI自動ペンテスト企業XBOWはHackerOne...",
+      "published": "2026-04-24T08:14:41Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc2175e029e2539044f4cae80dfce2e5",
+      "title": "中国関連のサイバー攻撃者が利用する、侵害されたデバイスで構成される匿名ネットワークの防御に関するアドバイザリーに日本も共同署名",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2104408.html",
+      "summary": "",
+      "published": "2026-04-24T04:52:23Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bc90f1c4d91a7da99b257af8ccfd8fb",
+      "title": "FacebookやInstagramもMeta Questと同じアカウントで……新「Metaアカウント」発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news107.html",
+      "summary": "米Metaは4月23日（現地時間）、VRヘッドセット「Meta Quest」など向けに提供してきた「Metaアカウント」の適用範囲を、FacebookやInstagramなどMetaのアプリ全般に拡大した。 各サービスを横断する単一のパスワードを任意で設定でき、複数のパスワードの管理が不要に。新しい...",
+      "published": "2026-04-24T06:51:34Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "388499921522b708543e56d66528ac84",
+      "title": "X、コミュニティ機能廃止……「利用率0.4％」「スパムだらけ」で 代替は“グルチャ”",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news095.html",
+      "summary": "米Xは4月23日、コミュニティ機能「X Communities」を廃止すると発表した。利用率が全体の0.4％未満に低迷していたため。代替として、Xのチャット機能「XChat」のグループチャットの上限を1000人に引き上げ、参加用の公開リンク機能を追加する。 Xのプロダクト責任者であるニキータ・ビア氏...",
+      "published": "2026-04-24T04:03:29Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88ab6a56f8d9b8e93f4ed5eb6d5125d6",
+      "title": "「Claude」の連携機能「コネクタ」、Uber EatsやSpotifyなど日常アプリに対応",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news075.html",
+      "summary": "米Anthropicは4月23日（現地時間）、「Claude」の「コネクタ」の接続先サービスを拡充したと発表した。Uber EatsやTripadvisor、Spotify、Audibleなどに接続できるようになった。 これにより、これまでの仕事向けの連携から、日常生活で利用するアプリへと機能が大き...",
+      "published": "2026-04-24T02:04:10Z",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5ba5031b7ac44242114cd2189340f08",
+      "title": "Get 25% off Ableton Live 12 – one of the best DAWs on the market right now",
+      "link": "https://musictech.com/news/gear/ableton-live-12-sale/?utm_source=rss&utm_medium=rss&utm_campaign=ableton-live-12-sale",
+      "summary": "Ableton’s limited-time offer covers Live 12 Suite and Standard, upgrades, and all Packs – until 29 April. The post Get 25% off Ableton Live 12 – one o...",
+      "published": "Fri, 24 Apr 2026 09:17:27 +0000",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "b603e4826e2407f26c2f0a1246855035",
+      "title": "AlphaTheta DJM-V5 review: Are niche setups the future of DJ gear?",
+      "link": "https://musictech.com/reviews/alphatheta-djm-v5-review/?utm_source=rss&utm_medium=rss&utm_campaign=alphatheta-djm-v5-review",
+      "summary": "Inspired by the Pioneer DJ DJM-V10, does this new three-channel AlphaTheta mixer prove that less is actually more? The post AlphaTheta DJM-V5 review: ...",
+      "published": "Fri, 24 Apr 2026 08:00:35 +0000",
+      "fetched_at": "2026-04-24T09:24:23.931242+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-24T07:51:19.146720+00:00"
+  "updated_at": "2026-04-24T09:24:23.931242+00:00"
 }

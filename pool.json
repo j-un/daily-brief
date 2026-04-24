@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "456c5c2ff7a087578443f2421066ac5c",
-      "title": "",
-      "link": "https://blog.cloudflare.com/artifacts-git-for-agents-beta/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Artifacts: versioned storage that speaks Git",
-      "published": "23 Apr 2026 06:55 +0000",
-      "fetched_at": "2026-04-23T07:25:12.627217+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "ed15314e4bfc5e9e69d660c140c50802",
       "title": "Amazon Athena simplifies federated queries with managed connectors",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/",
@@ -859,7 +849,137 @@
       "fetched_at": "2026-04-24T11:00:06.411794+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "bc15d83918b567671549d4af4ffcf6c2",
+      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+      "link": "https://www.bmj.com/content/393/bmj.s781",
+      "summary": "Article URL: https://www.bmj.com/content/393/bmj.s781 Comments URL: https://news.ycombinator.com/item?id=47888557 Points: 101 # Comments: 34",
+      "published": "Fri, 24 Apr 2026 11:09:36 +0000",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "795eb2e95cb33c33fd7c1bfe30dc8599",
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c4gx1n0dl9no Comments URL: https://news.ycombinator.com/item?id=47887683 Points: 135 # Comments: 84",
+      "published": "Fri, 24 Apr 2026 09:17:57 +0000",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c204944e5dea866be77713bad819e02",
+      "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+      "link": "https://ynarwal.github.io/how-llms-work/",
+      "summary": "All content is based on Andrej Karpathy's \"Intro to Large Language Models\" lecture (youtube.com/watch?v=7xTGNNLPyMI). I downloaded the transcript and ...",
+      "published": "Fri, 24 Apr 2026 06:48:53 +0000",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ab4872837c134424084532efe602fa7",
+      "title": "「FILCO」「Majestouch」のダイヤテックが閉業",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2104643.html",
+      "summary": "",
+      "published": "2026-04-24T11:44:46Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc418e142442d3e1e2bdc0bc720e8bda",
+      "title": "はてな、11億円の資金流出 振り込め詐欺か",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news127.html",
+      "summary": "インターネット関連事業を手掛けるはてな（京都市中京区）は4月24日、不正な送金指示によって約11億円の資金が銀行口座から流出したと公表した。第三者から虚偽の送金指示があったという。 4月21日に取引先銀行から不審な送金が行われていると連絡があり、確認すると4月20日と21日にある従業員のアカウントか...",
+      "published": "2026-04-24T12:09:03Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46158a7ea1b3f990f678a4728b062500",
+      "title": "〇〇の人と言われたくて〇〇の人になった",
+      "link": "https://anond.hatelabo.jp/20260424185818",
+      "summary": "エンジニア界隈のイベントで、特定のOSSや手法をもって「〇〇の人」と呼ばれている人に強い憧れを持っていた。 自分もあるプロダクトのエバンジェリストとして小さな周辺の界隈ではあるが活動を続けて少しずつ「〇〇の人ですよね」と話しかけられる事が増えてきた。 憧れの「〇〇の人」が集まるようなカンファレンスに...",
+      "published": "2026-04-24T09:58:49Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aa81aaadfb854190b61e35eb1e13b97",
+      "title": "ついに「DeepSeek-V4」が登場、Claude Opus 4.6を超える性能のオープンモデル",
+      "link": "https://gigazine.net/news/20260424-deepseek-v4/",
+      "summary": "中国のAI企業であるDeepSeekがAIモデル「DeepSeek-V4」を2026年4月24日に公開しました。DeepSeek-V4-ProとDeepSeek-V4-Flashの2種類が存在し、DeepSeek-V4-Proは複数のテストでClaude Opus 4.6を超えるスコアを記録していま...",
+      "published": "2026-04-24T09:13:39Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd5c19adceaedc1b56ceb02eea7317d4",
+      "title": "GitHubアカウントへの不正アクセス発生に関するお知らせとお詫び",
+      "link": "https://campfire.co.jp/press/2026/04/03/campfire/",
+      "summary": "2026年4月2日22時50分頃、株式会社CAMPFIRE(以下「弊社」)のシステム管理に使用しているGitHubアカウントに対して、第三者による不正なアクセスが発生し、一部のソースコードが閲覧された可能性があることが判明いたしました。ご利用中の皆様にご心配とご迷惑をおかけしましたこと、心よりお詫び...",
+      "published": "2026-04-06T20:14:55Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "473dfc7a2c32044f1cbc7cef613d5faf",
+      "title": "内閣官房から指名停止のIPA、再委託先デロイト傘下の不正な行為見つける",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/",
+      "summary": "内閣官房が2026年4月に公表した指名停止措置の対象に、情報処理推進機構（IPA）の名があることがSNS（交流サイト）などで話題になっている。IPAが再委託先の契約違反行為を把握し、国家サイバー統括室へ報告したことが発端だった。委託先選定の難しさが浮き彫りになった。 「契約相手方として不適当である」...",
+      "published": "2026-04-24T11:36:07Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7dcdb6bbc6af4feecb73196881872fc",
+      "title": "CAMPFIRE、最大22.5万人分の個人情報漏えいか 一部口座情報も GitHubアカウントに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news126.html",
+      "summary": "クラウドファンディング事業を手掛けるCAMPFIRE（東京都渋谷区）は4月24日、3日に発表したGitHubアカウントへの不正アクセスを巡り、最大22万5846人分の情報が漏えいした可能性があると発表した。 漏えいの可能性がある情報は、（1）2021年2月以降にクラウドファンディングのプロジェクト実...",
+      "published": "2026-04-24T10:36:11Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56a6927cd7d5733227046feab1f7b8bd",
+      "title": "MINISFORUM、最大200TBも実現できるRyzen AI Max+ 395搭載NASキット",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2104531.html",
+      "summary": "",
+      "published": "2026-04-24T08:15:14Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "24ae02ba1574f6eb11c66f2417ffd0fe",
+      "title": "デジタル庁、政府AI「源内」をオープンソースとして無料公開",
+      "link": "https://ascii.jp/elem/000/004/397/4397813/",
+      "summary": "sponsored ネットワーク機器に強いファーウェイらしい新製品「HUAWEI WiFi BE3」が登場 8000円台でWi-Fi 7＆メッシュ対応はガチでお買い得！ ファーウェイから新Wi-Fiルーター 早速レビュー sponsored 防犯対策！ NASが自宅の「守護神」に変わる、QNAP N...",
+      "published": "2026-04-24T05:11:04Z",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "19bdab7caf129e5e0f2f972314db2668",
+      "title": "",
+      "link": "https://osv.dev",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 google / osv-scanner ⭐ 9,238 (+350) 🗒 Go Vulnerability scanner written in Go which uses the data provided by  htt...",
+      "published": "24 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-24T13:05:01.587843+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-24T11:00:06.411794+00:00"
+  "updated_at": "2026-04-24T13:05:01.587843+00:00"
 }

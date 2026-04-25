@@ -1,4 +1,125 @@
 {
-  "articles": [],
-  "updated_at": "2026-04-24T22:37:54.962088+00:00"
+  "articles": [
+    {
+      "entry_id": "196f425b9c6322a57e9008500a4950a9",
+      "title": "",
+      "link": "https://blog.jnito.com/entry/2026/04/17/115526",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【制作裏話】「技術記事を書く技術」を書くのに、4年もかかった理由を説明したい",
+      "published": "24 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf3da348fb36fb84583faa610d543ac0",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "link": "https://arxiv.org/abs/2604.21691",
+      "summary": "Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 139 # Comments: 46",
+      "published": "Fri, 24 Apr 2026 18:06:05 +0000",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5b22a8b90d3c0861a3e539e070b82e3",
+      "title": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/",
+      "summary": "AWS Lambda now supports Provisioned Mode for event source mappings (ESMs) that subscribe to Apache Kafka event sources in the Asia Pacific (Taipei), A...",
+      "published": "Fri, 24 Apr 2026 21:13:00 GMT",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e60a9e1c2551ec9cc659a76f7a1166ce",
+      "title": "Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita",
+      "link": "https://qiita.com/ot12/items/06420caf41a34a910c53",
+      "summary": "2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで...",
+      "published": "2026-04-24T07:35:57Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8763494bf97706460a1519d4178c027",
+      "title": "高卒マック店員から32歳で米マイクロソフトのプリンシパルになれた理由「信頼は貯金せず、再投資せよ」 - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/30852/",
+      "summary": "NEW! 2026.04.24 働き方 マイクロソフトグローバル 世界トップクラスの頭脳が集うマイクロソフト米国本社で、異例のスピード出世を遂げている日本人マネジャーがいる。 通常は40〜50代が就くという上位クラスの役職「プリンシパル」に32歳で駆け上がり、現在は『Microsoft Copilo...",
+      "published": "2026-04-24T08:15:16Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afa9c58a7b162dd486fe26d784799113",
+      "title": "Opus 4.6に迫るコーディング性能のAI「MiniMax M2.7」がオープン化、日本語セリフが得意で商用利用OKなローカル画像生成AI「ERNIE-Image」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/04/24/5020.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第141回）は、家庭用PCで動く商用利用可能なBaidu開発の画像生成AI「ERNIE-Image」や、Opus 4.6に迫るコーディング性能のAIモデル「MiniMax M2.7」のオープンウェ...",
+      "published": "2026-04-24T01:59:19Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f8259f6d57822e305cb3bc50bcb573e",
+      "title": "「プログラマー不要論」にThe Linux Foundationが示した答え",
+      "link": "https://techtarget.itmedia.co.jp/tt/news/2604/24/news09.html",
+      "summary": "関連キーワード 人工知能 | ITガバナンス | オープンソース 企業におけるAI（人工知能）技術活用は、対話型のインタフェースから、複雑な業務プロセスを自律的に実行するエージェント型へと移行しつつある。この変革期において、企業のIT担当者は、業務効率化の推進と同時に、システムに対する信頼や強固なセ...",
+      "published": "2026-04-24T12:53:37Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6c3444b6d06ce656e8ea266c656a595",
+      "title": "GitHub - refactoringhq/tolaria: Desktop app to manage markdown knowledge bases",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "summary": "📑 Files-first — Your notes are plain markdown files. They're portable, work with any editor, and require no export step. Your data belongs to you, not...",
+      "published": "2026-04-24T00:26:09Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c560240adba0bb61ad3bdde64606edb8",
+      "title": "ハーネスエンジニアリングの実践は \"Thin\"と\"Self-healing\" へ｜Seiji Takahashi@ベースマキナ",
+      "link": "https://note.com/timakin/n/nf08e5c07f86f",
+      "summary": "皆さまこんにちは、株式会社ベースマキナの代表取締役社長を務めております高橋（@__timakin__）です。 海外のハーネスエンジニアリングの状況をみていると、いかにその実装を薄くするか、そしてself-healingにするか、という言及が増えているように感じます。 ただこれは、単に「機能を減らせ」...",
+      "published": "2026-04-24T10:39:27Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3654fb3a48e1874d54db65489d1f4d9b",
+      "title": "「Gmail」の検索欄で複数メールをもとに回答する機能が「Google Workspace」に拡大／膨大なメールの中から個別のスレッドをさかのぼらなくても必要な情報を引き出せる",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2104263.html",
+      "summary": "",
+      "published": "2026-04-24T10:14:51Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe863c26ed4d287d1b4c990ddcccaa8e",
+      "title": "ネットスラングも一発変換、新IME「Copilot Keyboard」正式版公開 “イルカのカイル”復活",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news120.html",
+      "summary": "2025年10月にβ版を公開したサービスをブラッシュアップした。x64版とARM版を用意し、無料でダウンロード可能。 変換候補の一覧から「Copilot Search」による検索結果を直接見ることができ、Web検索までシームレスに行える。 「グエー死んだンゴ」「風呂キャン」「ボンボンドロップシール」...",
+      "published": "2026-04-23T08:11:56Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4e5a541e2400aebe2c86dec44171a9d",
+      "title": "NEC PCが語る“AI PCの未来”と、いとうまいこ氏の働き方。AI×PC DAY基調講演",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2104575.html",
+      "summary": "",
+      "published": "2026-04-24T13:52:21Z",
+      "fetched_at": "2026-04-25T01:47:28.945620+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-04-25T01:47:28.945620+00:00"
 }

@@ -222,7 +222,8 @@ footer a:hover {
   font-size: 0.95rem;
 }
 
-.brief-list li:last-child {
+.brief-list li:last-child,
+.brief-list li.last-visible {
   border-bottom: none;
 }
 
@@ -240,7 +241,7 @@ footer a:hover {
 .pagination {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
   margin-top: 1.5rem;
   font-size: 0.85rem;
   color: #888;
@@ -248,22 +249,21 @@ footer a:hover {
 
 .pagination button {
   background: none;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 0.3rem 0.75rem;
-  font-size: 0.85rem;
-  color: #555;
+  border: none;
+  padding: 0.1rem 0.25rem;
+  font-size: 1rem;
+  color: #aaa;
   cursor: pointer;
-  transition: border-color 0.15s, color 0.15s;
+  transition: color 0.15s;
+  line-height: 1;
 }
 
 .pagination button:hover:not(:disabled) {
-  border-color: #999;
-  color: #222;
+  color: #333;
 }
 
 .pagination button:disabled {
-  opacity: 0.35;
+  opacity: 0.25;
   cursor: default;
 }
 

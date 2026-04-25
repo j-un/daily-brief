@@ -24,10 +24,23 @@ title: Daily Brief
   function showPage(page) {
     current = page;
     var start = (page - 1) * PER_PAGE;
+    var lastVisible = null;
     items.forEach(function (item, i) {
-      item.style.display = (i >= start && i < start + PER_PAGE) ? '' : 'none';
+      var visible = i >= start && i < start + PER_PAGE;
+      item.style.display = visible ? '' : 'none';
+      item.classList.remove('last-visible');
+      if (visible) lastVisible = item;
     });
+    if (lastVisible) lastVisible.classList.add('last-visible');
     renderNav();
+  }
+
+  function btn(label, disabled, onClick) {
+    var b = document.createElement('button');
+    b.textContent = label;
+    b.disabled = disabled;
+    if (!disabled) b.addEventListener('click', onClick);
+    return b;
   }
 
   function renderNav() {
@@ -35,19 +48,13 @@ title: Daily Brief
     if (old) old.remove();
     var nav = document.createElement('nav');
     nav.className = 'pagination';
-    var prev = document.createElement('button');
-    prev.textContent = '← 前へ';
-    prev.disabled = current === 1;
-    prev.addEventListener('click', function () { showPage(current - 1); });
+    nav.appendChild(btn('«', current === 1, function () { showPage(1); }));
+    nav.appendChild(btn('‹', current === 1, function () { showPage(current - 1); }));
     var info = document.createElement('span');
     info.textContent = current + ' / ' + totalPages;
-    var next = document.createElement('button');
-    next.textContent = '次へ →';
-    next.disabled = current === totalPages;
-    next.addEventListener('click', function () { showPage(current + 1); });
-    nav.appendChild(prev);
     nav.appendChild(info);
-    nav.appendChild(next);
+    nav.appendChild(btn('›', current === totalPages, function () { showPage(current + 1); }));
+    nav.appendChild(btn('»', current === totalPages, function () { showPage(totalPages); }));
     list.parentNode.insertBefore(nav, list.nextSibling);
   }
 

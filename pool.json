@@ -439,7 +439,87 @@
       "fetched_at": "2026-04-25T10:37:13.277185+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d9208fae8ce4f747cf64f436164d304b",
+      "title": "",
+      "link": "https://future-architect.github.io/articles/20260417a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Mermaid.jsで数値報告のための簡易的なグラフを作るTips | フューチャー技術ブログ",
+      "published": "25 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "898e213def7ecef52631d8677d69ec94",
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "link": "https://github.com/nex-crm/wuphf",
+      "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db...",
+      "published": "Sat, 25 Apr 2026 08:53:53 +0000",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de280fa017d4b61869e71d74d5af12b5",
+      "title": "スペインの全法律をMarkdownファイル化しGitリポジトリで公開するプロジェクト「legalize-es」、法改正はコミットとして管理され追跡も可能",
+      "link": "https://gigazine.net/news/20260425-legalize-es/",
+      "summary": "法律は社会のルールを定める重要な文書ではあるものの一般人は条文そのものに触れる機会はあまり多くありません。「legalize-es」プロジェクトはスペインの全法律をMarkdownファイルとしてGitリポジトリで公開することで法律の透明性やアクセス性を向上させることを目指したプロジェクトです。 le...",
+      "published": "2026-04-25T09:58:53Z",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc0d3982a630f7428aa94ebb9900e207",
+      "title": "事前に定義した UI を AI に生成させる json-render を試してみた",
+      "link": "https://azukiazusa.dev/blog/json-render/",
+      "summary": "AI に UI を生成させる Generative UI の手法が注目されています。しかし、AI の出力が予測不可能であるため、意図しない UI が生成されてしまうリスクもあります。json-render はあらかじめ定義したコンポーネントやアクションのカタログに基づいて AI に JSON を生成...",
+      "published": "2026-04-25T05:44:36Z",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34dfea83a2ba1b16b9d40b7c3fcb9b7e",
+      "title": "メカニカルキーボードのFILCOで知られる「ダイヤテック」が事業終了",
+      "link": "https://gigazine.net/news/20260424-filco-diatec/",
+      "summary": "メカニカルキーボードのMajestouchシリーズで知られるダイヤテックが事業を終了(閉業)したことが明らかになりました。 ダイヤテック株式会社 https://www.diatec.co.jp/index.html ダイヤテックは自社ブランドの「FILCO」でキーボードを販売していた企業です。FI...",
+      "published": "2026-04-24T13:26:14Z",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3935a956aa0a3bb41f07eeae9c9b65e0",
+      "title": "パスワードマネージャーのBitwardenがサプライチェーン攻撃を受ける、npmパッケージを使っていた人は要確認",
+      "link": "https://gigazine.net/news/20260424-bitwarden-cli-supply-chain-attack/",
+      "summary": "オープンソースソフトウェアのセキュリティ専門のSocket社が、パスワードマネージャーのBitwardenがサプライチェーン攻撃を受けたことを発表しました。 Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ... https:/...",
+      "published": "2026-04-24T04:54:50Z",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d1ed1d6a1934da147bf0ab43ce8bff9",
+      "title": "npm install だけで機密情報が漏洩するリスク — サプライチェーンリスクのデモと対策",
+      "link": "https://zenn.dev/hisa_tech_2973/articles/13d4d58e62cb5b",
+      "summary": "「信頼できるパッケージを使っているから大丈夫」と思っていませんか？ 近年、npm パッケージを経由したサプライチェーンリスクが増加しており、npm install を実行しただけで機密情報が漏洩するリスクがあります。 本記事では、このリスクを実際に手元で再現できるデモを紹介し、取りうる対策とその限界...",
+      "published": "2026-04-25T00:39:22Z",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ae169fb23a902a770b4e06de446aaa5",
+      "title": "",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 mattpocock / skills ⭐ 18,813 (+857) 🗒 Shell My personal directory of skills, straight from my .claude directory.",
+      "published": "25 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-25T12:44:21.708402+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-25T10:37:13.277185+00:00"
+  "updated_at": "2026-04-25T12:44:21.708402+00:00"
 }

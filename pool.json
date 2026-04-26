@@ -359,7 +359,177 @@
       "fetched_at": "2026-04-26T08:51:41.141533+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "25146c7fdff276e3ac7250d52e2bb5f3",
+      "title": "境界値に対してのテスト実装状況を検証する静的解析ツールを作った",
+      "link": "https://zenn.dev/tsubasa_m/articles/173d01c0572068",
+      "summary": "わいわい。よさそう",
+      "published": "26 Apr 2026 10:34 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8af9ed9d4cb0e3920315a4865d0c4ac5",
+      "title": "",
+      "link": "https://zenn.dev/maropook/articles/274500b4d0c680",
+      "summary": "比較良い。どのフレームワークか忘れたけどログから実際に問題の箇所を追いにくいものがあったんだけどどれだったかな",
+      "published": "26 Apr 2026 10:32 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc1486a4fe5803d6dcdabdab5f79170b",
+      "title": "",
+      "link": "https://thinkit.co.jp/news/39120",
+      "summary": "stableリリースだ。backendとのHTTP/2対応、ECH対応、stickyセッションがcommercialからossに降りてきた、backendとHTTP/1.1がデフォルト、あたりが大きいな。backend次第ではHTTP/1.1だと都合が悪い場合があるから注意。",
+      "published": "26 Apr 2026 10:21 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a185876c6a11387f67d184de23bd2c25",
+      "title": "",
+      "link": "https://nakaoka3.hatenablog.com/entry/2026/vibe-coding-golf",
+      "summary": "「Claude Codeで何かをした後に、作業をふりかえり人間の指示回数と承認回数を数える」「Vibe Coding Golf」いいね。わいわい",
+      "published": "26 Apr 2026 10:16 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e163b1f4004920d4e09110605d9474d3",
+      "title": "",
+      "link": "https://github.com/morishin/XDeck",
+      "summary": "TweetDeck風のmacOS向けXクライアントアプリ。brew install --cask xdeck",
+      "published": "26 Apr 2026 10:13 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4aef67a4dee06fd109601a7343b56e2c",
+      "title": "",
+      "link": "https://github.com/citguru/openduck",
+      "summary": "MotherDuckのような分散DuckDB環境を構築するオープンソースのプロジェクトかな。DuckLakeとも別物。MotherDuck、Arrow Flight SQL、DuckLakeとの違いがREADMEでまとまってる。",
+      "published": "26 Apr 2026 10:10 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c25bf930182702d2bd5a257f5a132ff",
+      "title": "",
+      "link": "https://zenn.dev/solwat/articles/47b7cbdfd03c66",
+      "summary": "運用して気づいた落とし穴の部分がなかなか難しい問題ではある。なんとなく理解しているがPolicy as Codeを実践したことはないので今度やってみるか",
+      "published": "26 Apr 2026 09:49 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b164a6f0042ff81a9e8bec3be4e6e2f8",
+      "title": "",
+      "link": "https://zenn.dev/shinagawa_web/articles/pm-saas-migration-risks",
+      "summary": "経験して強くなるだ。CONCURRENTLYを入れる、ソフトデリート実装ならせめてPartial Indexを検討する、せやな。",
+      "published": "26 Apr 2026 09:46 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cd10005dc9c1d2af988cb29898486e5",
+      "title": "",
+      "link": "https://www.phoronix.com/news/jemalloc-5.3.1",
+      "summary": "jemallocが久々のリリース。5.3.0のリリースが2022年だったので約4年ぶり。バージョン番号が0.0.1上がっただけだが、コミット数は390。積もり積もっていたものがようやくリリースだ。わいわい",
+      "published": "26 Apr 2026 09:40 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa99a8cbfafec212d74316c13f7ab438",
+      "title": "",
+      "link": "https://japan.zdnet.com/article/35246420/",
+      "summary": "Ubuntu 26.04 LTSも無事Linux 7.0になったようでめでたい。",
+      "published": "26 Apr 2026 09:36 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "855fb890082125f3fd76d9c117d75094",
+      "title": "",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2101691.html",
+      "summary": "個人的には「ML-DSA-MU署名アルゴリズムのサポート」に注目しています。",
+      "published": "26 Apr 2026 09:32 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e328734bf26ed201e3f03ae8e1a287a",
+      "title": "",
+      "link": "https://engineerteam.note.jp/n/n74ba15f79e8c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Webパフォーマンス監視ツールをAIエージェントで作り直した話 ─ Slackだけで完結する運用を目指して",
+      "published": "26 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02ce015a72a0074b73e7704db12e6ef1",
+      "title": "Colorado Adds Open-Source Exemption to Age-Verification Bill",
+      "link": "https://fosstodon.org/@carlrichell/116460505717380644",
+      "summary": "Article URL: https://fosstodon.org/@carlrichell/116460505717380644 Comments URL: https://news.ycombinator.com/item?id=47905304 Points: 101 # Comments:...",
+      "published": "Sat, 25 Apr 2026 22:41:05 +0000",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd0fd78911402821654e3d0acdb8c461",
+      "title": "Claude CodeのVSCode拡張が使いやすいよ - Qiita",
+      "link": "https://qiita.com/moritalous/items/3c5269610f26e23c5b04",
+      "summary": "皆様、Claude Code使ってますか？ CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。 いつのころからか、左右にパネルが出るような構成になっています。 右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じです。 左側にある「New ...",
+      "published": "2026-04-25T23:05:21Z",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e3dc8b66c72651581a0d5a825d7a6e5",
+      "title": "Claude Code プラグインおすすめ 2026 — 公式マーケットプレイスから入れるべきプラグイン & MCP サーバー",
+      "link": "https://zenn.dev/ino_h/articles/2026-04-23-claude-code-plugins-ranking",
+      "summary": "はじめに Claude Code のプラグインエコシステムが急速に拡大しています。2026 年 4 月時点で、公式マーケットプレイス（claude-plugins-official）には 160 個のプラグインが登録されています。うち 32 個が Anthropic 製、残りはサードパーティ製です。...",
+      "published": "2026-04-24T21:57:36Z",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7587d7c75f0cd8039999ede3a25f65f",
+      "title": "Googleが競合AI企業のAnthropicに最大6兆4000億円を投資",
+      "link": "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/",
+      "summary": "AIアシスタントのGeminiを提供するGoogleが、AIアシスタントのClaudeを開発する競合他社であるAnthropicに、最大400億ドル(約6兆4000億円)を投資することを計画していると報じられました。 Google to invest up to $40 billion in AI ...",
+      "published": "2026-04-26T00:13:21Z",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "104b57e9a4316877012855b4a7c9148d",
+      "title": "GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI",
+      "link": "https://github.com/microsoft/VibeVoice",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2025-08-25T22:41:26Z",
+      "fetched_at": "2026-04-26T10:38:58.849404+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-26T08:51:41.141533+00:00"
+  "updated_at": "2026-04-26T10:38:58.849404+00:00"
 }

@@ -739,7 +739,137 @@
       "fetched_at": "2026-04-26T12:47:44.085510+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "45cffa627ab6a676d0e85b2893b70092",
+      "title": "",
+      "link": "https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills",
+      "summary": "--pinでバージョン/SHAの固定も可能。gh skillやっていき",
+      "published": "26 Apr 2026 14:31 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "794b957f0ac9c7a9c53acd76ea203a9b",
+      "title": "",
+      "link": "https://zenn.dev/pomate/articles/a1ea6685d1e7d3",
+      "summary": "構成要素はCloudflare Workers、Railway、CockroachDB Cloud、Upstash Redisなど。",
+      "published": "26 Apr 2026 14:26 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "034e478ac5e2a864631526438c6299a8",
+      "title": "",
+      "link": "https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap",
+      "summary": "LEFT OUTER JOINのON句でIS NULL判定するのは本当に欲しかった結果なのか（WHERE句に配置すべきだったのでは）は少し気になりました。",
+      "published": "26 Apr 2026 14:16 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e4d4680428b3ae46c610165266c29dd",
+      "title": "要件定義書の成果物を1枚ずつ解説する記事がなかったので、架空のプロジェクトで自分でつくって解説します",
+      "link": "https://zenn.dev/h4gi/articles/612cff3d96b3c0",
+      "summary": "わいわい。素晴らしい",
+      "published": "26 Apr 2026 13:02 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "635df64d0be1acbaba62f7436c0f2a72",
+      "title": "Asahi Linux Progress Linux 7.0",
+      "link": "https://asahilinux.org/2026/04/progress-report-7-0/",
+      "summary": "Article URL: https://asahilinux.org/2026/04/progress-report-7-0/ Comments URL: https://news.ycombinator.com/item?id=47909226 Points: 235 # Comments: 6...",
+      "published": "Sun, 26 Apr 2026 10:50:32 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0f79b160ebe5044f8f9984e4cd77bc8",
+      "title": "Statecharts: hierarchical state machines",
+      "link": "https://statecharts.dev/",
+      "summary": "Article URL: https://statecharts.dev/ Comments URL: https://news.ycombinator.com/item?id=47908833 Points: 132 # Comments: 31",
+      "published": "Sun, 26 Apr 2026 09:32:22 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75746f23afd51ba1287e4d5b9d867df9",
+      "title": "GnuPG – post-quantum crypto landing in mainline",
+      "link": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html Comments URL: https://news.ycombinator.com/item?id=47907018 Points: 1...",
+      "published": "Sun, 26 Apr 2026 03:25:02 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "064f190eacffbf6fa8608473b15e90f0",
+      "title": "The Super Nintendo Cartridges (2024)",
+      "link": "https://fabiensanglard.net/snes_carts/",
+      "summary": "Article URL: https://fabiensanglard.net/snes_carts/ Comments URL: https://news.ycombinator.com/item?id=47906161 Points: 100 # Comments: 13",
+      "published": "Sun, 26 Apr 2026 00:38:01 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37ff474cebae377731b2ddc0c7ed87ba",
+      "title": "PdMの仕事の半分は、AIに奪われた。残り半分で、私は病院に通い始めた｜oyamadashokiti",
+      "link": "https://note.com/oyamadashokiti/n/nb28796592d38",
+      "summary": "「先生、この文書AIで作ってみたんですけど…」 診察室のすぐ隣、病院の事務室で私がそう切り出したとき、目の前にいた医師の表情が、一瞬だけ曇りました。 「AIに？」 疑いと、少しの警戒。それでも目の前の画面に並んだ文章を黙読した医師は、数十秒後にぽつりと言ったのです。「……これ、使えるかもな」。 この...",
+      "published": "2026-04-26T11:14:41Z",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33041d8619a86bce3fb4d961f9543977",
+      "title": "GitHub - HQarroum/docker-android: 🤖 A minimal and customizable Docker image running the Android emulator as a service.",
+      "link": "https://github.com/HQarroum/docker-android/",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-04-26T02:50:06Z",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6d2cd33a764b0504d04117962a4f3d6",
+      "title": "“Plain text has been around for decades and it’s here to stay.” – Unsung",
+      "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "summary": "There’s a category of “plain text” or “ASCII” diagramming and UI design tools: Mockdown – works immediately on the web, even on mobile Wiretext – work...",
+      "published": "2026-04-26T05:08:43Z",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b59ca31a0898c105d8c70e4ec7afe21e",
+      "title": "Video.js v10ベータ版リリース、なぜこんなに時間がかかったのか？",
+      "link": "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
+      "summary": "Video.jsはHTML5ベースのウェブビデオプレイヤーを構築するためのオープンソースフレームワークであり世界で最も人気のあるものの一つです。2026年3月にVideo.jsの開発チームはVideo.js v10のベータ版をリリースしました。Video.jsはv10ベータ版のリリースまでに長い期間...",
+      "published": "2026-04-26T03:23:22Z",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf53335606249c5e75bdf3173635c872",
+      "title": "",
+      "link": "https://github.com/curl/curl",
+      "summary": "📦 curl / curl ⭐ 41,415 (+9) 🗒 C A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHE...",
+      "published": "26 Apr 2026 13:16 +0000",
+      "fetched_at": "2026-04-26T14:38:05.831546+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-26T12:47:44.085510+00:00"
+  "updated_at": "2026-04-26T14:38:05.831546+00:00"
 }

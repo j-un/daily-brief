@@ -529,7 +529,217 @@
       "fetched_at": "2026-04-26T10:38:58.849404+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "043b422a858261ba4acade15ecfcb78b",
+      "title": "",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15485-1",
+      "summary": "SEOの次はAIに最適化されたAIOと。2026年4月24日発売",
+      "published": "26 Apr 2026 12:40 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47acd92a094df16729f7e7b82d086c17",
+      "title": "ERROR: The request could not be satisfied",
+      "link": "https://www.sbcr.jp/product/4815637231/",
+      "summary": "2026年5月31日発売",
+      "published": "26 Apr 2026 12:30 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5c1275b2196e8365843a8cf15dddb10",
+      "title": "",
+      "link": "https://www.docker.com/ja-jp/products/docker-sandboxes/",
+      "summary": "Docker Sandboxesはこちらです",
+      "published": "26 Apr 2026 12:22 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3334e2a167c52c80de93197e23fc1f53",
+      "title": "",
+      "link": "https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/",
+      "summary": "Docker社がAIエージェントを稼働させるために用意したDocker SandboxesはMicroVM上で動作させているらしい。その理由はAIエージェントがDocker環境を利用するためと。macOSはbrew install docker/tap/sbx、Windowsはwinget inst...",
+      "published": "26 Apr 2026 12:21 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "249c6a5d2d01b37e9d2741380d6730f4",
+      "title": "",
+      "link": "https://github.com/open-telemetry/opentelemetry-php-distro",
+      "summary": "PHPにOpenTelemetryを簡単に組み込むためのパッケージ群か。PHP 8.1〜8.4に対応。OSパッケージ(deb/rpm/apk)で提供されているので導入しやすいと。limitationを見ると現時点ではxdebugと相性が悪いっぽい。",
+      "published": "26 Apr 2026 11:26 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09804a2a0e4ec0cd2c035e267dd07c3a",
+      "title": "",
+      "link": "https://zenn.dev/microsoft/articles/github-copilot-cli-remote-session",
+      "summary": "「Copilot Business / Enterprise では管理者が「Remote Control」ポリシーを有効にする必要あり（デフォルトはオフ）」管理者にお願いしましょう",
+      "published": "26 Apr 2026 11:20 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8062a6d88eabfc09b0eff0d68ab4d2e9",
+      "title": "",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/",
+      "summary": "この記事の「知っておくべきこと」にも記載されているが、IPアドレス範囲が被らないこととMTUを合わせること（デフォルトがAWSとGoogle Cloudで異なる）は気をつけましょう。",
+      "published": "26 Apr 2026 11:18 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c12e787b12e5b2881febeef0d2825fe2",
+      "title": "独習Rust（WINGSプロジェクト 山内 直 山田 祥寛）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798189314",
+      "summary": "2026年6月15日発売",
+      "published": "26 Apr 2026 11:08 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4562fd0edac1566e64404308a62627b",
+      "title": "",
+      "link": "https://www.percona.com/blog/rate-limiting-strategies-with-valkey-redis/",
+      "summary": "Rate Limitingの方式紹介とValkey/Redisでの実装例。Rate Limit難しい問題だ。わいわい",
+      "published": "26 Apr 2026 11:04 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41acb8b972c596ef47b6be4ee7d7fa41",
+      "title": "",
+      "link": "https://surfacedby.com/tools/robots-txt-checker",
+      "summary": "指定されたWebサイトのrobots.txtがメジャーなAI系botを受け入れる設定になっているか確認できるツール。AI系アクセスを受け入れたい／受け入れたくない、いずれの場合も確認に使えそう。",
+      "published": "26 Apr 2026 11:01 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de088405431a70d3bce67dead463d584",
+      "title": "",
+      "link": "https://gigazine.net/news/20260416-google-gemini-app-for-macos/",
+      "summary": "速攻でhomebrewに追加されてた。brew install --cask google-gemini",
+      "published": "26 Apr 2026 10:57 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c71ce42dc736166028751966c5e4cfd2",
+      "title": "",
+      "link": "https://github.com/pocket-id/pocket-id",
+      "summary": "オープンソースなOIDCプロバイダ実装。KeycloakやOry Hydraなどに比べてシンプルで簡単に始められることを謳ってる。あとパスキーのみサポート（パスワードは意図的に排除）だそうです。Go実装",
+      "published": "26 Apr 2026 10:54 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b167e83e7566aa7e239e8c1cc84e4b8",
+      "title": "",
+      "link": "https://zenn.dev/aeonpeople/articles/ac68b50f025f22",
+      "summary": "今年が第2回。開催自体を知らなかったが来年は参加できるだろうか。どこ見てれば開催を知ることができるんだろう。",
+      "published": "26 Apr 2026 10:42 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27f5ca6606a6e1a4c87ff50e381f0d7c",
+      "title": "",
+      "link": "https://gigazine.net/news/20260410-git-command-before-reading-code/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 新しくプロジェクトに入った人がリポジトリの現状を素早く把握するためのGitコマンド5選",
+      "published": "26 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87ac0e05e07b7e70a025e59c8883bf34",
+      "title": "Mine, an IDE for Coalton and Common Lisp",
+      "link": "https://coalton-lang.github.io/mine/",
+      "summary": "Article URL: https://coalton-lang.github.io/mine/ Comments URL: https://news.ycombinator.com/item?id=47903173 Points: 102 # Comments: 48",
+      "published": "Sat, 25 Apr 2026 17:47:02 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf2b4a3654d16a9aaf55b5a42c7dfa62",
+      "title": "ターミナルで動く開発モニタをRustで作った — Ratatuiで実用TUIを作って見えた5つの設計課題とその解き方",
+      "link": "https://zenn.dev/okamyuji/articles/ratatui-real-world-tui-design-patterns",
+      "summary": "イベントループの設計 これらを1つのイベントループでどう協調させるかが最初の課題です。 最初に考えたのは、すべてのデータ取得をtokioのタスクとして非同期に走らせるアプローチです。しかし、ポートスキャンやプロセス一覧の取得はコマンド実行やシステムコール経由であり、非同期化してもほとんどメリットがあ...",
+      "published": "2026-04-25T03:29:14Z",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c6efaa233a57a182f298f6646219690",
+      "title": "進むか「AI配転」 事務仕事減らし、営業強化へ 異業種に参入も：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV4R2W8VV4RULLI00KM.html",
+      "summary": "生成AIの急速な広がりが、人々の働き方を大きく変え始めた。AI活用を進める企業では、事務や企画などのオフィスワークをAIに代替させることで業務をスリム化し、その分の人材を営業力強化などに振り向けよう…",
+      "published": "2026-04-24T20:07:54Z",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4139b373053a989341d9122159c3652",
+      "title": "GoからBrainfuckへのコンパイラを作った - プログラムモグモグ",
+      "link": "https://itchyny.hatenablog.com/entry/2026/04/25/090000",
+      "summary": "go2bfという、Go言語(のサブセット)のソースコードをBrainfuckにコンパイルするコンパイラを作りました。 Goで書かれたソースコードをBrainfuckにコンパイルし、組み込みのインタプリタで実行できます。 Brainfuckはたった8つの命令しか持たないプログラミング言語です。 go2...",
+      "published": "2026-04-25T02:33:13Z",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbd77228a6c4668aa959c5cf04b44932",
+      "title": "Anthropicのエージェント市場実験「Project Deal」で浮き彫りになる無自覚な経済格差",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/26/news023.html",
+      "summary": "米Anthropicは4月24日（現地時間）、同社のAIモデル「Claude」を用いた自律的な市場取引の検証プロジェクト「Project Deal」の結果を発表した。従業員の私物をAIエージェント同士が自動で価格交渉し、売買を成立させる実験で、AIモデルの性能差が取引結果に明確な影響を与えることが分...",
+      "published": "2026-04-25T22:20:30Z",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65abd57820096fdc89d8ce372c62e463",
+      "title": "PDF4LLM：LLM前処理ドキュメント処理レイヤー - Qiita",
+      "link": "https://qiita.com/jamie-lemon/items/1b4a5c771cd8c1638915",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? PDFを解析する。LLMを強化する。 あら...",
+      "published": "2026-04-25T14:06:27Z",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd21c2cf11fc945041c46e569bfc6c6",
+      "title": "",
+      "link": "https://github.com/openclaw/openclaw",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 openclaw / openclaw ⭐ 364,176 (+620) 🗒 TypeScript Your own personal AI assistant. Any OS. Any Platform. The lobste...",
+      "published": "26 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-26T12:47:44.085510+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-26T10:38:58.849404+00:00"
+  "updated_at": "2026-04-26T12:47:44.085510+00:00"
 }

@@ -869,7 +869,177 @@
       "fetched_at": "2026-04-26T14:38:05.831546+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "afb67f4ee0e7fa2e22a1b5031ee1ecbd",
+      "title": "Friends Don't Let Friends Use Ollama | Sleeping Robots",
+      "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+      "summary": "Ollamaやめましょうと。",
+      "published": "26 Apr 2026 15:41 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6704e8b0949952791dc70a03f40bbab",
+      "title": "",
+      "link": "https://github.com/SethPyle376/hiraeth",
+      "summary": "localstack代替のAWSエミュレータ。現時点ではSQSだけかな。",
+      "published": "26 Apr 2026 15:37 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c64e3c21e33f420611bdfebfb69a22d1",
+      "title": "Google、「Android CLI」をプレビュー ～エージェントを用いたアプリ開発を効率化 - 窓の杜",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2102415.html",
+      "summary": "AndroidアプリもCLIで作る時代だったか。",
+      "published": "26 Apr 2026 15:34 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a35b7a98428b96e7bd5292b6d2c3d8e",
+      "title": "",
+      "link": "https://gigazine.net/news/20260416-gemini-3-1-flash-tts/",
+      "summary": "合成結果サンプルを聞いてみたら想像よりも良かった。もうこんなところまで来てしまってるんやね。",
+      "published": "26 Apr 2026 15:33 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a37f95b52a41f883cc4777b297c28d5",
+      "title": "",
+      "link": "https://pretty.fish/",
+      "summary": "Mermaid形式の構成図をプレビューしながら作成できるサイト。良さそう",
+      "published": "26 Apr 2026 15:29 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "774b466a834627b1344fbe63c82befc1",
+      "title": "Installing OpenBSD on the Pomera DM250 - joshua stein",
+      "link": "https://jcs.org/2026/04/09/openbsd-dm250",
+      "summary": "ポメラDM250でOpenBSDが動くらしいぞうおおおおお",
+      "published": "26 Apr 2026 15:27 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee50a50f4df36090158167c2ff06e35b",
+      "title": "",
+      "link": "https://gigazine.net/news/20260418-manyana/",
+      "summary": "本文中のコンフリクトサンプルを見たが、うーんどうでしょうね。本当に分かりやすいだろうか。複雑に絡むと見辛くならないかな。あとこれを結果整合性というのは個人的には違和感を感じてしまう。",
+      "published": "26 Apr 2026 15:16 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50ed9ac5f4bbb329fc10b3f72f8a9326",
+      "title": "",
+      "link": "https://gigazine.net/news/20260415-google-app-for-desktop/",
+      "summary": "AIモードやGoogleレンズも搭載。現時点でWindowsのみ。",
+      "published": "26 Apr 2026 15:00 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a6323d901ceea0462a64014773a7e47",
+      "title": "社内SQLチューニングコンテストの開催にあたって得られた知見",
+      "link": "https://zenn.dev/forcia_tech/articles/202604_devsemi_sql",
+      "summary": "いいね。わいわい",
+      "published": "26 Apr 2026 14:51 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e871e24fec7899818f09746df9090915",
+      "title": "",
+      "link": "https://github.com/chenhg5/cc-connect",
+      "summary": "Claude Codeやその他CLI系AIエージェントと、チャットシステム(Slack, Discord, LINEなど)の橋渡しをしてくれるアプリ。サポートが幅広い。macOSならbrew install cc-connectでインストール可。Go実装。",
+      "published": "26 Apr 2026 14:38 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5d1efd0f8c1c49a40cdd5913dc3a31b",
+      "title": "At least 10 people tied to sensitive US research have died or disappeared",
+      "link": "https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation",
+      "summary": "Article URL: https://www.cnn.com/2026/04/21/us/deaths-disappearances-scientists-investigation Comments URL: https://news.ycombinator.com/item?id=47909...",
+      "published": "Sun, 26 Apr 2026 12:55:26 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6d77cc3b9afbd53d02005041d1957fc",
+      "title": "Eden AI – European Alternative to OpenRouter",
+      "link": "https://www.edenai.co",
+      "summary": "Article URL: https://www.edenai.co Comments URL: https://news.ycombinator.com/item?id=47908433 Points: 105 # Comments: 57",
+      "published": "Sun, 26 Apr 2026 08:18:09 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d1e27306b190fe779bc8b627c291c31",
+      "title": "Claude Code を安全に使おう勉強会 / Claude Code Security Basics",
+      "link": "https://speakerdeck.com/masahirokawahara/claude-code-security-basics",
+      "summary": "Sponsored · Ship Features Fearlessly Turn features on and off without deploys. Used by thousands of Ruby developers. →",
+      "published": "2026-04-26T13:10:20Z",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "66088c22b51a3ec8d68600accf43e180",
+      "title": "CAMPFIRE 22.5万人情報漏えい — GitHub不正アクセスから何を学ぶか",
+      "link": "https://zenn.dev/awesome_kou/articles/campfire-github-breach-2026",
+      "summary": "本記事は2026年4月25日時点で公開されている情報に基づきます。事件の最終的な影響範囲・攻撃手法の詳細は今後の公式発表で更新される可能性があります。 はじめに 2026年4月24日、クラウドファンディング国内最大手の 株式会社CAMPFIRE が、最大 22万5846人分 の個人情報が漏えいした可...",
+      "published": "2026-04-25T23:11:46Z",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00ed8921c73687ff5453eee9509f4b28",
+      "title": "SIerのウォーターフォール開発をスキル化して、AI駆動開発しやすい形に再構成する",
+      "link": "https://zenn.dev/is0383kk/articles/5615d445490d7a",
+      "summary": "１．はじめに SIerの現場では、ウォーターフォール型の開発プロセスが長年にわたって整備されてきました。 大きなSIerでは、開発プロセスが標準化され、豊富なドキュメント資産が存在します。 一方で、こうした標準プロセスには次のような課題があります。 習得コスト：標準プロセスを使いこなすまでの習熟コス...",
+      "published": "2026-04-22T12:22:01Z",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33cf411d1b08b0fd04e1144d8c83a45a",
+      "title": "",
+      "link": "https://github.com/home-assistant/core",
+      "summary": "📦 home-assistant / core ⭐ 86,281 (+52) 🗒 Python 🏡 Open source home automation that puts local control and privacy first.",
+      "published": "26 Apr 2026 16:16 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c77ce24ce71f68a56e9eee29c633caf6",
+      "title": "",
+      "link": "https://github.com/gastownhall/beads",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 gastownhall / beads ⭐ 21,459 (+133) 🗒 Go Beads - A memory upgrade for your coding agent",
+      "published": "26 Apr 2026 15:16 +0000",
+      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-26T14:38:05.831546+00:00"
+  "updated_at": "2026-04-26T16:34:33.508490+00:00"
 }

@@ -149,7 +149,107 @@
       "fetched_at": "2026-04-26T02:00:01.444697+00:00",
       "feed_name": "Hacker News (100pts+)",
       "category": "main"
+    },
+    {
+      "entry_id": "cd30b2a501fdf7652ff653ed589093cb",
+      "title": "",
+      "link": "https://automaton-media.com/articles/newsjp/mark-darrah-20260418-438289/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ベテランゲーム開発者が「ゲーム開発会議には“素人”も出席すべき」との持論を披露。素人に伝わらないこだわりは、プレイヤーにも伝わらないかも - AUTOMATON",
+      "published": "26 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af76bc2b82eaab528d159e89dda3c9a7",
+      "title": "",
+      "link": "https://cybernews.com/tech/ipv8-proposal-slammed-by-tech-professionals/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 New IPv8 draft proposes doubling IP address length, sparks uproar among tech pros",
+      "published": "26 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fc5188a0464e56a0d5bec87caa40047",
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "link": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "summary": "Article URL: https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Sun, 26 Apr 2026 00:12:47 +0000",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c74876c2c639847b04236707d52309d",
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "summary": "https://www.erdosproblems.com/1196 Comments URL: https://news.ycombinator.com/item?id=47903126 Points: 195 # Comments: 127",
+      "published": "Sat, 25 Apr 2026 17:40:38 +0000",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "675061097227a1cc4e47222d4cb1194a",
+      "title": "Simulacrum of Knowledge Work",
+      "link": "https://blog.happyfellow.dev/simulacrum-of-knowledge-work/",
+      "summary": "Article URL: https://blog.happyfellow.dev/simulacrum-of-knowledge-work/ Comments URL: https://news.ycombinator.com/item?id=47902987 Points: 122 # Comm...",
+      "published": "Sat, 25 Apr 2026 17:20:34 +0000",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03e91f21fea98840c3d8d1dfb0ecadee",
+      "title": "なぜLLMは日本文化に夢中なのか？ – LLMに潜む隠れた文化的・地域的バイアス - AIDB",
+      "link": "https://ai-data-base.com/paper/2604-21751",
+      "summary": "LLMs have been showing limitations when it comes to cultural coverage and competence, and in some cases show regional biases such as amplifying Wester...",
+      "published": "2026-04-25T18:39:51Z",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d880c93774bdc105c836e0c5fdf526fe",
+      "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
+      "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
+      "summary": "はじめに 最近、AI エージェント（GitHub Copilot / Claude Code / Cursor / OpenCode / Codex …）に渡す「指示書」の種類が一気に増えました。 GitHub Copilot → .github/instructions/*.md, .github...",
+      "published": "2026-04-25T23:44:03Z",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f4b0df4d427d8acbf7da73e15e9b67f",
+      "title": "OWASP ZAP の finding を Rust/Axum の handler に戻して直す - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/04/23/195535",
+      "summary": "はじめに vulnerable-app に ZAP の full scan を回すと、High finding が並びます。XSS、SQL Injection、Path Traversal。alert 名を眺めて、ふと気づく。これは「危険です」の一覧ではない。handler への差し戻し指示書だ。 ...",
+      "published": "2026-04-26T01:33:01Z",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "967d65350087f6edfb4abe6633826fe4",
+      "title": "Rubyist Lazy Load #とは",
+      "link": "https://kwappa.net/blog/20260424/rubyist_lazy_load/",
+      "summary": "Fri, Apr 24, 2026 One-minute read2026年4月22日〜24日、RubyKaigi 2026 が北海道の函館で開催されています。それに先駆けて企画された「Rubyist Bulk Reload 」と、Twitter（現X）で一部盛り上がりを見せた「#Rubyist_L...",
+      "published": "2026-04-24T11:10:44Z",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40eeb1570d95ce3fbffdf7b395fe8c49",
+      "title": "GitHub - harshankur/officeParser: A robust, strictly-typed Node.js and Browser library for parsing office files (docx, pptx, xlsx, odt, odp, ods, pdf, rtf). It produces a clean, hierarchical Abstract Syntax Tree (AST) with rich metadata, text formatting,",
+      "link": "https://github.com/harshankur/officeParser",
+      "summary": "Test any office file in your browser and see the extracted AST, text, and preview in real-time which is rebuilt from the AST! What you can do there: A...",
+      "published": "2024-02-16T10:02:47Z",
+      "fetched_at": "2026-04-26T05:16:25.486850+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-26T02:00:01.444697+00:00"
+  "updated_at": "2026-04-26T05:16:25.486850+00:00"
 }

@@ -1349,7 +1349,177 @@
       "fetched_at": "2026-04-27T20:54:19.530687+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "9545f59b2066f79fa7eb8cfc56492d39",
+      "title": "Is my blue your blue?",
+      "link": "https://ismy.blue/",
+      "summary": "Article URL: https://ismy.blue/ Comments URL: https://news.ycombinator.com/item?id=47926861 Points: 148 # Comments: 91",
+      "published": "Mon, 27 Apr 2026 20:24:33 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9212820615cd76625f73e1e7024622bd",
+      "title": "U.S. companies back Sam Altman's World ID even as much of the world pushes back",
+      "link": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/",
+      "summary": "Article URL: https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/ Comments URL: https://news.ycombinator.com/item?id=47926259 P...",
+      "published": "Mon, 27 Apr 2026 19:35:37 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef5d99236380fb49c8eca49d3eeda5fa",
+      "title": "Supreme Court to hear arguments in landmark Roundup weedkiller case",
+      "link": "https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/04/26/climate/supreme-court-bayer-monsanto-roundup-glyphosate.html Comments URL: https://news.ycombinator.co...",
+      "published": "Mon, 27 Apr 2026 15:45:13 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d7cf77d9382493b84781bd359979713",
+      "title": "Running local LLMs offline on a ten-hour flight",
+      "link": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+      "summary": "Article URL: https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/ Comments URL: https://news.ycombinator.com/item?id=47921064 Poi...",
+      "published": "Mon, 27 Apr 2026 13:05:59 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a12423898a6727c4f96d407e4b1a5cb",
+      "title": "OpenAI、マイクロソフトとのクラウド独占契約を解消、すべてのクラウドで同社サービスを提供へ",
+      "link": "https://www.techno-edge.net/article/2026/04/28/5027.html",
+      "summary": "OpenAIとマイクロソフトは、両社間の提携関係について「双方にとって有益となるよう」見直しをしたと発表しました。",
+      "published": "Tue, 28 Apr 2026 07:00:02 +0900",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "cabfcd594f2240d01b037fbd8306dd57",
+      "title": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/",
+      "summary": "Amazon Redshift Serverless, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now general...",
+      "published": "Mon, 27 Apr 2026 19:00:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e616e85adadb0a06bdeb2ca64f3c5590",
+      "title": "Amazon Connect increases attachment file sizes and adds custom file types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/",
+      "summary": "Amazon Connect now supports attachment file sizes up to 100 MB for chat, cases, and tasks, up from the previous 20 MB limit. Administrators can enable...",
+      "published": "Mon, 27 Apr 2026 18:45:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c76d7784e5028f06fd16b0809f52f4b0",
+      "title": "Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/",
+      "summary": "You can now create Amazon FSx for OpenZFS Single-AZ (HA) file systems in seventeen additional AWS Regions across the South America, Europe, Africa, As...",
+      "published": "Mon, 27 Apr 2026 16:53:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c92f78235ab3eb8ba4c9c4f5e2ecac15",
+      "title": "Amazon SageMaker Unified Studio now offers CI/CD CLI for data and AI applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-smus-ci-cd-cli/",
+      "summary": "Amazon SageMaker Unified Studio now offers the CI/CD CLI (aws-smus-cicd-cli), an open-source command line tool that automates deployment of multi-serv...",
+      "published": "Thu, 23 Apr 2026 19:00:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e530524798204b9f9fda6213158c58b",
+      "title": "Amazon Quick Automate announces shared file storage for automations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-automate-shared-file-storage/",
+      "summary": "Amazon Quick Automate now supports in-app file storage, enabling you to seamlessly manage files within your automations without requiring external sto...",
+      "published": "Tue, 21 Apr 2026 06:22:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "542bea8a5da75573d5e8917855585e0d",
+      "title": "Amazon Quick Automate now provides APIs to trigger and monitor automation jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-automate-api-trigger/",
+      "summary": "Amazon Quick Automate now provides APIs that enable you to programmatically start automation jobs and check their status from external applications an...",
+      "published": "Tue, 21 Apr 2026 05:49:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb6efe7943a91f37b1b20f0b986248df",
+      "title": "Amazon Quick Automate now supports import and export of automations across AWS accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-automate-import-export/",
+      "summary": "Amazon Quick Automate now enables you to migrate automation versions across automation groups, AWS accounts, and AWS Regions. Previously, moving autom...",
+      "published": "Mon, 20 Apr 2026 20:12:00 GMT",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "49629e47acbeca8634397008c8ba0e8f",
+      "title": "【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」",
+      "link": "https://zenn.dev/nijima/articles/651ed3c1f2ded5",
+      "summary": "はじめに 「どのフレームワークを選ぶべきか？」 これは初学者だけでなく、新規事業の技術選定を任された中級者にとっても常に悩ましいテーマです。 いまフロントエンドの世界は、大きな転換期を迎えています。長年使われてきたReact、Vue、Angularの三大フレームワークが、これまでの古い常識を捨てて新...",
+      "published": "2026-04-27T16:14:18Z",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13aeb300c4f4bbc4908c45a8db8b32e5",
+      "title": "「オーディオで培った技術で、ゲームを快適に」。Switch 2用アクセサリに参入、AZLA、LEPIC GAMINGの挑戦[Sponsored]",
+      "link": "https://av.watch.impress.co.jp/docs/topic/special/2101016.html",
+      "summary": "",
+      "published": "2026-04-27T12:39:12Z",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac8bd190206bbf7a2a0a135e4068b042",
+      "title": "「KB5083769」で導入の新しいリモートデスクトップ接続（RDP）ファイルの警告に不具合／特定条件下でメッセージの読み取りや操作が困難に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2105041.html",
+      "summary": "",
+      "published": "2026-04-27T08:39:43Z",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afdace39e7492d8a97f67bee65617c80",
+      "title": "",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 TauricResearch / TradingAgents ⭐ 53,320 (+183) 🗒 Python TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "published": "27 Apr 2026 22:16 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7dedb2d2d771597940c3732621ba5c45",
+      "title": "",
+      "link": "https://github.com/penpot/penpot",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 penpot / penpot ⭐ 46,315 (+283) 🗒 Clojure Penpot: The open-source design tool for design and code collaboration",
+      "published": "27 Apr 2026 21:16 +0000",
+      "fetched_at": "2026-04-27T22:26:43.063325+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-27T20:54:19.530687+00:00"
+  "updated_at": "2026-04-27T22:26:43.063325+00:00"
 }

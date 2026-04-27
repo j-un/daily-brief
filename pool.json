@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ee50a50f4df36090158167c2ff06e35b",
-      "title": "",
-      "link": "https://gigazine.net/news/20260418-manyana/",
-      "summary": "本文中のコンフリクトサンプルを見たが、うーんどうでしょうね。本当に分かりやすいだろうか。複雑に絡むと見辛くならないかな。あとこれを結果整合性というのは個人的には違和感を感じてしまう。",
-      "published": "26 Apr 2026 15:16 +0000",
-      "fetched_at": "2026-04-26T16:34:33.508490+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "42b79a5a82eea8e44f25126ac2972a6d",
       "title": "",
       "link": "https://www.publickey1.jp/blog/26/salesforceapiclimcpsalesforce_headless_360.html",
@@ -1269,7 +1259,97 @@
       "fetched_at": "2026-04-27T19:07:01.036084+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "b7f7cb27c49d4dd448c0f0420e0ca2c5",
+      "title": "United Wizards of the Coast",
+      "link": "https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa",
+      "summary": "Article URL: https://unitedwizardsofthecoast.com/news/announcing-united-wizards-coast-cwa Comments URL: https://news.ycombinator.com/item?id=47925425 ...",
+      "published": "Mon, 27 Apr 2026 18:34:30 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7115651be10e5e77e45fd8a655ad9275",
+      "title": "Super ZSNES – GPU Powered SNES Emulator",
+      "link": "https://zsnes.com/",
+      "summary": "Article URL: https://zsnes.com/ Comments URL: https://news.ycombinator.com/item?id=47924877 Points: 138 # Comments: 29",
+      "published": "Mon, 27 Apr 2026 17:50:10 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff5a19d6482beb662e78835ab32b550d",
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "link": "https://github.com/Hanqaqa/Easyduino",
+      "summary": "Article URL: https://github.com/Hanqaqa/Easyduino Comments URL: https://news.ycombinator.com/item?id=47924813 Points: 115 # Comments: 11",
+      "published": "Mon, 27 Apr 2026 17:45:02 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e9de1c372502f7d7dcfa163363c3d74",
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "summary": "https://www.reuters.com/world/asia-pacific/china-blocks-fore...https://www.bbc.com/news/articles/cj0v0gr2yz7o Comments URL: https://news.ycombinator.c...",
+      "published": "Mon, 27 Apr 2026 11:43:59 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b0d53c448753bdf489f0eaecb4b3455",
+      "title": "AIエージェントが本番環境のデータベースとバックアップを全破壊してしまったことを自白",
+      "link": "https://gigazine.net/news/20260427-ai-coding-agent-deleted-database/",
+      "summary": "PocketOS創業者のJER氏が、「AIコーディングエージェントが本番環境のデータベースとボリューム単位のバックアップを削除し、顧客企業の業務に深刻な影響が出た」と報告しています。問題の操作はCursor上で動作するAnthropicのClaude Opus 4.6によって実行され、JER氏による...",
+      "published": "2026-04-27T10:55:36Z",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13056576aff55aefce4bf15b2118554a",
+      "title": "毎日iPhoneに勝手にアプリがインストールされる奇怪な現象が発生中",
+      "link": "https://gigazine.net/news/20260427-app-silently-installing-iphone/",
+      "summary": "ソーシャル掲示板のHacker NewsやReddit上で、「毎日iPhoneに勝手にアプリがインストールされる」という謎の現象が報告されています。 Tell HN: An app is silently installing itself on my iPhone every day | Hack...",
+      "published": "2026-04-27T07:08:42Z",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5be9284bd6d1ce37f2ec026a123d20ce",
+      "title": "",
+      "link": "https://github.com/donnemartin/system-design-primer",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 donnemartin / system-design-primer ⭐ 344,825 (+366) 🗒 Python Learn how to design large-scale systems. Prep for th...",
+      "published": "27 Apr 2026 20:16 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51be604eeab68db5d9cfccfb08a90626",
+      "title": "",
+      "link": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "summary": "📦 deepseek-ai / DeepSeek-V3 ⭐ 102,963 (+60) 🗒 Python",
+      "published": "27 Apr 2026 19:16 +0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82605d8d85b1d2812c9d2ba07406ea30",
+      "title": "This Friday is Bandcamp Friday",
+      "link": "https://daily.bandcamp.com/features/bandcamp-fridays",
+      "summary": "Read full story on the Bandcamp Daily.",
+      "published": "Sun, 26 Apr 2026 01:01:50 -0000",
+      "fetched_at": "2026-04-27T20:54:19.530687+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-27T19:07:01.036084+00:00"
+  "updated_at": "2026-04-27T20:54:19.530687+00:00"
 }

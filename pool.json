@@ -619,7 +619,187 @@
       "fetched_at": "2026-04-28T06:24:57.454872+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "main"
+    },
+    {
+      "entry_id": "c1c402d4b2e1d366dbc6b1b1e7f652e4",
+      "title": "",
+      "link": "https://github.blog/jp/2026-04-21-changes-to-github-copilot-individual-plans/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Copilot個人向けプランの変更について",
+      "published": "28 Apr 2026 08:55 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae380791efca1a27511f9a92ffa51501",
+      "title": "",
+      "link": "https://gihyo.jp/article/2026/04/cloudflare-isitagentready.com",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare、WebサイトのAIエージェント対応を診断する「isitagentready.com」を公開 | gihyo.jp",
+      "published": "28 Apr 2026 06:55 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3494d00f622ad5da6c9d0089f5594862",
+      "title": "GTFOBins",
+      "link": "https://gtfobins.org/",
+      "summary": "Article URL: https://gtfobins.org/ Comments URL: https://news.ycombinator.com/item?id=47931035 Points: 181 # Comments: 51",
+      "published": "Tue, 28 Apr 2026 06:27:39 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd305fbcd1ebe9ef9ee1f82cde0d70de",
+      "title": "High Performance Git",
+      "link": "https://gitperf.com/",
+      "summary": "Article URL: https://gitperf.com/ Comments URL: https://news.ycombinator.com/item?id=47929035 Points: 147 # Comments: 29",
+      "published": "Tue, 28 Apr 2026 00:32:04 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bf3cb1b745c1486d558c40281e195cd",
+      "title": "ナトリウムイオン電池は飛行機へ持ち込み不可に、とエレコム公表も国土交通省は「以前からダメだった」",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news098.html",
+      "summary": "エレコムは4月28日、ナトリウムイオン電池採用のモバイルバッテリーやハンディファンが、航空機内への持ち込みや預け荷物に入れることが不可になったと発表した。しかし国土交通省の担当部署に理由を聞くと意外な答が帰ってきた。 4月24日から国際民間航空機関（ICAO）が定めた国際基準に沿った新ルールの適用に...",
+      "published": "2026-04-28T07:01:11Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0162782b8520f7f0bb770d10b4614fb1",
+      "title": "CanvaのAIが「パレスチナ」という単語を自動で別表現に置き換えていた問題が発覚",
+      "link": "https://gigazine.net/news/20260428-canva-apologizes-ai-replaces-palestine/",
+      "summary": "ブラウザ上やアプリから使えるオンラインビジュアルツールキットの「Canva」で、「パレスチナ」という単語が自動で別の表現に書き換えられてしまうという問題が発生していたことが明らかになりました。 Canva apologizes after its AI tool replaces ‘Palestin...",
+      "published": "2026-04-28T07:36:55Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8342ed066078cf991ba9fc165263e187",
+      "title": "Hono × Inertia.js が作る新しい型貫通体験に触れてみた",
+      "link": "https://zenn.dev/ashunar0/articles/d4a23d3579331a",
+      "summary": "// サーバー側（Hono） app.get('/posts/:id', (c) => { const post = findPost(c.req.param('id')) return c.render('Posts/Show', { post }) }) // クライアント側（React） ex...",
+      "published": "2026-04-28T01:00:02Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c19b18f25e32f58522d14985dfc2bc1",
+      "title": "サーバー不要 Chromeで動くローカルAIエージェントが登場。Gemma 4とWebGPU活用",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2105296.html",
+      "summary": "",
+      "published": "2026-04-28T06:32:37Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "449fccc099070db645aaaeb240c2fc2d",
+      "title": "なんでも作れる時代に、何を作るか — アラン・ケイとAI時代のプロダクトデザイン - enechain Tech Blog",
+      "link": "https://techblog.enechain.com/entry/what-to-build-now",
+      "summary": "アラン・ケイとは何者か 今のコンピュータ体験の多くはここから始まっている Dynabook — 「個人のためのメディア」という構想 GUI — コンピュータを「触れる」ものにした Smalltalk — コンピュータの見方そのものを変えた Appleのプロダクトとケイの思想 未来を当てたのではなく、...",
+      "published": "2026-04-28T08:51:56Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2d0eaa3d860985a8db6a43ba5bfc599",
+      "title": "WordPress専用のAIコーディングCLIツール「Studio Code」ベータ版の無料提供が開始",
+      "link": "https://gigazine.net/news/20260428-wordpress-studio-code/",
+      "summary": "WordPress.comが、WordPress向けのエージェント型コーディングツール「Studio Code」をベータ版として公開しました。開発チームは、完成品として磨き上げてから公開するのではなく、早い段階でユーザーに触ってもらい、フィードバックを取り込みながら次の開発段階を形作る方針だと説明し...",
+      "published": "2026-04-28T06:38:06Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "866cd197817c23562c511ffd9d3d6f63",
+      "title": "Bitwarden ソフトウェアサプライチェーン攻撃 詳細解説",
+      "link": "https://speakerdeck.com/flatt_security/bitwarden-202604",
+      "summary": "弊社ウェビナー ( https://flatt.tech/takumi/event/bitwarden-202604 ) におけるCTO米内の講演資料です。 動画はこちら ( https://www.youtube.com/watch?v=oVgn-y78r4g )",
+      "published": "2026-04-28T08:26:43Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5616c733a51606243f1d898a30c1c66",
+      "title": "Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている",
+      "link": "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
+      "summary": "Claude Codeのルーチン（Routines）機能を、何に使うのが良いのかしばらく考えていました。 クラウド上でプロンプトを定期実行できる便利な機能なのですが、定期的に動かして意味のあるタスクは何だろう、と。 たどり着いたのが、パフォーマンスチューニングです。 「速くなったか」は数値で判断でき...",
+      "published": "2026-04-28T02:45:55Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "716bc79125a4d7dd3ef71561dd4d0671",
+      "title": "自社ドメインが勝手に第三者へ移転されるもレジストラは正当な手続きと説明、第三者の連絡で復旧",
+      "link": "https://gigazine.net/news/20260428-godaddy-give-domain-to-stranger/",
+      "summary": "ウェブ開発者のオースティン・ギンダー氏が、ドメイン管理サービス「GoDaddy」がドメインを誤って他人に移転してしまっていた事件についてブログで報告しています。 GoDaddy Gave a Domain to a Stranger Without Any Documentation https:/...",
+      "published": "2026-04-28T03:17:20Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7648ac56adf01204c69da88c5c21ea08",
+      "title": "今週のはてなブックマーク数ランキング（2026年4月第4週） - はてなブックマーク開発ブログ",
+      "link": "https://bookmark.hatenastaff.com/entry/2026/04/28/130516",
+      "summary": "はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。4月20日（月）～4月26日（日）〔2026年4月第4週〕のトップ30です*1。 順位 タイトル 1位 はてな[3930]：資金流出事案の発生に関するお知らせ 2026年4月24日(適時開示) ：日経会社情...",
+      "published": "2026-04-28T04:05:40Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "339aec6132b569ca3ecf2163bf120e9b",
+      "title": "OpenAIに大きな転換。Microsoftとの独占契約が終了し、他クラウドへの提供解禁",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2105208.html",
+      "summary": "",
+      "published": "2026-04-28T02:50:12Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9977ba161369379efafa8a7b5cdaecc1",
+      "title": "Apple、App Storeの自動更新サブスクに「12カ月契約の月額購読プラン」追加へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news056.html",
+      "summary": "米Appleは4月27日（現地時間）、App Storeの自動更新サブスクリプションに新しい支払いオプション「12カ月契約の月額購読プラン」を追加したと発表した。 App Storeの自動更新サブスクリプションは、アプリ内のコンテンツやサービス、プレミアム機能などを継続的に利用できる仕組みで、ユーザ...",
+      "published": "2026-04-28T01:02:53Z",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "752166061c70c0ef68f56acc4aabbbe7",
+      "title": "ROLI Piano Learning System review: A whole new way to learn keyboard and piano",
+      "link": "https://musictech.com/reviews/education-courses/roli-piano-learning-system-review/?utm_source=rss&utm_medium=rss&utm_campaign=roli-piano-learning-system-review",
+      "summary": "Using cutting-edge camera tech to track your hands, ROLI’s new virtual piano teacher offers a convenient new way to learn — but can it replace a human...",
+      "published": "Tue, 28 Apr 2026 08:00:49 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7b1ec7527e8c1b5af9a0d75776a54d2e",
+      "title": "ROLI Airwave review: Prepare yourself for hyper-expressive MIDI control in six dimensions",
+      "link": "https://musictech.com/reviews/controllers/roli-airwave-review/?utm_source=rss&utm_medium=rss&utm_campaign=roli-airwave-review",
+      "summary": "Harnessing the power of a multi-camera tracking system, ROLI’s Airwave could be a turning point in how we think about expressive control. Are musician...",
+      "published": "Tue, 28 Apr 2026 08:00:29 +0000",
+      "fetched_at": "2026-04-28T10:07:21.800179+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-28T06:24:57.454872+00:00"
+  "updated_at": "2026-04-28T10:07:21.800179+00:00"
 }

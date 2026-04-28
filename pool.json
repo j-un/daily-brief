@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "23ebdd16a466a706e756e24cf366a20d",
-      "title": "",
-      "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する",
-      "published": "27 Apr 2026 03:55 +0000",
-      "fetched_at": "2026-04-27T06:23:33.455463+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b91da86ecf6734d4b34085baf2208377",
       "title": "Networking changes coming in macOS 27",
       "link": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
@@ -799,7 +789,147 @@
       "fetched_at": "2026-04-28T10:07:21.800179+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "3004813ce88c4ed420b0e25959d51061",
+      "title": "",
+      "link": "https://life.job-draft.jp/2026/04/21/1259/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 入社後は1行もコードは書いていない。それでもいつまでもプログラマー、田籠聡（tagomoris）の輪郭 | LIFE DRAFT",
+      "published": "28 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "84856bae44e50ca89a09287419eb3766",
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "link": "https://github.com/localsend/localsend",
+      "summary": "Article URL: https://github.com/localsend/localsend Comments URL: https://news.ycombinator.com/item?id=47933208 Points: 171 # Comments: 72",
+      "published": "Tue, 28 Apr 2026 11:54:20 +0000",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c21389955705a7e2d4649989f16a70d",
+      "title": "An Update on GitHub Availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "summary": "Article URL: https://github.blog/news-insights/company-news/an-update-on-github-availability/ Comments URL: https://news.ycombinator.com/item?id=47932...",
+      "published": "Tue, 28 Apr 2026 10:05:03 +0000",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62a181717a7339c58c34e09861f0f430",
+      "title": "Integrated by Design",
+      "link": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "summary": "Article URL: https://vivianvoss.net/blog/integrated-by-design-launch Comments URL: https://news.ycombinator.com/item?id=47928554 Points: 103 # Comment...",
+      "published": "Mon, 27 Apr 2026 23:14:26 +0000",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "587d59872d7910944f9c4e122a96d848",
+      "title": "ベクトルを使わないRAG。全てのナレッジを階層化する手法",
+      "link": "https://zenn.dev/knowledgesense/articles/7dddae04a7d828",
+      "summary": "本記事では、RAGの性能を高めるための「Corpus2Skill」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。 この記事は何 この記事は、「ベクトルDB」を使わずにR...",
+      "published": "2026-04-28T05:10:43Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8eb3c3c55308dd66e86d78cc718793e0",
+      "title": "FILCOブランドを台湾の製造パートナーが引き継ぎ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2105517.html",
+      "summary": "",
+      "published": "2026-04-28T12:45:07Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "146d30227f9ea3b6aac9031cabe7bc9c",
+      "title": "「Google ドライブ」の「Ask Gemini in Drive」機能が一般提供に ～日本語にも対応／ドライブ内のファイルやフォルダーについてGeminiと対話しながら管理・分析",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2105405.html",
+      "summary": "",
+      "published": "2026-04-28T07:50:34Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9153fbd1a21ea226d9438be0f8823a2e",
+      "title": "Windows 11の不満解消へ Microsoftの最優先プロジェクト「Windows K2」とは何か",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2604/28/news065.html",
+      "summary": "Windows 11の不満解消へ Microsoftの最優先プロジェクト「Windows K2」とは何か：Windowsフロントライン（1/2 ページ） 2025年末に大量のネガティブフィードバックがMicrosoftのWindows開発チームに寄せられた件を経て、2026年3月には同部門を率いるパ...",
+      "published": "2026-04-28T06:07:07Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61d13677229e5ab51dd0b1c584e97716",
+      "title": "Windowsの定番テキストエディター「Notepad++」がMacに対応、ネイティブAPIで書き直し／独立した移植プロジェクト、プラグインもそのまま使える【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2105125.html",
+      "summary": "",
+      "published": "2026-04-28T04:12:14Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6bdeb3c58b9f97c89397a482a91e1db",
+      "title": "GitHub Copilot、6月1日より従量課金モデルへ移行 AIの“追い課金”時代の到来か",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news080.html",
+      "summary": "米GitHubは4月27日（現地時間）、AIコーディング支援ツール「GitHub Copilot」の全プランについて、6月1日から従量課金モデルへ移行すると発表した。理由は「持続可能なビジネスモデルの構築に向けた転換」という。5月上旬にはGitHubのサイト上で請求画面のプレビュー表示を可能にして、...",
+      "published": "2026-04-28T04:03:32Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bb765bc49db069ae69c18b871bbd570",
+      "title": "AIエージェント時代のWeb〜いま、第二のレスポンシブ設計が始まっている - Nothing ventured, nothing gained.",
+      "link": "https://takoratta.hatenablog.com/entry/2026/04/28/112859",
+      "summary": "ブラウザを開いて、AIエージェントに「最も静音なノイズキャンセリングイヤホンを探して、明日届くように手配しておいて」と頼む。エージェントは複数のECサイトを回り、レビューを比較し、カートに入れて配送指定をした上で、決済画面で「ここから先は確認をお願いします」と返してくる。 このとき、ブラウザの向こう...",
+      "published": "2026-04-28T04:45:47Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06ebddec7bfdd40b359ee7d0adc1a22d",
+      "title": "社内データ利活用のためのオントロジー整理方法",
+      "link": "https://zenn.dev/suwash/articles/shanai_data_ontology_seiri_20260215",
+      "summary": "よくある課題：「データはあるのに使えない」 ERP、CRM、SFA などの基幹システムは、それぞれ特定の業務プロセスに最適化されたデータ構造を持っています。DWH やデータレイクでデータを集約しても、SAP の KNA1 テーブルにある「顧客」と Salesforce の Account オブジェク...",
+      "published": "2026-02-15T09:55:03Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49ae3720183d27fa92eec615c29780c",
+      "title": "AlibabaのAI「Qwen」がBYDなどの中国メーカー製自動車に搭載されると発表、ホテルの予約やデリバリーの注文が可能に",
+      "link": "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
+      "summary": "BYDやフォルクスワーゲンの合弁会社といった中国メーカー製の自動車に、Alibaba製のAIであるQwenが搭載されることが、現地時間の2026年4月24日に開催された北京モーターショーで発表されました。 Alibaba’s Qwen AI is coming to cars, allowing d...",
+      "published": "2026-04-27T14:39:14Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31649b3ec0de30684a4e40c2aa343876",
+      "title": "アニマックス、無料映像配信「FASTチャンネル」で「アニマックス FREE」開始。アニメ24時間365日放送",
+      "link": "https://av.watch.impress.co.jp/docs/news/2105323.html",
+      "summary": "",
+      "published": "2026-04-28T06:06:37Z",
+      "fetched_at": "2026-04-28T13:47:52.829833+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-28T10:07:21.800179+00:00"
+  "updated_at": "2026-04-28T13:47:52.829833+00:00"
 }

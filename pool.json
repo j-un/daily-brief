@@ -39,7 +39,337 @@
       "fetched_at": "2026-04-27T22:42:27.939118+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "42a2e4b3779cd604c50b69f7c5a503ae",
+      "title": "",
+      "link": "https://blog.cloudflare.com/internal-ai-engineering-stack/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The AI engineering stack we built internally — on the platform we ship",
+      "published": "28 Apr 2026 01:55 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b748bf34237d5c1609db39793020abe",
+      "title": "",
+      "link": "https://medium.com/pinterest-engineering/smarter-url-normalization-at-scale-how-miqps-powers-content-deduplication-at-pinterest-4aa42e807d7d",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Smarter URL Normalization at Scale: How MIQPS Powers Content Deduplication at Pinterest",
+      "published": "27 Apr 2026 23:55 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcb8fa1c71808b6cea57cd9549a51a1e",
+      "title": "To my students",
+      "link": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+      "summary": "Article URL: http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml Comments URL: https://news.ycombinator.com/item?id=47928828 Points: 243 # Comments...",
+      "published": "Mon, 27 Apr 2026 23:57:39 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5bc87c60f6f435dfae719c1525c7ef71",
+      "title": "NPM website was down",
+      "link": "https://status.npmjs.org",
+      "summary": "Article URL: https://status.npmjs.org Comments URL: https://news.ycombinator.com/item?id=47927526 Points: 115 # Comments: 55",
+      "published": "Mon, 27 Apr 2026 21:26:25 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd6b6411192f4f8da1f951a63a279172",
+      "title": "Windows 11's second-chance setup dialogs hurt IT, drain productivity",
+      "link": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
+      "summary": "Article URL: https://www.theregister.com/2026/04/26/windows_second_chance_setup/ Comments URL: https://news.ycombinator.com/item?id=47920973 Points: 1...",
+      "published": "Mon, 27 Apr 2026 12:55:39 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76dec80faa0d74edb2651b0819cac524",
+      "title": "Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/",
+      "summary": "Amazon Redshift Serverless now makes AI-driven scaling and optimization the default for all new workgroups. AI-driven scaling uses machine learning to...",
+      "published": "Mon, 27 Apr 2026 22:03:00 GMT",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "25449a2598ae4c133be043b4eea579fa",
+      "title": "AWS KMS now tracks last usage of all KMS keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/",
+      "summary": "AWS Key Management Service (KMS) now provides visibility into the last cryptographic operation performed with your KMS keys, eliminating the need to m...",
+      "published": "Mon, 27 Apr 2026 19:00:00 GMT",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "545d338762728c5be0085f0c89c65754",
+      "title": "Introducing Amazon EC2 M8in and M8ib instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-m8in-m8ib/",
+      "summary": "AWS is announcing the general availability of Amazon EC2 M8in network optimized instances and Amazon EC2 M8ib EBS optimized instances. The new instanc...",
+      "published": "Mon, 27 Apr 2026 15:00:00 GMT",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4546abfaaee179b581499d6be26d6c9",
+      "title": "Introducing Amazon EC2 R8in and R8ib instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib/",
+      "summary": "AWS is announcing the general availability of memory optimized Amazon EC2 R8in network optimized instances and Amazon EC2 R8ib EBS optimized instances...",
+      "published": "Mon, 27 Apr 2026 15:00:00 GMT",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aff1e2cd7135ef27f0f8e1a7da75f01f",
+      "title": "Introducing Amazon EC2 C8ine and M8ine instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8ine-m8ine/",
+      "summary": "AWS is announcing the general availability of Amazon EC2 C8ine and Amazon EC2 M8ine instances, powered by custom sixth generation Intel Xeon Scalable ...",
+      "published": "Mon, 27 Apr 2026 15:00:00 GMT",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "846e790382893455bfc895a43b3f390b",
+      "title": "メッセージキュー型の非同期処理から Temporal 移行へ",
+      "link": "https://speakerdeck.com/shibukazu/metusezikiyuxing-nofei-tong-qi-chu-li-kara-temporal-yi-xing-he",
+      "summary": "brightonSEO & MeasureFest 2025 - Christian Goodrich - Winning strategies for Black Friday CRO & PPC",
+      "published": "2026-04-27T11:24:15Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "456dd0af5b1b916c84dd07f5da49bb71",
+      "title": "OpenAI、Microsoftと独占契約終了 Amazon経由でモデル提供 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN27ARC0X20C26A4000000/",
+      "summary": "【ニューヨーク=伴正春】米オープンAIは人工知能（AI）モデルを米マイクロソフトに独占的に提供する契約を終了する。両社が27日発表した。マイクロソフトからの収益分配を受けない代わりに、他のクラウド大手を通じた事業拡大が可能になる。オープンAIは米アマゾン・ドット・コム、米グーグルなど他のクラウド大手...",
+      "published": "2026-04-27T22:46:18Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5911fed65bd45b8b232cb6ce86be018",
+      "title": "「宇宙は極低温だから放熱が楽」は本当か？ 宇宙データセンターの実現に欠かせない冷却の話",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news048.html",
+      "summary": "宇宙データセンターとは何か 宇宙データセンターが注目される背景にあるのは、AI時代のデータセンター急増で課題になった電力需要や用地の制約、水資源問題といった課題だ。欧州が24年まで進めた宇宙データセンターのフィージビリティスタディー（実現性検討） によれば、「大気圏外の太陽エネルギーを使用して将来の...",
+      "published": "2026-04-27T22:20:24Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f299e3e7d1e8732524efa7f0184a645e",
+      "title": "日本初の“眠れて安い”フルフラット型夜行バス 「許可出ない」「料金高すぎる」業界の常識と闘い苦節10年の開発物語｜FNNプライムオンライン",
+      "link": "https://www.fnn.jp/articles/-/1036238",
+      "summary": "このゴールデンウィークに帰省や旅行など長距離の移動をする方も多いかと思うが、安くて熟睡間違いなしと言われる夜行バスが話題となっている。 Mr.サンデーでは、日本初を目指した10年に及ぶ開発物語を取材した。 「フルフラットは許可が出ない」が常識 あなたは、自分のいる「業界の常識」を 疑ったことがあるだ...",
+      "published": "2026-04-27T12:45:40Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a45fa80d5d6e9f5595f4e87fabfc5ac",
+      "title": "Scribe v2 リアルタイム音声認識 - 150ms低遅延API",
+      "link": "https://elevenlabs.io/ja/realtime-speech-to-text",
+      "summary": "Scribe v2 Realtimeは、90以上の言語に対応し、150msの低遅延で最も正確なリアルタイム文字起こしモデルです。APIで利用可能。",
+      "published": "2026-04-27T20:39:20Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d2c3161654242d2229fb9f924455b9b",
+      "title": "「LoL」はどれくらい脳機能を向上させる？ 5カ月遊んだ68人の脳を分析、他ゲームと比較 学術誌に掲載",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/24/news120.html",
+      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が...",
+      "published": "2026-04-27T22:35:51Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "36e01022929e3c2f35d1d25d1328ddef",
+      "title": "当社のIT環境への不正アクセスに関するお知らせ（第三報） | 村田製作所",
+      "link": "https://corporate.murata.com/ja-jp/newsroom/news/company/general/2026/0427",
+      "summary": "株式会社村田製作所（以下、当社）は、先般公表しました当社のIT環境における第三者による不正アクセスに関する続報をお知らせいたします。 関係者の皆さまにご迷惑とご心配をおかけしますことを、改めて深くお詫び申し上げます。 前回4月6日の当社からの発表（当社のIT環境への不正アクセスに関するお知らせ（第二...",
+      "published": "2026-04-27T09:16:52Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c5430db6cc0b1f12a04e9e88fe574ee",
+      "title": "「GitHub Copilot」従量課金に トークン消費量ベースで請求へ “定額使い放題”時代の終わりか",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news051.html",
+      "summary": "米Microsoft傘下のGitHubは4月27日（現地時間）、AIコーディング支援ツール「GitHub Copilot」の全プランを、6月1日から従量課金制に変えると発表した。月額料金は据え置きつつ利用量に応じてクレジットを消費。プランに付与されたクレジットを超過すれば追加クレジットを購入する形だ...",
+      "published": "2026-04-27T22:52:57Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e061ccdbfbd258da8e46cd394ef55c14",
+      "title": "Devin for Terminal",
+      "link": "https://devin.ai/terminal",
+      "summary": "Devin for Terminal Devin now runs locally in your terminal. Try it out in less than a minute.",
+      "published": "2026-04-28T00:27:37Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e9f937729cb0db2d3ae9d35ba225f13",
+      "title": "データサイエンスのフォネティックコード: 不毛な議論に陥らないための提案 - ill-identified diary",
+      "link": "https://ill-identified.hatenablog.com/entry/2026/04/27/130805",
+      "summary": "概要 はじめに 頻出語句 データサイエンス データ・サンプル (標本)・データセット・テーブル サンプル・例・インスタンス・観測点・レコード サンプルサイズ・サンプル数・母数・標本数・例数・インスタンス数 説明変数・特徴量・属性・共変量・独立変数・従属変数・独立変数 次元 被説明変数・従属変数・目的...",
+      "published": "2026-04-27T23:59:17Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2aa7bfe29a0229f57a831a08b6ddc84",
+      "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+      "summary": "After the company database was wiped in just 9 seconds, the founder of PocketOS penned a social media post to warn others about the 'systemic failures...",
+      "published": "2026-04-27T23:31:08Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad8009964b8958fcd5f1aab4b66f0447",
+      "title": "NTT、AIネイティブ基盤「AIOWN」展開 データセンター規模を3倍に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2105055.html",
+      "summary": "",
+      "published": "2026-04-27T22:55:23Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fb8e313cc5806b44f7bbfbe0fe97fa5",
+      "title": "GPT-5.5で、スライド画像を“編集可能なPPTX”に再現してみた｜Shin",
+      "link": "https://note.com/iam_shin/n/n7e005091aba3",
+      "summary": "最近、GPT5.5のスライド画像作成能力が限界突破してます。そこで思ったのは「これが編集できる形のPPTXに変換できれば最高では？」ないかとおもってました。結論なのですが必死にリサーチしたら、すぅさんの有益ツイートからできることが判明したので今回はその方法を解説したいと思います。 GPT-5.5でス...",
+      "published": "2026-04-25T11:48:19Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49050347c492f106344fb3ac49d685a1",
+      "title": "AI生成を「一発作業」から「制作工程」へ変えるオープンソースのComfyUIが3000万ドル調達",
+      "link": "https://gigazine.net/news/20260427-comfyui-open-source-ai/",
+      "summary": "動画や画像などを生成するAIをカスタマイズして制作パイプラインに組み込めるようにするプラットフォームのComfyUIが、3000万ドル(約48億円)の資金調達を行ったと発表しました。今回の調達で、ComfyUIの評価額は5億ドル(約800億円)に到達したと述べられています。 ComfyUI rais...",
+      "published": "2026-04-27T07:31:39Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65405667b9883b6045fbba20f565fe69",
+      "title": "OpenAIとMicrosoft、提携契約を再改定 OpenAIはAWSなど任意のクラウドで製品提供可能に",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news050.html",
+      "summary": "米OpenAIと米Microsoftは4月27日（現地時間）、提携契約の内容を更新したと発表した。これにより、OpenAIはMicrosoftと競合するAWSなどでも自社技術を販売できるようになり、MicrosoftからOpenAIへの収益分配は終了する。 両社は2025年10月末にも契約を改定して...",
+      "published": "2026-04-27T22:28:14Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "741525cc2741f585b41594259cb6e3e0",
+      "title": "OpenAI、AIエージェント特化のスマートフォンを開発中か──ミン＝チー・クオ氏",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news053.html",
+      "summary": "米Apple製品の確度の高い予測で知られるアナリスト、ミン＝チー・クオ氏は4月27日、米OpenAIが台湾MediaTekおよび米Qualcommとスマートフォン向けプロセッサを共同開発しており、中国Luxshareがスマートフォンの独占的なシステム設計・製造パートナーになると、Xに投稿した。 量産...",
+      "published": "2026-04-27T22:56:19Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4469efca21fc78f09c39c8e0b81f2f53",
+      "title": "Gemini APIとAPIキーの不正使用に関する注意喚起・対処法 - G-gen Tech Blog",
+      "link": "https://blog.g-gen.co.jp/entry/gemini-api-abuse-explanation-and-prevention",
+      "summary": "G-gen の杉村です。Google が提供する Google AI Studio で発行した API キーが何らかの方法で他人に知られたことにより、悪意ある主体によって大量に Gemini モデルへのリクエストが発行され、利用料が過剰に発生する事象が観測されています。当記事ではこの事象の説明と、対...",
+      "published": "2026-04-20T23:01:45Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8061b3da992df8ebb4f04f7fd9c25b9",
+      "title": "GitHub - getagentseal/codeburn: See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+      "link": "https://github.com/getagentseal/codeburn",
+      "summary": "See where your AI coding tokens go. By task type, tool, model, MCP server, and project. Supports Claude Code, Codex (OpenAI), Cursor, cursor-agent, Op...",
+      "published": "2026-04-17T06:14:43Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1a513b48974a756bd68a2fe2c278cf6",
+      "title": "“サクナヒメ”のソシャゲ、半年に満たずサービス終了へ ユーザー「農業は片手間でできるものではなかった」",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/27/news136.html",
+      "summary": "スマートフォンゲーム「天穂のサクナヒメ～ヒヌカ巡霊譚～」（iOS、Android）を運営するG2 Studiosは、7月27日の午後4時59分をもってサービスを終了すると発表した。2月5日のサービス開始から半年にも満たないサービス期間について、SNSでは「早すぎる」と話題になっている。 理由について...",
+      "published": "2026-04-27T13:02:57Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34499400fdcbae9d171211f32453cd0b",
+      "title": "AI、東大と京大「首席合格」 「チャッピー」最高得点（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/acc0a38802df4d7b42538fba618335504734f47e",
+      "summary": "今年実施された東大と京大の入学試験問題を生成人工知能（AI）「チャットGPT」に解かせると、合格者の最高得点を上回り「首席合格」を果たしたことが27日、AIベンチャーのライフプロンプト（東京）の分析で分かった。最難関の東大理科3類の最高点より50点高かった。数学は満点。2024年の東大入試では全科類...",
+      "published": "2026-04-27T13:48:52Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "70a6a6d16f800fb047f5413555a5a828",
+      "title": "【西川和久の不定期コラム】 5万円台でIP69K防水、しかも性能そこそこ。12.2型タブレット「Blackview MEGA 12」",
+      "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2104950.html",
+      "summary": "",
+      "published": "2026-04-27T22:30:06Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41bac90013a5eb7ee265e4f67b49d1d6",
+      "title": "Intelが通常であれば「不良品」とみなされるCPUから大きく利益を得たとの指摘",
+      "link": "https://gigazine.net/news/20260427-intel-boosted-scrap-chip/",
+      "summary": "Intelの2026年第1四半期の売上高は前年同期比7％増と好調です。アナリストは、質の低いCPUが大量に売れたことが利益率上昇の要因だったと指摘しました。 Got some clarity from Intel IR on additional lift to margins. Intel got...",
+      "published": "2026-04-27T04:27:49Z",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c56a85e9cac2f441fd70be0a131e014",
+      "title": "Spring cleaning: free up space by deleting duplicate plug-ins",
+      "link": "https://cdm.link/remove-duplicate-plugins-free/",
+      "summary": "It turns out you don't need VST2 and AU and AAX and CLAP versions of the same plug-in. Here's a free, fast command-line tool that gets rid of them in ...",
+      "published": "Mon, 27 Apr 2026 21:52:59 +0000",
+      "fetched_at": "2026-04-28T02:09:36.716497+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-27T22:42:27.939118+00:00"
+  "updated_at": "2026-04-28T02:09:36.716497+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4eb2ed33740ac50afa62b725934cfad8",
-      "title": "Firefox Has Quietly Integrated Brave's Adblock Engine",
-      "link": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
-      "summary": "Now open a new tab and go to about:config. Accept the warning when it shows up. Search for privacy.trackingprotection.content.protection.enabled and s...",
-      "published": "2026-04-26T00:01:25Z",
-      "fetched_at": "2026-04-27T02:03:15.686989+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "23ebdd16a466a706e756e24cf366a20d",
       "title": "",
       "link": "https://zenn.dev/mizchi/articles/empirical-prompt-tuning",
@@ -369,7 +359,267 @@
       "fetched_at": "2026-04-28T02:09:36.716497+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "2f74046f7cd85e8cdb09845e630072d8",
+      "title": "",
+      "link": "https://techblog.enechain.com/entry/identity-platform-migration",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Auth0から内製認証基盤へ移行を決めた背景と移行方法",
+      "published": "28 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04eb15501101ea0492abe8eba5e42a4e",
+      "title": "",
+      "link": "https://engineering.dena.com/blog/2026/04/operational-design-devin-enterprise/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Devin Enterpriseのプロビジョニング自動化から学ぶ、運用設計の進め方 | BLOG - DeNA Engineering",
+      "published": "28 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b644c6d9fa2d3b2848bafbe50c9b5144",
+      "title": "",
+      "link": "https://tech.askul.co.jp/entry/2026/04/20/144028",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 IT障害現場の交通整理“情報の渋滞”を解消して復旧を前へ",
+      "published": "28 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9086f6d34763e522e26cb892b55f3dd5",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "link": "https://talkie-lm.com/introducing-talkie",
+      "summary": "Article URL: https://talkie-lm.com/introducing-talkie Comments URL: https://news.ycombinator.com/item?id=47927903 Points: 270 # Comments: 77",
+      "published": "Mon, 27 Apr 2026 21:55:48 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e887f06b9fc5dfbd952b50cd1c8f195",
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "link": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "summary": "Article URL: https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/ Comments URL: https://news.ycombinator.com/item?id=47927070 Po...",
+      "published": "Mon, 27 Apr 2026 20:44:16 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e01cd6f3562b81fec740231c1d99efb",
+      "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第65回：顔LoRA不要、写真4枚で激似にするWorkflowを紹介しよう（西川和久）",
+      "link": "https://www.techno-edge.net/article/2026/04/28/5030.html",
+      "summary": "生成AI画像で任意の顔に似せるには？",
+      "published": "Tue, 28 Apr 2026 12:26:12 +0900",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d1756b7a15f55531295dd3652ec187e",
+      "title": "Xiaomi REDMI Pad 2 9.7発売、早割2万1980円で2K 120Hz画面に大容量バッテリーの高コスパ タブレット",
+      "link": "https://www.techno-edge.net/article/2026/04/28/5029.html",
+      "summary": "シャオミは2026年4月28日、9.7インチタブレット「REDMI Pad 2 9.7」を発売しました。市場想定価格は4GB/64GBモデルが2万4980円、4GB/128GBモデルが3万1980円。期間限定の早割キャンペーンではそれぞれ2万1980円・2万8980円で購入できます。",
+      "published": "Tue, 28 Apr 2026 12:17:29 +0900",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc3caf30a3196f38a2e085fb8efb6a4e",
+      "title": "カメラの出っ張りがなくなった完全フラットPixel 10aで古くからのiPhoneユーザーに転向を促してみた（Google Tales）",
+      "link": "https://www.techno-edge.net/article/2026/04/28/5028.html",
+      "summary": "4月14日に「Pixel 10a」が発売されました。Pixelのaシリーズというのは、前年秋発売のPixelモデル（ここでは秋モデルってことにしておきます）のお手頃価格版、です。iPhoneのeシリーズみたいなものと考えていいのかなと思います。",
+      "published": "Tue, 28 Apr 2026 11:50:27 +0900",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e911c97398d15698c89537bead08dd3",
+      "title": "攻撃者視点で考える AWS セキュリティ ― 富士通 × AWS 共催セミナーレポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/fujitsu-security-seminar/",
+      "summary": "こんにちは。AWS ソリューションアーキテクトの松井です。 2026 年 3 月 18 日、富士通株式会社様( […]",
+      "published": "Tue, 28 Apr 2026 04:31:02 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb6d61cbc157e980b1373e0fba7ae235",
+      "title": "製造業 × 生成 AI 、8 社の「ここだけの話」がつながり課題解決を加速する — AWS 生成 AI ラウンドテーブル in 大阪 開催報告",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-roundtable-osaka-202603/",
+      "summary": "製造業のお客様を支援しているソリューションアーキテクトの澤、大前、池田です。 2026 年 3 月 31 日に […]",
+      "published": "Tue, 28 Apr 2026 02:12:36 +0000",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9486badfd3cfde7d298c3ed09b58973e",
+      "title": "発火しにくいナトリウムイオンバッテリも機内持ち込み禁止。エレコムがお詫びと注意喚起",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2105175.html",
+      "summary": "",
+      "published": "2026-04-28T02:24:16Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4061cbb1f19b2cc25b1794f7ce1b14f",
+      "title": "AIオタクのセキュリティエンジニアが伝えたい、バイブコーディングのセキュリティリスク7選 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/vibe_coding_security_risk",
+      "summary": "はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニア(兼Claude Codeオタク)の石川（@ryusei_ishika）です。 Claude CodeやCursorなどのAIエージェントを活用したバイブコーディングが急速に広まっています。私自身、社内ではCl...",
+      "published": "2026-04-28T02:05:34Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ad8a3cdc0b4ede91e78a143efc60e89",
+      "title": "非エンジニアの「作りたい」と「安全に公開したい」を両立する Sandbox MCP を作った",
+      "link": "https://zenn.dev/aircloset/articles/65efe9614f8e73",
+      "summary": "みなさまこんにちは！エアークローゼットでCTOをしている辻です。 これまでに DB Graph MCP、社内MCP群の全体像、Biz Graph MCP と、社内向けに作っている MCP サーバーを順に紹介してきました。 今回はその中でもちょっと毛色が違うものを取り上げます。Sandbox MCP ...",
+      "published": "2026-04-27T23:19:55Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a6aee4b287f58b12b4397aec30fc50a",
+      "title": "これは便利！？iPhoneが一気に快適になる便利な機能・設定22選 | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」",
+      "link": "https://smartcool-group.com/media/iphone-useful-settings/",
+      "summary": "あなたはiPhoneを使いこなせていますか？ iPhoneを使用し始めて10年以上経つ人も多いかと思いますが、いまだに知らない設定や知らない機能がたくさんあると思います。 中には「知らなかったことで今まで損をしていた」なんていうものもあります。 iPhoneは初期設定のままだと使いづらい機能もあり、...",
+      "published": "2026-04-28T02:00:16Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "62f60f1c36f6c13038652cac7df5f791",
+      "title": "【特別インタビュー】大橋太郎さんが語る『マイコンBASICマガジン』の歴史 - RetroPC NEWS",
+      "link": "https://retropcnews.com/archives/4176",
+      "summary": "2026/4/28 RetroPC NEWS編集部 『マイコンBASICマガジン（ベーマガ）』は、1982年に電波新聞社から創刊され、80年代のマイコンブームを牽引したプログラム投稿雑誌です。初代編集長の大橋太郎さんにその心の内を語っていただきました！ 大橋太郎さんプロフィール 東海大学文学部広報学...",
+      "published": "2026-04-27T22:42:55Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "017406e2d11293a82b6cf4621e46e877",
+      "title": "ついに動画生成AI「HappyHorse 1.0」が誰でも使用可能になったので使ってみた、日本語セリフも出力可能で実写風・アニメ風どっちもOK",
+      "link": "https://gigazine.net/news/20260428-happyhorse-1-video-generation-ai-review/",
+      "summary": "中国企業のAlibabaが高性能な動画生成AI「HappyHorse 1.0」の公式サイトを公開しました。HappyHorse 1.0は正式公開前からAI比較サイトのArtificial Analysisで世界最高スコアを獲得して話題となっていたモデルです。Googleアカウントでサインインすれば無...",
+      "published": "2026-04-28T04:33:10Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a052f394931db1ff501e074ebc824a1",
+      "title": "ダイヤテック突然閉業 「FILCO」ブランドの“壊れないキーボード”に定評",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news054.html",
+      "summary": "同社の公式サイトは閉業の告知のみになっており、FILCOブランドの今後や既存製品の保証・修理対応の案内はない。設定ソフトなどもダウンロードできない状態だ。 ダイヤテックは1982年設立。当初は半導体販売商社だったが、PC周辺機器の開発・輸入・販売に転じ、自社ブランドFILCOを展開。代表製品の「Ma...",
+      "published": "2026-04-28T00:03:38Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6ccd0d1099f42ee475970f7421dbacf",
+      "title": "はてな株、2日ぶりに売買成立 一時、年初来安値も反発 荒い値動きに",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/28/news078.html",
+      "summary": "不正送金による資金流出事案を受け、4月27日に終日値が付かなかったはてな（東証グロース）の株価が、28日の取引で2日ぶりに売買が成立した。 寄り付き直後に850円まで下落し年初来安値を更新したが、その後は買い戻しが入り、午前の取引を946円で終えた。出来高は77万6700株と活況だった。 27日はス...",
+      "published": "2026-04-28T03:24:55Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "529c68a74f7bf7f6a9d846f7431efd4d",
+      "title": "無料OS最新版「Ubuntu 26.04 LTS」は何が変わった？Wayland完全移行＆AI対応の進化をライブで徹底解説【4月28日(火)21時配信】",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2105116.html",
+      "summary": "",
+      "published": "2026-04-27T22:02:36Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79f9d83f805dbc6e78b86a587791014c",
+      "title": "「GitHub Copilot」、6月1日より従量課金制へ移行 ～プラン月額料金は据え置き／エージェント時代の到来にあわせ、利用“回数”から“量”でのコスト計算に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2105124.html",
+      "summary": "",
+      "published": "2026-04-28T01:09:56Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4705726c05701e56b68ad0e183c87c98",
+      "title": "API Gateway → Lambda の間で何が行われているかを易しく解説 - Qiita",
+      "link": "https://qiita.com/hosomatu/items/afdd509365a770598fc4",
+      "summary": "記事を書いたきっかけ 人に教えることが増えてきたので、説明用にまとめてみました。 「間の部分がわからない」という質問をよく受けるのですが、結局API Gatewayのことですね、ってパターンが多いのでこのようなタイトルにしました。 API Gatewayの初級~中級レベルの解説記事です。 私自身もま...",
+      "published": "2026-04-28T00:05:36Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b085820e43c22c8c60442f6109b8aacb",
+      "title": "ミリタリー用照準器をカメラに装着できる「ドットサイトプレート」",
+      "link": "https://dc.watch.impress.co.jp/docs/news/2104922.html",
+      "summary": "",
+      "published": "2026-04-27T07:26:55Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2699365d00397fed5329bfa58d81dd62",
+      "title": "Ubuntu 26.04 Rust Coreutils: uutils vs GNU Guide | ComputingForGeeks",
+      "link": "https://computingforgeeks.com/ubuntu-2604-rust-coreutils-guide/",
+      "summary": "",
+      "published": "2026-04-27T08:20:52Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df587d70555e116ca377215955131da2",
+      "title": "WAFは安心を買う装置ではない - Qiita",
+      "link": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに WAF(Web Applicat...",
+      "published": "2026-04-28T00:44:53Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "faa37e4157fac5eeea501ec0f7d73e49",
+      "title": "macOSのネイティブ仮想技術を利用しLinuxコンテナを作成/実行できるAppleのコマンドラインツールcontainerをGUIで実行できるMacアプリ「Orchard」がAppleの公証を取得。",
+      "link": "https://applech2.com/archives/20260427-orchard-macos-gui-for-apple-container.html",
+      "summary": "macOSのネイティブ仮想技術を利用しLinuxコンテナを作成/実行できるAppleのコマンドラインツールcontainerをGUIで実行できるMacアプリ「Orchard」がAppleの公証を取得しています。詳細は以下から。 Appleは2025年06月に開催した世界開発者会議(WWDC25)で、...",
+      "published": "2026-04-27T12:48:19Z",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "52ef960554d878b7f9e23c5656ef7e20",
+      "title": "実践 ハイブリッドクラウド・セキュリティアーキテクチャ",
+      "link": "http://www.oreilly.co.jp/books/9784814401697/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "セキュリティアーキテクチャの概念は、かつてのメインフレームの時代からハイブリッドクラウド（オンプレミスとクラウドの併用）およびマルチクラウドへの移行に伴い、大きく変化しました。技術プラットフォームが複雑化し、適用すべきセキュリティポリシーが増大する環境下において、効果的なセキュリティを設計することは...",
+      "published": "2026-05-26T00:00:00+09:00",
+      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-28T02:09:36.716497+00:00"
+  "updated_at": "2026-04-28T06:24:57.454872+00:00"
 }

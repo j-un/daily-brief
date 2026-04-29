@@ -669,7 +669,207 @@
       "fetched_at": "2026-04-29T11:41:14.652362+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "a6c1d8cb1c35e4ecb75c87dfd6460528",
+      "title": "",
+      "link": "https://zenn.dev/catatsuy/articles/2ac24bccb4b7d1",
+      "summary": "ちょっと調べてみたところ、certbotは2025年6月にリリースされたバージョン4.1.0でARIに対応している模様。",
+      "published": "29 Apr 2026 13:17 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "719dca16318058211c1ec8696f7968a4",
+      "title": "徳丸先生はバイブコーディング製サービスの脆弱性を見抜けるのか - connpass",
+      "link": "https://lapras.connpass.com/event/391099/",
+      "summary": "オンライン開催",
+      "published": "29 Apr 2026 12:30 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3c3312b72c7d1fd31735d5c66597112",
+      "title": "Tamachi.sre#4 - connpass",
+      "link": "https://tamachi-sre.connpass.com/event/390978/",
+      "summary": "現地開催",
+      "published": "29 Apr 2026 12:28 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76895e1a3694a0953191901250203d49",
+      "title": "Akamai Tech Meetup Tokyo #5 - connpass",
+      "link": "https://akamai-meetup.connpass.com/event/391072/",
+      "summary": "現地開催",
+      "published": "29 Apr 2026 12:26 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a2eb324f19e16a72bb709036b51c936",
+      "title": "AI SECURITY MEETUP #3【AIセキュリティとサイバーセキュリティの違い】 - connpass",
+      "link": "https://ai-security-a.connpass.com/event/389017/",
+      "summary": "オンライン開催",
+      "published": "29 Apr 2026 12:26 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b4c3b6d7eb228df9395cdfbf0c30422",
+      "title": "OpenTelemetry Meetup 2026-05 - connpass",
+      "link": "https://opentelemetry.connpass.com/event/390564/",
+      "summary": "現地/オンライン",
+      "published": "29 Apr 2026 12:23 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a37eb141c45603944cb3b443a65b7a6a",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/aws-dynamodb-sql-differences/",
+      "summary": "SQLに慣れたユーザーがDynamoDBを初めて使う時に参考になる。わいわい",
+      "published": "29 Apr 2026 12:20 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dced253ee4cc8ca1afdc04d3ac01659",
+      "title": "",
+      "link": "https://github.com/NikolayS/pgque",
+      "summary": "PostgreSQLベースのqueue実装。message queueというよりはKafkaに近い実装と。",
+      "published": "29 Apr 2026 12:13 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37b2be484a772702e587027bc09c5db0",
+      "title": "",
+      "link": "https://tokens.billchambers.me/leaderboard",
+      "summary": "Opus 4.6と4.7は同じ入力内容でも4.7の方が平均35%多くトークンを消費すると。",
+      "published": "29 Apr 2026 12:06 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "516fb034ef90cee95164cd936344c8e8",
+      "title": "Network Developer Night #4 - connpass",
+      "link": "https://net-dev-night.connpass.com/event/389455/",
+      "summary": "現地開催",
+      "published": "29 Apr 2026 11:49 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9830ed184ff79b8e53420e409050511",
+      "title": "Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo",
+      "link": "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo",
+      "summary": "Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo",
+      "published": "2026-04-29T10:41:21Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4afae7b6a1a33d16a1933cdc5064d77c",
+      "title": "人間の直感はもう要らない？AIが廃熱から電力を生む効率を8.2倍に跳ね上げた「異形の発電機」を考案 | XenoSpectrum",
+      "link": "https://xenospectrum.com/topology-optimized-thermoelectric-generator-3d-printing/",
+      "summary": "宇宙空間の絶対零度に近い闇を切り裂き、孤独な航海を続ける探査機ボイジャー。その内部で静かに脈打ち、探査機に命を与え続けているのは、放射性同位体の崩壊熱と宇宙空間の極寒との間に生じる温度差から電力を生み出す「熱電発電」である。タービンも、モーターも、一切の可動部品を持たないこの美しい物理的機構は、.....",
+      "published": "2026-04-29T09:56:39Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "630072749ac3d8e9cfbd3f9e35c6bb26",
+      "title": "20260428_Product Management Summit_tadokoroyoshiro",
+      "link": "https://speakerdeck.com/tadokoro_yoshiro/20260428-product-management-summit-tadokoroyoshiro",
+      "summary": "AI時代でも成果を出し続けるためのPMとは？ AIにより職能が広がり、PMへの期待値が複雑化する中、「PM育成の再現性」をどう実現するか。多様なバックグラウンドを持つPMが、オンボーディングから活躍に至るまでの育成プロセス、ABEMAの育成の試行錯誤から得た知見としてお伝えし、活躍するPMの素養につ...",
+      "published": "2026-04-29T09:16:20Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0dbba84b6a1dfd4d3ca5fd91fbc9677",
+      "title": "GitHub - warpdotdev/warp: Warp is an agentic development environment, born out of the terminal.",
+      "link": "https://github.com/warpdotdev/warp",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-04-29T08:22:18Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "765ecc0819a6cb2e5993346dd12dcf78",
+      "title": "AWS and OpenAI announce expanded partnership to bring frontier intelligence to the infrastructure you already trust",
+      "link": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+      "summary": "The latest OpenAI models are available (limited preview) through Amazon Bedrock, giving customers access to frontier intelligence with the security, g...",
+      "published": "2026-04-28T18:47:08Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0227435def05217493178c0d17aafb0",
+      "title": "無料で個人のタスク管理・大規模なプロジェクト管理・詳細なメモの整理まで効率的に作業を分類・追跡できる「Tududi」、セルフホスト可能でオープンソース",
+      "link": "https://gigazine.net/news/20260429-tududi/",
+      "summary": "タスク管理アプリは便利ですが無料版だと機能制限があったり、有料プランは月額料金が必要だったりします。さらに仕事や個人情報を外部クラウドに置くことへ不安を感じる人も少なくありません。そこで無料で機能制限もなく、セルフホスト運用が可能なオープンソースのタスク管理ツール「Tududi」が公開されています。...",
+      "published": "2026-04-29T11:06:00Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37df42333f55cf90f2a650e896349ee9",
+      "title": "Anthropic、Blender開発基金に参加 Claude連携コネクタで3D制作のAI化を促進",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/29/news028.html",
+      "summary": "米Anthropicは4月28日（現地時間）、「Claude」をクリエイティブアプリと連携させるための各種コネクタをリリースするとともに、オープンソースの3D制作ツール「Blender」の開発基金（Blender Development Fund）に「Corporate Patron」として参加した...",
+      "published": "2026-04-29T01:04:00Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3f1af55d05a3a4586239dcc6c04d075",
+      "title": "「“新作ゲームの早すぎる発表”をやめて」との声に、ゲーム開発者も注目。待たせちゃうけど、早めに発表したい複雑な事情 - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260428-440323/",
+      "summary": "まだ開発の初期段階にあるにも関わらずゲームを発表し、その後は何年も音沙汰なしになってしまう業界の慣習に、ユーザーは疑問を投げかけている。",
+      "published": "2026-04-28T13:47:49Z",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cd560aef18e9807a115070f02a233d6",
+      "title": "",
+      "link": "https://github.com/microsoft/PowerToys",
+      "summary": "📦 microsoft / PowerToys ⭐ 132,188 (+79) 🗒 C# Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windo...",
+      "published": "29 Apr 2026 13:16 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7026d70d272e7f07853c07de9daed50a",
+      "title": "",
+      "link": "https://github.com/iv-org/invidious",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 iv-org / invidious ⭐ 19,281 (+143) 🗒 Crystal Invidious is an alternative front-end to YouTube",
+      "published": "29 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-29T13:27:54.994115+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-29T11:41:14.652362+00:00"
+  "updated_at": "2026-04-29T13:27:54.994115+00:00"
 }

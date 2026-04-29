@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2f74046f7cd85e8cdb09845e630072d8",
-      "title": "",
-      "link": "https://techblog.enechain.com/entry/identity-platform-migration",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Auth0から内製認証基盤へ移行を決めた背景と移行方法",
-      "published": "28 Apr 2026 05:55 +0000",
-      "fetched_at": "2026-04-28T06:24:57.454872+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "bdde8eb0d4c4f359b165ed91f42fc595",
       "title": "Before GitHub",
       "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
@@ -609,7 +599,77 @@
       "fetched_at": "2026-04-29T09:59:16.911031+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "3463b1640d07a6a41d5bccad76696d3f",
+      "title": "【ハイブリッド開催】第30回redmine.tokyo勉強会 - connpass",
+      "link": "https://redmine-tokyo.connpass.com/event/389880/",
+      "summary": "現地 / オンライン",
+      "published": "29 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bad4798fe612855211c836c33198de48",
+      "title": "",
+      "link": "https://yamdas.hatenablog.com/entry/20260421/not-algorithm-not-ai",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 責任逃れの道具としてのアルゴリズム、そしてAI",
+      "published": "29 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34a26ea7e3c21fc86280ca0ebab5759a",
+      "title": "",
+      "link": "https://awesomesingh.blogspot.com/2026/04/ai-observability-production-2026.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why AI Agents Fail in Production: The Definitive Guide to AI Observability, LLM Monitoring, Evaluation, an...",
+      "published": "29 Apr 2026 10:55 +0000",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d62676faed2ef6cfde8e64eba68d33ce",
+      "title": "Soft launch of open-source code platform for government",
+      "link": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "summary": "Article URL: https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Wed, 29 Apr 2026 09:14:37 +0000",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc68173c670564c681bd86205c961b83",
+      "title": "漫画アプリ「ピッコマ」が“アニメの連載“を開始 漫画をAIで短尺アニメ化して配信",
+      "link": "https://kai-you.net/article/95270",
+      "summary": "漫画アプリ「ピッコマ」が、アプリ内での短尺アニメの配信を開始する。アプリ内にはカテゴリー「ANIME」が新設され、ピッコマで連載されている漫画作品が映像化される。同カテゴリは5月下旬より提供を開始し、4月27日からはプレオープンとして一部作品が公開されている。「ANIME」の作品は、制作プロセスの一...",
+      "published": "2026-04-28T09:41:33Z",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b8781fd487622e74b14bae3fa07ab69",
+      "title": "「OpenClaw使っていいですか？」と聞かれた情シスが真っ先に考えるべきこと",
+      "link": "https://techtarget.itmedia.co.jp/tt/news/2604/28/news07.html",
+      "summary": "エグゼクティブサマリー 新たなコントロールプレーン：OpenClawは単なるフレームワークではない。企業全体のスタックでAIエージェントを動かす「実行層」である ツールではなく、アーキテクチャ：エージェント用フレームワークを単なる開発ツールとして扱うのは危険だ。これはデータの不整合を増幅させる運用イ...",
+      "published": "2026-04-28T11:13:43Z",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23f0203976e805bee1e86b426cedb308",
+      "title": "Claude can now be plugged into Ableton to assist with your music projects",
+      "link": "https://musictech.com/news/industry/claude-can-now-be-plugged-into-ableton/?utm_source=rss&utm_medium=rss&utm_campaign=claude-can-now-be-plugged-into-ableton",
+      "summary": "The Anthropic chatbot and AI assistant can also now be connected to Photoshop and Blender. The post Claude can now be plugged into Ableton to assist w...",
+      "published": "Wed, 29 Apr 2026 10:47:57 +0000",
+      "fetched_at": "2026-04-29T11:41:14.652362+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-29T09:59:16.911031+00:00"
+  "updated_at": "2026-04-29T11:41:14.652362+00:00"
 }

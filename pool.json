@@ -1509,7 +1509,147 @@
       "fetched_at": "2026-04-29T19:12:54.716211+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "4ba3934863264c1c948b076d198fdad0",
+      "title": "\"People who don't use AI will be left behind\"",
+      "link": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+      "summary": "Article URL: https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/ Comments URL: https://news.ycombinator.com/item?id=4795301...",
+      "published": "Wed, 29 Apr 2026 19:15:52 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a21d210fc7dab0849c49d122db79af75",
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "link": "https://github.com/anthropics/claude-code/issues/53262",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/53262 Comments URL: https://news.ycombinator.com/item?id=47952722 Points: 587 # Comments...",
+      "published": "Wed, 29 Apr 2026 18:54:31 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f0afe7894deaba24a92a0a143aca4de",
+      "title": "Maryland becomes first state to ban surveillance pricing in grocery stores",
+      "link": "https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/apr/29/maryland-grocery-stores-ban-surveillance-pricing Comments URL: https://news.ycombinato...",
+      "published": "Wed, 29 Apr 2026 16:50:01 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c57378877d2bff83d7e781ac64cb20c2",
+      "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "summary": "Article URL: https://read.thecoder.cafe/p/linux-broke-postgresql Comments URL: https://news.ycombinator.com/item?id=47949585 Points: 113 # Comments: 6...",
+      "published": "Wed, 29 Apr 2026 15:13:44 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2493ac5cb59e075be9b2c3a35c984d62",
+      "title": "An open-source stethoscope that costs between $2.5 and $5 to produce",
+      "link": "https://github.com/GliaX/Stethoscope",
+      "summary": "Article URL: https://github.com/GliaX/Stethoscope Comments URL: https://news.ycombinator.com/item?id=47949204 Points: 125 # Comments: 56",
+      "published": "Wed, 29 Apr 2026 14:47:31 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6823c4c56bfb79c2644b341f98bdcb6b",
+      "title": "Amazon CloudFront now supports invalidation by cache tag",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/",
+      "summary": "Amazon CloudFront now allows you to invalidate cached objects by cache tag, enabling you to remove groups of related content from CloudFront edge loca...",
+      "published": "Wed, 29 Apr 2026 17:06:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "99414820c6794c04bf6843a5b4db4bb5",
+      "title": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/",
+      "summary": "Amazon CloudWatch now provides a visual configuration editor for the CloudWatch agent directly in the Amazon EC2 console, enabling you to set up and m...",
+      "published": "Wed, 29 Apr 2026 17:00:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "38d816828e3af51a7f96c6b61fa93113",
+      "title": "OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/",
+      "summary": "Amazon Bedrock now supports OpenAI's open-weight GPT OSS models (120B and 20B) and NVIDIA Nemotron (Nano 9B v2, Nano 12B v2, Nano 30B, Super 120B) mod...",
+      "published": "Wed, 29 Apr 2026 15:18:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "743685c2bd014f7b8c35db0e703c91e6",
+      "title": "AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/",
+      "summary": "AWS Transfer Family Terraform module now includes end-to-end examples for deploying Transfer Family endpoints integrated with Okta and Microsoft Entra...",
+      "published": "Wed, 29 Apr 2026 10:00:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc4f12a3990d265f97ecaf42d08325f1",
+      "title": "Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions. Amazon RDS for Db2 makes it e...",
+      "published": "Wed, 29 Apr 2026 07:21:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0bbd51a4b2fc62c25a4e9e8a8e14e8b",
+      "title": "Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/",
+      "summary": "Amazon OpenSearch Service now supports JSON Web Key Set (JWKS) URL configuration for JWT authentication. You can configure a JWKS URL as part of your ...",
+      "published": "Wed, 29 Apr 2026 02:30:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "338a65b7c690316181b9da7878f653a2",
+      "title": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-rum-app-monitors/",
+      "summary": "Amazon CloudWatch RUM, which provides real user monitoring for web, iOS, and Android applications, now supports an improved App Monitors overview that...",
+      "published": "Mon, 27 Apr 2026 19:32:00 GMT",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "193723e46887bd271a4ddd4fe6ea9c89",
+      "title": "Claude Codeにレビューを任せてチームの負担を減らす",
+      "link": "https://zenn.dev/wwwave/articles/4d21d34ad604ba",
+      "summary": "はじめに チームのコードレビューの負担を少しでも減らすために、Claude Code の Skill を作成しました。 今回は、backend（Rails） 用として作成した /review-backend を紹介します。 暫く使って安定したら、frontend 用にも展開する予定です。 狙いは、人...",
+      "published": "2026-04-29T03:16:39Z",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1ece9817b331b353ef7e83308e5fae2",
+      "title": "",
+      "link": "https://github.com/gorhill/uBlock",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 gorhill / uBlock ⭐ 63,880 (+569) 🗒 JavaScript uBlock Origin - An efficient blocker for Chromium and Firefox. Fast ...",
+      "published": "29 Apr 2026 19:16 +0000",
+      "fetched_at": "2026-04-29T20:55:31.376813+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-29T19:12:54.716211+00:00"
+  "updated_at": "2026-04-29T20:55:31.376813+00:00"
 }

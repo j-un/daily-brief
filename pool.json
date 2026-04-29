@@ -1169,7 +1169,237 @@
       "fetched_at": "2026-04-29T15:52:44.010992+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "5738c042c90444fc6304730bb893a3fd",
+      "title": "",
+      "link": "https://entropicthoughts.com/si-units-for-request-rate",
+      "summary": "Request Rateは一定ではないことから放射線で使われる単位ベクレル(Bq)が最適ではないかとの主張。 さてどうでしょうか。",
+      "published": "29 Apr 2026 16:53 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6c3444b6d06ce656e8ea266c656a595",
+      "title": "",
+      "link": "https://github.com/refactoringhq/tolaria",
+      "summary": "Markdownで書くナレッジベース用デスクトップアプリ。macOS/Linuxに対応。brew install --cask tolaria",
+      "published": "29 Apr 2026 16:47 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a885ee6c57d2b045e27e3e73ce35033",
+      "title": "",
+      "link": "https://zenn.dev/miyagawayuu/articles/dcef32e5aedc71",
+      "summary": "ActivityPub互換ではない独自のJSON over HTTPプロトコル。ほう",
+      "published": "29 Apr 2026 16:44 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f3b2e7bc1d35eeb6872e190e8cface7",
+      "title": "",
+      "link": "https://github.com/huggingface/hf-mount",
+      "summary": "Hugging FaceのBuccketをあたかもローカルのファイルシステムかのようにマウントできるツール。Rust実装。macOSとLinuxで動作可。",
+      "published": "29 Apr 2026 16:43 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3c196eb2fdd2fcbf9236334947db2fa",
+      "title": "",
+      "link": "https://github.com/rshelekhov/lazymake",
+      "summary": "MakefileのモダンなTUIクライアントらしい。Go実装",
+      "published": "29 Apr 2026 16:41 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6ed602b69835f7a4d8c8b39d08f48a5",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/aurora-serverless-v2-platform-version-4/",
+      "summary": "追加コストなしで最大30％パフォーマンス向上。アップデートするしかねぇな",
+      "published": "29 Apr 2026 16:39 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae1b1459012fcdfb5496cfbfb62abd2c",
+      "title": "Vercel Security Checkpoint",
+      "link": "https://www.hashicorp.com/ja/blog/from-zero-trust-to-continuous-trust-securing-autonomous-ai-systems",
+      "summary": "Continuous Trustとは。",
+      "published": "29 Apr 2026 16:36 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2dd9656ec571fbf475e163419d09802",
+      "title": "OpenID TechNight vol.23 ~ AI x API x Enterprise - connpass",
+      "link": "https://openid.connpass.com/event/391821/",
+      "summary": "現地/オンライン",
+      "published": "29 Apr 2026 16:33 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f56677d61b0cf5e233b9e648ded244f0",
+      "title": "3社に聞く！IaC運用におけるTerraformの課題と解決アプローチ - connpass",
+      "link": "https://findy.connpass.com/event/391776/",
+      "summary": "オンライン開催",
+      "published": "29 Apr 2026 16:31 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7678c48aad17527185289247e76c3b03",
+      "title": "",
+      "link": "https://tech-lab.connpass.com/event/391892/",
+      "summary": "「格闘ゲーム(ストリートファイター6)のプレイ動画を題材に、AIがプレイ内容を分析し、改善点を提示する仕組みを実際に構築し、その中身を解説」うおおおお。オンライン開催",
+      "published": "29 Apr 2026 16:29 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5497a4ab839aa69745a3362932a43ae",
+      "title": "HHKB開発者八幡氏登壇＆キーボード10種お試し体験 | mybest Tech Night - connpass",
+      "link": "https://connpass.com/event/391770/",
+      "summary": "現地開催",
+      "published": "29 Apr 2026 16:27 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "817c925cb61382d3f8959d9ef30c9539",
+      "title": "Apache Iceberg Meetup Japan #5 - connpass",
+      "link": "https://iceberg.connpass.com/event/390178/",
+      "summary": "現地/オンライン",
+      "published": "29 Apr 2026 16:26 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c89df1179a9df41bc1412fba1bbe8679",
+      "title": "エンジニアのための自己管理入門 堅牢でスケーラブルな働き方を構築する技術（小田中 育生）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798194066",
+      "summary": "2026年6月24日発売予定",
+      "published": "29 Apr 2026 16:25 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d1e08316d2a6447eb5ed2282142b4e2",
+      "title": "",
+      "link": "https://softantenna.com/blog/windows11-speedtest-built-in/",
+      "summary": "へー確かにあった。ただ、選択するとBingでInternet speed testを検索したページが表示されたので内蔵と言って良いかは怪しい。",
+      "published": "29 Apr 2026 16:15 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5e75288e46c8faacf36af493e26168b",
+      "title": "LLMOps - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401604/",
+      "summary": "2026年5月22日発売予定",
+      "published": "29 Apr 2026 16:10 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "70d4de67d4cf3154d05ba652f16e9063",
+      "title": "",
+      "link": "https://zenn.dev/kimifan/articles/pqc-kuwashii",
+      "summary": "Chrome、Firefox、SafariがPQC対応済なので環境は整ってる。Cloudflareでは2025年末時点で52%のアクセスがPQC保護済。知らなかった。わいわい",
+      "published": "29 Apr 2026 16:09 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "359d6ab0fb4fdfda58c265652b46a2dd",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
+      "summary": "ダウンロードページをみたところLinuxとmacOS用のバイナリが用意されていて、コンテナイメージもある。現時点ではオープンソースではなさそうだ。",
+      "published": "29 Apr 2026 16:01 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "15814b031256ad85450f2470bc1f2dc2",
+      "title": "",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/22/news129.html",
+      "summary": "「Anthropicの国内広報代理店が報道機関に通知したところによれば、カタカナでの正しい表記はクロード・ミュトス」はい",
+      "published": "29 Apr 2026 15:54 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5623c38ca52a1614bdb28d8883a1f27e",
+      "title": "Online age verification is the hill to die on",
+      "link": "https://xcancel.com/GlennMeder/status/2049088498163216560",
+      "summary": "Article URL: https://xcancel.com/GlennMeder/status/2049088498163216560 Comments URL: https://news.ycombinator.com/item?id=47950091 Points: 155 # Comme...",
+      "published": "Wed, 29 Apr 2026 15:49:57 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c2cdeebf51b541409bd6566cbac78dc",
+      "title": "Why AI companies want you to be afraid of them",
+      "link": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Wed, 29 Apr 2026 15:26:01 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4fb7f65173a6aff7fed477de49d565c",
+      "title": "Mistral Medium 3.5",
+      "link": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "summary": "Article URL: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5 Comments URL: https://news.ycombinator.com/item?id=47949642 Points: 174 # C...",
+      "published": "Wed, 29 Apr 2026 15:17:46 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ec6d5af71eebc5ad1b8949be3a3b5f3",
+      "title": "",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 ZhuLinsen / daily_stock_analysis ⭐ 32,405 (+278) 🗒 Python LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本...",
+      "published": "29 Apr 2026 17:16 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "899c70cd5017c0c4f2cf397b6a193cda",
+      "title": "Next-gen MPE: Expressive E adds smarter control, $999 MIDI keyboard",
+      "link": "https://cdm.link/next-gen-expressive-e-ctrl-e/",
+      "summary": "Expressive E is making its expressive, multi-dimensional keyboards more accessible, with 49- and 61-key controller Osmose options starting at $/€999. ...",
+      "published": "Wed, 29 Apr 2026 15:29:56 +0000",
+      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-29T15:52:44.010992+00:00"
+  "updated_at": "2026-04-29T17:20:32.625490+00:00"
 }

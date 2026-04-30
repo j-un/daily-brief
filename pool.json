@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b6c3444b6d06ce656e8ea266c656a595",
-      "title": "",
-      "link": "https://github.com/refactoringhq/tolaria",
-      "summary": "Markdownで書くナレッジベース用デスクトップアプリ。macOS/Linuxに対応。brew install --cask tolaria",
-      "published": "29 Apr 2026 16:47 +0000",
-      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "70d4de67d4cf3154d05ba652f16e9063",
-      "title": "",
-      "link": "https://zenn.dev/kimifan/articles/pqc-kuwashii",
-      "summary": "Chrome、Firefox、SafariがPQC対応済なので環境は整ってる。Cloudflareでは2025年末時点で52%のアクセスがPQC保護済。知らなかった。わいわい",
-      "published": "29 Apr 2026 16:09 +0000",
-      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "359d6ab0fb4fdfda58c265652b46a2dd",
-      "title": "",
-      "link": "https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html",
-      "summary": "ダウンロードページをみたところLinuxとmacOS用のバイナリが用意されていて、コンテナイメージもある。現時点ではオープンソースではなさそうだ。",
-      "published": "29 Apr 2026 16:01 +0000",
-      "fetched_at": "2026-04-29T17:20:32.625490+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "5b3a403128eec4c34d47e112992a173d",
       "title": "",
       "link": "https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks",
@@ -1489,7 +1459,87 @@
       "fetched_at": "2026-04-30T20:52:51.081688+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "2fc322e899d50413b599b69ac3b2cb21",
+      "title": "Rivian allows you to disable all internet connectivity",
+      "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "summary": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Thu, 30 Apr 2026 20:27:22 +0000",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55f96ba441bffa11d7635c07163f741e",
+      "title": "U.S. Senators Vote to Ban Themselves from Trading on Prediction Markets",
+      "link": "https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd",
+      "summary": "Article URL: https://www.wsj.com/politics/policy/senators-vote-to-ban-themselves-from-trading-on-prediction-markets-ae4535dd Comments URL: https://new...",
+      "published": "Thu, 30 Apr 2026 19:42:33 +0000",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddb1048db9410eac624ad2370ab03d86",
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "link": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "summary": "Article URL: https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/ Comments URL: https://news.ycombi...",
+      "published": "Thu, 30 Apr 2026 19:40:20 +0000",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "372661bac5e5175602f06666b65297ba",
+      "title": "For the first time in history, more Americans are moving to EU than vice versa",
+      "link": "https://twitter.com/benbawan/status/2049303326999609846",
+      "summary": "Article URL: https://twitter.com/benbawan/status/2049303326999609846 Comments URL: https://news.ycombinator.com/item?id=47960953 Points: 103 # Comment...",
+      "published": "Thu, 30 Apr 2026 11:31:27 +0000",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b28ab9b08eac6fc95cd9ae0eaa2b6153",
+      "title": "イーロン・マスク、Grokの強化にOpenAIのモデルを「蒸留」したことを認める",
+      "link": "https://www.techno-edge.net/article/2026/05/01/5036.html",
+      "summary": "イーロン・マスク氏は木曜日、xAIが独自のAIモデルを強化する過程で、部分的にOpenAIのモデルを利用したことを認めました。この強化プロセスは「Distilling」、日本語で「蒸留（知識抽出）」と呼ばれます。",
+      "published": "Fri, 01 May 2026 07:00:03 +0900",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fc17993547d782936274528d4fada7e",
+      "title": "AWS Outposts racks now support LagStatus CloudWatch metric",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/",
+      "summary": "AWS Outposts racks now support the LagStatus Amazon CloudWatch metric in all AWS commercial Regions and the AWS GovCloud (US-East) and AWS GovCloud (U...",
+      "published": "Thu, 30 Apr 2026 20:17:00 GMT",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e55eea7d23bac90fdcb9ea99a048ca3",
+      "title": "AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/",
+      "summary": "AWS Neuron announces the Neuron Agentic Development capabilities, an open-source collection of agents and skills that equip AI coding assistants to ac...",
+      "published": "Thu, 30 Apr 2026 15:00:00 GMT",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4b9dde831c700438e26e32a6fbf82c7",
+      "title": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/",
+      "summary": "Today, Amazon Quick introduces new and upgraded Microsoft 365 extensions in preview for Excel, PowerPoint, and Word, enabling Quick to perform tasks d...",
+      "published": "Thu, 30 Apr 2026 11:30:00 GMT",
+      "fetched_at": "2026-04-30T22:38:03.534683+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-30T20:52:51.081688+00:00"
+  "updated_at": "2026-04-30T22:38:03.534683+00:00"
 }

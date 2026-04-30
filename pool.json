@@ -809,7 +809,167 @@
       "fetched_at": "2026-04-30T11:43:22.654462+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a00937aababc9976e0d67f00a15587ba",
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "link": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "summary": "Article URL: https://firethering.com/granite-4-1-ibm-open-source-model-family/ Comments URL: https://news.ycombinator.com/item?id=47960507 Points: 145...",
+      "published": "Thu, 30 Apr 2026 10:31:17 +0000",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1225540b4ef54965d2818f2735e48842",
+      "title": "Claude Sonnet 4.5超えのフランス製AIモデル「Mistral Medium 3.5」がオープンモデルとして公開される＆Mistral Vibeがクラウド対応",
+      "link": "https://gigazine.net/news/20260430-mistral-medium-3-5/",
+      "summary": "フランスのAI企業であるMistral AIがパラメーター数1280億のAIモデル「Mistral Medium 3.5」をオープンモデルとして公開しました。合わせてコーディングエージェントのMistral Vibeがクラウドで動作するようになり、複数のエージェントを同時実行したりチャットAIのLe...",
+      "published": "2026-04-30T09:16:19Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "243a1a68d28157d555a32667a98430ec",
+      "title": "Linuxカーネルの脆弱性「CopyFail (CVE-2026-31431)」をEC2のUbuntu 22.04で実証してみた",
+      "link": "https://zenn.dev/aeyesec/articles/7e4a1e3c83e81b",
+      "summary": "こんにちは！株式会社エーアイセキュリティラボのはるぷと申します。 一般ユーザーがコマンド一発でrootを取れてしまうLinuxカーネルの脆弱性、CopyFail (CVE-2026-31431) が話題になっています。AIによって発見された論理バグで、汚しても問題ないEC2環境を作って実際に検証して...",
+      "published": "2026-04-30T07:12:05Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3be7c4e47a18535a7468e16ce569ada",
+      "title": "GitHub神話の6日間 — ガバナンス、稼働率、セキュリティ、コストが同時に揺らいだ一週間 - Qiita",
+      "link": "https://qiita.com/crowdy/items/c3e06c47b350ef230352",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 今週のGitHubは運が悪かったのか、それ...",
+      "published": "2026-04-29T15:43:49Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f90c9da46f2c01a04c07305e261feeb0",
+      "title": "OpenAIは「ゴブリンやアライグマについて話すな」とAIコーディングツールのCodexに指示している",
+      "link": "https://gigazine.net/news/20260430-openai-ban-codex-ai-goblins-gremlins/",
+      "summary": "CodexはOpenAIが開発したAIコーディングツールであり、2026年4月にリリースされたGPT-5.5もCodexに統合されています。新たに、OpenAIがCodexに対して与えたプロンプトの中に「ゴブリン・グレムリン・アライグマ・トロール・オーガ・ハト・その他の動物やクリーチャーについて話す...",
+      "published": "2026-04-30T08:36:38Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "936184d27d7e324dc8c7fad5ebba28a2",
+      "title": "Microsoft、ターミナル用エディター「Edit」バージョン2.0.0をリリース ——構文ハイライトを追加 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/04/edit-2.0",
+      "summary": "Microsoft⁠⁠、ターミナル用エディター「Edit」バージョン2.0.0をリリース —⁠—構文ハイライトを追加 Microsoftは2026年4月28日、ターミナル用テキストエディター「Edit」のバージョン2.0.0をリリースした。今回の目玉は構文ハイライト機能、Lightweight Sy...",
+      "published": "2026-04-30T10:12:40Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb07fc1219d59e3a285eec73b2301a95",
+      "title": "宣言的スキーマ管理ツール pistachio を作成しました",
+      "link": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
+      "summary": "プラットフォームチームの菅原です。 最近、pistachioという宣言的スキーマ管理ツールを作成し[1]、本番環境のDBマイグレーションに導入したので紹介させてください。 pistachioについて 「宣言的スキーマ管理」はTerraformのように「あるべきスキーマの状態」を記述し、差分を埋めるD...",
+      "published": "2026-04-30T04:52:13Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4208335ab05e5fdcb6bdf47d65af428c",
+      "title": "「AGIは到来する」──松尾豊教授が「年間100社の大学発AIスタートアップ輩出が理想」と語った真意 | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2604-prof-matsuo-agi-100-startups-mission/",
+      "summary": "4月28日に開催された「SusHi Tech Tokyo 2026」の2日目には、松尾豊教授らが登壇するセッションが開催された。撮影：小林優多郎 ChatGPTが登場してわずか3年。AIは仕事の現場を急速に塗り替えたが、その先には汎用人工知能（AGI）の時代が控えている。AIからAGIへ変動するこの...",
+      "published": "2026-04-30T07:01:31Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30bfec6147536361f7ad93231079af2e",
+      "title": "GitHub Copilot のモデルと価格設定 - GitHubドキュメント",
+      "link": "https://docs.github.com/ja/copilot/reference/copilot-billing/models-and-pricing",
+      "summary": "",
+      "published": "2026-04-28T02:48:27Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e446c453e6757a020bbec81e7471d0e",
+      "title": "NVIDIAが視覚・音声・言語モデルを統合するオープンなオムニモーダル推論モデル「Nemotron 3 Nano Omni」を発表",
+      "link": "https://gigazine.net/news/20260430-nvidia-ai-nemotron-3-nano-omni/",
+      "summary": "現地時間の2026年4月28日、NVIDIAが視覚・音声・言語モデルを統合したオムニモーダル推論モデルの「Nemotron 3 Nano Omni」を発表しました。コンピューターの使用、文書の分析、音声や映像の推論といったエージェント型ワークフローを支える最高の効率性と精度を実現しています。 NVI...",
+      "published": "2026-04-30T07:47:13Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3afaab2f213f55aad6d37d12f554ba25",
+      "title": "【特集】 IDEケーブルに緑基板！レトロなケース「FLP02」で'90年代風自作PCを組む",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2104910.html",
+      "summary": "",
+      "published": "2026-04-27T23:51:15Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "015e580a793ee294302b061dc8e55899",
+      "title": "Continuing the story of early DOS development | Microsoft Open Source Blog",
+      "link": "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/",
+      "summary": "Over the last few years, we’ve been working to open some of the earliest chapters of Microsoft’s operating system history. In 2018 we (re)-open-source...",
+      "published": "2026-04-28T23:27:50Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8af265692dbe90dc8fd90e944735752b",
+      "title": "Microsoft、DOS 1.0のソースコードと開発関連資料を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/04/early-dos-history",
+      "summary": "Microsoft⁠⁠、DOS 1.0のソースコードと開発関連資料を公開 Microsoftは2026年4月28日、86-DOS 1.00/PC-DOS 1.00のカーネルコードを含む最も初期のDOS開発に関する資料をGitHub上で公開した。 Continuing the story of ear...",
+      "published": "2026-04-30T10:37:01Z",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c71ac8bf4b5114908c9c8f85b975ae1",
+      "title": "",
+      "link": "https://github.com/browserbase/skills",
+      "summary": "📦 browserbase / skills ⭐ 667 (+54) 🗒 JavaScript Claude Agent SDK with a web browsing tool",
+      "published": "30 Apr 2026 13:16 +0000",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c2fb0222883697d597b76f81e599a6d",
+      "title": "",
+      "link": "https://github.com/ForrestKnight/open-source-cs",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ForrestKnight / open-source-cs ⭐ 22,226 (+133) Video discussing this curriculum:",
+      "published": "30 Apr 2026 12:16 +0000",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc9f6865b199240cbadc2e24c5d619ce",
+      "title": "“Creators’ needs are evolving”: Avid introduces Pro Tools 2026.4, with Track Pin – a simple new way to navigate complex sessions – front and centre",
+      "link": "https://musictech.com/news/industry/avid-pro-tools-2026-4/?utm_source=rss&utm_medium=rss&utm_campaign=avid-pro-tools-2026-4",
+      "summary": "There’s also upgrades to the DAW’s AI-powered speech-to-text capabilities, improved support for Dolby Atmos and MPEG-H, plus new virtual instruments a...",
+      "published": "Thu, 30 Apr 2026 12:06:31 +0000",
+      "fetched_at": "2026-04-30T13:24:59.301034+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-04-30T11:43:22.654462+00:00"
+  "updated_at": "2026-04-30T13:24:59.301034+00:00"
 }

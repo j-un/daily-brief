@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "dc41198cb34c76159c3a79f108a44fd8",
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "link": "https://www.lumara-space.app/",
-      "summary": "Article URL: https://www.lumara-space.app/ Comments URL: https://news.ycombinator.com/item?id=47934261 Points: 151 # Comments: 50",
-      "published": "Tue, 28 Apr 2026 13:25:48 +0000",
-      "fetched_at": "2026-04-28T22:48:41.038361+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e435084241412a02247e532f32feaa69",
-      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog",
-      "link": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
-      "summary": "Securing GitHub: Wiz Research uncovers Remote Code Execution in GitHub.com and GitHub Enterprise Server (CVE-2026-3854)Details on CVE-2026-3854: A cri...",
-      "published": "2026-04-28T19:53:12Z",
-      "fetched_at": "2026-04-29T02:10:47.974029+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "cf3708b68a4e8ecc7a4fd9104b3cd3ff",
       "title": "Anthropic joins the Blender Development Fund as Corporate Patron — Blender",
       "link": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
@@ -219,7 +199,287 @@
       "fetched_at": "2026-04-30T02:10:58.482323+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "36757c2715657e667d2df697449eb954",
+      "title": "",
+      "link": "https://huggingface.co/openai/privacy-filter",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 openai/privacy-filter · Hugging Face",
+      "published": "30 Apr 2026 05:55 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af131e3bd28dd4150c606eb96329f133",
+      "title": "",
+      "link": "https://wtrclred.io/ja/posts/20",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 若者よ，インターネットを荒らせ",
+      "published": "30 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dfe596476fc356511a10a72b0142cd0",
+      "title": "",
+      "link": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables",
+      "published": "30 Apr 2026 03:55 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "034e478ac5e2a864631526438c6299a8",
+      "title": "",
+      "link": "https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 deleted_atにインデックスを雑に貼ったら本番DBが死んだ",
+      "published": "30 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "beae613cc75598526aa3e0c053288f79",
+      "title": "",
+      "link": "https://zenn.dev/aeyesec/articles/32fb05ddd1c3f7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 1日で作るサプライチェーン攻撃対策！運用死しないコスト「ほぼゼロ」の通信監視",
+      "published": "30 Apr 2026 02:55 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d47dd911dffe44832ec0fc6e2b8650ac",
+      "title": "Where the goblins came from",
+      "link": "https://openai.com/index/where-the-goblins-came-from/",
+      "summary": "Article URL: https://openai.com/index/where-the-goblins-came-from/ Comments URL: https://news.ycombinator.com/item?id=47957688 Points: 342 # Comments:...",
+      "published": "Thu, 30 Apr 2026 03:21:04 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "554e54d9457ab66feb3e493ce6397c6d",
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/ Comments URL: https://news.ycombinator.com/item?id=47957294 Points: 115 # Comments: 35",
+      "published": "Thu, 30 Apr 2026 02:15:47 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "897862e0e88dfb033af62113d58d4b0c",
+      "title": "Craig Venter has died",
+      "link": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "summary": "Article URL: https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79 Comments URL: https:/...",
+      "published": "Thu, 30 Apr 2026 01:44:56 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16b61f000e09992e13814972c4a059c3",
+      "title": "Claude.ai and API unavailable [fixed]",
+      "link": "https://status.claude.com/incidents/2gf1jpyty350",
+      "summary": "https://status.claude.com/ Comments URL: https://news.ycombinator.com/item?id=47956895 Points: 112 # Comments: 107",
+      "published": "Thu, 30 Apr 2026 01:21:03 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eb4833315c2ff5110c2f87a2841c47b",
+      "title": "Be Alexandra Elbakyan",
+      "link": "https://twitter.com/MushtaqBilalPhD/status/2049057344013881523",
+      "summary": "https://en.wikipedia.org/wiki/Alexandra_Elbakyanhttps://twitter.com/MushtaqBilalPhD/status/20490573440138815... Comments URL: https://news.ycombinator...",
+      "published": "Wed, 29 Apr 2026 22:39:34 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4154f9331fca71cf4cf23f90ff24660",
+      "title": "Alphabet Announces First Quarter 2026 Results",
+      "link": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
+      "summary": "Article URL: https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx Comments URL: ...",
+      "published": "Wed, 29 Apr 2026 20:20:58 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "97ef429104eb49355040eeefb8f349ca",
+      "title": "AWS Weekly Roundup : Anthropic と Meta のパートナーシップ、AWS Lambda S3 ファイル、Amazon Bedrock AgentCore CLI など (2026 年 4 月 27 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-anthropic-meta-partnership-aws-lambda-s3-files-amazon-bedrock-agentcore-cli-and-more-april-27-2026/",
+      "summary": "3 月下旬、世界中の AWS スペシャリストが集まる最も活気あふれるイベントの 1 つである Speciali […]",
+      "published": "Thu, 30 Apr 2026 05:58:01 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d88115f2029f505fbe708dd825b9ac71",
+      "title": "個人番号利用事務系の実業務で生成AI活用 ― 奈良市と日立システムズが Generative AI Use Cases (GenU) で特定保健指導等における業務効率化に向けた有効性を確認",
+      "link": "https://aws.amazon.com/jp/blogs/news/nara-city-gov-cloud-genai-with-genu/",
+      "summary": "本ブログは、奈良市 AI・行革推進課 染川 実希 様、株式会社日立システムズ 山田 健太郎 様、アマゾン ウェブ サービス ジャパン合同会社 ソリューションアーキテクト 松本 侑也 の共著です。奈良市における個人番号利用事務系ネットワーク上での生成AI活用の取り組みについてご紹介します。自治体の個人...",
+      "published": "Thu, 30 Apr 2026 05:27:48 +0000",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea9e36e7e3dfa0553ea19334b5f956e4",
+      "title": "銀行員が支店内部を撮影？ BeReal映像がXで拡散 西日本シティ銀「事実確認中」",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news088.html",
+      "summary": "動画は4月29日ごろから拡散。銀行のカウンター内部とみられる場所で撮影されており、ホワイトボードに書かれた貸出金や預金残高などの業績目標とみられる数値、デスク上の書類、PC画面などが映り込んでいた。 動画内の掲示物やチラシの表記から、西日本シティ銀行の特定の支店の映像ではないかとの指摘がSNS上で広...",
+      "published": "2026-04-30T03:39:00Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d0ea49ae684a5e960bad2ae5fe91a1e",
+      "title": "Apple、｢Vision Pro｣を事実上断念か ｰ 売れ行き低迷で新モデルの開発は停止 | 気になる、記になる…",
+      "link": "https://taisy0.com/2026/04/30/222691.html",
+      "summary": "MacRumorsが、Appleは「Vision Pro」を事実上断念したようだと報じています。 「Vision Pro」は昨年10月にM5チップ搭載モデルへとアップデートされましたが、その他のハードウェアの変更はなく、消費者の関心は依然として低い状況が続いていました。 「Vision Pro」は初...",
+      "published": "2026-04-29T23:51:32Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2b6becb192d349dcda8346c0556d988",
+      "title": "なぜ一部のAIモデルは「日本文化」に執着するのか？ 「4o-mini」などの出力が日本に偏る実態、欧州チームが研究発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/30/news025.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-04-30T01:35:40Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b211726c91f84ed9e318e1adfc9386e",
+      "title": "Decision Quality と設計判断失敗パターン - kawasima",
+      "link": "https://scrapbox.io/kawasima/Decision_Quality_%E3%81%A8%E8%A8%AD%E8%A8%88%E5%88%A4%E6%96%AD%E5%A4%B1%E6%95%97%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3",
+      "summary": "Decision Quality (DQ) は SDG が体系化した意思決定の質の枠組みで、良い意思決定の条件を6つに分解する。 Frame（解くべき問題の枠組み） Alternatives（選択肢） Information（情報） Values（評価基準） Sound Reasoning（論理的推...",
+      "published": "2026-04-30T03:04:03Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdb2c8bd2144f1e1c67d2360c6a880de",
+      "title": "【やじうまPC Watch】 AIがガードレール無視、9秒で企業のデータベースを全削除する事故",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2105658.html",
+      "summary": "",
+      "published": "2026-04-30T02:14:00Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46381e0cb4b9112630a5b45d3157742c",
+      "title": "RubyKaigi 2026で発表されたSpinelを触ってわかった「コンパイルが通っても動いているとは限らない」話 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/04/30/130000",
+      "summary": "こんにちは。プロダクト開発部の森 @jiskanulo です。 2026年4月22日から24日までRubyKaigi 2026 Hakodateが開催されました。 rubykaigi.org 函館アリーナを3日間に渡って貸し切る大規模イベントの運営をしていただきましたスタッフの皆様に感謝を申し上げま...",
+      "published": "2026-04-30T04:12:15Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0488aff7b5793b89353478069f206009",
+      "title": "魔法瓶の会社が「日傘」や「保冷バッグ」を作ったら……“遮熱”全振り、実用的な商品ができた件",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/29/news030.html",
+      "summary": "魔法瓶の会社が「日傘」や「保冷バッグ」を作ったら……“遮熱”全振り、実用的な商品ができた件：分かりにくいけれど面白いモノたち（1/7 ページ） サーモスは、言わずと知れた真空断熱構造のステンレスボトルをはじめ、その技術を使った保冷保温マグカップや、スープジャー、フードジャー、さらにはヌードルコンテナ...",
+      "published": "2026-04-29T06:02:52Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dac58fd2d8d61c6f554eb369b7b570ea",
+      "title": "Copy Fail — 732 Bytes to Root",
+      "link": "https://copy.fail/",
+      "summary": "A dashed circle marks the intended landing site of the copy; a solid disk cascades down and to the right out of it in three progressively displaced ba...",
+      "published": "2026-04-29T17:53:41Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "638882583ade7b2e64617c2d82b1ca3c",
+      "title": "Copilot Pro は月300回制限からトークン課金へ—GPT-5.4 × Copilot CLI の実コストを試算した",
+      "link": "https://zenn.dev/toki_mwc/articles/copilot-pro-token-billing-gpt54",
+      "summary": "コード補完（インライン補完・次の編集候補）はクレジットを消費しない。 ここは据え置き。消費するのはチャット・CLI・エージェント機能など。 月の予算感 1 AI Credit = $0.01 USD で計算される。 Copilot Pro（$10/月）→ 1,000 クレジット/月 Copilot ...",
+      "published": "2026-04-29T21:21:06Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0853158c44a66499719afddfa626e9cb",
+      "title": "「長持ち家電」は時代遅れ? 大事に使うほど大変になる社会のルール【小寺信良のくらしDX】",
+      "link": "https://www.watch.impress.co.jp/docs/series/kodera/2105624.html",
+      "summary": "",
+      "published": "2026-04-29T23:50:44Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdde8eb0d4c4f359b165ed91f42fc595",
+      "title": "Before GitHub",
+      "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "summary": "GitHub was not the first home of my Open Source software. SourceForge was. Before GitHub, I had my own Trac installation. I had Subversion repositorie...",
+      "published": "2026-04-29T02:43:12Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95d960bef3c8e7f40e7a2ab12d7cd4e1",
+      "title": "AnthropicがClaudeとAdobeやBlenderなどのツールを直接連携できるコネクタを発表、Ableton・Canva・Autodesk・Resolume・SketchUp・Spliceも",
+      "link": "https://gigazine.net/news/20260429-claude-for-creative-work/",
+      "summary": "「クリエイターの活動の幅を広げる」ことを目指して、AnthropicがAdobeをはじめとしたパートナー企業と連携し、Claudeを各社のツールに統合するコネクタをリリースしました。 Claude for Creative Work \\ Anthropic https://www.anthropic...",
+      "published": "2026-04-29T10:17:01Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3819e4f18a5a4184f2b95d38af4af4fa",
+      "title": "ghqのひみつ | ドクセル",
+      "link": "https://docswell.com/s/Songmu/K2Q6P4-the-secret-of-ghq",
+      "summary": "GitHubber, OSS作家。Tech SaaSのPdM、スタートアップ取締役CTOや外資スタートアップのIC等を経験後現職。好きな言語はGoとPerlと中国語で雑なOSSを200以上量産している。3 times ISUCON winner. 著書「みんなのGo言語」共著他。Podcast ht...",
+      "published": "2026-04-30T02:03:22Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff430f246bb55882efdcdeaecdec79c5",
+      "title": "Claude の Adobe for creativity の使い方｜npaka",
+      "link": "https://note.com/npaka/n/n6841ac39cc4c",
+      "summary": "「Claude」の「Adobe for creativity」の使い方をまとめました。 1. Adobe for creativity2026年4月28日、AdobeとAnthropicは、ClaudeでAdobeのクリエイティブツールを使える新Connector「Adobe for creativ...",
+      "published": "2026-04-29T07:09:51Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ceca781b353eee93a997312e90e5473",
+      "title": "重要度別：2025年9月-2026年3月 GA4のアップデート紹介（寄稿：小川卓） - オウンドメディア戦略ラボ by はてな",
+      "link": "https://www.hatena.ne.jp/ownedmedia/article/ga4-updates-202604",
+      "summary": "株式会社HAPPY ANALYTICSの小川卓（id:ryuka01）です。 Google Analytics 4（以下、「GA4」）は2020年に正式リリースされてからも継続的にアップデートを重ねています。今回の記事では、2025年9月から2026年3月に行われたアップデートをまとめて紹介いたしま...",
+      "published": "2026-04-30T02:00:16Z",
+      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-04-30T02:10:58.482323+00:00"
+  "updated_at": "2026-04-30T06:23:02.288127+00:00"
 }

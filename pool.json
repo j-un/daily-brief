@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2ab8741a98421d57d83ec04b01e9f0c1",
-      "title": "",
-      "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 An update on recent Claude Code quality reports",
-      "published": "30 Apr 2026 08:55 +0000",
-      "fetched_at": "2026-04-30T10:00:09.091376+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3a0991210d2d0ec9a1003a981d12adaa",
-      "title": "",
-      "link": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "published": "30 Apr 2026 06:55 +0000",
-      "fetched_at": "2026-04-30T10:00:09.091376+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f7bba7d9f504ca8f71ece0c30a9bef99",
-      "title": "",
-      "link": "https://gigazine.net/news/20260423-openai-privacy-filter/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenAIが文書中の個人名・メアド・電話番号などの個人情報をマスキングして流出を防ぐ「OpenAI Privacy Filter」をオープンソースでリリース",
-      "published": "30 Apr 2026 06:55 +0000",
-      "fetched_at": "2026-04-30T10:00:09.091376+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d880c93774bdc105c836e0c5fdf526fe",
       "title": "ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
       "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
@@ -959,7 +929,207 @@
       "fetched_at": "2026-05-01T13:01:36.774069+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "78297510572bc700eab2d62b495742f8",
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "link": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "summary": "Article URL: https://xcancel.com/aaronp613/status/2049986504617820551 Comments URL: https://news.ycombinator.com/item?id=47973378 Points: 212 # Commen...",
+      "published": "Fri, 01 May 2026 11:08:32 +0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e259aa914bc3230e7af6b283e3e3ac61",
+      "title": "Your Website Is Not for You",
+      "link": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "summary": "Article URL: https://websmith.studio/blog/your-website-is-not-for-you/ Comments URL: https://news.ycombinator.com/item?id=47973376 Points: 144 # Comme...",
+      "published": "Fri, 01 May 2026 11:08:20 +0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa5627bfa51b150d5ffbb706fb46589a",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "summary": "Article URL: https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/ Comments URL: https:/...",
+      "published": "Fri, 01 May 2026 10:28:12 +0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37f50f3e42bbd2bb0f93864ce722ef5b",
+      "title": "Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months",
+      "link": "https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/",
+      "summary": "Article URL: https://www.macrumors.com/2026/04/30/mac-studio-mac-mini-constrained-months/ Comments URL: https://news.ycombinator.com/item?id=47971768 ...",
+      "published": "Fri, 01 May 2026 06:20:33 +0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ace5abb69f9eda66c9f094972d61cd4",
+      "title": "マネーフォワード、GitHubからソースコードと一部ユーザー情報流出か 銀行連携を一時停止",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
+      "summary": "マネーフォワード（東証プライム上場）は5月1日、同社がソフトウェア開発に利用しているプラットフォーム「GitHub」の認証情報が漏えいし、これを悪用した第三者による不正アクセスで情報が流出した恐れがあると発表した。 GitHub内のリポジトリ（ソースコードの保管庫）がコピーされ、ソースコードと、自社...",
+      "published": "2026-05-01T11:52:23Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e8803beb9374011ee43a3b51af5b6f1",
+      "title": "Google Chromeに追加予定のAI機能「Prompt API」はなぜMozillaに反対されているのか？",
+      "link": "https://gigazine.net/news/20260501-google-chrome-prompt-api/",
+      "summary": "GoogleがChromeに搭載を進めると同時にブラウザ間で標準化する取り組みも行っている「Prompt API」に対して、Mozillaが反対の立場を示しています。 Prompt API · Issue #1213 · mozilla/standards-positions https://git...",
+      "published": "2026-05-01T08:58:00Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9e8e21a7a633511b6842e95e36a13f6",
+      "title": "ChatGPTの「画像生成」、どう進化？ 開発者に聞く “文字化け解消”の秘訣",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
+      "summary": "画像生成AIにおける「パラダイムシフト（従来の考え方や価値観が大きく変化すること）になる」――米OpenAIの画像生成AI「ChatGPT Images 2.0」について、開発に携わった同社リサーチャーのハタ・ケンジ氏はこのように胸を張る。 ChatGPT Images 2.0は、OpenAIが4月...",
+      "published": "2026-05-01T09:47:48Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b3d8c0022a9d168ca3e9595375a980a",
+      "title": "Anthropic、「Claude Security」を発表--脆弱性スキャンからパッチ生成までを自動化",
+      "link": "https://japan.zdnet.com/article/35247092/",
+      "summary": "Anthropicは米国時間4月30日、新たな防御型サイバーセキュリティ製品「Claude Security」を発表した。現在は大規模企業向けとされる「Enterprise」プランのユーザーを対象にパブリックベータ版が提供されており、より小規模の企業向けの「Claude Team」、および個人につい...",
+      "published": "2026-05-01T03:46:54Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ac7e10d50496a97bfba7a997addcb6f",
+      "title": "S3 Files 性能評価",
+      "link": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
+      "summary": "はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 2026年4月、AWS から S3 Files がリリースされました。 S3 バケットをファイルシステムとしてマウントして使える、という非常にインパクトのある機能で、ユースケース次第では大幅なストレージコスト削減や...",
+      "published": "2026-05-01T04:01:56Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "081a108c9ab6e01a7be0bf4dd1aef480",
+      "title": "マイクロソフト公式OSS「ghqr」でGitHub設定をベストプラクティス診断してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/ghqr-github-best-practices-audit/",
+      "summary": "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProto...",
+      "published": "2026-05-01T01:17:01Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ee2f3134cd5d996ca6eba57fe9cec4d",
+      "title": "「Gemini」「NotebookLM」のエンタープライズ版、“政府認定サービス”入り 政府調達の対称に",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/01/news109.html",
+      "summary": "同社はすでに「Google Cloud」や「Google Workspace」「AppSheet」などの各サービスで同登録を完了させており、今回2サービスが新たに追加される。 中央省庁、地方自治体、政府関連機関を含む公共部門は、同リストに登録されているクラウドサービスから導入する必要がある。 関連記...",
+      "published": "2026-05-01T08:57:57Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c57378877d2bff83d7e781ac64cb20c2",
+      "title": "How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+      "summary": "☕ Welcome to The Coder Cafe! On April 3, 2026, Salvatore Dipietro, an engineer at AWS, posted a patch to the Linux kernel mailing list. The reason: on...",
+      "published": "2026-04-29T22:36:00Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06653f2846ed7cf4d7bb6e8bd58ef327",
+      "title": "Game development – Codex | OpenAI Developers",
+      "link": "https://developers.openai.com/codex/use-cases/collections/game-development",
+      "summary": "Docs, videos, and demo apps for building with OpenAI",
+      "published": "2026-05-01T06:33:50Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbf122db682c67b75ec2ce53f33ff084",
+      "title": "Continually improving our agent harness · Cursor",
+      "link": "https://cursor.com/blog/continually-improving-agent-harness",
+      "summary": "We approach building the Cursor agent harness the way we'd approach any ambitious software product. Much of the work is vision-driven, where we start ...",
+      "published": "2026-04-30T18:01:13Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5929959f45f56379cb4e1ded2e678d3",
+      "title": "ゼロからのOS自作入門を563日で完走した感想 - sasurau4のブログ",
+      "link": "https://sasurau4.hatenablog.com/entry/2026/04/30/214443",
+      "summary": "TL; DR ゼロからのOS自作入門をやって、君も自分だけのOSを作ろう！ ちょっとずつ作っていく過程で、歴史の追体験と機能ができたときの感動を体験しよう！ 最高なので、今すぐ購入しよう！（ダイレクトマーケティング） はじめに 「ゼロからのOSを自作入門」、通称mikan本をやっとこ完走したので、そ...",
+      "published": "2026-04-30T12:54:06Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e6eba6d5307b83cc3f0832e3829096c",
+      "title": "【緊急】Linux全般に影響！root権限が数秒で奪われる「Copy Fail」の正体とは？セキュリティ担当が教える防御策 - 城咲子｜情報システム部セキュリティ担当のつぶやき（ぼやき）",
+      "link": "https://infomation-sytem-security.hatenablog.com/entry/linux-kernel-vulnerability-cve-2026-31431-copy-fail",
+      "summary": "2026年4月末、Linuxカーネルに極めて深刻な脆弱性が報告されました。通称「Copy Fail」と呼ばれるこの脆弱性（CVE-2026-31431）は、ローカルの一般ユーザーが数秒でroot権限を奪取できるというものです。 今回の記事では、情報システム部のセキュリティ担当として、この脆弱性のメカ...",
+      "published": "2026-05-01T02:28:28Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "058f039b0b6d78f6c070caf85feb2d67",
+      "title": "Two Heads Are Better Than One: Async Knowledge Injection for Speech AI with Tandem Architecture",
+      "link": "https://pub.sakana.ai/kame/",
+      "summary": "This page requires Javascript. Please enable it to view the website. Two Heads Are Better Than One: Async Knowledge Injection for Speech AI with Tande...",
+      "published": "2026-04-30T07:02:53Z",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0d0d399bd6a3f2b4d40267a7fa9f044",
+      "title": "",
+      "link": "https://github.com/simstudioai/sim",
+      "summary": "📦 simstudioai / sim ⭐ 28,004 (+38) 🗒 TypeScript Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "published": "01 May 2026 13:16 +0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a865e30d6ca68972f29989c0ac27edd",
+      "title": "Essential Releases, May 1, 2026",
+      "link": "https://daily.bandcamp.com/essential-releases/essential-releases-may-1-2026",
+      "summary": "Power pop, jazz, hardcore punk, and more. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 01 May 2026 13:29:56 -0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "563f6a3887e0c2b48a3dffb826bc41bb",
+      "title": "OOIOO / Lightning Bolt, “The Horizon Spirals / The Horizon Viral”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/ooioo-lightning-bolt-the-horizon-spirals-the-horizon-viral-review",
+      "summary": "This split single showcases two groups who are not only contemporaries but perfect complements. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 01 May 2026 13:29:43 -0000",
+      "fetched_at": "2026-05-01T14:48:32.804572+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-01T13:01:36.774069+00:00"
+  "updated_at": "2026-05-01T14:48:32.804572+00:00"
 }

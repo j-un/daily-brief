@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "034e478ac5e2a864631526438c6299a8",
-      "title": "",
-      "link": "https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 deleted_atにインデックスを雑に貼ったら本番DBが死んだ",
-      "published": "30 Apr 2026 02:55 +0000",
-      "fetched_at": "2026-04-30T06:23:02.288127+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2ab8741a98421d57d83ec04b01e9f0c1",
       "title": "",
       "link": "https://www.anthropic.com/engineering/april-23-postmortem",
@@ -719,7 +709,157 @@
       "fetched_at": "2026-05-01T09:27:11.161161+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "main"
+    },
+    {
+      "entry_id": "eae97ac055071378c9e5ddc5ec6d8b5d",
+      "title": "",
+      "link": "https://buildersbox.corp-sansan.com/entry/2026/04/24/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIと共に技術負債と向き合う。OpenAPI GeneratorへのOSSコントリビュートを果たした記録",
+      "published": "01 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3bd916c7f356041cff8e46ae472c96f",
+      "title": "OpenWarp",
+      "link": "https://openwarp.zerx.dev",
+      "summary": "Article URL: https://openwarp.zerx.dev Comments URL: https://news.ycombinator.com/item?id=47970622 Points: 101 # Comments: 80",
+      "published": "Fri, 01 May 2026 02:10:46 +0000",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d81921478117d094fd83f073a4d92c69",
+      "title": "セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話💰",
+      "link": "https://zenn.dev/sabakan1/articles/bd286802d6a91d",
+      "summary": "はじめに こんにちは、Sabakanです。 今回、Claude Code 用のセキュリティ診断スキル claude-security-scan を作って公開しました。 正直、自分でもびっくりするくらい実用的なものができたので、紹介させてください。 リポジトリはこちら → https://github...",
+      "published": "2026-05-01T02:49:13Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a9ff34b2925a2ae24e918b42e2b463f",
+      "title": "インターネットの新規サイトの3分の1はAI生成、「うそはうそであると見抜ける人でないと難しい」時代になったのか？",
+      "link": "https://gigazine.net/news/20260501-internet-ai-generated-text/",
+      "summary": "研究者らがInternet Archiveのデータを分析したところ、2025年半ばまでに新しく作られたウェブサイトの約3分の1がAI生成・AI支援テキストを含むものとして分類されたことが分かりました。調査を行ったのはスタンフォード大学、インペリアル・カレッジ・ロンドン、Internet Archiv...",
+      "published": "2026-05-01T08:06:25Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f04b9ebac63a697bd19f3549c2602f76",
+      "title": "Anthropicが生命情報解析のベンチマーク「BioMysteryBench」を発表、Mythosは人間が解けなかった問題のうち約30％を解決",
+      "link": "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
+      "summary": "AIモデルの「Claude」を開発するAnthropicが、生命情報解析を行う研究分野「バイオインフォマティクス」におけるAIの能力を測定するベンチマーク「BioMysteryBench」を発表しました。科学分野におけるAIの性能をこれまで以上に効果的に測れるものと紹介されています。 Evaluat...",
+      "published": "2026-05-01T08:06:40Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a91f5bb1904f665b909507afbcdbb814",
+      "title": "IT関連会社「はてな」11億円流出 警察官かたる詐欺被害か | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015112951000",
+      "summary": "ブログサービスなどを運営するIT関連会社「はてな」で、警察官をかたった人物から従業員に連絡があり、虚偽の送金指示で最大およそ11億円の資金が流出したことが分かりました。振り込め詐欺の被害にあった可能性…",
+      "published": "2026-05-01T10:41:20Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1e737b2f976d3012d81ece18bbdc6bf",
+      "title": "Samsungが「2027年にメモリの供給不足がさらに深刻化する」と予測、顧客は既に2027年分の注文を開始している",
+      "link": "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
+      "summary": "世界的な半導体(メモリ)不足が続く中、半導体大手のSamsungが「世界的なメモリ不足は2027年まで続き、さらに悪化する可能性もある」と警告しました。 Samsung: Expect Memory Crisis to Get Even Worse Next Year | PCMag https:/...",
+      "published": "2026-05-01T09:03:04Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dca347043ead2c9f72a2670fc0f8b7fb",
+      "title": "How people ask Claude for personal guidance",
+      "link": "https://www.anthropic.com/research/claude-personal-guidance",
+      "summary": "People don’t just come to Claude for code reviews or meeting summaries. They ask whether to take the job, how to talk to their crush, if they should m...",
+      "published": "2026-05-01T06:30:05Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afb82dee46a767f33bfb8920160f377b",
+      "title": "「企業が従業員を解雇してAIに置き換えることは認められない」との判決を中国の裁判所が下す",
+      "link": "https://gigazine.net/news/20260501-china-court-labor-ai-replace/",
+      "summary": "中国の中級人民法院が、労働者を解雇してAIに置き換えた企業に対し、解雇は違法であるとの判決を下しました。労働者側の弁護士は「企業はAIによる効率向上の恩恵を受けることができる一方で、それに見合った社会的責任も負わなければならない」との見解を示しました。 Chinese court defends l...",
+      "published": "2026-05-01T07:45:08Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "983c0e307322ddaf69f837e42a95b1da",
+      "title": "GPT-5.5が「ネットワーク完全乗っ取り攻撃」を自律的に成功、Claude Mythos Previewに続いて2例目",
+      "link": "https://gigazine.net/news/20260501-gpt-5-5-cyber-capabilities/",
+      "summary": "イギリスの政府系機関・AI Security Institute(AISI)によるサイバー攻撃性能の検証で、GPT-5.5が「ネットワーク完全乗っ取り攻撃」を成功させられる性能を持っていることが明らかになりました。 Our evaluation of OpenAI's GPT-5.5 cyber c...",
+      "published": "2026-05-01T06:08:28Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2751bdbb465025a6784d7197bf057585",
+      "title": "AI生成コードを含むプルリクエストを一律禁止にするべき理由がよくわかる「貢献者ポーカー」とは？",
+      "link": "https://gigazine.net/news/20260501-zig-no-ai-contributor-poker/",
+      "summary": "汎用プログラミング言語の「Zig」は、主要なオープンソースプロジェクトの中でも特に厳しいAIポリシーを敷いており、運営元のZig Software Foundationは明確にAI生成のコードが含まれるプルリクエストを禁止しています。なぜZigコミュニティがAIによるプルリクエストを禁止するのかにつ...",
+      "published": "2026-05-01T07:48:13Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e70b3250c73640bd07e2afcbdd2d4ed",
+      "title": "絵文字にも対応、国産でシンプル・モダンなバイナリエディター「YuHex」／4GBを超える巨大ファイルも扱える【レビュー】",
+      "link": "https://forest.watch.impress.co.jp/docs/review/2105407.html",
+      "summary": "",
+      "published": "2026-05-01T03:35:54Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1544b491d6dc0622fec904ccf091f720",
+      "title": "Appleが2026年度第2四半期の業績を発表、iPhone 17シリーズの好調だけでなくAI需要によるMacの販売台数の伸びも",
+      "link": "https://gigazine.net/news/20260501-apple-2026q2-earnings-reports/",
+      "summary": "現地時間の2026年4月30日、Appleが2026年度第2四半期(1～3月)の業績を発表しました。同四半期におけるAppleの売上高は、前年同期比で17％増の1112億ドル(約17兆4800億円)を記録しています。 Apple reports second quarter results - Ap...",
+      "published": "2026-05-01T03:04:53Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6466187909a7e0144820e9ceea21537",
+      "title": "[みんなのケータイ]「SUPER FRIDAY」からおよそ10年が経ち、楽天モバイルがシュークリームを配っていた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2105759.html",
+      "summary": "",
+      "published": "2026-04-30T15:12:27Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55c3e232f0d0e988fcc990b37646fd89",
+      "title": "夏野菜を植える時期が来た!! たった半畳分の家庭菜園でスペース効率よく野菜を育てる方法【はんじょう農場その1】【空いた時間でなにしてる？】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2105981.html",
+      "summary": "",
+      "published": "2026-05-01T05:14:35Z",
+      "fetched_at": "2026-05-01T11:02:17.095575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-01T09:27:11.161161+00:00"
+  "updated_at": "2026-05-01T11:02:17.095575+00:00"
 }

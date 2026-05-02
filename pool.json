@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "7d77d6b0e414236926b01c98c14474a6",
-      "title": "",
-      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202604/24",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Ubuntu 26.04 LTS “Resolute Raccoon”のリリース | gihyo.jp",
-      "published": "01 May 2026 05:55 +0000",
-      "fetched_at": "2026-05-01T06:32:21.258422+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b5e75288e46c8faacf36af493e26168b",
       "title": "",
       "link": "https://www.oreilly.co.jp//books/9784814401604/",
@@ -539,7 +529,57 @@
       "fetched_at": "2026-05-02T08:58:42.212631+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "f84a195533dc22f8e16f7e10fe3652c4",
+      "title": "Good developers learn to program. Most courses teach a language",
+      "link": "https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language",
+      "summary": "Article URL: https://evilgeniuslabs.ca/blog/good-developers-learn-to-program-not-a-language Comments URL: https://news.ycombinator.com/item?id=4798199...",
+      "published": "Sat, 02 May 2026 00:14:33 +0000",
+      "fetched_at": "2026-05-02T10:43:15.222310+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfa9371d175527850df72eeaca18f5f0",
+      "title": "DeepSeek V4–almost on the frontier, a fraction of the price",
+      "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+      "summary": "Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/ Comments URL: https://news.ycombinator.com/item?id=47977026 Points: 105 # Comments: 45",
+      "published": "Fri, 01 May 2026 16:52:43 +0000",
+      "fetched_at": "2026-05-02T10:43:15.222310+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48430b4a009770d7dea2f600f8ba26ac",
+      "title": "サプライチェーン攻撃の対策 - kawasima",
+      "link": "https://scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96",
+      "summary": "背景: 何が起きているか 2025年9月、Shai-Hulud攻撃がnpmエコシステムを直撃した。ngx-bootstrap、ng2-file-upload、@ctrl/tinycolor等の正規パッケージが改ざんされ、postinstallフックで難読化済みのbundle.jsを実行、npm/Gi...",
+      "published": "2026-05-02T02:56:18Z",
+      "fetched_at": "2026-05-02T10:43:15.222310+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a43caaab0e5d7ac2d48d8b5ffe6c19a",
+      "title": "GitHub ActionsとECS Run TaskでDB操作を自動化する - Sweet Escape",
+      "link": "https://www.keisuke69.net/entry/2026/05/02/173529",
+      "summary": "CI/CDシリーズの3本目。1本目はデプロイパイプラインの土台、2本目はPRごとのプレビュー環境について書いた。今回はデプロイ以外の運用自動化、具体的にはDB操作のワークフロー化の話。 背景: なぜ運用タスクをワークフロー化するのか デプロイ以外にも繰り返し発生する運用タスクがある。マイグレーション...",
+      "published": "2026-05-02T08:55:03Z",
+      "fetched_at": "2026-05-02T10:43:15.222310+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3e78c8ac4159c3172b04aa9d2edecf6",
+      "title": "macOS 28でRosetta 2の提供が終了することにより動作しなくなるIntelアプリを検出＆AIを利用して代替アプリを教えてくれるMacアプリ「‎Rosetta Check」がリリース。",
+      "link": "https://applech2.com/archives/20260501-rosetta-check-find-intel-apps.html",
+      "summary": "macOS 28でRosetta 2の提供が終了することにより動作しなくなるApple Silicon非対応アプリを検出できるMacアプリ「‎Rosetta Check」がリリースされています。詳細は以下から。 Appleは2025年06月に開催したWWDC25で、現在のmacOS 26 Tahoe...",
+      "published": "2026-05-01T09:56:58Z",
+      "fetched_at": "2026-05-02T10:43:15.222310+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-02T08:58:42.212631+00:00"
+  "updated_at": "2026-05-02T10:43:15.222310+00:00"
 }

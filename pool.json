@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b5e75288e46c8faacf36af493e26168b",
-      "title": "",
-      "link": "https://www.oreilly.co.jp//books/9784814401604/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLMOps",
-      "published": "01 May 2026 08:55 +0000",
-      "fetched_at": "2026-05-01T09:27:11.161161+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "89cd22ac59d50eb5ceb158d8a883a15d",
-      "title": "",
-      "link": "https://developers.gmo.jp/technology/82567/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【前編】エージェンティックAIの「アウトプット品質安定化」を実現 GMOインターネットが実践する「ハーネスエンジニアリング」とは？ーEngineering Journey / 開発者向けブログ・イベント | GM...",
-      "published": "01 May 2026 06:55 +0000",
-      "fetched_at": "2026-05-01T09:27:11.161161+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c57378877d2bff83d7e781ac64cb20c2",
       "title": "How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
       "link": "https://read.thecoder.cafe/p/linux-broke-postgresql",
@@ -639,7 +619,87 @@
       "fetched_at": "2026-05-02T12:52:41.544810+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "8b4d792db10f0b1830a4044d2c490a88",
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "link": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "summary": "Article URL: https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/ Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Sat, 02 May 2026 09:30:49 +0000",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17b051d0760428dd23f5ae566e93585d",
+      "title": "A report on burnout in open source software communities (2025) [pdf]",
+      "link": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "summary": "Article URL: https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf Comments URL: https://news.ycombinator.com/item?id=47981669 Points: 112 ...",
+      "published": "Fri, 01 May 2026 23:24:10 +0000",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69efab77e815a7b6d86b4fc3afc0b93c",
+      "title": "MacBook NeoにCodexを導入したら、キュートなマスコットが常駐した。Codex Petsが楽しい（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/05/02/5040.html",
+      "summary": "ヴァイブコーディングで筆者がもっぱら使っているのはClaude Codeです。が、今日、ちょっとした異変が起きました。",
+      "published": "Sat, 02 May 2026 22:16:47 +0900",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcd072defd23b73f3e70f680174479b3",
+      "title": "AIは学習データを使い果たしつつある可能性、スタンフォード大学報告書が警告（Forbes JAPAN） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/6cbf71e48b722ead8fea6badfc92db843c730d33",
+      "summary": "AIにとって不可欠な燃料である「データ」が不足しつつある可能性がある。そう警告しているのはスタンフォード大学の新たな報告書だ。AIと大規模言語モデル（LLM）の導入は急速に広がっているが、AIモデルの訓練に使える実データは、今後6年以内に枯渇する可能性があるという。 これは、過去1年のAI分野の主な...",
+      "published": "2026-05-02T09:27:22Z",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "72ea82b9cf6b90b8ce7e179fc6e6fe15",
+      "title": "米アカデミー賞、AI俳優と脚本はオスカー受賞の資格なし",
+      "link": "https://www.afpbb.com/articles/-/3633832",
+      "summary": "カリフォルニア州ハリウッドのドルビーシアターで開催された第98回アカデミー賞授賞式で飾られたオスカー像（2026年3月14日撮影）。(c)ANGELA WEISS/AFP 【5月2日 AFP】アカデミー賞を主催する映画芸術科学アカデミーは1日、人工知能（AI）を使用して作られた俳優はオスカー受賞の対...",
+      "published": "2026-05-02T11:55:42Z",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "810fa1c4a1e58a76031212d3ef11e0d3",
+      "title": "本学への不正アクセスについてのご報告とお詫び",
+      "link": "https://www.tohoku.ac.jp/japanese/2026/05/news20260501-public.html",
+      "summary": "このたび、本学が管理するサーバーへの不正アクセスが4月16日に確認されました。現在、警察および外部専門機関と連携のうえ、原因および影響について調査を進めております。 また、この不正アクセスを受けて調査を実施したところ、東北大学病院で実施している治験業務に関する資料を保管していたNAS（ネットワークス...",
+      "published": "2026-05-01T07:44:44Z",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb6f3272afa92b0326b14ec98ac9ff5d",
+      "title": "何度でも書くがデータセンターはセキュリティ無罪を止めろ",
+      "link": "https://anond.hatelabo.jp/20260502101208",
+      "summary": "今日日デカい建物建てるのに、説明責任を果たさないで建てるとか無い。 商業施設でも、工場でも、マンションでも、必ずアセスメントの一環で周辺住民の理解を得るためのプロセスがある。 データセンターだけだよ説明しないの いや正確に書くとジョイントベンチャー方式のDCだけ 建物丸ごと一社で使うような場合はちゃ...",
+      "published": "2026-05-02T01:24:01Z",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a16f8b0667e86a09db947a02e7293a1",
+      "title": "",
+      "link": "https://github.com/ruvnet/ruflo",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 ruvnet / ruflo ⭐ 35,779 (+1,258) 🗒 TypeScript 🌊 The leading agent orchestration platform for Claude. Deploy intell...",
+      "published": "02 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-02T14:41:08.381015+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-02T12:52:41.544810+00:00"
+  "updated_at": "2026-05-02T14:41:08.381015+00:00"
 }

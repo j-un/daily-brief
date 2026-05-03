@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "bb07fc1219d59e3a285eec73b2301a95",
-      "title": "宣言的スキーマ管理ツール pistachio を作成しました",
-      "link": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
-      "summary": "PostgreSQL専用の宣言的スキーマ管理ツール。ほう",
-      "published": "02 May 2026 16:57 +0000",
-      "fetched_at": "2026-05-02T18:46:34.738969+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "936184d27d7e324dc8c7fad5ebba28a2",
-      "title": "",
-      "link": "https://gihyo.jp/article/2026/04/edit-2.0",
-      "summary": "winget install Microsoft.Editでインストール可能。どんどんリッチになりつつある。案外覇権とったりしてな。",
-      "published": "02 May 2026 16:53 +0000",
-      "fetched_at": "2026-05-02T18:46:34.738969+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1f33fa12dc19fae0bcec8193fb54313a",
-      "title": "第909回 Ubuntu 26.04 LTSの変更点 ［24.04→26.04 LTS編］ | gihyo.jp",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0909",
-      "summary": "いいまとめだ。わいわい",
-      "published": "02 May 2026 16:46 +0000",
-      "fetched_at": "2026-05-02T18:46:34.738969+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "867a722949516d7417b400de71bfa8a8",
       "title": "TSRX - AI時代のUIコンポーネント - プププなテクブ",
       "link": "https://blog.inorinrinrin.com/entry/2026/05/02/231104",
@@ -1059,7 +1029,37 @@
       "fetched_at": "2026-05-03T22:33:14.895525+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "51e36abcbe1c8e82a5429016db081fe1",
+      "title": "Security through obscurity is not bad",
+      "link": "https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/",
+      "summary": "Article URL: https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/ Comments URL: https://news.ycombinator.com/item?id=47997486 Poin...",
+      "published": "Sun, 03 May 2026 14:49:56 +0000",
+      "fetched_at": "2026-05-03T23:20:06.497280+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e848212b3673deaf210b5207ae66d58",
+      "title": "決済基盤の整合性設計を仕様から決める。バクラク請求書発行のカード決済における2つの判断 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/payment-consistency-decision",
+      "summary": "はじめに ケース1: 決済実行時の保存失敗 — 仕様は「ユーザー体験を壊さない」 課題と仕様 設計の考え方 ケース2: 送金結果不明 — 仕様は「統制・監査上の説明可能性」 課題と仕様 設計の考え方 おわりに はじめに こんにちは。LayerX でソフトウェアエンジニアをしている @ysakura_...",
+      "published": "2026-04-21T08:54:22Z",
+      "fetched_at": "2026-05-03T23:20:06.497280+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92240d8a268a4c0214c62cdc6b414ed5",
+      "title": "「好戦的だ」 陸自部隊のロゴに批判続出 隊員が生成AIで作成（毎日新聞） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/6dfa0a58fae1d60a584bc3be213fffaf722cfa51",
+      "summary": "陸上自衛隊の第1師団第1普通科連隊（東京都練馬区）が公式X（ツイッター）で部隊の新しいロゴマークを公開したところ、「好戦的」などとする批判がインターネット上で続出。連隊は公開から3日で使用を中止した。 【画像】酷似 象を使ったロゴマーク 陸自や関係者によると、部隊のロゴマークは隊員の団結心を高めるた...",
+      "published": "2026-05-03T11:40:50Z",
+      "fetched_at": "2026-05-03T23:20:06.497280+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-03T22:33:14.895525+00:00"
+  "updated_at": "2026-05-03T23:20:06.497280+00:00"
 }

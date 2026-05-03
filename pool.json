@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d5616c733a51606243f1d898a30c1c66",
-      "title": "Claude Codeのルーチン機能で定期的にパフォーマンスチューニングをさせている",
-      "link": "https://zenn.dev/yamadashy/articles/claude-code-routines-perf-tuning",
-      "summary": "わいわい。やってみるか",
-      "published": "02 May 2026 08:37 +0000",
-      "fetched_at": "2026-05-02T08:58:42.212631+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "df587d70555e116ca377215955131da2",
-      "title": "WAFは安心を買う装置ではない #Security - Qiita",
-      "link": "https://qiita.com/mochi_cron/items/9ce527df39e7dd6e75fe",
-      "summary": "うっ、せやな。",
-      "published": "02 May 2026 08:06 +0000",
-      "fetched_at": "2026-05-02T08:58:42.212631+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "bb07fc1219d59e3a285eec73b2301a95",
       "title": "宣言的スキーマ管理ツール pistachio を作成しました",
       "link": "https://zenn.dev/kanmu_dev/articles/16789ef1f4283a",
@@ -729,7 +709,77 @@
       "fetched_at": "2026-05-03T12:52:29.651845+00:00",
       "feed_name": "ICON",
       "category": "music"
+    },
+    {
+      "entry_id": "715c26cd76acf58ca37217f8aaec5dd3",
+      "title": "",
+      "link": "https://simdrive.xyz/",
+      "summary": "スマートフォンがコントローラーになるレーシングゲームだ。スマホの傾きによる操作がむずい。",
+      "published": "03 May 2026 14:38 +0000",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff9fefa90caff90569d9b04b2ba62dcd",
+      "title": "",
+      "link": "https://mathstick.github.io/",
+      "summary": "ブラウザで遊べるマッチ棒パズルだ。1本だけ動かせ。BONUSでは正解が2パターンあるぞ。全クリアした。",
+      "published": "03 May 2026 14:07 +0000",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea1b4d3eba4a7edc6f2ab0bae77349d4",
+      "title": "Playwright CLI で AI エージェントに視覚的なフィードバックを与える",
+      "link": "https://azukiazusa.dev/blog/playwright-cli-ai-agent-visual-feedback/",
+      "summary": "Playwright CLI v0.1.9 で追加されたアノテーション機能は AI エージェントに視覚的なフィードバックを与えるために便利な機能です。アノテーション機能を利用すると、ブラウザの要素を選択して、その要素に対するコメントを残すことができます。AI エージェントはこのアノテーションが残され...",
+      "published": "2026-05-03T09:11:02Z",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "914ff4c449eb1f47b6da19a3dceadf66",
+      "title": "[git] worktree をフル活用するために bare repository を使う",
+      "link": "https://zenn.dev/beef_and_rice/articles/0af75da6a464b6",
+      "summary": "なにげに便利な git worktree 最近、AIコーディングに便利だからという理由でgit worktreeが注目されている。git worktreeの詳細はこの記事では省略するが、要するに、ひとつのリポジトリに対して、作業ディレクトリを複数持たせられる機能のことだ。こちらの記事が分かりやすい。...",
+      "published": "2026-03-26T00:32:37Z",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e043c62925c2cb8a763304f95df60af",
+      "title": "エラー処理の温故知新 / history of error handling technic",
+      "link": "https://speakerdeck.com/ryotanakaya/history-of-error-handling-technic",
+      "summary": "セグメントとターゲットを意識するプロポーザルの書き方 〜採択の鍵は、誰に刺すかを見極めるマーケティング戦略にある〜",
+      "published": "2026-05-02T09:28:42Z",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8489cdb447ed082044ca45d8c5be9a1",
+      "title": "",
+      "link": "https://github.com/Hmbown/DeepSeek-TUI",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 Hmbown / DeepSeek-TUI ⭐ 1,808 (+564) 🗒 Rust Coding agent for DeepSeek models that runs in your terminal",
+      "published": "03 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95d326e3b53cb61c96b0ad5a6125e60f",
+      "title": "",
+      "link": "https://git.openwrt.org/openwrt/openwrt.git",
+      "summary": "📦 openwrt / openwrt ⭐ 26,502 (+14) 🗒 C This repository is a mirror of  It is for reference only and is not active for check-ins. We will continue to a...",
+      "published": "03 May 2026 13:17 +0000",
+      "fetched_at": "2026-05-03T14:42:08.987359+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-03T12:52:29.651845+00:00"
+  "updated_at": "2026-05-03T14:42:08.987359+00:00"
 }

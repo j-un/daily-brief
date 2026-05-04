@@ -9,7 +9,147 @@
       "fetched_at": "2026-05-03T23:20:06.497280+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "ead159f36346087c84bc7dd362a6c38b",
+      "title": "",
+      "link": "https://github.com/dotcl/dotcl",
+      "summary": ".NETで動作するCommon Lisp実装",
+      "published": "04 May 2026 00:14 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f19b44ec24eedae3080a5d32b7e495b",
+      "title": "",
+      "link": "https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Scaling Camera File Processing at Netflix",
+      "published": "04 May 2026 01:55 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6b0e874c75884ecf9b4534a1086992d",
+      "title": "",
+      "link": "https://martinfowler.com/fragments/2026-04-21.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Fragments: April 21",
+      "published": "03 May 2026 23:56 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfb0447ac46f9a692130eb41b1d983b7",
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "link": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "summary": "Article URL: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Sun, 03 May 2026 23:59:02 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fa39ace6415962d33e9b8d186c7bc01",
+      "title": "Let's Buy Spirit Air",
+      "link": "https://letsbuyspiritair.com/",
+      "summary": "Article URL: https://letsbuyspiritair.com/ Comments URL: https://news.ycombinator.com/item?id=48002777 Points: 111 # Comments: 74",
+      "published": "Sun, 03 May 2026 23:36:11 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2645f23ecf378f2380f3c7a1847ff42d",
+      "title": "Agentic Coding Is a Trap",
+      "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "summary": "Article URL: https://larsfaye.com/articles/agentic-coding-is-a-trap Comments URL: https://news.ycombinator.com/item?id=48002442 Points: 144 # Comments...",
+      "published": "Sun, 03 May 2026 22:52:07 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d17182547cc5eddea3ad6ec2f154a0b7",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "link": "https://github.com/aattaran/deepclaude",
+      "summary": "Article URL: https://github.com/aattaran/deepclaude Comments URL: https://news.ycombinator.com/item?id=48002136 Points: 162 # Comments: 72",
+      "published": "Sun, 03 May 2026 22:13:20 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0fc265d5665af1194d5261c8e7409ea",
+      "title": "Alert-driven monitoring",
+      "link": "https://simpleobservability.com/docs/alert-driven-monitoring",
+      "summary": "Article URL: https://simpleobservability.com/docs/alert-driven-monitoring Comments URL: https://news.ycombinator.com/item?id=47997056 Points: 107 # Co...",
+      "published": "Sun, 03 May 2026 14:02:23 +0000",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e01f65fa9b683afc7b3a6fd85c21522",
+      "title": "みんなこれでいいAI。Googleの最新ローカルLLM｢Gemma 4｣は日本語うますぎ、でも無料",
+      "link": "https://www.gizmodo.jp/2026/05/google_gemma_4_series.html",
+      "summary": "Gemma 4シリーズは動作デバイスと性能の観点から、2種に分類できます。 ・E2B・E4B：普通のノートPCで動かせる軽量モデル ・26B-A4B：ハイエンドマシンで動かす高性能モデル いずれも非常に実用性が高いモデルとなっており、とりあえず動かせるものを選べばOKです。 Apache 2.0ライ...",
+      "published": "2026-05-03T15:17:12Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "48dac0e73018316b33842e8d0da88542",
+      "title": "数学者が7年悩んだ難問、AIが「80分」で解く──取り組んできた本人が美しいと評価 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/96574",
+      "summary": "ジャレド・デューカー・リクトマンは、博士課程の4年間を費やし、数学で「原始集合（Primitive Set）」と呼ばれる集合について、素数がその種の集合の中で最も効率的（エルデシュ和を最大にする）、すなわち極大な原始集合であることを証明した。 リクトマンは指導教員らの助言に反してこの問題に取り組み、...",
+      "published": "2026-05-03T08:30:27Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b1e230764d6d91c98d71ebe0f95025c",
+      "title": "WSL2+Docker環境における、CVE-2026-31431 (Copy Fail) への対策メモ",
+      "link": "https://zenn.dev/user_thebigslee/articles/41b570658f911b",
+      "summary": "TL;DR 結論から言うと、「Dockerをv29.4.2以降へアップデート（恒久的）」と「.wslconfigによるalgif_aeadの無効化（暫定的）」の2段構えが現状の最適解です。 はじめに Linuxカーネルの権限昇格脆弱性「Copy Fail（CVE-2026-31431）」が、GW真っ...",
+      "published": "2026-05-03T05:09:38Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d20552b570d5ce03d66627464dcbb3b5",
+      "title": "AI駆動開発で、なぜミドルエンジニアは不安になるのか ── AIによる分業の終わりと始まり - arclamp",
+      "link": "https://arclamp.hatenablog.com/entry/2026/05/02/225148",
+      "summary": "AI駆動開発が「使える」となってきたことで、20代後半から30代中盤のミドルエンジニアが疲弊しているという話を聞きました。たしかに、エンジニアの中でも「AIは楽しい・これでもっと良くなる」という意見と「不安だ・これからどうなるのだろう」という意見に分かれているようです。 私の周りでは、特にベテランが...",
+      "published": "2026-05-02T15:43:46Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "778cdb7ef6ba804505b8004162f18454",
+      "title": "非エンジニアが数百万円級のツールを開発 画像＆動画生成AIツールがゼロから作れた話 (1/5)",
+      "link": "https://ascii.jp/elem/000/004/400/4400003/",
+      "summary": "今回は、筆者が個人的にAnthropicの「Claude Code」を使い、ビューアーと画像・動画AIの統合環境「百夜スタジオ」を開発している話です。筆者はプログラミングはほぼ初心者で、本格的な開発経験はありません。にもかかわらず、AIツール環境「ComfyUI」やLLM環境「LM Studio」と...",
+      "published": "2026-05-03T23:35:07Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40d8e00627abe5b312ce3d9341bb5f52",
+      "title": "App Server – Codex | OpenAI Developers",
+      "link": "https://developers.openai.com/codex/app-server",
+      "summary": "Protocol Like MCP, codex app-server supports bidirectional communication using JSON-RPC 2.0 messages (with the \"jsonrpc\":\"2.0\" header omitted on the w...",
+      "published": "2026-04-06T08:49:36Z",
+      "fetched_at": "2026-05-04T02:06:49.517501+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-03T23:20:06.497280+00:00"
+  "updated_at": "2026-05-04T02:06:49.517501+00:00"
 }

@@ -639,7 +639,417 @@
       "fetched_at": "2026-05-04T13:26:19.421031+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "ed9192b8d313bccd7952ec7a2096fdb5",
+      "title": "",
+      "link": "https://github.com/nexu-io/open-design",
+      "summary": "Claude Designのオープンソース代替らしい",
+      "published": "04 May 2026 15:55 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d2ff8656ebb6f46ca1d311550136b72",
+      "title": "",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2103166.html",
+      "summary": "歴史改変がシンプルに実現できるらしいgit history、ちょっと試してみるか",
+      "published": "04 May 2026 15:54 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c422805483ccb1250b2498914452df2",
+      "title": "",
+      "link": "https://qiita.com/ma2shita/items/f26c9d7cd7410547c415",
+      "summary": "socat と npiperelay を使って連携可能。わいわい",
+      "published": "04 May 2026 15:52 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef583d7ee288a104875d481f2bea185d",
+      "title": "",
+      "link": "https://github.com/Matheus-git/systemd-manager-tui",
+      "summary": "systemdにおける各種サービスの起動設定などを管理できるTUIツール。Rust実装",
+      "published": "04 May 2026 15:48 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e2fb6a87ea6e7467113bae19b40152c",
+      "title": "",
+      "link": "https://github.com/microsoft/vscode/pull/310226",
+      "summary": "vscodeでGitHub Copilotを使うとコミットメッセージに Co-authored-by: Copilot が追加されるようになる模様。",
+      "published": "04 May 2026 15:45 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a21f7307c5436cb0ac78130fbbf9ccd1",
+      "title": "",
+      "link": "https://donottrack.sh/",
+      "summary": "環境変数 DO_NOT_TRACK で一括Opt-Outできるようにしようぜ提案。GitHub CLIが DO_NOT_TRACK に対応してたが他も追従してくれるだろうか。",
+      "published": "04 May 2026 15:42 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a61af6a1a79808e3ff5a36079d855e8a",
+      "title": "",
+      "link": "https://github.com/bruin-data/dac",
+      "summary": "YAMLとJSXでDashboard-as-Code。ほう",
+      "published": "04 May 2026 15:33 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3174dd4ad80d9444b68b38301e27133",
+      "title": "",
+      "link": "https://github.com/rancher/k3k",
+      "summary": "ほう",
+      "published": "04 May 2026 15:32 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9637e25de8b95db2ba2e9a86af585911",
+      "title": "",
+      "link": "https://sitemogging.com/",
+      "summary": "2つのWebサイトを比較して、どちらがイケてるサイトかを判定するサービスかな。判定にはGemma4を使用してる模様。",
+      "published": "04 May 2026 15:20 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d72172c13c7c24fa50c1ec96595cb8f",
+      "title": "",
+      "link": "https://github.com/darrylmorley/whatcable",
+      "summary": "macOSでUSBポートに接続されているケーブル仕様などを説明してくれるアプリ。電源供給であれば電力量なども表示してくれる模様。",
+      "published": "04 May 2026 15:13 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f71d692c0ea696b58acf2352504dbeb",
+      "title": "",
+      "link": "https://github.com/russellromney/honker",
+      "summary": "PostgreSQLのNOTIFY/LISTENと同じ仕組みをSQLiteに導入する拡張。各プログラミング言語用のライブラリも用意されてる。",
+      "published": "04 May 2026 15:06 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f0306646f802f65b0424ed7b5a1bd40",
+      "title": "",
+      "link": "https://datacenter.fm/",
+      "summary": "データセンターの環境音を再現できるサイト。サーバ台数や負荷状況、人員",
+      "published": "04 May 2026 15:02 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4653904e586cf9abf8e2f9f84fa03d4",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/aws-waf-scrapling-bot-detection/",
+      "summary": "アンチボット回避機能を備えたPythonスクレイピングライブラリScrapling。そんなのあったのね。でもAWS WAFで検知できますと。",
+      "published": "04 May 2026 14:56 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17339acca113a7929b33cf911e153bb2",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/google-cloud-session/",
+      "summary": "\"2026/6/8 から、ユーザー認証で取得した Google Cloud 向けセッションの有効期限のデフォルト値が「無期限」から「16 時間」に変更される\" 1~24時間の範囲で任意の値に変更することも可能。",
+      "published": "04 May 2026 14:52 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fac83904a4cf107caa71c27153184694",
+      "title": "",
+      "link": "https://github.com/microsoft/ghqr",
+      "summary": "これか。GitHubのOrganizationsやRepositoriesがベストプラクティスに沿っているかチェックするためのCLIツール。Microsoft製でGo実装。",
+      "published": "04 May 2026 14:49 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "081a108c9ab6e01a7be0bf4dd1aef480",
+      "title": "マイクロソフト公式OSS「ghqr」でGitHub設定をベストプラクティス診断してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/ghqr-github-best-practices-audit/",
+      "summary": "ほう。組織全体のスキャンも可能。",
+      "published": "04 May 2026 14:47 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f43ac364c28131c7e1116143642155e",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-cache-tag-invalidation/",
+      "summary": "わいわい。Invalidationは（無料枠はあるものの）お金がかかるのでガシガシ使ってると思わぬ課金発生になりかねないので注意。",
+      "published": "04 May 2026 14:44 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7550dc3b0e370f34f912941974ce8c7",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/github-cli-telemetry-opt-out/",
+      "summary": "gh config get telemetryで確認可能。GitHub CLIをご利用の皆様。",
+      "published": "04 May 2026 14:41 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05a1777bc6d388fff444e34c6c5f627d",
+      "title": "",
+      "link": "https://www.screenkite.com/",
+      "summary": "画面操作の動画を作成するためのmacOS用アプリ。カーソル位置への自動ズームやカメラ映像の追加、文字起こしも可能と。",
+      "published": "04 May 2026 14:37 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ac7e10d50496a97bfba7a997addcb6f",
+      "title": "",
+      "link": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
+      "summary": "検証ありがたい。いやぁやはり難しいですわなぁ。あとから不整合が発覚して辛い状況になる未来が見える。",
+      "published": "04 May 2026 14:24 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "00af4748d51c9fb8d7fb09aede026875",
+      "title": "",
+      "link": "https://qiita.com/sh_fukatsu/items/104c8078532c272fb1f5",
+      "summary": "やってみた、ありがたい。ただ記事にも記載があるとおりコストがネックになりそう。",
+      "published": "04 May 2026 14:12 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "53e9dedd20e3a9eece59c3a5f2faac3c",
+      "title": "Amazon Q Developer のサポート終了に関するお知らせ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-q-developer-end-of-support-announcement/",
+      "summary": "展開が早い。Kiroに移行しましょう、と。",
+      "published": "04 May 2026 14:10 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65794655cd2e5106583d2464ed24bb31",
+      "title": "Cloudflare Workers 実践ガイド | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15678-7",
+      "summary": "2026年5月26日発売",
+      "published": "04 May 2026 14:09 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d293819fcb3596e5307c3b9f539022b6",
+      "title": "",
+      "link": "https://www.oreilly.co.jp/blog/2026/05/ann-superstream-ai-strategy.html",
+      "summary": "オライリー学習プラットフォーム上で開催だが、未登録者も参加可能。",
+      "published": "04 May 2026 14:08 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ff77c1d4840451121a446d90aa91d86",
+      "title": "生成AIデザインパターン - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401635/",
+      "summary": "2026年5月27日 発売予定",
+      "published": "04 May 2026 14:06 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b0538230b08e5a9f87ff6bc00604751",
+      "title": "CUTT System: 中高生からの PythonとラズパイPicoではじめる電子工作",
+      "link": "https://www.cutt.co.jp/book/978-4-87783-567-5.html",
+      "summary": "2026年4月10日発売",
+      "published": "04 May 2026 14:00 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1632d034ea9addbd9abe24777f556da",
+      "title": "大規模オートスケーリング環境でAWS Configのコストを抑えてセキュリティチェックを実現する - Adwaysエンジニアブログ",
+      "link": "https://blog.engineer.adways.net/entry/2026/04/30/120000",
+      "summary": "逐次と日次のチェックを使い分けるなど。なるほど",
+      "published": "04 May 2026 13:59 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f9c8a732dcad75fceca363cbaec5b5e",
+      "title": "GitHub Copilot Meetup Tokyo #2 - connpass",
+      "link": "https://aiau.connpass.com/event/392336/",
+      "summary": "現地/オンライン",
+      "published": "04 May 2026 13:50 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69a92c90a1ac03b5e4b78233cc994937",
+      "title": "",
+      "link": "https://www.systalyze.com/utilyze",
+      "summary": "GPUのダッシュボード実装(nvidia-smi, nvtop, rocm-smiなど)は正しく負荷状況を表示しておらず、GPUを有効活用できていないとか。正しく負荷を把握するためのツールUtilyzeのススメ。",
+      "published": "04 May 2026 13:44 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6a5850baefa7b80a6d4721fa741ad6d",
+      "title": "PyInfra 3.8.0 Is Out",
+      "link": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "summary": "Article URL: https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0 Comments URL: https://news.ycombinator.com/item?id=48008083 Points: 121 # Comm...",
+      "published": "Mon, 04 May 2026 12:53:46 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e723fb2a68301172bfff32f9eaf2d6c6",
+      "title": "Show HN: Ableton Live MCP",
+      "link": "https://github.com/bschoepke/ableton-live-mcp",
+      "summary": "Ever wanted to control Ableton with just your voice? Me too! I made this MCP server so I could just ask Codex to do anything in Ableton Live for me, w...",
+      "published": "Sun, 03 May 2026 18:05:28 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a86e8c1d32286568ab1e9abdb535f546",
+      "title": "Claude Codeを作った男は、日本の農村で味噌を仕込んでいた｜Zun-Beho",
+      "link": "https://note.com/akikito/n/n95aa7df83cbc",
+      "summary": "世界のコードを変えた男の、意外な履歴書にはこう書いてある。「味噌職人、奈良」。Claude Codeの産みの親Boris Chernyは、Anthropic入社前に日本の農村で味噌を仕込んでいた。その経験がClaude Code開発に生きているかもしれない、とHead of Claude Code:...",
+      "published": "2026-05-04T04:49:08Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "482b39f2892ca596a1681ac9f33f09fd",
+      "title": "機能追加と機能削除の非対称性",
+      "link": "https://www.ryuzee.com/contents/blog/14616",
+      "summary": "みなさんこんにちは。@ryuzeeです。 2026年3月4日に新刊の訳書『Aligned ―プロダクト開発におけるステークホルダーとの関係性の築き方』がオライリー・ジャパンから発売になりましたのでよろしくお願いします。 本記事は、先日Xに書いた記事の転載です。 プロダクトの開発に生成AIを使うように...",
+      "published": "2026-05-04T04:21:04Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1feff8fa4556f6395531b7e88e21d83b",
+      "title": "ghq handbook",
+      "link": "https://zenn.dev/songmu/books/ghq-handbook",
+      "summary": "ソースコードリポジトリの取得・管理を便利にするコマンドラインツール、ghqの使い方を説明します",
+      "published": "2026-05-04T07:09:57Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89b77d02fecdd21fbdeaaf8c5c6f6bf7",
+      "title": "火星の石からボールペンのインク成分が見つかる",
+      "link": "https://www.gizmodo.jp/2026/05/scientists-found-literal-ink-from-ballpoint-pens-in-martian-meteorites.html",
+      "summary": "火星の石からボールペンのインク成分が見つかる2026.05.03 18:0047,319 Gayoung Lee - GIZMODO US ［原文］ （ 中川真知子 ） 火星の石から、ボールペンのインクの成分が見つかりました。 え？となりますよね。｢もしかして、火星に地球のような文明があった証拠なの...",
+      "published": "2026-05-03T10:01:15Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a11d61b2b893215c257b0a8cc5e77046",
+      "title": "aruzi0306のブックマーク - はてなブックマーク",
+      "link": "https://b.hatena.ne.jp/aruzi0306/",
+      "summary": "2025年08月16日23:00 【永久保存版】おんJ民が厳選した有能サイト大全 Tweet 1: 名無しさん＠おーぷん 25/08/16(土) 14:36:53 ID:Ey0G ノイズレスサーチ 邪魔なサイトを除外してGoogle検索できる検索エンジン http://pasokatu.com/ns...",
+      "published": "2023-10-16T13:36:13Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d2f607f4524f72a16081100bc93c6c7",
+      "title": "プロダクトの機能や開発順序を合議制で決めてはいけない",
+      "link": "https://www.ryuzee.com/contents/blog/14614",
+      "summary": "ブログryuzeeによるブログ記事。不定期更新Homeブログプロダクトの機能や開発順序を合議制で決めてはいけない みなさんこんにちは。@ryuzeeです。 2026年3月4日に新刊の訳書『Aligned ―プロダクト開発におけるステークホルダーとの関係性の築き方』がオライリー・ジャパンから発売になり...",
+      "published": "2026-04-24T10:11:01Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67aeb5a7b7d9575c4d5e5d86039b0cc7",
+      "title": "The Code affirms an obligation of computing professionals to use their skills for the benefit of society.",
+      "link": "https://www.acm.org/code-of-ethics",
+      "summary": "Preamble Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently...",
+      "published": "2014-06-24T12:43:13Z",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83c3c10ae1ad36868343ac1652e9d466",
+      "title": "",
+      "link": "https://github.com/qbittorrent/qBittorrent",
+      "summary": "📦 qbittorrent / qBittorrent ⭐ 36,906 (+68) 🗒 C++ qBittorrent BitTorrent client",
+      "published": "04 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "abe578ec23c077a3dd852f7b2ed6ba0c",
+      "title": "Judas Priest’s “Sad Wings of Destiny” Turns 50",
+      "link": "https://daily.bandcamp.com/features/judas-priest-sad-wings-of-destiny-feature",
+      "summary": "Metal's history can be divided into two eras—before the Brits' 1976 opus, and after. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 04 May 2026 13:42:25 -0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "b9e30d54cc691f8223041d64fe50bc9f",
+      "title": "Kneecap, “FENIAN”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/kneecap-fenian-review",
+      "summary": "The Irish rap trio level up lyrically, sonically, and emotionally on their defiant sophomore album. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 04 May 2026 13:42:15 -0000",
+      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-04T13:26:19.421031+00:00"
+  "updated_at": "2026-05-04T15:55:31.514517+00:00"
 }

@@ -59,7 +59,47 @@
       "fetched_at": "2026-05-04T15:55:31.514517+00:00",
       "feed_name": "@matsuu (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "eb019f8e647499d9730e71a8fb350b4f",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "summary": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730 Comments URL: https://news.ycombinator.com/item?id=48012735 Points: 319 # ...",
+      "published": "Mon, 04 May 2026 18:22:42 +0000",
+      "fetched_at": "2026-05-04T22:50:09.681660+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8142899d7e5e02c611210aa669f413ef",
+      "title": "あなたのClaude CodeのWebFetch、実はWebをちゃんと読んでいない",
+      "link": "https://zenn.dev/zhizhiarv/articles/claude-code-webfetch-haiku-summary",
+      "summary": "これで200Kの記事をClaudeが読んでくれたと思うでしょう。実は違います。 VerboseモードをONにしたら、実はWebFetchしているだけではなく、LLM用要約が含まれることがわかります。WebFetchツールにはurlのパラメータと、promptのパラメータがあります。どちらも省略するこ...",
+      "published": "2026-05-04T12:31:27Z",
+      "fetched_at": "2026-05-04T22:50:09.681660+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "748105f061fbde4e6b43843eb585fa03",
+      "title": "【論文瞬読】GPT-5.5 は実質 9.7T パラメータ？──知識の「圧縮できなさ」から黒箱 LLM の規模を逆算する｜AI Nest",
+      "link": "https://note.com/ainest/n/n7405de637d0b",
+      "summary": "【論文瞬読】GPT-5.5 は実質 9.7T パラメータ？──知識の「圧縮できなさ」から黒箱 LLM の規模を逆算する はじめにこんにちは！株式会社AI Nestです。 「で、GPT-5.5 って結局何パラメータなの？」「Claude Opus 4.6 は Sonnet と比べてどれくらい大きいの？...",
+      "published": "2026-05-04T12:16:09Z",
+      "fetched_at": "2026-05-04T22:50:09.681660+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3d69b8dedab6803312c8fd7c7481087",
+      "title": "AutoPlay 2048 — Watch an AI climb to 32,768",
+      "link": "https://autoplay2048.ponyo877.com/",
+      "summary": "An expectimax + N-Tuple Network AI plays 2048 live in your browser. A WebAssembly solver built on the official TDL2048+ 4x6patt weights — reaches 16,3...",
+      "published": "2026-05-04T06:35:30Z",
+      "fetched_at": "2026-05-04T22:50:09.681660+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-04T21:56:00.349498+00:00"
+  "updated_at": "2026-05-04T22:50:09.681660+00:00"
 }

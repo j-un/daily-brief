@@ -419,7 +419,227 @@
       "fetched_at": "2026-05-04T10:07:05.319779+00:00",
       "feed_name": "iwashi.co",
       "category": "blog"
+    },
+    {
+      "entry_id": "be770101da427931b66658f3da7e438b",
+      "title": "セキュリティLT会～全エンジニアが知っておきたいセキュリティの話～ - connpass",
+      "link": "https://supporterz-seminar.connpass.com/event/391338/",
+      "summary": "オンライン開催",
+      "published": "04 May 2026 13:11 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3bdda44e7f3580318a22374e3340598",
+      "title": "",
+      "link": "https://github.com/garritfra/cell",
+      "summary": "Vim風操作のTUIなスプレッドシート。実装言語はRust",
+      "published": "04 May 2026 13:10 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b89403f17177ef0eeedb0d3aaba29268",
+      "title": "",
+      "link": "https://zenn.dev/fujiwara/scraps/c66cb14f29ae1a",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 1Passwordで管理しているGitHub tokenとssh keyをCLIで使う",
+      "published": "04 May 2026 10:56 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "012ea8e993c2c888d560afa6b5a9abf5",
+      "title": "Talking to 35 Strangers at the Gym",
+      "link": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "summary": "Article URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/ Comments URL: https://news.ycombinator.com/item?id=48007438 Points: 133 # Com...",
+      "published": "Mon, 04 May 2026 11:41:02 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dcab41eb99dc2bd4bfedb580b6cc4c1",
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "link": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "summary": "Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/ Comments URL: https://news.ycombinator.com/item?id=48006445 Points: 304 # ...",
+      "published": "Mon, 04 May 2026 09:40:06 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8505c72213b8c12e85c43aafd136487",
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do Comments URL: https://news.ycombinator.com/item?id=48006402 Points: 275 # Comments: 220",
+      "published": "Mon, 04 May 2026 09:31:12 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6786259c49398eacb2922845063178d",
+      "title": "Introduction to Atom",
+      "link": "https://validator.w3.org/feed/docs/atom.html",
+      "summary": "Article URL: https://validator.w3.org/feed/docs/atom.html Comments URL: https://news.ycombinator.com/item?id=48002089 Points: 111 # Comments: 47",
+      "published": "Sun, 03 May 2026 22:08:47 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f659966e8d61a14054566fcd564d54b8",
+      "title": "Make your own microforest (2025)",
+      "link": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
+      "summary": "Article URL: https://ambrook.com/offrange/environment/a-forest-in-your-pocket Comments URL: https://news.ycombinator.com/item?id=48000507 Points: 101 ...",
+      "published": "Sun, 03 May 2026 19:31:35 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22fb36c316cc94a5accaaeffe027b0f9",
+      "title": "GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方",
+      "link": "https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense",
+      "summary": "はじめに GitHubに機密情報が混入してしまったとき、最初に取るべき行動は履歴削除ではありません。漏れたものが何なのかで対応の順序が大きく変わります。本記事では、GitHub Enterprise CloudやGitHub Enterprise Serverを前提に、機密情報の混入を止める仕組みと...",
+      "published": "2026-05-04T06:51:30Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a565a140fd4dbb41d2d67b256d69f37",
+      "title": "役割と責任の区別をつける",
+      "link": "https://www.ryuzee.com/contents/blog/14615",
+      "summary": "みなさんこんにちは。@ryuzeeです。 2026年3月4日に新刊の訳書『Aligned ―プロダクト開発におけるステークホルダーとの関係性の築き方』がオライリー・ジャパンから発売になりましたのでよろしくお願いします。 本記事は、先日Xに書いた記事の転載です。 先日Xで「スクラムマスターが何もしない...",
+      "published": "2026-05-04T08:00:28Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e80c801ef7eba5cbd2e049ccd81db044",
+      "title": "世界最大55万台のGPUを持つxAI、実は6万台分しか使えていないことが判明 | XenoSpectrum",
+      "link": "https://xenospectrum.com/xai-colossus-gpu-mfu-11-percent/",
+      "summary": "TL;DR xAIのAIクラスターは計算能力の11%しか使えていない。55万台のGPUを保有するが、実質6万台分しか機能していない。新社長は2ヶ月以内にMFU50%への改善を宣言した。 世界最大規模のAIクラスターを手にしながら、その計算能力の11%しか使えていない——このパラドックスがxAIの「C...",
+      "published": "2026-05-04T08:56:10Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "47f8b71752aea68f15ff90154a18da63",
+      "title": "たった一人で 90 億ドルのランサムウェア被害を防いでいた CISA のセキュリティ専門家が職場を追われる | ScanNetSecurity",
+      "link": "https://scan.netsecurity.ne.jp/article/2026/04/30/55178.html",
+      "summary": "CISA は今年、数百万ドルの資金と職員の約 3 分の 1（ 1,000 人近く）を失った。その中には、ランサムウェア攻撃を事前に警告するプログラムを 1 人で運営していたデイビッド・スターン氏も含まれる。同氏は 2022 年後半から 2025 年後半までの間に 4,300 以上の組織に事前警告を送...",
+      "published": "2026-04-29T23:40:31Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bafa4946934f3540c667c8b8187ceb8e",
+      "title": "Antinote: Beautiful Temporary Notes and Calculations",
+      "link": "https://antinote.io/",
+      "summary": "iOS Beta Coming Soon Be the first to know when Antinote launches on iPhone and iPad.",
+      "published": "2026-05-04T07:05:13Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb28157b2ac6ee059f32f7dce4d7b35c",
+      "title": "アンソロピックのＡI｢Mythos｣登場、米がソフト欠陥の全件分析を断念 検知が急増 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC174GL0X10C26A4000000/",
+      "summary": "米政府機関が世界の主要ソフトウエアに関する脆弱性をすべて分析し、評価するのを取りやめた。米新興アンソロピックの「Mythos（ミュトス）」といった高度な人工知能（AI）の登場で、急増する脆弱性の検知に分析が追いつかない実態を反映した。脆弱性の分析や評価を手掛ける米国国立標準技術研究所（NIST）が、...",
+      "published": "2026-05-04T09:20:38Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "66c2ae3d5ac3b0ac0049841729bcf99a",
+      "title": "GitHub - xykong/flux-markdown: Markdown Preview Enhanced for macOS QuickLook",
+      "link": "https://github.com/xykong/flux-markdown",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-05-04T07:05:52Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "642dee8fbc597fc3a79b338343a90ab8",
+      "title": "【特集】 ドコモのホームルーター vs 固定回線。速度・料金・手軽さで比べた結果……",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2106424.html",
+      "summary": "",
+      "published": "2026-05-04T00:14:51Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71103c9d6fa808eaeef2888f453e668e",
+      "title": "GitHub - withastro/flue: The sandbox agent framework.",
+      "link": "https://github.com/withastro/flue",
+      "summary": "Flue is The Agent Harness Framework. If you know how to use Claude Code (or Codex, OpenCode, Pi, etc)... then you already know the basics of how to bu...",
+      "published": "2026-05-02T20:56:44Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45f899df7756e0d6934df0ebc669fe9d",
+      "title": "残業時間が4割減 特注設備メーカーがTeamsに独自AI、指示や理解を正確に",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11569/",
+      "summary": "「AI（人工知能）を使って意思決定の質を高めたい」――。こう語るのは、特注設備の設計・製造を行う広島（名古屋市）の國枝洋尚社長だ。同社は、自社の暗黙知を学習させたAIを米Microsoft（マイクロソフト）の「Microsoft Teams」と組み合わせ、プロジェクトメンバーの業務を支援する「WAI...",
+      "published": "2026-03-12T08:11:06Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "118db65b8a42a61a2642f0cd2314cf05",
+      "title": "「Linux」以外で素晴らしいオープンソースOSのベスト5",
+      "link": "https://japan.zdnet.com/article/35247002/",
+      "summary": "オープンソースのOSと聞いて、多くの人が真っ先に思い浮かべるのは「Linux」だろう。Linuxは世界で最も普及しているオープンソースOSであり、非オープンソースOSのシェアにも迫りつつある現状を考えれば、それは当然の反応といえる。 しかし、LinuxだけがオープンソースOSの選択肢というわけではな...",
+      "published": "2026-05-04T06:09:46Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af29815fd414fbd9ee0d115c3cbba36c",
+      "title": "“今のアップルを作った”ティム・クック氏の功績 量産・半導体戦略が築いた競争力【西田宗千佳のイマトミライ】",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2106429.html",
+      "summary": "",
+      "published": "2026-05-04T00:11:43Z",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59e9f1b93ba7d02c95cbdb01f7ba2f31",
+      "title": "",
+      "link": "https://github.com/jellyfin/jellyfin",
+      "summary": "📦 jellyfin / jellyfin ⭐ 51,001 (+35) 🗒 C# The Free Software Media System - Server Backend & API",
+      "published": "04 May 2026 12:16 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16319dc61d74f5014a6652a5080de925",
+      "title": "Play together with Ableton Live: how Circle of Live sets up for improvisation",
+      "link": "https://cdm.link/play-together-with-ableton-live-circle-of-live/",
+      "summary": "\"It's okay to not have a plan -- it's okay to just jump and see what happens\": Circle of Live is an event that brings together artists for spontaneous...",
+      "published": "Mon, 04 May 2026 09:52:54 +0000",
+      "fetched_at": "2026-05-04T13:26:19.421031+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-04T10:07:05.319779+00:00"
+  "updated_at": "2026-05-04T13:26:19.421031+00:00"
 }

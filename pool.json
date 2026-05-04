@@ -1429,7 +1429,87 @@
       "fetched_at": "2026-05-04T21:00:36.730460+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "fb4593bfa3f19c9d7792cd068a2cbee7",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/ Comments URL: https://news.ycombinator.com/item?id=48013919 Points: 11...",
+      "published": "Mon, 04 May 2026 19:42:47 +0000",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dd1412c5cbd35f5ceea16621ee9417b",
+      "title": "“Kitten Space Agency”, a Spiritual Successor to “Kerbal Space Program” (2025)",
+      "link": "https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-ex-spacex-engineer-on-the-team-interview",
+      "summary": "Article URL: https://www.space.com/entertainment/space-games/kitten-space-agency-is-the-spiritual-successor-to-kerbal-space-program-and-they-have-an-e...",
+      "published": "Mon, 04 May 2026 17:33:48 +0000",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c52fdf166d8da7ba872436ae417d80f",
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "link": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "summary": "https://archive.ph/gLnMk Comments URL: https://news.ycombinator.com/item?id=48010774 Points: 102 # Comments: 93",
+      "published": "Mon, 04 May 2026 16:21:38 +0000",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "481ad077819a60eee5901e1a4c7f09bf",
+      "title": "Alberta voter list leak is a potential public safety disaster",
+      "link": "https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/",
+      "summary": "Article URL: https://globalnews.ca/news/11828244/alberta-voter-list-leak-public-safety-disaster/ Comments URL: https://news.ycombinator.com/item?id=48...",
+      "published": "Mon, 04 May 2026 15:47:27 +0000",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4da58b08c5f70ad299654f5b779bb597",
+      "title": "Amazon Aurora DSQL now supports the JSON data type with compression",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/",
+      "summary": "Amazon Aurora DSQL introduces support for the PostgreSQL JSON data type with optional compression. With JSON data type support, you can now use code a...",
+      "published": "Mon, 04 May 2026 17:00:00 GMT",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1a81076793c06a6646554a404eb8a17",
+      "title": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail/",
+      "summary": "Today, Amazon EventBridge announces support for logging data plane APIs using AWS CloudTrail, enabling customers to have greater visibility into event...",
+      "published": "Mon, 04 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fd343bd793bc0a5185b3e1e96b339c0",
+      "title": "LINEスタンプの作成〜申請まで10分！Claude Codeで画像分割と透過ツールをつくってみた｜Makari｜AIイラストと副業",
+      "link": "https://note.com/makari_5108010/n/n152045bbead8",
+      "summary": "こんにちは、Makariです。 小4の娘がLINEスタンプを自分で作りたいというので、一緒に作っていたのですが… 画像の分割や透過作業が地味に面倒…😑 ということで、 Claude Codeを使って、一覧画像の切り抜き＆透過まで一気に自動化してみました💡 スタンプの画像生成〜LINEスタンプの登録ま...",
+      "published": "2026-05-04T04:01:37Z",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf3c77733b1c00910fcd008daf01bddb",
+      "title": "x86アーキテクチャに64ビット以来の革命、IntelとAMDが新拡張命令セット「APX」で放つ一手 | XenoSpectrum",
+      "link": "https://xenospectrum.com/intel-amd-x86-apx-evolution/",
+      "summary": "TL;DR IntelとAMDが「x86 Ecosystem Advisory Group (EAG)」を通じて、64ビット拡張以来となる最大規模の命令セット刷新「APX」を推進。汎用レジスタ（GPR）を16個から32個へ倍増させ、ロード命令を10%、ストア命令を20%削減することで、シリコン面積や...",
+      "published": "2026-05-02T13:59:20Z",
+      "fetched_at": "2026-05-04T21:56:00.349498+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-04T21:00:36.730460+00:00"
+  "updated_at": "2026-05-04T21:56:00.349498+00:00"
 }

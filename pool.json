@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ed9192b8d313bccd7952ec7a2096fdb5",
-      "title": "",
-      "link": "https://github.com/nexu-io/open-design",
-      "summary": "Claude Designのオープンソース代替らしい",
-      "published": "04 May 2026 15:55 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1e2fb6a87ea6e7467113bae19b40152c",
-      "title": "",
-      "link": "https://github.com/microsoft/vscode/pull/310226",
-      "summary": "vscodeでGitHub Copilotを使うとコミットメッセージに Co-authored-by: Copilot が追加されるようになる模様。",
-      "published": "04 May 2026 15:45 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "081a108c9ab6e01a7be0bf4dd1aef480",
-      "title": "マイクロソフト公式OSS「ghqr」でGitHub設定をベストプラクティス診断してみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/ghqr-github-best-practices-audit/",
-      "summary": "ほう。組織全体のスキャンも可能。",
-      "published": "04 May 2026 14:47 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9ac7e10d50496a97bfba7a997addcb6f",
-      "title": "",
-      "link": "https://zenn.dev/edash_tech_blog/articles/4ece2a554ecb27",
-      "summary": "検証ありがたい。いやぁやはり難しいですわなぁ。あとから不整合が発覚して辛い状況になる未来が見える。",
-      "published": "04 May 2026 14:24 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "00af4748d51c9fb8d7fb09aede026875",
-      "title": "",
-      "link": "https://qiita.com/sh_fukatsu/items/104c8078532c272fb1f5",
-      "summary": "やってみた、ありがたい。ただ記事にも記載があるとおりコストがネックになりそう。",
-      "published": "04 May 2026 14:12 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "53e9dedd20e3a9eece59c3a5f2faac3c",
-      "title": "Amazon Q Developer のサポート終了に関するお知らせ | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/amazon-q-developer-end-of-support-announcement/",
-      "summary": "展開が早い。Kiroに移行しましょう、と。",
-      "published": "04 May 2026 14:10 +0000",
-      "fetched_at": "2026-05-04T15:55:31.514517+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "eb019f8e647499d9730e71a8fb350b4f",
       "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
       "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
@@ -1159,7 +1099,107 @@
       "fetched_at": "2026-05-05T19:08:19.201664+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "e308e3304976cffb81c4e5d91dcefc39",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "link": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Tue, 05 May 2026 18:13:47 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d7173ebdd7bcc638099b176336f9c47",
+      "title": "Clarification on the Notepad++ Trademark Issue",
+      "link": "https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/",
+      "summary": "Article URL: https://notepad-plus-plus.org/news/clarify-npp-trademark-infringement/ Comments URL: https://news.ycombinator.com/item?id=48026206 Points...",
+      "published": "Tue, 05 May 2026 18:04:20 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69becd8d6ba7a92777e990e43dd02e7e",
+      "title": "I'm scared about biological computing",
+      "link": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
+      "summary": "Article URL: https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing Comments URL: https://news.ycombinator.com/item?id=48024358...",
+      "published": "Tue, 05 May 2026 16:03:06 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "649cf82cebd11cee4514559fbf50432a",
+      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
+      "link": "https://twitter.com/brian_armstrong/status/2051616759145185723",
+      "summary": "Article URL: https://twitter.com/brian_armstrong/status/2051616759145185723 Comments URL: https://news.ycombinator.com/item?id=48021368 Points: 131 # ...",
+      "published": "Tue, 05 May 2026 12:10:24 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f82bda31be8975e09844ba15d11e1d7",
+      "title": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/",
+      "summary": "AWS Serverless Application Model Command Line Interface (SAM CLI) now supports BuildKit for building container images from Dockerfiles, enabling faste...",
+      "published": "Tue, 05 May 2026 18:50:00 GMT",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d314f43809ab8417a6a79ea6a0c5ed5c",
+      "title": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/",
+      "summary": "AWS Serverless Application Model (AWS SAM) now supports WebSocket APIs for Amazon API Gateway, enabling you to define complete WebSocket APIs with min...",
+      "published": "Tue, 05 May 2026 18:31:00 GMT",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c56aa29af49eba2982744037b7d70a6",
+      "title": "AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/",
+      "summary": "AWS IoT Core for Device Location now supports two enhancements that give developers greater control over location resolution and richer metadata for r...",
+      "published": "Tue, 05 May 2026 16:59:00 GMT",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb6d4f0c08c3aa7ee535d0720ebc9ae5",
+      "title": "EC2 Instance Store CSI driver now generally available in EKS add-ons",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks/",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports using the Amazon EKS console, and AWS Command Line Interface (CLI) to install and manage t...",
+      "published": "Tue, 05 May 2026 16:22:00 GMT",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "43f9ed7cbd9e6d64b81df1ae4a0b94f7",
+      "title": "",
+      "link": "https://github.com/bwya77/vscode-dark-islands",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 bwya77 / vscode-dark-islands ⭐ 7,590 (+665) 🗒 PowerShell VSCode theme based off the easemate IDE and Jetbrains isl...",
+      "published": "05 May 2026 20:16 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7573b3014cf6371cd920f5c51c25050f",
+      "title": "",
+      "link": "https://github.com/LearningCircuit/local-deep-research",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 LearningCircuit / local-deep-research ⭐ 4,905 (+171) 🗒 Python ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports...",
+      "published": "05 May 2026 19:16 +0000",
+      "fetched_at": "2026-05-05T20:55:55.030289+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-05T19:08:19.201664+00:00"
+  "updated_at": "2026-05-05T20:55:55.030289+00:00"
 }

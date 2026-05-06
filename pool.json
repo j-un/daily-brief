@@ -1,166 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b24d6927094791afdc51244f68561bec",
-      "title": "",
-      "link": "https://github.com/pgexperts/pgxbackup",
-      "summary": "高機能なPostgreSQLバックアップツールpgBackRestがメンテ終了したのでforkで生まれた実装。企業が後ろについてるので安定してくれるかな",
-      "published": "05 May 2026 13:40 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "608a419af413f9ff914df5333d19cb53",
-      "title": "The best is over: The fun has been optimized out of the Internet",
-      "link": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
-      "summary": "Article URL: https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/ Comments URL: https://news.ycombinator.com/item?id=48022992 Points: 175 # Commen...",
-      "published": "Tue, 05 May 2026 14:29:24 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "47be93869dece987a45290c7de97bd6b",
-      "title": "AI didn't delete your database, you did",
-      "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-      "summary": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did Comments URL: https://news.ycombinator.com/item?id=48022742 Points: 240 # ...",
-      "published": "Tue, 05 May 2026 14:07:50 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "00f5548b55e3164a723ad87261a13680",
-      "title": "AI Product Graveyard",
-      "link": "https://tooldirectory.ai/ai-graveyard",
-      "summary": "Article URL: https://tooldirectory.ai/ai-graveyard Comments URL: https://news.ycombinator.com/item?id=48021968 Points: 158 # Comments: 69",
-      "published": "Tue, 05 May 2026 13:00:47 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7fc0b4b6edaa0e7b581d64cf83f8c57d",
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "link": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "summary": "Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/ Comments URL: https://news.ycombinator.com/item?id=48021561 Points: 219 # Co...",
-      "published": "Tue, 05 May 2026 12:28:28 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9f8b436f5322401b3e09c2ae6ddbe228",
-      "title": "When everyone has AI and the company still learns nothing",
-      "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-      "summary": "Article URL: https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/ Comments URL: https://news.ycombinator.com/item?i...",
-      "published": "Tue, 05 May 2026 09:30:22 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9a437c349a8ddfd2c275476e3d092faa",
-      "title": "ダリオ・アモデイ「AIを民主主義に反する目的で使ってはならない」 | アンソロピックCEOが語る「AI開発への信念」",
-      "link": "https://courrier.jp/news/archives/444570/",
-      "summary": "英紙「フィナンシャル・タイムズ」の記者が昼食を共にしながらインタビューする人気連載に、AI開発の最前線に立つアンソロピックCEOダリオ・アモデイが登場。限定公開した「Mythos」の可能性とリスクからオープンAIとのライバル関係まで率直に語った。 「アホ左翼」か「本物の技術者」か ダリオ・アモデイを...",
-      "published": "2026-05-05T00:41:55Z",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bc626a0b85a3b190b40b16c3dba86351",
-      "title": "Codex を利用した iOS アプリ開発を試してみた",
-      "link": "https://azukiazusa.dev/blog/ios-app-development-with-codex/",
-      "summary": "私自身は Web 開発の経験はありますが、iOS アプリ開発の経験はほとんどありません。このようなバックグラウンドを持つ私がコーディングエージェントである Codex を利用して iOS アプリ開発をどこまで進められるか試してみました。コーディングエージェントは単に中身を見ずにアプリケーションを作る...",
-      "published": "2026-05-04T13:25:23Z",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d388bdf83b33645255f8a45b5e601d04",
-      "title": "外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件",
-      "link": "https://zenn.dev/kusuke/articles/25330f7759eba4",
-      "summary": "今日も元気にXを徘徊していたところ、どこにも公開していないサイトなのにめちゃくちゃアクセスが来るというポストがあり、そういえばCT Logとかもウォッチされてるしな。とつぶやいたところ まとめがあるといいな、とのコメントをいただいたので簡単にまとめてみました。（なお当該のポストはCT Log経由の攻...",
-      "published": "2026-05-05T15:05:00Z",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d7550dc3b0e370f34f912941974ce8c7",
-      "title": "GitHub CLI v2.91.0でテレメトリ収集がデフォルトONになったので設定をまとめてみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/github-cli-telemetry-opt-out/",
-      "summary": "どうも！オペ部の西村祐二です！ GitHub CLI v2.91.0（2026-04-22リリース）で、コマンドの利用状況をGitHubに送信する擬似匿名（pseudonymous）なテレメトリ収集が導入されました。デフォルトで有効になっているため、ポリシーや好みで送信を止めたい場合は明示的にオプト...",
-      "published": "2026-04-30T01:57:34Z",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "834c71321e22903f89a17683f942a138",
-      "title": "既存ソースコードからAgent Skills を抽出作成する",
-      "link": "https://zenn.dev/srtia2318/articles/organize-info23-skills-gene-23b0b52d0d0bc6",
-      "summary": "はじめに Agent Skills、すごい便利ですよね。皆様はAgent Skills お使いでしょうか。 私は他力本願なので、最近は開発作業も含め、なんでもAI Agentに任せて実施させたいと考えてしまいます。 AI駆動開発といえば、新規の開発案件が得意領域な印象ですが、古今東西の開発プロジェク...",
-      "published": "2026-05-04T01:52:28Z",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d89a1605d3abb864692091b3bfee9f31",
-      "title": "Native Instruments、創立30周年を記念した最新バンドル、「KOMPLETE 26」を発表…… 対象のNI／iZotope製品を1つでも持っていれば購入できるクロスグレード版も販売",
-      "link": "https://icon.jp/archives/27522",
-      "summary": "Native Instrumentsは本日（2026年5月5日）、KOMPLETEをアップデート。新バージョン「KOMPLETE 26」を発表しました。 Native Instrumentsの現時点での集大成バンドル、「 […]",
-      "published": "Tue, 05 May 2026 14:00:00 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "ICON",
-      "category": "music"
-    },
-    {
-      "entry_id": "2f0125f91ff42f2b04cc473436056ff3",
-      "title": "Beyond Abysnth: Into the depths of Native Instruments’ Komplete 26",
-      "link": "https://musictech.com/features/native-instruments-komplete-26-instruments-effects/?utm_source=rss&utm_medium=rss&utm_campaign=native-instruments-komplete-26-instruments-effects",
-      "summary": "With over 20 instruments joining this mega bundle, we zoom in on some of our favourite new additions. The post Beyond Abysnth: Into the depths of Nati...",
-      "published": "Tue, 05 May 2026 15:24:24 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "8d706585096034bc53cc0fd852429909",
-      "title": "How to make a song go viral: A producer’s guide to beats that hook in seconds",
-      "link": "https://musictech.com/features/how-to-make-a-song-go-viral-a-producers-guide-to-beats-that-hook-in-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-song-go-viral-a-producers-guide-to-beats-that-hook-in-seconds",
-      "summary": "Keep these simple tips in mind when producing your next track The post How to make a song go viral: A producer’s guide to beats that hook in seconds a...",
-      "published": "Fri, 01 May 2026 08:00:13 +0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "ee68f2d3dfe5e4cc2facb6cf6debfd57",
-      "title": "“Can’t Stop Singing About Jesus”: Exploring the “Devotional” Tag",
-      "link": "https://daily.bandcamp.com/lists/bandcamp-devotional-music",
-      "summary": "What albums are hiding under one of Bandcamp’s more distinctive tags? Read full story on the Bandcamp Daily.",
-      "published": "Tue, 05 May 2026 13:41:50 -0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
-      "entry_id": "8c74e5c322cd2dc63bd5a871b702d0b3",
-      "title": "Wesenyeleh Mebreku, “Resonance of Time (የጊዜ ቃና)”",
-      "link": "https://daily.bandcamp.com/album-of-the-day/wesenyeleh-mebreku-resonance-of-time-review",
-      "summary": "Applying Casio keyboards to traditional Ethiopian folk, this lo-fi curio from 1986 is fresher than ever. Read full story on the Bandcamp Daily.",
-      "published": "Tue, 05 May 2026 13:41:42 -0000",
-      "fetched_at": "2026-05-05T15:49:06.838702+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
       "entry_id": "9e4a3d4b16dd542838cc5bf5b0e203ec",
       "title": "Three Inverse Laws of AI",
       "link": "https://susam.net/inverse-laws-of-robotics.html",
@@ -1619,7 +1459,97 @@
       "fetched_at": "2026-05-06T19:25:50.948264+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "531b75462e532ed414ae7816e80b1308",
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "link": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+      "summary": "Article URL: https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/ Comments URL: https://news.ycombinator...",
+      "published": "Wed, 06 May 2026 18:25:06 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd8a6cd4784aa53755892b86ff630c51",
+      "title": "Going Full Time on Open Source",
+      "link": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/ Comments URL: https://news.ycombinator.com/item?id=48038864 Points: 108 ...",
+      "published": "Wed, 06 May 2026 17:22:49 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4075d8524a4a66ecdbd46201606058b1",
+      "title": "From Supabase to Clerk to Better Auth",
+      "link": "https://blog.val.town/better-auth",
+      "summary": "Article URL: https://blog.val.town/better-auth Comments URL: https://news.ycombinator.com/item?id=48038827 Points: 124 # Comments: 65",
+      "published": "Wed, 06 May 2026 17:19:34 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5646bb054f79e84709274f14e5a0e5ee",
+      "title": "Colombia hosts talks on exiting fossil fuels as global energy crisis deepens",
+      "link": "https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens",
+      "summary": "Article URL: https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens Comment...",
+      "published": "Wed, 06 May 2026 16:54:21 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28f3ad71c6bae2d5e8d3f9a9846a4a7c",
+      "title": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east",
+      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the US East (N. Virginia) Region. P6-B300 instances provi...",
+      "published": "Wed, 06 May 2026 19:24:00 GMT",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bbf301e955add8262b664856fa480e9",
+      "title": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata",
+      "summary": "Amazon Bedrock AgentCore Memory now supports metadata on long-term memory (LTM) records, enabling agents to tag, filter, and retrieve memories using s...",
+      "published": "Wed, 06 May 2026 17:00:00 GMT",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9a3881d5f55f62f93d835224c10b640",
+      "title": "AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/",
+      "summary": "AWS Elastic Beanstalk now supports TLS listeners for environments configured with a Network Load Balancer. You can configure a TLS listener with an SS...",
+      "published": "Wed, 06 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b3ac28cee2a333a1e577b94cad50ea1",
+      "title": "",
+      "link": "https://github.com/cheahjs/free-llm-api-resources",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 cheahjs / free-llm-api-resources ⭐ 20,214 (+344) 🗒 Python A list of free LLM inference resources accessible via A...",
+      "published": "06 May 2026 20:16 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d4f839ab38adf5a43950cdcc386795c",
+      "title": "Elastic OSC, Plaits-derived poly, is now a macOS and Windows plug-in, too",
+      "link": "https://cdm.link/elastic-osc-macos-and-windows-plug-in/",
+      "summary": "Elastic OSC expands on Émilie Gillet's 24 original open-source Plaits oscillator models, adding 8-voice polyphony, expression (MPE), a modulation engi...",
+      "published": "Wed, 06 May 2026 18:06:19 +0000",
+      "fetched_at": "2026-05-06T21:04:16.002155+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-06T19:25:50.948264+00:00"
+  "updated_at": "2026-05-06T21:04:16.002155+00:00"
 }

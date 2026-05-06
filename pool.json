@@ -1,96 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d3fcc23a97b80034afe8a001334aa59e",
-      "title": "",
-      "link": "https://github.com/lsferreira42/nfsdiag",
-      "summary": "NFSサーバに対する接続周りのデバッグを行うための便利CLIツール。",
-      "published": "05 May 2026 11:48 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d56f043c9c03b5c158472647b5474e27",
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-      "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html Comments URL: https://news.ycombinator.com/item?id=48019025 Points...",
-      "published": "Tue, 05 May 2026 07:05:25 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f880956897b7ea6413c003b2f81f7c51",
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "link": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "summary": "Article URL: https://nobodyaskedforthis.lol/posts/connected-car/ Comments URL: https://news.ycombinator.com/item?id=48017251 Points: 102 # Comments: 8...",
-      "published": "Tue, 05 May 2026 02:01:15 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9ea219c4046e194fbbd399afafae0779",
-      "title": "ショート動画に奪われる時間をなくすためにIPhone/Androidで特定ドメインへのアクセスを遮断した話",
-      "link": "https://zenn.dev/zekkn/articles/266ee9fd72e518",
-      "summary": "Youtubeでショート動画を眺めて気付いたら夕方になってた、そんな経験皆さんないでしょうか？ いい加減こんな無駄な時間から抜け出したい、そう思って対策を取ることにしました。 ブロックアプリなんてものもありますが、あれは画面を常時キャプチャして監視しているのでバッテリー消費が増える上に、簡単に停止で...",
-      "published": "2026-05-05T03:36:52Z",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "45c256d9bf513fe9a5f00345ebb965bb",
-      "title": "Claude Code × tmuxの個人的活用術 | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/shuntaka-claude-code-tmux-personal-tips/",
-      "summary": "はじめに 私の普段の AI コーディングは、Claude Code を tmux の中で動かす運用がベースになっています。Claude Code が日常になってからは、その「tmux を整えておく」ことの効きが一段強くなったと感じます。かれこれ7年くらい使っているツールですが、Claude Code...",
-      "published": "2026-05-01T07:07:11Z",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "ec9367e7faa5031059aa8512ff3dd8d9",
-      "title": "AIに頼りすぎると科学の進歩鈍る恐れ 職場の人間関係も損ないかねず - 日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOSG136Z20T10C26A3000000/",
-      "summary": "【この記事で分かること】・科学研究にAIを使う弊害・職場の人間関係への意外な影響・学生はAIを使うべきか？",
-      "published": "2026-05-03T00:04:06Z",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "7f4681947a6cc317edbc2774c14e09c3",
-      "title": "",
-      "link": "https://github.com/PriorLabs/TabPFN",
-      "summary": "📦 PriorLabs / TabPFN ⭐ 6,265 (+41) 🗒 Python ⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-      "published": "05 May 2026 13:16 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1fd273fcaa630763fca9744ae37fa779",
-      "title": "How Sennheiser’s HD 480 PRO headphones have become essential to my daily workflow",
-      "link": "https://musictech.com/features/sennheisers-hd-480-pro-headphones-daily-driver/?utm_source=rss&utm_medium=rss&utm_campaign=sennheisers-hd-480-pro-headphones-daily-driver",
-      "summary": "Sennheiser’s new headphones challenge deep-rooted notions of how closed-back headphones feel and sound — and I love them! The post How Sennheiser’s HD...",
-      "published": "Tue, 05 May 2026 13:10:13 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "c3c05c10ba676250f237dce2ed391a0a",
-      "title": "Ableton Live 12.4 has arrived – here’s everything you need to know",
-      "link": "https://musictech.com/news/gear/ableton-live-12-4-everything-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=ableton-live-12-4-everything-you-need-to-know",
-      "summary": "There’s also a raft of new features and improvements for Push, Move and Note. The post Ableton Live 12.4 has arrived – here’s everything you need to k...",
-      "published": "Tue, 05 May 2026 12:05:03 +0000",
-      "fetched_at": "2026-05-05T13:20:51.282653+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
       "entry_id": "b24d6927094791afdc51244f68561bec",
       "title": "",
       "link": "https://github.com/pgexperts/pgxbackup",
@@ -1509,7 +1419,97 @@
       "fetched_at": "2026-05-06T15:58:55.326498+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "4f2390c780635fe955ccdad72a28799f",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "summary": "Article URL: https://www.anthropic.com/news/higher-limits-spacex Comments URL: https://news.ycombinator.com/item?id=48037986 Points: 145 # Comments: 9...",
+      "published": "Wed, 06 May 2026 16:17:33 +0000",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68c530c85a5a967f1f108f41d66c8ced",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "summary": "Article URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license Comments URL: https:...",
+      "published": "Wed, 06 May 2026 15:44:13 +0000",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "590ef2d9d36de40071769d0ef3d590c2",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "summary": "Article URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/ Comments URL: https://news.ycombinator.com/item?id=48037128 Poi...",
+      "published": "Wed, 06 May 2026 15:06:37 +0000",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d284d6d11a69f3cb91557c4c3a2683b8",
+      "title": "AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization",
+      "summary": "AWS Elemental MediaTailor now enhances streaming ad personalization with support for trickplay features in HLS and DASH formats. This update also intr...",
+      "published": "Wed, 06 May 2026 14:24:00 GMT",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0f3d95601a5b2023b000ca98fa75be0",
+      "title": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/",
+      "summary": "Today, AWS is launching the Agent Toolkit for AWS, a production-ready suite of tools and guidance that helps AI coding agents build on AWS with fewer ...",
+      "published": "Wed, 06 May 2026 12:00:00 GMT",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "717d21b5d3e1467dd07f730af1d41065",
+      "title": "The AWS MCP Server is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/",
+      "summary": "Today, AWS announces the general availability of the AWS MCP Server, a managed server that gives AI coding agents secure, auditable access to AWS serv...",
+      "published": "Wed, 06 May 2026 12:00:00 GMT",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "55a6ccc7a0c0ec37f5049fd9f4512420",
+      "title": "【保存版】教員向け｜知っておきたいおすすめウェブサイト25選｜高森崇史（ルート先生）",
+      "link": "https://note.com/takafumitakamori/n/n04f7037ff2ea",
+      "summary": "授業準備、教材作成、キャリア教育、プログラミング学習、国語や算数の補助教材、特別支援教育まで。教員にとって便利なウェブサイトは想像以上に多く、知っているかどうかで授業準備の質とスピードが大きく変わります。 今回は、授業や校務ですぐに使える「教員向けおすすめウェブサイト25選」をまとめました。気になっ...",
+      "published": "2026-05-06T01:37:13Z",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89c5ebd31776a1bd80626cc73bea31b3",
+      "title": "Claude CodeがAPIキー不要に：開発者のセキュリティ負荷を下げる新認証を導入 | XenoSpectrum",
+      "link": "https://xenospectrum.com/claude-api-workload-identity-federation/",
+      "summary": "GitHubへの誤コミット、CIログへの混入、退職者のローカル環境に残ったまま忘れられた認証情報——静的なAPIキーが引き起こすセキュリティインシデントは、クラウド業界が長年抱えてきた問題だ。Anthropicはこの問題に対し、業界標準の解決策をClaude APIに直接組み込んだ。2026年5月4...",
+      "published": "2026-05-05T07:12:28Z",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b98711de1f2512abe955d6452a9fc72e",
+      "title": "Ninajirachi still doesn’t have any “professional” music gear",
+      "link": "https://musictech.com/news/music/ninajirachi-still-doesnt-have-any-professional-music-gear/?utm_source=rss&utm_medium=rss&utm_campaign=ninajirachi-still-doesnt-have-any-professional-music-gear",
+      "summary": "“All of my muscle memory is here now with the trackpad.” The post Ninajirachi still doesn’t have any “professional” music gear appeared first on Music...",
+      "published": "Wed, 06 May 2026 16:15:57 +0000",
+      "fetched_at": "2026-05-06T17:43:14.321362+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-06T15:58:55.326498+00:00"
+  "updated_at": "2026-05-06T17:43:14.321362+00:00"
 }

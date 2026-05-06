@@ -1,126 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8062a6d88eabfc09b0eff0d68ab4d2e9",
-      "title": "",
-      "link": "https://aws.amazon.com/jp/blogs/news/aws-interconnect-is-now-generally-available-with-a-new-option-to-simplify-last-mile-connectivity/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Interconnect が一般提供され、ラストマイル接続を簡素化する新しいオプションが追加されました | Amazon Web Services",
-      "published": "05 May 2026 05:56 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7754905e082dc005320035eb7d5a3523",
-      "title": "",
-      "link": "https://qiita.com/delphinus/items/7dab609ef95bf030f217",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Neovim で最高の Markdown ビューワーを作る - md-render.nvim",
-      "published": "05 May 2026 03:56 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d880c93774bdc105c836e0c5fdf526fe",
-      "title": "",
-      "link": "https://zenn.dev/microsoft/articles/agent-package-manager-handson",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ハーネスエンジニアリングを楽にする Microsoft 製の新ツール「APM」ハンズオン",
-      "published": "05 May 2026 02:56 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "32454bb18a16eeb7c012126154d1e972",
-      "title": "What I'm Hearing About Cognitive Debt (So Far)",
-      "link": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
-      "summary": "Article URL: https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/ Comments URL: https://news.ycombinator.com/item?id=48017298 Points: ...",
-      "published": "Tue, 05 May 2026 02:08:21 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "6bee57213f49c427bf94377cb688eaf8",
-      "title": "Bun is being ported from Zig to Rust",
-      "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5 Comments URL: https://news.ycombinator.com/item?id=4801688...",
-      "published": "Tue, 05 May 2026 01:08:17 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5bd2c06c510536a415b6eff7d8922ea3",
-      "title": "Y Combinator's Stake in OpenAI (0.6%)",
-      "link": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-      "summary": "Article URL: https://daringfireball.net/2026/05/y_combinators_stake_in_openai Comments URL: https://news.ycombinator.com/item?id=48016534 Points: 248 ...",
-      "published": "Tue, 05 May 2026 00:09:01 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "17e805307987e7a85316d63b368d8741",
-      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
-      "link": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis Comments URL: https://news.ycombinator.c...",
-      "published": "Mon, 04 May 2026 21:25:55 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9eecf8f35b5d43a980ad6472e12cb2be",
-      "title": "DHS demanded Google surrender data on a Canadian man over anti-ICE posts",
-      "link": "https://www.wired.com/story/dhs-demanded-google-surrender-data-on-canadians-activity-location-over-anti-ice-posts/",
-      "summary": "https://archive.ph/5Fq2D Comments URL: https://news.ycombinator.com/item?id=48013423 Points: 105 # Comments: 14",
-      "published": "Mon, 04 May 2026 19:06:53 +0000",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4b9260eb69ade7bce71c253dde5e8595",
-      "title": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/",
-      "summary": "Amazon WorkSpaces Applications now supports host-to-client URL redirection, which automatically launches URLs from streaming sessions in the user's lo...",
-      "published": "Mon, 04 May 2026 20:56:00 GMT",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "9e5184ac09c6e16c33af7016bf8af535",
-      "title": "Tailscaleやめたい - まいの雑記帳",
-      "link": "https://mq1.dev/entry/j7zvrsp48lb",
-      "summary": "# はじめにTailscaleはネットワークの知識がない人が使うものだと思っていて、内心ずっと冷笑しているのですが、悪い噂をあまり聞かないので本当に悲しいです。用途に応じて使い分けろという話なんだろうとは思います。思いますが、他人の環境にアクセスしたいときに「まずTailscaleを入れて〜」みたい...",
-      "published": "2026-05-05T02:15:57Z",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5dd878fbde8c7a245ef6ae6dc2be0f57",
-      "title": "Web hooks to revolutionize the web :: Jeff Lindsay",
-      "link": "https://progrium.github.io/blog/2007/05/03/web-hooks-to-revolutionize-the-web/",
-      "summary": "There once was a command line. It was a powerful thing. Not only could you navigate your filesystem and launch applications, but you could program she...",
-      "published": "2026-05-04T20:24:43Z",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "0d0eb21c34e17cf0cef40db7cc500bbb",
-      "title": "Wallos: Open-Source Personal Subscription Tracker",
-      "link": "https://wallosapp.com/",
-      "summary": "Wallos: Open-Source Personal Subscription Tracker Self-hostable web application designed to empower you in managing your finances with ease. Wallos si...",
-      "published": "2026-05-04T13:38:29Z",
-      "fetched_at": "2026-05-05T06:11:01.086913+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "28afb8e723714fc608251a7b783d9a4e",
       "title": "",
       "link": "https://secon.dev/entry/2026/04/27/080000-sqlite-duckdb-vaporetto/",
@@ -1409,7 +1289,167 @@
       "fetched_at": "2026-05-06T06:25:07.929775+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b65bfd5ac1560a4540c4f18f88af6c0a",
+      "title": "",
+      "link": "https://thenewstack.io/disappearing-ai-middle-class/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The disappearing AI middle class",
+      "published": "06 May 2026 08:56 +0000",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fc784530f70bebd28a39e1c11ac69a8",
+      "title": "",
+      "link": "https://thenewstack.io/thoughtworks-radar-agentic-ai/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why AI engineering needs old-school discipline",
+      "published": "06 May 2026 06:56 +0000",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d59ff8c02dfa79d9e0054ca7784fe4b",
+      "title": "YouTube, your RSS feeds are broken",
+      "link": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken Comments URL: https://news.ycombinator.com/item?id=48030964 Points: 130 # Comments...",
+      "published": "Wed, 06 May 2026 01:15:31 +0000",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5e219d37d351218f73852e4d66671b1",
+      "title": "DNSSEC disruption affecting .de domains – Resolved",
+      "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "summary": "Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38 Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Tue, 05 May 2026 20:16:35 +0000",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "106bdc55da34862a178fda2b7a9ca851",
+      "title": "OpenAIの「エージェントスマホ」は2027年発売？ デュアルNPUのMediaTekカスタムチップ搭載、タスク進捗並ぶ「ストリーム」UI採用 著名アナリストが報告",
+      "link": "https://www.techno-edge.net/article/2026/05/06/5043.html",
+      "summary": "サプライチェーン分析で実績を持つアナリスト、Ming-Chi Kuo氏は5月5日のレポートで、OpenAIが開発するAIエージェント特化スマートフォンは2027年前半にも量産開始の可能性が高まったと伝えています。",
+      "published": "Wed, 06 May 2026 16:44:13 +0900",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b8ba852db84b6ea1b956afd31b20f38",
+      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
+      "summary": "米Anthropicは5月5日（現地時間）、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。これらのテンプレートは、プレゼンテーション資料の作成、与信メモの作成、KYCファイルの審査、財務諸表の監査などの業務を対象としている。 テンプレートの種類は、ピッチブック作成、ミーティ...",
+      "published": "2026-05-05T23:02:56Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "14160abce027209de13f792b6c01fd1d",
+      "title": "なぜ Rust なのか",
+      "link": "https://voluntas.ghost.io/why-rust/",
+      "summary": "時雨堂では C++ から Rust へ主軸を移し始めています。なぜ Rust を採用したのかと、採用した結果どうかを雑に書いていこうと思います。 社員に Rust ﾁｮｯﾄﾃﾞｷﾙ がいるまず最大の理由はこれです。社員に Rust 歴が 10 年以上あり、Rust で分散システムが作れる人がいるから...",
+      "published": "2026-05-06T07:35:48Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de7d90566041530a32ec9778fbeaf5fa",
+      "title": "AWS認定資格は本当に意味があるのか？",
+      "link": "https://speakerdeck.com/nrinetcom/awsren-ding-zi-ge-haben-dang-niyi-wei-gaarunoka-huomatutoban-20260417",
+      "summary": "Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →",
+      "published": "2026-05-06T03:15:55Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f56509e36370025716acb0127534c35",
+      "title": "Amazon、物流サービスを外部に開放 「物流版AWS」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2106557.html",
+      "summary": "",
+      "published": "2026-05-05T23:57:35Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bb9e3ac0f9b255aadfff927563ad535",
+      "title": "無料で高機能な画像編集ソフト「GIMP」のUIをPhotoshopっぽくできる「PhotoGIMP」",
+      "link": "https://gigazine.net/news/20260505-photogimp/",
+      "summary": "オープンソースで開発されている高機能な画像処理・編集ソフトの「GIMP」を、AdobeのPhotoshopユーザーにとってなじみやすいUIレイアウトに変換するパッチ「PhotoGIMP」が公開されているので、実際に導入してみました。 GitHub - Diolinux/PhotoGIMP: A Pa...",
+      "published": "2026-05-05T17:04:40Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30fb19f9b9a27c5a56cd1f74bac3bb52",
+      "title": "『生成AI時代のクレデンシャルとパーミッション設計 — Claude Code を起点に』を書きます。個人開発者向けにコメント募集 - プログラマでありたい",
+      "link": "https://blog.takuros.net/entry/2026/05/06/135413",
+      "summary": "Claude Code に作業を任せて席を外し、戻ってきたらコマンド許諾待ちで止まっていた。そんな経験ありませんか。 かといって全部 allow にしてしまえば、.env 読み出しや bash 任意実行のリスクが跳ね上がります。「席を外せる自律性」と「無制限許可の危険」のあいだに、どう線を引くか。こ...",
+      "published": "2026-05-06T05:05:53Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ac3fe5ca0d446efec787840e45feff0",
+      "title": "動画編集ソフトDaVinci Resolveが写真業界に殴り込み!？ 話題の「フォトページ」について聞いてきた！",
+      "link": "https://dc.watch.impress.co.jp/docs/news/2106295.html",
+      "summary": "",
+      "published": "2026-05-06T03:21:28Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eed2861b7ac30b09740ec26ca512e030",
+      "title": "[アップデート] Amazon CloudWatch RUM にセッションリプレイ機能が追加され、ウェブアプリケーションのユーザー操作を動画のように再生できるようになりました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-rum-session/",
+      "summary": "",
+      "published": "2026-05-06T03:22:51Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "86adff6d51235b16986e6e1863a2c02b",
+      "title": "マスクのAI「Grok」、2026年に入りユーザー減──ChatGPTやClaudeとの差が拡大 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/96946",
+      "summary": "億万長者イーロン・マスクが立ち上げた生成AI「Grok」は、Similarwebのデータによれば、2026年に入ってからモバイルアプリとウェブサイト訪問の双方でユーザー数が減少している。一方で、主要AIチャットボットの多くはユーザーを増やしている。 Grokのユーザー数が3～4月に急減、競合のCla...",
+      "published": "2026-05-06T04:45:21Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb02ee4e0157aedfd89a36ade7fde795",
+      "title": "IBMのCEO「ソフト産業、従来型の成長難しく」 AIデータ基盤に注力 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN050BH0V00C26A5000000/",
+      "summary": "【ボストン=川上梓】米IBMのアービンド・クリシュナ最高経営責任者（CEO）は5日、高度な人工知能（AI）の登場で業務ソフト「SaaS（サース）」の従来型の成長が難しくなるとの認識を示し、企業のAI導入支援やデータ収集ツールに注力する方針を示した。5日に米東部ボストンで開催した技術イベントで日本経済...",
+      "published": "2026-05-06T04:09:29Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b900eb094ab6ae95bcf9eb840027e112",
+      "title": "理想のアプリに近づけるため「Claude Design」を試す ゼロから始めるAIコーディング(2)",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2105497.html",
+      "summary": "",
+      "published": "2026-05-05T23:45:42Z",
+      "fetched_at": "2026-05-06T10:10:55.347135+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-06T06:25:07.929775+00:00"
+  "updated_at": "2026-05-06T10:10:55.347135+00:00"
 }

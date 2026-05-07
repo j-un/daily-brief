@@ -1479,7 +1479,187 @@
       "fetched_at": "2026-05-07T20:59:34.000074+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "771f10ffe91a2f3ddfd77c5e8ae3db15",
+      "title": "Building for the Future",
+      "link": "https://blog.cloudflare.com/building-for-the-future/",
+      "summary": "Article URL: https://blog.cloudflare.com/building-for-the-future/ Comments URL: https://news.ycombinator.com/item?id=48054423 Points: 163 # Comments: ...",
+      "published": "Thu, 07 May 2026 20:23:37 +0000",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "722f29405f4e9dbd1ecf86c8bea95c58",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "link": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders Comments URL: https://news.ycombinator.com/item?id=48052537 Points: 145 ...",
+      "published": "Thu, 07 May 2026 17:54:02 +0000",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b4c74b635dcfc3ac55ca7e3b1635e5a",
+      "title": "Show HN: TRUST – Coding Rust like it's 1989",
+      "link": "https://github.com/wojtczyk/trust",
+      "summary": "Article URL: https://github.com/wojtczyk/trust Comments URL: https://news.ycombinator.com/item?id=48045939 Points: 107 # Comments: 70",
+      "published": "Thu, 07 May 2026 05:58:52 +0000",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5676c6fff3bf55ef0b433f79950e5832",
+      "title": "Amazon EC2 X8i instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Ireland) and Asia Pacific (Mumbai) regions. These...",
+      "published": "Thu, 07 May 2026 20:45:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "094fa4254935073d25b718f186219266",
+      "title": "Amazon EC2 G7e instances now available in Europe (London) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/",
+      "summary": "Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in Europe (London) region....",
+      "published": "Thu, 07 May 2026 18:04:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c85c0df7894457ae93ffde5ba4a7fd4",
+      "title": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/",
+      "summary": "The AWS Advanced JDBC Wrapper now provides column-level client-side encryption through its KMS Encryption plugin. The wrapper provides advanced capabi...",
+      "published": "Thu, 07 May 2026 17:00:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a59def10d73b5b56245c820facd4f86",
+      "title": "Amazon EC2 M8gn and M8gb instances are now available in AWS Europe (Ireland) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances are available in the AWS Europe (Ireland) region. These instances ar...",
+      "published": "Thu, 07 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ce57047aeebe80fec96e5401db25df3",
+      "title": "Introducing Amazon EC2 R8idn and R8idb instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb/",
+      "summary": "AWS is announcing the general availability of Amazon EC2 R8idn and Amazon EC2 R8idb instances, powered by custom sixth generation Intel Xeon Scalable ...",
+      "published": "Thu, 07 May 2026 15:00:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b5389a4208a20703f5065cbb5f5938c",
+      "title": "Introducing Amazon EC2 M8idn and M8idb instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb/",
+      "summary": "AWS is announcing the general availability of Amazon EC2 M8idn and Amazon EC2 M8idb instances, powered by custom sixth generation Intel Xeon Scalable ...",
+      "published": "Thu, 07 May 2026 15:00:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f78ea6ab34389810d27d4cbf78b82f3",
+      "title": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances/",
+      "summary": "Amazon RDS for SQL Server now supports M8a and R8a instances powered by 5th Generation AMD EPYC processors. On RDS for SQL Server, R8a and M8a instanc...",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "08cefeb13a12b4cc80a148060548f6fd",
+      "title": "「Claude Codeに全部やらせる時代が来た」のか検証してみた",
+      "link": "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
+      "summary": "はじめに こんにちは。セキュリティエンジニアの@okazu_dmです。 この記事は、最近リリースされたLLMベースのセキュリティスキャンツールとしてclaude-security-scan を使ってみた所感の記事です。 先週、以下の記事を見つけました。 検出率100%という結果が紹介されており、Cl...",
+      "published": "2026-05-07T08:38:57Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e5a1af9f00f291282c2b48b6f8964ef",
+      "title": "Claude Codeで学ぶ Agent Skills入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15698-5",
+      "summary": "概要 Agent Skillsは、AIエージェントに「手引き的な知識」を実装するためのオープンスタンダードです。LLMが「考えて答える」ものだとすれば、Agent Skillsは「この作業はこうやる」と教えるための、文字通りのスキルです。 本書では、注目を集めるAgent Skillsの基礎知識を詳...",
+      "published": "2026-05-07T10:19:03Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db00bd23a1682d5c30e64871876aeea3",
+      "title": "GitHub - V4bel/dirtyfrag",
+      "link": "https://github.com/V4bel/dirtyfrag",
+      "summary": "This document describes the Dirty Frag vulnerability class, first discovered and reported by Hyunwoo Kim (@v4bel), which can obtain root privileges on...",
+      "published": "2026-05-07T20:09:33Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b04998531e01f594114f986d7c818c37",
+      "title": "【最速レビュー】DJミキサーの常識を横蹴り（SIDEKICK）。teenage engineering EP-136、新しき相棒",
+      "link": "https://www.gizmodo.jp/2026/05/teenage_ep_136.html",
+      "summary": "【最速レビュー】DJミキサーの常識を横蹴り（SIDEKICK）。teenage engineering EP-136、新しき相棒2026.05.07 22:00 尾田和実 DJミキサーって、こんなに気軽に持ち歩けるものだったんだ。 teenage engineeringの新製品｢EP-136 K.O...",
+      "published": "2026-05-07T13:14:47Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d38197276b8a062834004df76fc4638",
+      "title": "長大コンテキストの処理でClaude Opusを超える性能を示す効率設計AIモデル「SubQ」が登場、1200万トークンの入力が可能でTransformerの限界を打ち破る",
+      "link": "https://gigazine.net/news/20260507-subq-1m-preview/",
+      "summary": "AI開発企業のSubquadraticがAIモデル「SubQ」を発表しました。SubQは主流のTransformerベースAIモデルとは異なるアーキテクチャで開発されたモデルで、最大1200万トークンという長大なコンテキストウィンドウを備えています。また、テストモデルである「SubQ 1M-Prev...",
+      "published": "2026-05-07T03:58:38Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0037c9c8303c608a6997baf4d1dea963",
+      "title": "Google Fitbit Air発表。画面なし/約1.6万円の軽量ヘルストラッカー",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2106943.html",
+      "summary": "",
+      "published": "2026-05-07T14:13:54Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "634c8be34871f03e2cee2ab8c4fe7286",
+      "title": "Open question for the reason why other maintainers were removed from the org · Issue #757 · fsnotify/fsnotify",
+      "link": "https://github.com/fsnotify/fsnotify/issues/757",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-05-07T13:36:25Z",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fea7d3b8ac2c89f939ee5c0853eb553",
+      "title": "",
+      "link": "https://github.com/VectifyAI/PageIndex",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 VectifyAI / PageIndex ⭐ 29,196 (+953) 🗒 Python 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "published": "07 May 2026 21:16 +0000",
+      "fetched_at": "2026-05-07T22:54:32.370917+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-07T20:59:34.000074+00:00"
+  "updated_at": "2026-05-07T22:54:32.370917+00:00"
 }

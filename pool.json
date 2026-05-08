@@ -429,7 +429,177 @@
       "fetched_at": "2026-05-08T05:52:28.226598+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "2f75013ab73c330ad5bd7708631fc8f8",
+      "title": "",
+      "link": "https://ca-srg.dev/3504358b43f780b3ab4ad5af638cf03d",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DevOps AgentからAurora MySQLを安全に調査できるようにした話 〜 AgentCore Gateway + Lambda構成 〜 - CyberAgent SRG #ca_srg",
+      "published": "08 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4bc85d335bb50eca5473c4695208bf2",
+      "title": "",
+      "link": "https://www.percona.com/blog/run-an-alter-table-for-a-huge-table-in-aurora/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Run an ALTER TABLE for a huge table in Aurora",
+      "published": "08 May 2026 05:55 +0000",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a6720255ef36faea534741a14dfb85a",
+      "title": "多機種ゲーマー御用達ヘッドセットSteelSeries Arctis Nova Pro Omni発売 4系統同時ミックスでハイレゾ無線の新世代高級モデル",
+      "link": "https://www.techno-edge.net/article/2026/05/08/5046.html",
+      "summary": "老舗ゲーミングデバイスブランドSteelSeriesが、ワイヤレスヘッドセットの新製品「Arctis Nova Pro Omni」を国内向けに正式発表しました。",
+      "published": "Fri, 08 May 2026 15:50:47 +0900",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "23dbbe2726b9a5697844642d422a718c",
+      "title": "AWS SDK for SAP ABAP ドキュメントでエージェント型 IDE を拡張する",
+      "link": "https://aws.amazon.com/jp/blogs/news/extend-agentic-ides-with-aws-sdk-for-sap-abap-documentation/",
+      "summary": "本日、AWS は AWS SDK for SAP ABAP Knowledge MCP Server の一般提供開始を発表しました。このリリース以前は、IDE と AWS ドキュメントの間でコンテキストスイッチを行い、汎用的な使用方法や例を基に自分で ABAP コードを作成する必要がありました。この...",
+      "published": "Fri, 08 May 2026 06:29:06 +0000",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "32c2f5cb8e9dec70b24b3be40ccd4900",
+      "title": "AWS For SAP Management MCP Server の発表 – SAP アプリケーションを AI で管理",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-aws-for-sap-management-mcp-server-manage-your-sap-applications-on-aws-using-ai/",
+      "summary": "AWS For SAP Management MCP Serverは、SAP の管理機能をAIアシスタントにもたらします。サーバーが持つ知識—SAPコンポーネントの依存関係、検証済みパターン、クロスサービスロジック—を1つのインターフェースに統合し、対話できるようにします。このMCPをAIアシスタン...",
+      "published": "Fri, 08 May 2026 06:05:55 +0000",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5df80440f208d26e727399995608ddf8",
+      "title": "Kiro Agent で SAP Clean Core ジャーニーを加速する",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-clean-core-journey-with-kiro-agents/",
+      "summary": "Kiro エージェントは、SAP Clean Core 戦略へのアプローチを変革します。Clean Core ジャーニーは通常、カスタムコードのアセスメント、違反の修正、そして今後の Clean Core 方式での運用という3つのフェーズで展開されますが、Kiro エージェントはそのすべてを加速でき...",
+      "published": "Fri, 08 May 2026 05:55:09 +0000",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "12110138543e5360680e43007def82f8",
+      "title": "はてな、約11億円の資金流出で特別調査委員会を設置 外部の専門家で構成",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news079.html",
+      "summary": "インターネット関連事業を手掛けるはてな（京都市中京区）は5月7日、不正な送金指示によって約11億円の資金が銀行口座から流出した件で、外部の専門家で構成する特別調査委員会を設置すると発表した。同日行われた取締役会で決議した。 特別調査委員会は、田辺総合法律事務所の中西和幸さんら、弁護士や公認会計士、公...",
+      "published": "2026-05-08T04:55:47Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aece762ceb1fbdd3a9991bde7775dbd5",
+      "title": "AIモデルの思考を言葉に翻訳する「自然言語オートエンコーダー」をAnthropicが発表",
+      "link": "https://gigazine.net/news/20260508-anthropic-natural-language-autoencoders/",
+      "summary": "ClaudeのようなAIモデルは内部的に単語を処理するとき、思考を符号化した長い数字の列「活性化値」として扱っており、解読するのは難解です。Anthropicは長年、活性化値を理解するために様々なツールを開発しており、新たに人間が読める自然言語に翻訳する「自然言語オートエンコーダー(Natural ...",
+      "published": "2026-05-08T05:22:04Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3698fc240af84c04606a151f560e3f77",
+      "title": "10億行のデータ処理に学ぶ、Rust/Go 低レイヤ最適化術（@yusuktan）【#も読】 - Findy Media",
+      "link": "https://findy-code.io/media/articles/modoku-yusuktan-202605",
+      "summary": "「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか、ちょっと覗いてみませんか？ みなさんこんにちは。 「あの人も読んでる」、第18回目の投稿です。maguro (X @yusuktan)がお届けします。 ...",
+      "published": "2026-05-08T01:59:55Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c120ff24ed589b0379858bde6246a587",
+      "title": "ソニー創立80周年「あらかじめ“ソニーらしい”というトーンがあってはならない」。井深大、盛田昭夫メッセージ",
+      "link": "https://av.watch.impress.co.jp/docs/news/2106753.html",
+      "summary": "",
+      "published": "2026-05-07T05:24:37Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0b91a2433bfcb310f25d563bad73ac1",
+      "title": "DirtyFrag: Linuxカーネルのローカル権限昇格脆弱性について現時点で分かっていること | ワルブリックス株式会社",
+      "link": "https://www.walbrix.co.jp/article/dirtyfrag-linux-lpe.html",
+      "summary": "2026-05-08 12:54:00 DirtyFrag: Linuxカーネルのローカル権限昇格脆弱性について現時点で分かっていること 2026年5月に公開されたLinuxカーネルのローカル権限昇格脆弱性 DirtyFrag について、影響、暫定緩和策を管理者向けに整理する。 先日の Copy F...",
+      "published": "2026-05-08T05:15:35Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13b28a30102459c42d393cf9361a7dff",
+      "title": "OpenAIがリアルタイム会話・通訳・文字起こしAIをリリース、「GPT-Realtime-2」「GPT-Realtime-Translate」「GPT-Realtime-Whisper」の3種",
+      "link": "https://gigazine.net/news/20260508-gpt-realtime-2-translate-whisper/",
+      "summary": "OpenAIがリアルタイム音声対話AI「GPT-Realtime-2」、リアルタイム音声翻訳AI「GPT-Realtime-Translate」、リアルタイム文字起こしAI「GPT-Realtime-Whisper」の3種を2026年5月7日にリリースしました。 Advancing voice in...",
+      "published": "2026-05-08T03:21:11Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b382af2f747d3039d414933a4efdb8b",
+      "title": "[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）] ドコモの通信品質、複雑化する新料金プラン、衛星通信のゆくえ――通信業界の「今」を識者が斬る",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2105969.html",
+      "summary": "",
+      "published": "2026-05-07T23:36:23Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5ce7757e4d60a5a44d32206137f9b69",
+      "title": "AI Slop is Killing Online Communities",
+      "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "Like a young child coming home from kindergarten with their latest crayon scrawls, the internet is currently awash with people sharing their AI-genera...",
+      "published": "2026-05-07T21:27:49Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "005429bf2bfed3f29e2cd03aa2bc7cee",
+      "title": "【業界の主流に逆らう】月 10,000 件の分析自動化 AI エージェントを 1 年運用してわかった、セマンティックレイヤーが要らない理由｜ほぽぷ｜AI Readyデータ基盤+AI分析エージェント",
+      "link": "https://note.com/hopop_data/n/nb8c235c108f2",
+      "summary": "【業界の主流に逆らう】月 10,000 件の分析自動化 AI エージェントを 1 年運用してわかった、セマンティックレイヤーが要らない理由 ほぽぷ です。 前回の note で、AI Ready なデータ基盤は 2 軸（ベーステーブル群 + コンテキスト&ハーネスエンジニアリング）+ ガードレールで...",
+      "published": "2026-05-07T17:50:56Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf83fce904cd3cbfb770b63b68f52335",
+      "title": "【イベントレポート】「プロダクト開発部交流会」を実施しました！ - ROXX開発者ブログ",
+      "link": "https://techblog.roxx.co.jp/entry/20260507",
+      "summary": "ROXX Tech Blogをご覧のみなさん、初めまして。 人事の酒井です。 2026年4月16日、全社総会「ROXX SUPER LIVE」の開催前に、プロダクト開発部のエンジニアがオフィスに集まり交流会を実施しました。 今回のメインテーマは、「開発者としてどうあるべきか」。 この一見抽象的なテー...",
+      "published": "2026-05-07T03:28:23Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "96b83d9f699b755b20d993bb40a92ca2",
+      "title": "Multi-stroke text effect in CSS",
+      "link": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "summary": "I used to see that retro multi-stroke text effect quite often and tried to replicate it using the CSS text-stroke property, but the results never quit...",
+      "published": "2026-05-06T23:52:47Z",
+      "fetched_at": "2026-05-08T07:18:52.058431+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-08T05:52:28.226598+00:00"
+  "updated_at": "2026-05-08T07:18:52.058431+00:00"
 }

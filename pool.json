@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "417dde12159c14003c5657fd91b10107",
-      "title": "",
-      "link": "https://blog.flatt.tech/entry/mini_shai_hulud",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Mini Shai-Hulud の概要と対応指針（2026年4月末 連続パッケージ侵害）",
-      "published": "07 May 2026 23:55 +0000",
-      "fetched_at": "2026-05-08T02:15:19.856188+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1f33fa12dc19fae0bcec8193fb54313a",
       "title": "",
       "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0909",
@@ -349,7 +339,157 @@
       "fetched_at": "2026-05-09T06:10:15.324982+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "4816d8e33863081d1aee0a4adcb5e614",
+      "title": "",
+      "link": "https://dev.henry.jp/entry/2026/04/30/170505",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「医療 × SRE」、両方初心者の私から見たヘンリーとは",
+      "published": "09 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0f8daef1c2dfb1bc06c88a070f9c760",
+      "title": "",
+      "link": "https://future-architect.github.io/articles/20260427a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 分散システム入門: 信頼性の低いネットワークを再現してみる | フューチャー技術ブログ",
+      "published": "09 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b89c267f51bd9121cee44e8938f0e44b",
+      "title": "",
+      "link": "https://tech.pepabo.com/2026/05/01/minne-order-by-limit-pitfall/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ORDER BY id DESC が招くインデックス誤選択 — 直近のレコードを N 件取り出すクエリを実測 約 658 倍に高速化",
+      "published": "09 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1329dfacad4bd5c8fd06c396108b9002",
+      "title": "",
+      "link": "https://nulab.com/ja/blog/nulab/rewriting-webdav-from-apache-perl-to-go/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Apache + Perl の WebDAV 実装を Go に刷新した話 — 実装より難しかった「移行設計」 | 株式会社ヌーラボ(Nulab inc.)",
+      "published": "09 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbc85d1422693f83b24e6101b9a62a6d",
+      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+      "link": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/ Comments URL: https://news.ycombinator.com...",
+      "published": "Sat, 09 May 2026 05:52:12 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "772fa466a3960088a1c622b2775486de",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven... Comments URL: https://...",
+      "published": "Sat, 09 May 2026 04:53:52 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f80c9797a37f575873db8c2ae5225cca",
+      "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+      "link": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+      "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml Comments URL: https://news.ycombinat...",
+      "published": "Sat, 09 May 2026 03:21:06 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfbcbe75159daecaca169991bddc818f",
+      "title": "Show HN: Git for AI Agents",
+      "link": "https://github.com/regent-vcs/re_gent",
+      "summary": "hi guys. been working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions tha...",
+      "published": "Fri, 08 May 2026 14:15:36 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "803e887a0a00ad20930ab11931050e74",
+      "title": "Build with Kiro: コミュニティハブと Kiro Labs のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-community-and-labs/",
+      "summary": "Kiro コミュニティは、日々新たなものを生み出し続けています。境界を押し広げるハッカソンプロジェクトから、カスタムフック、創造的なエージェントワークフロー、そして SNS や Discord で共有される MCP インテグレーションまで、皆さんは私たちの想像を超える場所へ Kiro を連れて行って...",
+      "published": "Sat, 09 May 2026 06:38:14 +0000",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b677142bc4ef98f81501d29a22680ba5",
+      "title": "2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition",
+      "link": "https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition",
+      "summary": "2026年のソフトウェア開発を考える（2026/05版） Scrum Fest Niigata 2026 2026年5月8日（金） https://www.scrumfestniigata.org/",
+      "published": "2026-05-09T04:36:54Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab4cd86e5d636c9b6b98b54aa5d87ef0",
+      "title": "フロントエンドの相手が変わった - AIが加わったWebの新しいインターフェース設計",
+      "link": "https://speakerdeck.com/azukiazusa1/hurontoendonoxiang-shou-gabian-watuta-aigajia-watutawebnoxin-siiintahuesushe-ji",
+      "summary": "フロントエンドエンジニアがこれまで向き合ってきた相手は、人間でした。しかしAIの登場によって、この前提が変わりつつあります。 AIはWebの出力者になりました。ストリーミングで流れるチャットUIが注目を集め、インタラクティブなUIを返せるMCP Appsも登場しています。 同時にAIはWebの消…",
+      "published": "2026-05-09T04:54:36Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd1f9647ad6a986095cea126f53f198a",
+      "title": "Ruby Concurrency: What Actually Happens",
+      "link": "https://paolino.me/ruby-concurrency-what-actually-happens/",
+      "summary": "Since I wrote about async Ruby and patched Solid Queue to support fibers, people keep asking the same questions. What happens when a fiber blocks? Don...",
+      "published": "2026-05-09T06:17:19Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38862a091667faf76f39ec19317b25c6",
+      "title": "RaTeX — Rust math layout aligned with KaTeX golden tests",
+      "link": "https://ratex.lites.dev/",
+      "summary": "Rust · WASM · Native TeX-quality math from one Rust layout core RaTeX parses LaTeX math, applies TeX-style rules, and emits a flat display list for Co...",
+      "published": "2026-05-07T13:42:21Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "951f3d0810f452017faa49be59b31364",
+      "title": "科学者があらゆる血液型に適合する「万能腎臓」を開発",
+      "link": "https://gigazine.net/news/20260509-universal-kidneys/",
+      "summary": "患者の血液型とは異なるドナーから腎臓を移植できるようにする技術が開発され、理論上はどの患者にも受け入れられる腎臓が作られたことが分かりました。腎移植を待つ患者の待機時間を大幅に短縮し、多くの命を救う可能性があります。 Enzyme-converted O kidneys allow ABO-inco...",
+      "published": "2026-05-08T23:41:52Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08239729b03b737825a1d2b8d3efe05e",
+      "title": "AIにデータを読み込ませて処理を速くしたり、精度を上げたりする時代はもう終わり～理化学研究所 上田 修功さん - 大学ジャーナルオンライン",
+      "link": "https://univ-journal.jp/column/2026996917/",
+      "summary": "ChatGPTや画像生成など、誰もがAIを「便利なツール」として使いこなす時代。そんなAIブームの遥か前から基礎研究に携わってきたのが、日本の機械学習を牽引する上田修功先生。2024年にノーベル物理学賞を受賞したジェフリー・ヒントン教授のもとで招聘研究員を務めるなど、AI黎明期からその歴史と共に歩ん...",
+      "published": "2026-05-08T22:46:48Z",
+      "fetched_at": "2026-05-09T09:11:01.627907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-09T06:10:15.324982+00:00"
+  "updated_at": "2026-05-09T09:11:01.627907+00:00"
 }

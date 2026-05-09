@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1f33fa12dc19fae0bcec8193fb54313a",
-      "title": "",
-      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0909",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 第909回 Ubuntu 26.04 LTSの変更点 ［24.04→26.04 LTS編］ | gihyo.jp",
-      "published": "08 May 2026 10:55 +0000",
-      "fetched_at": "2026-05-08T11:05:15.221951+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f8925a84a017c5c3833d2301488ab893",
       "title": "",
       "link": "https://developers.gmo.jp/technology/82862/",
@@ -719,7 +709,57 @@
       "fetched_at": "2026-05-09T14:43:14.458932+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "dfc4a7c06394571a82cdff6c9dea6d24",
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "link": "https://arxiv.org/abs/2604.15597",
+      "summary": "Article URL: https://arxiv.org/abs/2604.15597 Comments URL: https://news.ycombinator.com/item?id=48073246 Points: 158 # Comments: 52",
+      "published": "Sat, 09 May 2026 08:44:34 +0000",
+      "fetched_at": "2026-05-09T16:43:20.247938+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25cd9c15ceba0212d3ec1ccfcf74249c",
+      "title": "Anthropicがバグ報奨金プログラムを誰でも参加可能に変更、最高1万ドルの報奨金を約束",
+      "link": "https://gigazine.net/news/20260508-anthropic-bug-bounty-program/",
+      "summary": "AIモデル「Claude」シリーズの開発元として知られるAnthropicが、バグ報奨金プログラムを一般公開しました。これまではセキュリティ研究者のみが報告可能でしたが、今後は誰でもプログラムに参加して、バグを報告して報奨金を受け取ることができるようになります。 Our security bug b...",
+      "published": "2026-05-08T13:36:27Z",
+      "fetched_at": "2026-05-09T16:43:20.247938+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5222217c24d920128f2524930517bd41",
+      "title": "Linux KernelのLPE(Local Privilege Escalation)脆弱性(Dirty Frag: CVE-2026-43284, CVE-2026-43500) - SIOS SECURITY BLOG",
+      "link": "https://security.sios.jp/vulnerability/kernel-security-vulnerability-20260508/",
+      "summary": "05/08/2026にLinux KernelのLPE(Local Privilege Escalation)脆弱性(Dirty Frag: CVE-2026-43284, CVE-2026-43500)が公開されました。9年前からxfrm-ESP/rxRPCモジュールに脆弱性がある模様です。Dir...",
+      "published": "2026-05-08T08:31:22Z",
+      "fetched_at": "2026-05-09T16:43:20.247938+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce85014ef213744df7a952c8e96b576a",
+      "title": "",
+      "link": "https://github.com/bytedance/UI-TARS-desktop",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 bytedance / UI-TARS-desktop ⭐ 31,096 (+850) 🗒 TypeScript The Open-Source Multimodal AI Agent Stack: Connecting Cut...",
+      "published": "09 May 2026 16:16 +0000",
+      "fetched_at": "2026-05-09T16:43:20.247938+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a16b8c21c865ee7cb89bc50ad4894b45",
+      "title": "",
+      "link": "https://github.com/playcanvas/supersplat",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 playcanvas / supersplat ⭐ 5,977 (+513) 🗒 TypeScript 3D Gaussian Splat Editor",
+      "published": "09 May 2026 15:16 +0000",
+      "fetched_at": "2026-05-09T16:43:20.247938+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-09T14:43:14.458932+00:00"
+  "updated_at": "2026-05-09T16:43:20.247938+00:00"
 }

@@ -439,7 +439,227 @@
       "fetched_at": "2026-05-10T10:56:15.683996+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "88a45a8c0c27ecefa474e0d943ddeb0e",
+      "title": "",
+      "link": "https://github.com/openchamber/openchamber",
+      "summary": "オープンソースでCLIベースなAIエージェントOpenCodeのリッチクライアント。TUI、macOSアプリ、vscode、ブラウザからアクセス可能と。ブラウザはスマートフォンからもokなPWA仕様と。",
+      "published": "10 May 2026 12:44 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bce0c739d24747b2e96914786305391",
+      "title": "",
+      "link": "https://github.com/guriandoro/pg_enhanced_query_logging",
+      "summary": "MySQL(Percona Server)のスロークエリー形式でログ出力ができるPostgreSQL拡張。これの何が嬉しいかと、pt-query-digestに食わせることができるのだ。わいわい。",
+      "published": "10 May 2026 12:37 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad6941f690fa027250090e78a3d49fd8",
+      "title": "",
+      "link": "https://portablecode.info/2026/05/08/low-cost-ai-coding/",
+      "summary": "自分はケチなのでこの路線でいきたい。わいわい。",
+      "published": "10 May 2026 12:31 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0026a6534cfbaaa90b08e8106ecf630",
+      "title": "",
+      "link": "https://openssl-library.org/post/2026-05-07-future-release/?utm_source=atom_feed",
+      "summary": "先日OpenSSL 4.0がリリースされたけど、あれLTSじゃないのね。今のLTSは3.5で、次のLTSは4.2と。",
+      "published": "10 May 2026 12:28 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "812eed39f163990e6e161447827df6d3",
+      "title": "",
+      "link": "https://zenn.dev/kimuson/articles/pi-coding-agent-with-opencode-go",
+      "summary": "「pi はかなりシンプルに設計された Agent CLI であり、最低限のビルドインツールと AGENTS.md, skills のみのミニマムな構成」最近Piって文字をよく見かけてたけど、これだったのか。",
+      "published": "10 May 2026 12:27 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1a7436726de5a00f3cac74e952a6932",
+      "title": "SSHポートフォワーディングを劇的に快適にする「MolePort」完全ガイド【導入から活用まで】",
+      "link": "https://zenn.dev/nonejp/articles/moleport-introduction",
+      "summary": "Go実装のCLI/TUIツール。ほう",
+      "published": "10 May 2026 12:24 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e5a1af9f00f291282c2b48b6f8964ef",
+      "title": "Claude Codeで学ぶ Agent Skills入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15698-5",
+      "summary": "2026年6月8日発売",
+      "published": "10 May 2026 12:23 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "175b122cea35b572a37a63a69a073c54",
+      "title": "",
+      "link": "https://blog.cloudflare.com/ja-jp/agents-stripe-projects/",
+      "summary": "どうしても今の時代背景から「エージェントでできます」を強調する記事にはなっているが、ドメイン購入をAPIを通してできるところがポイントか。Stripe連携でクレジットカード情報をエージェントに渡さなくていいと。",
+      "published": "10 May 2026 12:22 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c38b4f72a5d63b60a88154f51b235c5e",
+      "title": "",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-x-ray-sdks-daemon-migration-to-opentelemetry/",
+      "summary": "AWS X-Ray SDK と Daemon は、すでにメンテナンスモード。OpenTelemetryへの移行推奨。",
+      "published": "10 May 2026 12:16 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f324de513c92e91b02cca6527c30608e",
+      "title": "シンプリシティ - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401710/",
+      "summary": "2026年6月2日発売",
+      "published": "10 May 2026 12:14 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "562c9f78b5b2013ee12908d4dcec83d3",
+      "title": "",
+      "link": "https://zenn.dev/ojt/articles/terraform-review-flow-design",
+      "summary": "planの結果は細かくみる癖をつけるの大事。\"+\" \"-\" だけでなく \"~\" の部分も注視する必要がある。が、それこそAIの方が得意かなこういうの。",
+      "published": "10 May 2026 12:12 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47be93869dece987a45290c7de97bd6b",
+      "title": "",
+      "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+      "summary": "AIがデータベースが消したのではない、お前が消したのだ。はい。",
+      "published": "10 May 2026 12:06 +0000",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c0650e407fe58b7bd9aa43061c8cebb",
+      "title": "sqlfu",
+      "link": "https://sqlfu.dev/",
+      "summary": "Your schema as SQL Edit definitions.sql to the shape you want. sqlfu draft compares that desired schema with replayed migration history, shows the sma...",
+      "published": "2026-05-10T05:45:49Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9924d79eed0d6a8f414b6d829fcd2b52",
+      "title": "｢自作キーボード｣界隈のおとなり｢論理配列｣界隈。日本語の入力効率を爆上げしてくぜ",
+      "link": "https://www.gizmodo.jp/2026/05/naginata-ime.html",
+      "summary": "｢自作キーボード｣界隈のおとなり｢論理配列｣界隈。日本語の入力効率を爆上げしてくぜ2026.05.10 13:006,464 田中宏和 突然ですが、キーボード好きですか？ 私は大好きです！ ここのところギズモード・ジャパンのスタッフも、自作キーボードとか新機軸トラックボール｢Nape Pro｣で盛り...",
+      "published": "2026-05-10T06:38:20Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13928f97eb2abf49f4fa49d75ee5191a",
+      "title": "TransformerのSelf AttentionのQKVを直感的に解説する - Qiita",
+      "link": "https://qiita.com/kenmatsu4/items/1b3853a3314ab66eb2a3",
+      "summary": "こんにちは、DeNAでデータサイエンティストをやっているまつけんです。 今回は、Transformerの中で重要な役割を果たしているSelf Attention、特にQKVの仕組みについて直感的に理解できるように解説してみます。 Transformer、特にGPTなどの生成モデルでは のようなSel...",
+      "published": "2026-05-10T05:04:46Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51479cbf79a9104b9ed1342036690043",
+      "title": "CodexをローカルLLMで駆動する",
+      "link": "https://zenn.dev/robustonian/articles/codex_with_local_llm",
+      "summary": "#!/usr/bin/env bash set -euo pipefail fuser -kvn tcp 8080 usage() { cat <<'EOF' Usage: ./lms-load-and-serve.sh Example: ./lms-load-and-serve.sh ../mod...",
+      "published": "2026-05-10T09:41:52Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1855d08591884d72cea2604d88c6af29",
+      "title": "「1人社長×AI」時代の到来",
+      "link": "https://project.nikkeibp.co.jp/onestep/keyperson/00063/",
+      "summary": "生成AIが起業の姿を変え始めた。1人の社長が複数のAIを使いこなす、「1人社長×AI」による起業の時代の到来である。既に米国では、「1人社長×AI」と同義の「ソロプレナー」が当たり前の存在となり、ソロプレナーによるユニコーン（時価総額が10億米ドル以上の未上場企業）の登場も予想されている。日本でいち...",
+      "published": "2026-05-10T06:01:52Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30a6929c82d62dd14ba25bb18c742b11",
+      "title": "ISUNARABE 合同演習 2026 やったこと - ichyo::blog",
+      "link": "https://blog.ichyo.jp/posts/isunarabe2026",
+      "summary": "ISUNARABE 合同演習 2026 に参加しました。 久しぶりの ISUCON 形式のコンテストを楽しみにしすぎて、ゴールデンウィークのほとんどを準備に溶かしてしまいました。準備が実を結んで良かったです。コンテストを開催していただきありがとうございました。 AI ありのコンテストだったので、コー...",
+      "published": "2026-05-10T02:29:26Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f1bb0c9cac75cdec0c390d3da7198b8",
+      "title": "中国で自動運転タクシー100台が公道で一斉停止、大パニックに | 自動運転ラボ",
+      "link": "https://jidounten-lab.com/u_60534",
+      "summary": "■武漢の環状道路が「巨大な駐車場」に！100台超のフリーズ劇事件が起きたのは交通量の多いラッシュ時。武漢市の主要な環状道路で、走行中だった「Apollo Go」の車両が、まるで見えない壁にぶつかったかのように次々と停車した。 一部の車両では「システム異常により走行を継続できない」とのアナウンスが流れ...",
+      "published": "2026-05-10T09:15:59Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fe03eb9fa2bd3a98d5b04e89ac8e68b",
+      "title": "00年代のIT業界最大のバズワード「XML」は現在どうなったのか？",
+      "link": "https://zenn.dev/pdfractal/articles/89b1943aef64fe",
+      "summary": "はじめに 2000年代のIT業界で最大級のバズワードを一つ挙げるなら、XMLは間違いなく有力候補です。UML、SOAP、WSDL、MDA、Ajax、Webサービス、エンタープライズJava、.NET、Office文書形式、各種設定ファイルまで、当時のXMLは単なるデータ形式ではなく、あらゆるものをつ...",
+      "published": "2026-05-09T20:01:25Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e665caa78480c9667e26089d1d1391e",
+      "title": "バグハンター視点によるソフトウェアサプライチェーン入門 - blog of morioka12",
+      "link": "https://scgajge12.hatenablog.com/entry/supplychain_bughunter",
+      "summary": "はじめに こんにちは、morioka12 です。 本記事は、バグハンターの視点でソフトウェアサプライチェーン (Software Supply Chain)について解説する入門ブログです。 なお、本記事は昨年の LT 発表「バグハンター視点によるサプライチェーンの脆弱性」（「あなたの知らない ”サプ...",
+      "published": "2026-05-09T09:37:55Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a026705d111f13380d9f29803cf24f97",
+      "title": "GoogleのAI「AlphaEvolve」が1年でDNA解析・電力網・量子計算・物流まで最適化、アルゴリズム発見AIの実績まとめ",
+      "link": "https://gigazine.net/news/20260508-google-deepmind-alphaevolve/",
+      "summary": "Google DeepMindが、Geminiを活用したアルゴリズム発見AI「AlphaEvolve」の1年間の成果を公開しました。 AlphaEvolve: Gemini-powered coding agent scaling impact across fields — Google Deep...",
+      "published": "2026-05-08T09:09:15Z",
+      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-10T10:56:15.683996+00:00"
+  "updated_at": "2026-05-10T13:00:45.835108+00:00"
 }

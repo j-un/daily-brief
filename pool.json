@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e69d32154ed1c420899cd3186a1581d9",
-      "title": "",
-      "link": "https://tech.layerx.co.jp/entry/articulatin_quality",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み",
-      "published": "09 May 2026 02:55 +0000",
-      "fetched_at": "2026-05-09T06:10:15.324982+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8a43caaab0e5d7ac2d48d8b5ffe6c19a",
       "title": "",
       "link": "https://www.keisuke69.net/entry/2026/05/02/173529",
@@ -369,7 +359,87 @@
       "fetched_at": "2026-05-10T09:23:21.630908+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "718826155fda5da48e70fff54f5bac3c",
+      "title": "",
+      "link": "https://www.zdnet.com/article/open-source-repositories-are-being-overwhelmed-but-there-is-an-answer/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 10 trillion downloads are crushing open-source repositories - here's what they're doing about it",
+      "published": "10 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24d8d2f0d673d7220ad944a73fa1f36b",
+      "title": "Gemini API File Search is now multimodal",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/ Comments URL: https://n...",
+      "published": "Sun, 10 May 2026 03:22:02 +0000",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3b6bd817ae92ccb2c76dfc81bf3ce51",
+      "title": "[アップデート] AWS公式 AIコーディングエージェント向けのSkill集「Agent Toolkit for AWS」の提供を開始！ | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/",
+      "summary": "",
+      "published": "2026-05-10T05:53:48Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b3b17f65d33cb30da9349051c14b59e",
+      "title": "なぜ「こどもAI教室」ではなく「AIゲームセンター」であるべきなのか｜shi3z",
+      "link": "https://note.com/shi3zblog/n/nd3c1de46eb7b",
+      "summary": "クラウドファンディング「AIゲームセンター構想」がクラファンだけでなく、色々な地方自治体や地方を拠点とした企業から問い合わせを受け始めている。 その中で、「なぜAI教室ではなくAIゲームセンターなのか」という質問をいただくことがちらほらあったので、とりあえず自分の思いを整理しておくためにここに書いて...",
+      "published": "2026-05-09T06:09:39Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7967e8c671bfa33ca03330abc2b34a19",
+      "title": "Beancountによるテキストベース家計簿 - 辺境の日々 (旧:世界線航跡蔵)",
+      "link": "https://blog.yugui.jp/entry/2026/05/09/121739",
+      "summary": "しばらく前から家計簿をbeancountで管理しているので紹介したい。 beancountは「コードを書く人向けのテキストベースの複式簿記フォーマット」とでも言うべきものだ。Getting Startedあたりを読むと分かるとおり、次のようなテキスト形式にて記帳してことになる。 2026-05-09...",
+      "published": "2026-05-09T04:10:53Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "291616640bc581204609d14beceaa07a",
+      "title": "ゼロからデータ基盤構築をした時の失敗談：すべては要件定義できまる",
+      "link": "https://zenn.dev/ivry/articles/data-engineer-principles",
+      "summary": "こんにちは、IVRyでデータエンジニアとして働いている松田健司（@ken_3ba）です。趣味はビリヤードで、プロの試合にも出るぐらい割とガチでやっています。 ビリヤードが盛んな国はどこかご存知でしょうか。アメリカやヨーロッパが盛んなイメージかと思いますが、実はフィリピンや台湾といったアジアでも人気で...",
+      "published": "2026-05-09T07:00:36Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff680df8c417a852f47d58805a4ebdc8",
+      "title": "テスラのCybertruckがまたもやリコール、2024～2026年に販売された18インチスチールホイール装着モデルでホイール故障のリスクあり",
+      "link": "https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/",
+      "summary": "テスラがCybertruckの一部モデルでリコールを発表しました。リコール対象となるのは「2024年から2026年にかけて販売された18インチスチールホイールを装着したCybertruck」ですが、対象車両の数はわずか173台です。 Part 573 Safety Recall Report htt...",
+      "published": "2026-05-10T01:15:58Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d29d8a46c8dbb2a8c7841dc4c9a577f",
+      "title": "AI開発でPostgreSQLが定番になった”切実な”理由",
+      "link": "https://techtarget.itmedia.co.jp/tt/news/2605/08/news07.html",
+      "summary": "企業のデータベース戦略が変わり始めている。これまでオープンソースのデータベースは「コストを抑えるための代替手段」と見なされることが多かった。しかし近年は、AI（人工知能）時代を見据えた“戦略的な基盤”として採用する企業が増えている。その中心にあるのが「PostgreSQL」だ。なぜ今PostgreS...",
+      "published": "2026-05-09T04:22:51Z",
+      "fetched_at": "2026-05-10T10:56:15.683996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-10T09:23:21.630908+00:00"
+  "updated_at": "2026-05-10T10:56:15.683996+00:00"
 }

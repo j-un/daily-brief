@@ -289,7 +289,87 @@
       "fetched_at": "2026-05-10T06:28:52.794428+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "0b290062f8f912f13775052c21a47726",
+      "title": "",
+      "link": "https://zenn.dev/ikaro1192/articles/serverspec-dhall",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Serverspecの入力層をDhallに置き換える — PanInfraSpecの設計と意図",
+      "published": "10 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a10a123e00c34b7d032acc08ddc3664",
+      "title": "",
+      "link": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "published": "10 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bbca47c748558ebcc3439810d25981c",
+      "title": "Debian must ship reproducible packages",
+      "link": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html Comments URL: https://news.ycombinator.com/item?id=48081245 Points: ...",
+      "published": "Sun, 10 May 2026 05:26:03 +0000",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f012856cfb27bf6171249928292c761f",
+      "title": "Amazon ElastiCache での集計機能のお知らせ",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-aggregations-on-amazon-elasticache/",
+      "summary": "本ブログでは、Amazon ElastiCache の新機能である集計クエリ (aggregations) についてご紹介します。ElastiCache version 9.0 for Valkey で利用可能になったこの機能により、フィルタリング、グループ化、集計をキャッシュ内で直接実行でき、マイ...",
+      "published": "Sun, 10 May 2026 06:49:05 +0000",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8373f2a063242ee97824b773d1273e8",
+      "title": "中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ",
+      "link": "https://jidounten-lab.com/u_62109",
+      "summary": "2026年4月29日、中国政府は自動運転車の新規許可証発行を無期限で停止したとBloombergが報じた。既存サービスは継続できるものの、新たなロボタクシーの増車・新テスト計画・新都市への参入という「成長の3条件」がすべて封じられた形だ。 引き金となったのは3月31日夜に武漢で起きた百度（バイドゥ）...",
+      "published": "2026-05-09T23:49:59Z",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6df0f9b749ac6e8ff1060ab8f6e7072",
+      "title": "人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する",
+      "link": "https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook",
+      "summary": "はじめに X 上で見かけた 「もう Markdown じゃなくて HTML でドキュメント書いた方がよくない？」 系の議論（@trq212 のポスト等）には、まったく同感です。 というのも、自分は もう半年ほど前から、Claude CodeにHTMLでドキュメント生成させています。エージェントを使え...",
+      "published": "2026-05-10T04:33:14Z",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40cfc506247518a02c8d10e56a8aa1f2",
+      "title": "ヤマハ、DXはなぜ失敗した？「大きなDX」と「小さなDX」で再構築へ",
+      "link": "https://news.mynavi.jp/techplus/article/20260403-4258506/",
+      "summary": "コロナ禍の巣ごもり需要の反動による需要減、中国の教育方針の転換によるピアノの販売数激減、さらにトランプ関税の影響など、環境の変化により苦境が続くヤマハ。同社は、2025年度からの中期経営計画で「Rebuild（再構築）& Evolve（進化）」というテーマを打ち出し、適正規模で需要変動に強い生産体制...",
+      "published": "2026-05-09T15:28:33Z",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dc333c050d671050b8396fbada1c4d9",
+      "title": "モンキー・Ｄ・ルフィと反キリスト 惑星的なものにかんする覚書 第7回｜ユク・ホイ 訳＝伊勢康平",
+      "link": "https://webgenron.com/articles/article20260507_01",
+      "summary": "★＝原注 ☆＝訳注 ［ ］＝著者補足 〔 〕＝訳者補足 §１ 2026年3月、パランティア〔Palantir〕の創業者であるピーター・ティールがローマを訪れ、ルネサンス期にオルシーニ家が建造させたタベルナ宮で連続講演を行なった。テーマは反アンチキリストと西洋についてである。アメリカとイランが戦争をし...",
+      "published": "2026-05-10T05:58:02Z",
+      "fetched_at": "2026-05-10T09:23:21.630908+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-10T06:28:52.794428+00:00"
+  "updated_at": "2026-05-10T09:23:21.630908+00:00"
 }

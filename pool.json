@@ -109,7 +109,187 @@
       "fetched_at": "2026-05-10T02:10:09.767005+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d388bdf83b33645255f8a45b5e601d04",
+      "title": "",
+      "link": "https://zenn.dev/kusuke/articles/25330f7759eba4",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件",
+      "published": "10 May 2026 05:55 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e17c1e0f4944522976f785a0429e3544",
+      "title": "",
+      "link": "https://bsky.app/profile/netmarkjp.bsky.social/post/3mlhv6bmai224",
+      "summary": "ゴールデンウィークはAI Agentの本を読んでました。 最終的にはPDFをNotebookLMに取り込んでディスカッション 『組織がAI Agentによる自動化と人員削減を同時に進めると、低確率高影響リスクや顕在化していない高影響リスクに対する組織的な備えが構造的に不足しやすくなる』 過去の他業界...",
+      "published": "10 May 2026 04:08 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6caea02dec06baa2e6f9f905e5d940da",
+      "title": "",
+      "link": "https://records.dodgson.org/2026/05/03/pi-auto-close/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 \"All issues and PRs from new contributors are auto-closed by default.\" - Spinach Forest",
+      "published": "10 May 2026 03:56 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "482b39f2892ca596a1681ac9f33f09fd",
+      "title": "",
+      "link": "https://www.ryuzee.com/contents/blog/14616",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 機能追加と機能削除の非対称性",
+      "published": "10 May 2026 02:56 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f942c5515925a63166d8204c3e8219c",
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "link": "https://github.com/imtomt/ymawky",
+      "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and s...",
+      "published": "Sun, 10 May 2026 03:01:44 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "937483e44ad620ff26d1b4a9ce1b265c",
+      "title": "France moves to break encrypted messaging",
+      "link": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 1...",
+      "published": "Sat, 09 May 2026 22:14:35 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "290864bea4ed979d715b7b9f0be14411",
+      "title": "Show HN: Rust but Lisp",
+      "link": "https://github.com/ThatXliner/rust-but-lisp",
+      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://news.ycombinator.com/item?id=48078575 Points: 114 # Comments: 61",
+      "published": "Sat, 09 May 2026 21:46:27 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b487b0728bb63bdba3f89758a143efa2",
+      "title": "Local privilege escalation via execve()",
+      "link": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc Comments URL: https://news.ycombinator.com/item?id=48077971 Points:...",
+      "published": "Sat, 09 May 2026 20:31:21 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2aef9bf8ac0386e539a321260d46d2e8",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "link": "https://github.com/nooga/let-go",
+      "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - th...",
+      "published": "Sat, 09 May 2026 17:52:13 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3ab1e4042e2351a81f4b5d172933f79",
+      "title": "128GB超メモリMac専用の巨大LLMエンジン「ds4」はローカル推論の常識をどう書き換えるのか。284BのDeepSeek V4 FlashをM4 Max 128GB MacBook Proの自作AIに組み込んでみた（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/05/10/5049.html",
+      "summary": "Redisの作者であるSalvatore Sanfilippo（antirez）が、5月初旬にGitHubへひっそりと新しいリポジトリを公開しました。名前は『ds4』。DeepSeek V4 Flash専用のローカル推論エンジンです。",
+      "published": "Sun, 10 May 2026 12:45:24 +0900",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "9afe83499e6cb5bb74c125f49206fc39",
+      "title": "Amazon ElastiCache での全文検索、完全一致検索、範囲検索、ハイブリッド検索",
+      "link": "https://aws.amazon.com/jp/blogs/news/enhanced-search-for-amazon-elasticache/",
+      "summary": "本ブログでは、Amazon ElastiCache for Valkey 9.0 で新たに利用可能になった全文検索、完全一致検索、数値範囲検索、ハイブリッド検索の機能をご紹介します。別途検索サービスを用意することなく、キャッシュ内で直接マイクロ秒単位の低レイテンシかつ毎秒数百万クエリのスループットで...",
+      "published": "Sun, 10 May 2026 06:16:29 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ca30acdc9ee4e56b29a0ef840dfca73",
+      "title": "Valkey が 2 周年を迎えました",
+      "link": "https://aws.amazon.com/jp/blogs/news/valkey-turns-two/",
+      "summary": "本ブログでは、オープンソースの高性能キーバリューデータストアである Valkey の誕生 2 周年を振り返り、その急速な成長とコミュニティ主導のイノベーションについてご紹介します。Amazon ElastiCache for Valkey における Intuit、Tinder、Peloton などの...",
+      "published": "Sun, 10 May 2026 03:46:28 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e8776b6b7352a430abc4c1f591fb2cd",
+      "title": "Amazon ElastiCache 向け Valkey 9.0 のお知らせ",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-valkey-9-0-for-amazon-elasticache/",
+      "summary": "本ブログでは、Amazon ElastiCache で利用可能になった Valkey 9.0 の新機能についてご紹介します。フルテキスト検索やベクトル検索、ハイブリッドクエリを組み合わせた高度な検索機能、パイプライン処理で最大40％のスループット向上、ハッシュフィールド単位の TTL 設定、クラスタ...",
+      "published": "Sun, 10 May 2026 03:03:56 +0000",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f02f45c3c491fb30994e9705109b25b",
+      "title": "Claude Codeを\"使いこなす\"ための個人ルール設定 - 実際にやって効果が高かった設定",
+      "link": "https://zenn.dev/dotdtech_blog/articles/92348ee48cc692",
+      "summary": "はじめに Claude Codeを使い始めて数ヶ月、便利だなと思いつつも「同じ指示を何度も書いてないか？」「無駄な前置きを毎回読まされてないか？」と感じる場面が増えてきました。 AIに作業を任せるのは便利ですが、AIを使うこと自体に発生するタイムロスに目を向けると、まだまだ効率化の余地があると気づき...",
+      "published": "2026-05-09T04:15:58Z",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b338135bd4d5cb790f32b7b01cc47c5b",
+      "title": "AIが書くならMarkdownじゃなくHTMLのほうがいいのでは、という話 - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/05/09/164006",
+      "summary": "たしかに～となった。 Markdownは人間が書きやすくするために表現力を落としてる。でもAIが書くのであれば、わざわざ表現力を落としたMarkdownを使う必要がない、という話。 HTML is the new markdown. I've stopped writing markdown fil...",
+      "published": "2026-05-09T14:34:02Z",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58d44043f966ede66a619f10329b7fcc",
+      "title": "ユーザーストレスを低減するローディング体験の4原則",
+      "link": "https://zenn.dev/akfm/articles/better-loading-ux",
+      "summary": "昨今AI Agentの進化は凄まじく、ある程度AI Agent任せでもそれなりに良いUIが実装できるようになってきました。一方UX[1]を細かく作り込むには、AI Agentは明確な指示を必要とします。特にローディング体験[2]は細かい指示がなくともAI Agentがある程度よしなに実装してくれます...",
+      "published": "2026-05-10T01:59:19Z",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5582a3d345d19846312d98df507aaa05",
+      "title": "Gemma 4 MTP を DGX Spark で動かして日本語生成の高速化を実測してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-gemma4-mtp-multi-token-prediction-bench/",
+      "summary": "はじめに こんにちは、クラスメソッド製造ビジネステクノロジー部の森茂です。 先日の Gemma 4 ベンチマーク記事 の続編です。Google が 2026-05-05 に発表した Gemma 4 MTP（Multi-Token Prediction）を DGX Spark で動かしてみました。 ざ...",
+      "published": "2026-05-09T15:44:34Z",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34812d26f9924932630065ae01bd5936",
+      "title": "レガシーシステムとチェスタトンのフェンス（Chesterton's Fence）──変えていいもの、変えるべきでないもの - そこに仁義はあるのか(仮)",
+      "link": "https://syobochim.hatenablog.com/entry/2025/02/23/165022",
+      "summary": "システム設計やソフトウェア開発をしていると、目の前の仕組みが時代遅れに見えたり、不便に感じたりすることがよくあります。「この設計、なんでこんなに複雑なんだ？😡」と、つい現状を悪く捉えがちです。 そして、気づけば「丸ごと変えてしまおう☝️💡」という流れになってしまうことも少なくありません。 特に最新技...",
+      "published": "2026-05-09T13:05:05Z",
+      "fetched_at": "2026-05-10T06:28:52.794428+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-10T02:10:09.767005+00:00"
+  "updated_at": "2026-05-10T06:28:52.794428+00:00"
 }

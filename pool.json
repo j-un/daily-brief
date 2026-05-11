@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6e5a1af9f00f291282c2b48b6f8964ef",
-      "title": "Claude Codeで学ぶ Agent Skills入門 | 技術評論社",
-      "link": "https://gihyo.jp/book/2026/978-4-297-15698-5",
-      "summary": "2026年6月8日発売",
-      "published": "10 May 2026 12:23 +0000",
-      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c38b4f72a5d63b60a88154f51b235c5e",
-      "title": "",
-      "link": "https://aws.amazon.com/jp/blogs/news/aws-x-ray-sdks-daemon-migration-to-opentelemetry/",
-      "summary": "AWS X-Ray SDK と Daemon は、すでにメンテナンスモード。OpenTelemetryへの移行推奨。",
-      "published": "10 May 2026 12:16 +0000",
-      "fetched_at": "2026-05-10T13:00:45.835108+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "892d3f891d495ba5afc6c7dcf2aa9684",
       "title": "Traces Of Humanity",
       "link": "https://tracesofhumanity.org/hello-world/",
@@ -879,7 +859,147 @@
       "fetched_at": "2026-05-11T14:32:19.839181+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "f71ddee71c55a408b8f8d3815f03bcb5",
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "link": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "summary": "Article URL: https://nvlabs.github.io/cuda-oxide/index.html Comments URL: https://news.ycombinator.com/item?id=48096692 Points: 111 # Comments: 19",
+      "published": "Mon, 11 May 2026 15:55:07 +0000",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c65b665e51829f8af77bd2492490d26",
+      "title": "Software engineering may no longer be a lifetime career",
+      "link": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "summary": "Article URL: https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/ Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Mon, 11 May 2026 14:34:08 +0000",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3f965124e02b2e5bd8f9973f82f24f6",
+      "title": "Killed by Apple",
+      "link": "https://killedbyapple.theden.sh/",
+      "summary": "Article URL: https://killedbyapple.theden.sh/ Comments URL: https://news.ycombinator.com/item?id=48095468 Points: 118 # Comments: 111",
+      "published": "Mon, 11 May 2026 14:28:44 +0000",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f4aa44d7201f416382dbabd2f9eb08c",
+      "title": "A.I. note takers are making lawyers nervous",
+      "link": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html Comments URL: https://news.ycombinator.com/item?id=480...",
+      "published": "Mon, 11 May 2026 10:04:47 +0000",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "374a24a34c499e75838ed8117b42c06d",
+      "title": "AWS Transform adds containerization capability during migrations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/",
+      "summary": "AWS Transform now supports replatforming applications to containers during migration to AWS. This release extends AWS Transform's agentic AI capabilit...",
+      "published": "Mon, 11 May 2026 08:22:00 GMT",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "376ddc7cbc4667caa65aeabfb66f6523",
+      "title": "エージェントを強化する: Google 公式 Skills リポジトリを発表 | Google Cloud 公式ブログ",
+      "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy26q2-googlecloud_jp-blog-next_event-in_feed-no-brand-regional-apac&utm_content=level-up-your-agents-announcing-googles-official-skills-repository&utm_term=-",
+      "summary": "※この投稿は米国時間 2026 年 4 月 23 日に、Google Cloud blog に投稿されたものの抄訳です。 AI モデルの性能向上に伴い、Firebase や Gemini API、BigQuery、GKE などの Google Cloud プロダクトを活用した開発にエージェント型 A...",
+      "published": "2026-05-11T11:53:37Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d602a57286031258b6f9b17d2787e01e",
+      "title": "JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "summary": "Node.js互換のJavaScriptランタイムであるBunの作者Jarred Sumner氏は、これまでZig言語で開発してきたBunの開発言語を、Rust言語へ移行する作業を進めていることを明らかにしています。 移行にはClaudeを使ってZigからRustへの変換を実行。一週間程度でほぼすべ...",
+      "published": "2026-05-11T15:27:44Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4b487ee735ed6d7e54a5ff223190c24",
+      "title": "写真保存のサブスク代、一生払い続けますか？ 買い切り型クラウドストレージの「pCloud Photos」に移行、使い勝手を試してみた",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2605/08/news002.html",
+      "summary": "写真保存のサブスク代、一生払い続けますか？ 買い切り型クラウドストレージの「pCloud Photos」に移行、使い勝手を試してみた スマホの容量不足とサブスクの固定費、両方の悩みを一気に解決たいとは思わないだろうか。スイス発の「pCloud」は、一度の支払いで一生使える革新的な買い切り型クラウドス...",
+      "published": "2026-05-11T02:01:49Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d93de1a74babc18af2329924b6a383cb",
+      "title": "AIラジオ、未来感やばっ！ NotebookLM元開発者たち、天才すぎる…",
+      "link": "https://ascii.jp/elem/000/004/400/4400889/",
+      "summary": "2025年9月に公開されたAIラジオアプリ「Huxe」が、5月に入って日本語圏のXを中心に再注目されている。NotebookLMの開発に関わった元Googleメンバーたちが作ったアプリで、ユーザーの関心がある話題をもとに、自分専用のラジオ番組のような音声ブリーフィングを生成してくれる。 Notebo...",
+      "published": "2026-05-11T11:01:23Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f40e1553d5f8182e5c09eba824af690f",
+      "title": "Production AI Playbook: Evaluation and Monitoring",
+      "link": "https://blog.n8n.io/production-ai-playbook-evaluation-and-monitoring/",
+      "summary": "This post is part of a series that explores proven strategies and practical examples for building reliable AI systems. New to n8n? Start with the intr...",
+      "published": "2026-05-11T08:58:11Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ca0c33879a022ffd6042ca77037b9e4",
+      "title": "地球の人口は完全キャパオーバー。理想は25億人",
+      "link": "https://www.gizmodo.jp/2026/05/population-capacity.html",
+      "summary": "地球の人口は完全キャパオーバー。理想は25億人2026.05.11 22:00 Kenji P. Miyajima 25億人。1950年頃の世界人口が地球の限界ってこと…？。 地球の人口に関するショッキングな研究結果が発表されました。なんでも、地球が持続可能な状態で支えられる人口は、約25億人なのだ...",
+      "published": "2026-05-11T14:07:54Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b50b94fa23440f1c4fc21acbf2d8238",
+      "title": "バリデーションはドメインオブジェクトとAPIスキーマ定義のどっちに書くべきか - pospomeのプログラミング日記",
+      "link": "https://www.pospome.work/entry/2026/05/11/161010",
+      "summary": "株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) なんか色々やっている過程で \"バックエンドサーバのバリデーション定義がドメインオブジェクトとAPIスキーマ定義で重複する問題\" に直面しまして、せっかくなので、それに対する自分なりの考えを書いてみようと思います。 バ...",
+      "published": "2026-05-11T07:14:03Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2c24281a6cd48e15918a127e89d576b",
+      "title": "ユニークなシンセ技術が続々！世界最大級の電子楽器展示会「SUPERBOOTH」に行ってきた【藤本健のDigital Audio Laboratory】",
+      "link": "https://av.watch.impress.co.jp/docs/series/dal/2107391.html",
+      "summary": "",
+      "published": "2026-05-11T01:30:15Z",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed752f8b5ed19157d0cc66875a6cf220",
+      "title": "Searches for wired earphones are up 88% – what’s behind the resurgence?",
+      "link": "https://musictech.com/news/music/wired-headphones-are-back/?utm_source=rss&utm_medium=rss&utm_campaign=wired-headphones-are-back",
+      "summary": "Bye bye Bluetooth – wired headphones are back on top... The post Searches for wired earphones are up 88% – what’s behind the resurgence? appeared firs...",
+      "published": "Mon, 11 May 2026 15:35:20 +0000",
+      "fetched_at": "2026-05-11T17:50:03.373996+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-11T14:32:19.839181+00:00"
+  "updated_at": "2026-05-11T17:50:03.373996+00:00"
 }

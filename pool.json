@@ -1329,7 +1329,127 @@
       "fetched_at": "2026-05-14T19:29:36.429953+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "7c95656350b59512c390ec9939a831ea",
+      "title": "The AI Zombification of Universities",
+      "link": "https://www.thenewcritic.com/p/the-great-zombification",
+      "summary": "Article URL: https://www.thenewcritic.com/p/the-great-zombification Comments URL: https://news.ycombinator.com/item?id=48139355 Points: 112 # Comments...",
+      "published": "Thu, 14 May 2026 18:37:08 +0000",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a69905251bd5b9e50178118daaebfd88",
+      "title": "SageMaker AI now supports serverless model customization for Qwen3.6",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/",
+      "summary": "Amazon SageMaker AI now supports serverless model customization for Qwen3.6 27B parameter model using supervised fine-tuning (SFT) and reinforcement f...",
+      "published": "Thu, 14 May 2026 19:18:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a3a5ef76a6479468a3951a16703e4c8",
+      "title": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/",
+      "summary": "Today, AWS announces that the AWS Transform agents — built on decades of AWS migration and modernization experience — are now accessible through a Kir...",
+      "published": "Thu, 14 May 2026 19:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4977cf63a8b667d581a2d21ef4e542a",
+      "title": "AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/",
+      "summary": "Today, as part of the AWS Transform composability initiative, AWS announces the general availability of the agent builder toolkit Kiro power for AWS T...",
+      "published": "Thu, 14 May 2026 19:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c25dcc74cbadae3bd983ec19b95154d3",
+      "title": "New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/",
+      "summary": "Today, AWS announced the availability of FLUX.2-klein-base-4B and Qwen3-Embedding-0.6B in Amazon SageMaker JumpStart, expanding the portfolio of found...",
+      "published": "Thu, 14 May 2026 18:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e16049a6ce5d007e56f4bcacf0bf16af",
+      "title": "Amazon Aurora DSQL now supports change data capture (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/",
+      "summary": "Amazon Aurora DSQL introduces support for change data capture (CDC) in preview, enabling you to stream real-time database changes directly to Amazon K...",
+      "published": "Thu, 14 May 2026 18:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b6cea0270040ad6ee676d9b81c131cd",
+      "title": "Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart/",
+      "summary": "Today, AWS announced the availability of Qwen3-TTS-12Hz-1.7B-CustomVoice, Qwen3-TTS-12Hz-1.7B-Base, and Qwen3-ASR-1.7B in Amazon SageMaker JumpStart, ...",
+      "published": "Thu, 14 May 2026 18:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e5f7b8ef32c521082cdde999dcf1767",
+      "title": "Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart/",
+      "summary": "Today, AWS announced the availability of GLM-5.1-FP8 and Phi-4-mini-instruct in Amazon SageMaker JumpStart, expanding the portfolio of foundation mode...",
+      "published": "Thu, 14 May 2026 18:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "62e908229e5ff7851226a2d7fdbe49dc",
+      "title": "AWS Transform adds agentic AI assistant to the AWS Toolkit for Visual Studio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant",
+      "summary": "To improve developer experience, AWS Transform now includes an interactive agentic AI assistant in the AWS Toolkit for Visual Studio. This enables .NE...",
+      "published": "Thu, 14 May 2026 15:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "43ce324809b7e1a9bb22770f35a6e709",
+      "title": "AWS RTB Fabric supports custom domains for real-time bidding workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rtb-fabric-custom-domains/",
+      "summary": "AWS RTB Fabric now supports custom domains for real-time bidding transactions received through external links. This capability helps advertising techn...",
+      "published": "Thu, 14 May 2026 12:00:00 GMT",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfd7356a6f596d49d7464a1cc23b9ecb",
+      "title": "鹿野さんに聞く！CSSの最新トレンド Ver.2026",
+      "link": "https://speakerdeck.com/tonkotsuboy_com/lu-ye-sanniwen-ku-cssnozui-xin-torendo-ver-dot-2026",
+      "summary": "2026/05/14開催の「鹿野さんに聞く！CSSの最新トレンド Ver.2026」 の登壇資料です https://findy.connpass.com/event/390152/ 各デモのURLはこちら https://tonkotsuboy.github.io/findy-css-20…",
+      "published": "2026-05-14T12:30:03Z",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8b2afae293a234e95d15f44e5f3c632",
+      "title": "",
+      "link": "https://github.com/roboflow/supervision",
+      "summary": "📦 roboflow / supervision ⭐ 38,712 (+59) 🗒 Python We write your reusable computer vision tools. 💜",
+      "published": "14 May 2026 20:16 +0000",
+      "fetched_at": "2026-05-14T21:03:44.018519+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-14T19:29:36.429953+00:00"
+  "updated_at": "2026-05-14T21:03:44.018519+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9fba8763b1fbaec50e7d7e4607c3e19b",
-      "title": "",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Client VPN now supports Ubuntu OS version 26.04 LTS",
-      "published": "14 May 2026 05:55 +0000",
-      "fetched_at": "2026-05-14T06:42:05.622589+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c38b4f72a5d63b60a88154f51b235c5e",
-      "title": "",
-      "link": "https://aws.amazon.com/jp/blogs/news/aws-x-ray-sdks-daemon-migration-to-opentelemetry/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS X-Ray SDK / Daemon の OpenTelemetry への移行 | Amazon Web Services",
-      "published": "14 May 2026 02:55 +0000",
-      "fetched_at": "2026-05-14T06:42:05.622589+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b26aedf8179514ac2ebf7625bc6ee552",
       "title": "New arXiv policy: 1-year ban for hallucinated references",
       "link": "https://twitter.com/tdietterich/status/2055000956144935055",
@@ -939,7 +919,177 @@
       "fetched_at": "2026-05-15T10:14:14.976273+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "a24467bc3ff2b344660f348d7cf27e8b",
+      "title": "",
+      "link": "https://www.sbbit.jp/article/cont1/185114",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 データセンター“東京一極集中”がヤバい？限界AIインフラ救う「IOWNの逆転シナリオ」",
+      "published": "15 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "91dc8e86b561041d36d74ac50f1b133c",
+      "title": "O(x)Caml in Space",
+      "link": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "summary": "Article URL: https://gazagnaire.org/blog/2026-05-14-borealis.html Comments URL: https://news.ycombinator.com/item?id=48147058 Points: 121 # Comments: ...",
+      "published": "Fri, 15 May 2026 10:55:51 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b40dcd22bd693015862ed901e62f28a5",
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "summary": "Article URL: https://github.com/Andyyyy64/whichllm Comments URL: https://news.ycombinator.com/item?id=48146369 Points: 222 # Comments: 35",
+      "published": "Fri, 15 May 2026 09:19:24 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "756cab01aacb875698df2076c570b610",
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "link": "https://explorer.samismith.com/",
+      "summary": "Article URL: https://explorer.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=48146129 Points: 258 # Comments: 63",
+      "published": "Fri, 15 May 2026 08:45:36 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "97db363fb1a03cd11a5525da9448dea4",
+      "title": "Claude for Legal",
+      "link": "https://github.com/anthropics/claude-for-legal",
+      "summary": "Article URL: https://github.com/anthropics/claude-for-legal Comments URL: https://news.ycombinator.com/item?id=48141234 Points: 131 # Comments: 115",
+      "published": "Thu, 14 May 2026 21:05:05 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61b6bc0d51d337d468845488ad7e5ea4",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "link": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
+      "summary": "Article URL: https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing Comments UR...",
+      "published": "Thu, 14 May 2026 20:41:48 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f9859ef5207207bb5e6cb8163f25089",
+      "title": "ワコム社長が西新宿オフィスの一角を私物化、ダンススペースとして娘に提供か “物言う株主”が解任提案",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news109.html",
+      "summary": "ワコム（埼玉県加須市）の筆頭株主である英投資ファンドのアセット・バリュー・インベスターズ（以下、AVI）は5月14日、ワコムの井出信孝社長と中嶋崇史業務執行取締役COOの解任を求める株主提案を行った。AVIは、井出社長の経営下でブランド製品事業が失速し株価が伸び悩んでいることに加え、西新宿のオフィス...",
+      "published": "2026-05-15T11:15:24Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1962d14f6ac891fba168a597da58c63d",
+      "title": "チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきてワロタ ..",
+      "link": "https://anond.hatelabo.jp/20260515202511",
+      "summary": "チャッピーにブコメ欄作ってって言ったら実物ブクマカが出てきてワロタ 私: 18日(月)は関東で今年全国初の「猛暑日」か 熱中症に警戒（tenki.jp） - Yahoo!ニュース このページのブコメ欄を作って チャッピー: 記事の内容に寄せたほうがブコメっぽくなるので、まず見出しと要点だけ確認します...",
+      "published": "2026-05-15T11:34:37Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4707e91b66c6bea3d0f2e7985e2312aa",
+      "title": "nginxに18年前から存在する重大な脆弱性が発見される | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/05/nginx-rift-vulnerability",
+      "summary": "オープンソースのWebサーバーnginxで2026年5月13日、2008年から存在するヒープバッファオーバーフローを引き起こす深刻度：緊急（Critical）を含む4つの脆弱性が報告された。この脆弱性はnginxのバージョン0.6.27～1.30.0に存在し、最新のnginx-1.30.1 stab...",
+      "published": "2026-05-15T08:48:15Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "66f29f13cbb9b36738e98756b77732ec",
+      "title": "Press Releases - 東京大学 大学院理学系研究科・理学部",
+      "link": "https://www.s.u-tokyo.ac.jp/ja/press/11143/",
+      "summary": "受験生 News 重要なお知らせ Press Releases 受賞・表彰 理学部ニュース リガクル YouTube Events サイエンスギャラリー 理学系について 理学図書館 小柴ホール・共通講義室 理学部概要・パンフレット 研究 最新の研究成果 入学案内（学部） アドミッションポリシー 学士...",
+      "published": "2026-05-15T06:36:15Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5cea3c82b41d448a70e62107e562889",
+      "title": "「Snapdragon X」発売から2年、EAC対応状況は？ 動かなかったゲームの互換性を再検証",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2109070.html",
+      "summary": "",
+      "published": "2026-05-15T07:02:22Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eeccf1356b1f953ca3864047876e574e",
+      "title": "Claude Codeの1000 セッションを分析して、一週間目でリードタイムを10%縮めた話",
+      "link": "https://zenn.dev/globis/articles/94762dc8ec7914",
+      "summary": "グロービスでは AI コーディングのメインツールを Claude Code (CLI 版) に統一する方向で運用しています。利用ログを取り始めて改善の打ち手を入れたところ、すぐに次のような成果が出ました。 毎月の開発時間を およそ 100時間 節約 開発セッションのリードタイムが 約 10% 短縮 ...",
+      "published": "2026-05-15T03:10:18Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb4c4b1a66333179c8b066f65100d9b2",
+      "title": "ドコモ、5G速度で首位も「一貫した品質」でなぜ最下位？ auが10部門で受賞 Opensignal調査",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2605/14/news153.html",
+      "summary": "auはさらに、ビデオやゲーム、音声アプリなどのエクスペリエンス部門において、全体と5Gで単独首位となった。auは10部門で単独受賞、1部門で共同受賞を果たし、国内キャリアで受賞トップとなった。地域別の受賞数でもトップに立ち、全国8地域で単独受賞45件、共同受賞46件を獲得した。 ソフトバンクは、通信...",
+      "published": "2026-05-14T13:02:54Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "611aaaf4faac44a06869d2713b4ed125",
+      "title": "「BeReal禁止」で再発防止になるのか マネフォの情報流出にも共通する“責任の所在”",
+      "link": "https://www.itmedia.co.jp/business/articles/2605/15/news026.html",
+      "summary": "このところ、写真・動画SNS「BeReal（ビーリアル）」による情報流出が注目されている。また、家計簿アプリ「マネーフォワード」がGitHub（ギットハブ）での不正アクセスで、顧客情報が流出したケースも話題だ。 “自社以外のサービス”の利用で不祥事が起きた時、どのような炎上対応が求められるのだろうか...",
+      "published": "2026-05-14T23:04:37Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ccc515dac6e58a1913ec3bfb5957260",
+      "title": "検索エンジン上に作るAgent向け仮想ファイルシステム - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2026/05/15/112547",
+      "summary": "こんにちは、Ai Workforce事業部でAI検索エンジニアをしている鷹取です。 AIエージェントにドキュメントを探させる方法として、最近は検索ツールを使わせるアプローチに関心があります。検索APIを直接呼ばせる方法もありますが、ディレクトリを見たり、候補文書を読んだり、検索語を変えたりできる探索...",
+      "published": "2026-05-15T03:36:11Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26f64cebdec78339560e32d0489801d2",
+      "title": "楽天、MNO本格参入後に初の黒字化 三木谷会長「KDDIローミング終了」と「値上げ」は明言避ける",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2605/15/news079.html",
+      "summary": "楽天グループは5月14日、2026年12月期第1四半期の連結決算を発表した。売上収益は前年同期比14.4％増の6435億8300万円、営業利益は303億9400万円で前年の赤字から黒字に転換した。 EBITDA（利払い前・税引き前・減価償却前利益）は同36.2％増の1087億9100万円となり、楽天...",
+      "published": "2026-05-15T04:02:51Z",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbed935971941ae046e17bfd704eefc8",
+      "title": "High schoolers can learn production at Eastman this summer: interview",
+      "link": "https://cdm.link/eastman-summer-program/",
+      "summary": "If you're in high school, take note -- and if you're not, this may make you wish you were. Electronic music production gurus Dennis DeSantis and Erin ...",
+      "published": "Fri, 15 May 2026 11:19:35 +0000",
+      "fetched_at": "2026-05-15T13:47:28.395678+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-15T10:14:14.976273+00:00"
+  "updated_at": "2026-05-15T13:47:28.395678+00:00"
 }

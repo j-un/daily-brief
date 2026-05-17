@@ -509,7 +509,117 @@
       "fetched_at": "2026-05-17T10:59:10.968074+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "ba813caf7175e40351460fdff886d6e0",
+      "title": "",
+      "link": "https://github.com/FreshRSS/FreshRSS",
+      "summary": "セルフホスト可能なRSSリーダー/アグリゲーター。Google ReaderやFeverなどのAPIが用意されており各種RSSリーダークライアントアプリが利用可能と。",
+      "published": "17 May 2026 13:00 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "54cb3cdbb681e3c18f80a19226b33165",
+      "title": "",
+      "link": "https://github.com/simonomi/hexapoda",
+      "summary": "Rust実装のバイナリエディタ。カラフル。",
+      "published": "17 May 2026 12:55 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfbcbe75159daecaca169991bddc818f",
+      "title": "",
+      "link": "https://github.com/regent-vcs/re_gent",
+      "summary": "AIエージェントを使ったプログラミング用に設計されたバージョン管理システム。プロンプトやエージェントの動作も含め自動で記録するところがポイントか。gitを置き換えるものではなく併用がオススメと。",
+      "published": "17 May 2026 12:52 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3c6632e2a2b5edcfd0ebf9bd9b8c812",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/regional-nat-gateway-tgw-centralized-egress/",
+      "summary": "SPOFリスクを回避可能。かつクロスAZ料金も通常時は回避できると。",
+      "published": "17 May 2026 12:44 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f28b897c14191ea0418fdbe05ff8dc81",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/postgresql-too-many-indexes-performance/",
+      "summary": "書籍SQLパフォーマンス詳解では、インデックスの個数が0と1の差は大きいものの、1以降の差はやや小さいと書いてあったな。この記事では1, 3, 6を試されているが、1ずつ変えるとどう変わるか是非検証してみてほしい",
+      "published": "17 May 2026 12:42 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08cefeb13a12b4cc80a148060548f6fd",
+      "title": "「Claude Codeに全部やらせる時代が来た」のか検証してみた",
+      "link": "https://zenn.dev/okazu_dm/articles/83957f1623ec4d",
+      "summary": "実用的ではあるが、限定的な利用を推奨。なるほど。",
+      "published": "17 May 2026 12:23 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc231be019f3fb8c2803b20ead590884",
+      "title": "スローHTTPがWebサーバーのリソースに与える影響の検証 #Security - Qiita",
+      "link": "https://qiita.com/prograti/items/79584e12b0788ef100f8",
+      "summary": "わいわい",
+      "published": "17 May 2026 12:22 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6cdfde99113ea6ffad57f1c8985b2be",
+      "title": "データエンジニア向け Mermaid データモデル図 記法ガイド",
+      "link": "https://zenn.dev/yuichi_dev/articles/217f4d3165d59f",
+      "summary": "Mermaid の flowchart 記法でデータモデルの関係図を描くためのルール集です。 ER図・データリネージ図・スタースキーマなど、データエンジニア向けのデータモデリングの主要なユースケースをカバーします。",
+      "published": "2026-05-17T03:40:35Z",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e2d3f26e0c55f9284b5339a340c5a98",
+      "title": "「GitHubから離れる」—オランダ政府と個人開発者が同時にForgejoを選んだ理由",
+      "link": "https://techfeed.io/entries/6a04e692b77ff536fc1f90d6",
+      "summary": "5月13日、Jorijn van der Lootが「Why I'm leaving GitHub for Forgejo」と題した記事を公開した。この記事では、GitHub から自前ホストのForgejoへ完全移行する理由と実装方法について詳しく紹介されている。以下に、その内容を紹介する。オランダ...",
+      "published": "2026-05-17T07:41:47Z",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6564f040206cd90ba9bcf6a7b3ac806",
+      "title": "データセンターの雄叫び",
+      "link": "https://zenn.dev/tokium_dev/articles/shouting-in-the-datacenter",
+      "summary": "クラウドが当たり前になって20年近くたちましたが、その裏側で無数の物理サーバーが稼働していることを忘れてはいけません。 余談 キャリアのほとんどをAWSに甘やかされてきた私ですが、1日だけサーバールームのネットワーク敷設に携わったことがあります。 それは10年も前の出来事で、社会人になりたの頃でした...",
+      "published": "2026-05-16T09:55:57Z",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9be53d70230eef9a2100a73c226d985",
+      "title": "",
+      "link": "https://github.com/medusajs/medusa",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 medusajs / medusa ⭐ 33,255 (+200) 🗒 TypeScript The world's most flexible commerce platform.",
+      "published": "17 May 2026 12:16 +0000",
+      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-17T10:59:10.968074+00:00"
+  "updated_at": "2026-05-17T13:02:05.326090+00:00"
 }

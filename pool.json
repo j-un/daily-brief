@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "55d63cc58a5be86d456af568bc466337",
-      "title": "",
-      "link": "https://blog.lai.so/ai-rich-text-format/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代のリッチテキスト形式（RTF）",
-      "published": "16 May 2026 02:55 +0000",
-      "fetched_at": "2026-05-16T06:16:25.459419+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b677142bc4ef98f81501d29a22680ba5",
       "title": "",
       "link": "https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition",
@@ -459,7 +449,67 @@
       "fetched_at": "2026-05-17T09:28:49.068015+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "f8bef67df6079e1c2520806b75e48173",
+      "title": "",
+      "link": "https://techblog.cartaholdings.co.jp/entry/game-changer-umbrella-issue",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Umbrella issue という well-known な 1 単語を覚えただけで、1 日 20 PR がリアルになった",
+      "published": "17 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e15594fce98063d7a495538945e93e2",
+      "title": "MCP Hello Page",
+      "link": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page Comments URL: https://news.ycombinator.com/item?id=48164294 Points: 102 # Comme...",
+      "published": "Sat, 16 May 2026 22:25:33 +0000",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1195330b246810aaa580aa5c3a1b8ee",
+      "title": "GitHub - ip-arch/NESLab: Educational materials for Embedded systems with NES",
+      "link": "https://github.com/ip-arch/NESLab",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-05-17T09:19:30Z",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9863acf88ca49fb1b397812c807ac1c0",
+      "title": "Windows has a better Notepad hiding on the Microsoft Store — and it's free",
+      "link": "https://www.makeuseof.com/windows-has-better-notepad-hiding-on-microsoft-store-its-free/",
+      "summary": "",
+      "published": "2026-05-17T05:46:32Z",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b57abda78dc3fc41cd8c89548966bb0",
+      "title": "AI時代のコンピューター技術書 - golden-luckyの日記",
+      "link": "https://golden-lucky.hatenablog.com/entry/2026/05/17/170605",
+      "summary": "LLMが得意なのは文章の生成よりも読解 LLMという読み手には編集がいらない 人間が読み手であることをやめるまでは 商売は厳しく LLMのおかげで滑らかな自然言語をコンピューターで気軽に使えるようになった。ウェブを中心に、生成AIで出力された（とおぼしき）文章を見かける機会も増えた。これからもっと増...",
+      "published": "2026-05-17T08:06:43Z",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d2e3db259b4b804a420af8f9b9b75b8",
+      "title": "【TypeScript】値・型・名前空間の「三重定義」でReactコンポーネントをより柔軟に設計する",
+      "link": "https://zenn.dev/bmth/articles/ts-companion-object",
+      "summary": "export type Rectangle = { height: number; width: number; }; export const Rectangle = { from(height: number, width: number): Rectangle { return { heigh...",
+      "published": "2026-05-16T17:12:08Z",
+      "fetched_at": "2026-05-17T10:59:10.968074+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-17T09:28:49.068015+00:00"
+  "updated_at": "2026-05-17T10:59:10.968074+00:00"
 }

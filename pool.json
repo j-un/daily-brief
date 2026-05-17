@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b677142bc4ef98f81501d29a22680ba5",
-      "title": "",
-      "link": "https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition",
-      "published": "16 May 2026 08:55 +0000",
-      "fetched_at": "2026-05-16T09:23:27.420095+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2f75013ab73c330ad5bd7708631fc8f8",
       "title": "DevOps AgentからAurora MySQLを安全に調査できるようにした話 〜 AgentCore Gateway + Lambda構成 〜 - CyberAgent SRG #ca_srg",
       "link": "https://ca-srg.dev/3504358b43f780b3ab4ad5af638cf03d",
@@ -619,7 +609,237 @@
       "fetched_at": "2026-05-17T13:02:05.326090+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "cbc0cf5c6f7076786193bce1b5075d86",
+      "title": "",
+      "link": "https://github.com/romance-dev/speedboost",
+      "summary": "GoからCライブラリを呼び出す際にZigと組み合わせてCGOフリーを実現と。ほほう",
+      "published": "17 May 2026 14:47 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8edd27eb79b99e938c02a2862fb7bfe",
+      "title": "Quack: The DuckDB Client-Server Protocol – DuckDB",
+      "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "summary": "うおおおおお、アツイ。ネーミングセンスが良い。",
+      "published": "17 May 2026 14:44 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5d721564fc1e021d22146ab380976d2",
+      "title": "",
+      "link": "https://www.hashicorp.com/ja/blog/announcing-native-ai-agent-support-in-hashicorp-vault",
+      "summary": "HashiCorp VaultはAIエージェントに対するアクセス制御をサポートすると。 まずはpublic beta提供の模様。",
+      "published": "17 May 2026 14:39 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "108d450a3437029164bf297c4912e381",
+      "title": "プログラマーのための圏論 | Ohmsha",
+      "link": "https://www.ohmsha.co.jp/book/9784274234866/",
+      "summary": "2026年5月26日発売",
+      "published": "17 May 2026 14:37 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c9e34ce5257a2e82e1dc4ec1ce0c00c",
+      "title": "",
+      "link": "https://zenn.dev/pepabo/articles/road-mindset-faster-support-improvement",
+      "summary": "ROAD マインドセットについて知らなかったけど、自分のなかでの取り組みもおおよそ自然とこのステップを踏んでた気がする。ただ時間配分が難しくてRoot-fixにこだわらないことも大事。",
+      "published": "17 May 2026 14:34 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cae46f770ae4dbe1246f640a4f163248",
+      "title": "",
+      "link": "https://zenn.dev/tokium_dev/articles/8b13ca7b3c6c15",
+      "summary": "そう、自動rollupが曲者なんですわ。わかるー。俺たちは雰囲気でDatadogをいじっている。",
+      "published": "17 May 2026 13:45 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ef146c6ded42210a966fa274a3181d3",
+      "title": "",
+      "link": "https://zenn.dev/nttdata_tech/articles/bca51244d21919",
+      "summary": "「Bits AI SREの調査コストは1調査あたり31.25〜45.00ドル」これを高いとみるか安いとみるか。",
+      "published": "17 May 2026 13:41 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "344c48b2ba11d33059ffe2fb7da4eb80",
+      "title": "",
+      "link": "https://devblog.lac.co.jp/entry/20260511",
+      "summary": "gdb風に対話型で操作できるバイナリエディタGNU poke。手続的な操作も可能。わいわい",
+      "published": "17 May 2026 13:33 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e39adc143956699f94c013035700944f",
+      "title": "",
+      "link": "https://zenn.dev/linuxmaster/articles/dirty-frag-cve-2026-43284-43500",
+      "summary": "Dirty Pipe→Copy Fail→Dirty Flag",
+      "published": "17 May 2026 13:31 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b54bf0f0fdcc34f6b79c73825287f039",
+      "title": "Stop MITM on the first SSH connection, on any VPS or cloud provider | Cryptography, Technology | Joachim Schipper",
+      "link": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "summary": "わいわい",
+      "published": "17 May 2026 13:21 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86722d9ad61819137ffc25d6d01d4f2a",
+      "title": "I don't think AI will make your processes go faster",
+      "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/ Comments URL: https://news.ycombinato...",
+      "published": "Sun, 17 May 2026 12:13:45 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7d2b4f736882ea502d806788a17c3b2",
+      "title": "Apple Silicon costs more than OpenRouter",
+      "link": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html Comments URL: https://news.ycombinator.com/item?id=48168198 Poin...",
+      "published": "Sun, 17 May 2026 12:09:23 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "490fccc479b07dbc49e1708bc497ff08",
+      "title": "Native all the way, until you need text",
+      "link": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/ Comments URL: https://news.ycombinator.com/item?id=48168058 Point...",
+      "published": "Sun, 17 May 2026 11:49:46 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25dc97f9c05ff51d184fc7b029637adc",
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb Comments URL: https://news.ycombinator.com/item?id=48168056 Points: 112 # ...",
+      "published": "Sun, 17 May 2026 11:49:31 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d485969f99d11818a710dc2a06ebc1da",
+      "title": "Ten Signs of Fascism. America has all of them",
+      "link": "https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all",
+      "summary": "Article URL: https://rutgerbregman.substack.com/p/10-signs-of-fascism-america-has-all Comments URL: https://news.ycombinator.com/item?id=48166877 Poin...",
+      "published": "Sun, 17 May 2026 07:50:57 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35369a5a394839f954af2c0514e0efe9",
+      "title": "筋が悪そうに見える方針に口を出す - Konifar's ZATSU",
+      "link": "https://konifar-zatsu.hatenadiary.jp/entry/2026/05/16/092704",
+      "summary": "誰かが進めている仕事を端から見て、「そんなに複雑じゃなくてもっとシンプルにできるんじゃないか」、「こうしたほうがいいんじゃないか」「そもそもやる必要ないんじゃないか」みたいに感じたとする。 こういう時、「口を出さないでおこう」となってしまうこともあると思う。そりゃそうだよね。口出しにくいよ。横から....",
+      "published": "2026-05-16T01:04:50Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "348d9ca922af7908c8d8f6d87f52607d",
+      "title": "誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方",
+      "link": "https://rocketnews24.com/2026/05/17/2760885/",
+      "summary": "» 誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方 特集 私（佐藤）にとって、もはや生活から欠くことのできない存在になった生成AI。Googleの「Gemini」をすでにパートナーとして活用しており、仕事だけでなく音楽制作などのプライ...",
+      "published": "2026-05-17T12:33:34Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5a188aaae99847cb3084508fbde3452",
+      "title": "社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話 - Hatena Developer Blog",
+      "link": "https://developer.hatenastaff.com/entry/2026/05/14/173453",
+      "summary": "はじめに この記事は SRE 連載の 4月号です。 3月の記事は id:chaya2z さんの GigaViewer の配信基盤を支えるマルチテナントアーキテクチャでした。 こんにちは システムプラットフォームチーム でSREをしています id:k1s1eee です。 弊社では現在、エンジニアだけで...",
+      "published": "2026-05-14T09:07:07Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb0c3c4e2f7e4f3879a66dd7376f45bb",
+      "title": "AIモデルでブラウザを自動操作できる「Browser-Use」、オープンソースで開発され自然言語で簡単に指示可能",
+      "link": "https://gigazine.net/news/20260517-browser-use/",
+      "summary": "ブラウザ操作を自動化するにはPlaywrightやSeleniumを使って操作手順を細かく指示する必要がありました。そこでLLMが画面内容を判断し、自然言語の指示からクリック・入力・検索を実行できるオープンソース「Browser-Use」が公開されています。 Browser Use - The wa...",
+      "published": "2026-05-17T03:59:15Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd9c3f3e7da90a8155bce6447ef69d91",
+      "title": "AI使い脆弱性点検、システム提供元に要請 国の「ミュトス」対応案 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA170RS0X10C26A5000000/",
+      "summary": "政府がまとめる新型人工知能（AI）「Claude Mythos（クロード・ミュトス）」の対応案の全容が判明した。サイバー防御を強めるための企業向け指針をつくる。情報システムの提供企業にAIで脆弱性を点検するよう求める。18日に松本尚デジタル相をトップとする関係省庁会議を開いて対応案を議論する。経済産...",
+      "published": "2026-05-17T13:09:36Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "190f292b75f9e8afb0b57317963b8090",
+      "title": "Microsoft Entra の登録キャンペーンを理解する ～パスキー導入に向けた挙動と展開のポイント～ - Qiita",
+      "link": "https://qiita.com/carol0226/items/4ad04ffe2141f43ad6a1",
+      "summary": "はじめに 本記事は、パスワード＋多要素認証 の認証方式を利用している Entra 組織テナントの利用者に対して、パスキー の利用を促していくための方法を紹介したいと思います。 Entra テナントの既定の動作では、ID + パスワードで作成されたユーザーに対して、 Microsoft Authent...",
+      "published": "2026-05-17T00:23:30Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c3b2b25887a763d70c2d6bb97147da",
+      "title": "Transformer / GPT の内部処理をブラウザ上で可視化して学ぶ transformer-explainer - macでインフォマティクス",
+      "link": "https://kazumaxneo.hatenablog.com/entry/2026/05/15/143854",
+      "summary": "AI推敲済み Transformerは機械学習に革命をもたらしたが、その内部構造は多くの人にとって依然として不透明である。そこで本著者らは、非専門家がGPT-2モデルを通してTransformerについて学ぶことができるように設計されたインタラクティブな視覚化ツール、Transformer Expl...",
+      "published": "2026-05-16T15:55:58Z",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9633922bdd52f826e942c44bacbd4a6d",
+      "title": "",
+      "link": "https://github.com/calcom/cal.diy",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 calcom / cal.diy ⭐ 43,003 (+425) 🗒 TypeScript Scheduling infrastructure for absolutely everyone.",
+      "published": "17 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-17T13:02:05.326090+00:00"
+  "updated_at": "2026-05-17T14:50:11.327751+00:00"
 }

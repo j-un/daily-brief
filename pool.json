@@ -349,7 +349,117 @@
       "fetched_at": "2026-05-17T06:40:14.282141+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "52d39fcd292cff8616f3bbcd9f1d7ad6",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
+      "published": "17 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d602a57286031258b6f9b17d2787e01e",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
+      "published": "17 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "351a8c78e10c06bb34f7937b47caec21",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "link": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-un...",
+      "published": "Sun, 17 May 2026 06:17:26 +0000",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe2ed43ca678af1d81074633ebeb2fb2",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "link": "https://maurycyz.com/projects/mcusite/",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/ Comments URL: https://news.ycombinator.com/item?id=48165295 Points: 124 # Comments: 11",
+      "published": "Sun, 17 May 2026 01:25:26 +0000",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0307f06f516451bc0aa19e9a4585ac52",
+      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "link": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "summary": "https://parttelescopes.web.app/ Comments URL: https://news.ycombinator.com/item?id=48160914 Points: 122 # Comments: 31",
+      "published": "Sat, 16 May 2026 15:12:17 +0000",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23636bde0acac983aae4398ee8ad15b2",
+      "title": "【Claude Code VS Codex】同じSkillsでオセロ対戦させたら、56-8で○○が完敗した話",
+      "link": "https://zenn.dev/acntechjp/articles/cc97075e985938",
+      "summary": "Skillsの中にPythonのLocal HTTPサーバーをスクリプトとして同梱し Claude CodeがローカルHTTPサーバーを起動 → ブラウザが自動で開く → 人間はブラウザで操作 → AIはcurlでJSONを読み書きを通じてオセロ対戦を行う つまり、ユーザーはブラウザで石を置き、Cl...",
+      "published": "2026-05-12T23:57:13Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af7ac7bf2dc6c8f547d7912274e6e1a2",
+      "title": "ハーネスエンジニアリングとは一体何なのか。",
+      "link": "https://newspicks.com/news/16607103/body/",
+      "summary": "「ハーネスエンジニアリング」がこの半年で広がった 2026年に入ってから、AI業界で急に飛び交いはじめた言葉がある。「ハーネスエンジニアリング」だ。 OpenAIが2月に「Harness engineering」という解説記事を公開し、Anthropicは前年11月に「効果的なハーネス」を語った。L...",
+      "published": "2026-05-05T22:13:59Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9a2adab0dfb352ed952e50bb70a124e",
+      "title": "Claude Code / Codex / Kiro に AWS 権限を 渡すとき、何を設計すべきか",
+      "link": "https://speakerdeck.com/k_adachi_01/kiro-ni-aws-quan-xian-wo-du-sutoki-he-woshe-ji-subekika",
+      "summary": "Claude Code / Codex / Kiro などのコーディングエージェントが AWS を操作するとき、AWS 側に残るのは IAM プリンシパルと API 実行の記録だけです。「AIが実行した」という情報はどこにも自動では残りません。 本資料では、コーディングエージェントから AWS A…",
+      "published": "2026-05-16T16:29:37Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cde676dfda48e0828faf5bffb7fdb693",
+      "title": "Googleマップ上に浮かぶ謎の｢黒い三角形｣。その正体が怖すぎた…",
+      "link": "https://www.gizmodo.jp/2026/05/google-maps-black-hole-in-the-pacific-ydu.html",
+      "summary": "Googleマップ上に浮かぶ謎の｢黒い三角形｣。その正体が怖すぎた…2026.05.16 07:0018,019 R.Mitsubori 2025年2月21日の記事を編集して再掲載しています。 陰謀論のほうがマシだった…かも。 2021年、とあるユーザーがGoogleマップを眺めていたところ、太平洋...",
+      "published": "2026-05-16T03:33:52Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f070ad317eaf99a5e6b5c898f48fb67",
+      "title": "データ分析は自動化できる。でも本体はチャットUIではなくメタデータだった - 今日もデータで飯を食う。",
+      "link": "https://datamesi.hatenablog.com/entry/data-agents-need-context",
+      "summary": "汎用データ人材の内藤です。 最近、外ではわりと強めに「データ分析はもう自動化できる」と言っています。 これはポジショントークというより、かなり実感に近い。自然言語で問いを投げると、AIがテーブルを探し、SQLを書き、集計し、グラフを作り、結果の読み方まで返してくれる。ちゃんと環境を整えれば、昔なら人...",
+      "published": "2026-05-16T17:57:41Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e40bf8898c89aca2a2960610ea311f27",
+      "title": "ログイン済みの Chrome をそのまま Claude Code から操作する — playwright-cli attach",
+      "link": "https://zenn.dev/optimisuke/articles/40529cd970cbf0",
+      "summary": "はじめに Claude Code でブラウザを操作するとき、地味につらいことが3つありました。 MCP の設定が面倒。playwright MCP や chrome-devtools MCP を使うには、それぞれ接続設定を書かないといけない。複数の AI コーディングエージェント（Claude Co...",
+      "published": "2026-05-14T06:56:02Z",
+      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-17T06:40:14.282141+00:00"
+  "updated_at": "2026-05-17T09:28:49.068015+00:00"
 }

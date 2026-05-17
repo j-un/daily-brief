@@ -839,7 +839,257 @@
       "fetched_at": "2026-05-17T14:50:11.327751+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "35317c47e53674c328c3ae86bcb5e95e",
+      "title": "",
+      "link": "https://github.com/orhun/ratty",
+      "summary": "3次元的表現が可能なターミナルエミュレータ。Rust実装。デモ動画あるが、うん、そうだね、需要あるかな。",
+      "published": "17 May 2026 16:07 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "06f60730fa4d310621a7d1339a2fc3ed",
+      "title": "",
+      "link": "https://github.com/kyegomez/OpenMythos",
+      "summary": "Claude Mythosを模したオープンソース実装。",
+      "published": "17 May 2026 15:58 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa529c71721135fbd15435dd1c4cc002",
+      "title": "GitHub Copilot app を使って感じた、日々の摩擦が減る4つのこと",
+      "link": "https://zenn.dev/tomokusaba/articles/fd382738fee5e3",
+      "summary": "GitHub Copilot appの紹介だ",
+      "published": "17 May 2026 15:56 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44e5af2fee8434dfe52176ffbfbbf95b",
+      "title": "",
+      "link": "https://presentifyapp.com/",
+      "summary": "next levelを謳うmacOS向けプレゼンツール。なんというか、アプリケーション操作のデモ支援アプリかな。",
+      "published": "17 May 2026 15:51 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2abafffe4c0334b627a1baea885fef1b",
+      "title": "AI使いがうまくなるより先に、鍛えるべき感覚の話 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aiuse_designer_training/",
+      "summary": "自分のアウトプットを疑い続ける姿勢、心がけたい。",
+      "published": "17 May 2026 15:45 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ab55367daba1b939e515f901b55ee9b",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/update-route53-domains-34-new-tlds-2026-05/",
+      "summary": "お名前.comとの料金比較、大丈夫ですか。怒られませんか。国内O社とかにしなくて大丈夫ですか。",
+      "published": "17 May 2026 15:42 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4707e91b66c6bea3d0f2e7985e2312aa",
+      "title": "nginxに18年前から存在する重大な脆弱性が発見される | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/05/nginx-rift-vulnerability",
+      "summary": "修正バージョンは1.30.1と1.31.0。皆様。",
+      "published": "17 May 2026 15:37 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc37fce5040b84f54a01fe107d988ab8",
+      "title": "",
+      "link": "https://gihyo.jp/article/2026/05/susecon2026-02",
+      "summary": "みずほ銀行がSUSE(MLS)を採用してるの知らなかったな。",
+      "published": "17 May 2026 15:35 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5de68c135d72e3c724f8d8cfa9b7c4f8",
+      "title": "",
+      "link": "https://thinkit.co.jp/article/39175",
+      "summary": "WSLでも26.04はすでに利用可能。24.04からの変更点まとめもありがたい。",
+      "published": "17 May 2026 15:24 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1356d80071c60a0c63fbea70b657ce7",
+      "title": "",
+      "link": "https://github.com/akiomik/mado",
+      "summary": "GFM(GitHub Flavored Markdown)にも対応したMarkdownのLinter。Rust実装。既存のLinterよりも49〜60倍高速を謳う。homebrew公式に追加されてたのでbrew install madoでインストール可。",
+      "published": "17 May 2026 15:22 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1230334bdcbc0282a391821239ed07c",
+      "title": "Toto 2.0: Time series forecasting enters the scaling era | Datadog",
+      "link": "https://www.datadoghq.com/blog/ai/toto-2/",
+      "summary": "メモ",
+      "published": "17 May 2026 15:19 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "547dacafdd1baf149914d27f35310631",
+      "title": "",
+      "link": "https://github.com/github/app",
+      "summary": "GitHub Copilotのデスクトップアプリ。vscode不要。現在public preview。macOS/Windows/Linuxで動作可。macOSはbrew install --cask github-copilot-appでもインストール可。",
+      "published": "17 May 2026 15:16 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c86d2ef64618dca7e087ba91ad9da3e",
+      "title": "",
+      "link": "https://github.com/different-ai/openwork",
+      "summary": "opencodeベースのClaude Cowork代替。それはつまりopencodeのデスクトップアプリとも言える。",
+      "published": "17 May 2026 15:13 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0fd51dcaf81508cd8472a28c615abde",
+      "title": "",
+      "link": "https://formulae.brew.sh/cask/notion-cli",
+      "summary": "Notion CLIがhomebrewに追加されてた。brew install --cask notion-cli",
+      "published": "17 May 2026 15:11 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fc920c05809301b224240fd870eba9a",
+      "title": "",
+      "link": "https://formulae.brew.sh/cask/sshfs-mac",
+      "summary": "macOS向けsshfs実装があることを知った。sshfs公式がpkgを提供してる。",
+      "published": "17 May 2026 15:08 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5bb4953d798f2b154da3332fbbeb1380",
+      "title": "",
+      "link": "https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/",
+      "summary": "多くの脆弱性対応含む。CVE-2026-6479の謝辞に \"Claude and Anthropic Research\" の記述があるが、これってClaude Mythosだったりするんかな。",
+      "published": "17 May 2026 15:05 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "712bf69930d1c6f4468485aa5e03e3ba",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
+      "summary": "マルチタスクさせるならCLIの対話型よりも良いUIがあるはずなので、今後CLI系AIエージェントは結局廃れていくんじゃないかな。といいつつ自分はターミナル派ですけどね。",
+      "published": "17 May 2026 15:00 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c2ffa8878f8e5bc8c50dc29cb5dae9c",
+      "title": "GORMの UnderlyingDB() が引き起こすサイレントなWHERE句汚染",
+      "link": "https://zenn.dev/mshimao/articles/e751857a9f4ebf",
+      "summary": "ひゃーこわい",
+      "published": "17 May 2026 14:55 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d0c78697965139c6715f8155dcb8a98",
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "link": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+      "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html Comments URL: https://...",
+      "published": "Sun, 17 May 2026 13:42:30 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e918e13ee2efe5930fbc8f383632c38",
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "link": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html Comments URL: https://news.ycombinato...",
+      "published": "Sun, 17 May 2026 13:22:14 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7845d6d9bb6948e6b3ed656ac6ce1f3",
+      "title": "AI is a technology not a product",
+      "link": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product Comments URL: https://news.ycombinator.com/item?id=48168626 Points: 112...",
+      "published": "Sun, 17 May 2026 13:11:20 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d91f18c4e4b77de92990711506be7fae",
+      "title": "Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン - Qiita",
+      "link": "https://qiita.com/ennagara128/items/aeaee3e64e75076503fe",
+      "summary": "はじめに Qiita で「Claude Code を社内で使うための『AIエージェントセキュリティ』実践編」がトレンド入りしていました。 Claude Code を組織で使い始める時、最も多い不安は 「機密情報がうっかり漏れないか」 です。 実際にうちのチームで1年以上運用してきた経験から、最低限こ...",
+      "published": "2026-05-17T08:23:22Z",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b65c2aca35e78ad1561d34640c44c0f7",
+      "title": "無料でウェブサイトの変化を自動チェックし通知で教えてくれるセルフホスト可能な監視ツール「changedetection.io」はどんなツールなのかレビュー",
+      "link": "https://gigazine.net/news/20260517-changedetection-io/",
+      "summary": "ウェブページの更新チェックは、毎日1回だけならブラウザを開いて確認すれば済みます。しかしチェックする対象が増えていくにつれ、手動確認はどんどん大変になってしまいます。「changedetection.io」はウェブページの内容を定期的に取得し、前回取得した内容との差分を検出して通知してくれるウェブペ...",
+      "published": "2026-05-17T13:15:52Z",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95c493ce283b9a08efb48d430531e3b9",
+      "title": "Claude Code を大規模コードベースで使うベストプラクティス - izanami",
+      "link": "https://izanami.dev/post/af045ef8-eff9-4317-b05a-abce17e14f55",
+      "summary": "Claude Code の精度はモデルよりハーネスの整備で決まる。CLAUDE .md はルートを薄く、ローカルな規約はサブディレクトリに書く。作業はリポジトリルートやなくサブディレクトリで始める Claude Code を大規模コードベースで使うベストプラクティス Claude Code の精度は...",
+      "published": "2026-05-16T14:02:39Z",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b75109ba01b015dc9e18f207e14c89e",
+      "title": "",
+      "link": "https://clianything.cc/",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 HKUDS / CLI-Anything ⭐ 35,247 (+333) 🗒 Python \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https...",
+      "published": "17 May 2026 15:16 +0000",
+      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-17T14:50:11.327751+00:00"
+  "updated_at": "2026-05-17T16:49:03.876690+00:00"
 }

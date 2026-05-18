@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e8edd27eb79b99e938c02a2862fb7bfe",
-      "title": "Quack: The DuckDB Client-Server Protocol – DuckDB",
-      "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "summary": "うおおおおお、アツイ。ネーミングセンスが良い。",
-      "published": "17 May 2026 14:44 +0000",
-      "fetched_at": "2026-05-17T14:50:11.327751+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4707e91b66c6bea3d0f2e7985e2312aa",
       "title": "nginxに18年前から存在する重大な脆弱性が発見される | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/05/nginx-rift-vulnerability",
@@ -1259,7 +1249,87 @@
       "fetched_at": "2026-05-18T17:53:32.561049+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "f568df07558fd44a6b9450cd161905f8",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/ Comments URL: https://news.ycombinator.co...",
+      "published": "Mon, 18 May 2026 17:38:22 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81beda6aea68725a06995eaac09dd8df",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless Comments URL: https://news.ycombinator.com/item?id=48182281 Points: 178 # Com...",
+      "published": "Mon, 18 May 2026 17:01:21 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "061c0f8ea366007637daa2ecdf940843",
+      "title": "Qwen 3.7 Preview",
+      "link": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+      "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2056403591464984753 Comments URL: https://news.ycombinator.com/item?id=48181877 Points: 111 # Com...",
+      "published": "Mon, 18 May 2026 16:24:11 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b1e4c307b544ee1ec117b2c26d59c70",
+      "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
+      "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+      "summary": "Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism Comments URL: https://news.ycombinator.com/item?id=48181041 Points: ...",
+      "published": "Mon, 18 May 2026 15:18:19 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "121a173052d0151b11af2184a45ce2e8",
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "link": "https://github.com/2b2tplace/1m_release",
+      "summary": "Article URL: https://github.com/2b2tplace/1m_release Comments URL: https://news.ycombinator.com/item?id=48180204 Points: 107 # Comments: 69",
+      "published": "Mon, 18 May 2026 14:13:07 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30cad0aad8d31563a2b37956a5179d82",
+      "title": "Utah lawmakers form united front in push to ban prediction markets",
+      "link": "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets Comm...",
+      "published": "Mon, 18 May 2026 11:38:48 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a8ea22745c633d0847f807b4d41d444",
+      "title": "Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/",
+      "summary": "Amazon SageMaker Studio IDEs, including JupyterLab and Code Editor, now support GPU capacity reservations through SageMaker Flexible Training Plans (F...",
+      "published": "Mon, 18 May 2026 15:00:00 GMT",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d32832007b453eb1cde4adbbd51abfc6",
+      "title": "C25, from Nonlinear Labs and Stephan Schmitt, is all about performance",
+      "link": "https://cdm.link/c25-from-nonlinear-labs-and-stephan-schmitt-is-all-about-performance/",
+      "summary": "It's not lost on me that the same week InMusic announced its acquisition of Native Instruments, NI's original founder, Stephan Schmitt was busy showin...",
+      "published": "Mon, 18 May 2026 17:58:25 +0000",
+      "fetched_at": "2026-05-18T19:27:51.154181+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-18T17:53:32.561049+00:00"
+  "updated_at": "2026-05-18T19:27:51.154181+00:00"
 }

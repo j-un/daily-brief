@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4707e91b66c6bea3d0f2e7985e2312aa",
-      "title": "nginxに18年前から存在する重大な脆弱性が発見される | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/05/nginx-rift-vulnerability",
-      "summary": "修正バージョンは1.30.1と1.31.0。皆様。",
-      "published": "17 May 2026 15:37 +0000",
-      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "712bf69930d1c6f4468485aa5e03e3ba",
-      "title": "",
-      "link": "https://www.publickey1.jp/blog/26/vs_codeaiagent_window.html",
-      "summary": "マルチタスクさせるならCLIの対話型よりも良いUIがあるはずなので、今後CLI系AIエージェントは結局廃れていくんじゃないかな。といいつつ自分はターミナル派ですけどね。",
-      "published": "17 May 2026 15:00 +0000",
-      "fetched_at": "2026-05-17T16:49:03.876690+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "3e20d3c9412efb2c1745bde10b35fdd8",
       "title": "CUDA Books",
       "link": "https://github.com/alternbits/awesome-cuda-books",
@@ -1329,7 +1309,67 @@
       "fetched_at": "2026-05-18T19:27:51.154181+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "0b4244d9cbad97edc8023285904b5ea4",
+      "title": "Haiku OS runs on M1 Macs now",
+      "link": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2 Comments URL: https://news.ycombinator.com/item?id=48183579 Points: 2...",
+      "published": "Mon, 18 May 2026 18:30:55 +0000",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0aa77b1174aec94aa1adc8a7b9d6d3c2",
+      "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "summary": "https://finance.yahoo.com/markets/crypto/articles/iran-start... Comments URL: https://news.ycombinator.com/item?id=48182592 Points: 155 # Comments: 21...",
+      "published": "Mon, 18 May 2026 17:25:54 +0000",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4882d69ab81153070576921dc21db2f",
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "link": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "summary": "Article URL: http://www.csl.sri.com/users/neumann/psos.pdf Comments URL: https://news.ycombinator.com/item?id=48177300 Points: 100 # Comments: 67",
+      "published": "Mon, 18 May 2026 09:40:51 +0000",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11b94dd5df787b5c7d801d186fa52fa6",
+      "title": "Amazon EVS enables support for 32 hosts per environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts",
+      "summary": "Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports up to 32 ESXi hosts per environment, double the previous limit o...",
+      "published": "Mon, 18 May 2026 17:55:00 GMT",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d917e05895b590d6aea81a8204e8fa0",
+      "title": "Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/",
+      "summary": "Amazon Redshift now supports writing directly to Apache Iceberg tables via the AWS Glue Data Catalog (awsdatacatalog) mount and ALTER TABLE DDL statem...",
+      "published": "Mon, 18 May 2026 16:25:00 GMT",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "166576361790eef7982f2ecfa34d6208",
+      "title": "SmartHRでのモジュラモノリス推進の振り返りと今後 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/05/18/160311",
+      "summary": "こんにちは、SmartHRでプロダクトエンジニアをしているkureです。 SmartHRでは2023年から一部パッケージでモジュラモノリス化の取り組みが始まり、2024年にコードベース全体での推進が決まりました。本記事では、私たちがなぜモジュラモノリス化に取り組んだのか、どのような成果と課題があった...",
+      "published": "2026-05-18T08:02:21Z",
+      "fetched_at": "2026-05-18T21:04:20.004330+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-18T19:27:51.154181+00:00"
+  "updated_at": "2026-05-18T21:04:20.004330+00:00"
 }

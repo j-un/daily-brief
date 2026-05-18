@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d602a57286031258b6f9b17d2787e01e",
-      "title": "",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaudezigrust.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 JavaScriptランタイムのBun、Claudeを使って開発言語をZigからRustへ移行中",
-      "published": "17 May 2026 06:55 +0000",
-      "fetched_at": "2026-05-17T09:28:49.068015+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "cfbcbe75159daecaca169991bddc818f",
       "title": "",
       "link": "https://github.com/regent-vcs/re_gent",
@@ -939,7 +929,167 @@
       "fetched_at": "2026-05-18T11:40:50.027539+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "52d39fcd292cff8616f3bbcd9f1d7ad6",
+      "title": "",
+      "link": "https://www.publickey1.jp/blog/26/aized_10atomrust.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIとの共同作業に最適化したコードエディタ「Zed 1.0」登場。Atomエディタの開発者らがRustで最初から作り直した理由とは",
+      "published": "17 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "017285585d901f4cc4bd0bca0b18c327",
+      "title": "Show HN: Auto-identity-remove – Automated data broker opt-out runner for macOS",
+      "link": "https://github.com/stephenlthorn/auto-identity-remove",
+      "summary": "Article URL: https://github.com/stephenlthorn/auto-identity-remove Comments URL: https://news.ycombinator.com/item?id=48178184 Points: 280 # Comments:...",
+      "published": "Mon, 18 May 2026 11:32:42 +0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c193ce0850d34177224f37b154bc4269",
+      "title": "Eric Schmidt speech about AI booed during graduation",
+      "link": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+      "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585 Comments URL: https://news.ycombinator.com...",
+      "published": "Mon, 18 May 2026 10:50:25 +0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9319c358b0472809caa775a16eecabaf",
+      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+      "link": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+      "summary": "Article URL: https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518 Comments URL: ...",
+      "published": "Mon, 18 May 2026 09:12:10 +0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c28495177753f56bfab530500bba5578",
+      "title": "ワコム、社長らの解任求める株主提案に反対決議 オフィスの“私物化”指摘に「的外れ」と反論",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/18/news120.html",
+      "summary": "ワコムは5月13日、英投資ファンドのアセット・バリュー・インベスターズ（以下、AVI）が井出信孝社長と中嶋崇史COOの解任などを求めた株主提案について、取締役会が反対を決議したと発表した。AVIが指摘しているワコム東京支社オフィスの一部私物化についても事実と異なると反論している。 AVIは、ワコム東...",
+      "published": "2026-05-18T11:48:45Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "743cf4572e20b266e31adab38ecf98fc",
+      "title": "AI コーディングで secret を漏らさないための４層防御",
+      "link": "https://zenn.dev/takna/articles/secret-leak-prevention-4-layer",
+      "summary": "顧客向けマニュアルにパスワードを直書きしてコミットし、後で履歴抹消とパスワード全ローテーションをやるハメになりました。同じミスをしないための４層防御を共有します。AI時代こそ、git レベルの決定論的な防御が効きます。 何が起きたか 顧客向けの運用マニュアルを書いていました。サーバーへのログイン情報...",
+      "published": "2026-05-18T00:18:21Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7754e84c4b670d46ed77989b44158df",
+      "title": "「Rufus 4.14」が公開、Microsoftが強制する不要アプリを除いてOSをセットアップ／無料のブータブルUSBドライブ作成ツール",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2109450.html",
+      "summary": "",
+      "published": "2026-05-18T07:31:28Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "149b9c559025f12225f2cdd5dd69192d",
+      "title": "マルタ政府が全国民にChatGPT Plusを無料提供へ、AI講座の修了者が1年間利用可能に",
+      "link": "https://gigazine.net/news/20260518-malta-chatgpt-plus/",
+      "summary": "OpenAIとマルタ政府が、マルタ国民全員にChatGPT Plusを提供する世界初の大規模パートナーシップを2026年5月16日に発表しました。対象者はAIリテラシー講座を修了すると、ChatGPT Plusを1年間無料で利用できるようになるとのこと。OpenAIは今回の取り組みについて「人々が日...",
+      "published": "2026-05-18T08:44:13Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8d724274c151f59fc9e45f9ea85d5c7",
+      "title": "セキュアAPI 設計・構築・実装を貫く原則 | 翔泳社",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798196336",
+      "summary": "インターネットトラフィックの大部分を占めるAPIを いかにして安全に保つのか 【本書の内容】 本書は José Haro Peralta, \"Secure APIs\", Manning Publications 2025 の邦訳版です。 現代のITシステムにおいて、APIはもはや単なる「接続口」では...",
+      "published": "2026-05-18T03:17:26Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfc8013f5dae8c1ab1d5fb86a1f68d02",
+      "title": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015124801000",
+      "summary": "非常に高い性能で、サイバー攻撃に悪用された場合のリスクが指摘されている最新のAIモデル「クロード・ミュトス」について、都内のセキュリティー会社には、どの程度の影響があるかや対応方法について、企業からの…",
+      "published": "2026-05-18T09:19:52Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "582f6a213566bacadb4c5a0ad9f3880a",
+      "title": "AI「Claude Mythos」脆弱性対策、民間・海外と協力 政府が関係省庁会議 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA145B50U6A510C2000000/",
+      "summary": "政府は18日、新型の人工知能（AI）モデル「Claude Mythos（クロード・ミュトス）」を巡る関係省庁会議の初会合を開いた。今後出現が想定される高性能AIからのサイバー防御体制を官民で迅速に構築するための対応策を示した。会議にはサイバー安全保障担当の松本尚デジタル相をはじめ、金融庁や経済産業省...",
+      "published": "2026-05-18T09:17:22Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca96920d1fe70c6f5b6c63818ab7619d",
+      "title": "NotebookLMの学習ノート作成をAIで自動化する - Qiita",
+      "link": "https://qiita.com/shin_takoyaki/items/0fb80d30daf31846a85f",
+      "summary": "CodexでNotebookLMのリソース収集を自動化して、学習用ノートを作る はじめに NotebookLMの登場により、AIを使った新しい学習方法が少しずつ広がっています。 NotebookLMでは、PDF・Webページ・ドキュメントなどのリソースをもとに、AIと対話しながら学習できます。 単に...",
+      "published": "2026-05-17T23:42:24Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ead7ae8fe1d720a8bdb83552bc898e3",
+      "title": "「AIデータセンターの電力需要が急増」はホント？ 発電大手Jパワー社長が明かした“報道との温度差”",
+      "link": "https://www.itmedia.co.jp/business/articles/2605/18/news017.html",
+      "summary": "「生成AIの需要が増加し、AI処理を担うデータセンターの電力消費が急増する」――こうした見解が広がっている。 国際エネルギー機関（IEA）の報告書『Energy and AI』は、世界のデータセンターの電力消費量は、2030年に約9450億キロワット時（kWh）に達すると推計する。これは、日本の年間...",
+      "published": "2026-05-17T22:43:54Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2c31bfbf067be696839fa75db807720",
+      "title": "AIだけでゲームは作れるのか？ Codexに7本作らせて見えた実力と限界 (1/5)",
+      "link": "https://ascii.jp/elem/000/004/402/4402693/",
+      "summary": "OpenAIのAIコーディング環境「Codex」の性能がずば抜けて高いと話題になっています。Codexは、一度何かを作成するように指示すると、完成まで持っていく自律的な能力が高く、4月にリリースされたGPT-5.5では、さらにその能力が上がったとも言われます。それでは、ゲームを作らせると、どれくらい...",
+      "published": "2026-05-18T01:29:57Z",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f4a5b286476d203fbd1f50198296d6f",
+      "title": "Spencer’s Gifts",
+      "link": "https://daily.bandcamp.com/hotlist/vic-spencer-album-guide",
+      "summary": "Vic Spencer’s sprawling discography encompasses both the profound and the profane. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 18 May 2026 13:32:56 -0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "c8b57976a920f7aceea273bb1c5b6400",
+      "title": "Death Kneel, “Remembering Well”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/death-kneel-remembering-well-review",
+      "summary": "The Tomb Mold drummer and vocalist taps into a galaxy's worth of musical impulses with this fascinating noise project. Read full story on the Bandcamp...",
+      "published": "Mon, 18 May 2026 13:32:35 -0000",
+      "fetched_at": "2026-05-18T14:57:11.483907+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-18T11:40:50.027539+00:00"
+  "updated_at": "2026-05-18T14:57:11.483907+00:00"
 }

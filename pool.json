@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cfbcbe75159daecaca169991bddc818f",
-      "title": "",
-      "link": "https://github.com/regent-vcs/re_gent",
-      "summary": "AIエージェントを使ったプログラミング用に設計されたバージョン管理システム。プロンプトやエージェントの動作も含め自動で記録するところがポイントか。gitを置き換えるものではなく併用がオススメと。",
-      "published": "17 May 2026 12:52 +0000",
-      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "cc231be019f3fb8c2803b20ead590884",
-      "title": "スローHTTPがWebサーバーのリソースに与える影響の検証 #Security - Qiita",
-      "link": "https://qiita.com/prograti/items/79584e12b0788ef100f8",
-      "summary": "わいわい",
-      "published": "17 May 2026 12:22 +0000",
-      "fetched_at": "2026-05-17T13:02:05.326090+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e8edd27eb79b99e938c02a2862fb7bfe",
       "title": "Quack: The DuckDB Client-Server Protocol – DuckDB",
       "link": "https://duckdb.org/2026/05/12/quack-remote-protocol",
@@ -1089,7 +1069,197 @@
       "fetched_at": "2026-05-18T14:57:11.483907+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "e2c8ab9ad08db3e74013388e57ca6321",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "link": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai Comments URL: https://news.ycombinator.com/item?id=48181125 Points: 212 # Comments: 89",
+      "published": "Mon, 18 May 2026 15:24:19 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cf69c2a9dd2db03a0f682e26c195929",
+      "title": "Actually, democracy dies in H.R.",
+      "link": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "summary": "https://archive.ph/RKltX Comments URL: https://news.ycombinator.com/item?id=48180091 Points: 178 # Comments: 121",
+      "published": "Mon, 18 May 2026 14:04:26 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cce0b5a84412e5ea1504dc9b91598a8",
+      "title": "Project Glasswing: what Mythos showed us",
+      "link": "https://blog.cloudflare.com/cyber-frontier-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/cyber-frontier-models/ Comments URL: https://news.ycombinator.com/item?id=48179732 Points: 147 # Comments: 56",
+      "published": "Mon, 18 May 2026 13:37:11 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "adec4ae5403c90fb812041dd4c2e8461",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "link": "https://github.com/zakirullin/files.md",
+      "summary": "Article URL: https://github.com/zakirullin/files.md Comments URL: https://news.ycombinator.com/item?id=48179677 Points: 323 # Comments: 183",
+      "published": "Mon, 18 May 2026 13:33:33 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "413d6c6bb7a45079eb068cdb52bbd874",
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "link": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o Comments URL: https://news.ycombinator.com/item?id=48179183 Points: 147 # Comments: 37",
+      "published": "Mon, 18 May 2026 13:01:18 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "961d391e877a5d38459601d488442fce",
+      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+      "link": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840 Comments URL: https://news.ycombina...",
+      "published": "Mon, 18 May 2026 12:49:54 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b6352c28fd94fe3395f70af65d7cbdb",
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "link": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf Comments URL:...",
+      "published": "Mon, 18 May 2026 12:49:28 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87654109fab12fa4b86f9b7771660298",
+      "title": "Linux security mailing list 'almost unmanageable'",
+      "link": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "summary": "Article URL: https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-e...",
+      "published": "Mon, 18 May 2026 12:20:50 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50df58ec6ed7459aea73d88df0c78b2b",
+      "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+      "link": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+      "summary": "Article URL: https://www.reddit.com/r/pasadena/s/94BHlkE84r Comments URL: https://news.ycombinator.com/item?id=48176762 Points: 101 # Comments: 45",
+      "published": "Mon, 18 May 2026 08:19:21 +0000",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "977a9e1f9938c990043baf3479d15d34",
+      "title": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/",
+      "summary": "AWS SAM CLI now supports AWS CloudFormation Language Extensions, enabling you to reduce duplication in your infrastructure as code (IaC) templates whi...",
+      "published": "Mon, 18 May 2026 16:31:00 GMT",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "26e46b2df9af38b6d37698dbbe080976",
+      "title": "Amazon RDS for MySQL now supports new minor versions 8.0.46 and 8.4.9",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mysql-minor-versions/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for MySQL now supports MySQL minor versions 8.0.46 and 8.4.9, the latest minors released by the MySQL ...",
+      "published": "Fri, 08 May 2026 07:00:00 GMT",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "efeec3da6454d0e7723d744a5e61f18e",
+      "title": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表",
+      "link": "https://www.publickey1.jp/blog/26/rhelred_hatred_hat_enterprise_linux_long-life.html",
+      "summary": "あるバージョンのRHELを永遠に動かし続けられる。Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表 IBM傘下のRed Hatは、5月11日から14日にかけて米アトランタで開催したイベント「Red Hat Summit 2026...",
+      "published": "2026-05-18T14:39:43Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "52077f28a4a26a8c8dae3abf27958b1b",
+      "title": "怪聞書（フリーフォント） - lavsic - BOOTH",
+      "link": "https://lavsic.booth.pm/items/8356578",
+      "summary": "【概要】 怪聞書は、源ノゴシックを改変したフリーフォントです。 新聞や雑誌の文字を切り貼りして作った“怪文書”のような雰囲気をイメージしています。 複数のフォントをミックスしながら、文字ごとにサイズや配置へランダムな凸凹感を加えることで、チグハグで不揃いな怪文書らしさを表現しています。 無料版と投げ...",
+      "published": "2026-05-18T07:30:54Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87bd85e73f4c13767690a9a1bdd0aaa5",
+      "title": "人間 vs. 人型ロボ、より多く作業をこなせるのは？ 生配信で対決した結果…… 米企業",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/18/news069.html",
+      "summary": "人間と人型ロボット、どちらがより多く作業をこなせるのか――ロボット開発企業の米Figureは5月18日（日本時間）、このような勝負の様子を生配信した。同社の人型ロボット「Figure 03」のデモの一環で、10時間で小型の荷物を仕分けられる量を競った。 Figure 03は、同社が2025年10月に...",
+      "published": "2026-05-18T04:27:44Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44acb7623408baccba41efe993eafa38",
+      "title": "Google検索公式による「生成型AI機能向けにウェブサイトを最適化する方法」",
+      "link": "https://gigazine.net/news/20260518-google-guide-optimizing-generative-ai/",
+      "summary": "生成AIの台頭により、ユーザーの情報検索方法は大きく変化しつつあり、これに伴い検索エンジンのGoogle検索もアップグレードされています。こういった状況で「Google検索における生成型AI機能向けにウェブサイトを最適化する方法」をGoogleが解説しました。 A new resource for ...",
+      "published": "2026-05-18T13:23:50Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "62067f1559eaff78a8beb550c937bdbc",
+      "title": "「性的ディープフェイク」の構造",
+      "link": "https://okadaasa.theletter.jp/posts/c765648e-1cb9-4613-bbb3-f8bf6f64e88b",
+      "summary": "2025年12月から2026年1月の9日間、xAIのGrokは440万枚以上の画像を生成・投稿した。そのうち、少なくとも180万枚は、性的に表象された女性だった。「同意」というフレームが取り逃がすもの、客体化のインフラ、被害者の労働、EUのAI法改正までを連続体として読み直す。",
+      "published": "2026-05-18T06:06:57Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "534b40c63c0dfd01af77160478c66bb9",
+      "title": "診察内容を自動でまとめる承認済み医療AIの6割が薬剤名を取り違えていたことが判明、存在しない症状の記録も",
+      "link": "https://gigazine.net/news/20260518-doctor-ai-blow-basic-fact/",
+      "summary": "カナダ・オンタリオ州の監査総長事務所が州政府で使われているAIシステムを調べたところ、医療機関向けのAI医療記録作成システムで重大な誤りが相次いでいたことが分かりました。 Office of the Auditor General of Ontario https://www.auditor.on....",
+      "published": "2026-05-17T22:31:39Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af6b553b86374bf6e293a0415f7caf72",
+      "title": "増田のブクマbotを取り締まらない運営にイライラしてる",
+      "link": "https://anond.hatelabo.jp/20260517193713",
+      "summary": "ルールの範囲内ってのは分かる でも、いい増田が埋もれる原因にもなってる 手当たり次第ブクマするから、「人の手で選別されてるから良い記事」という保証がなくなってるんだよな 前は増田のブクマ一覧見たら、良い増田がブクマされてる可能性が高いので見る気になったけど、今はbotの可能性が高いから、見なくなった...",
+      "published": "2026-05-17T10:45:13Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f10bfa8e371d9c2e71d13370639b170c",
+      "title": "バルミューダ、赤字続くも「各段階の損益は改善」 6万円の「The Clock」は予約1000台超に",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/18/news124.html",
+      "summary": "家電メーカーのバルミューダが5月15日に発表した2026年12月期第1四半期決算（26年1月～3月）は、売上高が前年同期比18.7％減の17億7500万円、営業損失は2億6700万円、最終損失は2億8400万円と前年度通期に続き赤字だった。ただし各段階における損益は改善し、新製品の予約も好調だという...",
+      "published": "2026-05-18T13:41:37Z",
+      "fetched_at": "2026-05-18T17:53:32.561049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-18T14:57:11.483907+00:00"
+  "updated_at": "2026-05-18T17:53:32.561049+00:00"
 }

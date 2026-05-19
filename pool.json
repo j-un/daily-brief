@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "84c14718ad4c6cb6bba78cd09e07753d",
-      "title": "",
-      "link": "https://tech.mntsq.co.jp/entry/2026/05/11/085614",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2千万件のログ分析から始めるRedis -> SQS移行とオートスケール",
-      "published": "18 May 2026 10:55 +0000",
-      "fetched_at": "2026-05-18T11:40:50.027539+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "36753de6d35abe7115101cb89ca8f955",
-      "title": "",
-      "link": "https://tech.layerx.co.jp/entry/2026/05/12/125409",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代の新規プロダクト立ち上げ 〜バクラク給与の開発で見えたこと〜",
-      "published": "18 May 2026 08:55 +0000",
-      "fetched_at": "2026-05-18T11:40:50.027539+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2e556a08ce170db6e7ea5fa821a67ec4",
-      "title": "Six SQL patterns I use to catch transaction fraud",
-      "link": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-      "summary": "May 12, 2026 Quick disclaimer: I do data work on a program-integrity team. Examples below use generic transaction tables and made-up scenarios. Nothin...",
-      "published": "2026-05-16T13:05:17Z",
-      "fetched_at": "2026-05-18T11:40:50.027539+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "40fce0b0055db335c51a7a5482b87cc1",
       "title": "Who will buy your services if you fire us all?",
       "link": "https://carette.xyz/posts/who_will_buy_your_services/",
@@ -1159,7 +1129,147 @@
       "fetched_at": "2026-05-19T14:41:59.061316+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "2387fc59c25524c36ce3e16cb05e5246",
+      "title": "AI is too expensive",
+      "link": "https://www.wheresyoured.at/ai-is-too-expensive/",
+      "summary": "Article URL: https://www.wheresyoured.at/ai-is-too-expensive/ Comments URL: https://news.ycombinator.com/item?id=48195100 Points: 104 # Comments: 99",
+      "published": "Tue, 19 May 2026 15:59:03 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2db665e3a8723821f31c81224cfcaf29",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "link": "https://virtualosmuseum.org/",
+      "summary": "Article URL: https://virtualosmuseum.org/ Comments URL: https://news.ycombinator.com/item?id=48195009 Points: 213 # Comments: 37",
+      "published": "Tue, 19 May 2026 15:53:38 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7a7cff3627e36fbc009d02efb3eac57",
+      "title": "I’ve joined Anthropic",
+      "link": "https://twitter.com/karpathy/status/2056753169888334312",
+      "summary": "https://xcancel.com/karpathy/status/2056753169888334312 Comments URL: https://news.ycombinator.com/item?id=48194352 Points: 661 # Comments: 256",
+      "published": "Tue, 19 May 2026 15:07:45 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e43a2f5dfb11f4e327ee3b21474a3ee7",
+      "title": "Colonization of Venus",
+      "link": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Colonization_of_Venus Comments URL: https://news.ycombinator.com/item?id=48192410 Points: 102 # Comments: 7...",
+      "published": "Tue, 19 May 2026 12:26:45 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb27f34fc8e53653db183d17adf53c8a",
+      "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
+      "link": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
+      "summary": "Article URL: https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330...",
+      "published": "Tue, 19 May 2026 12:24:55 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2697703420d3b99a0851daf103a7fc3",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
+      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/ Comments URL: https://news.ycombinator.com/item?id=481...",
+      "published": "Tue, 19 May 2026 07:45:53 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb79816f903691c08866eac07f493ff5",
+      "title": "増田につくブコメ",
+      "link": "https://anond.hatelabo.jp/20260519063001",
+      "summary": "増田にいっぱいブコメがついた時に見当違いのコメントされてムカつくときない？ よくあるのが「これは男が書いてる。俺は騙せないぞ。」みたいなやつ。（書き方はこんなんじゃなくても言いたいことがこれってことね） 女が書いてるのに。 答え合わせできないのに本人は「俺は見破った。俺は賢い。」と思ってて滑稽だけど...",
+      "published": "2026-05-18T21:30:49Z",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fb9790339c7657d3bb8146752e5ded7",
+      "title": "マスク氏、対オープンAI訴訟で敗訴 時効成立",
+      "link": "https://www.afpbb.com/articles/-/3635670",
+      "summary": "【5月19日 AFP】米カリフォルニア州オークランドの連邦地裁で18日、米実業家のイーロン・マスク氏が米オープンAIに対して起こした裁判で、陪審員がマスク氏の訴えは時効に該当すると判断した。 マスク氏は、ChatGPTを運営するオープンAIが利益追求型のビジネスへと転換したことが、元々の非営利目的の...",
+      "published": "2026-05-19T00:21:12Z",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e236c5dc67fae4cd58e08f080de3ddf",
+      "title": "Novation、第二世代FL Studio用キーボード、「FLkey 2」を発表…… 61鍵／49鍵モデルはセミ・ウェイト鍵盤を採用、高機能アルペジエーターも搭載",
+      "link": "https://icon.jp/archives/27584",
+      "summary": "Novationが、FLkeyをアップデート。第二世代のFL Studio用キーボード・コントローラー、「FLkey 2」が発表になりました。 第二世代のFL Studio用キーボード・コントローラー、「FLkey 2」 […]",
+      "published": "Tue, 19 May 2026 15:00:00 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "8c27bff6548a09cd7239035f50845c34",
+      "title": "Splice partners with ElevenLabs on “next-gen AI-powered creative tools”",
+      "link": "https://musictech.com/news/industry/splice-elevenlabs-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=splice-elevenlabs-partnership",
+      "summary": "“In this second wave of AI in music, the creator comes first,” says Kakul Srivastava, CEO of Splice. The post Splice partners with ElevenLabs on “next...",
+      "published": "Tue, 19 May 2026 16:05:04 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "dbce37fe27d0cd1a6f60eba39ea96a05",
+      "title": "Karina Magallon goes with the flow: “If you get too rigid, you forget what you’re creating”",
+      "link": "https://musictech.com/features/interviews/karina-magallon-interview-bandlab-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=karina-magallon-interview-bandlab-opportunities",
+      "summary": "Panamanian-American recording artist Karina Magallon has thoughts on boundless music creation, finding a supportive community, and thriving in the mus...",
+      "published": "Tue, 19 May 2026 15:52:29 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "8b7b54c7b345982aafdfc19d142006ba",
+      "title": "“A huge step forward for beatmakers and producers”: Novation launches next-generation FLKey 2 range of FL Studio-compatible controllers",
+      "link": "https://musictech.com/news/gear/novation-flkey-2/?utm_source=rss&utm_medium=rss&utm_campaign=novation-flkey-2",
+      "summary": "With upgraded hardware and deeper FL Studio integration. The post “A huge step forward for beatmakers and producers”: Novation launches next-generatio...",
+      "published": "Tue, 19 May 2026 15:11:43 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "264410ae124de6adbdab0d88b82d7484",
+      "title": "Bringing Belgian Folk Music Back to Life",
+      "link": "https://daily.bandcamp.com/scene-report/belgian-folk-music-guide",
+      "summary": "With many of its original recordings lost to history, its up to a new generation to revive the art form. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 19 May 2026 15:49:20 -0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "adffd77b0909be7f8dd91dfe50a145bb",
+      "title": "あるソフトウェアエンジニアの1日（2028）",
+      "link": "https://iwashi.co/2026/05/19/a-day-in-engineering-2028",
+      "summary": "8:00 AM 「夜の仕事」を確認する 起床してベッドの中で最初に開くのは、Slackでもメールでもなく、自分専用のエージェントダッシュボードだ。 昨日の終業時に5つのタスクを走らせて帰った。それぞれに「夜のうちにこのゴールまで進めてくれ」と指示しておいた。 先週リリースした検索機能のp95レイテン...",
+      "published": "Tue, 19 May 2026 00:00:00 +0000",
+      "fetched_at": "2026-05-19T17:59:05.101736+00:00",
+      "feed_name": "iwashi.co",
+      "category": "blog"
     }
   ],
-  "updated_at": "2026-05-19T14:41:59.061316+00:00"
+  "updated_at": "2026-05-19T17:59:05.101736+00:00"
 }

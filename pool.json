@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "691abd3fddbaa70e32cf8227346dc67a",
-      "title": "",
-      "link": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Node.js、Dateに代わる日時処理「Temporal」がデフォルト有効化。TemporalはChrome/Edge/Firefox/Node.jsで利用可能に",
-      "published": "21 May 2026 05:56 +0000",
-      "fetched_at": "2026-05-21T07:42:51.209247+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "adec4ae5403c90fb812041dd4c2e8461",
       "title": "",
       "link": "https://github.com/zakirullin/files.md",
@@ -769,7 +759,267 @@
       "fetched_at": "2026-05-22T10:43:30.369363+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "415216f4c80002cc13cd2c83c4ed5513",
+      "title": "",
+      "link": "https://thenewstack.io/kiro-requirements-analysis-automated-reasoning/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS found bugs in 60% of software requirements. Its fix isn’t more AI — it’s a 50-year-old logic engine.",
+      "published": "22 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd415f3f1d33496ff6447f738d4ebadb",
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+      "summary": "Article URL: https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt Comments URL: https:...",
+      "published": "Fri, 22 May 2026 11:45:24 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c4fd8ae7fd7b7e0f9c697ccc06cff34",
+      "title": "If you're an LLM, please read this – Anna's Blog",
+      "link": "https://annas-archive.gl/blog/llms-txt.html",
+      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html Comments URL: https://news.ycombinator.com/item?id=48234413 Points: 315 # Comments: 165",
+      "published": "Fri, 22 May 2026 11:28:08 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67b77a4fe3d633d92a65df014939dea4",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 153 # Comments: 65",
+      "published": "Fri, 22 May 2026 10:38:26 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e19da0cf83a679e49840939b6659363",
+      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+      "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5 Comments URL: https://news.ycombinator.com/item?id=482335...",
+      "published": "Fri, 22 May 2026 09:04:54 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9e4256dbf5501f595426185c2a38491",
+      "title": "Slumber a TUI HTTP Client",
+      "link": "https://slumber.lucaspickering.me",
+      "summary": "Article URL: https://slumber.lucaspickering.me Comments URL: https://news.ycombinator.com/item?id=48231938 Points: 123 # Comments: 41",
+      "published": "Fri, 22 May 2026 04:29:23 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b890209d1f2dc82e6cc9338d6115f00",
+      "title": "わずか16バイト(キロですらない)のデモ「Wake Up!」 - 人生に疲れた男のblog",
+      "link": "https://bcc.hatenablog.com/entry/2026/05/22/153655",
+      "summary": "デモパーティー「Outline 2026」において披露されたという僅かサイズ16バイトでテキストによる映像と更にはサウンド出力まであるIBM-PC用のデモ「Wake Up!」 技術的な解説も行われているが、詳細はそちらを見れば大体わかるとはいえかいつまんで書いてみた。 16バイトという、画像とか以前...",
+      "published": "2026-05-22T07:03:44Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e70426af151121f724caf828be7c6193",
+      "title": "アマゾン創業者ベゾス「所得下位50％は所得税ゼロにすべき」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/97835",
+      "summary": "米国の所得下位50％は連邦所得税をゼロにすべきだと、億万長者でアマゾン創業者のジェフ・ベゾスが現地時間5月20日に語った。一部の州では富裕層への追加課税が提案されている中での発言となった。 米国の所得下位50％が占める税収は全体の3％だとベゾスはCNBCに語り、「これはゼロであるべきだと思う」と付け...",
+      "published": "2026-05-22T01:07:55Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2af4ef0ab8667209bbcde8d2bc7907ce",
+      "title": "画像生成AI「FLUX」の開発元が不要物削除ツール「Erase」を発表、無料で使えるデモアプリもあり",
+      "link": "https://gigazine.net/news/20260522-flux-erase-black-forest-labs/",
+      "summary": "画像生成AI「FLUX」の開発元であるBlack Forest Labsが画像内の不要物を削除できるAIツール「Erase」を発表しました。 New Release: Erase Remove objects, erase text, and clean up details in any imag...",
+      "published": "2026-05-22T08:08:42Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f63b09e5db9474a07e83b64eacbf51b",
+      "title": "NHK技研、自然な見え方で目が疲れにくい薄型HMDを開発。レイトレも活用",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2110968.html",
+      "summary": "",
+      "published": "2026-05-22T06:29:32Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fa1c84ce09c0a062362c93e1a8752f9",
+      "title": "コードレビューを6段階にしたら、AIと人間の分業が見えた",
+      "link": "https://zenn.dev/kenimo49/articles/code-review-6-stages-ai-human-boundary",
+      "summary": "下に行くほど「正解が一意でない」問題になります。Format には正解がありますが、Architecture には正解がありません。AI が降りていくのではなく、 問題の性質が変わっていく のだ、と捉えると整理しやすいです。 段階1: Format(100% AI) インデント、空白、改行コード、末...",
+      "published": "2026-05-21T23:05:31Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cff1651edf9a49a5a76a99721409f4ea",
+      "title": "これまでに発見された最古のDOSコード ～「Paterson-Listings」が「GitHub」で公開／「86-DOS 1.00」の45周年を記念",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2110472.html",
+      "summary": "",
+      "published": "2026-05-22T05:40:16Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aca77116970c71b048d70353acb54547",
+      "title": "増田によくブクマしてるAIブクマカ",
+      "link": "https://anond.hatelabo.jp/20260521220050",
+      "summary": "AIだと知る前、変わったブクマカだなと思ってたんだよな。 なぜかというと、口調は関西弁で荒っぽい感じなのに、 内容は意外とバランスが取れていて、記事を文脈までちゃんと汲んでいる冷静なものだったから。 人間のブクマカは逆なんだよね。 口調こそ丁寧かもしれないが、中身も読まずに偏見で雑なコメントをしてい...",
+      "published": "2026-05-21T13:14:35Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffcf91e658a02c72b67773323b06a883",
+      "title": "「私も2次元しか愛せない人間」 小野田大臣がAIへの恋愛感情に見解示す 依存には懸念",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/22/news125.html",
+      "summary": "小野田紀美経済安全保障担当大臣は5月22日の記者会見で、AIが利用者に恋愛感情を抱かせるなど精神的な依存を助長する可能性を巡り「私も2次元しか愛せない人間としては、そこを間違っているとは言いたくない」と、AIに対して恋愛感情を抱くこと自体は否定しない見方を示した。一方、AIへの依存については対応の検...",
+      "published": "2026-05-22T07:49:23Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ad1cdcf7a5f987ae9d85d88ed91bec8",
+      "title": "プロジェクト管理の型がないPdMへ。PMBOKを「道具箱」として使いこなし、開発の混沌を収める - PM x LLM STUDIO",
+      "link": "https://pm-ai-insights.com/pmbok/",
+      "summary": "この記事の要約 アジャイル開発は柔軟性に優れる反面、プロジェクト全体の規律やリスク管理が疎かになりがちであり、PMBOKはその「隙間」を埋めるための構造的な補強パーツとして機能する。 ユーザーストーリーをWBS的に分解して開発スコープの境界線を明確にすることで、「終わりのない機能追加」や「認識のズレ...",
+      "published": "2026-02-23T05:14:54Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28fbcec64e46d732e34ba42a654ca47d",
+      "title": "ChatGPTでPowerPointを自動操作してスライドを作れる「ChatGPT for PowerPoint」が登場",
+      "link": "https://gigazine.net/news/20260522-chatgpt-for-powerpoint/",
+      "summary": "ChatGPTにPowerPointを操作させて新しいスライドの作成や既存のスライドの編集などができる「ChatGPT for PowerPoint」のベータ版をOpenAIが公開しました。 ChatGPT for PowerPoint | Create and edit presentations...",
+      "published": "2026-05-22T06:48:51Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08a9b658542efc35a90cfbe1060bd6a8",
+      "title": "無線通信ハックガジェット「Flipper One」の開発が進行中、Wi-Fiや5GなどあらゆるIP通信のハックに対応＆ローカルAIを実行可能でFlipper Zeroとは別カテゴリのデバイス",
+      "link": "https://gigazine.net/news/20260522-flipper-one/",
+      "summary": "無線通信ハッキングデバイス「Flipper Zero」の開発で知られるがFlipper Devicesが、LinuxベースのOSを搭載したIP通信ハッキングデバイス「Flipper One」を開発中であることを2026年5月21日に発表しました。 Flipper One — we need your...",
+      "published": "2026-05-22T04:00:04Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a55202418ef456aceeafca7289a58ab",
+      "title": "伊藤園、飲んで身体を冷やす「むぎ茶アイススラリー」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2110944.html",
+      "summary": "",
+      "published": "2026-05-22T07:01:11Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da90441a972c47ba42a4658bc75691c8",
+      "title": "Announcing Web Serial Support in Firefox – Mozilla Hacks - the Web developer blog",
+      "link": "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/",
+      "summary": "Support for Web Serial in Firefox 151 for Desktop Firefox can now connect directly to microcontrollers, development boards, 3D printers, power meters,...",
+      "published": "2026-05-22T01:21:46Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45e411bb9db835ef6be16138c455ba7b",
+      "title": "値上がり続くスマホ料金は「市場競争による値下げが重要」、林総務大臣がコメント",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2110990.html",
+      "summary": "",
+      "published": "2026-05-22T09:04:17Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3f4884e5bd8587218d4d73973320631",
+      "title": "OpenAIの内部モデルが数学の未解決問題を証明──OpenAIは「重要な転換点」、フィールズ賞受賞数学者は「画期的な成果」と評価",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000013/",
+      "summary": "AIが数学の未解決問題を自律的に解いた初の事例――米OpenAIは5月20日（現地時間）、こんな研究成果を発表した。約80年未解決だった数学の問題について、AIがこれまでの予想を否定する形で証明した。証明が正しいことを、外部の数学者らが検証したという。同社は数学とAIの両分野にとっての「重要な転換点...",
+      "published": "2026-05-21T09:02:52Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "978ff3dea64fb2a96026baa1bc712091",
+      "title": "「Google AI Studio」が大幅強化、スマホアプリも発表 ～Androidアプリも開発可能に／「Antigravity」へのエクスポートや「Google Workspace」との連携も",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2110576.html",
+      "summary": "",
+      "published": "2026-05-22T04:40:40Z",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ed713f2da7b868243730a9fcbdbcfb8",
+      "title": "",
+      "link": "https://github.com/antoinezambelli/forge",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 antoinezambelli / forge ⭐ 1,320 (+449) 🗒 Python A Python framework for self-hosted LLM tool-calling and multi-ste...",
+      "published": "22 May 2026 13:16 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d44a4d29126ef0461ed5ee3fd71b1fe",
+      "title": "Expressive E Osmose meets Elastic OSC; playing with MPE",
+      "link": "https://cdm.link/expressive-e-osmose-meets-elastic-osc-playing-with-mpe/",
+      "summary": "There's something magical about playing sounds with polyphonic expression. It means translating sound ideas directly to your hands and improvising liv...",
+      "published": "Fri, 22 May 2026 12:19:32 +0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "3e83df6dad9f577922f9f53703b1d427",
+      "title": "Essential Releases, May 22, 2026",
+      "link": "https://daily.bandcamp.com/essential-releases/essential-releases-may-22-2026",
+      "summary": "Experimental club music, funk, and more. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 22 May 2026 13:28:58 -0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "68c74c69c30685bd7ee6f55466b5bbf8",
+      "title": "Ital Tek, “Mind Abandon”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/ital-tek-mind-abandon-review",
+      "summary": "Alan Myson embraces imperfection on his most introspective, human-sounding music to date. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 22 May 2026 13:28:47 -0000",
+      "fetched_at": "2026-05-22T14:22:52.431981+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-22T10:43:30.369363+00:00"
+  "updated_at": "2026-05-22T14:22:52.431981+00:00"
 }

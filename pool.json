@@ -69,7 +69,227 @@
       "fetched_at": "2026-05-21T22:58:23.355040+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "060109999b7d286805e695b64d5c050f",
+      "title": "",
+      "link": "https://martinfowler.com/fragments/2026-05-14.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Fragments: May 14",
+      "published": "22 May 2026 01:55 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b949412ecde2aca4ecb68edc7f8117e",
+      "title": "",
+      "link": "https://www.hashicorp.com/ja/blog/terraform-adds-cost-visibility-project-level-notifications-and-more",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform adds cost visibility, project-level notifications, and more",
+      "published": "22 May 2026 01:55 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "242c1246508553f786abb02f87e5aa07",
+      "title": "",
+      "link": "https://www.hashicorp.com/ja/blog/new-in-terraform-115-dynamic-sources-variable-deprecation-and-more",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 New in Terraform 1.15: Dynamic sources, variable deprecation, and more",
+      "published": "21 May 2026 23:55 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71bf17fc8b31eb016b05040035f042a0",
+      "title": "",
+      "link": "https://www.hashicorp.com/ja/blog/terraform-enterprise-evolving-infrastructure-operations-for-scale",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform Enterprise 2.0: Evolving infrastructure operations for scale",
+      "published": "21 May 2026 23:55 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a27a09609900837886f4d2c0aaa65dcc",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone Comments URL: https://news.ycombinator.com/item?id=48229319 Points: 109 # Comm...",
+      "published": "Thu, 21 May 2026 21:55:56 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87c844aa4ed71d34711b6f66ed2771b9",
+      "title": "Using Kagi Search with Low Vision",
+      "link": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/ Comments URL: https://news.ycombinator.com/item?id=48227860 Points: 141 # Comm...",
+      "published": "Thu, 21 May 2026 19:32:16 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ea7b18926058d7e707f63920b727959",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
+      "summary": "Article URL: https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/ Commen...",
+      "published": "Thu, 21 May 2026 16:26:58 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2392432d9a6c74a0092d4ab4174cbd88",
+      "title": "AWS における AI エージェント対応のデータ基盤 (2) — SageMaker Catalog で行・列レベルのアクセス権を透過的に適用する",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-agent-ready-data-platform-authorization-deep-dive/",
+      "summary": "本記事は、シリーズ「AWS における AI エージェント対応のデータ基盤」の第 2 回です。第 1 回では、A […]",
+      "published": "Thu, 21 May 2026 23:56:11 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "60106c12d3f1262d4dad35577862dd38",
+      "title": "AWS における AI エージェント対応のデータ基盤 (1) — ツールを配る時代から、データを返す時代へ",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-agent-ready-data-platform-overview-and-demo/",
+      "summary": "AI エージェントに本番データを分析させるには、単にモデルと API をつなぐだけでは足りません。認可、ビジネ […]",
+      "published": "Thu, 21 May 2026 23:55:17 +0000",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cca26f6648864daabf1d0a66cd3d9ab6",
+      "title": "Amazon CloudWatch Logs Insights adds new query commands and functions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/",
+      "summary": "Amazon CloudWatch Logs Insights query language now supports 13 new commands and functions that give you more powerful ways to query, transform, and an...",
+      "published": "Thu, 21 May 2026 23:00:00 GMT",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae0fa432fa176073e4c2c2fd864320b3",
+      "title": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/",
+      "summary": "Amazon SageMaker Unified Studio now supports automatic creation of connections for Glue job retries across subnets to improve data pipeline resilience...",
+      "published": "Thu, 21 May 2026 19:27:00 GMT",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a02fbc6160dd7010091001e43481dcd2",
+      "title": "AIで誰もがツールを作る時代、実は来ないんじゃないか説 - Sweet Escape",
+      "link": "https://www.keisuke69.net/entry/2026/05/22/073948",
+      "summary": "少し前に生成AIでSaaSが終わる、という話をよく目にした。というか今でもよく聞く。「SaaS is Dead」というフレーズで語られたりもするし、AI市場全体の今後を予測する文脈で出てくることもある。 ただ、自分の周りで実際に起きていることを並べて眺めてみると、それほど単純な絵にはならない。市場の...",
+      "published": "2026-05-21T23:01:07Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05b3fad7087657d356e2c0bad80659c6",
+      "title": "「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた",
+      "link": "https://zenn.dev/tkydev/articles/2026-05-21_ct_log",
+      "summary": "Webサイト/アプリを公開するとき、「URLを誰にも教えていないから大丈夫」と油断していませんか？ 結論から言うと、これは成り立ちません。 独自ドメインを取って HTTPS の証明書を発行すると、その時点でドメイン名は CT（Certificate Transparency）ログという公開ログに記録...",
+      "published": "2026-05-21T08:49:08Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dd61143991ecbd534bd123f5891f6b9",
+      "title": "Google、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/05/modern-web-guidance",
+      "summary": "Google⁠⁠、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を公開 Googleは2026年5月19日、Google I/O 2026に合わせて、モダンなWeb開発を支援するエージェントスキル「Modern Web Guidance」を早期プレビューとし...",
+      "published": "2026-05-21T15:50:54Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eae047950054448e2ec8c4b43f6b609",
+      "title": "アイデンティティシフトを生きる — Google I/O 2026 二日目に思ったこと - Nothing ventured, nothing gained.",
+      "link": "https://takoratta.hatenablog.com/entry/2026/05/22/083000",
+      "summary": "Google I/Oが終わった。 昨日、「Disruptする側、される側」と題して、Google I/O 2026 初日のモヤモヤを書いた。「明日、I/Oの2日目がある。…私はそれを見届けてから、もう一度考えたい」と結んだ。今日はその続きだ。 それにしても、今日も暑かった。昔のように、サンフランシス...",
+      "published": "2026-05-21T23:45:39Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "15597e0498abaa4c8fc9d7b8de03d4e8",
+      "title": "小さな見づらさを減らすCSS - ::selection、caret-color、::target-text など、テキスト周りの装飾を改善しよう - ICS MEDIA",
+      "link": "https://ics.media/entry/260521/",
+      "summary": "小さな見づらさを減らすCSS - ::selection、caret-color、::target-text など、テキスト周りの装飾を改善しよう テキストの見た目を調整することは、単にページをきれいに見せるためだけのものではありません。 テキストの選択範囲が見えること、入力位置が把握できること、タ...",
+      "published": "2026-05-21T11:09:32Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8138d5f60708f32ead7142c216d86900",
+      "title": "Google Cloudが誤ってアカウント停止、Railway全体が約8時間ダウンした障害の全貌",
+      "link": "https://gigazine.net/news/20260521-railway-incident/",
+      "summary": "アプリケーションのデプロイや運用基盤を提供するRailwayで日本時間2026年5月20日の7時20分ごろから15時14分ごろまで約8時間にわたる大規模障害が発生しました。Railwayによると、Google CloudがRailwayの本番用アカウントを誤って一時停止状態にしたことが原因とのことで...",
+      "published": "2026-05-21T13:50:52Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a6cc0ff968d4accc4e75897881c6ae3",
+      "title": "Postmortem: Nx Console v18.95.0 supply-chain compromise | Nx Blog",
+      "link": "https://nx.dev/blog/nx-console-v18-95-0-postmortem",
+      "summary": "Status: All clear ✅. The malicious version of Nx Console (v18.95.0) is no longer available from any marketplace.The current published version, v18.100...",
+      "published": "2026-05-21T19:03:43Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d013dc23cf358b24977dcb3b97288c",
+      "title": "SBI新生銀は「AWSファースト」、約3年で障害半減 鍵は共通基盤の整備",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/03609/051400007/",
+      "summary": "システムの過半数は米Amazon Web Services（アマゾン・ウェブ・サービス、AWS）のクラウドへ。軽微なものを含む社内外のシステム障害は3年で半減――。SBI新生銀行は全社でのクラウドシフトを推進している。その方針の下支えとなったのは、クラウド利用を前提に整備したAPI（アプリケーション...",
+      "published": "2026-05-21T12:32:32Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c3539cb6a13836c320838219a6f2613",
+      "title": "AMD、ユニファイドメモリ192GBのハイエンドCPU「Ryzen AI Max PRO 400」シリーズ発表 - エルミタージュ秋葉原",
+      "link": "https://www.gdm.or.jp/pressrelease/2026/0521/635397",
+      "summary": "AMD、ユニファイドメモリ192GBのハイエンドCPU「Ryzen AI Max PRO 400」シリーズ発表 2026.05.21 10:22 更新 2026.05.20 配信 Zen 5のCPUコアとRDNA 3.5グラフィックス機能を搭載 AMD（本社：アメリカ）は2026年5月20日（現地時...",
+      "published": "2026-05-21T06:40:14Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "691aec8bc63ecff481d1c0950cb9d80f",
+      "title": "「Fedora Kinoite 対 Silverblue」--2つの不変型「Linux」ディスロを比較検証",
+      "link": "https://japan.zdnet.com/article/35247493/",
+      "summary": "イミュータブル（不変）な「Linux」ディストリビューションが、徐々に人気を集めている。脆弱（ぜいじゃく）性の発見が相次ぐ昨今、セキュリティを強化できる手段は歓迎すべきだ。 不変なLinuxディストリビューションとは、/usrや/var、/etcといった特定のディレクトリーを読み取り専用としてマウン...",
+      "published": "2026-05-21T08:00:12Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e21555f4a947270090e3c2f2007a220",
+      "title": "OpenAIが80年近く未解決だった数学予想の反証に成功、人間の数学者も「AIが補助役を超えた」と驚く発見",
+      "link": "https://gigazine.net/news/20260521-openai-model-disproves-discrete-geometry-conjecture/",
+      "summary": "OpenAIは2026年5月20日、同社の内部AIモデルが離散幾何の中心的な未解決問題「単位距離問題」に関する長年の予想を反証したと発表しました。単位距離問題は「平面上にn個の点を置いたとき、距離がちょうど1になる点のペアを最大でいくつ作れるのか」という問題です。 An OpenAI model h...",
+      "published": "2026-05-21T03:43:40Z",
+      "fetched_at": "2026-05-22T02:38:43.749612+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-21T22:58:23.355040+00:00"
+  "updated_at": "2026-05-22T02:38:43.749612+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "046435e85e8b6f131f958f69aa592e05",
-      "title": "",
-      "link": "https://aws.amazon.com/jp/blogs/news/migrating-data-from-an-amazon-aurora-snapshot-into-amazon-aurora-dsql/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon Aurora スナップショットから Amazon Aurora DSQL へのデータ移行 | Amazon Web Services",
-      "published": "21 May 2026 01:56 +0000",
-      "fetched_at": "2026-05-21T02:37:08.608112+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "691abd3fddbaa70e32cf8227346dc67a",
       "title": "",
       "link": "https://www.publickey1.jp/blog/26/nodejsdatetemporaltemporalchromeedgefirefoxnodejs.html",
@@ -289,7 +279,347 @@
       "fetched_at": "2026-05-22T02:38:43.749612+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c7ff49d959b532ff53d7eca3f647fa7d",
+      "title": "",
+      "link": "https://blog.cloudflare.com/clickhouse-query-plan-contention/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Our billing pipeline was suddenly slow. The culprit was a hidden bottleneck in ClickHouse",
+      "published": "22 May 2026 05:55 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c705c8cd3b12832c0ddab246e02d5daf",
+      "title": "",
+      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+      "published": "22 May 2026 03:55 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93e65b9858f339a74cc37f00219baa6d",
+      "title": "",
+      "link": "https://blog.cloudflare.com/quic-death-spiral-fix/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 When \"idle\" isn't idle: how a Linux kernel optimization became a QUIC bug",
+      "published": "22 May 2026 02:55 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a256ec79c2c4874ec5cf6fff008c2208",
+      "title": "",
+      "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 bliki: Interrogatory LLM",
+      "published": "22 May 2026 02:55 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19edb7819ceaf3eb6b298eceb86706b3",
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "link": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126 Comments URL: https://news.ycombinator.com/item?id=48230892 Points: 213 # Com...",
+      "published": "Fri, 22 May 2026 01:30:45 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "13c963a80a61d6db65a4785b66a8fbd4",
+      "title": "The IBM-ification of Google?",
+      "link": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+      "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/ Comments URL: https://news.ycombinat...",
+      "published": "Thu, 21 May 2026 23:30:10 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "789a92df7280729444e167178200b60c",
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "link": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/ Comments URL: https://news.ycombinator.com/item?id=48228788 Points: 180 # Comments: 96",
+      "published": "Thu, 21 May 2026 20:56:36 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94d95fdde274cf74f49ddc261799a1e8",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "link": "https://arxiv.org/abs/2605.12460",
+      "summary": "Article URL: https://arxiv.org/abs/2605.12460 Comments URL: https://news.ycombinator.com/item?id=48227923 Points: 100 # Comments: 11",
+      "published": "Thu, 21 May 2026 19:37:26 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba880dd7e3849db38ecb43c75e59bd37",
+      "title": "CIRT インサイト: AWS Organizations からの不正なアカウント離脱を防ぐには",
+      "link": "https://aws.amazon.com/jp/blogs/news/cirt-insights-how-to-help-prevent-unauthorized-account-removals-from-aws-organizations/",
+      "summary": "AWS Customer Incident Response Team (CIRT) が観測している、攻撃者がお客様アカウントを侵害した後に AWS Organizations から離脱させ、SCP やガバナンス制御を回避する新しい手口について解説します。 具体的には、organizations:L...",
+      "published": "Fri, 22 May 2026 07:14:06 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4b40b176735d9249080931f7f29d142",
+      "title": "自動推論で実現する Amazon のポスト量子暗号の検証と最適化",
+      "link": "https://aws.amazon.com/jp/blogs/news/verifying-and-optimizing-post-quantum-cryptography-at-amazon/",
+      "summary": "AWS は、Amazon Automated Reasoning Group、AWS Cryptography、オープンソースコミュニティと協力し、ポスト量子暗号 (PQC) ML-KEM の形式的に検証された最適化実装 mlkem-native を開発しました。本記事では、CBMC によるメモリ安...",
+      "published": "Fri, 22 May 2026 07:10:03 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a565a48b00d880c7b7322d317f2058fa",
+      "title": "【開催報告】ガバメントクラウドワークショップ 2026 春 ～ AI で実践する開発・モダナイズ・運用 ～",
+      "link": "https://aws.amazon.com/jp/blogs/news/gov-cloud-workshop-202605-genai/",
+      "summary": "こんにちは。ソリューションアーキテクトの東 健一です。普段はパブリックセクター技術統括本部で中央省庁のお客様の […]",
+      "published": "Fri, 22 May 2026 06:51:34 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6ad7c7b5fb56a37a033f78d41f4f3ed",
+      "title": "3 か月で開発スピード 3 倍を達成：キヤノン IT ソリューションズ様が実践した AI Coding Agent 導入・普及の仕組みづくり",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-canon-its-ai-coding-agent-introduction/",
+      "summary": "本記事では、キヤノン IT ソリューションズ株式会社様が 、Amazon Q Developer を開発現場に導入し、3 か月間効果検証を実施した取り組みをご紹介します。コード生成やレビュー支援による効率化、現場での活用事例、そして検証から得られた知見について詳しく解説します。",
+      "published": "Fri, 22 May 2026 03:40:09 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0e4651e63074dff90f7568178f12092",
+      "title": "「会ったことない人と何しゃべる？」フルリモート下で1on1を1年間続けて気づいたこと - ぐるなびをちょっと良くするエンジニアブログ",
+      "link": "https://developers.gnavi.co.jp/entry/remote-1on1-tips/",
+      "summary": "こんにちは。ぐるなびでネット予約関連プロダクトのディレクション業務を行っているいしのです。 マネジメントをテーマに、ということですが、昨年度1年間メンバーと定期的に1on1をしていたので、（リモート環境化のコミュニケーションというテーマは語りつくされている気もしますが） その中で感じたことについて書...",
+      "published": "2026-05-22T04:04:19Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ac258003e358bd08595186c1ad3d8d3",
+      "title": "BitLockerすり抜けに緩和策。Microsoftは非難するも発見者は「名誉毀損」訴え",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2110824.html",
+      "summary": "",
+      "published": "2026-05-22T02:32:10Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9726d25081087aa29e7708895fbaceba",
+      "title": "“贈り物”は善意の皮を被ったマウントツール？ 東大が“お返しのプレッシャー”から数学的に権力競争を読み解く",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/22/news029.html",
+      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が...",
+      "published": "2026-05-21T23:06:22Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65614ddc734d7474f2ef9012f41b7887",
+      "title": "NHK技研、目が疲れにくいVRゴーグルを“薄型化” 厚みを79％削減した新しい光学系を開発",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/22/news074.html",
+      "summary": "技研は、レンズアレイと接眼レンズを実質的に1枚の光学素子として機能させることで光線制御と集光を同時に実現した。光学系の奥行きはこれまで49.5mmだったが、今回は10.5mm。装置が大型化しやすいライトフィールド方式の課題を解決した。 さらに高精細マイクロディスプレイパネルを採用。光の動きを細かく計...",
+      "published": "2026-05-22T04:07:06Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a783beb94f1b1e1a8ac2762ff69e47b1",
+      "title": "エンジニアが年収600・800・1000万円の壁を突破するための6つの能力とキャリア戦略 - Qiita",
+      "link": "https://qiita.com/Nao52/items/f9523e566a6f82199dea",
+      "summary": "■ ③ 800万円に到達できない3パターンを把握する 自分がどのパターンに当てはまるか確認しましょう（後述）。 ■ ④ スタートアップ向けのロードマップを実行する 段階ごとに取り組むべきことが異なります。ステップ①〜⑤の順で能力を積み上げます（後述）。 ■ ⑤ 1000万円を狙うなら「会社選び」を最...",
+      "published": "2026-05-22T00:31:41Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "24c94dfb3e7ab4e531a2e67687d7026a",
+      "title": "1948年から現在まで570種のOSをすぐ動かせる仮想マシンが174GBで公開 - FabScene（ファブシーン）",
+      "link": "https://fabscene.com/new/news/virtual-os-museum-174gb-570-operating-systems-andrew-warkentin/",
+      "summary": "Andrew Warkentin氏が、1948年の最初の記憶プログラム方式コンピューター「Manchester Baby」から現在のOSまで570種以上のオペレーティングシステムをそのまま起動できる仮想マシンパック「Virtual OS Museum」を公開した。フルバージョンは約174GBで、QE...",
+      "published": "2026-05-21T23:21:47Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce0a9f792ef0de72a8714095cc102838",
+      "title": "度重なるサプライチェーン攻撃を受けnpmが「段階的リリース」を導入、流出したトークンだけではパッケージを公開できない仕組みを追加",
+      "link": "https://gigazine.net/news/20260522-npm-staged-publishing/",
+      "summary": "JavaScript開発で広く使われているパッケージ管理サービスのnpmに、公開前の確認手順を追加する「段階的リリース」が導入されました。従来のnpmでは、公開権限を持つユーザーや自動化システムがパッケージを公開するとパッケージがnpmレジストリにすぐ反映される仕組みでした。段階的リリースではパッケ...",
+      "published": "2026-05-22T02:29:17Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "80144d03c476651eaea74964882a077c",
+      "title": "Anthropicの営業責任者が業務にClaudeをどのように活用しているのかを解説",
+      "link": "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
+      "summary": "AI企業のAnthropicでアメリカのミッドマーケット向け営業・市場開拓を担当するトラヴィス・ブライアント氏が、AIエージェント「Claude Cowork」を使って営業業務をどのように進めているのかをClaude公式ブログで解説しています。 How an Anthropic sales lead...",
+      "published": "2026-05-21T23:53:18Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6afd36b407f0fdf4863101b9f4ade382",
+      "title": "「#豚肉を食べることは差別につながる」とか書いてあるTVニュース風AI画像で煽られている人がたくさんいるっぽい - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/05/22/100000",
+      "summary": "https://x.com/Coco2Poppin/status/2056866286312022322 https://x.com/shoetsusato/status/2056601743946072168 https://www.threads.com/@daiyana1113/post/DY...",
+      "published": "2026-05-22T02:09:23Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c862eadce924a5857c41b2468f3d340",
+      "title": "Ollamaがバージョンアップで大きく変わった模様: 人工知能深訪",
+      "link": "https://zenn.dev/dozo/articles/80393187f20a44",
+      "summary": "初心者向け脱出？ ヾ(・ω<)ﾉ\" 三三三● ⅱⅲ コロコロ♪ --本編------------ 多分LLMに初めて触ったのがOllamaという人が多いと思う (筆者もその一人) 検索すると最初に出てくるし、 モデル検索が簡単だし、 dockerで構築しやすいし。 逆にチューニングしようとすると、 ...",
+      "published": "2026-05-20T05:18:04Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e2fce9249124bec1d45410d47064e52",
+      "title": "「モバイルバッテリー、代わりに借りて」→そのまま持ち逃げする寸借詐欺に注意 ユーザーが取れる対策は？",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/22/news058.html",
+      "summary": "「スマホの充電が切れたのでレンタルモバイルバッテリーを借りたい」と自分の代わりに借りさせ、そのままバッテリーを持ち逃げする──そんな寸借詐欺を見かけたり、実際に被害に遭ったりしたという報告が5月19日ごろからSNSで相次いでいる。詳しい手口や、ユーザーが取るべき対策は。レンタルバッテリー事業者たちに...",
+      "published": "2026-05-22T02:37:38Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "074b8753a55b9b2df7d479d983203806",
+      "title": "NVIDIA ジェンスン・ファンCEO「日本のセガがエヌビディアの危機を救った」",
+      "link": "https://www.sbbit.jp/article/cont1/185456",
+      "summary": "米半導体大手NVIDIAのジェンスン・ファン最高経営責任者（CEO）は5月米カーネギーメロン大学の卒業式でスピーチを行った。ファン氏はAIの急速な普及に不安を抱える学生に向け、創業初期に日本のセガから受けた資金支援で倒産の危機を乗り越えたエピソードを披露し、真摯な気持ちで失敗を恐れず挑戦する重要性を...",
+      "published": "2026-05-21T14:37:04Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a217c70c9e3a5b36656a141e7f912c2a",
+      "title": "激しいアニメーションのある絵文字の利用を避けたい - 層の狭間で",
+      "link": "https://ymrl-dev.hateblo.jp/entry/2026/05/22/073515",
+      "summary": "SlackやDiscordには、自分たちのスペース内で使える絵文字を登録できる機能があります。そこにはアニメーションを伴う画像も登録でき、「動く絵文字」としてメッセージの文中や、投稿へのリアクションに使うことができます。 ファイルの大きさなどには制限がありますが、アニメーションの内容には知る限り特に...",
+      "published": "2026-05-21T22:59:42Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c9d851cfd418b6a096f978c9b03dc19",
+      "title": "Firefoxがブラウザから電子工作デバイスを直接操作可能にする「Web Serial」をサポート",
+      "link": "https://gigazine.net/news/20260522-web-serial/",
+      "summary": "MozillaがウェブブラウザのFirefoxに、USB経由で接続した外部デバイスとウェブアプリが直接通信できる「Web Serial」のサポートを追加したことを発表しました。これによりマイクロコントローラーや開発ボード、3Dプリンタなどの各種電子工作デバイスをブラウザから直接制御できるようになりま...",
+      "published": "2026-05-22T04:37:42Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "395148f44aa04ad1c41de784f2ee8c7d",
+      "title": "Go 1.26 の database/sql 内部実装から読み解くコネクションプールの挙動と設定方針 - CADDi Tech Blog",
+      "link": "https://caddi.tech/2026/05/20/113000",
+      "summary": "こんにちは、Control Plane部認証認可グループの平岩です。私たち認証認可グループではバックエンドAPIにGoを多く採用しています。共通基盤である特性上高RPSに耐えられる必要があり、また安定して低いレイテンシでリクエストを処理することが求められます。本記事ではGoの標準パッケージである s...",
+      "published": "2026-05-21T04:42:15Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "573945b1c0d951cd91207752faaf7e2d",
+      "title": "シャドーITのリスクは「こう変わった」 “悪意なき情報漏えい”にどう立ち向かう？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2605/22/news024.html",
+      "summary": "シャドーITのリスクは「こう変わった」 “悪意なき情報漏えい”にどう立ち向かう？：「新しい乱世」を生き抜くためのIT羅針盤 職場での撮影、SNS投稿、生成AIへの情報の入力──。従業員の何気ないデジタル行動が業務情報と直結する時代になり、「シャドーAI」という新たなリスクも生まれています。シャドーI...",
+      "published": "2026-05-21T23:38:14Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b8b7127471e51aa223f1b56a5d59c98",
+      "title": "Security-JAWS【第41回】〜Day1〜でAWS WAFの運用について発表しました！ - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/05/22/100000",
+      "summary": "こんにちは！ アンドパッド セキュリティグループの 宜野座(ぎのざ)です。 2026/05/16(土)に開催された Security-JAWS【第41回】〜Day1〜 にて登壇の機会をいただき、私のセッションでは「AWS WAFの運用を地道に改善し、自社で運用可能にするプラクティス」というタイトルで...",
+      "published": "2026-05-22T01:04:09Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "16087f097b50565c0fe3b593fc4c9ae3",
+      "title": "Flipper Devices、オープンLinuxデバイス「Flipper One」発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/22/news071.html",
+      "summary": "セキュリティ研究者向けの多機能ガジェット「Flipper Zero」を手掛けるFlipper Devicesは5月21日（現地時間）、新製品「Flipper One」を発表した。 Flipper Devicesはロシア出身のエンジニア、パヴェル・ゾフナー氏が創業したハードウェアメーカーで、現在はドバ...",
+      "published": "2026-05-22T01:44:09Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5b628e95cc2af7c6e8de6008e155e2e",
+      "title": "【特集】 iPhoneは本当に遅れているのか？Android勢の「AI機能」とガチ比較して見えた決定的な差",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2110765.html",
+      "summary": "",
+      "published": "2026-05-21T22:19:33Z",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92df2cb3c1a2a1d74a370bd993a3317f",
+      "title": "",
+      "link": "https://github.com/Lum1104/Understand-Anything",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Lum1104 / Understand-Anything ⭐ 16,018 (+188) 🗒 TypeScript Graphs that teach > graphs that impress. Turn any code int...",
+      "published": "22 May 2026 06:16 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "895071a713eeaa7c8787134e47e0184c",
+      "title": "",
+      "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 trimstray / the-book-of-secret-knowledge ⭐ 221,967 (+429) A collection of inspiring lists, manuals, cheatsheets, ...",
+      "published": "22 May 2026 05:16 +0000",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f551d35c043e2bf09f4fabb10bbbff6",
+      "title": "入門 Python 3 第3版",
+      "link": "http://www.oreilly.co.jp/books/9784814401642/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "データサイエンス、Web開発、セキュリティなど幅広い分野で人気が高まるPython。本書はベストセラー入門書『入門 Python 3』の、5年ぶりの改訂版です。Pythonプログラミングの基礎から、Web、データベース、ネットワーク、並行処理といった応用まで、実務を見据えた内容を明快かつ丁寧に解説し...",
+      "published": "2026-06-16T00:00:00+09:00",
+      "fetched_at": "2026-05-22T07:37:52.580096+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-22T02:38:43.749612+00:00"
+  "updated_at": "2026-05-22T07:37:52.580096+00:00"
 }

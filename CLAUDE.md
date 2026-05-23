@@ -2,15 +2,15 @@
 
 ## 概要
 
-記事JSONファイルを受け取り、ユーザーの関心に合った記事をピックアップしてMarkdownブリーフィングを生成する。
-フィード取得や後処理はシェルスクリプト側で行うため、Claudeの担当は精査・要約・Markdown生成のみ。
+RSSフィードから収集した記事をキュレーションし、日次 Markdown ブリーフィングを生成する。
+フィード取得・記事選定・要約生成・Markdown 描画はそれぞれ独立したスクリプトが担当する。
 
 ---
 
 ## 設定ファイル
 
-フィードリスト・キーワード・関心テーマは `config.yaml` で管理する。
-ユーザーがフィードの追加・削除やキーワード変更を求めた場合は `config.yaml` を更新すること。
+フィードリスト・関心テーマ・除外キーワードは `config.yaml` で管理する。
+フィードの追加・削除やキーワード変更を求められた場合は `config.yaml` を更新すること。
 
 > **参照**: `config.yaml` — feeds / interests セクション
 
@@ -18,51 +18,29 @@
 
 ## ワークフロー
 
-### 入力
+```
+fetch_feeds.py → pool.json
+prepare_brief.py → articles.json
+select_articles.py (Sonnet) → selected.json   # 関連度判定・カテゴリ分類・⭐選定
+summarize_articles.py (Haiku) → summaries.json # 日本語要約生成
+render_brief.py → docs/brief-YYYY-MM-DD.md    # Markdown 描画（Claude 不使用）
+```
 
-プロンプトで記事JSONファイルのパスと出力先が指定される。
-JSONの各記事は `title`, `link`, `summary`, `published`, `feed_name`, `category`, `entry_id` を持つ。
-
-### Step 1: 精査と要約
-
-記事JSONを読み取り、以下を行う。
-
-0. **記事タイトル**: 原文のまま出力する。翻訳・要約・改変はしないこと。
-1. **関連度判定**: `config.yaml` の「themes」に照らして関心に合うか判定する。
-   **title と summary のみで判断し、web_fetch は使用しないこと。** 関連度が低いものは除外する。
-2. **要約生成**: 残った記事ごとに日本語で **30〜100文字程度** の要約を作成する。
-   - 要約は title や summary のコピーではなく、**自分の言葉で記事の内容を簡潔に説明する**こと。
-   - summary が定型文や情報不足の場合は、title から推測できる範囲で要約を書く。
-   - **客観的な影響・文脈の補足はOK**: 「誰に影響するか」「何が変わるか」「従来との違い」など、事実として述べられる情報は積極的に含めてよい。
-   - **主観的な評価・推奨はNG**: 「注目すべき」「要チェック」「検討したい」「期待される」など、読者の行動や感情を誘導する表現は使わない。
-
-   **判断基準**: 第三者が検証できる事実か？ → OK。書き手の感想・推奨か？ → NG。
-
-   **良い要約の例:**
-   - `upstream keep-aliveがデフォルト有効に変更。nginx本番環境の接続設定に影響する。`
-   - `CNCFプロジェクトのDaprがAIエージェントオーケストレーション機能を正式リリース。`
-   - `PostgreSQLのupsertが予想外の書き込みを発生させるケースのデバッグ事例。`
-
-   **悪い要約の例（禁止）:**
-   - `Article URL: https://... Comments URL: https://... Points: 380`（メタデータそのまま）
-   - `セキュリティ強化策として対応を検討したい`（主観的な推奨）
-
-3. **カテゴリ分類**: 記事をカテゴリ別にグルーピングする（RSSのカテゴリを参考にしつつ再分類可）。
-4. **重要度ランク**: 特に注目すべき記事には ⭐ を付ける。
-5. **重複禁止**: 「⭐ 注目記事」セクションに掲載した記事はカテゴリ別セクションに再掲載しない。
-
-### Step 2: Markdownレポート生成
-
-`templates/daily.md` のテンプレートに従ってMarkdownファイルを生成する。
-
-- **出力先**: プロンプトで指定されたパス（通常 `docs/brief-YYYY-MM-DD.md`）
-- カテゴリは固定ではなく、記事の内容に応じて柔軟に作成・統合してよい
-- 記事が0件のカテゴリは省略する
-- フッターの「フィード最終取得」には、JSONの `fetched_at`（UTC ISO形式）を **JST（+9時間）に変換** して表示すること
+選定・要約のプロンプトとルールは各スクリプト内に記述されている。
 
 ---
 
-## 注意事項
+## カテゴリ enum
 
-- 記事本文の全文取得は行わない（RSSのtitle・summary・linkのみ使用）。web_fetch は使用禁止
-- レポートは日本語で生成する
+記事の分類カテゴリは以下の固定リストを使用する（`select_articles.py` と `render_brief.py` で共有）。
+
+| enum 値 | 見出し |
+|---|---|
+| `tech_ai` | 🤖 Tech / AI |
+| `business` | 💼 ビジネス / スタートアップ |
+| `dev_tools` | 🔧 開発・ツール |
+| `music_culture` | 🎵 音楽 / 機材 / カルチャー |
+| `book_science` | 📚 読書・サイエンス |
+| `other` | 🗂 その他 |
+
+新カテゴリを追加する場合は `select_articles.py:CATEGORY_ENUM` と `render_brief.py:CATEGORY_ORDER/CATEGORY_LABELS` を更新すること。

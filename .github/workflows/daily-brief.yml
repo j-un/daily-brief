@@ -104,25 +104,38 @@ jobs:
               print(a['entry_id'])
           " > ../consumed_ids.txt
 
-      - name: Generate brief
+      - name: Select articles (Sonnet)
         if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
         working-directory: main
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          claude \
-            --model claude-sonnet-4-6 \
-            --dangerously-skip-permissions \
-            --max-budget-usd 1.00 \
-            -p "${GITHUB_WORKSPACE}/articles.json の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。日付は ${DATE} です。git commitはしないこと。"
+          uv run scripts/select_articles.py \
+            --articles "${GITHUB_WORKSPACE}/articles.json" \
+            --output "${GITHUB_WORKSPACE}/selected.json"
 
-      - name: Postprocess
+      - name: Summarize articles (Haiku)
+        if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
+        working-directory: main
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          uv run scripts/summarize_articles.py \
+            --articles "${GITHUB_WORKSPACE}/articles.json" \
+            --selected "${GITHUB_WORKSPACE}/selected.json" \
+            --output "${GITHUB_WORKSPACE}/summaries.json"
+
+      - name: Render brief
         if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
         working-directory: main
         run: |
-          if [ -f "$OUTPUT_FILE" ]; then
-            uv run scripts/postprocess_brief.py "$OUTPUT_FILE"
-          else
+          uv run scripts/render_brief.py \
+            --articles "${GITHUB_WORKSPACE}/articles.json" \
+            --selected "${GITHUB_WORKSPACE}/selected.json" \
+            --summaries "${GITHUB_WORKSPACE}/summaries.json" \
+            --date "${DATE}" \
+            --output "${OUTPUT_FILE}"
+          if [ ! -f "$OUTPUT_FILE" ]; then
             echo "ERROR: File was not generated: $OUTPUT_FILE"
             exit 1
           fi

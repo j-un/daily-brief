@@ -58,9 +58,12 @@ def main():
 
     filtered = [a for a in articles if a.get("link") not in past_urls]
 
+    feed_count = len({a.get("feed_name", "") for a in articles if a.get("feed_name")})
+
     result = {
         "articles": filtered,
         "total_count": len(filtered),
+        "feed_count": feed_count,
         "errors": [],
         "fetched_at": pool.get("updated_at", datetime.now(timezone.utc).isoformat()),
     }

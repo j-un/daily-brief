@@ -2,15 +2,21 @@
 set -euo pipefail
 
 FORCE=false
+DRY_RUN=false
+LOCAL_DRY_RUN=false
 while [[ $# -gt 0 ]]; do
   case "$1" in
     --force) FORCE=true; shift ;;
+    --dry-run) DRY_RUN=true; shift ;;
+    --local-dry-run) LOCAL_DRY_RUN=true; DRY_RUN=true; FORCE=true; shift ;;
     -h|--help)
       cat <<EOF
-Usage: $0 [--force]
+Usage: $0 [--force] [--dry-run] [--local-dry-run]
 
 Options:
-  --force  同日のブリーフが既に存在しても再生成する
+  --force          同日のブリーフが既に存在しても再生成する
+  --dry-run        fetch と push をスキップして brief 生成のみ行う（動作確認用）
+  --local-dry-run  ローカルのコードで動作確認する（--dry-run + main クローン不要）
 EOF
       exit 0 ;;
     *) echo "Unknown option: $1"; exit 1 ;;
@@ -33,9 +39,15 @@ cleanup() {
 }
 trap cleanup EXIT
 
-# --- 1. Clone main ---
-echo "Cloning origin/main into $TMPDIR/main ..."
-git clone --depth 1 --branch main "$REPO_URL" "$TMPDIR/main"
+# --- 1. Clone main (or symlink local repo) ---
+if [ "$LOCAL_DRY_RUN" = true ]; then
+  REPO_ROOT=$(git -C "$(dirname "$0")" rev-parse --show-toplevel)
+  echo "Using local repo: $REPO_ROOT"
+  ln -s "$REPO_ROOT" "$TMPDIR/main"
+else
+  echo "Cloning origin/main into $TMPDIR/main ..."
+  git clone --depth 1 --branch main "$REPO_URL" "$TMPDIR/main"
+fi
 
 # --- 2. 同日ファイル存在チェック（Claude 呼び出し前に判定）---
 if [ -f "$TMPDIR/main/$OUTPUT_FILE" ] && [ "$FORCE" != true ]; then
@@ -51,34 +63,39 @@ echo "Cloning origin/data into $TMPDIR/data ..."
 git clone --depth 1 --branch data "$REPO_URL" "$TMPDIR/data"
 
 # --- 3.5. Refresh pool.json（直前までのニュースを取り込む）---
-echo ""
-echo "=== Refreshing pool (fetch feeds) ==="
-cd "$TMPDIR/main"
-uv run scripts/fetch_feeds.py \
-  --config config.yaml \
-  --state-file "$TMPDIR/data/state.json" \
-  --pool-file "$TMPDIR/data/pool.json" \
-  --retention-hours 28
-
-cd "$TMPDIR/data"
-git add pool.json state.json
-if git diff --cached --quiet; then
-  echo "data: No new articles from fetch."
+if [ "$DRY_RUN" = true ]; then
+  echo ""
+  echo "=== Skipping fetch (--dry-run) ==="
 else
-  git commit -m "chore(data): fetch feeds for brief ${DATE}"
-  # GHA fetch.yml と競合した場合は rebase してリトライ
-  fetch_pushed=false
-  for attempt in 1 2 3; do
-    if git push origin data; then
-      fetch_pushed=true
-      break
+  echo ""
+  echo "=== Refreshing pool (fetch feeds) ==="
+  cd "$TMPDIR/main"
+  uv run scripts/fetch_feeds.py \
+    --config config.yaml \
+    --state-file "$TMPDIR/data/state.json" \
+    --pool-file "$TMPDIR/data/pool.json" \
+    --retention-hours 28
+
+  cd "$TMPDIR/data"
+  git add pool.json state.json
+  if git diff --cached --quiet; then
+    echo "data: No new articles from fetch."
+  else
+    git commit -m "chore(data): fetch feeds for brief ${DATE}"
+    # GHA fetch.yml と競合した場合は rebase してリトライ
+    fetch_pushed=false
+    for attempt in 1 2 3; do
+      if git push origin data; then
+        fetch_pushed=true
+        break
+      fi
+      echo "push failed (attempt $attempt/3), rebasing..."
+      git pull --rebase origin data
+    done
+    if [ "$fetch_pushed" != true ]; then
+      echo "ERROR: Failed to push fetch result after 3 attempts."
+      exit 1
     fi
-    echo "push failed (attempt $attempt/3), rebasing..."
-    git pull --rebase origin data
-  done
-  if [ "$fetch_pushed" != true ]; then
-    echo "ERROR: Failed to push fetch result after 3 attempts."
-    exit 1
   fi
 fi
 
@@ -112,53 +129,72 @@ for a in data['articles']:
     print(a['entry_id'])
 " > "$CONSUMED_IDS"
 
-# --- 5. Generate brief with Claude ---
+# --- 5. Select articles (Sonnet) ---
 echo ""
-echo "=== Generating daily brief ==="
+echo "=== Selecting articles (Sonnet) ==="
+SELECTED_JSON="$TMPDIR/selected.json"
+SONNET_USAGE="$TMPDIR/sonnet_usage.json"
+uv run scripts/select_articles.py \
+  --articles "$ARTICLES_JSON" \
+  --output "$SELECTED_JSON" \
+  --usage-file "$SONNET_USAGE"
+
+# --- 6. Summarize articles (Haiku) ---
 echo ""
+echo "=== Summarizing articles (Haiku) ==="
+SUMMARIES_JSON="$TMPDIR/summaries.json"
+HAIKU_USAGE="$TMPDIR/haiku_usage.json"
+uv run scripts/summarize_articles.py \
+  --articles "$ARTICLES_JSON" \
+  --selected "$SELECTED_JSON" \
+  --output "$SUMMARIES_JSON" \
+  --usage-file "$HAIKU_USAGE"
 
-CLAUDE_RESULT_JSON="$TMPDIR/claude_result.json"
-claude \
-  --model claude-sonnet-4-6 \
-  --dangerously-skip-permissions \
-  --max-budget-usd 3.00 \
-  --output-format json \
-  -p "$(cat <<EOF
-${ARTICLES_JSON} の記事JSONを読み取り、日次ブリーフィングを生成して ${OUTPUT_FILE} に書き出してください。
-日付は ${DATE} です。git commitはしないこと。
-EOF
-)" > "$CLAUDE_RESULT_JSON"
-
+# --- 7. Render Markdown ---
 echo ""
-echo "=== Claude token usage ==="
-python3 - "$CLAUDE_RESULT_JSON" <<'PY'
-import json, sys
-with open(sys.argv[1]) as f:
-    data = json.load(f)
-usage = data.get("usage", {})
-cost = data.get("total_cost_usd", data.get("cost_usd"))
-input_tokens = usage.get("input_tokens", 0)
-cache_creation = usage.get("cache_creation_input_tokens", 0)
-cache_read = usage.get("cache_read_input_tokens", 0)
-output_tokens = usage.get("output_tokens", 0)
-total = input_tokens + cache_creation + cache_read + output_tokens
-print(f"  input_tokens:         {input_tokens:>10,}")
-print(f"  cache_creation:       {cache_creation:>10,}")
-print(f"  cache_read:           {cache_read:>10,}")
-print(f"  output_tokens:        {output_tokens:>10,}")
-print(f"  total:                {total:>10,}")
-if cost is not None:
-    print(f"  cost_usd:             ${cost:.4f}")
-PY
+echo "=== Rendering brief ==="
+uv run scripts/render_brief.py \
+  --articles "$ARTICLES_JSON" \
+  --selected "$SELECTED_JSON" \
+  --summaries "$SUMMARIES_JSON" \
+  --date "$DATE" \
+  --output "$OUTPUT_FILE"
 
-# --- 6. Postprocess ---
 if [ ! -f "$OUTPUT_FILE" ]; then
   echo ""
   echo "ERROR: File was not generated: $OUTPUT_FILE"
   exit 1
 fi
 
-uv run scripts/postprocess_brief.py "$OUTPUT_FILE"
+echo ""
+echo "=== Claude token usage ==="
+python3 - "$SONNET_USAGE" "$HAIKU_USAGE" <<'PY'
+import json, sys
+
+total_cost = 0.0
+for path in sys.argv[1:]:
+    try:
+        with open(path) as f:
+            d = json.load(f)
+    except FileNotFoundError:
+        continue
+    label = d.get("label", path)
+    cost = d.get("cost_usd") or 0.0
+    u = d.get("usage", {})
+    input_t = u.get("input_tokens", 0)
+    cache_cr = u.get("cache_creation_input_tokens", 0)
+    cache_rd = u.get("cache_read_input_tokens", 0)
+    output_t = u.get("output_tokens", 0)
+    total_t = input_t + cache_cr + cache_rd + output_t
+    print(f"  [{label}]")
+    print(f"    input={input_t:,}  cache_creation={cache_cr:,}  cache_read={cache_rd:,}  output={output_t:,}  total={total_t:,}")
+    if cost:
+        print(f"    cost=${cost:.4f}")
+    total_cost += cost
+
+print(f"  ----------------------------------------")
+print(f"  total cost: ${total_cost:.4f}")
+PY
 
 echo ""
 echo "============================================"
@@ -169,8 +205,13 @@ cat "$OUTPUT_FILE"
 echo ""
 echo "============================================"
 
-# --- 7. Commit and push ---
+# --- 8. Commit and push ---
 echo ""
+if [ "$DRY_RUN" = true ]; then
+  echo "Skipping push (--dry-run mode)."
+  PUSH_SUCCESS=true
+  exit 0
+fi
 read -r -p "Push to main and data? [y/N] " REPLY
 echo ""
 

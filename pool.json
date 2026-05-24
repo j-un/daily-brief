@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4c4f72487980d5a00c215437cdd0dbda",
-      "title": "",
-      "link": "https://tech.andpad.co.jp/entry/2026/05/18/100000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ソフトウェアサプライチェーン攻撃対策実践レポート 2026春",
-      "published": "23 May 2026 06:56 +0000",
-      "fetched_at": "2026-05-23T09:44:37.540734+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "85db69c17fae39163efecbfa09c3fd56",
       "title": "",
       "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/",
@@ -849,7 +839,227 @@
       "fetched_at": "2026-05-24T13:05:43.627691+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "5ea687495ec18d5d17afed7ce1c43ba7",
+      "title": "AIを踏まえた開発の予防と処方の在り方 - connpass",
+      "link": "https://forkwell.connpass.com/event/394661/",
+      "summary": "オンライン開催",
+      "published": "24 May 2026 14:41 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "188e57c37103b3aee10df3bea2e8474c",
+      "title": "The SRE Backlog: 蔵出し事例共有会 - connpass",
+      "link": "https://layerx.connpass.com/event/394351/",
+      "summary": "現地/オンライン",
+      "published": "24 May 2026 14:39 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "56840059207cbeaac4ccf31f81ff19e6",
+      "title": "お知らせ詳細 ｜ GMOクラウド ALTUS",
+      "link": "https://altus.gmocloud.com/news/detail/",
+      "summary": "オンライン開催 12:00-13:00",
+      "published": "24 May 2026 14:37 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb2a09d9ddf57fc20de2b8d922122892",
+      "title": "Apache Iceberg実践 ! ベストプラクティス - connpass",
+      "link": "https://findy.connpass.com/event/394026/",
+      "summary": "現地開催",
+      "published": "24 May 2026 14:34 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80706679936240196e01b2626cc7564e",
+      "title": "",
+      "link": "https://models.dev/",
+      "summary": "AIモデルを提供する商用サービスまとめ。いわばAmazon Bedrockの対抗サービスを確認できる。同じモデルでもプロバイダによって価格が異なるのね。",
+      "published": "24 May 2026 14:24 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b5fa1800dea7d03072862304472e4d5",
+      "title": "",
+      "link": "https://github.com/helvesec/rmux",
+      "summary": "Rustで実装されたtmux互換ツール。",
+      "published": "24 May 2026 14:11 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e998b93166d8940ca540f7c5d7e0fa13",
+      "title": "",
+      "link": "https://github.com/kageroumado/phosphene",
+      "summary": "macOS標準の動画壁紙で任意の動画を再生するためのアプリ。これを常駐させて動画を設定しておけば壁紙として選択可能になると。",
+      "published": "24 May 2026 14:07 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "363ece7b2e0edc594469b65c2d7bcc5e",
+      "title": "",
+      "link": "https://helentech.jp/news-google-password-manager-passkey-transfer-86252/",
+      "summary": "「パスキーの移行は「コピー」として処理され、移行後も元のパスワードマネージャーにパスキーが残るため、二重管理を避けたい場合は移行元から手動で削除する必要があります」なるほど",
+      "published": "24 May 2026 13:55 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa59478bdf09549911eab27bd973975b",
+      "title": "パソコンが「なんか変」と感じたら、Microsoftの無料セキュリティ(msertツール)を使おう",
+      "link": "https://zenn.dev/arumenoy/articles/2e1985c168ed97",
+      "summary": "msert知らなかったので覚えておく。メモ",
+      "published": "24 May 2026 13:48 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b446133720f72130ba97b8327d4eed92",
+      "title": "",
+      "link": "https://github.com/vostride/id-agent",
+      "summary": "UUID代替、AIエージェント時代のトークン消費に優しいID実装。英単語をハイフンで繋げたものだからトークン消費が少ないって理屈の模様。つなげる単語数を変えることでエントロピーも調整できると。",
+      "published": "24 May 2026 13:40 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8f06840c8bde3eaf083043b5fbda8f3",
+      "title": "",
+      "link": "https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/",
+      "summary": "zipファイルからmetadataなどを取り除くことでサイズ削減ができるzip-shrinkerほう。ソースコードあり。",
+      "published": "24 May 2026 13:32 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "932a20aa98bde4626c27a93aec47770d",
+      "title": "GoogleがAIエージェント「Gemini Spark」発表、Google Cloud上の仮想マシンを使用して24時間365日バックグラウンドで動作 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260520-google-gemini-spark/",
+      "summary": "Google版OpenClawだ",
+      "published": "24 May 2026 13:29 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ceebdd3dc59632c9b9963413aee859a",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/aurora-rds-oss-engine-version-timeline-2026-05/",
+      "summary": "おーいいまとめだ。Aurora/RDSで提供されるPostgreSQL/MySQLのバージョンが気になる皆様。",
+      "published": "24 May 2026 13:26 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e4068422aee80d5329ca130fc17da8f",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/opsmethod-2-duckdb-skills/",
+      "summary": "「SQLを書かずに自然言語でログ分析できるのが体験として良い」わいわい",
+      "published": "24 May 2026 13:25 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0dfae3a81e5bea5207e00ad5de9c6500",
+      "title": "",
+      "link": "https://dev.classmethod.jp/articles/aws-vault-op-desktop-1password-desktop/",
+      "summary": "デフォルトはOSのキーチェーンだが1Passwordをバックエンドとして利用可能になったと。なるほど。",
+      "published": "24 May 2026 13:24 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80af36cd42984413832e81c8e7ebc164",
+      "title": "「nginx 1.31.1/1.30.2」リリース ─ ngx_http_rewrite_moduleの脆弱性を修正 | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/news/39219",
+      "summary": "先日見つかったのとは別の脆弱性対応",
+      "published": "24 May 2026 13:20 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f9addd1a06b37f908d0ccaca8904b17",
+      "title": "Kubernetes祭り #1 - connpass",
+      "link": "https://3-shake.connpass.com/event/389755/",
+      "summary": "現地/オンライン",
+      "published": "24 May 2026 13:19 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31525c075838a35bfc62f36cb6c61cb9",
+      "title": "オブザーバビリティアンチパターン by NRUG Vol.18 - connpass",
+      "link": "https://nrug.connpass.com/event/393724/",
+      "summary": "オンライン",
+      "published": "24 May 2026 13:17 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c2b3c297cd4731a70734b04abfb0fa0",
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/ Comments URL: https://news.ycombinator.com/item?id=48255593 Points: 123 # Commen...",
+      "published": "Sun, 24 May 2026 08:29:38 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05aca57c1013fa7a6c443c3c2d0af7bc",
+      "title": "会社員生活を卒業、起業を実現するChatGPTプロンプト「5選」（Forbes JAPAN） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/b7f25a645efb534ef703589a2dffed70506a8fd4",
+      "summary": "あなたは、もう何カ月も独立を考え続けている。その考えは、日曜の夜に浮かび、通勤中にも、出る必要のなかった会議の最中にも頭をよぎる。自分には何かがあると分かっている。ただ、まだ行動に移していないだけだ。もし、まったく違う人生が、1つの決断の先にあるとしたらどうだろうか。 ■ChatGPTを使って会社員...",
+      "published": "2026-05-24T03:10:46Z",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94ec5d23f75fd96a126d79a5dfa28047",
+      "title": "GitHub - colbymchenry/codegraph: Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "link": "https://github.com/colbymchenry/codegraph",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-04-01T14:01:47Z",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b104053cac10bb44b3d88ffe0e38ccc",
+      "title": "",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 anthropics / knowledge-work-plugins ⭐ 13,162 (+486) 🗒 Python Open source repository of plugins primarily intended...",
+      "published": "24 May 2026 13:16 +0000",
+      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-24T13:05:43.627691+00:00"
+  "updated_at": "2026-05-24T14:56:22.753161+00:00"
 }

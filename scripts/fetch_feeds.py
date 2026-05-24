@@ -87,7 +87,6 @@ def extract_external_url(description: str, post_link: str) -> tuple[str, str]:
 
 
 TITLE_TAG_PATTERN = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
-BLUESKY_SHORT_SUMMARY_THRESHOLD = 30
 
 
 def fetch_page_title(url: str, timeout: float = 5.0) -> str:
@@ -123,11 +122,14 @@ def fetch_feed(url: str) -> list[dict]:
 
         if is_bluesky and summary:
             link, summary = extract_external_url(summary, link)
-            # summaryが短く内容不明な場合、リンク先の<title>を取得して補完
-            if len(summary) < BLUESKY_SHORT_SUMMARY_THRESHOLD and link.startswith("http"):
+            # titleが空または極端に短い場合、summary長に関わらずリンク先から補完
+            if (not title or len(title) <= 5) and link.startswith("http"):
                 page_title = fetch_page_title(link)
                 if page_title:
                     title = page_title
+            # それでもタイトルが空ならsummary先頭を代替に
+            if not title:
+                title = (summary[:40].rstrip() + "…") if summary else "(no title)"
 
         entry = {
             "title": title,
@@ -229,7 +231,7 @@ def main():
 
             article = {
                 "entry_id": entry_id,
-                "title": entry.get("title", "(no title)"),
+                "title": entry.get("title") or "(no title)",
                 "link": entry.get("link", ""),
                 "summary": summary,
                 "published": entry.get("published", ""),

@@ -47,7 +47,9 @@ def format_fetched_at(fetched_at: str) -> str:
 
 
 def build_item(title: str, link: str, summary: str) -> str:
-    return f"- **[{title}]({link})** — {summary}"
+    if summary:
+        return f"- **[{title}]({link})** — {summary}"
+    return f"- **[{title}]({link})**"
 
 
 def main() -> None:
@@ -100,8 +102,12 @@ def main() -> None:
             a = articles_by_id.get(p["entry_id"])
             if not a:
                 continue
+            title = a["title"]
+            if not title or title == "(no title)":
+                print(f"WARNING: skip article with empty title: {p['entry_id']}", file=sys.stderr)
+                continue
             summary = summaries.get(p["entry_id"], "")
-            lines.append(build_item(a["title"], a["link"], summary))
+            lines.append(build_item(title, a["link"], summary))
     else:
         lines.append("_今日の注目記事はありませんでした。_")
     lines.append("")
@@ -130,8 +136,12 @@ def main() -> None:
             a = articles_by_id.get(p["entry_id"])
             if not a:
                 continue
+            title = a["title"]
+            if not title or title == "(no title)":
+                print(f"WARNING: skip article with empty title: {p['entry_id']}", file=sys.stderr)
+                continue
             summary = summaries.get(p["entry_id"], "")
-            lines.append(build_item(a["title"], a["link"], summary))
+            lines.append(build_item(title, a["link"], summary))
         lines.append("")
 
     # フッター

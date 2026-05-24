@@ -22,6 +22,8 @@ SYSTEM_PROMPT = """\
 - title や summary のコピーでなく、自分の言葉で内容を説明する
 - 「誰に影響するか」「何が変わるか」「従来との違い」など、事実として述べられる情報は積極的に含めてよい
 - 「注目すべき」「要チェック」「検討したい」「期待される」などの主観的な推奨表現は使わない
+- title が空欄の場合は summary や link をもとにベストエフォートで要約する
+- 入力された全件について必ず summary_jp を返すこと。1件でも省略してはならない
 
 ## 良い要約の例
 - upstream keep-aliveがデフォルト有効に変更。nginx本番環境の接続設定に影響する。
@@ -116,6 +118,7 @@ def main() -> None:
         SYSTEM_PROMPT
         + f"\n## 記事リスト（{len(payload)}件）\n\n"
         + json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+        + f"\n\n上記 {len(payload)} 件すべてに対して summary_jp を返すこと。"
     )
 
     print("Calling Claude Haiku for summarization...", file=sys.stderr)
@@ -141,11 +144,54 @@ def main() -> None:
             print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 
-    summaries = {s["entry_id"]: s["summary_jp"] for s in summaries_list}
+    # 空の summary_jp も欠落扱いにする
+    summaries = {
+        s["entry_id"]: s["summary_jp"]
+        for s in summaries_list
+        if s.get("summary_jp", "").strip()
+    }
 
     missing = picked_ids - summaries.keys()
+
     if missing:
-        print(f"WARNING: 要約が得られなかった記事: {len(missing)}件", file=sys.stderr)
+        for attempt in range(1, 3):
+            print(f"要約欠落 {len(missing)} 件をリトライ ({attempt}/2)...", file=sys.stderr)
+            retry_payload = [
+                {
+                    "entry_id": eid,
+                    "title": articles_by_id[eid]["title"],
+                    "summary": articles_by_id[eid].get("summary", ""),
+                }
+                for eid in missing
+                if eid in articles_by_id
+            ]
+            if not retry_payload:
+                break
+            retry_prompt = (
+                SYSTEM_PROMPT
+                + f"\n## 記事リスト（{len(retry_payload)}件） ※リトライ {attempt}/2\n\n"
+                + json.dumps(retry_payload, ensure_ascii=False, separators=(",", ":"))
+                + f"\n\n上記 {len(retry_payload)} 件すべてに対して summary_jp を返すこと。"
+            )
+            try:
+                retry_text, retry_usage, retry_cost = call_claude(retry_prompt)
+                print_usage("Haiku Summarize (retry)", retry_usage, retry_cost)
+                retry_list = extract_json(retry_text)["summaries"]
+            except Exception as e:
+                print(f"ERROR: リトライ {attempt} 失敗: {e}", file=sys.stderr)
+                break
+            for s in retry_list:
+                if s["entry_id"] in picked_ids and s.get("summary_jp", "").strip():
+                    summaries[s["entry_id"]] = s["summary_jp"]
+            missing = picked_ids - summaries.keys()
+            if not missing:
+                break
+
+    if missing:
+        print(f"ERROR: リトライ後も要約が得られなかった記事: {len(missing)}件", file=sys.stderr)
+        for eid in sorted(missing):
+            print(f"  - {eid}", file=sys.stderr)
+        sys.exit(1)
 
     print(f"Summarized {len(summaries)} articles")
 

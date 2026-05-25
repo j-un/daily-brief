@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "adec4ae5403c90fb812041dd4c2e8461",
-      "title": "",
-      "link": "https://github.com/zakirullin/files.md",
-      "summary": "Obsidianの代替を謳うオープンソース実装。セルフホストできるサーバサイド実装もあるが必須ではなく、iCloud/Dropbox/GoogleDriveなどを使った自前同期も可。",
-      "published": "24 May 2026 12:33 +0000",
-      "fetched_at": "2026-05-24T13:05:43.627691+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "32f963156b31eb90d93fad85e4ec24ec",
-      "title": "",
-      "link": "https://github.com/MinishLab/semble",
-      "summary": "AIエージェントのためのCode Search実装。grepを実行させるよりもtoken消費が少なくて済むと。MCP提供のほか、CLIツールも用意されてる。実装言語はPython",
-      "published": "24 May 2026 12:25 +0000",
-      "fetched_at": "2026-05-24T13:05:43.627691+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2b5fa1800dea7d03072862304472e4d5",
-      "title": "",
-      "link": "https://github.com/helvesec/rmux",
-      "summary": "Rustで実装されたtmux互換ツール。",
-      "published": "24 May 2026 14:11 +0000",
-      "fetched_at": "2026-05-24T14:56:22.753161+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d4424aee649862a4c241b48077fbca4c",
       "title": "ATmosphereConf 2026レポート: Blueskyの先にある、ATプロトコルエコシステムの現在地点 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/05/ATmosphereConf2026",
@@ -929,7 +899,127 @@
       "fetched_at": "2026-05-25T16:15:56.929674+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "4690c0cf8668e6bd2442a2170c7adc27",
+      "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+      "link": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+      "summary": "Article URL: https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5 Comments URL: https://news.ycombinator....",
+      "published": "Mon, 25 May 2026 16:44:49 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5e810d71133b371188ea789f94f555f",
+      "title": "C extensions, portability, and alternative compilers",
+      "link": "https://lemon.rip/w/6-c-extensions-compilers/",
+      "summary": "Article URL: https://lemon.rip/w/6-c-extensions-compilers/ Comments URL: https://news.ycombinator.com/item?id=48267126 Points: 102 # Comments: 27",
+      "published": "Mon, 25 May 2026 14:15:19 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16ffc1ef7776b9bf6d704b55140d277f",
+      "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+      "link": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+      "summary": "Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback Comm...",
+      "published": "Mon, 25 May 2026 13:09:53 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d5f9363544d19187b7939a399071948",
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "link": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "summary": "Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/ Comments URL: htt...",
+      "published": "Mon, 25 May 2026 09:43:03 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30fc86ba6d8cc62bf6c917999f631d79",
+      "title": "Rising seas will swallow New Orleans. People need to start relocating now",
+      "link": "https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation",
+      "summary": "Article URL: https://www.cnn.com/2026/05/25/climate/new-orleans-sea-level-rise-relocation Comments URL: https://news.ycombinator.com/item?id=48265049 ...",
+      "published": "Mon, 25 May 2026 09:41:38 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3b0b896b2e23574ecbc8a232ef7ca37",
+      "title": "漢字練習のためのnpm packageを作成しているのですが、みなさんにお願いがあります - Copy/Cut/Paste/Hatena",
+      "link": "https://k1low.hatenablog.com/entry/2026/05/25/083000",
+      "summary": "私は小学2年生の子を持つ*1のですが、小学生といえば漢字練習があります。 うちの小学2年生は文字の読み書きがあまり好きではないようで、漢字練習もやはり好きではないようです。 一方で、ちょっとでもゲーム要素が入ると、たとえそれが勉強っぽいものでも、ずっと楽しんでやっているという単純さもあります。 じゃ...",
+      "published": "2026-05-25T03:59:41Z",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09f2f90213b8439109b3bbe41b7b6861",
+      "title": "落穂拾い(DevOps を閉じる)",
+      "link": "https://zenn.dev/ntk221/articles/94b0a4c189236d",
+      "summary": "はじめに 前回の記事「DevOps を閉じる ―― オブザーバビリティとは何か」、思ったより多くの方に読んでいただきました。ありがとうございます🙏 私自身、Charity Majors のビジョンには共感しています。development loop を本番まで閉じる、計装は product deci...",
+      "published": "2026-05-25T11:52:57Z",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74a6bca341421d410d4f0d727032e0d8",
+      "title": "Webサーバー「nginx」に再び致命的な脆弱性、修正版が公開／「ngx_http_rewrite_module」のバッファオーバーフロー、認証なしでリモート攻撃",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2111258.html",
+      "summary": "",
+      "published": "2026-05-25T06:55:05Z",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8bc33f81ab8d6cf46bf65889106771a",
+      "title": "TanStack Query × Dexie.js で「プロトタイプを全部捨てる」から卒業する境界設計",
+      "link": "https://zenn.dev/dress_code/articles/5d33f06aa14582",
+      "summary": "はじめに こんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。 データ構造やAPI設計までしっかりやる時間はないけれど、ビジネスサイドと「作成・更新・削除まで動く画面」で会話を進めたい場面、ありませんか？AIで雑にプロトタイプを作る選択肢もあります...",
+      "published": "2026-05-25T10:52:59Z",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95f1163f64d0e00fddac6abae16dc74f",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 har…",
+      "link": "https://github.com/hardikpandya/stop-slop",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 hardikpandya / stop-slop ⭐ 4,158 (+353) A skill file for removing AI tells from prose",
+      "published": "25 May 2026 19:17 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "319157c3169ac4f3f7cecc10a07719de",
+      "title": "Let’s all watch Piaman cover songs with a joystick and voice synthesis",
+      "link": "https://cdm.link/piaman-joystick-and-more/",
+      "summary": "Piaman, aka half of RYOKO2000, formerly Pianoid (bio: \"doesn't play piano at all\") is turning himself into a human Vocaloid, with joysticks and fast r...",
+      "published": "Mon, 25 May 2026 17:58:07 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "8cfd683bcc045bd4332c97350c2e28df",
+      "title": "The best long weekend music gear deals you can get right now",
+      "link": "https://cdm.link/the-best-long-weekend-music-gear-deals-you-can-get-right-now/",
+      "summary": "It's Memorial Day in the USA, Whit Monday in Germany and other parts of the West, and since what's truly sacred is shopping, that means some deals run...",
+      "published": "Mon, 25 May 2026 16:43:41 +0000",
+      "fetched_at": "2026-05-25T19:17:54.184306+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-25T16:15:56.929674+00:00"
+  "updated_at": "2026-05-25T19:17:54.184306+00:00"
 }

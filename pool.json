@@ -1369,7 +1369,87 @@
       "fetched_at": "2026-05-26T21:29:38.921661+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "4f936bc9099c56adcde2f62fd7c2a498",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "link": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "summary": "Article URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank Comments URL: https://news.ycombinator.com/item?id=48284712 Points: 10...",
+      "published": "Tue, 26 May 2026 19:25:16 +0000",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "530c9c5ea878db7405d04e5802f48356",
+      "title": "Don't Subscribe So Casually",
+      "link": "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually",
+      "summary": "Article URL: https://thebestworstcase.substack.com/p/dont-subscribe-so-casually Comments URL: https://news.ycombinator.com/item?id=48280636 Points: 10...",
+      "published": "Tue, 26 May 2026 14:50:25 +0000",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8425dbe7911cb8a0f833b70f4620a756",
+      "title": "健康目指すひとびとのFitbit Air、Pixel Watchといっしょに手首に巻いて使ってみました（Google Tales）",
+      "link": "https://www.techno-edge.net/article/2026/05/27/5106.html",
+      "summary": "Google I/Oの話をしたいところですが、その前に、Googleは新型トラッカー「Fitbit Air」と新フィットネスアプリ「Google Health」を発表したので、今回のGoogle Talesはそれらを少し使ってみての感想文です（Fitbit Airの一般発売は5月27日です）。",
+      "published": "Wed, 27 May 2026 06:34:24 +0900",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "4759f329634316cd9f218977b156b02b",
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/",
+      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region. These instances are powered by custom Intel ...",
+      "published": "Tue, 26 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "21f5d68bc50f851c77bfeb5bd3583a86",
+      "title": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instanc...",
+      "published": "Tue, 26 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a21d613dfffc982d3959b24a83dcc6aa",
+      "title": "キングジム、ネット印刷参入 デザインから印刷まで一貫支援「テプラボ」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2111733.html",
+      "summary": "",
+      "published": "2026-05-26T08:27:35Z",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5952a62cdfae467f1bbad65493067cc3",
+      "title": "総務省、海底ケーブルの防御対策、骨子案を取りまとめ 地方分散で多ルート化",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news122.html",
+      "summary": "総務省は5月26日、国際海底ケーブルの防御を議論する有識者会議を開き、関連施設の地方分散など、対策の骨子案を了承した。今夏にも報告書を取りまとめる。海底ケーブルの重要性が高まる中、破壊工作で想定される被害も深刻化、事業者に多ルート化などを支援し、官民連携で陸揚局などを防御する。 骨子案では、防御の主...",
+      "published": "2026-05-26T10:02:53Z",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e8e09a74e9a234690f24e0fe86ec306",
+      "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
+      "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
+      "summary": "しかも、220 行より後ろに置かれていたのは ── anti-patterns、想定される drift のパターン、stop condition、他の skill との連携手順。要するに「こういうふうに雑になるな」「ここまで来たら止まれ」を書いた、いちばん指示の強い部分だった。Quaere はエージ...",
+      "published": "2026-05-26T13:14:46Z",
+      "fetched_at": "2026-05-26T22:05:04.637659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-26T21:29:38.921661+00:00"
+  "updated_at": "2026-05-26T22:05:04.637659+00:00"
 }

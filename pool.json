@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f5a188aaae99847cb3084508fbde3452",
-      "title": "社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話 - Hatena Developer Blog",
-      "link": "https://developer.hatenastaff.com/entry/2026/05/14/173453",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 社内にLiteLLM Proxy（OSS版）を導入してマルチプロバイダLLM運用基盤を作った話",
-      "published": "25 May 2026 05:55 +0000",
-      "fetched_at": "2026-05-25T08:13:07.462749+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2ccc515dac6e58a1913ec3bfb5957260",
       "title": "検索エンジン上に作るAgent向け仮想ファイルシステム - LayerX エンジニアブログ",
       "link": "https://tech.layerx.co.jp/entry/2026/05/15/112547",
@@ -599,7 +589,467 @@
       "fetched_at": "2026-05-26T07:38:27.696859+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "9a156d9830f13d5617a0fb217d1212da",
+      "title": "2時間の商談録音を支えるAndroid録音実装の深い話 - Sansan Tech Blog",
+      "link": "https://buildersbox.corp-sansan.com/entry/2026/05/15/150000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2時間の商談録音を支えるAndroid録音実装の深い話",
+      "published": "26 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "affc406697bf0e39968f6028bafe99a6",
+      "title": "ベストプラクティスもアンチパターンも、それ自体は何も解決しない（かも） | Ryuzee.com",
+      "link": "https://www.ryuzee.com/contents/blog/14618",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ベストプラクティスもアンチパターンも、それ自体は何も解決しない（かも）",
+      "published": "26 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58d44a7035ab18d09682835e60e5a121",
+      "title": "AWS Fired the One Employee Who Gave a Damn",
+      "link": "https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/",
+      "summary": "Article URL: https://www.seuros.com/blog/aws-fired-the-human-who-made-the-difference/ Comments URL: https://news.ycombinator.com/item?id=48279321 Poin...",
+      "published": "Tue, 26 May 2026 13:08:40 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3329b237207567b8dff573bab35b7e2",
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "link": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "summary": "Article URL: https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Tue, 26 May 2026 11:46:08 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2dbf5cd26fbea8bf124d24b458bcae5",
+      "title": "GitHub Actions down again today",
+      "link": "https://www.githubstatus.com/?today",
+      "summary": "Article URL: https://www.githubstatus.com/?today Comments URL: https://news.ycombinator.com/item?id=48278374 Points: 429 # Comments: 213",
+      "published": "Tue, 26 May 2026 11:42:58 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccdf46e8eb00d0597bab26491aacbe9d",
+      "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "link": "https://dynip.dev/",
+      "summary": "Article URL: https://dynip.dev/ Comments URL: https://news.ycombinator.com/item?id=48276363 Points: 216 # Comments: 92",
+      "published": "Tue, 26 May 2026 07:35:20 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94ad89f6edc6ed7be43893a41996b2c1",
+      "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "link": "https://news.ycombinator.com/item?id=48275508",
+      "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125 Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Tue, 26 May 2026 05:49:35 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bffe6edee0f9f8531633200e4e72b204",
+      "title": "The User Is Visibly Frustrated",
+      "link": "https://pscanf.com/s/354/",
+      "summary": "Article URL: https://pscanf.com/s/354/ Comments URL: https://news.ycombinator.com/item?id=48275059 Points: 212 # Comments: 190",
+      "published": "Tue, 26 May 2026 04:39:03 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80933588e1c410d05fd5fcab1b82199b",
+      "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+      "link": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+      "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/ Comments URL: https://news.ycombinator.com/item?id=48274794 Poi...",
+      "published": "Tue, 26 May 2026 03:56:09 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc01285d758d7d40dd6813b40625c6a4",
+      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "link": "https://earthiongame.com/",
+      "summary": "Article URL: https://earthiongame.com/ Comments URL: https://news.ycombinator.com/item?id=48274711 Points: 106 # Comments: 50",
+      "published": "Tue, 26 May 2026 03:42:23 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21699898d0d0c947be747eeec98e6b1a",
+      "title": "スマホでも使えるXboxワイヤレスコントローラが期間限定セール 特別モデル「ブレイカー」シリーズも対象、6月7日まで",
+      "link": "https://www.techno-edge.net/article/2026/05/26/5104.html",
+      "summary": "・2026年5月25日(月)から6月7日(日)まで、協賛のXbox販売店にて「ゲームシーズンスタートセール」を実施 ・カーボンブラックやショックブルーなど全10種類のXboxワイヤレスコントローラーが対象 ・Amazon.co.jpやビックカメラ、ヨドバシカメラなど主要7販売店で購入可能",
+      "published": "Tue, 26 May 2026 18:38:32 +0900",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "83fac660919e847fbd612ef8be9738c4",
+      "title": "NEC、1kg未満で最長級バッテリーの「LAVIE NEXTREME」5月28日発売 Core Ultra 7に32GB RAMのCopilot+ PC",
+      "link": "https://www.techno-edge.net/article/2026/05/26/5103.html",
+      "summary": "・本体重量約994gと1kg未満を実現しながら、アイドル時最大約40.2時間のバッテリ駆動を達成 ・インテル® Core Ultra 7プロセッサー搭載でCopilot+ PCに対応し、AI機能によるビジネス効率化を支援 ・カーボン素材採用・MIL規格準拠の高堅牢性に加え、ユーザー自身でバッテリ交換...",
+      "published": "Tue, 26 May 2026 17:21:16 +0900",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddeed406f5b4d408f86ad26e64148e65",
+      "title": "はてな、2026年夏にフォーラムサービスをリリース。本日よりクローズドベータ提供を開始 - プレスリリース - 株式会社はてな",
+      "link": "https://hatena.co.jp/press/release/entry/2026/05/26/153000",
+      "summary": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、個人ユーザー向けの新サービスであるフォーラムサービスを2026年夏にリリースします。本日2026年5月26日より、事前登録ユーザーを対象としたクローズドベータの提供を開始しました。 ▽ はてながフォーラムサービスに取り組む理由 ...",
+      "published": "2026-05-26T06:31:21Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "411244661667b4bcd439f6a76bbc7844",
+      "title": "しつけと家庭内暴力の境界なんてわからん",
+      "link": "https://anond.hatelabo.jp/20260526170632",
+      "summary": "阿部・巨人監督が辞任、長女への暴行容疑…「伝統ある巨人軍の監督の名を汚してしまった」涙ながらに謝罪 : 読売新聞 https://www.yomiuri.co.jp/national/20260526-GYT1T00138/ 上記の記事に↓のブコメをつけたら、（変なスター連打で）思いの外伸びてしまっ...",
+      "published": "2026-05-26T08:13:04Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ec7fffb9c888debeb5b9a2889e85121",
+      "title": "ChatGPTには「まあまあ落ち着いて」が通じない？ 巨人・阿部監督を辞任に追い込んだ“文脈なき正論”のわな",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2605/26/news098.html",
+      "summary": "プロ野球・巨人の阿部慎之助監督が、シーズン途中で突如逮捕・辞任するという衝撃的なニュースが飛び込んできた。 一見、野球界の大スキャンダルだが、各紙の報道や、代理人が公開した当事者である娘（18歳）の手紙によると、事の発端は日常的な親子げんかによるもので、娘が「ChatGPTに相談したこと」が逮捕劇の...",
+      "published": "2026-05-26T09:05:19Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "380221b4a618c9945dc63813b0a871d2",
+      "title": "Agentic AI時代における メルカリのAIガバナンスとガードレール実装",
+      "link": "https://speakerdeck.com/naoichihara/agentic-aishi-dai-niokeru-merukarinoaigabanansutogadorerushi-zhuang",
+      "summary": "Agentic AIが急速に進化が進む一方、これらの安全性に関わる課題は多い。メルカリでは、全ての従業員がAI前提の業務スタイルへと変革することを目指し、安全なAIエージェント利用環境やルール整備など多面的に推進してきている。本講演では、Agentic AI時代に認識すべきAIリスクの全体像と併せ、...",
+      "published": "2026-05-26T08:51:18Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ce4a421c34ff76735227bdcd974c5a5",
+      "title": "京都最強の通りをPageRankで決めたい - KMC活動ブログ",
+      "link": "https://blog.kmc.gr.jp/entry/2026/05/26/152636",
+      "summary": "こんにちはこんにちは、 id:crashrt です。 京都の交差点って命名規則が面白いですよね。 四条河原町とか河原町三条とか、多くの場合は交差する通りの名前を組み合わせたものになっています。 そしてどうやら大きな通りを先にすることが多いみたいです（河原町通よりも四条通の方がでかい、みたいに）。 交...",
+      "published": "2026-05-26T06:31:00Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "513c00819fb35e1f56f0fd0842f9bdca",
+      "title": "「小説家になろう」作品へのAI利用の明示を必須化 全文のAI生成は禁止に",
+      "link": "https://kai-you.net/article/95512",
+      "summary": "小説投稿サイト「小説家になろう」を運営する株式会社ヒナプロジェクトが、作品創作におけるAI利用状況の開示を必須化すると発表した。 6月9日（火）から新規作品投稿時にAI利用状況の設定が必須に。 既存作品についても9月1日（火）以降、設定を行っていない場合はエピソード投稿や作品情報編集などができなくな...",
+      "published": "2026-05-26T08:53:26Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d9c44a801f735780952c23b6a8d8aab",
+      "title": "OpenClaw作者、エージェントスキルのチェックツール「Skill Cleaner」をGitHubで公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/05/skill-cleaner",
+      "summary": "OpenClaw作者⁠⁠、エージェントスキルのチェックツール「Skill Cleaner」をGitHubで公開 OpenClawの作者として知られるPeter Steinberger氏は2026年5月25日、効率の良いエージェントスキルを書くためのチェックスクリプト「Skill Cleaner」をG...",
+      "published": "2026-05-26T04:06:28Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f32e92990213fc927eb70d7c404fbaf6",
+      "title": "はてな、個人向けフォーラムサービス開始へ 「安心して語り合える場」目指す 開発・運営にはAI活用",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/26/2000000022/",
+      "summary": "はてなは5月26日、新たに個人ユーザー向けのフォーラムサービスを夏にリリースすると発表した。「話題・トピックを中心にユーザー同士がつながり、安心して意見を交わせる場を提供する」という。同日から「はてなブログ」「はてなブックマーク」のユーザーを中心に、クローズドβ版を提供する。 新サービスでは、その時...",
+      "published": "2026-05-26T08:26:10Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c85dc54198408c97e31876dbf0d4e39",
+      "title": "ランサムウェア攻撃が「持続可能なビジネス」に 侵入コスト6万6000円、復旧に2億3000万円",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/26/news108.html",
+      "summary": "ランサムウェア対策に特化した米サイバーセキュリティ企業Halcyon（ハルシオン）の日本法人・Halcyon Japanは5月26日、日本市場での事業を本格的に開始したと発表した。 同時に「日本を標的とするランサムウェア攻撃の実態 2026」と題した調査レポートを公開。攻撃の侵入コストと被害企業の復...",
+      "published": "2026-05-26T07:41:03Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7da7f3576141b855234cb4fb3b5b7f97",
+      "title": "Google ドライブやGmailなどでアイコンデザインが刷新",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2111668.html",
+      "summary": "",
+      "published": "2026-05-26T07:27:29Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87db1f1d9abbb74ac0b129dc6036b419",
+      "title": "多摩モノレール延伸、工事施行認可 上北台～武蔵村山市～箱根ケ崎",
+      "link": "https://www.watch.impress.co.jp/docs/news/2111637.html",
+      "summary": "",
+      "published": "2026-05-26T07:35:19Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1250a4f79a4a4612ecebc79bdcb362ef",
+      "title": "ボールでボールを支える新機構。エレコムのトラックボール「IST PLUS」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2111526.html",
+      "summary": "",
+      "published": "2026-05-26T04:00:19Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6df051081b276604c1a9ba279d169905",
+      "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+      "link": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+      "summary": "健適文化という会社をやっています。社内ドキュメントが散らかって検索できない、AIに聞いてもまともな答えが返ってこない、そういう課題に対して、会社のナレッジベースをゼロから構築するお手伝いをしています。この記事はその過程で得た知見をまとめたものです。 先に結論 社内ドキュメントをベクトルDBに突っ込ん...",
+      "published": "2026-05-25T10:19:13Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eabe3f3f7264c08f460117c7c7a17db7",
+      "title": "中国製高性能AI「DeepSeek-V4-Pro」の75％割引が永続化される、DeepSeek専用設計のコーディングエージェント「Reasonix」にも注目が集まる",
+      "link": "https://gigazine.net/news/20260526-deepseek-v4-pro-pricing/",
+      "summary": "中国のAI企業であるDeepSeekは2026年4月にDeepSeek-V4シリーズを発表し、期間限定でAPI料金の75％割引きキャンペーンを実施していました。この割引きが永遠に続くことが発表され、DeepSeek-V4-Proがコストパフォーマンスに優れたモデルとして注目を集めています。 Mode...",
+      "published": "2026-05-26T06:49:42Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f80a16030489da1dea167131cf60999",
+      "title": "「最終判断は人間が行います」が嘘になるとき ― ICOが暴いた採用AIの実態 - Nothing ventured, nothing gained.",
+      "link": "https://takoratta.hatenablog.com/entry/2026/05/26/083000",
+      "summary": "英国の情報コミッショナー事務所（ICO）が今年3月末、「Recruitment Rewired」という採用AI調査報告書を公表した*1。2025年3月から2026年1月にかけて、30社以上の主要な雇用主と採用プラットフォームから任意の協力を得る形で運用実態を聞き取った、なかなか珍しい調査だ。 報告書...",
+      "published": "2026-05-26T00:54:51Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "041a628d7e1f65bf951def71b41cff7d",
+      "title": "GCP Service Account+WIF+DWDでキーレス認証 ~AWS環境からGoogle Driveの情報に安全にアクセスする~",
+      "link": "https://zenn.dev/dress_code/articles/dc6a6654f6e007",
+      "summary": "Dress Code株式会社の蒲生です。 弊社ではDRESS CODEではStorage & Files というプロダクトを開発しています。 BoxやGoogle Driveなど企業が利用しているクラウドストレージ 上のフォルダ・共有設定を組織横断で可視化し、 リスクのある共有や設定を検知・修正する...",
+      "published": "2026-05-26T09:11:47Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b1a2d71b3b9afb5eaaefc0a3985c7be",
+      "title": "【完全版】AIセキュリティ地獄絵図2026 - CVE・攻撃手法・防御策を全部解説する - Qiita",
+      "link": "https://qiita.com/emi_ndk/items/a36051a97d3b0670bedd",
+      "summary": "先日の記事「100万台のAIサービスをスキャンしたら史上最悪のセキュリティだった」が大きな反響をいただいた。 76いいね、62ストック、8万PV超え。 コメントで「もっと詳しく知りたい」「具体的な対策を教えて」という声を多数いただいたので、完全版の深掘り記事を書くことにした。 この記事では： CVE...",
+      "published": "2026-05-26T10:38:25Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "862ca4c9371ca08a9fd3f438c5a6d1cb",
+      "title": "個人情報法改正案、衆院を通過 企業が同意なき病犯歴収集可能に | NEWSjp",
+      "link": "https://news.jp/i/1431865782457467002",
+      "summary": "個人情報保護法の改正案が26日、衆院本会議で可決され、衆院を通過した。病気や犯罪歴などを企業が本人の同意なしに収集できるようにしつつ、違反業者への課徴金制度を新設する。規制緩和で国産人工知能（AI）の開発を後押しするとともに、適正な利活用に向けて抑止力を高める狙いがある。 改正案では、統計作成やAI...",
+      "published": "2026-05-26T06:48:52Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94987924bfeff58406204358f21075ba",
+      "title": "Code coverage on pull requests is now in public preview - GitHub Changelog",
+      "link": "https://github.blog/changelog/2026-05-26-code-coverage-in-pull-requests-is-now-in-public-preview/",
+      "summary": "Code coverage metrics are now in public preview for all GitHub Code Quality users on github.com. You can now see an aggregate percent of code covered ...",
+      "published": "2026-05-26T10:01:13Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33fbbcea4ddea6130720c707e546a10b",
+      "title": "サプライチェーン攻撃対策の「実効」を継続検証するGitHub監査基盤を内製した話",
+      "link": "https://zenn.dev/smartround_dev/articles/478c195bf914b6",
+      "summary": "はじめに こんにちは、スマートラウンドの@shonansurvivors です。 近年、サプライチェーン攻撃のニュースを目にする機会が増えてきました。弊社でも各種の対策を打ってきたのですが、その「実効」を継続的に保証する仕組みが手薄でした。 本記事では、その実効監査のために内製した社内監査基盤の設計...",
+      "published": "2026-05-26T08:00:21Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38e8a37159740a98c51bfab342e90bd9",
+      "title": "結合度 - kawasima",
+      "link": "https://scrapbox.io/kawasima/%E7%B5%90%E5%90%88%E5%BA%A6",
+      "summary": "例えば、サービスAがあるファイルに書き込み、サービスBがそのファイルを読み込むようになっていた。どちらもハードコードされていて、サービスAがパスを変更したらサービスBがエラーになった。それで初めて2つのサービスの関連性に気付いた。というようなケース。",
+      "published": "2020-08-21T13:10:04Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76be3574aff23c5ac9bc1b140de65089",
+      "title": "AIエージェントが毎回データを取りに行く設計の限界",
+      "link": "https://zenn.dev/knowledge_graph/articles/kg-agent-memory-first-design",
+      "summary": "AIエージェントが毎回データを取りに行く設計の限界 この記事は独立して読めます（約8分） 以前の記事「MCPの課題とナレッジグラフ」では、MCP/RAGアーキテクチャが抱えるscatter-gather問題（毎回バラバラのシステムに問い合わせて寄せ集める方式）を論じました。また「特許から読むDevR...",
+      "published": "2026-05-24T23:20:02Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f6194e65ef0fda9443ca5c57954a684",
+      "title": "東武鉄道、大手私鉄初の「ウォークスルー顔認証改札」 27日から",
+      "link": "https://www.watch.impress.co.jp/docs/news/2111316.html",
+      "summary": "",
+      "published": "2026-05-25T11:03:54Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb5ef3b8dbe6019a8f45a1b75f75916e",
+      "title": "Linuxにも年齢確認を強制する法案、批判殺到で修正へ",
+      "link": "https://gigazine.net/news/20260526-age-verification-law-linux/",
+      "summary": "アメリカ・カリフォルニア州で成立した「OSに年齢確認を義務付ける法律」について、LinuxやオープンソースOSを対象外とする修正案が提出されました。ユーザーの生年月日や年齢の入力をOSプロバイダーに求める内容に対してLinuxコミュニティから反発が広がっていましたが、修正法案では「コピー、再配布、改...",
+      "published": "2026-05-26T09:32:30Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cb2db18e765ca95cb4327ebf3b8a00e",
+      "title": "tangled · tightly-knit social coding",
+      "link": "https://tangled.org/",
+      "summary": "Pull requests, reimagined Break down large features into small, reviewable chunks. Stack pull requests on top of each other and ship faster with round...",
+      "published": "2025-03-03T01:52:00Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9d2b3e33be6227bafb3d7d443a7e364",
+      "title": "Windows8およびWindows10「Disk使用率が100％」になる | Windows10の不具合対応もPCデポへ",
+      "link": "https://www.pcdepot.co.jp/faq/pc/windows10_disk_usage_trouble.html",
+      "summary": "「タスクマネージャーのディスク使用率が100％と表示される パソコンの調子が悪い 動作が重い、エラーがでる ハードディスクのアクセスランプがずっと点滅している タスクマネージャーは[Windowsキー]+[x]または[Ctrl]＋[Alt]＋[Delete]キーを押し、表示された画面で[タスクマネー...",
+      "published": "2015-12-08T02:51:58Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21c705d137c30baec2ab96a04402a20e",
+      "title": "ローカルAIで「Blender」を操作！ 見せてもらおうか、公式MCPアドオンの実力とやらを【Blender ウォッチング】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2111760.html",
+      "summary": "",
+      "published": "2026-05-26T08:42:52Z",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e4265489a81fda2104dbcc953e62122",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 twe…",
+      "link": "https://github.com/twentyhq/twenty",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 twentyhq / twenty ⭐ 46,595 (+231) 🗒 TypeScript The open alternative to Salesforce, designed for AI.",
+      "published": "26 May 2026 12:16 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09293bac157653f8284d4e0951e36863",
+      "title": "Universal Audio、半年に一度の大型プロモーションをスタート…… LUNA Pro 2.0が過去最安値の50％OFF、16,335円で約30種類のUADプラグインを入手可能に",
+      "link": "https://icon.jp/archives/27589",
+      "summary": "Universal Audioが、『The UAD Half Yearly Sale』と題した大型プロモーションをスタート。約30種類のUADプラグインを収録した「LUNA Pro 2.0」がなんと半額、過去最安値となる […]",
+      "published": "Tue, 26 May 2026 07:00:00 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "ab67e6884d88c402acd5ecfc3be6587f",
+      "title": "Save BIG on classic Roland plugins for a limited time at Plugin Boutique",
+      "link": "https://musictech.com/news/gear/roland-sale-at-plugin-boutique/?utm_source=rss&utm_medium=rss&utm_campaign=roland-sale-at-plugin-boutique",
+      "summary": "One of the big-ticket discounts is the Roland’s Legends Bundle, with its 79% discount dropping the price to just £89. The post Save BIG on classic Rol...",
+      "published": "Tue, 26 May 2026 11:53:16 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "08966bf4ae324d2eb26a2850769ba943",
+      "title": "Spotify partners with UMG on AI-powered remix tool as part of a “superfan initiative” designed to “support human artistry”",
+      "link": "https://musictech.com/news/industry/spotify-universal-music-group-ai-powered-remixes-covers/?utm_source=rss&utm_medium=rss&utm_campaign=spotify-universal-music-group-ai-powered-remixes-covers",
+      "summary": "Spotify says the new feature is grounded in consent, and will open new revenue streams for artists. The post Spotify partners with UMG on AI-powered r...",
+      "published": "Tue, 26 May 2026 09:36:32 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "8e47d5e7204bf98395131d2656e3d7b2",
+      "title": "OneOdio Studio Max 2 review: the same ultra-low latency as the big brands without the hefty price",
+      "link": "https://musictech.com/reviews/dj/oneodio-studio-max-2-review/?utm_source=rss&utm_medium=rss&utm_campaign=oneodio-studio-max-2-review",
+      "summary": "Are these the wireless DJ headphones that actually work for everything? The post OneOdio Studio Max 2 review: the same ultra-low latency as the big br...",
+      "published": "Tue, 26 May 2026 08:00:07 +0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "21ee27e948c5d2b4ef67248c12150f76",
+      "title": "How Karen Borca Brought the Bassoon Into Free Jazz",
+      "link": "https://daily.bandcamp.com/lists/karen-borca-album-guide",
+      "summary": "The musician carved out a unique place in avant-garde music over five decades of boundary-pushing performance. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 26 May 2026 13:46:21 -0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "272b04a6dc69d965afbeac1603a24ccb",
+      "title": "aja monet, “the color of rain”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/aja-monet-the-color-of-rain-review",
+      "summary": "The blues poet forges a pan-genre framework as multidimensional as the concepts powering her poetic flow. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 26 May 2026 13:46:17 -0000",
+      "fetched_at": "2026-05-26T14:50:41.281129+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-26T07:38:27.696859+00:00"
+  "updated_at": "2026-05-26T14:50:41.281129+00:00"
 }

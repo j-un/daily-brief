@@ -1169,7 +1169,177 @@
       "fetched_at": "2026-05-27T14:59:32.654024+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "0ce3b9fca202ff1529fd870a788cebf1",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-th...",
+      "published": "Wed, 27 May 2026 16:28:41 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cb9731a80b80d617661e0c0bb4419f0",
+      "title": "Training our own AI models",
+      "link": "https://posthog.com/blog/training-ai-models",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models Comments URL: https://news.ycombinator.com/item?id=48296359 Points: 136 # Comments: 96",
+      "published": "Wed, 27 May 2026 16:08:42 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5855c811ba873001a595268dc9469cd",
+      "title": "Last.fm is now independent",
+      "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "summary": "Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591 Comments URL: https://news.ycombinator.com/item?id=48295892 Points: 310 # Com...",
+      "published": "Wed, 27 May 2026 15:36:09 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d43d303538df77a831ab107671f0ba04",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Wed, 27 May 2026 15:20:47 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dd9bc00fcba32743230b9c072f5acdd",
+      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
+      "link": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
+      "summary": "Article URL: https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agri...",
+      "published": "Wed, 27 May 2026 13:52:48 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "54d49ffe90aec3ef9f7645e05523480c",
+      "title": "Go: Support for Generic Methods",
+      "link": "https://github.com/golang/go/issues/77273",
+      "summary": "Article URL: https://github.com/golang/go/issues/77273 Comments URL: https://news.ycombinator.com/item?id=48291575 Points: 123 # Comments: 102",
+      "published": "Wed, 27 May 2026 09:02:59 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b9e29c6738a2d62dc815e4cf3276e58",
+      "title": "Chronos-2 の紹介：単変量予測の先へ — 多変量も共変量もゼロショットで",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-chronos-2/",
+      "summary": "Chronos-2は、Amazonが開発した時系列予測の基盤モデルです。従来の単変量予測に加え、多変量予測や共変量を活用した予測をゼロショットで実現します。コンテキスト内学習により、追加学習なしで多様な予測タスクに対応し、既存モデルを大幅に上回る性能を達成しました。",
+      "published": "Wed, 27 May 2026 15:48:09 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "83424a01d080e647615ac328a75e7423",
+      "title": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/",
+      "summary": "Amazon SageMaker HyperPod now supports minimum capacity requirements (MinCount) for clusters using Slurm orchestration with continuous provisioning. W...",
+      "published": "Wed, 27 May 2026 15:06:00 GMT",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "586b7e1ccd8b633ff252cc646f904222",
+      "title": "「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理",
+      "link": "https://zenn.dev/khale/articles/web-session-jwt-cookie-history",
+      "summary": "はじめに Webセキュリティの第一人者である徳丸浩氏が X で、JWT と Cookie セッションの関係についてこんな投稿をされていました。 これはウェブAPI呼び出しの歴史から考えると腑に落ちるのですが、CORSの機能にCookie付与があることからもわかるように、 (1) 昔はクロスオリジンの...",
+      "published": "2026-05-27T09:14:42Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f904a2384dbebffc1aee9cf5e4698527",
+      "title": "自民・ロボット議連 AIロボの社会実装加速「国産化推進、30年に30万台導入」提言へ",
+      "link": "https://www.sankei.com/article/20260527-7INLS2JKTVERVFJHZ4OYPOCZDA/",
+      "summary": "自民党のロボット議員連盟（会長・山際大志郎元経済再生担当相）は人工知能（AI）ロボティクス（自分で判断し、学習をこなし、行動できる高度なロボットシステム）の社会実装に向け、5つの提言を取りまとめた。「2030年代に累計で30万台以上のロボットを導入する」といった数値目標を独自に掲げた。今後、党内で調...",
+      "published": "2026-05-27T08:00:18Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "180898e4d2818d8242413a9b8869ff47",
+      "title": "「ゲーム開発でいくら稼いだ？」という疑問に、開発者たちが生々しく回答。“稼ぐ”までの厳しさと、“稼がない”選択肢 - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260527-445494/",
+      "summary": "「インディーゲームでいくら稼いだの？」という素朴な疑問に対し、開発者が回答をよせている。",
+      "published": "2026-05-27T13:16:57Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ac7bc4b5755bc4e9019de83e3a6aea7",
+      "title": "OCaml Web App Development 2026 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/05/26/150000",
+      "summary": "【基盤開発チーム ブログリレー1日目】の記事です。 記事とはなんの関係もない自作の苔テラリウム OCaml、書いてますか。私は書いています。仕事として。 そんな話の詳細は今年の関数型まつり 2026 で話すとして、今回は「実際、OCaml で Web やれんの？」という疑問にお答えしようと思います。...",
+      "published": "2026-05-26T22:53:54Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c26cab9de62d75fc60cccfb865126aed",
+      "title": "運用エージェントは \"作る\" から \"育てる\" へ - 記憶と自己進化の3層設計パターン / self-evolving-agents-three-layer-agent-design",
+      "link": "https://speakerdeck.com/gawa/self-evolving-agents-three-layer-agent-design",
+      "summary": "運用エージェントは \"作る\" から \"育てる\" へ - 記憶と自己進化の3層設計パターン / self-evolving-agents-three-layer-agent-design",
+      "published": "2026-05-27T10:34:19Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45f60373e8fe3a7e9dadf6341b374b1c",
+      "title": "ローカルの Claude Code レビューを「すり抜けられない」必須チェックにした話 - PLEX Product Team Blog",
+      "link": "https://product.plex.co.jp/entry/local-claude-code-review-required-check",
+      "summary": "こんにちは、コーポレートチームの金山です。 今回は、各開発者がローカルで回している Claude Code のレビューを「すり抜けられない」必須チェックにした仕組みを紹介します。 はじめに 私たちが開発しているある社内プロダクトでは、AI レビューの実行コストの都合から、レビューを CI ではなく各...",
+      "published": "2026-05-27T03:35:09Z",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d48e4e4a6b36e107f30cb5ec17dbe17",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 iii…",
+      "link": "https://github.com/iii-hq/iii",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 iii-hq / iii ⭐ 16,572 (+244) 🗒 Rust Effortlessly compose, extend, and observe every service in real-time for the ...",
+      "published": "27 May 2026 17:16 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2f39386e20eb773456e12229344aa68",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 p-e…",
+      "link": "https://github.com/p-e-w/heretic",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 p-e-w / heretic ⭐ 21,818 (+314) 🗒 Python Fully automatic censorship removal for language models",
+      "published": "27 May 2026 16:16 +0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ee0fbcf5ef0d6e3484ed7eb0f19a345",
+      "title": "Latin Roots Music Fights Back",
+      "link": "https://daily.bandcamp.com/scene-report/new-latin-roots-music-guide",
+      "summary": "With the world in chaos, Latin musicians are reconfiguring roots music to imagine a more hopeful future. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 27 May 2026 17:29:46 -0000",
+      "fetched_at": "2026-05-27T18:20:42.067756+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-05-27T14:59:32.654024+00:00"
+  "updated_at": "2026-05-27T18:20:42.067756+00:00"
 }

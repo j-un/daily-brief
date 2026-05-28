@@ -1169,7 +1169,187 @@
       "fetched_at": "2026-05-28T15:33:10.687716+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "5f3a9a519302e6ae2b7bee8d8440dc67",
+      "title": "Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "summary": "Article URL: https://www.anthropic.com/news/claude-opus-4-8 Comments URL: https://news.ycombinator.com/item?id=48311647 Points: 582 # Comments: 413",
+      "published": "Thu, 28 May 2026 16:49:14 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b54f43b15f5615a1de6be55a0cf4d199",
+      "title": "New York passes pied-a-terre tax",
+      "link": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html Comments URL: https://news.ycombinator.com/item?id=48309584...",
+      "published": "Thu, 28 May 2026 14:37:51 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "caef0ae46b8539ff49f52491664c5f8e",
+      "title": "EU fines Temu €200M for allowing sale of illegal products",
+      "link": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o Comments URL: https://news.ycombinator.com/item?id=48309302 Points: 201 # Comments: 130",
+      "published": "Thu, 28 May 2026 14:18:18 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eeb9b49368063b95d3eea63452a0fb7d",
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "link": "https://llmgame.scalex.dev",
+      "summary": "Article URL: https://llmgame.scalex.dev Comments URL: https://news.ycombinator.com/item?id=48308376 Points: 115 # Comments: 62",
+      "published": "Thu, 28 May 2026 13:02:00 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "052665b01080c889bde8a5c2f7358317",
+      "title": "Bttf is a command line datetime Swiss army knife",
+      "link": "https://github.com/BurntSushi/bttf",
+      "summary": "Article URL: https://github.com/BurntSushi/bttf Comments URL: https://news.ycombinator.com/item?id=48303881 Points: 106 # Comments: 73",
+      "published": "Thu, 28 May 2026 02:58:44 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a08591c3478bb09d6dfe7eb25929445",
+      "title": "AWS Organizations emits CloudTrail events for account membership changes",
+      "link": "https://aws.amazon.com/https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/",
+      "summary": "AWS Organizations now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new ev...",
+      "published": "Thu, 28 May 2026 16:00:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "facd3d0ebb6e395949a9b629912dc5a9",
+      "title": "Claude Opus 4.8 is now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/",
+      "summary": "AWS now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, ...",
+      "published": "Thu, 28 May 2026 15:16:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e318c40c085789eb9d068d3058a6184",
+      "title": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/",
+      "summary": "Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. Dynamo...",
+      "published": "Thu, 28 May 2026 15:00:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "432d59ed167d94f6d144c15b6e121b96",
+      "title": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P5.48xl instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P5...",
+      "published": "Wed, 27 May 2026 23:30:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "174c8172c254aa49b3d64675f70c66c7",
+      "title": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/",
+      "summary": "We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo) on SageMaker notebook instances. Amazon EC2 P4de ...",
+      "published": "Wed, 27 May 2026 23:30:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "376063602694878cf9684cf2d5c8cba3",
+      "title": "AWS Elemental Inference now supports Smart Subtitles for automated live captioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles",
+      "summary": "AWS Elemental Inference now supports smart subtitles, a new AI-powered feature that automatically generates real-time subtitles for live video streams...",
+      "published": "Wed, 27 May 2026 21:00:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "92d70c288b76a1aaa1338ede9799a165",
+      "title": "AWS Neuron 2.30.0 now available with NKI 0.4.0 and 22 new NKI Library kernels",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announce-neuron-2-30-0",
+      "summary": "Today, AWS announces the general availability of AWS Neuron 2.30.0, delivering NKI 0.4.0 with new AWS Trainium3 specific hardware capabilities, 22 new...",
+      "published": "Tue, 26 May 2026 20:17:00 GMT",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "84481205cb12e8a1161d4308e33baa49",
+      "title": "ハンドヘルドゲーム機向け新型CPU「Intel Arc G」登場。ゲームの高速起動にも対応",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2112716.html",
+      "summary": "",
+      "published": "2026-05-28T13:59:54Z",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e21104778f7e4c264fc94f6dd02b757a",
+      "title": "国内PC出荷が過去最大の1,805万台に。2026年度は一転して4割減の懸念も",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2112527.html",
+      "summary": "",
+      "published": "2026-05-28T07:30:04Z",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0f0cc143de86d811de4908d5fb236c7",
+      "title": "医療現場の事務作業を支援する高性能な日本語LLMを開発しました | さくらインターネット",
+      "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/05/28/1968224678/",
+      "summary": "NEDO（国立研究開発法人新エネルギー・産業技術総合開発機構） さくらインターネット株式会社 国立大学法人東京大学 株式会社ＡＢＥＪＡ 国立研究開発法人理化学研究所 学校法人国際医療福祉大学 学校法人藤田学園 藤田医科大学 国立大学法人東京科学大学 国立大学法人九州大学 株式会社ヘリオス NEDOが...",
+      "published": "2026-05-28T13:26:59Z",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dcad6dc915f31d1d5902da9457107b5",
+      "title": "NVIDIA、台湾に年間1,500億ドルの投資。2030年に新拠点稼働",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2112485.html",
+      "summary": "",
+      "published": "2026-05-28T05:41:21Z",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2faad83fc4434cbb6b42ae33ddc0e611",
+      "title": "📓Copilot Notebooks とは？ - OneNote と同期する「考える場所」と May 2026 アップデートまとめ - Qiita",
+      "link": "https://qiita.com/aktsmm/items/4577857b6c440c3f8b23",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? こんにちは、最近「Notebooks って...",
+      "published": "2026-05-28T10:27:40Z",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a898800576591d97b67f69b018a12ae",
+      "title": "📦 OpenMOSS / MOSS-TTS ⭐ 2,034 (+53) 🗒 Py…",
+      "link": "https://github.com/OpenMOSS/MOSS-TTS",
+      "summary": "📦 OpenMOSS / MOSS-TTS ⭐ 2,034 (+53) 🗒 Python MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS ...",
+      "published": "28 May 2026 17:16 +0000",
+      "fetched_at": "2026-05-28T18:30:46.203901+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-28T15:33:10.687716+00:00"
+  "updated_at": "2026-05-28T18:30:46.203901+00:00"
 }

@@ -669,7 +669,207 @@
       "fetched_at": "2026-05-29T07:48:12.827117+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a505c581ea626490397c50c034d3c673",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://cloud.google.com/blog/topics/developers-practitioners/api-keys-are-open-secrets/?hl=en",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Securing Your Gemini and Google API Keys",
+      "published": "29 May 2026 10:55 +0000",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2034d8766bb270d8348a92f040b38146",
+      "title": "Applying OpenTelemetry Security Practices in Legacy Environments | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/security-legacy-environments/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Applying OpenTelemetry Security Practices in Legacy Environments",
+      "published": "29 May 2026 08:55 +0000",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5144aaedfd9f79e010a6263c7fe91797",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "link": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "summary": "Article URL: https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967 Comments URL: https://news.ycombinator.com/item?id=48319509 Poi...",
+      "published": "Fri, 29 May 2026 05:45:36 +0000",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a993f9d5edf15a12e21a6473f1e14e92",
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "link": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "summary": "Article URL: https://buildingbetter.tech/p/i-read-the-claude-code-source-code Comments URL: https://news.ycombinator.com/item?id=48318174 Points: 125 ...",
+      "published": "Fri, 29 May 2026 02:13:20 +0000",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b987e40cdaf02ee3c877cd869645f2b3",
+      "title": "Bitburner, programming-based incremental game",
+      "link": "https://bitburner-official.github.io/",
+      "summary": "Article URL: https://bitburner-official.github.io/ Comments URL: https://news.ycombinator.com/item?id=48312616 Points: 104 # Comments: 23",
+      "published": "Thu, 28 May 2026 17:43:36 +0000",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9d163e69e3d0a87809cc4c74b9f6774",
+      "title": "論理削除をやめて状態をテーブルで分けるDB設計",
+      "link": "https://zenn.dev/mstn_/articles/af99d216639b30",
+      "summary": "はじめに 業務システムを作っていると、退会したユーザーや削除した記事を「消えたことにしたいけれど履歴は残したい」という要件によく出会うかと思います。 このときによく見るのが論理削除と呼ばれる手法で、deleted_at のような列を足して WHERE deleted_at IS NULL で取り出す...",
+      "published": "2026-05-29T04:22:42Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "100870748d1c5f52b054859f2509a55c",
+      "title": "htmxがめっちゃいい！JavaScriptを書かずにモダンなWebアプリを作る革命",
+      "link": "https://zenn.dev/yamitake/articles/htmx-is-awesome",
+      "summary": "htmxとは何か htmxは、HTML属性だけでAJAX、CSS Transitions、WebSocket、Server-Sent Eventsを実現できるライブラリです。 たったこれだけで、ボタンをクリックしたらサーバーにPOSTリクエストを送り、レスポンスでボタン自体を置き換えられます。Jav...",
+      "published": "2026-05-28T15:23:38Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "80c49654327af82e133fb92abe1521e2",
+      "title": "16万スター超のCLAUDE.mdに学ぶ、Claude Codeを暴走させない運用術 - Qiita",
+      "link": "https://qiita.com/4q_sano/items/dc26f7468dcd39fbe62f",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "published": "2026-05-28T00:47:00Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61a9a90c2277e5a87c2c5b9bd42ec52a",
+      "title": "テレビを持たない世帯が約1割に増、スマホと保有率が逆転",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112942.html",
+      "summary": "",
+      "published": "2026-05-29T07:06:41Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3898a766ec527fc65e64e12036563a1",
+      "title": "MIXI創業者の笠原健治が、総額18億円規模の株式を正社員・役員など約1,700名へ無償譲渡 | ニュース| 株式会社MIXI",
+      "link": "https://mixi.co.jp/news/2026/0529/52399/",
+      "summary": "〜第三の創業期をともに創る仲間と、成長の果実を分かち合う〜 株式会社MIXI（東京都渋谷区、代表取締役社長 上級執行役員 CEO：木村 弘毅）は、当社創業者で取締役の笠原健治が、当社の正社員・エキスパート社員および当社完全子会社の正社員・役員約1,700名を対象に、自身が保有する当社普通株式の一部を...",
+      "published": "2026-05-29T09:36:16Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9e6504900c5851b86d09da13ea7b2a9",
+      "title": "AIが変えた\"品質の守り方\"",
+      "link": "https://speakerdeck.com/kkakizaki/aigabian-eta-pin-zhi-noshou-rifang",
+      "summary": "第26回QUES発表資料",
+      "published": "2026-05-29T01:53:07Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fe4281ccdc3e8368a362be7dd41db82",
+      "title": "AIにコードを書かせまくると検査コストが爆発すると専門家が指摘、生成量を減らす考え方が重要",
+      "link": "https://gigazine.net/news/20260529-ai-code-generation/",
+      "summary": "AIアプリ開発企業WaveMakerの共同創業者兼CTOであるディーパック・アヌパリ氏が、AI生成コードの問題についてIT専門メディアであるInfoWorldに寄稿し、「どう検査するか」だけでなく「そもそも生成するコード量をどう減らすか」を考えるべきだと述べています。 How to stop the...",
+      "published": "2026-05-29T05:15:21Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c79a2d88e3e327f8c633f329ce9d6cb7",
+      "title": "ディズニーランドなどで外国人に子どもが誘拐されそうになったという都市伝説が復活してるっぽい - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/05/29/120000",
+      "summary": "https://x.com/hosodatetsuya/status/2059107427019280733 以上のような話が「パパ友から聞い」た話という子どもの誘拐話が拡散していた。これはコミュニティノートにもある様にディズニーランドなどの目立つ場所で「子どもの誘拐」が行われているという都市伝説の...",
+      "published": "2026-05-29T04:10:36Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd4166b0999adaf975a8fadcd505b6be",
+      "title": "マルチクラウドのコスト集計を Claude Code に任せたら、週1時間が10分になった話 - Cloudbase Tech Blog",
+      "link": "https://techblog.cloudbase.co.jp/entry/2026/05/29/080000",
+      "summary": "はじめに こんにちは、CloudbaseでPlatform TeamのEngineering Managerをしているjunichiです。 Cloudbaseでは、毎週クラウドコストの集計をしています。以前は1時間程度かかっていたこの作業を Claude Code に任せるようにしたところ、集計が1...",
+      "published": "2026-05-29T05:41:20Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4a06e0f1c78aa93573ced1ad12ee2cb",
+      "title": "109シネマズが鑑賞料を改定。会員料金新設、非会員は一般2200円",
+      "link": "https://av.watch.impress.co.jp/docs/news/2112804.html",
+      "summary": "",
+      "published": "2026-05-29T03:50:30Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdca9a432f85d32604d91b94208650db",
+      "title": "Bye Bye LINEヤフー株式会社｜freddi",
+      "link": "https://note.com/freddi/n/n1a847abe0fa4",
+      "summary": "8年勤めたLINEヤフー株式会社(旧LINE Fukuoka株式会社→旧LINE株式会社→現職)の最終出社を終えました。6月1日から新しい会社にいます。とりあえずまとめとしてチラチラ思い出とか雑に書く ※ タイトルは好きな漫画の「bye bye マシュマロ通信」をもじったものです 退職理由 もともと...",
+      "published": "2026-05-29T09:10:40Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "116635dceddbf51ac60e584a44ea350a",
+      "title": "「ローカルAIがズルズルと動き続けて無駄にバッテリーやGPUリソースを消費してしまう問題」を解決する技術「AgentStop」がBraveによって開発される",
+      "link": "https://gigazine.net/news/20260529-agentstop-terminating-local-ai-brave/",
+      "summary": "AI関連の話題ではChatGPTやClaudeなどのクラウドベースのサービスが注目されがちですが、外部に情報を漏らすことなくAIを実行できるローカルAIの開発も盛んに行われています。プライバシー重視ブラウザ「Brave」の開発元もローカルAI関連の開発に取り組んでおり、ローカルAIエージェントの無駄...",
+      "published": "2026-05-29T04:45:29Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ce36c02caf52c7b1613ab27809b949e",
+      "title": "「Wildcat Lake」搭載ミニPC、Beelinkが発表。旧世代を圧倒する性能",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2112366.html",
+      "summary": "",
+      "published": "2026-05-28T15:36:10Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "986fd1f643291e7d7baa8f6f70ad538f",
+      "title": "LINEを退職しました | kazushikonosu.io",
+      "link": "https://kazushikonosu.io/ja/5-years-at-line",
+      "summary": "2026年3月の最終出社をもってLINEヤフー株式会社を退職しました。2021年4月に当時のLINE株式会社に新卒で入社して以来、フロントエンド領域のソフトウェアエンジニアとして5年間働いていました。 2021年入社ですが、その前年の8月からアルバイトとしてLINEバイトの開発に携わっていました。当...",
+      "published": "2026-05-29T01:40:20Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e050cd9f6d005e2431b88ed8b0ab528a",
+      "title": "思想と仕様を分けて要件定義する",
+      "link": "https://zenn.dev/rehabforjapan/articles/requirements-engineering",
+      "summary": "「操作」ではなく「状態」から考える 画面操作から要件を考え始めると、「ボタンを押したら保存する」のようなハッピーパスしか書けません。エラー時、0件、権限不足、途中離脱 --- こういった状態が抜け落ちます。 そこで仕様書では、「どういう状態になったら完了か」を先に定義し、その状態に至る操作を後から設...",
+      "published": "2026-05-29T03:11:36Z",
+      "fetched_at": "2026-05-29T11:21:18.821253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-29T07:48:12.827117+00:00"
+  "updated_at": "2026-05-29T11:21:18.821253+00:00"
 }

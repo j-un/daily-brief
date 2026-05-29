@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b899451a7a2d5b1bfa4c52c656af25d7",
-      "title": "コンテナのGoアプリ、過剰並列になっていませんか？──cgroup環境のGOMAXPROCSチューニングをMacで実測 - Timee Product Team Blog",
-      "link": "https://tech.timee.co.jp/entry/2026/05/20/092313",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コンテナのGoアプリ、過剰並列になっていませんか？──cgroup環境のGOMAXPROCSチューニングをMacで実測",
-      "published": "28 May 2026 01:55 +0000",
-      "fetched_at": "2026-05-28T02:28:40.960190+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7f9c14ee2dba3166076c116e8b46c23e",
-      "title": "Incident Report: May 19, 2026- GCP Account Suspension",
-      "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Incident Report: May 19, 2026 - GCP Account Suspension",
-      "published": "27 May 2026 23:55 +0000",
-      "fetched_at": "2026-05-28T02:28:40.960190+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "dad1b3453af8c3847511a668505e20a0",
       "title": "Various LLM Smells",
       "link": "https://shvbsle.in/various-llm-smells/",
@@ -389,7 +369,307 @@
       "fetched_at": "2026-05-29T02:32:58.318993+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "a6001065a401771632494f35efd3cd68",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://www.anthropic.com/research/glasswing-initial-update",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Project Glasswing: An initial update",
+      "published": "29 May 2026 06:55 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f4b4355f9078edf6438efbfec6511c4",
+      "title": "OpenTelemetry is a CNCF Graduated Project | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/otel-graduates/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry is a CNCF Graduated Project",
+      "published": "29 May 2026 05:55 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b8b7127471e51aa223f1b56a5d59c98",
+      "title": "Security-JAWS【第41回】〜Day1〜でAWS WAFの運用について発表しました！ - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/05/22/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Security-JAWS【第41回】〜Day1〜でAWS WAFの運用について発表しました！",
+      "published": "29 May 2026 03:55 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e508a2eb03c12d9be4c0d323fead2d5",
+      "title": "Amazon ECS introduces pause and continue controls for service deployments - AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon ECS introduces pause and continue controls for service deployments",
+      "published": "29 May 2026 02:55 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "adc167680adf4cecbab33bf33f1e47cf",
+      "title": "10サービス以上のメール到達率改善を地道に継続的に進めている話 / Continue to improve email delivery rates across multiple services - Speaker Deck",
+      "link": "https://speakerdeck.com/yamaguchitk333/continue-to-improve-email-delivery-rates-across-multiple-services",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 10サービス以上のメール到達率改善を地道に継続的に進めている話 / Continue to improve email delivery rates across multiple services",
+      "published": "27 May 2026 08:56 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "031d063721deef0e090d4863fddd42a5",
+      "title": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+      "link": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "summary": "Article URL: https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/ Comments URL: https://news.y...",
+      "published": "Fri, 29 May 2026 03:32:15 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31d935270ed941c0995df28c1ce33324",
+      "title": "Cars collect a startling amount of data about you",
+      "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse Comments URL: https://news.ycombinator.com/i...",
+      "published": "Fri, 29 May 2026 03:01:00 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f869599baad8724c924a94a1e012716",
+      "title": "Blue Origin's New Glenn blows up during static fire test",
+      "link": "https://twitter.com/nasaspaceflight/status/2060164928472854821",
+      "summary": "Article URL: https://twitter.com/nasaspaceflight/status/2060164928472854821 Comments URL: https://news.ycombinator.com/item?id=48317774 Points: 243 # ...",
+      "published": "Fri, 29 May 2026 01:16:38 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8783005fbbc47cfd17d7ee7e505af6cc",
+      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+      "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+      "summary": "Article URL: https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/ Comments URL: https://news.ycombina...",
+      "published": "Thu, 28 May 2026 23:42:47 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "336fd934471f2699a1167ec4201a2fb5",
+      "title": "クアルコム、低価格WindowsノートPC向け新チップ「Snapdragon C」発表。NPUも搭載",
+      "link": "https://www.techno-edge.net/article/2026/05/29/5121.html",
+      "summary": "クアルコムは、エントリークラスのノートPC向け新プロセッサ「Snapdragon C」を発表しました。300ドル以上の価格帯のエントリー向けノートPCへの搭載を想定しています。",
+      "published": "Fri, 29 May 2026 16:30:02 +0900",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "14c43587ca2f16ea1444c1ee0723c984",
+      "title": "AWS上でSustainability Insights Framework (SIF) を使う方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/howtouse-sif/",
+      "summary": "AWS Sustainability Insights Framework（SIF）は、組織がAWS上で炭素排出量を自動的に追跡し、気候関連レポートを作成するためのスケーラブルなソフトウェアプラットフォームです。従来の手動プロセスに代わり、モジュラーアーキテクチャを通じてデータ収集・計算・報告を自動...",
+      "published": "Fri, 29 May 2026 06:07:50 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5952609f94b28d0aa9f58f100387822b",
+      "title": "Amazon RDS ブルー/グリーン デプロイを使用した Amazon Aurora PostgreSQL アップグレードのロールバック戦略の実装",
+      "link": "https://aws.amazon.com/jp/blogs/news/implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/",
+      "summary": "本記事は、2025 年 6 月 20 日に公開された Implement a rollback strateg […]",
+      "published": "Fri, 29 May 2026 03:09:46 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e68111ef981d5e654a5c00e6c6444df4",
+      "title": "ランサムウェア対策ワークショップ開催報告 & Claude Mythos をテーマにしたワークショップ緊急開催のご案内",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-ransomware-workshop-report-claude-mythos-workshop-upcoming/",
+      "summary": "みなさん、こんにちは。ソリューションアーキテクトの田村です。 サイバー攻撃の脅威は質的に変化しています。AI […]",
+      "published": "Fri, 29 May 2026 02:42:56 +0000",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c6c25e299fc8fedad73f7c11245a8a7",
+      "title": "電源タップは3～5年で交換を、パナソニック公式アカウントで呼びかけ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2112794.html",
+      "summary": "",
+      "published": "2026-05-29T03:11:54Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1b29f986c600fcbd45a4f1eca1cd80a",
+      "title": "それで、メモリ不足はいつまで続くの？ なかなか終わらない狂騒のウラ側",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/29/news041.html",
+      "summary": "2025年12月に「“DRAMパニック”はなぜ起きたか、価格はいつ落ち着くのか？ 狂騒の裏で起きていること」という記事をITmedia NEWSで執筆した。記事の最後で、DDR5やNAND Flash高騰について「恐らくは26年の決算くらいのタイミングで、損切りの形でそうした在庫を市場に放出を始める...",
+      "published": "2026-05-29T01:36:29Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7b20eabcaa2b31fac88a7bd99390687",
+      "title": "Microsoft、立て続けのゼロデイ脆弱性公表を非難。発見者は7月に報復と予告",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2112811.html",
+      "summary": "",
+      "published": "2026-05-29T03:41:21Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee42369c307cb976be038dcaf90e7e50",
+      "title": "t-wada（和田卓人）が語るAI時代のソフトウェアエンジニアの生存戦略 TDDの意味、キャリアの柱を築く思考と技術的審美眼の磨き方 - アンドエンジニア - エンジニアのこと、エンジニアから。",
+      "link": "https://tenshoku.mynavi.jp/engineer/guide/articles/t0039",
+      "summary": "この記事でわかること キャリアの柱を複数持つべき理由 技術選定を左右する審美眼の養い方 AI時代以降も活躍するソフトウェアエンジニアであるための考え方 ソフトウェアエンジニアとして働き続けるなかで、どんな技術を学び、なにを拠りどころにしてキャリアを築いていけばいいのか。そう考えることは少なくありませ...",
+      "published": "2026-05-29T01:05:54Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65620177ac32da5dff9ce7c03be81f0c",
+      "title": "Appleは新しいSiriを動かすためにGeminiを小型化してiPhoneに詰め込む作業を進めている",
+      "link": "https://gigazine.net/news/20260529-apple-massive-gemini-model-into-iphone-siri/",
+      "summary": "Appleは間もなく「完全に再構築されたSiri」を発表すると目されています。この新しいSiriのために、AppleはGoogleの生成AIであるGeminiを使う複数年契約を締結しているのですが、AppleはこのGeminiをiPhone上で動かすために小型化しようとしているとThe Inform...",
+      "published": "2026-05-29T02:16:39Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a462bf38b5306a7787896a8d85897cb",
+      "title": "天才とは呼ばれなかったすべての人たちのためのObsidian管理術。あなたの「第二の脳」、ただの「劣化版Google」になっていませんか？ 人間が手放してはいけない３つのこと｜前田晃平",
+      "link": "https://comemo.nikkei.com/n/n7b9422dd1d58",
+      "summary": "天才とは呼ばれなかったすべての人たちのためのObsidian管理術。あなたの「第二の脳」、ただの「劣化版Google」になっていませんか？ 人間が手放してはいけない３つのこと こんにちは。凡人です。 凡人だけど、アウトプットしたいことがありすぎて、でも自分の力だけではどうにもならないので、aiを活用...",
+      "published": "2026-05-28T20:15:41Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0179347b4a255314565c02abaa8e6177",
+      "title": "Anthropic、Claude Opus 4.8を一般提供 誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
+      "summary": "米Anthropicは5月28日（現地時間）、AIモデルの最新版「Claude Opus 4.8」の一般提供を開始した。前世代の「Opus 4.7」から推論、コーディング、エージェント能力などほぼすべての評価指標でパフォーマンスを向上させた。特に、判断の精度が向上し、自らの作業の進捗や不確実性に対し...",
+      "published": "2026-05-29T01:56:50Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a79766f71a3e819e586adb313c0486bd",
+      "title": "【レビュー】AIグラスの本命「Ray-Ban Meta」 カメラとAIで日常を変える",
+      "link": "https://www.watch.impress.co.jp/docs/review/review/2112837.html",
+      "summary": "",
+      "published": "2026-05-29T05:21:38Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b4d858f3ef0ec4b2108436903ffb476",
+      "title": "アンソロピックの企業価値154兆円に、OpenAIを初めて上回る（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/eb5755634f4c0071f5b2061529a4125e7d32b0a9",
+      "summary": "（ブルームバーグ）:人工知能（AI）開発のスタートアップ、アンソロピックは28日、650億ドルを調達したと発表した。企業価値は最新の資金調達を含めて9650億ドル（約154兆円）と評価され、「ChatGPT」の開発元であるOpenAIを初めて上回った。 【写真を見る】アンソロピックの企業価値154兆...",
+      "published": "2026-05-29T01:12:22Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10c8675c25db771a32dc5e0c2a0da651",
+      "title": "AIエージェント開発特集 9社のアーキテクチャ・技術選定と本番運用のリアル - Findy Tools",
+      "link": "https://findy-tools.io/articles/ai-agent/258",
+      "summary": "公開日 2026/05/29更新日 2026/05/28AIエージェント開発特集 9社のアーキテクチャ・技術選定と本番運用のリアル AIエージェントの開発は、近年急速に注目を集めています。LLMの進化により、PoCレベルでは比較的短期間で「動くもの」を作れるようになりました。しかし、本番環境での運用...",
+      "published": "2026-05-29T01:31:57Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "841b3646ab31e50165f1e3a6293f9186",
+      "title": "LINEヤフー株式会社に在籍して4年が経った - 5.1さらうどん",
+      "link": "https://giginet.hateblo.jp/entry/2026/05/26/221005",
+      "summary": "旧LINEから数えてそろそろ働き始めて4年。少し早いが、私生活の変化で仕事に一区切りが付くので、敢えて在職エントリを書いてみることにした。退職エントリではありません。 LINE iOSアプリのビルドシステム刷新と開発者体験の改善をした 2022年7月、前職からモバイルの開発基盤を生業としていて、その...",
+      "published": "2026-05-29T04:01:40Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8228de277685a363ccf70f55c3d6e998",
+      "title": "1 行渡すと Claude Code が 1 時間自走する ─ E2E テスト駆動で新機能を作らせた話",
+      "link": "https://zenn.dev/canly/articles/c7da70a520d1b8",
+      "summary": "はじめに 私たちのチームは Slack 上で動く社内向け AI エージェントを開発・運用しています。新機能追加のたびに「Claude Code が実装したと言うが実際に Slack で動かない」という事象にあたっていたので、Claude Code に E2E テストケース 1 行を渡せば計画から実装...",
+      "published": "2026-05-29T06:05:43Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "32883d7947acfc03003df9ec6a58420a",
+      "title": "ブルーオリジンの大型ロケットが爆発 ベゾス氏「原因特定に向けて取り組んでいる」",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/29/news100.html",
+      "summary": "ベゾス氏は、全ての関係者が無事だと伝えたうえで、爆発の原因について「根本原因を判断するにはまだ早すぎるが、すでに原因の特定に取り組んでいる」と述べた。また「非常に厳しい一日だったが、必要に応じて再建し、飛行に戻る」としている。 関連記事 ブルーオリジン、大型ロケット打ち上げ成功、ブースターも回収 ....",
+      "published": "2026-05-29T05:27:16Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e37a3df16d29fd3dce71517d7c004be8",
+      "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015134691000",
+      "summary": "アメリカのAI新興企業アンソロピックは28日、サイバー攻撃に悪用されるおそれがあるとして一般への公開を見送っていた高性能なAIモデル「クロード・ミュトス」と同じ水準のモデルを数週間以内にすべての顧客に…",
+      "published": "2026-05-29T01:46:16Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5fcf532481e83797eaa508852200235",
+      "title": "ECS Exec のセッションログを専用 S3 バケットへ分離する - MNTSQ Techブログ",
+      "link": "https://tech.mntsq.co.jp/entry/2026/05/29/094912",
+      "summary": "はじめに 既存構成 課題感 設計 CloudWatch Logs ではなく S3 に倒す クラスタ単位で S3 prefix を切る 実装 ECS タスクロールに付与する IAM ポリシー ECS クラスタの executeCommandConfiguration おわりに はじめに Amazon ...",
+      "published": "2026-05-29T00:53:59Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "191935eb7c9c13396ecc5de95888ec9d",
+      "title": "類似画像検索モデルの開発ノウハウ",
+      "link": "https://speakerdeck.com/lycorptech_jp/20260526a",
+      "summary": "『【LINEヤフー データサイエンス Meetup】Kaggle Grandmasterが教える開発と解法＆コンペ主催企業が語る舞台裏 他』の登壇資料です。",
+      "published": "2026-05-29T01:44:06Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "146de871c5a11c33bce350e334f161fb",
+      "title": "id:baikoku_senseiですがはてブを追放されたのではてな避南朝を開きます～いまさらメールを送ってももう遅い～",
+      "link": "https://anond.hatelabo.jp/20260528171808",
+      "summary": "妻子を残して追放とかこれもう半分シーボルトだろ… ちなみにシーボルトの娘は宮内庁御用達の産科医だからAI子とも半分縁があり レイプされて娘を出産してるので半分はてのんでもある 心当たりとしては、暇空や運営や阿部への愚弄もあるけど、萩生田に「裏金議員は死ねよ」とコメしたのがアウトだったかな 高市への死...",
+      "published": "2026-05-28T12:06:31Z",
+      "fetched_at": "2026-05-29T07:48:12.827117+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-29T02:32:58.318993+00:00"
+  "updated_at": "2026-05-29T07:48:12.827117+00:00"
 }

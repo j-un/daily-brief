@@ -669,7 +669,347 @@
       "fetched_at": "2026-05-31T13:20:12.645413+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "28aaed66f6c44d4a6f8f53551473779f",
+      "title": "k8sベースのパブリッククラウド/プライベートクラウドをセルフホストで構築できる…",
+      "link": "https://github.com/cozystack/cozystack",
+      "summary": "k8sベースのパブリッククラウド/プライベートクラウドをセルフホストで構築できるフレームワーク。",
+      "published": "31 May 2026 14:56 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79e52e6150e9410618db4ab42332e131",
+      "title": "Claude Code, Codex, Gemini CLI, OpenCode…",
+      "link": "https://github.com/SaladDay/cc-switch-cli",
+      "summary": "Claude Code, Codex, Gemini CLI, OpenCode, OpenClawで設定する項目の差を吸収して簡単に切り替えができるようにするcc-switchをCLIで実装したfork。brew install cc-switch-cli",
+      "published": "31 May 2026 14:52 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "470f8fb77e89b3a9a85ae9696529fa6f",
+      "title": "Claude Code, Codex, Gemini CLI, OpenCode…",
+      "link": "https://github.com/farion1231/cc-switch",
+      "summary": "Claude Code, Codex, Gemini CLI, OpenCode, OpenClawで設定する項目の差を吸収して簡単に切り替えができるようにするGUIツール。Bedrockなど各種プロバイダーの切り替えも対応。Tauri2実装でWindows/macOS/Linuxで動作可。",
+      "published": "31 May 2026 14:50 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ddb62ac80008cee24641ebc0c8584c1",
+      "title": "各種パッケージシステムの依存関係などのmetadataを収集するツール。SBOM…",
+      "link": "https://github.com/perplexityai/bumblebee",
+      "summary": "各種パッケージシステムの依存関係などのmetadataを収集するツール。SBOMで管理できない範囲を扱うためかな。npm系、pypi、go、rubygems、composerなどの言語系のほか、mcp、vscode拡張、ブラウザ拡張、homebrewにも対応。",
+      "published": "31 May 2026 14:46 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82ed7e91b471496b9d3e2a791010c75c",
+      "title": "スキーマからリアルなテストデータを生成する zero-config な DB seeder を作った",
+      "link": "https://zenn.dev/mickamy/articles/54996ba8f8b7cc",
+      "summary": "「DSN を渡すだけで、スキーマから推論してリアルなダミーデータを流し込みます」わいわい",
+      "published": "31 May 2026 14:39 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4160ede69896a2cc856c56f6f2d2d8e0",
+      "title": "株主優待やクーポンの期限を管理するアプリ「優待管理くん」をリリース - F.Ko-Jiの「一秒後は未来」",
+      "link": "https://blog.fkoji.com/2026/05292219.html",
+      "summary": "iOS/Androidの両方に対応",
+      "published": "31 May 2026 14:36 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f3bcedc5a8ce4a185dcd25ff2671872",
+      "title": "Amazon RDS ブルー/グリーン デプロイを使用した Amazon Aurora PostgreSQL アップグレードのロールバック戦略の実装 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/https-aws-amazon-com-blogs-database-implement-a-rollback-strategy-for-amazon-aurora-postgresql-upgrades-using-amazon-rds-blue-green-deployments/",
+      "summary": "公式ブログより。メモ",
+      "published": "31 May 2026 14:35 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e68111ef981d5e654a5c00e6c6444df4",
+      "title": "ランサムウェア対策ワークショップ開催報告 & Claude Mythos をテーマにしたワークショップ緊急開催のご案内 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-ransomware-workshop-report-claude-mythos-workshop-upcoming/",
+      "summary": "Claude Mythosをテーマにしたワークショップは6月12日に開催予定。",
+      "published": "31 May 2026 14:32 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1da9d22720f34eb5c400d144d9ec27e",
+      "title": "次世代の Amazon OpenSearch Serverless: エージェント向けにゼロから構築 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/the-next-generation-of-amazon-opensearch-serverless-built-from-the-ground-up-for-agents/",
+      "summary": "「オートスケーリングが従来比で最大 20 倍に高速化し、コンピューティングをゼロまでスケールできるように」わいわい",
+      "published": "31 May 2026 14:31 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1615aa098ffd3faac69a4bd8a23e8cf",
+      "title": "Kiro アンバサダープログラムのご紹介 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-ambassadors/",
+      "summary": "「アンバサダーになると、Kiro の無償サブスクリプション、未公開機能やプライベートベータへの早期アクセス、Kiro のプロダクト・エンジニアリングチームとの直接のコミュニケーション」など。無料サブスク良さそう",
+      "published": "31 May 2026 14:29 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12ab3c42bd51b634ad017b828bf9a3b3",
+      "title": "New DuckDB-Iceberg Features in v1.5.3 – DuckDB",
+      "link": "https://duckdb.org/2026/05/29/new-iceberg-features",
+      "summary": "DuckDB 1.5.3でIceberg v3をサポート。わいわい",
+      "published": "31 May 2026 14:28 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67311f02bb669d24975d8007000ded8e",
+      "title": "ロジ、ぷにっとしたクッション付き静音マウス「M850」予約開始 快適性重視の新シリーズ Signature Comfort Plus | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/05/28/5117.html",
+      "summary": "ぷにっとしたクッションが想像できてないのだが、発売されれば店頭で触れると思うので触ってみたい。2026年6月25日発売。パームクッションありが8,250円、なしが6,710円。",
+      "published": "31 May 2026 14:18 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5eceebbfa6fc68bd5988d8f356c8a5b",
+      "title": "BlinkenDisk - Windows Task Manager の作者が作った macOS 用 I/Oモニター | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/blinken-disk-macos/",
+      "summary": "「macOSのメニューバーに小さなLEDを表示し、選択したローカルドライブのI/Oアクティビティをリアルタイムで点灯・点滅」いいね。こういうの好き",
+      "published": "31 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8635ec1a6c86cfc8132ead0c69674f82",
+      "title": "CI/CD 環境で Terraform コマンドの出力をシンプルにする環境変数「TF_IN_AUTOMATION」 - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/05/28/232151",
+      "summary": "TF_IN_AUTOMATION環境変数、知らなかった。CI/CDでterraformを実行している皆様。",
+      "published": "31 May 2026 14:15 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5129cd5ed5a837fb3ad2f8c61b6540f",
+      "title": "AtomGit | GitCode - 全球开发者的开源社区,开源代码托管平台",
+      "link": "https://atomgit.com/atomgit_atomcode/atomcode",
+      "summary": "オープンソースのAIコーディングエージェント。brew install --cask atomcode",
+      "published": "31 May 2026 14:12 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff1078dfed8ffddfba00b550b7b3a2a3",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://x.ai/cli",
+      "summary": "Grokのコーディングエージェントですがhomebrewでインストールできるようになってた。brew install --cask grok-buildです。",
+      "published": "31 May 2026 14:09 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebe69a8411ca36d39cade72008181ec8",
+      "title": "セルフホスト可能なLLMベースのバーチャルキャラクター。LLMはクラウドサービス…",
+      "link": "https://github.com/moeru-ai/airi",
+      "summary": "セルフホスト可能なLLMベースのバーチャルキャラクター。LLMはクラウドサービスもローカルLLMも各種サポート。",
+      "published": "31 May 2026 14:04 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4baa28976cbd278d2d4ca28a3cfd0ba",
+      "title": "AWS Advanced JDBC Wrapper による JDBC クエリキャッシュの自動化 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/automated-jdbc-query-caching-with-the-aws-advanced-jdbc-wrapper/",
+      "summary": "「JDBC クエリをインターセプトして結果を Amazon ElastiCache for Valkey にキャッシュし、以降の同一クエリをキャッシュから提供」ほう。発想がおもろいな。",
+      "published": "31 May 2026 14:00 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d23447046f44bfa49df52cca60112421",
+      "title": "【AWS】非機能要件「ログの保持とアーカイブ」でCloudWatch LogsのS3エクスポートを担当したら、最も簡単だと思っていた方法が意外と面倒だった話 #Security - Qiita",
+      "link": "https://qiita.com/miruky/items/a161a98bd6e68b9c3224",
+      "summary": "そう、あれ結構面倒。もっと楽にならんのかね。",
+      "published": "31 May 2026 13:57 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44c182b7f0c90b490ac0ed782dffd9db",
+      "title": "好きな文字化け発表ドラゴン #文字コード - Qiita",
+      "link": "https://qiita.com/IkadzuchiPleist/items/5069659ac7e7b2ea79c4",
+      "summary": "わいわい。いくらでも語り尽くせそう。©がｩになるのをよく経験してた。あるよねー。",
+      "published": "31 May 2026 13:54 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f35cbb2c638e93cf5dd85ad99135199b",
+      "title": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/05/claude-code-security-guidance-plugin",
+      "summary": "「Claude Codeがコードを書いている最中に、一般的な脆弱性や危険な実装パターンを検出し、同じセッション内で修正を促すためのプラグイン」ほう。とりあえず入れておくのが安定なんでしょうか",
+      "published": "31 May 2026 13:51 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "818e3dc4d420df4366d3782f30e1b834",
+      "title": "CLIツール開発言語として OCaml を使ってみている - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/05/27/155216",
+      "summary": "わいわい。実は昔からOCamlで実装されたCLIツールはそれなりにある。自分が過去に紹介したツールでもたまにOCaml実装がいくつか。最近だとopengrepもOCaml実装だったりする。",
+      "published": "31 May 2026 13:47 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3537748bdcf2efb93775706795170f6c",
+      "title": "Javaなしで安全に使えるPlantUMLビューア「pumlv」",
+      "link": "https://zenn.dev/rinrin_yuuki/articles/9b69cca81875f6",
+      "summary": "miseでインストール可能。わいわい",
+      "published": "31 May 2026 13:44 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e8e09a74e9a234690f24e0fe86ec306",
+      "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
+      "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
+      "summary": "「SKILL.md 本文の推奨上限は 500 行 / 5000 tokens」なるほど？",
+      "published": "31 May 2026 13:43 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1166b9fc0155eaa63d0d7636f92d8313",
+      "title": "DevContainerより軽量？Devboxで開発環境を瞬時に作る",
+      "link": "https://zenn.dev/arkbig/articles/devbox_0b6b39cd097e3288fe58baa5a49c7d39a28c5b46849",
+      "summary": "「Nixをベースにした開発環境構築ツールで、Dockerよりも軽量で高速な環境構築が可能」ほう",
+      "published": "31 May 2026 13:30 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "917ada3ec459cfac606dae2908281aea",
+      "title": "GitHub サプライチェーン攻撃が怖すぎるので Socket.dev を試してみた",
+      "link": "https://zenn.dev/tomodo_ysys/articles/socket-github-supply-chain-attack",
+      "summary": "「依存パッケージの振る舞いやリスクシグナルを見て、OSS サプライチェーン攻撃を検知・ブロックするためのサービス」「Freeプランでも個人開発ならそこそこ使えそう」ほう",
+      "published": "31 May 2026 13:25 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb18a84f3ef12986a85e75cbfd886eff",
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "link": "https://github.com/wolfSSL/wolfCOSE",
+      "summary": "Article URL: https://github.com/wolfSSL/wolfCOSE Comments URL: https://news.ycombinator.com/item?id=48340422 Points: 102 # Comments: 26",
+      "published": "Sat, 30 May 2026 20:42:28 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d76c47029480b1ebdefeb319362b9e8c",
+      "title": "拙者、『型は欲しいが型は書きたくない』者たちとの和睦を結び、るびぃにおける型の領地安堵を実現せんと欲す者也 #sekigahara01/sekigahara01",
+      "link": "https://speakerdeck.com/sanfrecce_osaka/sekigahara01",
+      "summary": "拙者、『型は欲しいが型は書きたくない』者たちとの和睦を結び、るびぃにおける型の領地安堵を実現せんと欲す者也 #sekigahara01/sekigahara01",
+      "published": "2026-05-31T11:27:13Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "608244d59b44dc86b72f674f36a725ac",
+      "title": "スマホの微妙な動きをAIで分析すれば喫煙衝動を5分前に予測できるという研究結果",
+      "link": "https://gigazine.net/news/20260531-predict-smoking-with-smartphone/",
+      "summary": "スマートフォンに内蔵されたセンサーから日常生活中に集めた微細な動きのデータで、喫煙への欲求や禁煙後の再喫煙の兆候を予測できることが示されました。この研究結果は禁煙支援アプリの個別化と即時介入につながる可能性があります。 Smartphone movement data can reliably pr...",
+      "published": "2026-05-31T10:39:02Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f16fd9dd8ebac66087dbaa17ed336e4f",
+      "title": "「究極のLinux」ハードウェアの可能性--「Flipper One」の詳細明らかに",
+      "link": "https://japan.zdnet.com/article/35248045/",
+      "summary": "数カ月にわたる憶測を経て、「Flipper Zero」を大成功に導いたFlipper Devicesが、ついに次期プロジェクト「Flipper One」を明らかにした。Flipper Zeroを画期的なデバイスだと感じていたユーザーにとって、この新型モデルはさらなる衝撃を与えることになるだろう。 F...",
+      "published": "2026-05-31T02:23:43Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2e2d2c82675d427a3bd6016ad0fb2a7",
+      "title": "AI時代に『Good Code, Bad Code』を読み返してみる - ともにかける",
+      "link": "https://paper2.hatenablog.com/entry/2026/05/31/161952",
+      "summary": "『Good Code, Bad Code』はコード品質や設計の基礎を学べる書籍です。AIによってコード生成が容易になった現在でも、設計・モジュール分割・エラーハンドリングといった考え方は依然として重要です。本記事では特にAI時代でも価値が残る内容を紹介します。 Good Code, Bad Code...",
+      "published": "2026-05-31T09:27:26Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec02c738cf2b03183f4e2709a511471a",
+      "title": "Wi-Fiが遅くなる問題、Windowsの「ある標準機能」をオフにしたら一発解決した（ライフハッカー・ジャパン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/d56df223c66951380eed2c1fadf5fb75b82d8287?page=2",
+      "summary": "通信を安定させた「たった1つ」の設定変更この問題を解決するための設定変更は、数秒で完了します。手順は以下の通りです。 設定の変更手順 Windowsの「設定」アプリを開く。 「Windows Update」 $\\rightarrow$ 「詳細オプション」 $\\rightarrow$ 「配信の最適化」...",
+      "published": "2026-05-31T13:20:10Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "945950b488d46ddc4db072cf50f0a31e",
+      "title": "ツリー型をやめたAWS、ルーター69%減でスループット33%向上：疑似ランダム配線の理屈 | XenoSpectrum",
+      "link": "https://xenospectrum.com/aws-rng-flat-network-topology/",
+      "summary": "TL;DR AWSは数十年標準だった階層型ネットワーク（fat-tree）を、グラフ理論由来の疑似ランダム構造「Resilient Network Graphs（RNG）」に置き換えた従来のfat-tree比でルーターを最大69%削減し、スループットを最大33%向上させた（いずれもAWS公式発表）R...",
+      "published": "2026-05-30T07:54:57Z",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed87a229f4988dbd15aef99cd6890ef3",
+      "title": "📦 nicobailon / pi-subagents ⭐ 1,724 (+59…",
+      "link": "https://github.com/nicobailon/pi-subagents",
+      "summary": "📦 nicobailon / pi-subagents ⭐ 1,724 (+59) 🗒 TypeScript Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+      "published": "31 May 2026 14:16 +0000",
+      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-05-31T13:20:12.645413+00:00"
+  "updated_at": "2026-05-31T15:13:48.909676+00:00"
 }

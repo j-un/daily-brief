@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e68111ef981d5e654a5c00e6c6444df4",
-      "title": "ランサムウェア対策ワークショップ開催報告 & Claude Mythos をテーマにしたワークショップ緊急開催のご案内 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/aws-ransomware-workshop-report-claude-mythos-workshop-upcoming/",
-      "summary": "Claude Mythosをテーマにしたワークショップは6月12日に開催予定。",
-      "published": "31 May 2026 14:32 +0000",
-      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b1da9d22720f34eb5c400d144d9ec27e",
-      "title": "次世代の Amazon OpenSearch Serverless: エージェント向けにゼロから構築 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/the-next-generation-of-amazon-opensearch-serverless-built-from-the-ground-up-for-agents/",
-      "summary": "「オートスケーリングが従来比で最大 20 倍に高速化し、コンピューティングをゼロまでスケールできるように」わいわい",
-      "published": "31 May 2026 14:31 +0000",
-      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4e8e09a74e9a234690f24e0fe86ec306",
-      "title": "Codex が SKILL.md を 220 行で打ち切っていた話",
-      "link": "https://zenn.dev/haru0416/articles/codex-skill-md-220-lines",
-      "summary": "「SKILL.md 本文の推奨上限は 500 行 / 5000 tokens」なるほど？",
-      "published": "31 May 2026 13:43 +0000",
-      "fetched_at": "2026-05-31T15:13:48.909676+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8fd8fa2fc873b63dfac5f62430b947fc",
       "title": "GitHub Copilot CLIの/chronicleで課金体系の変更に備えよう",
       "link": "https://zenn.dev/aeonpeople/articles/morihaya-20260527-copilot-cli-chronicle",
@@ -1089,7 +1059,437 @@
       "fetched_at": "2026-06-01T15:50:30.262103+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "052665b01080c889bde8a5c2f7358317",
+      "title": "日時に関する様々なパース処理/フォーマット処理/繰り返し処理などに対応したCLI…",
+      "link": "https://github.com/BurntSushi/bttf",
+      "summary": "日時に関する様々なパース処理/フォーマット処理/繰り返し処理などに対応したCLIツール。これは地味に便利かもしれん。Rust実装。BurntSushi先生だった。",
+      "published": "01 Jun 2026 16:17 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cc8256ed79294075a08b71ca748b06a",
+      "title": "Flociが公開から2ヵ月で52サービスへ、アップデートをまとめてみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/floci-two-months-52-services-update/",
+      "summary": "今一番勢いがあるlocalstack代替かもしれない。",
+      "published": "01 Jun 2026 16:12 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2f69fe2f18493d74cc4fff851268b10",
+      "title": "pnpm v10→v11アップグレードで踏んだ3つの落とし穴 ─ Docker・CI環境での対処法まとめ | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/pnpm-v10-to-v11-migration-docker-ci/",
+      "summary": "v11がリリースされたのは2026/04/28。いつかアップデートするなら早めに対処した方が良さそう。",
+      "published": "01 Jun 2026 16:10 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf119ed99605c3bdec418a7e63002f52",
+      "title": "【PostgreSQL】INCLUDE句でインデックスオンリースキャンを試してみる | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/postgresql-include-index-only-scan/",
+      "summary": "PostgreSQLのCREATE INDEX時のINCLUDE句、知らなかった。ほへー。",
+      "published": "01 Jun 2026 16:08 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "274c07cc42de291409a82b8804ea6a6f",
+      "title": "大吉祥寺.pm 2026 - connpass",
+      "link": "https://kichijojipm.connpass.com/event/387499/",
+      "summary": "現地開催",
+      "published": "01 Jun 2026 16:04 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33aa02ad2ea74009158fc5db3ab090fc",
+      "title": "Weekly Claude Code Live #5 - connpass",
+      "link": "https://generative-agents.connpass.com/event/395532/",
+      "summary": "オンライン開催",
+      "published": "01 Jun 2026 16:03 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31f94daddfb66abb9c862cd613edd03f",
+      "title": "エンジニアリング戦略の作り方―エンジニアリングの難局を打破する意思決定 - FL#127 - connpass",
+      "link": "https://forkwell.connpass.com/event/395423/",
+      "summary": "オンライン開催",
+      "published": "01 Jun 2026 16:02 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "148c4a9c92d07d87d25bd9afb38a942d",
+      "title": "Security.any #11 灼熱の攻防セキュリティLT - connpass",
+      "link": "https://security-any.connpass.com/event/394623/",
+      "summary": "現地開催（山手線圏内）",
+      "published": "01 Jun 2026 16:01 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1de7386a4e17f091461121dcbc1fbbef",
+      "title": "エンジニアのための自己管理入門 - Forkwell Library #126 - connpass",
+      "link": "https://forkwell.connpass.com/event/395386/",
+      "summary": "オンライン開催",
+      "published": "01 Jun 2026 15:59 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "63fcd6967c63aee642303e034f164094",
+      "title": "GitLab User Community Tokyo Vol.1 - connpass",
+      "link": "https://gitlab.connpass.com/event/395069/",
+      "summary": "現地開催",
+      "published": "01 Jun 2026 15:58 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de84154a2473c48e3f674c1ab3ace867",
+      "title": "牛尾さん、酒井さんに聞く！アメリカ開発現場の最前線 - connpass",
+      "link": "https://levtechlab.connpass.com/event/394384/",
+      "summary": "オンライン開催",
+      "published": "01 Jun 2026 15:56 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5953ab74bcaf07c0a8e6a2a2ecf97255",
+      "title": "Claude Code Night - connpass",
+      "link": "https://studyplus.connpass.com/event/392344/",
+      "summary": "現地/オンライン",
+      "published": "01 Jun 2026 15:55 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57b700959d9a3e7d12a9e3f3a9aa9b7a",
+      "title": "Claude Code Meetup Japan #6 (Claude Code祭り!) - connpass",
+      "link": "https://aid.connpass.com/event/394427/",
+      "summary": "現地/オンライン",
+      "published": "01 Jun 2026 15:53 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9db057e09c92307495484dfb80a5e62e",
+      "title": "Agentic Tokyo #1 - connpass",
+      "link": "https://aibuilders.connpass.com/event/394175/",
+      "summary": "現地開催",
+      "published": "01 Jun 2026 15:52 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3e2568eaa4f63daa0dd59011eeb7edd",
+      "title": "ゆるAI勉強会 #1 - connpass",
+      "link": "https://yuru-ai.connpass.com/event/392834/",
+      "summary": "現地開催",
+      "published": "01 Jun 2026 15:51 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34592f50e59d074169a33f907eb2d670",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "summary": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md Comments URL: https://news.ycombinator.com/item?id=48359232 Poin...",
+      "published": "Mon, 01 Jun 2026 16:41:49 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03e6e22cffa56b04818421277634e093",
+      "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+      "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/ Comments URL: https://n...",
+      "published": "Mon, 01 Jun 2026 16:33:59 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26b866f0ab0b359de1a6e4b52a4c854b",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "summary": "Article URL: https://www.0xsid.com/blog/meta-account-takeover-fiasco Comments URL: https://news.ycombinator.com/item?id=48359102 Points: 750 # Comment...",
+      "published": "Mon, 01 Jun 2026 16:31:42 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a733f9823558013442471d686a2514f",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "summary": "https://www.reuters.com/business/ai-giant-anthropic-confiden...https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.... Comments URL: https://n...",
+      "published": "Mon, 01 Jun 2026 16:00:40 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbc6d1c5b69b23dfe76905a498320fef",
+      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "link": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "summary": "Article URL: https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/ Comments URL: https://news.ycombinator.com/item?id=48357905 Points:...",
+      "published": "Mon, 01 Jun 2026 15:11:35 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9f51c2d4ca4356660bb7afa077f1329",
+      "title": "Ask HN: Who is hiring? (June 2026)",
+      "link": "https://news.ycombinator.com/item?id=48357725",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not ...",
+      "published": "Mon, 01 Jun 2026 15:00:48 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fe7664fa58e7560f3a534323439221a",
+      "title": "KDE at 30",
+      "link": "https://kde.org/anniversaries/30/",
+      "summary": "Article URL: https://kde.org/anniversaries/30/ Comments URL: https://news.ycombinator.com/item?id=48357355 Points: 207 # Comments: 97",
+      "published": "Mon, 01 Jun 2026 14:31:26 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d59c6974e123c3985b88318aaa9f10d",
+      "title": "CS336: Language Modeling from Scratch",
+      "link": "https://cs336.stanford.edu/",
+      "summary": "Article URL: https://cs336.stanford.edu/ Comments URL: https://news.ycombinator.com/item?id=48357075 Points: 238 # Comments: 34",
+      "published": "Mon, 01 Jun 2026 14:10:32 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb89b5e6677b18088329d075f33113ac",
+      "title": "Nvidia Cosmos 3",
+      "link": "https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/",
+      "summary": "Article URL: https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/ Comments URL: https://news....",
+      "published": "Mon, 01 Jun 2026 13:32:44 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fba7de3cf397b3799b745049e68b73b",
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "link": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+      "summary": "Article URL: https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/ Comments URL: https://news.ycombinator.com/item?id=48356603 Points: 1...",
+      "published": "Mon, 01 Jun 2026 13:28:53 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad4876b4f53c83c5278b87aef423a517",
+      "title": "Flipper Zero Zig Template",
+      "link": "https://github.com/NishantJoshi00/flipper-template",
+      "summary": "Article URL: https://github.com/NishantJoshi00/flipper-template Comments URL: https://news.ycombinator.com/item?id=48356490 Points: 104 # Comments: 6",
+      "published": "Mon, 01 Jun 2026 13:20:54 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8b02180573f677d583e2ce6ad9590a5",
+      "title": "Quick Research now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys",
+      "summary": "Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enh...",
+      "published": "Mon, 01 Jun 2026 18:27:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c11c7041a29a9179ae4ec7a9933e39c",
+      "title": "Amazon SageMaker adds permissions boundaries for SCP compliance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/",
+      "summary": "Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requirin...",
+      "published": "Mon, 01 Jun 2026 17:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "22d68da826ee2dd4b349957f2b96d8ea",
+      "title": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/",
+      "summary": "Amazon Bedrock AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identit...",
+      "published": "Mon, 01 Jun 2026 16:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0df23c9e0c447871b7cd81b989f49631",
+      "title": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/",
+      "summary": "Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region. These instances are powered by custom In...",
+      "published": "Mon, 01 Jun 2026 16:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "24bb863939509d0ec67b061f5643f26d",
+      "title": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/",
+      "summary": "Starting today, Amazon EC2 M8azn instances are now available in Europe (Ireland) Region. These general purpose high-frequency high-network instances a...",
+      "published": "Mon, 01 Jun 2026 16:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "909856d652748c274f382a3cca1864da",
+      "title": "Amazon SageMaker HyperPod now supports EFA-only network interfaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/",
+      "summary": "Amazon SageMaker HyperPod now supports EFA-only network interfaces for cluster instance groups, enabling you to configure dedicated Elastic Fabric Ada...",
+      "published": "Mon, 01 Jun 2026 16:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fb9c12c437e2b45927895aaedaf6827",
+      "title": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/",
+      "summary": "Amazon SageMaker HyperPod now provides troubleshooting skills that bring expert-level AI/ML cluster diagnostics directly into AI coding assistants suc...",
+      "published": "Mon, 01 Jun 2026 16:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d60e1609c5af17060e229c3335714a30",
+      "title": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/",
+      "summary": "AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by un...",
+      "published": "Mon, 01 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c74dc753d2eb5e4db250c7063bcbd568",
+      "title": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/",
+      "summary": "Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies...",
+      "published": "Mon, 01 Jun 2026 13:38:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "24bbe7d23ac2ce31f445745b313e00ef",
+      "title": "Amazon SES now supports tenant-level suppression lists",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/",
+      "summary": "Amazon Simple Email Service (Amazon SES) now supports tenant-level suppression lists, allowing email senders to isolate bounces and complaints per ten...",
+      "published": "Mon, 01 Jun 2026 12:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c70de9fe1e2ba58361478f25571486f",
+      "title": "Amazon Connect’s AI assistant is now available in the UI builder",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connects-ai-assistant-now-available-ui-builder",
+      "summary": "Amazon Connect Customer Assistant is now integrated within the UI builder, enabling contact center managers to create and modify views using natural l...",
+      "published": "Thu, 28 May 2026 13:51:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9719ca6e0cd8b702e21767c7218f311b",
+      "title": "Quick Research now supports customer managed keys",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-research-cmk",
+      "summary": "Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS). This enh...",
+      "published": "Thu, 21 May 2026 07:00:00 GMT",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "935731ea28a20b10c32cba5023924960",
+      "title": "AIデータセンター投資は既に破綻しているのか",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2606/01/news014.html",
+      "summary": "AIデータセンターへの投資が、いま明らかに異常な水準に達している。Microsoft、Google、Amazon、Metaなどのハイパースケーラーは、年間数千億米ドル規模の設備投資を競い合うように積み上げている。そして、TrendForceのニュースによれば、2026年におけるこれら上位4社のハイパ...",
+      "published": "2026-06-01T04:28:56Z",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4deea146ca74b096b47e074ec2562562",
+      "title": "Poisoning Claude Code: One GitHub Issue to Break the Supply Chain",
+      "link": "https://flatt.tech/research/posts/poisoning-claude-code-one-github-issue-to-break-the-supply-chain/",
+      "summary": "Poisoning Claude Code: One GitHub Issue to Break the Supply Chain Posted on June 1, 2026 • 16 minutes • 3372 words Table of contents Introduction TL;D...",
+      "published": "2026-06-01T14:25:45Z",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57d2287c2cf9e555ae7af77114e58cf0",
+      "title": "引越し後にNHKが「勝手に住民票を取得」…これって違法？ ネット上に広がる違和感と不信感",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/01/news124.html",
+      "summary": "就職や進学や転勤など、引越しのシーズンになるとさまざまな手続きに追われるものだ。電気や水道やガスの住所変更に加え、役所での住民票の異動も忘れてはならない手続きといえる。そして、「NHK」の受信料に関する住所変更もその1つだ。しかし最近、この引越しに伴うNHKの手続きに関して、SNS上で驚くべき体験談...",
+      "published": "2026-06-01T11:56:32Z",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42ddd011845c4b66900b0a7c7b572cbb",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 dmtrKov…",
+      "link": "https://github.com/dmtrKovalenko/fff",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 dmtrKovalenko / fff ⭐ 6,981 (+121) 🗒 Rust The fastest and the most accurate file search toolkit for AI agents, Neovim...",
+      "published": "01 Jun 2026 18:16 +0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "827801286f9d570e9ad7eb0109e003c9",
+      "title": "The Best Punk on Bandcamp, May 2026",
+      "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-may-2026",
+      "summary": "Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 01 Jun 2026 17:42:05 -0000",
+      "fetched_at": "2026-06-01T20:11:59.055025+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-01T15:50:30.262103+00:00"
+  "updated_at": "2026-06-01T20:11:59.055025+00:00"
 }

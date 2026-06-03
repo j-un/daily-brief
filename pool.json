@@ -1409,7 +1409,237 @@
       "fetched_at": "2026-06-03T19:42:36.663321+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "e4384e18dab3ec1d75b58b1227faac05",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "summary": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/ Comments URL: https://news.ycombinator.com/item?id=48388324 Points: 376 ...",
+      "published": "Wed, 03 Jun 2026 19:02:26 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "810d79e8080b86e1e9680e96fc9c2fd4",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "link": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "summary": "https://web.archive.org/web/20260603173839/https://www.theat...https://archive.is/bcpZl Comments URL: https://news.ycombinator.com/item?id=48387270 Po...",
+      "published": "Wed, 03 Jun 2026 17:51:37 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed5f315105059f6ef9cded5d4d58943c",
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "link": "https://github.com/duanebester/gooey",
+      "summary": "Article URL: https://github.com/duanebester/gooey Comments URL: https://news.ycombinator.com/item?id=48386725 Points: 110 # Comments: 32",
+      "published": "Wed, 03 Jun 2026 17:12:27 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0665b7717069336db93ddb7db65bde5e",
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "link": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "summary": "Article URL: https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground Comments URL: https://news.ycombinator.com/i...",
+      "published": "Wed, 03 Jun 2026 10:05:48 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c4f9aca6618d76c9bb99bfe6809d766",
+      "title": "Apple、2026年のApple Design Awards受賞作12本を発表 サイバーパンク2077やBlue Princeなど",
+      "link": "https://www.techno-edge.net/article/2026/06/04/5141.html",
+      "summary": "アップルは2026年のApple Design Awardsの受賞者を発表しました。「喜びと楽しさ」「インクルージョン」「イノベーション」「インタラクション」「ソーシャルインパクト」「ビジュアルとグラフィック」の6カテゴリーで、アプリとゲームが各1本ずつ、計12作品が選ばれています。",
+      "published": "Thu, 04 Jun 2026 06:30:02 +0900",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "79f05a9495229e638439d5d192bb1824",
+      "title": "AWS IoT Device Management adds MQTT session data to connectivity status API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/",
+      "summary": "AWS IoT Device Management adds MQTT session data to connectivity status API, enabling you to troubleshoot connectivity issues and audit connection pat...",
+      "published": "Wed, 03 Jun 2026 21:15:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0280ac531d72131b20bfa6c51722bd4",
+      "title": "Amazon SageMaker Data Agent now supports conversation history",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/",
+      "summary": "Amazon SageMaker Data Agent, available in SageMaker Unified Studio now supports conversation history, enabling data practitioners to maintain continui...",
+      "published": "Wed, 03 Jun 2026 20:26:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "061f63028476ef1d8a20c98eef20bf89",
+      "title": "Amazon SageMaker Unified Studio now supports notebook scheduling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/",
+      "summary": "Amazon SageMaker Unified Studio now enables you to schedule, parameterize, and orchestrate notebook runs directly from the notebook interface without ...",
+      "published": "Wed, 03 Jun 2026 20:13:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c7f93f7138c300aa03c06576cc6c0e",
+      "title": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/",
+      "summary": "AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (current...",
+      "published": "Wed, 03 Jun 2026 20:00:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "89e8d080d4613518d9bb02c3f42f8c3f",
+      "title": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/",
+      "summary": "Amazon Bedrock now supports GPT‑5.4 from OpenAI in AWS GovCloud (US-West) — giving government and regulated industry customers access to OpenAI's most...",
+      "published": "Wed, 03 Jun 2026 19:58:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4456c4ae504c9f0f7de094bd7681905d",
+      "title": "AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/",
+      "summary": "AWS Compute Optimizer now lets you extend the lookback period of your Amazon EBS volume and Amazon ECS rightsizing recommendations from the default 14...",
+      "published": "Wed, 03 Jun 2026 18:30:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3af1853be6f7b0de50da92c73a6a74be",
+      "title": "ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/",
+      "summary": "Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bo...",
+      "published": "Wed, 03 Jun 2026 17:44:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1489a703cf07f86c5ec65b5c60170e1",
+      "title": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) Managed Instances now supports AWS Trainium and AWS Inferentia, purpose-built AI accelerators designed t...",
+      "published": "Wed, 03 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "51f1223d4b03e058a8fe6c4b5a7e8ac1",
+      "title": "AWS Glue Data Catalog Client for Apache Hive Metastore now supports Hive 3 and discovery of multiple catalogs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-data-catalog-apache-hive3/",
+      "summary": "The AWS Glue Data Catalog Client for Apache Hive Metastore now supports Hive 3. With this update, Hive-compatible clients can now use this library to ...",
+      "published": "Sat, 23 May 2026 00:11:00 GMT",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff2398c21ef8352a511c193979500cfd",
+      "title": "クリーンアーキテクチャを3行で説明してみる",
+      "link": "https://zenn.dev/innovation/articles/d3b5c1975e3c02",
+      "summary": "はじめに クリーンアーキテクチャって難しいですよね。 最近ではソフトウェアアーキテクチャを考える上で クリーンアーキテクチャ は避けて通れません。 ですが、クリーンアーキテクチャで設計しよう！となった時に、そもそもクリーンアーキテクチャとは... となることが多々あります。 そこで、クリーンアーキテ...",
+      "published": "2026-06-02T23:48:11Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db2ea3874f3d8a94851a060373c896c2",
+      "title": "Codex Discovered a Hidden HTTP/2 Bomb",
+      "link": "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb",
+      "summary": "We’re publishing HTTP/2 Bomb, a remote denial-of-service exploit against most major web servers, including: nginx Apache httpd Microsoft IIS Envoy Clo...",
+      "published": "2026-06-03T10:08:39Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1547040569dbec10e086eefe778ed8f",
+      "title": "阿波銀行の情報漏えい、被害のテスト環境は「本来廃止すべきだった」 システム高度化作業でも利用",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news138.html",
+      "summary": "阿波銀行（徳島市）は6月3日、4月3日に公表した不正アクセスによる顧客情報漏えいの調査結果を発表した。本来廃止すべきテスト環境をAI高度化作業などに使い続け、消すべき顧客データも残っていたと判明。同行は管理態勢の不備を認め、福永丈久頭取ら役員の処分を明らかにした。 同行は、不正アクセスの直接の原因を...",
+      "published": "2026-06-03T12:04:07Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e91ad018433eb438e1ecbf82ea5c8530",
+      "title": "シャドーAIに「ログイン情報」を渡している割合は？ Oktaの実態調査で判明",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/03/news043.html",
+      "summary": "ID・アクセス管理（IAM）を手掛けるOktaが2026年5月27日に公開した調査によると、過去1年間にAI関連のセキュリティ問題やそれに近い事態を経験した経営幹部は58％に上る。さらに、経営幹部の95％は「従業員は責任を持ってAIを利用している」と回答しているが、IT部門の承認を得ないままAIツー...",
+      "published": "2026-06-02T23:45:56Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b46034d75bbfdc84e805efa24e9616f",
+      "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+      "summary": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始 マイクロソフトは日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントにWindowsアプリ開発のライフ...",
+      "published": "2026-06-03T15:02:06Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ed8ec8e534b108136dc3dd29c818a11",
+      "title": "Declarative Partial UpdatesをストリーミングSSRに使う",
+      "link": "https://zenn.dev/uhyo/articles/declarative-partial-updates-react",
+      "summary": "Declarative Partial Updates （宣言的部分更新） は、Googleによって提案されているWeb標準（候補）です。詳しくは以下のページをご覧ください。 GoogleのWeb標準というと、他のブラウザベンダーのサポートを得られないまま突っ走ることも多い印象ですが、このDecla...",
+      "published": "2026-06-02T16:02:39Z",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cef11b5e74b825bab7d0c8650d7316a6",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 lyo…",
+      "link": "https://github.com/lyogavin/airllm",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 lyogavin / airllm ⭐ 18,764 (+208) 🗒 Jupyter Notebook AirLLM 70B inference with single 4GB GPU",
+      "published": "03 Jun 2026 22:16 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "38086e0503fcd2cc8f90dfa8ea912744",
+      "title": "Chaotic vocals, polyrhythmic grooves — meet the every something plugins",
+      "link": "https://cdm.link/every-something-artikulation-glosso/",
+      "summary": "Imagine crossing vocal synthesis with a rungler, vocal circuits entangling with each other like they're \"speaking in tongues.\" Or enveloped grooves th...",
+      "published": "Wed, 03 Jun 2026 15:17:07 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "e5255af53354fec37f588314688a5ceb",
+      "title": "Francisco Partners exits Muse Group (Audacity, Hal Leonard, MuseScore)",
+      "link": "https://cdm.link/francisco-partners-exits-muse-group/",
+      "summary": "Francisco Partners, the private equity firm, is now exiting Muse Group amid 2026's financial maneuvers. Muse Group is the Cyprus-based conglomerate th...",
+      "published": "Wed, 03 Jun 2026 14:31:10 +0000",
+      "fetched_at": "2026-06-03T22:24:09.334419+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-03T19:42:36.663321+00:00"
+  "updated_at": "2026-06-03T22:24:09.334419+00:00"
 }

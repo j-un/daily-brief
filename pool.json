@@ -1,4 +1,365 @@
 {
-  "articles": [],
-  "updated_at": "2026-06-02T22:28:15.338320+00:00"
+  "articles": [
+    {
+      "entry_id": "294b583f01568fe30b049b894a405bd8",
+      "title": "Terraform × Policy as Code:管理策を実装し、追跡可能なガードレールへ | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260526a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform × Policy as Code:管理策を実装し、追跡可能なガードレールへ | フューチャー技術ブログ",
+      "published": "03 Jun 2026 02:56 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05affbba2f2de6f4a56444afe76b47aa",
+      "title": "ZOZOTOWNを支えるリアルタイム連携基盤の再設計 ── ETL層をGoで作り直した事例 - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/realtime-streaming-replace",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ZOZOTOWNを支えるリアルタイム連携基盤の再設計 ── ETL層をGoで作り直した事例",
+      "published": "03 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c9ef6e597fdd9299a8948879c412bc3",
+      "title": "「無名」からいきなりPHPカンファレンス小田原を主催。行動力の人・あすみの転機は、なぜかいつも“向こうから” | LIFE DRAFT",
+      "link": "https://life.job-draft.jp/2026/05/26/1313/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「無名」からいきなりPHPカンファレンス小田原を主催。行動力の人・あすみの転機は、なぜかいつも“向こうから” | LIFE DRAFT",
+      "published": "03 Jun 2026 01:56 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d309a6db2384884aff3044519a5da5ef",
+      "title": "ソフトウェア開発における不確実性 - kawasima",
+      "link": "https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ソフトウェア開発における不確実性 - kawasima",
+      "published": "03 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25357e1ad4f7a270379ca435ae028710",
+      "title": "IIJ.news Vol.194 June 2026 | 広報誌（IIJ.news） | インターネットイニシアティブ（IIJ）",
+      "link": "https://www.iij.ad.jp/news/iijnews/vol_194/index.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 IIJ.news Vol.194 June 2026 | 広報誌（IIJ.news） | インターネットイニシアティブ（IIJ）",
+      "published": "02 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca1dfd0226305eed3cb86d940988940a",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/who-monitors-ai-agents/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Who’s monitoring the agents?",
+      "published": "02 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff143591c78244ad11762b3d8ba4cec9",
+      "title": "AI outperforms law professors in Stanford Law study",
+      "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "summary": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 106 # Comments: 10...",
+      "published": "Tue, 02 Jun 2026 23:43:12 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79c44a3e94ea04cdd6ed528252545f87",
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "summary": "Article URL: https://github.com/c0dejedi/nbd-vram Comments URL: https://news.ycombinator.com/item?id=48377404 Points: 148 # Comments: 43",
+      "published": "Tue, 02 Jun 2026 22:55:33 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6259d1b372b1a9c4c61a9dbaf46fc206",
+      "title": "My thoughts after using Clojure for about a month",
+      "link": "https://www.acdw.net/clojure/",
+      "summary": "Article URL: https://www.acdw.net/clojure/ Comments URL: https://news.ycombinator.com/item?id=48375393 Points: 117 # Comments: 72",
+      "published": "Tue, 02 Jun 2026 19:56:46 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eda0d428f443f21a81405562c2686b9",
+      "title": "The advertising cartel coming to your web browser",
+      "link": "https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/",
+      "summary": "Article URL: https://blog.zgp.org/the-advertising-cartel-coming-to-your-web-browser/ Comments URL: https://news.ycombinator.com/item?id=48375175 Point...",
+      "published": "Tue, 02 Jun 2026 19:39:25 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a91bb9e77a5b7683825a7aded3e9bb7",
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "link": "https://openrepair.org/open-data/open-standard/",
+      "summary": "Article URL: https://openrepair.org/open-data/open-standard/ Comments URL: https://news.ycombinator.com/item?id=48375150 Points: 100 # Comments: 3",
+      "published": "Tue, 02 Jun 2026 19:37:10 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17c5268221615b598ba24025e7cc2b8d",
+      "title": "HP re-releases classic computer science calculator: The HP-16C",
+      "link": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "summary": "Article URL: https://hpcalcs.com/product/hp-16c-collectors-edition/ Comments URL: https://news.ycombinator.com/item?id=48374685 Points: 129 # Comments...",
+      "published": "Tue, 02 Jun 2026 19:02:40 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd3a38a4c0d1265ce83b652c161f461f",
+      "title": "GitHub Copilot App",
+      "link": "https://github.com/features/preview/github-app",
+      "summary": "Article URL: https://github.com/features/preview/github-app Comments URL: https://news.ycombinator.com/item?id=48373764 Points: 101 # Comments: 68",
+      "published": "Tue, 02 Jun 2026 17:58:55 +0000",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d57543a2b6c9182643443a81bb967a0a",
+      "title": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36",
+      "summary": "Kubernetes version 1.36 introduced several new features and bug fixes, and AWS is excited to announce that you can now use Amazon Elastic Kubernetes S...",
+      "published": "Tue, 02 Jun 2026 21:48:00 GMT",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "20671e86f95e60d1121576699c979083",
+      "title": "「電源タップは3～5年で交換推奨」は短すぎ？ 推奨する日本配線システム工業会に聞いてみた",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news054.html",
+      "summary": "「この機会に、解説させてください。電源タップの交換目安は、3～5年と推奨されています」──パナソニックのくらし・家電アカウントによるXへの投稿が「早すぎるのではないか？」などと物議を醸している。そこで、パナソニックが推奨している団体として名前を挙げていた日本配線システム工業会に話を聞いた。 日本配線...",
+      "published": "2026-06-02T22:53:44Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6b745ec11801f1a46c636f5a03be8b1",
+      "title": "海上保安庁、マインクラフト用「海底地形ワールドデータ」無償公開。深海底まで擬似探検できて実に楽しい【地図ウォッチ】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/chizu/2112600.html",
+      "summary": "",
+      "published": "2026-06-02T22:09:23Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e88a77eb029573b1f5a07f0acc2dd87",
+      "title": "Let's EncryptでHTTPSを終端させたいだけならNginxよりCaddyを使うと楽だった件 - Qiita",
+      "link": "https://qiita.com/ssc-ksaitou/items/ee0cda84dcf358a2b5eb",
+      "summary": "こういうDockerでLet's EncryptでHTTPSしたいだけなら、同一のDockerネットワークに特定条件のDockerコンテナが生えるたびにNginxファイルを動的生成してLet's EncryptのACMEも通してなど全部やってくれる、下記を組み合わせるのが定番なのですが、 nginx...",
+      "published": "2022-07-07T07:07:55Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27097a1fae0444da31784eca44113e3c",
+      "title": "もし、今からAWSのエミュレーターを選ぶならどれにする？ - カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/06/03/aws-emulator-selection",
+      "summary": "はじめに カミナシでエンジニアリングマネージャーをしてます、すずけん（@szk3）です。 唐突ですが、皆さん AWSのエミュレーター使ってますか？ 自チームのプロダクトはS3、DynamoDB、STS、IAM あたりの AWS サービスに依存していて、ローカル開発やテストではこれらのエミュレーターを...",
+      "published": "2026-06-02T23:34:55Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a4d757bc7a211cc5ce86f5355a96496",
+      "title": "Lambda PDF生成を27倍高速化した話 — Puppeteerから@react-pdf/rendererへの移行レポート - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/06/03/070000",
+      "summary": "こんにちは。Findy Freelance開発チームの久木田です。 今回は、社内で運用している支払明細書PDFの生成基盤を、Lambda + Puppeteerから@react-pdf/rendererへ全面的に移行した話を書きます。最終的に処理時間はP50（中央値）で約27倍速くなり、メモリ消費も...",
+      "published": "2026-06-03T00:52:15Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "275382188391c26a868f672a0a8a7dcc",
+      "title": "GitHub - microsoft/coreutils: Coreutils for Windows: Installer & Packaging",
+      "link": "https://github.com/microsoft/coreutils",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-06-02T22:08:57Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "426fd001ff5c91953cb7b4fab228ac2b",
+      "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
+      "link": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表しました。 OpenClawに代表される、常時起動してユーザ...",
+      "published": "2026-06-02T23:08:01Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b57fa89ced7bbcf307e09269ed3d4d19",
+      "title": "Microsoft、パソコン自動化のAIサービス｢スカウト｣ 正体はOpenClaw - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN029C30S6A600C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトは2日、日程調整や資料作成など幅広いパソコン作業を自動化する人工知能（AI）の企業向け提供を始めると発表した。AIが業務チャットや電子メールの送信を担い、同僚のように働く近未来を示した。2日、米西部サンフランシスコ市で技術イベント「ビルド」を開き、AI関...",
+      "published": "2026-06-02T20:18:27Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58edeac824910f8597f18be81d43b275",
+      "title": "Microsoft、初の自社推論モデル「MAI-Thinking-1」発表 蒸留なしでゼロから学習",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000050/",
+      "summary": "米Microsoftは6月2日（米国時間）、年次開発者会議「Build 2026」で、社内開発AI「Microsoft AI」 (＝MAI)の複数の新たなモデル群を発表した。 中核となるのは、Microsoft AI Superintelligenceチームが手掛けた同社初の推論モデル「MAI-Th...",
+      "published": "2026-06-02T22:22:12Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7cbca4d382fff681239fb1034003541",
+      "title": "なぜ自宅に Kubernetes クラスタを持つのか —— 本番相当に運用して得られる学び（前編） - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_868/",
+      "summary": "須田 一輝 株式会社Preferred Networksのソフトウェアエンジニア。Kubernetesを基盤とした深層学習・AIワークロード向けクラウドサービス「PFCP」の開発・運用に従事。Kubernetes Meetup Tokyoの主催や書籍の執筆・監訳など、コミュニティ活動や情報発信にも精...",
+      "published": "2026-06-03T01:34:01Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e93a517ac1e4ac68f396d41fd2a5f437",
+      "title": "1PFLOPSのMicrosoft製AIミニPC「Surface RTX Spark Dev Box」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/event/2113907.html",
+      "summary": "",
+      "published": "2026-06-02T17:43:21Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "838999a1d417315644f3ca453a4f3284",
+      "title": "AI導入で従業員1人当たりの収益を50％アップさせた企業が存在する",
+      "link": "https://gigazine.net/news/20260602-remote-grew-revenue/",
+      "summary": "OpenAIなどのAI企業は「AIを導入することで業務効率や収益を改善できる」とアピールしていますが、実際にどのような場面でAIが活躍するのかはイメージしにくいものです。給与計算ツールの開発を行っている「Remote」は、企業内のあらゆる場所にAIを導入した結果、従業員1人当たりの収益を50％上昇さ...",
+      "published": "2026-06-02T18:18:50Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da9df21bc628a4666252d1f1918aee4f",
+      "title": "［速報］マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表",
+      "link": "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
+      "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Microsoft AIの推論モデルにおけるフラッグシップ。中規模モデル...",
+      "published": "2026-06-02T23:08:18Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df832af23c795efed1c3e804c4ab8d87",
+      "title": "Microsoft、自律エージェント「Scout」発表 OpenClawベースでMCP対応",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/03/2000000049/",
+      "summary": "米Microsoftは6月2日（現地時間）、「Microsoft Build 2026」で、エンタープライズ向けの自律型エージェントの新カテゴリ「Autopilots」を発表し、その第一弾として「Microsoft Scout」を「Microsoft Frontier Program」ユーザー向けに...",
+      "published": "2026-06-02T22:47:52Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59808c98d55189f0d4212f934130b8be",
+      "title": "Microsoft、AndroidベースのAIエージェント基盤「Solara」発表 Snapdragon搭載のバッジ型端末も披露",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news066.html",
+      "summary": "米Microsoftは6月2日（米国時間）、年次開発者会議「Microsoft Build 2026」で、AIエージェントを中心に据えた新世代デバイスのためのプラットフォーム「Project Solara」を発表した。 今後数カ月中に、AccuWeather、Best Buy、CVS Health、...",
+      "published": "2026-06-02T23:02:59Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb88c37f2f35aea00780c0153850f443",
+      "title": "Microsoft、NVIDIAのSoC搭載でAI特化のミニPC「Surface RTX Spark Dev Box」披露",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news063.html",
+      "summary": "Microsoftは「Build 2026」で、AI特化型デスクトップPC「Surface RTX Spark Dev Box」を発表した。NVIDIAの「RTX Spark」を搭載し、最大1ペタフロップスの演算性能と128GBのメモリにより、1200億パラメータ超のモデルのローカル推論や学習を可能...",
+      "published": "2026-06-02T20:03:00Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dddab4e2d1b78a1dbddf04aabab24823",
+      "title": "楽天モバイルのauローミングエリア“縮小” 8割超が電波改善を実感も、なお残る「つながらない」の声",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/02/news124.html",
+      "summary": "KDDIは自社サイトの「楽天モバイル向けローミングサービス提供エリア」情報を更新した。2026年6月以降は都市部を中心にエリアが縮小し契約は9月末に期限を迎える。松田浩路社長は2026年3月期本決算説明会で自社網へのトラフィック増加に触れ、auユーザーに影響が出かねない混雑エリアは十分な期間を設けて...",
+      "published": "2026-06-02T10:45:39Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4c57ee7f03e9634d2f1caaeac58fbed",
+      "title": "電子カルテ開発は個人で行えるのか：OpenDolphinNext",
+      "link": "https://zenn.dev/circlemouth/articles/opendolphinnext-individual-emr",
+      "summary": "はじめに これは、無謀にも電子カルテというプロジェクトを完遂させようとした、個人の反省記録です。 「OpenDolphin」というオープンソースの電子カルテをフォークし、自分のクリニックで本番運用できる電子カルテを作ろうとして、結局断念するにいったまでの反省をまとめた記事です。 断念した理由は以下の...",
+      "published": "2026-05-23T09:05:00Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "879f4d5a0612e590daffe03db358e9d0",
+      "title": "「自分たちは神を創造できる」とAI開発企業のAnthropicが本気で考えているのではないかとの指摘",
+      "link": "https://gigazine.net/news/20260602-anthropic-thinks-building-god/",
+      "summary": "AIツールのClaudeを開発するAnthropicは、AIの倫理や道徳に関する問題について学ぶため、哲学者や宗教団体などと対話する活動に力を入れています。ベンチャーキャピタリストのビル・ガーリー氏が、Anthropicは「自分たちは神を創造できる」と考えているのではないかと指摘しました。 Anth...",
+      "published": "2026-06-02T10:40:28Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2aa75fffabc9f0c0378dd94ecd57a4c",
+      "title": "薄明かりの読書のためのshadcn/ui テーマをつくりました",
+      "link": "https://zenn.dev/shoota/articles/e4595637a190f4",
+      "summary": "TL;DR 自分のブログのためのUIライブラリを構築していた AIフレンドリーなデザインシステムに置き換えたくなったので、shadcn/ui ベースのthemeに置き換えた 今回、shadcn/ui レジストリに登録してもらった ので紹介したい @gymnopediesについて 作成したshadcn...",
+      "published": "2026-06-02T14:26:25Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea94b6931bda120ec19df115bf511b4c",
+      "title": "速さだけじゃない！ VoidZero ツールが移行先に選ばれる理由",
+      "link": "https://speakerdeck.com/mizdra/voidzero-tools",
+      "summary": "2026/06/02 に「フロントエンド開発はどこまで速くなるのか？〜Oxcで考えるツールチェーン〜」というイベントで話した資料です。 https://findy.connpass.com/event/391160/",
+      "published": "2026-06-02T03:21:39Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18e170b08d0c6b80ff55dee9d9fd3830",
+      "title": "ローカルLLMにWebアプリを自律生成させた — 28秒で完成、セキュリティテスト22件全PASS",
+      "link": "https://zenn.dev/seeda_yuto/articles/local-llm-agent-harness-guide",
+      "summary": "gpt-oss:20bに「アプリ作って」と言ったら28秒で完成した OpenAIのオープンウェイトモデル gpt-oss:20b。MoEアーキテクチャで、20.9Bパラメータのうち実際に動くのは3.6Bだけ。16GB VRAMのRTX 4080で動く。 こいつに「Todoアプリ作って」と言ったら、1...",
+      "published": "2026-06-01T22:01:33Z",
+      "fetched_at": "2026-06-03T02:58:25.414389+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-06-03T02:58:25.414389+00:00"
 }

@@ -32,8 +32,9 @@ SYSTEM_PROMPT = """\
 
 ## 出力形式
 以下のJSON形式のみで出力してください。コードブロックや説明文は不要です。
+id は記事リストの id フィールドの値をそのまま使ってください（整数）。
 
-{"summaries":[{"entry_id":"...","summary_jp":"30〜100文字の日本語要約"},...]}
+{"summaries":[{"id":0,"summary_jp":"30〜100文字の日本語要約"},...]}
 """
 
 
@@ -59,7 +60,12 @@ def call_claude(prompt: str) -> tuple[str, dict, float | None]:
 
 
 def extract_json(text: str) -> dict:
-    text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL).strip()
+    # コードフェンスを除去し、前後に説明文があっても最外の JSON オブジェクトを取り出す
+    text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL)
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        text = text[start:end + 1]
     return json.loads(text)
 
 
@@ -103,16 +109,22 @@ def main() -> None:
                 json.dump({"label": "Haiku Summarize", "cost_usd": 0.0, "usage": {}}, f)
         return
 
-    # Haiku には entry_id / title / summary のみ渡す
-    payload = []
+    # id(連番) / title / summary のみ渡す（entry_id の転記ミスを防ぐため連番を使用）
+    # selected.json が title/summary を含む場合はそれを使用、含まない場合は articles.json から取得
+    payload: list[dict] = []
+    idx_to_eid: dict[int, str] = {}
     for p in picked:
-        a = articles_by_id.get(p["entry_id"])
+        entry_id = p.get("entry_id") or p.get("id")  # entry_id または id を使用
+        a = articles_by_id.get(entry_id)
         if a:
+            idx = len(payload)
+            idx_to_eid[idx] = entry_id
             payload.append({
-                "entry_id": p["entry_id"],
+                "id": idx,
                 "title": a["title"],
                 "summary": a.get("summary", ""),
             })
+    sent_eids = set(idx_to_eid.values())
 
     prompt = (
         SYSTEM_PROMPT
@@ -133,38 +145,42 @@ def main() -> None:
         print(f"Raw output: {result_text[:500]}", file=sys.stderr)
         sys.exit(1)
 
-    picked_ids = {p["entry_id"] for p in picked}
-    errors = [
-        f"unknown entry_id: {s['entry_id']}"
-        for s in summaries_list
-        if s["entry_id"] not in picked_ids
-    ]
+    errors = []
+    summaries: dict[str, str] = {}
+    for s in summaries_list:
+        try:
+            idx = int(s["id"])
+        except (TypeError, ValueError, KeyError):
+            errors.append(f"invalid id in summaries: {s.get('id')!r}")
+            continue
+        if idx not in idx_to_eid:
+            errors.append(f"id out of range in summaries: {idx}")
+            continue
+        eid = idx_to_eid[idx]
+        if s.get("summary_jp", "").strip():
+            summaries[eid] = s["summary_jp"]
     if errors:
         for e in errors:
             print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 
     # 空の summary_jp も欠落扱いにする
-    summaries = {
-        s["entry_id"]: s["summary_jp"]
-        for s in summaries_list
-        if s.get("summary_jp", "").strip()
-    }
-
-    missing = picked_ids - summaries.keys()
+    missing = sent_eids - summaries.keys()
 
     if missing:
         for attempt in range(1, 3):
             print(f"要約欠落 {len(missing)} 件をリトライ ({attempt}/2)...", file=sys.stderr)
-            retry_payload = [
-                {
-                    "entry_id": eid,
-                    "title": articles_by_id[eid]["title"],
-                    "summary": articles_by_id[eid].get("summary", ""),
-                }
-                for eid in missing
-                if eid in articles_by_id
-            ]
+            retry_idx_to_eid: dict[int, str] = {}
+            retry_payload: list[dict] = []
+            for eid in missing:
+                if eid in articles_by_id:
+                    ridx = len(retry_payload)
+                    retry_idx_to_eid[ridx] = eid
+                    retry_payload.append({
+                        "id": ridx,
+                        "title": articles_by_id[eid]["title"],
+                        "summary": articles_by_id[eid].get("summary", ""),
+                    })
             if not retry_payload:
                 break
             retry_prompt = (
@@ -181,9 +197,13 @@ def main() -> None:
                 print(f"ERROR: リトライ {attempt} 失敗: {e}", file=sys.stderr)
                 break
             for s in retry_list:
-                if s["entry_id"] in picked_ids and s.get("summary_jp", "").strip():
-                    summaries[s["entry_id"]] = s["summary_jp"]
-            missing = picked_ids - summaries.keys()
+                try:
+                    ridx = int(s["id"])
+                except (TypeError, ValueError, KeyError):
+                    continue
+                if ridx in retry_idx_to_eid and s.get("summary_jp", "").strip():
+                    summaries[retry_idx_to_eid[ridx]] = s["summary_jp"]
+            missing = sent_eids - summaries.keys()
             if not missing:
                 break
 

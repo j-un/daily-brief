@@ -48,8 +48,9 @@ SYSTEM_PROMPT = """\
 
 ## 出力形式
 以下のJSON形式のみで出力してください。コードブロックや説明文は不要です。
+id は記事リストの id フィールドの値をそのまま使ってください（整数）。
 
-{"picked":[{"entry_id":"...","category":"tech_ai","starred":false},...]}
+{"picked":[{"id":0,"category":"tech_ai","starred":false},...]}
 """
 
 
@@ -75,7 +76,12 @@ def call_claude(prompt: str) -> tuple[str, dict, float | None]:
 
 
 def extract_json(text: str) -> dict:
-    text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL).strip()
+    # コードフェンスを除去し、前後に説明文があっても最外の JSON オブジェクトを取り出す
+    text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL)
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1 and end > start:
+        text = text[start:end + 1]
     return json.loads(text)
 
 
@@ -117,14 +123,15 @@ def main() -> None:
         if args.usage_file:
             os.makedirs(os.path.dirname(args.usage_file) or ".", exist_ok=True)
             with open(args.usage_file, "w", encoding="utf-8") as f:
-                json.dump({"label": "Sonnet Selection", "cost_usd": 0.0, "usage": {}}, f)
+                json.dump({"label": "Selection", "cost_usd": 0.0, "usage": {}}, f)
         return
 
-    # Sonnet には entry_id / title / summary のみを渡す
+    # id(連番) / title / summary のみを渡す（entry_id の転記ミスを防ぐため連番を使用）
     payload = [
-        {"entry_id": a["entry_id"], "title": a["title"], "summary": a.get("summary", "")}
-        for a in articles
+        {"id": i, "title": a["title"], "summary": a.get("summary", "")}
+        for i, a in enumerate(articles)
     ]
+    id_to_eid = {i: a["entry_id"] for i, a in enumerate(articles)}
 
     prompt = (
         SYSTEM_PROMPT
@@ -144,27 +151,39 @@ def main() -> None:
         print(f"Raw output: {result_text[:500]}", file=sys.stderr)
         sys.exit(1)
 
-    valid_ids = {a["entry_id"] for a in articles}
-    errors = [
-        f"unknown entry_id: {p['entry_id']}" for p in picked if p["entry_id"] not in valid_ids
-    ] + [
-        f"invalid category '{p['category']}' for {p['entry_id']}"
-        for p in picked
-        if p.get("category") not in CATEGORY_ENUM
-    ]
+    errors = []
+    picked_out = []
+    for p in picked:
+        try:
+            idx = int(p["id"])
+        except (TypeError, ValueError, KeyError):
+            errors.append(f"invalid id (not int): {p.get('id')!r}")
+            continue
+        if idx not in id_to_eid:
+            errors.append(f"id out of range: {idx}")
+            continue
+        cat = p.get("category")
+        if cat not in CATEGORY_ENUM:
+            errors.append(f"invalid category '{cat}' for id={idx}")
+            continue
+        picked_out.append({
+            "entry_id": id_to_eid[idx],
+            "category": cat,
+            "starred": bool(p.get("starred", False)),
+        })
     if errors:
         for e in errors:
             print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 
-    starred_count = sum(1 for p in picked if p.get("starred"))
-    print(f"Selected {len(picked)} / {len(articles)} articles (starred: {starred_count})")
+    starred_count = sum(1 for p in picked_out if p.get("starred"))
+    print(f"Selected {len(picked_out)} / {len(articles)} articles (starred: {starred_count})")
 
     output = {
         "fetched_at": data.get("fetched_at", datetime.now(timezone.utc).isoformat()),
         "feed_count": data.get("feed_count", 0),
         "total_count": data.get("total_count", len(articles)),
-        "picked": picked,
+        "picked": picked_out,
     }
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
@@ -174,7 +193,7 @@ def main() -> None:
     if args.usage_file:
         os.makedirs(os.path.dirname(args.usage_file) or ".", exist_ok=True)
         with open(args.usage_file, "w", encoding="utf-8") as f:
-            json.dump({"label": "Sonnet Selection", "cost_usd": cost, "usage": usage}, f)
+            json.dump({"label": "Selection", "cost_usd": cost, "usage": usage}, f)
 
 
 if __name__ == "__main__":

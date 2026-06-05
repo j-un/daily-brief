@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e5ea6e2bc04bb575036825380b9d129b",
-      "title": "The ways we contain Claude across products",
-      "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "summary": "Article URL: https://www.anthropic.com/engineering/how-we-contain-claude Comments URL: https://news.ycombinator.com/item?id=48392082 Points: 113 # Com...",
-      "published": "Thu, 04 Jun 2026 00:27:52 +0000",
-      "fetched_at": "2026-06-04T08:13:19.637448+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9d59c6974e123c3985b88318aaa9f10d",
-      "title": "Stanford CS336 | Language Modeling from Scratch",
-      "link": "https://cs336.stanford.edu/",
-      "summary": "Logistics Lectures: Monday/Wednesday 3:00-4:20pm in Skilling Auditorium Office hours: Percy Liang: Fridays 11-12am in Gates 366 Tatsu Hashimoto: Tuesd...",
-      "published": "2026-04-01T21:24:22Z",
-      "fetched_at": "2026-06-04T08:13:19.637448+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "761a1c72e18bc37431ed1d10323612c3",
       "title": "Postgres-backed Durable Workflow Execution | DBOS",
       "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
@@ -739,7 +719,287 @@
       "fetched_at": "2026-06-05T08:00:20.066314+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a4e52bb2dafe29c38f9f26e55cf46e65",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/eu-cyber-resilience-act/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 “The AI did it” won’t save you when EU regulators come knocking",
+      "published": "05 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "866044dd3ac996543f2a4b1949863ac1",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/opentelemetry-vendor-neutrality-guide/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Vendor neutrality isn’t magic: A hard look at the OpenTelemetry ecosystem",
+      "published": "05 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31c2b12b6640df6c4a290ce7133c7ebb",
+      "title": "Containerlab と vJunos で体験するクラウドネットワーク構築 - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202605-clab-vjunos/entry",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Containerlab と vJunos で体験するクラウドネットワーク構築",
+      "published": "04 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb93abe2ebb6362cf3e5b9154568eb69",
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "link": "https://arxiv.org/abs/2606.03673",
+      "summary": "Article URL: https://arxiv.org/abs/2606.03673 Comments URL: https://news.ycombinator.com/item?id=48409664 Points: 132 # Comments: 36",
+      "published": "Fri, 05 Jun 2026 08:32:16 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa57273f78fb424d6afd783d527aba2d",
+      "title": "Changing How We Develop Ladybird",
+      "link": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+      "summary": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/ Comments URL: https://news.ycombinator.com/item?id=48409191 Points: 432 # Co...",
+      "published": "Fri, 05 Jun 2026 07:26:33 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "448bc6eb1d3700faa2030e65f855e0b3",
+      "title": "C++: The Documentary",
+      "link": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+      "summary": "Article URL: https://herbsutter.com/2026/06/04/c-the-documentary-released-today/ Comments URL: https://news.ycombinator.com/item?id=48408016 Points: 1...",
+      "published": "Fri, 05 Jun 2026 04:37:01 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c95395e0b1bc8d6209731e21984c437",
+      "title": "「MacBook Ultra」は早ければ9月発売？調査会社が新たな予測示す。低消費電力なハイブリッドOLEDを採用か",
+      "link": "https://www.techno-edge.net/article/2026/06/05/5151.html",
+      "summary": "調査会社Omdiaは、アップルがOLEDディスプレイを搭載する「MacBook Ultra」と仮称される新製品を、2026年第3四半期（7～9月）に発売すると予測する報告書を発表しました。",
+      "published": "Fri, 05 Jun 2026 21:00:03 +0900",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "44fa2bf1e80fc684cf0f2be68df8f1a9",
+      "title": "ChatGPTのメモリ機能が刷新、好みや状況を常に分析・記憶する「Dreaming V3」全ユーザーに導入",
+      "link": "https://www.techno-edge.net/article/2026/06/05/5150.html",
+      "summary": "OpenAIは2026年6月4日、ChatGPTのメモリ（記憶）機能を大幅に刷新した新システム「Dreaming V3」を発表しました。",
+      "published": "Fri, 05 Jun 2026 17:35:07 +0900",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "3883d5fe49a5d897223f4d1a20f6f5b3",
+      "title": "GitHub Copilotの料金改定で大騒ぎになっているので、トークン削減の最新手法をまとめてみた - Qiita",
+      "link": "https://qiita.com/shinkai_/items/626dfa7857f2d554784e",
+      "summary": "2026年6月1日から GitHub Copilot の課金体系が変わりました。 X（Twitter）では日本でも海外でも辛辣な意見ばかり出ていました。Claude Sonnetのクレジット消費量が旧制度の9倍、Claude Opusにいたっては27倍という数字が一部ユーザーから報告されていて、Ag...",
+      "published": "2026-06-04T22:14:07Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e63ed85066c2ed896b921a6fdfa98a4b",
+      "title": "WSL 2、Windows ファイルシステムアクセスが大幅改善へ | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/wsl2-virtiofs-speedup/",
+      "summary": "WSL 2を使ってWindowsとLinuxを行き来しながら作業している人にとって、ファイルI/Oの速度は常に気になるポイントです。 2026年5月、WSL 2に新しい改善が入り、virtiofsを使ったクロスOSのファイルアクセスがさらに高速になりました。 Hayden Barnes氏のブログ記事...",
+      "published": "2026-06-05T06:18:58Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f9b31317086dc3ce05db1931c4da5c1",
+      "title": "「PayPay改悪」話題 本人確認しないと付与ゼロ、“ポイント利用でポイント付与\"は終了",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news089.html",
+      "summary": "PayPayが6月2日、ポイント還元プログラム「PayPayステップ」のルールを変更したことが「改悪だ」とSNSで話題になっている。 同日から、電子本人確認（eKYC）が未完了だとポイント付与の対象外になったほか、ポイントで支払った分へのポイント還元も廃止されるなど、ユーザーに不利な変更が目立つ。 ...",
+      "published": "2026-06-05T03:07:49Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3c14b74d853e6cc9b5f454738f4d355",
+      "title": "LM Studioに「外出先からスマホで自宅の高性能PCに接続してローカルAIを実行できる機能」が追加される",
+      "link": "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
+      "summary": "LM StudioはAIモデルをローカルにダウンロードして実行できるアプリです。新たに、LM Studioのリモート連携機能である「LM Link」を用いて外出先でもiPhone経由でPC上のAIモデルを実行可能になりました。iPhoneではクライアントアプリとして「Locally AI」を使う仕組...",
+      "published": "2026-06-05T07:13:45Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "847efed5de727675e1f59a1a9df0d96f",
+      "title": "国内初、ADHD治療にスマホアプリ 塩野義製薬がきょうから発売 子供向けに",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news107.html",
+      "summary": "塩野義製薬（大阪市北区）は6月5日、小児の注意欠如多動症（ADHD）の治療を補助するアプリ「ENDEAVORRIDE（エンデバーライド）」を販売開始した。小児ADHDを対象とした治療補助アプリの国内販売は初めてとなる。 ENDEAVORRIDEは、スマートフォンやタブレットで取り組むことでADHDの...",
+      "published": "2026-06-05T07:45:48Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3eb354930b4d4da5c17938102326b629",
+      "title": "Djangoで便利なPostgreSQLの活用方法 - そーだいなるらくがき帳",
+      "link": "https://soudai.hatenablog.com/entry/2026/06/05/153530",
+      "summary": "Djangoのデファクト・スタンダードなRDBMSはPostgreSQLである。 せっかくPostgreSQLを選んでいるなら、PostgreSQLの機能を使わないのはもったいない。 そこで今日はDjangoを利用した開発者がPostgreSQLのどんな機能を知っておくと便利か、という話をする。 例...",
+      "published": "2026-06-05T08:02:35Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e398e4b84da6a44e878584b861fad47a",
+      "title": "影山優佳「ウチらって、美しいからサ」｜anan創作連載シリーズ",
+      "link": "https://ananweb.jp/categories/entertainment/97300",
+      "summary": "いま注目の文筆家のエッセイ、小説などの創作を4号続けて掲載。今回は2497号（2026年5月26日発売）から、影山優佳さんのエッセイ連載 第3回「ウチらって、美しいからサ」をお届けします。 「デブス」 夏の大三角を構成する星でも、どこかにいそうな神の名でもない。 「親にも言われたことないのに！」と言...",
+      "published": "2026-06-05T00:54:30Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01fb433666eff44cf9fb2974971ce1af",
+      "title": "[AI解説]右翼・保守組織の集団無責任傾向",
+      "link": "https://anond.hatelabo.jp/20260605131209",
+      "summary": "保守組織全体から見た「多重集団化による免責機能」（責任分散・回避）の傾向は、左翼極左（ヘリ協・オール沖縄系）の「集団無責任体制」ほど意図的・構造的に洗練・慢性化していないのが全体的傾向です。ただし、連絡協議会型や分散型ネットワークでは一定の免責機能が見られ、問題発生時の責任追及を困難にするケース.....",
+      "published": "2026-06-05T04:16:15Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e604e0ed1f94e3f937f1a33c31d83513",
+      "title": "Gemini・Claude・ChatGPT・Copilot の4つのAIにそれらの使い分けを聞いたら、全員が自分をハブだと思っていた",
+      "link": "https://zenn.dev/minipoisson/articles/ai-self-cognition",
+      "summary": "きっかけ：「自分の使い分け」をAIに聞くとどうなるか Gemini・Claude・ChatGPT・Copilot——これら4つのAIのチャット履歴をすべて一つのNotebookLMノートブックに統合したところで、ふと思いつきました。 「各AIは自分を他のAIとどう使い分けるよう勧めているのだろう？ ...",
+      "published": "2026-06-04T07:29:02Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "276d205c765b5ed113e53528200f8cb8",
+      "title": "トヨタ、世界初「超電導液体水素ポンプ」搭載の液体水素GRカローラで富士24時間参戦 ガソリン車並みの航続距離実現へ 鉄道総研と協力しリニアモーター導入も",
+      "link": "https://car.watch.impress.co.jp/docs/news/2114654.html",
+      "summary": "",
+      "published": "2026-06-05T03:25:46Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5d9d4888b61a7fc17941e218281bc80",
+      "title": "ミスで“永久無料”の人気ゲーム「PICO PARK：Classic」配信停止へ 1000万DLも「ずっと無料はよくなかった」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news110.html",
+      "summary": "ミスで“永久無料”の人気ゲーム「PICO PARK：Classic」配信停止へ 1000万DLも「ずっと無料はよくなかった」 開発者の手違いで“永久無料”になっていたアクションパズルゲーム「PICO PARK:Classic Edition」が、6月15日午後0時にSteamでの配信を停止すると、開...",
+      "published": "2026-06-05T07:54:28Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c713537268364e77b51f0edf7c6d3635",
+      "title": "キューバでVisa・Mastercardが利用停止に 在キューバ日本国大使館「現金の持参を」 渡航者に注意喚起",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news116.html",
+      "summary": "在キューバ日本国大使館は6月3日、キューバ国内で6月6日（現地時間）以降、米VISAと米Mastercardブランドのクレジットカードが使えなくなるとして、これから現地に渡航する日本人に注意を呼びかけた。 同大使館によると、現地でクレジットカードが使えると思い込み、現金を十分に持たずに困窮するケース...",
+      "published": "2026-06-05T09:50:58Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d169f762556400796e4f90476c0c0989",
+      "title": "AIエージェントを安全に自律動作させるWindowsのセキュリティ新機能が発表／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2114591.html",
+      "summary": "",
+      "published": "2026-06-05T07:12:00Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7223ced768d63291454e1b9d02d03722",
+      "title": "AMD B650チップセット搭載の拡張カード、M.2スロットやOCuLinkを増設",
+      "link": "https://pc.watch.impress.co.jp/docs/news/event/2114753.html",
+      "summary": "",
+      "published": "2026-06-05T05:31:42Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c6c2ea05d6729be6d4c8b355b863e2",
+      "title": "入力補助ツールバーの【見出し】に「特大見出し（H2）」「特小見出し（H6）」を追加しました - はてなブログ開発ブログ",
+      "link": "https://staff.hatenablog.com/entry/2026/06/05/145729",
+      "summary": "入力補助ツールバーの「見出し」で、新たに「特大見出し（H2）」と「特小見出し（H6）」が使えるようになりました。H2 〜 H6 の5段階から選べるので、記事の構成に合わせて見出しの階層を調整しやすくなります。 【選択できる見出しレベル】 特大見出し（H2） ← 新たに追加 大見出し（H3） 中見出し...",
+      "published": "2026-06-05T06:14:03Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "965774bafe4a173426904d1f4d023d23",
+      "title": "PCを遠隔操作して不正送金を行う「ボイスフィッシング」起点の新たな手口、法人で多額の被害発生 トレンドマイクロが注意喚起。1社で4億円を超える被害事例も",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2114453.html",
+      "summary": "",
+      "published": "2026-06-04T22:55:49Z",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d43e82f402483a72f5f2b5aa7774e00e",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Mem…",
+      "link": "https://github.com/MemPalace/mempalace",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 MemPalace / mempalace ⭐ 53,630 (+228) 🗒 Python The best-benchmarked open-source AI memory system. And it's free.",
+      "published": "05 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57994d77752c465be543379e4e6af7ff",
+      "title": "Clayworks, a new independent music tech project, has just launched with two new plugins",
+      "link": "https://musictech.com/news/gear/clayworks-harmonimo-kodotone/?utm_source=rss&utm_medium=rss&utm_campaign=clayworks-harmonimo-kodotone",
+      "summary": "Harmonimo is a MIDI chord plugin, and Kodotone is a virtual drum machine. The post Clayworks, a new independent music tech project, has just launched ...",
+      "published": "Fri, 05 Jun 2026 11:55:55 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "bff4b722350c1b422ad5a8efdbc1b542",
+      "title": "Paul McCartney says smartphones have made songwriters less likely to finish songs: “You always had to finish a thing because there was nowhere to put it”",
+      "link": "https://musictech.com/news/music/paul-mccartney-smartphones-songwriting/?utm_source=rss&utm_medium=rss&utm_campaign=paul-mccartney-smartphones-songwriting",
+      "summary": "Modern technology has made capturing ideas easier than ever, but Macca believes it’s also removed the pressure that once forced musicians to finish wh...",
+      "published": "Fri, 05 Jun 2026 08:46:11 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "05ccea9f8ece194fde17fc5f9986419f",
+      "title": "Carbon Electra 2 is a soft synth designed to stay in key with your session",
+      "link": "https://musictech.com/news/gear/carbon-electra-2/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-electra-2",
+      "summary": "The plugin features scale-aware oscillators, so any sonic exploration remains in tune with the larger soundscape. The post Carbon Electra 2 is a soft ...",
+      "published": "Fri, 05 Jun 2026 08:43:40 +0000",
+      "fetched_at": "2026-06-05T12:31:51.090256+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-05T08:00:20.066314+00:00"
+  "updated_at": "2026-06-05T12:31:51.090256+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "761a1c72e18bc37431ed1d10323612c3",
-      "title": "Postgres-backed Durable Workflow Execution | DBOS",
-      "link": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Postgres-backed Durable Workflow Execution | DBOS",
-      "published": "04 Jun 2026 10:55 +0000",
-      "fetched_at": "2026-06-04T12:38:44.834808+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "dc05ceb317a93c0ebd18ef189bde368e",
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "link": "https://github.com/anthropics/defending-code-reference-harness",
@@ -1269,7 +1259,197 @@
       "fetched_at": "2026-06-05T16:26:52.823455+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "06fc21683291ec26edda7e40e97cecdf",
+      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+      "link": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+      "summary": "Article URL: https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Fri, 05 Jun 2026 17:56:19 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a355d233fde2182dc8cff5e465df0031",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "summary": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...https://www.adyen.com/press-and-media/adyen-payments-gov-uk Comments URL: https://news....",
+      "published": "Fri, 05 Jun 2026 16:55:30 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fb5ded51f1d1075d4016a5201e46856",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/ Comments URL: https://news.ycombin...",
+      "published": "Fri, 05 Jun 2026 16:18:48 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a051d69737131e98d333fc240a3cdd6",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "link": "https://github.com/microsoft/pg_durable",
+      "summary": "Article URL: https://github.com/microsoft/pg_durable Comments URL: https://news.ycombinator.com/item?id=48414367 Points: 187 # Comments: 42",
+      "published": "Fri, 05 Jun 2026 15:59:57 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92fb9bd98bb12f6fee4ca6666e74ebdf",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "link": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "summary": "Article URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ Comments URL: https://news.ycombinator.com/item?id=48...",
+      "published": "Fri, 05 Jun 2026 15:39:38 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d40931f88708857d22c5d8e6b38ccfe",
+      "title": "Dutch gov't will only allow European company to operate DigiD platform",
+      "link": "https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform",
+      "summary": "Article URL: https://nltimes.nl/2026/06/05/dutch-govt-will-allow-european-company-operate-digid-platform Comments URL: https://news.ycombinator.com/it...",
+      "published": "Fri, 05 Jun 2026 14:48:44 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61f4e9189509084aad1412109861d62b",
+      "title": "I tested every IP KVM in my Homelab",
+      "link": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/ Comments URL: https://news.ycombinator.com/item?id=48413072 Points: 159 # C...",
+      "published": "Fri, 05 Jun 2026 14:30:50 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbcb06c9cc706d6a5c8b90bf9ef6f821",
+      "title": "Did Claude increase bugs in rsync?",
+      "link": "https://alexispurslane.github.io/rsync-analysis/",
+      "summary": "Article URL: https://alexispurslane.github.io/rsync-analysis/ Comments URL: https://news.ycombinator.com/item?id=48411635 Points: 126 # Comments: 124",
+      "published": "Fri, 05 Jun 2026 12:43:33 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b74d17f15e6a097b4176652d799ad1a2",
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "link": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "summary": "Article URL: https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/ Comments URL: https://news.ycombinator.com/item?id=484080...",
+      "published": "Fri, 05 Jun 2026 04:38:41 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1585fdf2f65aa6545e3595621ac5a2f",
+      "title": "The AWS MCP Server now supports cross-account and cross-role access",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/",
+      "summary": "Today, AWS announced cross-account and cross-role access for the AWS Model Context Protocol (MCP) Server, part of the Agent Toolkit for AWS. This feat...",
+      "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0fa2b35df2f32bd037042e50f5d49c8",
+      "title": "AWS Deadline Cloud now supports plugin sync for service-managed fleets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync",
+      "summary": "AWS Deadline Cloud now gives you an easier way to deliver plugins to cloud workers when using service-managed fleets. AWS Deadline Cloud is a fully ma...",
+      "published": "Thu, 04 Jun 2026 16:13:00 GMT",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0dabcad0b81b586d490dda3f9ae85dc",
+      "title": "【AI待ち、終了】Claude Codeの「AI部下」で勝手に仕事が完了…反則級「神ワザ」10選",
+      "link": "https://www.sbbit.jp/article/cont1/185480",
+      "summary": "AIを使って効率化しているはずなのに、タスクが渋滞して手が止まってしまう……この本末転倒な待ち時間をゼロに近づけるのが、Claude Codeによる「並列作業」です。AIを“1人の部下”とするのではなく、“複数の部下”として役割を与えれば、仕事は順番に片付けるものではなく、一気に片付くものに変わりま...",
+      "published": "2026-06-04T23:47:29Z",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2577ca731fa3d6083df5c05a910a01c3",
+      "title": "あるプログラマの若かりし頃の奇行集 - 覚書",
+      "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/06/05/221440",
+      "summary": "昔は自分がプログラマとして成長するためには何が必要なのかを悩み、悩みはするが深く考えずに思いつきで奇行に走るということをよくしていました。今になって振り返る微笑ましくて面白かったので、いくつかを紹介します。十中八九読者の今後の人生に役立たないですが、失笑しながら読んでもらえれば幸いです。 gzipコ...",
+      "published": "2026-06-05T13:17:22Z",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9ea97f72a7c390e218667f36b9fb108",
+      "title": "【速報】日本、米AI事業に800億円拠出",
+      "link": "https://www.47news.jp/14416705.html",
+      "summary": "【ワシントン共同】日米両政府は4日、人工知能（AI）を活用して技術開発を加速させる米国の国家プロジェクトに、今後5年間でそれぞれ5億ドル（約800億円）を拠出することで合意した。",
+      "published": "2026-06-04T18:46:38Z",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "893a90b29e0df8673d0c45e111de4bea",
+      "title": "Mythosでセキュリティの考え方が変わった！今こそコンテナを使おう！ - 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2026/06/05/105749",
+      "summary": "Red Hat のソリューションアーキテクトの瀬戸です。 Anthropicがアプリケーションの脆弱性を見つけ出すのが得意なClaude Mythos Previewを発表しました。それを使った脆弱性を見つけるプロジェクトはProject Glasswingとして組織され、すでに多くの企業で実験的に...",
+      "published": "2026-06-05T06:13:14Z",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3f94ac141711134fc6234ca39bafc1f",
+      "title": "ノートPCに8GBのRAMが復活、部品不足の中メーカーは手頃な価格のノートPCを提供するためにメモリ容量を削減している",
+      "link": "https://gigazine.net/news/20260605-laptop-8gb-ram/",
+      "summary": "近年ノートPCの高性能化が進む中で、メモリの最低容量を16GBとするメーカーが多く、MicrosoftもAI PC「Copilot＋」の要件としてメモリ容量を最低16GBと定めており、それ以下の8GBメモリはもはや旧世代のスペックとなりつつあります。ところが、「MacBook Neo」を筆頭に「多少...",
+      "published": "2026-06-05T02:43:49Z",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c9e20fc0efe6fec35535c42d818dbdf",
+      "title": "📦 openai / plugins ⭐ 1,424 (+17) 🗒 JavaS…",
+      "link": "https://github.com/openai/plugins",
+      "summary": "📦 openai / plugins ⭐ 1,424 (+17) 🗒 JavaScript OpenAI Plugins",
+      "published": "05 Jun 2026 17:16 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb18b5ab0b9a95bd28a288d2bc23ae74",
+      "title": "Abadir’s The Primitivist is a high-energy rhythmic tour of Arabic sound",
+      "link": "https://cdm.link/abadirs-the-primitivist-is-a-high-energy-rhythmic-tour-of-arabic-sound/",
+      "summary": "Cairo-born producer ABADIR is back with a four-track gut-punch of Arab rhythm, a foot-stomping, belly-activating powerhouse of an EP. True to its labe...",
+      "published": "Fri, 05 Jun 2026 16:44:38 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "450d716905492fe3bc36e02835b4776a",
+      "title": "FabFilter make some of the most-loved plugins on the market – and you can save 25% for a short time",
+      "link": "https://musictech.com/news/gear/fabfilter-plugins-deal-plugin-boutique-imsta/?utm_source=rss&utm_medium=rss&utm_campaign=fabfilter-plugins-deal-plugin-boutique-imsta",
+      "summary": "Get Pro-C 3, Pro-Q 4, Pro-R 2 and more at a hefty discount until 9 June. The post FabFilter make some of the most-loved plugins on the market – and yo...",
+      "published": "Fri, 05 Jun 2026 16:34:18 +0000",
+      "fetched_at": "2026-06-05T19:43:44.606037+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-05T16:26:52.823455+00:00"
+  "updated_at": "2026-06-05T19:43:44.606037+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d396444c7af3aa88454941581a8acdfa",
-      "title": "OpenClawブームのその後とHermes Agent",
-      "link": "https://blog.lai.so/hermes-agent/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenClawブームのその後とHermes Agent",
-      "published": "03 Jun 2026 23:55 +0000",
-      "fetched_at": "2026-06-04T02:53:45.046930+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f35cbb2c638e93cf5dd85ad99135199b",
-      "title": "Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/05/claude-code-security-guidance-plugin",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Code、脆弱性検出と修正を支援する「security-guidance」プラグインを公開 | gihyo.jp",
-      "published": "03 Jun 2026 23:55 +0000",
-      "fetched_at": "2026-06-04T02:53:45.046930+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e5ea6e2bc04bb575036825380b9d129b",
       "title": "The ways we contain Claude across products",
       "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
@@ -449,7 +429,317 @@
       "fetched_at": "2026-06-05T02:41:05.050479+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "39fa006425a1d72b36935e9bd73d0caa",
+      "title": "Modern Java at Stripe: Language upgrades as a service | Stripe Dot Dev Blog",
+      "link": "https://stripe.dev/blog/modern-java-at-stripe-language-upgrades-as-a-service",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Modern Java at Stripe: Language upgrades as a service",
+      "published": "05 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6ec3ae31a9b877803026612db57556c",
+      "title": "OSV Withdraws 157 Malware Reports After Automated False Posi...",
+      "link": "https://socket.dev/blog/osv-withdraws-157-malware-reports",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OSV Withdraws 157 Malware Reports After Automated False Positives Hit npm and PyPI",
+      "published": "05 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1940581c5473701064bc2e00e4e2952",
+      "title": "Is digital sovereignty illusory without open source and a trusted supply chain?",
+      "link": "https://www.redhat.com/en/blog/digital-sovereignty-illusory-without-open-source-and-trusted-supply-chain",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Is digital sovereignty illusory without open source and a trusted supply chain?",
+      "published": "05 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c49015dc5259600d6c76b3d77c5cb37d",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 High-Throughput Graph Abstraction at Netflix: Part I",
+      "published": "05 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f8bb7cb7faca9e7870ae2728d4b603e",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
+      "published": "05 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a65d40936a0b95135502b6a698357631",
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "link": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "summary": "Article URL: https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Fri, 05 Jun 2026 03:14:28 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66c2deffe4129de12094989cb099de5d",
+      "title": "The Causes of Long Covid",
+      "link": "https://www.science.org/content/blog-post/causes-long-covid",
+      "summary": "Article URL: https://www.science.org/content/blog-post/causes-long-covid Comments URL: https://news.ycombinator.com/item?id=48407451 Points: 105 # Com...",
+      "published": "Fri, 05 Jun 2026 03:04:28 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a284310674826ac561373cc90b8a166",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "link": "https://fb.watch/HxPu0fSyeH/",
+      "summary": "https://developers.meta.com/horizon/blog/build-apps-for-port... Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 203 # Comments: 64",
+      "published": "Fri, 05 Jun 2026 00:44:38 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cd514d03f14c102dbbc50bef65e5aac",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "link": "https://github.com/alibaba/open-code-review",
+      "summary": "Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 161 # Comments: 36",
+      "published": "Fri, 05 Jun 2026 00:04:29 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "96292139d6ad319b035e3721ebdf2355",
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "link": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "summary": "Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comment...",
+      "published": "Thu, 04 Jun 2026 23:45:56 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e434f0488bbf0a616e186bd58ba84067",
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation Comments URL: https://n...",
+      "published": "Thu, 04 Jun 2026 22:48:19 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f14063f067bcd395afa4dc00db3d9da",
+      "title": "IPv6 zones in URLs are a mistake",
+      "link": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 119 # Comments: 91",
+      "published": "Thu, 04 Jun 2026 21:42:34 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "923e9109aef3ad8fbf95aa94828d2f3b",
+      "title": "WSL 2 is getting faster Windows file system access",
+      "link": "https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/",
+      "summary": "Article URL: https://www.boxofcables.dev/wsl2-per-device-swiotlb-pools-for-virtiofs-and-virtioproxy/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Thu, 04 Jun 2026 19:21:18 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "647a8065ce962b14ea807b2bab6a4be5",
+      "title": "乗るだけ体組成計スマートバスマットに新モデル、AIで体重変動を先読み 交換マット無料や二台め30%オフ特典の発売記念キャンペーン実施",
+      "link": "https://www.techno-edge.net/article/2026/06/05/5149.html",
+      "summary": "日本のスタートアップ issin が販売するスマート体重計・体組成計 スマートバスマットに、機能をアップデートした新モデル「スマートバスマット(2026)」が加わりました。",
+      "published": "Fri, 05 Jun 2026 16:22:02 +0900",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "91084fa3a12ddbd50c72b746bd99f15b",
+      "title": "Amazon Cognito マルチリージョンレプリケーションを利用して、アプリケーションの回復力の向上を実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/improve-your-application-resilience-with-amazon-cognito-multi-region-replication/",
+      "summary": "ウェブアプリケーションおよびモバイルアプリのデベロッパーと連携するデベロッパーアドボケートとして、私は、リージ […]",
+      "published": "Fri, 05 Jun 2026 04:51:19 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "295901439f8df7a6be0834cff1af8c1b",
+      "title": "Amazon Bedrock 上で OpenAI の GPT-5.5 モデル、GPT-5.4 モデル、Codex の使用を開始する",
+      "link": "https://aws.amazon.com/jp/blogs/news/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/",
+      "summary": "OpenAIの最先端モデルであるGPT-5.5とGPT-5.4、そしてOpenAIのコーディングエージェントであるCodexが、Amazon Bedrockで一般提供開始となりました。Bedrockの高性能推論エンジンに、セキュリティ、ガバナンス、トークン単位の料金体系を組み込んだ状態で、最先端モデ...",
+      "published": "Fri, 05 Jun 2026 04:24:52 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f48532350a0323147f2d0b4b8f0747d0",
+      "title": "ポスト量子暗号で将来の量子リスクからシークレットを守る",
+      "link": "https://aws.amazon.com/jp/blogs/news/protecting-your-secrets-from-tomorrows-quantum-risks/",
+      "summary": "AWS Secrets Manager が ML-KEM を使用したハイブリッドポスト量子鍵交換をデフォルトで有効化しました。これにより harvest now, decrypt later (HNDL) 攻撃から将来の量子コンピュータの脅威に備えてシークレットを保護します。Secrets Mana...",
+      "published": "Fri, 05 Jun 2026 04:12:08 +0000",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae99d4624d5670c0212348229c04ebba",
+      "title": "「もうたくさんだ」ブラウザーベンダー各社、Edgeをゴリ押しするMicrosoftに異例の申し入れ【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2114710.html",
+      "summary": "",
+      "published": "2026-06-05T03:05:22Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5b68fb6c2474f5d55653fb7c2ebfb39",
+      "title": "プレス発表 ブランドアイデンティティの刷新について | プレスリリース | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/pressrelease/2026/press20260605-2.html",
+      "summary": "新英語名称「Innovation Platform Agency」、タグライン「Beyond Digital」、新ロゴへ刷新 独立行政法人情報処理推進機構（IPA、理事長: 齊藤裕）は、IPAに求められる役割の広がりを踏まえ、新たなブランドアイデンティティを策定しました。 新たなタグラインとして「B...",
+      "published": "2026-06-05T04:09:00Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e76bf11b6b6cfd577d457dee2d5dfc37",
+      "title": "「Google Chrome 149」の脆弱性修正はなんと429件、できるだけ早めの更新を／致命的なものも22件",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2114658.html",
+      "summary": "",
+      "published": "2026-06-05T01:46:13Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "025198066b5902a93565a88e7fceaabe",
+      "title": "PostgreSQL 15から18までの主要な新機能紹介 - そーだいなるらくがき帳",
+      "link": "https://soudai.hatenablog.com/entry/2026/06/04/234835",
+      "summary": "PostgreSQL 15以降 *1 にも、ソフトウェア開発者やDBAが知っておくとよい機能が増えている。 全部を覚える必要はないが、設計や運用の選択肢として知っておくと良い機能をいくつか紹介する。 PostgreSQL 15 なんと言っても UNIQUE NULLS NOT DISTINCT はD...",
+      "published": "2026-06-05T02:58:03Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69b4651a587322d70091dac9b354fa3b",
+      "title": "カード番号総当たり「クレジットマスター攻撃」に注意、利用履歴の確認を Kyash",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news106.html",
+      "summary": "スマートフォンアプリを通じてVisaプリペイドカード決済ができるサービス「Kyash」提供元は6月4日、クレジットカード番号などを機械的に推測して不正な決済を試みる「クレジットマスター攻撃」による被害を確認したと発表した。 ユーザーに対し、アプリ内の利用履歴を定期的に確認し、身に覚えのない利用がない...",
+      "published": "2026-06-05T06:45:47Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4548a3fe9ab6c4b559eef550bb82d83c",
+      "title": "アンソロピック、｢AI開発減速｣提言 OpenAIは政府規制強化を訴え - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN04D5P0U6A600C2000000/",
+      "summary": "米新興アンソロピックは4日、人工知能（AI）の暴走リスクを抑えるには開発の一時停止や減速が有効だと提言した。競合の米オープンAIも政府の監視強化を求めた。AIの進化が早く、開発企業が自ら「ブレーキ」の必要性を訴える事態となっている。AIの「自己改良」で暴走リスクアンソロピックは4日公開のブログで「技...",
+      "published": "2026-06-05T05:12:59Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a218c9d9dc0957b55c65c2cf249a4749",
+      "title": "[AI解説]左翼系団体の「集団無責任体制」",
+      "link": "https://anond.hatelabo.jp/20260605071732",
+      "summary": "極左・左翼系団体の「集団無責任体制」とは、任意団体・連合体・緩やかなネットワーク構造を活用し、組織としての明確な指揮命令・責任所在を意図的に曖昧にすることで、事故・違法行為・批判時の責任を分散・回避する仕組みです。 特に沖縄反基地運動や反開発闘争で顕著で、「市民の集合体」「多様なボランティア」を盾....",
+      "published": "2026-06-04T22:18:02Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ca0e1e2419cf1f4b16520af766c916",
+      "title": "GoogleがAIとセッションできる音楽生成AI「Magenta RealTime 2」を公開＆DAWプラグインや楽器アプリも無料公開",
+      "link": "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/",
+      "summary": "Googleが音楽生成AIモデル「Magenta RealTime 2」を2026年6月4日に公開しました。合わせて、Magenta RealTime 2を実行できる楽器アプリやDAWプラグインも無料公開されています。 Magenta RealTime 2: Open & Local Live Mu...",
+      "published": "2026-06-05T05:19:46Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07305cde681577c30a331797ed9c9945",
+      "title": "【重要】HTTP/2の脆弱性対策に伴う、サーバー設定一時変更のお知らせ | さくらインターネット",
+      "link": "https://www.sakura.ad.jp/corporate/information/announcements/2026/06/05/1968224837/",
+      "summary": "お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 「さくらのレンタルサーバ」で利用されているHTTP/2通信に関して、外部からの攻撃によりサービスが停止する可能性がある脆弱性が公表されました。 本脆弱性への暫定対策として、弊社では対象サービスにおけるHTTP/2...",
+      "published": "2026-06-05T01:54:53Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "113ecebf840829b143542702dcd07eb9",
+      "title": "クロード・ミュトス 日本の大手セキュリティー会社も導入発表 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015141271000",
+      "summary": "日本の大手セキュリティー会社は、高性能でサイバー攻撃に悪用された場合の深刻なリスクが懸念されている最新のAIモデル「クロード・ミュトス」を導入すると発表し、セキュリティー対策の強化に活用していくことに…",
+      "published": "2026-06-04T23:49:09Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6f0aa2cf9163070a783afa5cdaed93c",
+      "title": "「安心して外食もできない」──はま寿司での“洗剤動画”に怒りの声 広報は「到底容認できない」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/05/news067.html",
+      "summary": "大手回転すしチェーン「はま寿司」で、レーン上のすしに食器用洗剤のような液体をかける動画がSNSに投稿され、大きな波紋を呼んだ。極めて不衛生な行為をした人物が、威力業務妨害の疑いで逮捕されたが、過去の「スシロー」や「くら寿司」などでの騒動から結局何も変わっていない現状に対し、ネット上では怒りや嘆きの声...",
+      "published": "2026-06-04T20:02:57Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3c8d7ba883e4700235b28342412455c",
+      "title": "新「マイナアプリ」アイコン公開 「マイナちゃん」消える",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news097.html",
+      "summary": "マイナアプリは、現行の「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合したもの。マイナンバーカードを使った手続き時には、2つのアプリを使い分ける必要があったが、マイナアプリで1つに統合され、操作がシンプルになる。 マイナアプリのアイコンは、背景にピンクから薄い黄色へのグラデーションを採用...",
+      "published": "2026-06-05T05:53:55Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fab590148fe9bec13954c1c8496ee84",
+      "title": "転職しました | Memory ice cubes",
+      "link": "https://leaysgur.github.io/posts/2026/06/05/103802/",
+      "summary": "タイトルは恒例のやつ。 これはAIには書けないネタでは？！というわけで、久々のブログを記念に書き残しておく。 いままで VoidZero | The Javascript Tooling company https://voidzero.dev/ VoidZeroという会社で、OxfmtやOxc、V...",
+      "published": "2026-06-05T02:22:57Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "094e5105e01032c1442ed8458972111f",
+      "title": "「FILCO」のダイヤテックは「忸怩たる破産」だった TSR「背景に為替デリバティブの失敗と需要減」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/05/news083.html",
+      "summary": "メカニカルキーボード「FILCO」ブランドで知られるダイヤテックの破産について、東京商工リサーチ（TSR）が6月3日、独自に入手したという破産申立書の内容をもとに詳報した（TSRの記事：キーボード「FILCO」のダイヤテック、忸怩たる破産 ～ 為替デリバティブと需要減、綱渡りの資金繰り ～）。 経営...",
+      "published": "2026-06-05T03:14:27Z",
+      "fetched_at": "2026-06-05T08:00:20.066314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-05T02:41:05.050479+00:00"
+  "updated_at": "2026-06-05T08:00:20.066314+00:00"
 }

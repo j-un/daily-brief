@@ -29,7 +29,207 @@
       "fetched_at": "2026-06-05T22:59:33.725720+00:00",
       "feed_name": "Hacker News (100pts+)",
       "category": "main"
+    },
+    {
+      "entry_id": "ec28de3afaeafce2077a237f8fd89cca",
+      "title": "Beyond the Menu Tree: How Yelp Built a Smarter Customer Success Chatbot with AI",
+      "link": "https://engineeringblog.yelp.com/2026/05/beyond-menu-tree.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Beyond the Menu Tree: How Yelp Built a Smarter Customer Success Chatbot with AI",
+      "published": "06 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37f85ee435cd46051147abe26d5e9ad9",
+      "title": "GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians",
+      "link": "https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians",
+      "published": "05 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba2dfe96d65c86c29e256f63fd10f990",
+      "title": "U.S. Military Turned GPS into a Global \"Numbers Station\"",
+      "link": "https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/",
+      "summary": "Article URL: https://www.404media.co/the-u-s-military-quietly-turned-gps-into-a-global-numbers-station-evidence-suggests/ Comments URL: https://news.y...",
+      "published": "Fri, 05 Jun 2026 16:06:36 +0000",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "171865b80b34fba134ab31b5c563dfb7",
+      "title": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/",
+      "summary": "Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed te...",
+      "published": "Fri, 05 Jun 2026 22:25:00 GMT",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "29d0a6a58ace9fa025f05ef8399a40ca",
+      "title": "Amazon OpenSearch UI is now available in GovCloud regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region",
+      "summary": "Amazon OpenSearch Service expands its modernized operational analytics experience to GovCloud regions, including AWS GovCloud (US-East) and AWS GovClo...",
+      "published": "Fri, 05 Jun 2026 20:40:00 GMT",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ae8aba38eeb9798fa124186e2e7900d",
+      "title": "アンソロピック、AI開発の「減速」を提言",
+      "link": "https://www.watch.impress.co.jp/docs/news/2115005.html",
+      "summary": "",
+      "published": "2026-06-05T15:35:16Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92321139ecb3cba9c0a524a039f555ae",
+      "title": "エディタを Zed に乗り換えてみた",
+      "link": "https://azukiazusa.dev/blog/editor-zed/",
+      "summary": "Zed は Rust で書かれたネイティブアプリケーションで、非常に高速な動作と軽量な設計が特徴の新しいエディタです。この記事では、Zed のインストール方法と、実際に使ってみて感じた主要な機能や特徴について紹介していきたいと思います。 思えばエンジニアとして生を受けてから、大半の時間を Visua...",
+      "published": "2026-06-05T15:11:55Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "78cdb86b57bbe3bb3529db8f3b43eadc",
+      "title": "「AIにより雇用が崩壊することはない」と経済学者が語る",
+      "link": "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/",
+      "summary": "生成AIの登場により複数の企業がAIの導入を理由に人員削減を実施しており、これにはMeta・HP・Cisco・GitLabといった企業も含まれます。このままいけば雇用が崩壊すると考える人もいますが、労働経済学者のキャスリン・アン・エドワーズ氏はこの説に反対しており、その理由を語りました。 An ec...",
+      "published": "2026-06-05T02:09:09Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c9435f231aea9053ce7f70f7edfe240",
+      "title": "新たなRPG開発ツール「RPG-Cobo」発表。ベテラン開発者のノウハウ結集、プログラミングの知識不要で3D RPGを制作できる - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260605-447381/",
+      "summary": "株式会社スーパーシャークは6月5日、RPG開発ツール「RPG-Cobo」を発表した。本日よりベータテストが開始され、誰でも無料で参加可能。 本製品は、誰でも直感的に3D RPGを制作できるよう設計されたというRPG開発プラットフォームだ。RPG制作に必要な機能をワンパッケージで提供するとのこと。 「...",
+      "published": "2026-06-05T09:37:30Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bc7189286f87730c3429bdc5c58bc1d",
+      "title": "Google検索に「公式プロフィール」機能が登場、サイトやSNSへの投稿を1か所で追えるように",
+      "link": "https://gigazine.net/news/20260605-google-search-profile/",
+      "summary": "Googleがウェブサイト運営者やパブリッシャー、クリエイターの公式情報をGoogle検索上でまとめて表示できる新機能「Search profiles」を発表しました。Search profilesでは記事、動画、SNS投稿など複数の場所に分かれているコンテンツを1つのプロフィールに集約し、読者がG...",
+      "published": "2026-06-05T07:24:44Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "132a2dc9e39184f972c146d26492d191",
+      "title": "ChatGPTのメモリ機能が賢くアップデートされる、「ユーザーの好みに合わせる能力」や「古い情報を適切に忘れる能力」が向上",
+      "link": "https://gigazine.net/news/20260605-chatgpt-memory-dreaming-v3/",
+      "summary": "OpenAIがChatGPTのメモリ機能のアップデートを発表しました。新たなメモリ機能は「Dreaming V3」と呼ばれており、ユーザーが明示的に記憶を指示せずともチャット履歴から自動的に判断してメモリを蓄積してくれます。さらに、メモリの要点をまとめた画面から内容を編集することも可能となりました。...",
+      "published": "2026-06-05T03:31:29Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08b8272ccb526a45e5c7bf2d8548545e",
+      "title": "Redditに宣伝コンテンツを大量投稿してChatGPTやGoogleのAI検索結果を操作する事例が増えている",
+      "link": "https://gigazine.net/news/20260605-companies-reddit-manipulate-chatgpt-google-ai-search/",
+      "summary": "Google検索の「AIによる概要」や「AIモード」のように、従来のブラウザ検索がAI検索に取って代わられつつあるため、通常の検索エンジン最適化(SEO)ではなくAI検索結果を最適化する「回答エンジン最適化(AEO)」が注目されています。「企業はAEOのためにRedditに宣伝コンテンツを大量投入し...",
+      "published": "2026-06-05T05:21:47Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb1e2c1b5702f11b34f904e49641897c",
+      "title": "漫画家協会WEB｜会員向け相談フォームへの質問と回答例｜日本漫画家協会",
+      "link": "https://note.com/mangaka_kyokai/n/nf90233eb4545",
+      "summary": "2024年5月に漫画家協会の公式サイトに設置いたしました「会員向け相談フォーム」に寄せられたいくつかの質問と回答例です。 初めての出版契約における助言や、フリーランス新法に基づいたアシスタントへの発注方法など、現在トラブルを抱えていない作家の皆様も是非目を通してみてください。 ※2026年6月5日 ...",
+      "published": "2026-06-05T11:32:24Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0fbef544ba4214655c47cee82fd89f0",
+      "title": "「どのLLMがロシアのプロパガンダに対抗するのに優れているか？」がわかるベンチマークをエストニア政府が発表",
+      "link": "https://gigazine.net/news/20260605-llm-resisting-russian-propaganda/",
+      "summary": "エストニア言語研究所が、大規模言語モデルのロシア宣伝への耐性を測る「Propaganda Resistance」ベンチマークを公開しました。その結果、AnthropicのClaude Opus 4.7が総合首位となり、NVIDIAやAlibabaのモデルも上位に入りました。 Propaganda­k...",
+      "published": "2026-06-05T12:40:00Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1800217653b051332d55e5e0743468a3",
+      "title": "63％の人々が心理的なサポートを求めてAIを利用したことがあり42％はAIのアドバイスに常に従うとの調査結果",
+      "link": "https://gigazine.net/news/20260605-people-turn-to-ai-psychological-support/",
+      "summary": "ChatGPTやGeminiといったAIはまるで人間のようなやり取りが可能であり、日々の相談相手や話し相手としてAIを活用する人もいます。新たに、フランスの金融・保険グループのアクサと市場調査企業のIPSOSが発表したレポートで、なんと63％もの人々が心理的なサポートを求めてAIを利用していることが...",
+      "published": "2026-06-04T23:58:47Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c87ddfc993718cc1f2e7935efb6e8423",
+      "title": "Amazonが次世代倉庫ロボット「Proteus」を欧州に導入、AI搭載の言語機能を搭載し作業員がロボットにタスクを割り当てることが可能",
+      "link": "https://gigazine.net/news/20260605-amazon-robot-proteus/",
+      "summary": "Amazonはロンドンで2026年6月4日に開催された物流技術見本市「Delivering the Future」で、欧州の物流網を近代化する新たなロボット技術と配送サービス拡大を発表しました。欧州のフルフィルメントセンターには約117億ドル(約1兆8100億円)を投じ、今後数年で2万5000人の雇...",
+      "published": "2026-06-05T06:56:18Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa2770a07d7e65ddb44d5c4d6f172bcd",
+      "title": "Amazonやウーバー、社員の｢AI無駄遣い｣抑制 1人月24万円の制限も - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN310HS0R30C26A5000000/",
+      "summary": "【シリコンバレー=山田遼太郎】社員に人工知能（AI）の積極利用を促してきた米テック企業が無駄遣いの抑制に転換し始めた。長時間動き続けるAIエージェントの費用が高額なためで、利用企業に導入効果の見極めを促している。アマゾン、「社員のAI利用量ランキング」廃止「AIを使うこと自体を目的化するのはやめてく...",
+      "published": "2026-06-05T18:46:32Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61fb2f18936e917f9f22ac7b3ff0783d",
+      "title": "ミュトスがあれば安全なのか LayerXが語るAIサイバー防御",
+      "link": "https://www.watch.impress.co.jp/docs/news/2114908.html",
+      "summary": "",
+      "published": "2026-06-05T13:49:00Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "357f1d60a62567cc56016adc6125068c",
+      "title": "なぜ？ 「PayPay改悪」といまネットで騒がれている理由 ユーザーがすべき対策を解説",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/05/news125.html",
+      "summary": "6月2日から、Yahoo!ショッピングなどで付与される「PayPayステップ」のポイント付与条件が変更された。この変更に伴い、X（旧Twitter）などのSNS上ではユーザーから「PayPay改悪」という声が上がり、大きな話題を呼んでいる。今回のルール変更では、具体的に何が変わったのだろうか――。変...",
+      "published": "2026-06-05T12:05:13Z",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71103c9d6fa808eaeef2888f453e668e",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 withast…",
+      "link": "https://github.com/withastro/flue",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 withastro / flue ⭐ 4,512 (+126) 🗒 TypeScript The sandbox agent framework.",
+      "published": "06 Jun 2026 00:16 +0000",
+      "fetched_at": "2026-06-06T02:28:59.832629+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-05T22:59:33.725720+00:00"
+  "updated_at": "2026-06-06T02:28:59.832629+00:00"
 }

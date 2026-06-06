@@ -659,7 +659,77 @@
       "fetched_at": "2026-06-06T15:07:29.555011+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bcffa4aa2b44b4001e91905be652efa7",
+      "title": "Moving beyond fork() + exec()",
+      "link": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/ Comments URL: https://news.ycombinator.com/item?id=48425528 Points: 108 # Commen...",
+      "published": "Sat, 06 Jun 2026 14:34:20 +0000",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28ecaa38fab664dff31c23080d40e1a4",
+      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
+      "link": "https://pokeemerald.com/",
+      "summary": "Article URL: https://pokeemerald.com/ Comments URL: https://news.ycombinator.com/item?id=48423762 Points: 119 # Comments: 34",
+      "published": "Sat, 06 Jun 2026 11:12:58 +0000",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ad491560d665a3df5fda33e17f9bef0",
+      "title": "なぜ、AIは頭が良い人が使うとより頭が良くなるのに、頭が悪い人が使うとより頭が悪くなるのか？",
+      "link": "https://zenn.dev/pdfractal/articles/373be6a9de3e8c",
+      "summary": "はじめに 本題でいう「頭が良くなる」「頭が悪くなる」は、先天的な知能そのものが上下するという意味ではありません。問題になっているのは、AIを使うことで 判断主権 を自分の手元に残す人と、外へ渡してしまう人の差が拡大することです。2025年のMicrosoft Researchの調査でも、生成AIへの...",
+      "published": "2026-06-06T13:39:59Z",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af11f901be1f8666d59df0feacc4c86e",
+      "title": "`/goal` コマンドの活用例: Vitest の実行時間を 6 倍高速化した話",
+      "link": "https://azukiazusa.dev/blog/goal-command-use-case-vitest/",
+      "summary": "Vitest の `isolate: false` オプションを有効にすることで、テストの実行時間を大幅に短縮できましたが、その際に大規模なコードの修正が必要でした。Claude Code の `/goal` コマンドを活用することで、最終的なゴールを達成するために必要なステップを自律的に判断して実...",
+      "published": "2026-06-06T10:46:56Z",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22fd0cd5b3d9a7f96d7326ade30c6971",
+      "title": "Claude Code (Opus 4.8) で全ツール呼び出しが壊れる — 日本語環境で踏みやすい未修正バグと回避策",
+      "link": "https://zenn.dev/edhiblemeer/articles/claude-code-opus48-tool-corruption",
+      "summary": "長時間・常時起動でClaude Codeを使っていると、ある時からすべてのツール呼び出しが壊れて動かなくなることがある。日本語環境で複数のセッションを何時間も回していて、実際にこれを踏んだ。原因と回避策が分かったので、特に日本語ユーザーが踏みやすい点を含めて共有する。 起きること function ...",
+      "published": "2026-06-05T00:31:02Z",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2abd2d957a25723f29ffabae41263520",
+      "title": "Why Open Dataspaces: 設計思想とアーキテクチャパラダイム（2026年4月1日） | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/digital/architecture/reports/open-dataspaces-design-philosophy.html",
+      "summary": "独立行政法人情報処理推進機構デジタルアーキテクチャ・デザインセンターは、国や組織ごとの多様性を尊重する、オープンでスケーラブルな分散データマネジメントの技術コンセプトであるOpen Data Spacesの設計思想/アーキテクチャパラダイムの解説文書「Why Open Dataspaces: 設計思...",
+      "published": "2026-04-01T13:53:30Z",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f43dc28dacfdd0a33e2138b5a469757f",
+      "title": "📦 sveltejs / svelte ⭐ 86,880 (+34) 🗒 Jav…",
+      "link": "https://github.com/sveltejs/svelte",
+      "summary": "📦 sveltejs / svelte ⭐ 86,880 (+34) 🗒 JavaScript web development for the rest of us",
+      "published": "06 Jun 2026 15:16 +0000",
+      "fetched_at": "2026-06-06T17:02:12.425291+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-06T15:07:29.555011+00:00"
+  "updated_at": "2026-06-06T17:02:12.425291+00:00"
 }

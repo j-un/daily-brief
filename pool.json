@@ -599,7 +599,397 @@
       "fetched_at": "2026-06-07T10:22:47.183183+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d9c043afadbedf120cf11049b85736ed",
+      "title": "Claude Code Skill「cc-rsg」をWeb化した話 — OpenHandsという発見",
+      "link": "https://zenn.dev/daishiro/articles/openhands-cc-rsg-webapp",
+      "summary": "OpenDevinと呼ばれていたのが今はOpenHandsになっていると。ほう",
+      "published": "07 Jun 2026 13:25 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5813faba2c7bb2e0d4fd80c4722f16d",
+      "title": "カフェで見る「Wi-Fi接続QRコード」の仕組みを調べてみた #Python - Qiita",
+      "link": "https://qiita.com/y-tsukahara_palettelink/items/2dc91c5217ae52ef16c1",
+      "summary": "Wi-Fi接続用QRコードは自作できる。わいわい。",
+      "published": "07 Jun 2026 13:20 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "961b3877f55cc724dba2569a99da2a61",
+      "title": "AIエージェントのトークン代を節約するNetflixのエンジニアが作ったツール「Headroom」について調べてみた #LLM - Qiita",
+      "link": "https://qiita.com/shinkai_/items/61b10d10c63db47a64e7",
+      "summary": "chopratejas/headroom。「JSON・DB結果・ログでは大きな効果が期待できる」",
+      "published": "07 Jun 2026 13:17 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dc67623b9b7b0f946ca941815183389",
+      "title": "Product Security Square #5 | GMO Flatt Security - connpass",
+      "link": "https://flatt.connpass.com/event/393895/",
+      "summary": "現地開催",
+      "published": "07 Jun 2026 13:13 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b3bd927ca4583a8d675903e23fbf7c5",
+      "title": "日本MySQLユーザ会会(MyNA会) 2026年06月 - connpass",
+      "link": "https://mysql.connpass.com/event/395442/",
+      "summary": "現地/オンライン",
+      "published": "07 Jun 2026 13:11 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bd0259f38e41921f3e450e58406c583",
+      "title": "MySQLアンカンファレンス #013 - connpass",
+      "link": "https://mysql-unconference.connpass.com/event/396211/",
+      "summary": "オンライン開催",
+      "published": "07 Jun 2026 13:11 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6479d32fa66962d235ebfa6992ddaad5",
+      "title": "YonaYona Infra Night - connpass",
+      "link": "https://yonayona.connpass.com/event/395805/",
+      "summary": "「Azure・Microsoft 製品に興味がある方／LT で気軽に話したい方」オンライン開催。",
+      "published": "07 Jun 2026 13:10 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "970d24c546794a1d51de7b1b70d41bec",
+      "title": "AI効果検証 meet up！#2〜どんな指標を・どのように読み解き、改善に繋げるか〜 - connpass",
+      "link": "https://findy-aiplus.connpass.com/event/396155/",
+      "summary": "現地/オンライン",
+      "published": "07 Jun 2026 13:08 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25b4db54a5bcdf740a8fc3c152591322",
+      "title": "ホンマでっかSRE勉強会 #1 - connpass",
+      "link": "https://honmadekka.connpass.com/event/395755/",
+      "summary": "現地開催（はてな 京都オフィス）",
+      "published": "07 Jun 2026 13:07 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf7f1295fecfb305fd607829a539636f",
+      "title": "io_uringを最大限活用したHTTPSサーバ実装。実装言語はRust。…",
+      "link": "https://github.com/losfair/zeroserve",
+      "summary": "io_uringを最大限活用したHTTPSサーバ実装。実装言語はRust。",
+      "published": "07 Jun 2026 12:58 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a051d69737131e98d333fc240a3cdd6",
+      "title": "SQLでワークフローを書けるPostgreSQL拡張。SQLらしくチェックポイン…",
+      "link": "https://github.com/microsoft/pg_durable",
+      "summary": "SQLでワークフローを書けるPostgreSQL拡張。SQLらしくチェックポイントを挟むことができてサーバ再起動などがあっても再開可能。Microsoftがこういう拡張を用意するの感慨深いな。Azure HorizonDBで使えるらしい。",
+      "published": "07 Jun 2026 12:49 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe76024af1d053bd1672815f67866b21",
+      "title": "pip installでインストールできないツール(ripgrepなど)もpyp…",
+      "link": "https://github.com/prostomarkeloff/ohbin",
+      "summary": "pip installでインストールできないツール(ripgrepなど)もpyproject.tomlで一括して扱えるようにするためのuv支援ツール。",
+      "published": "07 Jun 2026 12:44 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f724b49e4a316dec22c12d3c48254e1d",
+      "title": "Amazon ECSを管理するためのデスクトップIDEアプリ。AWSのマネジメン…",
+      "link": "https://github.com/utibeabasi6/mercek",
+      "summary": "Amazon ECSを管理するためのデスクトップIDEアプリ。AWSのマネジメントコンソールは反応が遅いので作ったと。現時点でmacOS用、Windows対応も検討中。",
+      "published": "07 Jun 2026 12:40 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "56e49d50d863b5df15e8eef36502a7b7",
+      "title": "ブラウザで動作するffmpegのGUIクライアント。ffmpeg.wasmが動作…",
+      "link": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "summary": "ブラウザで動作するffmpegのGUIクライアント。ffmpeg.wasmが動作と。どこでも気軽に使えるのがウリか。COOP/COEPを設定しているので一応マルチコアCPUも使える模様。",
+      "published": "07 Jun 2026 12:37 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e60137e55ddab2e7f3531230cef6a7df",
+      "title": "Pluto.jl — interactive Julia programming environment",
+      "link": "https://plutojl.org/",
+      "summary": "インタラクティブな動作が可能なJupyter Notebook代替。Julia",
+      "published": "07 Jun 2026 12:27 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79c44a3e94ea04cdd6ed528252545f87",
+      "title": "NVIDIA製グラフィックボード上のVRAMをswap領域として使えるLinux…",
+      "link": "https://github.com/c0dejedi/nbd-vram",
+      "summary": "NVIDIA製グラフィックボード上のVRAMをswap領域として使えるLinux向けツール。NVMeと比べるとIOPSはやや劣るがレイテンシーは27倍高速と。",
+      "published": "07 Jun 2026 12:20 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0252f3656549771701846e5295225d07",
+      "title": "Tyblog | You Don't Love systemd Timers Enough",
+      "link": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+      "summary": "汝のsystemdタイマーを愛せよ。cronよりもいいとこいっぱいあるから。せやな。",
+      "published": "07 Jun 2026 12:02 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35f21a00e8cb48b0aca2cf05695473d1",
+      "title": "straceのTUIクライアントだ。良さそう。OCaml実装。…",
+      "link": "https://github.com/janestreet/strace_ui",
+      "summary": "straceのTUIクライアントだ。良さそう。OCaml実装。",
+      "published": "07 Jun 2026 11:57 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19ace54141c0b10e178357e8d34fc0c7",
+      "title": "PostgreSQLからWALを受け取ってParquetファイルを生成して随時S…",
+      "link": "https://github.com/viggy28/streambed",
+      "summary": "PostgreSQLからWALを受け取ってParquetファイルを生成して随時S3にIcebergとして保存するアプリケーション。Go実装。",
+      "published": "07 Jun 2026 11:54 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b3799dfd017cab9656b4a61d676fd50",
+      "title": "AWS Innovation Sandbox (ISB) を構築してみた！",
+      "link": "https://zenn.dev/kairim/articles/35dd71c526b64f",
+      "summary": "「開発者がリスクを気にせず迅速に実験・検証を行えるように設計された、安全でコスト効率の高い一時的なサンドボックス環境を自動提供・管理するAWSソリューション」ほう",
+      "published": "07 Jun 2026 11:46 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "526a22a1fd25a3a1b171e38c3da21065",
+      "title": "whoisが無ェ、RDAPは何者だ？",
+      "link": "https://zenn.dev/digeon/articles/fb563703bcfc96",
+      "summary": "「お名前でドメインを取ってはいけない（戒め）」ｱｯﾊｲ",
+      "published": "07 Jun 2026 11:38 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "791d152409424ac664a0e6ea0c3432a2",
+      "title": "CDKをやめてTerraformに移行しようか迷っている話 vol.1",
+      "link": "https://zenn.dev/rrrraaaaa6/articles/5a8a540a864d83",
+      "summary": "CDKの苦しいところ。カスタムリソースのLambdaのランタイムEOLは厳しい。",
+      "published": "07 Jun 2026 10:59 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e63ed85066c2ed896b921a6fdfa98a4b",
+      "title": "WSL 2、Windows ファイルシステムアクセスが大幅改善へ | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/wsl2-virtiofs-speedup/",
+      "summary": "現時点ではWSLからWindows側のファイルシステムを読みにいく場合に高速化と。なるほど。",
+      "published": "07 Jun 2026 10:52 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "97fe6fb1369db9ea86f883938f1ada15",
+      "title": "マージコンフリクト解決のためのTUIツール。easy conflictを略してe…",
+      "link": "https://github.com/chojs23/ec",
+      "summary": "マージコンフリクト解決のためのTUIツール。easy conflictを略してecと。Go実装",
+      "published": "07 Jun 2026 10:45 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a78bbcbf2d7a32d34cb0eba3f009fcd4",
+      "title": "SOCやセキュリティ研究者のためのTUIベースのモニタリングシステムかな。各種シ…",
+      "link": "https://github.com/gripebomb/ThreatDeck",
+      "summary": "SOCやセキュリティ研究者のためのTUIベースのモニタリングシステムかな。各種ショートカットが用意されているので慣れれば使いやすそうではある。Rust実装。",
+      "published": "07 Jun 2026 10:40 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9432fdd61925130be4a22d6bda5db0a8",
+      "title": "Vim Classic",
+      "link": "https://vim-classic.org/",
+      "summary": "生成AIを使わずにメンテしていくことを目指すVim forkか。",
+      "published": "07 Jun 2026 10:25 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e28dae1397ce40e9a95acdfb5689e10f",
+      "title": "Amazon ElastiCache for Valkey の耐久性機能のお知らせ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-durability-for-amazon-elasticache/",
+      "summary": "公式ブログ記事きてた",
+      "published": "07 Jun 2026 10:22 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5fcf532481e83797eaa508852200235",
+      "title": "ECS Exec のセッションログを専用 S3 バケットへ分離する - MNTSQ Techブログ",
+      "link": "https://tech.mntsq.co.jp/entry/2026/05/29/094912",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ECS Exec のセッションログを専用 S3 バケットへ分離する",
+      "published": "07 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "84f72f9832a136d7c80741acfd9539b1",
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "summary": "Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/ Comments URL: https://...",
+      "published": "Sun, 07 Jun 2026 12:49:29 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5685c56f0727c8d58f9be267f6f54439",
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "link": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/ Comments URL: http...",
+      "published": "Sun, 07 Jun 2026 10:10:33 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80196890dcabe9cb53991c5d3faeab6c",
+      "title": "The circus freaks of open source",
+      "link": "https://drewdevault.com/blog/Circus-freaks-of-FOSS/",
+      "summary": "Article URL: https://drewdevault.com/blog/Circus-freaks-of-FOSS/ Comments URL: https://news.ycombinator.com/item?id=48431952 Points: 104 # Comments: 3...",
+      "published": "Sun, 07 Jun 2026 04:57:02 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75471a6be22c280a3ce9d3a532e132a3",
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "link": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "summary": "Article URL: https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses Comments URL: https://news.ycombinator.com/item?id=484312...",
+      "published": "Sun, 07 Jun 2026 02:46:37 +0000",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3baa61ba4690980e2a83b903c4713b51",
+      "title": "React、まだ楽しくて草",
+      "link": "https://speakerdeck.com/uhyo/react-madale-sikutecao",
+      "summary": "フロントエンド・PHPカンファレンス北海道2026",
+      "published": "2026-06-07T02:37:00Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cf8a49302a6e3926bc294c1f08fb6c1",
+      "title": "決済プラットフォームと経理を繋ぐ MoneyFlow | メルカリエンジニアリング",
+      "link": "https://engineering.mercari.com/blog/entry/20260605-moneyflow-bridging-payment-and-accounting/",
+      "summary": "こんにちは、Merpay の Payment Core チームと Payment Solution チームで Engineering Manager (EM) をやっている komatsu です。普段は決済基盤や決済体験の開発をするチームを見ていたり、最近は PCP Foundation というチー...",
+      "published": "2026-06-07T04:53:30Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f03236b4b1c916ae9814d1cc80d753e",
+      "title": "AIコードレビューツール「Open Code Review」、既存のAIに各種ルールを設定してレビュー能力を底上げ可能＆Alibabaグループで100万件のコード欠陥を検出済み",
+      "link": "https://gigazine.net/news/20260607-open-code-review/",
+      "summary": "AIエージェントを用いたソフトウェア開発が爆発的に普及しつつあり、コードレビューも人力ではなくAIに任せる流れができつつあります。しかし、AIを用いたコードレビューではチェック漏れや品質のばらつきが発生しがちです。そんな問題を解決するべく中国有数のテクノロジー企業であるAlibabaが開発したコード...",
+      "published": "2026-06-07T11:45:35Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cd514d03f14c102dbbc50bef65e5aac",
+      "title": "GitHub - alibaba/open-code-review: Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Ant",
+      "link": "https://github.com/alibaba/open-code-review",
+      "summary": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past tw...",
+      "published": "2026-06-05T02:43:00Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88b6d09b1c9bce8dcde8e72688aba843",
+      "title": "Gemini需要急増でGoogleがSpaceXと月額9億2000万ドルの大型契約",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news024.html",
+      "summary": "イーロン・マスク氏率いる米SpaceXは6月5日（現地時間）、米Googleとの契約により、同社にAIコンピューティング能力を提供することで、月額9億2000万ドル（約1440億円）の収益が見込まれると米証券取引委員会（SEC）への提出文書で明らかにした。 文書によると、本契約には約11万個のNVI...",
+      "published": "2026-06-07T01:02:56Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c65f6af38c447adf43aec8fb9f612ad9",
+      "title": "質感",
+      "link": "https://diary.shift-js.info/kimagure-08/",
+      "summary": "久々に手書き随想。未来の自分が振り返る用。 「質感」。 この頃は、以前に増して、ものごとの「質感」に意識が及ぶ。アルミのカトラリーはつめたく、自宅のホーロー鍋にはざらざら（あるいは、たまに落としそびれた油分の粘性）を。日々乗る総武線には東方・千葉駅の空気を。この春からの僕の相棒、MAZDA ROAD...",
+      "published": "2026-06-07T09:32:06Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a049ea2eac949b38c60010b55c3636c8",
+      "title": "Gemma 4 QAT の概要｜npaka",
+      "link": "https://note.com/npaka/n/ndeef4df16dd2",
+      "summary": "以下の記事が面白かったので、簡単にまとめました。 ・Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency 1. Gemma 4 QAT2026年6月5日、Quantization-Aware...",
+      "published": "2026-06-05T23:19:24Z",
+      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-07T10:22:47.183183+00:00"
+  "updated_at": "2026-06-07T13:25:33.444057+00:00"
 }

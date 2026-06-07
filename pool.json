@@ -369,7 +369,237 @@
       "fetched_at": "2026-06-07T07:48:49.115535+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "0ad1abb5b44e97c6f3688e02eb361f55",
+      "title": "nginx-module-acme で certbot をやめて nginx 単体で Let's Encrypt 証明書を回す",
+      "link": "https://zenn.dev/nogu_d626/articles/1b65f85700b237",
+      "summary": "nginxを複数台並べた構成だとちょっと厳しいかな。",
+      "published": "07 Jun 2026 09:57 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51e0ef5d477b6e76f278c6231cd26b87",
+      "title": "iOSで実装されている、期限切れDNSキャッシュを活用する Optimistic DNS について - ASnoKaze blog",
+      "link": "https://asnokaze.hatenablog.com/entry/2026/06/04/220002",
+      "summary": "利用はアプリケーション側のオプトイン次第と。アプリ起動時にとにかく高速に表示させたい場合の奥の手感がある。",
+      "published": "07 Jun 2026 09:50 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3adab56acaa31031f85a0c0a0ef40862",
+      "title": "Logi Options+の代替となるオープンソース実装。現時点ではmacOSが…",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "summary": "Logi Options+の代替となるオープンソース実装。現時点ではmacOSが対象かな。以前Logi Options+がクラウド側の問題で正しく動作しなくなったことがあったのでこういう代替ツールは需要があると思う。brew install --cask openlogi",
+      "published": "07 Jun 2026 09:31 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d21d778cb0020118c2eba7c9b03c362",
+      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+      "summary": "個人的には「WSLでええけどな」となりがちなんだけど、稀にPowerShell使う必要があるときにちょっと捗るとは思う。",
+      "published": "07 Jun 2026 09:24 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1900b0fd3173ef4d898668facedceaa1",
+      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+      "summary": "動画を見る限りUIインタフェースとしてもdocker互換っぽいな。Docker DesktopのWSL Integrationは魅力的だけどライセンス契約が厳しいといった大きい企業での利用が捗りそうだと思いました。",
+      "published": "07 Jun 2026 09:21 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ef78f62e914357f9266f1ec66dcd933",
+      "title": "Microsoft、AIエージェント統合の「Intelligent Terminal 0.1」を試験公開 - 窓の杜",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2113917.html",
+      "summary": "既存のエージェントはGitHub CopilotだがAgent Client Protocol(ACP)と互換性のあるエージェントならどれでも対応と。OpenCodeはACP対応だったはずなので使えそう。Geminiも標準でokらしい。",
+      "published": "07 Jun 2026 09:17 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24d28129bf0f539581a4b5576a6a4f82",
+      "title": "Webアクセシビリティの教科書 | 株式会社ボーンデジタル",
+      "link": "https://www.borndigital.co.jp/book/9784862466617/",
+      "summary": "2026年6月16日発売予定",
+      "published": "07 Jun 2026 09:12 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e58a861ec08bfb49f7f1ff3d2c33c25",
+      "title": "ターミナルから始める次世代AIコーディング Claude Code入門 - 秀和システム新社 あなたの学びをサポート！",
+      "link": "https://www.shuwasystem.co.jp/book/b677663.html",
+      "summary": "2026/nen",
+      "published": "07 Jun 2026 09:09 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cf907bc818f2fa5514cb0dda6628a71",
+      "title": "文体の一致度を評価する nao1215/omokage を作った話 | Debimate",
+      "link": "https://debimate.jp/post/ja/2026-06-02-%E6%96%87%E4%BD%93%E3%81%AE%E4%B8%80%E8%87%B4%E5%BA%A6%E3%82%92%E8%A9%95%E4%BE%A1%E3%81%99%E3%82%8Bomokage%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/",
+      "summary": "\"過去の文章から「あなたの書き方」を学習し、新しい下書きがその文体にどれだけ近いかをスコアで返してくれる CLI ツール\" わいわい",
+      "published": "07 Jun 2026 09:07 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "344d5363b504dd167345b68792f477d4",
+      "title": "kubectl describe hpa だけではつらいHPA調査を kubectl-hpa-status で短くする",
+      "link": "https://zenn.dev/mattsu2020/articles/ef8aaab702add6",
+      "summary": "わいわい",
+      "published": "07 Jun 2026 09:06 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e73abdf75eed0584f17df0d20318f2b",
+      "title": "WSLgのGUIアプリ（Chrome・Obsidian）で文字をくっきり表示し、ウィンドウの端をドラッグでリサイズする #WSL2 - Qiita",
+      "link": "https://qiita.com/vochicong/items/17a43cc51fcbac282b3c",
+      "summary": "知見だ。わいわい",
+      "published": "07 Jun 2026 09:01 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40df91ba7a169bcb4cf520487b91bf5a",
+      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+      "summary": "「接続先のクラウド側で発生するトラフィックについては接続先のクラウドにて費用が発生」するものの、500Mbps以下に帯域制限しながら利用するテクが捗りそうだ。",
+      "published": "07 Jun 2026 08:59 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e173f3b918dbc9917363aa3ec98f7e6",
+      "title": "ターミナルで動作するPDFビューア。Rust実装。…",
+      "link": "https://github.com/itsjunetime/tdf",
+      "summary": "ターミナルで動作するPDFビューア。Rust実装。",
+      "published": "07 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8635ec1a6c86cfc8132ead0c69674f82",
+      "title": "CI/CD 環境で Terraform コマンドの出力をシンプルにする環境変数「TF_IN_AUTOMATION」 - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/05/28/232151",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 CI/CD 環境で Terraform コマンドの出力をシンプルにする環境変数「TF_IN_AUTOMATION」",
+      "published": "07 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b291182be44f6dc65f392b2a309a9ec3",
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "link": "https://www.ioccc.org/2025/",
+      "summary": "Article URL: https://www.ioccc.org/2025/ Comments URL: https://news.ycombinator.com/item?id=48432199 Points: 165 # Comments: 43",
+      "published": "Sun, 07 Jun 2026 05:47:54 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90ca8d3ced0f85f42a8ccc6d9bd25139",
+      "title": "I design with Claude more than Figma now",
+      "link": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "summary": "Article URL: https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/ Comments URL: https://news.ycombinator.com/item?id=48431...",
+      "published": "Sun, 07 Jun 2026 05:04:24 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "39eea90dbdc29a33debf6955e38e9f0c",
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "link": "https://arxiv.org/abs/2601.14470",
+      "summary": "Article URL: https://arxiv.org/abs/2601.14470 Comments URL: https://news.ycombinator.com/item?id=48430923 Points: 107 # Comments: 35",
+      "published": "Sun, 07 Jun 2026 01:37:11 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c1a5964119af3180058e571ca3d7c82",
+      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+      "link": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "summary": "Article URL: https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight Comments URL: ht...",
+      "published": "Sun, 07 Jun 2026 01:24:15 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2449056cf32121ae90795c0199a56cd6",
+      "title": "Public Domain Image Archive",
+      "link": "https://pdimagearchive.org/",
+      "summary": "Article URL: https://pdimagearchive.org/ Comments URL: https://news.ycombinator.com/item?id=48430539 Points: 125 # Comments: 18",
+      "published": "Sun, 07 Jun 2026 00:22:51 +0000",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d64c66e80eb9642585c16d0a859e5bf",
+      "title": "RDBで木構造の深さを制限したいときの設計パターン",
+      "link": "https://zenn.dev/tonbi_attack/articles/56de5502efb772",
+      "summary": "RDBで木構造の深さを制限したいときの設計パターン はじめに RDBで親子関係を持つデータを扱うとき、隣接リストモデルはシンプルで扱いやすい選択肢です。 ただし、隣接リスト単体の一般的な制約だけでは「深さを最大2階層まで」といった制限を実現しにくいです。この記事では、深さ制限が必要になったときに取り...",
+      "published": "2026-06-07T04:03:32Z",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2efb00e9c43c49b275d3f9cd869055b1",
+      "title": "スマホで動くAI、Gemma 4が量子化対応で1GB未満に。Googleが軽量モデル公開 - すまほん!!",
+      "link": "https://smhn.info/202606-gemma-4-quantized-1gb-google-lightweight-on-device-ai",
+      "summary": "酷暑も農作業も！？水冷ベスト「ChillerX PRO」発表、冷却面積約14倍の脳筋仕様に2026/06/02 23:02會原 ChillerXChillerX PROPanasonicShiftallグレート-O-カーン Shiftallは、ペルチェ素子で冷やした水をベストに循環させる新方式「ペル...",
+      "published": "2026-06-07T01:17:11Z",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "50d50e2dcfac38827f1eb9f791c1e76d",
+      "title": "AI slop コードレビュー - たにしきんぐダム",
+      "link": "https://tanishiking24.hatenablog.com/entry/2026/06/07/134005",
+      "summary": "AI contirubtions については別に良いと思ってるし僕もかなり AI coding agent 使ってるんだけど、なんというか単にAI使うのが下手?なAI slop PRがたくさん来るようになった。 レビューしててバカバカしいなぁと思うのは 単純にクオリティが低いことが多い 変更が局所的...",
+      "published": "2026-06-07T06:56:30Z",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccce11873542ea062685df9376a7842f",
+      "title": "ChatGPTに「ロックダウンモード」 プロンプトインジェクションによる情報漏えい対策",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
+      "summary": "米OpenAIは6月5日（現地時間）、ChatGPTに新たなセキュリティ機能「ロックダウンモード（Lockdown Mode）」の提供を開始した。プロンプトインジェクション攻撃によるデータ流出のリスクを抑えるためのオプション設定で、有効にするとChatGPTがWebや外部サービスに接続する機能の多く...",
+      "published": "2026-06-06T23:02:55Z",
+      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-07T07:48:49.115535+00:00"
+  "updated_at": "2026-06-07T10:22:47.183183+00:00"
 }

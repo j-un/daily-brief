@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "71ce7e4c7bd3d31428abe2a651e10792",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://azukiazusa.dev/blog/claude-code-dynamic-workflow/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Code の Dynamic Workflow を試してみた",
-      "published": "06 Jun 2026 08:55 +0000",
-      "fetched_at": "2026-06-06T09:56:00.464806+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "37d0ecd860fffa6e1c1b52cf21d88cfd",
       "title": "US House lawmakers release draft bill to prohibit state AI rules",
       "link": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
@@ -989,7 +979,97 @@
       "fetched_at": "2026-06-07T13:25:33.444057+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "976246db267317e41b5d8df6b465a46e",
+      "title": "Amazon ElastiCache for Valkeyのdurabilityの効果を実際にフェイルオーバーを起こして検証してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-elasticache-valkey-durability-failover-test/",
+      "summary": "「フェイルオーバーは約17〜19秒で完了」なるほど",
+      "published": "07 Jun 2026 13:31 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f526a19e0105ae16a0384045b4c48e51",
+      "title": "OpenHandsこれかな。…",
+      "link": "https://github.com/OpenHands/openhands",
+      "summary": "OpenHandsこれかな。",
+      "published": "07 Jun 2026 13:26 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffcb4fd4da8cc253611712ae6ac65a80",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "link": "https://github.com/anthropics/claude-code/issues/65697",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/65697 Comments URL: https://news.ycombinator.com/item?id=48434436 Points: 146 # Comments...",
+      "published": "Sun, 07 Jun 2026 13:06:52 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e4b82be04cc2f6737227336c34bcdac",
+      "title": "How Liminalism Became the Defining Aesthetic of Our Time",
+      "link": "https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/",
+      "summary": "Article URL: https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/ Comments URL: https://news.ycombinator.com/item?id=48...",
+      "published": "Sun, 07 Jun 2026 02:12:19 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c5baeffc5b7761a3106051c1e12751a",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "summary": "Article URL: https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/ Comments URL: https:...",
+      "published": "Sat, 06 Jun 2026 18:35:27 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7d04d1dfa78a52593e3da1050cb68ee",
+      "title": "Open Code Review — Agent Native Code Review",
+      "link": "https://alibaba.github.io/open-code-review/",
+      "summary": "",
+      "published": "2026-06-07T13:00:06Z",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cd1a53e73bda1f5daffc5abe2bfdd6a",
+      "title": "米オープンＡＩ、チャットＧＰＴ大幅刷新へ 上場見据え＝ＦＴ（ロイター） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/d70aa817844dd9cf12e9cea042dd24ffc5ec4316",
+      "summary": "[７日 ロイター] - 英フィナンシャル・‌タイムズ紙は７日、米⁠オープンＡＩが、対話型人工知能（ＡＩ）「チャットＧＰＴ」​について過去最大の刷新を計画して‌いると報じた。株式上場を見据え収‌益拡大を図る‌ため、プログ​ラムを自動で書く機能‌や人間の代わりに作業をこ‌なす機能​を備えた「スーパーア‌...",
+      "published": "2026-06-07T07:32:36Z",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1117fb0781e1c539584a63afb2fadf6",
+      "title": "無料でローカルAIに再試行を促す機能・ステップの強制・エラー回復・VRAMを考慮したコンテキスト管理などのガードレールを追加できる「forge」",
+      "link": "https://gigazine.net/news/20260607-forge/",
+      "summary": "一般的にAIモデルは常に100%の正解を出力するわけではありません。それっぽい嘘をつくハルシネーションは有名ですが、それ以外にも複数ステップの処理途中でタイムアウトやループを引き起こすリスクが知られています。「forge」はセルフホスト型LLMに対して再試行を促すといった「ガードレール」を適用するこ...",
+      "published": "2026-06-07T09:26:49Z",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e515c2f5b1bb846d738152e041770afb",
+      "title": "📦 opencv / opencv ⭐ 87,886 (+58) 🗒 C++ O…",
+      "link": "https://github.com/opencv/opencv",
+      "summary": "📦 opencv / opencv ⭐ 87,886 (+58) 🗒 C++ Open Source Computer Vision Library",
+      "published": "07 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-07T15:19:07.532994+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-07T13:25:33.444057+00:00"
+  "updated_at": "2026-06-07T15:19:07.532994+00:00"
 }

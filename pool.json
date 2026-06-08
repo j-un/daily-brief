@@ -1479,7 +1479,87 @@
       "fetched_at": "2026-06-08T21:45:25.361680+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "0696ea9b5cf92d3cfcdfee7b06cb5f0d",
+      "title": "【WWDC26】アップル、次期OSに搭載の「子どもの安全」のための新機能を発表。今秋提供予定",
+      "link": "https://www.techno-edge.net/article/2026/06/09/5158.html",
+      "summary": "アップルは、日本時間2026年6月9日未明に配信されたWWDC26の基調講演で、同社の各種デバイスを使用する子どもたちのデジタル体験を保護者がより安全に管理するための一連の新機能を発表しました。",
+      "published": "Tue, 09 Jun 2026 07:00:02 +0900",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "50781da78427739a2b714bd50fa15599",
+      "title": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle",
+      "summary": "AWS Compute Optimizer now identifies idle resources for Amazon DynamoDB provisioned tables, Amazon ElastiCache (Redis and Valkey), Amazon MemoryDB, Am...",
+      "published": "Mon, 08 Jun 2026 21:00:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0934f9cb0f9bc94a5d75039143227c49",
+      "title": "Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/",
+      "summary": "Effective today, Amazon MSK Express Brokers support automatic topic creation with Kafka Streams. Customers can now deploy their Kafka Streams applicat...",
+      "published": "Mon, 08 Jun 2026 19:36:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5561037645c5a81a3a9a2f5bb7711d6",
+      "title": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports engine minor versions, starting with 5.0.1. This release delivers enhanced aggregation cap...",
+      "published": "Mon, 08 Jun 2026 18:59:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fd899a721266a85b7e35601d2fcc347",
+      "title": "PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/",
+      "summary": "Amazon RDS for PostgreSQL 19 Beta 1 is now available in the Amazon RDS Database Preview Environment, allowing you to evaluate the pre-release of Postg...",
+      "published": "Mon, 08 Jun 2026 17:03:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a24ad935665ad99057e39d26c0132f81",
+      "title": "Amazon Connect Customer now offers AI agent trace details for self-service voice interactions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/",
+      "summary": "Amazon Connect Customer now provides AI agent traces for self-service voice interactions, enabling you to understand how AI agents reason, act, and re...",
+      "published": "Mon, 08 Jun 2026 16:17:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "51136e6902428b0d7876637f3f7a882d",
+      "title": "Amazon EC2 C8in instances are now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS Asia Pacific (Sydney, Singapore, Malaysia) and Europ...",
+      "published": "Fri, 05 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c144c9fb1ec2537efef0eacc4ec9774",
+      "title": "Amazon Inspector launches improved agent-based scanning for EC2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-ec2-agent-scanning-improvements",
+      "summary": "Amazon Inspector now offers improved agent-based EC2 scanning with the new Inspector VM Scanner, delivering expanded detection coverage and reduced CP...",
+      "published": "Sun, 31 May 2026 14:15:00 GMT",
+      "fetched_at": "2026-06-08T22:09:40.685982+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-08T21:45:25.361680+00:00"
+  "updated_at": "2026-06-08T22:09:40.685982+00:00"
 }

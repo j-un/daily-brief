@@ -1,86 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2d21d778cb0020118c2eba7c9b03c362",
-      "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Windows」一般公開 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
-      "summary": "個人的には「WSLでええけどな」となりがちなんだけど、稀にPowerShell使う必要があるときにちょっと捗るとは思う。",
-      "published": "07 Jun 2026 09:24 +0000",
-      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1900b0fd3173ef4d898668facedceaa1",
-      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-      "summary": "動画を見る限りUIインタフェースとしてもdocker互換っぽいな。Docker DesktopのWSL Integrationは魅力的だけどライセンス契約が厳しいといった大きい企業での利用が捗りそうだと思いました。",
-      "published": "07 Jun 2026 09:21 +0000",
-      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3ef78f62e914357f9266f1ec66dcd933",
-      "title": "Microsoft、AIエージェント統合の「Intelligent Terminal 0.1」を試験公開 - 窓の杜",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2113917.html",
-      "summary": "既存のエージェントはGitHub CopilotだがAgent Client Protocol(ACP)と互換性のあるエージェントならどれでも対応と。OpenCodeはACP対応だったはずなので使えそう。Geminiも標準でokらしい。",
-      "published": "07 Jun 2026 09:17 +0000",
-      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "40df91ba7a169bcb4cf520487b91bf5a",
-      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
-      "summary": "「接続先のクラウド側で発生するトラフィックについては接続先のクラウドにて費用が発生」するものの、500Mbps以下に帯域制限しながら利用するテクが捗りそうだ。",
-      "published": "07 Jun 2026 08:59 +0000",
-      "fetched_at": "2026-06-07T10:22:47.183183+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3a051d69737131e98d333fc240a3cdd6",
-      "title": "SQLでワークフローを書けるPostgreSQL拡張。SQLらしくチェックポイン…",
-      "link": "https://github.com/microsoft/pg_durable",
-      "summary": "SQLでワークフローを書けるPostgreSQL拡張。SQLらしくチェックポイントを挟むことができてサーバ再起動などがあっても再開可能。Microsoftがこういう拡張を用意するの感慨深いな。Azure HorizonDBで使えるらしい。",
-      "published": "07 Jun 2026 12:49 +0000",
-      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "19ace54141c0b10e178357e8d34fc0c7",
-      "title": "PostgreSQLからWALを受け取ってParquetファイルを生成して随時S…",
-      "link": "https://github.com/viggy28/streambed",
-      "summary": "PostgreSQLからWALを受け取ってParquetファイルを生成して随時S3にIcebergとして保存するアプリケーション。Go実装。",
-      "published": "07 Jun 2026 11:54 +0000",
-      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e28dae1397ce40e9a95acdfb5689e10f",
-      "title": "Amazon ElastiCache for Valkey の耐久性機能のお知らせ | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/announcing-durability-for-amazon-elasticache/",
-      "summary": "公式ブログ記事きてた",
-      "published": "07 Jun 2026 10:22 +0000",
-      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9cd514d03f14c102dbbc50bef65e5aac",
-      "title": "GitHub - alibaba/open-code-review: Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Ant",
-      "link": "https://github.com/alibaba/open-code-review",
-      "summary": "Open Code Review is an AI-powered code review CLI tool. It originated as Alibaba Group's internal official AI code review assistant — over the past tw...",
-      "published": "2026-06-05T02:43:00Z",
-      "fetched_at": "2026-06-07T13:25:33.444057+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "6a8a23535dd7c76d25284d65c7a14f49",
       "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
       "link": "https://github.com/yukiyokotani/office-open-xml-viewer",
@@ -1049,7 +969,277 @@
       "fetched_at": "2026-06-08T14:00:38.917041+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "89f8fdd1fb3109dace9a2f61f1f7db63",
+      "title": "Apple WWDC 2026 Livestream",
+      "link": "https://www.apple.com/apple-events/event-stream/",
+      "summary": "Article URL: https://www.apple.com/apple-events/event-stream/ Comments URL: https://news.ycombinator.com/item?id=48448106 Points: 110 # Comments: 131",
+      "published": "Mon, 08 Jun 2026 17:14:24 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a85e8a55ecf08be97af6a4fd5a7c3623",
+      "title": "Stop the Apple Music app from launching",
+      "link": "https://lowtechguys.com/musicdecoy/",
+      "summary": "Article URL: https://lowtechguys.com/musicdecoy/ Comments URL: https://news.ycombinator.com/item?id=48447935 Points: 120 # Comments: 29",
+      "published": "Mon, 08 Jun 2026 17:01:43 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aa3d7126110128f8d8caf06a8380302",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "link": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "summary": "Article URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps Comments URL: https://news.ycombinator.com/item?id=48446639 Points: 284 # Comments: 200",
+      "published": "Mon, 08 Jun 2026 15:27:33 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b79e250e79a3b2a3e88bd0538b1d8999",
+      "title": "A Farmer Donated Land to Turn into a Park. The City Is Building a Data Center",
+      "link": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+      "summary": "Article URL: https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/ Comments URL: https...",
+      "published": "Mon, 08 Jun 2026 15:14:29 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7fc1fd0b63acd604a70db05c66d9dec",
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "link": "https://vorpus.github.io/performativeUI/",
+      "summary": "hope you enjoy Comments URL: https://news.ycombinator.com/item?id=48445554 Points: 466 # Comments: 102",
+      "published": "Mon, 08 Jun 2026 14:05:16 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "300afae6665e55e68dfd9434fef50e44",
+      "title": "Zig by Example",
+      "link": "https://github.com/boringcollege/zig-by-example",
+      "summary": "Article URL: https://github.com/boringcollege/zig-by-example Comments URL: https://news.ycombinator.com/item?id=48444871 Points: 186 # Comments: 91",
+      "published": "Mon, 08 Jun 2026 13:06:19 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0defdb0f59fc8f1f73bfe2ada2991011",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "link": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "summary": "Article URL: https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social Comments URL: https://news.ycombinator.com/item?id=484...",
+      "published": "Mon, 08 Jun 2026 11:58:02 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73eef83b30ee5b901b958ff5d2dcd033",
+      "title": "AWS Application Migration Service is now AWS Transform MGN",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/",
+      "summary": "AWS Application Migration Service (MGN) is now available as AWS Transform MGN. This name change reflects MGN's role as the proven replication engine p...",
+      "published": "Mon, 08 Jun 2026 17:00:00 GMT",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "129531e9b7415b9e2f26b6abb3e1d785",
+      "title": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/",
+      "summary": "Amazon Redshift announces a new billing model for manual snapshots on Amazon Redshift Serverless and Amazon Redshift RG instances. With this enhanceme...",
+      "published": "Mon, 08 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4203f2598abccb54250143abd798ddce",
+      "title": "Amazon OpenSearch Serverless now supports Agentic Search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-search/",
+      "summary": "Amazon OpenSearch Serverless now offers Agentic Search — a capability that lets users query their data using natural language. Users simply describe w...",
+      "published": "Mon, 08 Jun 2026 06:58:00 GMT",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "32cba958176fb93b38e5459335e1ff78",
+      "title": "嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 | ponflog",
+      "link": "https://ponflog.com/arashi-live-streaming-network/",
+      "summary": "2026年5月31日、嵐のラストライブ「ARASHI LIVE TOUR 2026『We are ARASHI』」東京ドーム最終公演が生配信され、約3時間・全33曲を最後まで届けきりました。配信中は世界トレンド1位を独占するほどの注目を集め、ネット上では「大規模なサーバーダウンが起きなかったのは凄い...",
+      "published": "2026-06-08T13:59:06Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89a1e54e83b44e9a8cb0e6d345547876",
+      "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
+      "link": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+      "summary": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – a solution for launching sandb...",
+      "published": "2026-06-08T14:18:10Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6053b5683c04e41221fbc8cbd88f10c1",
+      "title": "「サーバ室にあるはずの記憶媒体が行方不明」 九電子会社 最大1090万件分の顧客情報を保存 キャビネット施錠せず",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/08/news135.html",
+      "summary": "外部記憶媒体に保存していたのは、需要者名（契約者名）、供給場所の住所、使用電力量データ、電話番号、契約している小売電気事業者名など。銀行口座やクレジットカードの情報は含んでいない。 同社によると、対象システムでは普段、サーバの容量を確保するため定期的にバックアップを行っており、バックアップシステム....",
+      "published": "2026-06-08T12:02:58Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31c336bf778163eb43af36b3eea489f5",
+      "title": "「AIが私のソフトウェアエンジニアとしてのキャリアを侵食しておりどうすればいいか分からない」という投稿が大きな反響を呼ぶ",
+      "link": "https://gigazine.net/news/20260608-llms-eroding-career/",
+      "summary": "AI技術のめざましい発展はさまざまなタスクを便利にする一方で人間の仕事を奪うという懸念もあり、2025年の1年間でAIが純雇用をイギリスで8％・日本で7％・ドイツで4％減少させたという調査結果もあります。そのような中で、「大規模言語モデル(LLM)が私のソフトウェアエンジニアとしてのキャリアを侵食し...",
+      "published": "2026-06-08T11:04:56Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6680b428b8aa9ccd47f4d29cd5e1625",
+      "title": "生成AI時代のエンジニアの生存戦略",
+      "link": "https://zenn.dev/counterworks/articles/62667be5a186b8",
+      "summary": "はじめに こんにちは。株式会社カウンターワークス、テックリードの shim です。 別途マルチテナントの記事を頑張って書いているのですが、先日社内にて「AI開発LT大会」を主催しました。 言い出しっぺなので、そこで「（生成）AI時代のエンジニアの生存戦略」というテーマで発表したのですが、せっかくなの...",
+      "published": "2026-06-08T06:09:38Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b308b8f909b90475ad9174f5a1eaf6d",
+      "title": "macOS Tahoe で動くネイティブAPI経由での翻訳 cli を作った - A Day in the Life",
+      "link": "https://secon.dev/entry/2026/06/08/080000-mac-translate-cli-trn/",
+      "summary": "macOS ちょっと前から、そういえば Apple インテリジェンスなるものが使えるなぁ、ただなんかただ邪魔なUIが出るだけだが（自分のユースケースでは全く使わない）、程度に思っていたのだけど、macOS のネイティブAPIとして呼び出せるようなので、それを使って翻訳 cli アプリを作ってみた。 ...",
+      "published": "2026-06-08T06:56:06Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad45a3de2a9dcd45e1debd27c3ae722e",
+      "title": "九州電力送配電、最大1090万件の個人情報漏えいのおそれ、バックアップ媒体が所在不明に",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2115399.html",
+      "summary": "",
+      "published": "2026-06-08T10:01:46Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2cdf8e737e1192a87af9708ec8e4cfa",
+      "title": "#iPhone18Pro バッテリー増加は控えめ？容量より実使用に注目",
+      "link": "https://kaden-box.jp/A16330090488",
+      "summary": "iPhone 18 Proのバッテリー容量は、今年も増える可能性があります。 ただし、今回の噂を見る限り、前年のような大幅アップではなく、 やや控えめな伸びになりそうです。 『9to5mac』によると、リーカーのDigital Chat Stationは、 iPhone 18 Proのバッテリー容量...",
+      "published": "2026-06-08T05:17:33Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf8b64c6442ecc5a74daed5662b9ce0e",
+      "title": "『サブスク会計学』 - Don't Repeat Yourself",
+      "link": "https://blog-dry.com/entry/2026/06/07/222135",
+      "summary": "以前から積んでいて注目していた書籍だったのですが、ようやく読むことができました。感想を書いておきます。SaaS企業に勤めるソフトウェアエンジニアにとくにおすすめです。 サブスク会計学 作者:藤原大豊,青木章通中央経済社Amazon 我々（ソフトウェアエンジニア）は事業をわかっているべきなのか まず前...",
+      "published": "2026-06-07T14:08:48Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d03fa360fdecc737c95bb34e12eb0b2",
+      "title": "NHK、サグラダ・ファミリア メインタワー完成“世紀の瞬間”生中継。総合テレビ6月11日22時",
+      "link": "https://av.watch.impress.co.jp/docs/news/2115207.html",
+      "summary": "",
+      "published": "2026-06-08T03:42:40Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc88e717708075eb7ba25dd43a41fedb",
+      "title": "Rebuild: 427: Tokenmaxxing (twada)",
+      "link": "https://rebuild.fm/427/",
+      "summary": "和田卓人さんをゲストに迎えて、MS Build 2026, GitHub Copilot App, TDD, Anthropic IPO, OSS vs AI Slop, Vite などについて話しました。 Show Notes Microsoft Build 2026 Microsoft Buil...",
+      "published": "2026-06-08T05:04:44Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9969c2c65246713d3cfa87e02835bdee",
+      "title": "寝不足になるほど面白い ローカルAIと音声合成をつないだら、キャラが普通にしゃべり始めた (2/5)",
+      "link": "https://ascii.jp/elem/000/004/408/4408692/2/",
+      "summary": "Gemma 4×Irodori-TTSで実現 こうした音声チャットアプリは、筆者も数年前に作ってみたことがあるのですが、様々な技術的な制約から、十分に実用的な品質には到達できませんでした。 まず、キャラクターを高速かつ自然に演じることができる軽量かつ高性能なローカルLLMが存在していませんでした。6...",
+      "published": "2026-06-08T06:48:15Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a349290ee67bee64cd77c324dd6e7673",
+      "title": "Google、メモリ1GB未満で品質劣化少ないGemma 4が動くQATモデル無償提供",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2115168.html",
+      "summary": "",
+      "published": "2026-06-08T05:01:34Z",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c8a62077e0ee6441723db268d029039",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 phuryn…",
+      "link": "https://github.com/phuryn/pm-skills",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 phuryn / pm-skills ⭐ 12,365 (+112) PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery...",
+      "published": "08 Jun 2026 17:16 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b40dcd22bd693015862ed901e62f28a5",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Andyyyy…",
+      "link": "https://github.com/Andyyyy64/whichllm",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Andyyyy64 / whichllm ⭐ 3,175 (+103) 🗒 Python Find the local LLM that actually runs and performs best on your hardware...",
+      "published": "08 Jun 2026 15:16 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c7eb76fe0b1fccaec44760ccc3d236",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 goo…",
+      "link": "https://github.com/google/skills",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 google / skills ⭐ 12,094 (+481) 🗒 Python Agent Skills for Google products and technologies",
+      "published": "08 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d50128b87ae9bdfc3f20c625d834c7e6",
+      "title": "Plugin Alliance is offering these top plugins at up to 92% off for the whole of June",
+      "link": "https://musictech.com/news/gear/plugin-alliance-june-sale-2026/?utm_source=rss&utm_medium=rss&utm_campaign=plugin-alliance-june-sale-2026",
+      "summary": "Save big on a range of authentic hardware emulations and more. The post Plugin Alliance is offering these top plugins at up to 92% off for the whole o...",
+      "published": "Mon, 08 Jun 2026 16:39:16 +0000",
+      "fetched_at": "2026-06-08T18:20:11.296807+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-08T14:00:38.917041+00:00"
+  "updated_at": "2026-06-08T18:20:11.296807+00:00"
 }

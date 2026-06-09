@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e5d3edf02d94924549a219a5587c48af",
-      "title": "【AWS Secrets Manager】末尾が \"ハイフン＋6文字\" のシークレット名には気をつけろ！！",
-      "link": "https://zenn.dev/levtech/articles/946b5154085468",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【AWS Secrets Manager】末尾が \"ハイフン＋6文字\" のシークレット名には気をつけろ！！",
-      "published": "08 Jun 2026 06:55 +0000",
-      "fetched_at": "2026-06-08T08:47:04.254886+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "5fc27872e27c6ab925018cb70142a6b4",
       "title": "OpenAI Submits S-1 Draft to SEC",
       "link": "https://openai.com/index/openai-submits-confidential-s-1/",
@@ -859,7 +849,257 @@
       "fetched_at": "2026-06-09T10:53:34.315995+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "40df91ba7a169bcb4cf520487b91bf5a",
+      "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS、他クラウドと500Mbpsまでの接続が無料に。AWS Interconnect - multicloudに無料枠が登場",
+      "published": "09 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d01f37bef74f6636a122784f502326d5",
+      "title": "Making Graphics Like it's 1993",
+      "link": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+      "summary": "Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/ Comments URL: https://news.ycombinator.com/item?id=48459294 Points: 266 # Commen...",
+      "published": "Tue, 09 Jun 2026 10:46:14 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe247db77905be3cb82001c20e16f718",
+      "title": "GentleOS – Classic operating system with a lovely retro GUI",
+      "link": "https://github.com/luke8086/gentleos32",
+      "summary": "Article URL: https://github.com/luke8086/gentleos32 Comments URL: https://news.ycombinator.com/item?id=48458890 Points: 254 # Comments: 52",
+      "published": "Tue, 09 Jun 2026 09:50:30 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72523832df94723b3bc040669334011d",
+      "title": "Cleaning up after AI rockstar developers",
+      "link": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "summary": "Article URL: https://www.codingwithjesse.com/blog/rockstar-developers/ Comments URL: https://news.ycombinator.com/item?id=48458586 Points: 160 # Comme...",
+      "published": "Tue, 09 Jun 2026 09:10:10 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2737d0f66e512610932b68956cfb6826",
+      "title": "Porting the ThinkPad X61 to Coreboot",
+      "link": "https://blog.aheymans.xyz/post/thinkpad_x61/",
+      "summary": "Article URL: https://blog.aheymans.xyz/post/thinkpad_x61/ Comments URL: https://news.ycombinator.com/item?id=48456245 Points: 113 # Comments: 42",
+      "published": "Tue, 09 Jun 2026 04:06:14 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0aa19198bf77bd09daa6158c92c15cb",
+      "title": "Sam Bankman-Fried applies for a pardon from Trump",
+      "link": "https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/08/sam-bankman-fried-applies-for-a-pardon-from-trump/ Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Mon, 08 Jun 2026 18:26:35 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "85a644944b12d50f9ef509923fdf85a6",
+      "title": "シャオミの薄型マグネット式モバイルバッテリーが早割3780円、Super Slim Magnetic Power Bank 5000発売 極薄モデルの約半額",
+      "link": "https://www.techno-edge.net/article/2026/06/09/5164.html",
+      "summary": "・厚さ約8.7mmの超薄型ボディを実現し、従来モデル比で27.5%の薄型化を達成 ・有線最大22.5W出力とワイヤレス最大15W出力に対応し、2台同時充電も可能 ・17個のネオジムマグネットコアで最大10Nの磁力を確保し、iPhone 12以降に対応",
+      "published": "Tue, 09 Jun 2026 23:29:13 +0900",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "247526975bd12d96f305cc50ff73f7b8",
+      "title": "「絶望的にダサい」内閣広報官の公式X AI生成のデフォルメアイコンに失笑…リプ欄閉鎖の“一方通行”にも疑問の声 | 女性自身",
+      "link": "https://jisin.jp/domestic/2585639/",
+      "summary": "女性自身TOP > 国内 > 政治 > 内閣広報官 > 「絶望的にダサい」内閣広報官の公式X AI生成のデフォルメアイコンに失笑…リプ欄閉鎖の“一方通行”にも疑問の声 5月1日に開設され、高市内閣の動向を発信してきたXアカウント「内閣広報室」。開設当初は1カ月の試行運用としていたが、6月2日にアカウ...",
+      "published": "2026-06-09T08:53:32Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebf334e3fa99adf8b4b44551eb14ef28",
+      "title": "データエンジニアこそ組織のオントロジーに向き合うべき",
+      "link": "https://zenn.dev/dely_jp/articles/data-engineer-context-action-layer",
+      "summary": "こんにちは、クラシルでデータエンジニアをしているharry(@gappy50)です。 クラシルでは、これまでAI-Readyなデータ利活用に取り組んできました。Tier設計でデータの信頼性を担保したり、Snowflake Managed MCP × Claude Codeでデータの仕事をAgenti...",
+      "published": "2026-06-09T08:23:38Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2021a1d5d2ae8975f39948645bc73d4a",
+      "title": "グーグル「NotebookLM」が進化、出力形式追加やソース収集の補助も",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2115566.html",
+      "summary": "",
+      "published": "2026-06-09T04:59:37Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "975c068537a2e797c2ff4d74fb4cc8a4",
+      "title": "Maestro MCPとClaude Code Skillsによる自律的なE2Eテスト作成",
+      "link": "https://zenn.dev/flierinc/articles/fcf32bfa82524e",
+      "summary": "はじめに モバイルアプリ開発におけるE2Eテストは、テストシナリオの作成やメンテナンスにコストがかかるため、十分な数のテストシナリオを整備・維持するのが難しいという課題があります。私自身も業務でMaestroを利用していますが、一部の主要なテストシナリオに絞った運用にとどまっていました。 そこで、M...",
+      "published": "2026-06-09T09:38:34Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8188f1c20c120dcb547ff3079311b9e5",
+      "title": "グーグルのAIが研究のボトルネックを解消、計算・仮説・文献を支援する「Gemini for Science」",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2115581.html",
+      "summary": "",
+      "published": "2026-06-09T06:19:31Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "17e4d1560ac47f797d9aa8be1f8c7a29",
+      "title": "動画生成AI「Grok Imagine 1.5 Preview」が動画生成AIベンチマークで世界1位と2位を獲得",
+      "link": "https://gigazine.net/news/20260609-grok-imagine-1-5-preview-artificial-analysis-video-arena/",
+      "summary": "2026年6月3日、xAIは画像から動画を生成することができるAIモデルの「Grok Imagine 1.5 Preview」を発表しました。このGrok Imagine 1.5 Previewは、複数のAIベンチマークで世界1位と2位を記録したことが明らかになっています。 Grok Imagine...",
+      "published": "2026-06-09T05:14:48Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bee4989a55775d6dc609b7cf439c222",
+      "title": "クラウドPC「Windows 365」が開発者やAIエージェント向けに強化／開発者向けイメージや、AIエージェント向け環境、32 vCPUや新GPUプランなど",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2115425.html",
+      "summary": "",
+      "published": "2026-06-09T04:44:11Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7531559159caed68a764791de0c0156",
+      "title": "【重要】AI利用状況設定の必須化と設定機能リリースのお知らせ",
+      "link": "https://blog.syosetu.com/article/view/article_id/5164/",
+      "summary": "いつも小説家になろうグループをご利用いただきありがとうございます。 本日より、作品創作におけるAI利用状況設定の必須化が開始となりましたのでお知らせいたします。 ▼AI利用状況の設定とは？ ご自身の作品に、作品創作におけるAI利用状況を設定する機能です。 作品投稿・編集時に操作する画面「作品設...",
+      "published": "2026-06-09T07:53:21Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4f5e1042bf7376b8b0ac6aa00b15fef",
+      "title": "Claude Code のトークン削減を実測した — semble 93%・cacheRead 1800倍の内訳",
+      "link": "https://zenn.dev/pepabo/articles/claude-code-token-reduction-measured",
+      "summary": "特にプロンプトキャッシングは効果が大きいので、運用ルールにしています。Claude Code は設定ファイルやモデルを変えるとキャッシュが破棄され、次のリクエストでフル課金になります。そのため「設定を変えたらセッションを切り直す」を徹底し、破棄を1回で済ませています。 モデルルーティングは、タスクの...",
+      "published": "2026-06-09T05:11:29Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c679bbe3d9760273a35c1a5db2dd3d92",
+      "title": "Apple、「iPadOS 27」を発表 ～ペン作業をAIが補佐、外部ドライブアクセスは最大5倍高速に／一方で「iPadOS 26」からアップグレードできないモデルも",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2115461.html",
+      "summary": "",
+      "published": "2026-06-09T05:13:07Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8483369b561b934b8d2bdaa58643ffdb",
+      "title": "1兆パラメーター級モデルを1000トークン/秒超という爆速で動かす「MiMo-V2.5-Pro-UltraSpeed」が登場、基盤モデルはオープンソースで公開",
+      "link": "https://gigazine.net/news/20260609-xiaomi-v2-5-pro-ultraspeed/",
+      "summary": "Xiaomiが、「コーディングエージェントの生産性の限界を完全に解き放つ」とする1兆パラメーター級モデルを高速推論できるサービス「MiMo-V2.5-Pro-UltraSpeed」を発表しました。 Xiaomi MiMo, Explore and Love https://mimo.xiaomi.c...",
+      "published": "2026-06-09T05:14:23Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cf99aa0c05ff9f628ab5afdd54ebeb9",
+      "title": "iPadOS 27では第8世代iPadや第5世代iPad miniがサポート対象から外れることが明らかに",
+      "link": "https://gigazine.net/news/20260609-apple-ipados-27-support/",
+      "summary": "2026年6月9日(火)に開催されたAppleの年次開発者会議「WWDC26」でiPadOSの次期バージョンとなる「iPadOS 27」が発表されました。同時に発表されたiOS 27はiOS 26と同様にiPhone 11以降をサポートすることが明らかにされた一方で、Appleが公開したiPadOS...",
+      "published": "2026-06-09T03:22:00Z",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0463fc4bc172c9abf1318880a79ef81",
+      "title": "Ableton、『Live Extensions』を公開…… Live上で画像のMIDI変換、たまごっちのようなペットの飼育、ゲーム・ライクなMIDI生成などを実現する拡張機能が登場",
+      "link": "https://icon.jp/archives/27752",
+      "summary": "Abletonが、Liveの新しい拡張機能、『Extensions』を発表。独自の『Extensions』を開発するためのSDK（パブリック・ベータ版）も公開しました。 Ableton Liveの新しい拡張機能、『Ext […]",
+      "published": "Tue, 09 Jun 2026 12:00:00 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "0d095366d5a06870ea6837574c0f7d46",
+      "title": "Unfiltered Audio Battalion drum synth, FX in VCV Rack are a revelation",
+      "link": "https://cdm.link/unfiltered-audio-battalion-for-vcv-rack/",
+      "summary": "At attention! Unfiltered Audio has taken their deep drum synth and favorite effects and remade them as VCV Rack modules. This is instabuy territory ($...",
+      "published": "Tue, 09 Jun 2026 11:54:35 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "802914615a3ebd889762cba690e0a044",
+      "title": "This limited-time Royer Labs ribbon mic bundle could be the perfect setup for recording your acoustic guitar",
+      "link": "https://musictech.com/news/gear/royer-labs-r-12-ribbon-mic-bundle/?utm_source=rss&utm_medium=rss&utm_campaign=royer-labs-r-12-ribbon-mic-bundle",
+      "summary": "Get Royer’s new R-12 ribbon mic – plus a patented RSM-SS24 Sling-Shock mount – for just $999, saving a massive $300. The post This limited-time Royer ...",
+      "published": "Tue, 09 Jun 2026 14:12:40 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7d74046415a854ca2e36e3d99e3aca74",
+      "title": "Fender Studio Pro 8.1: Moises Studio integration, a new AI Assistant and everything else you need to know",
+      "link": "https://musictech.com/news/gear/fender-studio-pro-8-1/?utm_source=rss&utm_medium=rss&utm_campaign=fender-studio-pro-8-1",
+      "summary": "Fender issues the first sprawling update to its flagship DAW following its launch earlier this year, when it replaced PreSonus Studio One. The post Fe...",
+      "published": "Tue, 09 Jun 2026 13:00:24 +0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "5d0966ccb42c60f735cfa5b833b0470b",
+      "title": "For Sharada Shashidhar, Play Comes Before Perfection",
+      "link": "https://daily.bandcamp.com/features/sharada-shashidhar-a-foot-on-the-ground-feature",
+      "summary": "The L.A. musician writes songs that morph from spiritual-jazz ambience to synth-funk grooves and are born from a spirit of fun. Read full story on the...",
+      "published": "Tue, 09 Jun 2026 13:57:10 -0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "f217130eca1d3c85e209051f4051596a",
+      "title": "Diles Que No Me Maten, “Escrito en Agua”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/diles-que-no-me-maten-escrito-en-agua-review",
+      "summary": "The Mexico City psych rock group's latest has more in common with jazz than alternative/post-punk music. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 09 Jun 2026 13:50:38 -0000",
+      "fetched_at": "2026-06-09T14:31:18.693985+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-09T10:53:34.315995+00:00"
+  "updated_at": "2026-06-09T14:31:18.693985+00:00"
 }

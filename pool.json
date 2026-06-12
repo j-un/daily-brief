@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9a4d757bc7a211cc5ce86f5355a96496",
-      "title": "Lambda PDF生成を27倍高速化した話 — Puppeteerから@react-pdf/rendererへの移行レポート - Findy Tech Blog",
-      "link": "https://tech.findy.co.jp/entry/2026/06/03/070000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Lambda PDF生成を27倍高速化した話 — Puppeteerから@react-pdf/rendererへの移行レポート",
-      "published": "11 Jun 2026 01:55 +0000",
-      "fetched_at": "2026-06-11T02:50:53.063154+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1900b0fd3173ef4d898668facedceaa1",
       "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
@@ -369,7 +359,277 @@
       "fetched_at": "2026-06-12T02:47:23.176453+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a049ea2eac949b38c60010b55c3636c8",
+      "title": "Gemma 4 QAT の概要｜npaka",
+      "link": "https://note.com/npaka/n/ndeef4df16dd2",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Gemma 4 QAT の概要",
+      "published": "12 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c662f07b4924222c67b03e0c5a1824e",
+      "title": "MySQL でユニークインデックスを持つ同一レコードへの DELETE で発生したデッドロックを調査した話 - Mirrativ Tech Blog",
+      "link": "https://tech.mirrativ.stream/entry/2026/06/04/110000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MySQL でユニークインデックスを持つ同一レコードへの DELETE で発生したデッドロックを調査した話",
+      "published": "12 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "abd59e72855ebc881f824525cb640272",
+      "title": "AIエージェントに1年分のニュースを読ませて4,500件の長期記憶を作って見えた課題 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/ai-agent-long-term-memory-simulation",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェントに1年分のニュースを読ませて4,500件の長期記憶を作って見えた課題",
+      "published": "12 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fdebe68ae9342cd1fdbccd8ecb9a162",
+      "title": "@netmarkjp.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/netmarkjp.bsky.social/post/3mo2sr4sn622n",
+      "summary": "採用を止めるのも解雇するのも、やっているのはAIじゃなくて人間だよ、というやつ [contains quote post or other embedded content]",
+      "published": "12 Jun 2026 03:36 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "733a9880fb89c00da5668d68e71cc10a",
+      "title": "miseをリポジトリ用のタスクランナーとして「も」使う - Hatena Developer Blog",
+      "link": "https://developer.hatenastaff.com/entry/2026/06/04/120000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 miseをリポジトリ用のタスクランナーとして「も」使う",
+      "published": "12 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa0048d9fdcae43b471105f61646eef5",
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "summary": "Article URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/ Comments URL: https://news.ycombinator.co...",
+      "published": "Fri, 12 Jun 2026 04:42:53 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5b2b4bda61e019641a138fcd4c0dae0",
+      "title": "Claude Fable is relentlessly proactive",
+      "link": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/ Comments URL: https://news.ycombinator.com/item?id=48498573 Points...",
+      "published": "Fri, 12 Jun 2026 01:06:51 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2dbf8851c9576080ea569f9d93e47eb",
+      "title": "A jacket that harvests drinking water from the air",
+      "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "summary": "Article URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/ Comments URL: https://news.ycombinator.com/item?id=484...",
+      "published": "Thu, 11 Jun 2026 22:59:22 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "616ae1f606b4086a3017a0b1046103b0",
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "summary": "Article URL: https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html Comments URL: https://news.ycombinator.com/item?id=48493564 Points: 1...",
+      "published": "Thu, 11 Jun 2026 17:35:19 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbe1b9b271cb7684c28dad33c595d8f2",
+      "title": "任天堂、転売対策でSwitch 2多言語版の販売を一時停止「買い占め等の疑いがある注文を複数確認」 50時間以上プレイ条件で再開",
+      "link": "https://www.techno-edge.net/article/2026/06/12/5175.html",
+      "summary": "任天堂が、一時的に停止していたNintendo Store での Nintendo Switch 2 販売を新たな条件で再開しました。",
+      "published": "Fri, 12 Jun 2026 14:57:34 +0900",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "c257f409e9987d5174020cb04d3c6483",
+      "title": "実践企業に学ぶ生成 AI 導入の勘所 〜眠るデータを企業価値に変える〜 – AWS Local Executive Roadshow 広島編（#5/8）開催レポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/local_executive_roadshow_5/",
+      "summary": "こんにちは。Amazon Web Services Japan のソリューションアーキテクト、田中 里絵 です […]",
+      "published": "Fri, 12 Jun 2026 04:38:33 +0000",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "dda4a61bc50898c048f2818d0693f71f",
+      "title": "裁判で双方の弁護士がAIを用いて存在しない架空の判例を引用、判事激怒で裁判は中止に【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2116657.html",
+      "summary": "",
+      "published": "2026-06-12T03:24:13Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "375b8756d21e21043b28147698dea5e4",
+      "title": "LLMと共に進化するプロセスを目指して",
+      "link": "https://speakerdeck.com/ymatsuwitter/llmtogong-nijin-hua-surupurosesuwomu-zhi-site",
+      "summary": "AI要件定義サミット2026にて登壇",
+      "published": "2026-06-12T04:09:01Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db31088efc41f57a64201a8f00c2059e",
+      "title": "Geminiは暴動、GPTは餓死、Grokは犯罪、AIモデル版「シムシティ」がヤバすぎた",
+      "link": "https://www.sbbit.jp/article/st/185729",
+      "summary": "米国のAI企業Emergence AIが実施した、自律型AIエージェントによる都市運営シミュレーション「Emergence World」の実験結果が公表された。15日間にわたり仮想の町を運営させた結果、AIモデルの違いによって、構築される社会の安全性や意思決定のプロセスに明確な差異が生じることが確認...",
+      "published": "2026-06-12T00:09:09Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe4b8ad272bec5f951fd09de8a906204",
+      "title": "マイナポータル刷新へ アプリ統合や「パスポート」申請しやすく",
+      "link": "https://www.watch.impress.co.jp/docs/news/2116390.html",
+      "summary": "",
+      "published": "2026-06-11T23:40:28Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3b4d045b98aea8b9e78ad98c768af00",
+      "title": "350画面のUI統一、AIに任せたのは「セルフチェック」だった - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260612/ai",
+      "summary": "はじめに 楽楽シリーズUI統一プロジェクトとは フェーズ1: AIに任せられない領域 フェーズ2: 規模がもたらした新たな課題 AI活用の勘所: 実装ルールをAIに翻訳する なぜ「セルフチェック」だったか Cursor Rulesという仕組み 運用してみての手応え 振り返って見えたパターン 作業の性...",
+      "published": "2026-06-12T06:07:42Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e2fdfcb7d60fc0fca6a0373d4830685",
+      "title": "Hermes Desktop の設定 186 項目を実機とソースで全部調べて、日本語ガイドを公開した",
+      "link": "https://zenn.dev/takna/articles/hermes-desktop-settings-guide",
+      "summary": "TL;DR Nous Research の Hermes Desktop の設定 14 カテゴリ・全 186 項目を、実機監査とソースコード照合で検証した非公式日本語ガイドを公開した → https://hermes.ai-deck.app 検証は v0.16.0 / コミット d165933 に固...",
+      "published": "2026-06-12T04:14:49Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "288ba1f241733506b3f5d75212ed7484",
+      "title": "iPhoneにApp Storeで配布されていないアプリをインストールできるようにする代替アプリストア「AltStore PAL」の導入手順はこんな感じ",
+      "link": "https://gigazine.net/news/20260612-altstore-pal/",
+      "summary": "iPhoneやiPadのアプリは基本的にApple公式アプリストアの「App Store」からダウンロードする仕組みですが、実はサードパーティ製のアプリストアを使うこともできます。サードパーティ製アプリストアの「AltStore PAL」をiPhoneに導入すれば、App Storeでは配布されてい...",
+      "published": "2026-06-12T02:50:42Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "481296570476ccce8412951f8ed7cb03",
+      "title": "当初は「アメリカ製」をうたうも後に撤回されたトランプ大統領のスマートフォン「トランプ・モバイル T1」はほぼ「HTC U24 Pro」だったことが分解調査により判明",
+      "link": "https://gigazine.net/news/20260612-trump-t1-phone-teardown/",
+      "summary": "ドナルド・トランプ大統領がオーナーを務めるトランプ・オーガナイゼーションが立ち上げた携帯電話事業「トランプ・モバイル」が、ついに最初のスマートフォン「T1」を一部メディア向けに送付し始めました。今回、アメリカに拠点を置くNBCニュースがT1を手に入れ、修理業者のiFixitに提供して詳細な調査を行い...",
+      "published": "2026-06-12T05:21:52Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d426bf9f95371ff648b5b32e17d8488",
+      "title": "Google検索のAIまとめ、誤っていた場合の責任は「Googleにあり」。ドイツで画期的判決【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2116652.html",
+      "summary": "",
+      "published": "2026-06-12T04:12:10Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8065bfe8631eef0840cf2acbc36f6c5",
+      "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
+      "link": "https://gigazine.net/news/20260611-apple-container-machines/",
+      "summary": "WWDC26で発表された、Mac上で軽量のLinux環境を提供できる新機能が「Container machine」です。Container machineは高速でありながら軽量かつ永続的で、標準的なOCIイメージに基づき構築・共有でき、ユーザーやホームディレクトリの自動共有などのホスト統合機能により...",
+      "published": "2026-06-11T23:27:57Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfa843f887d4b247e3b0fc9b286a1540",
+      "title": "Google「NotebookLM」のソースに教科書を指定可能に？ 実現ならすべての学生に朗報か",
+      "link": "https://japan.cnet.com/article/35248838/",
+      "summary": "NotebookLMは数あるAIツールの中でも特に興味深い存在で、競合と呼べる相手がほとんど見当たらない。誰でも使えるツールだが、Googleはかねて学生が活用できる機能の拡充に力を入れてきた。 「Gemini」を搭載したこのAIリサーチアシスタントの最大の特徴は、ユーザーが与えたソースだけをデータ...",
+      "published": "2026-06-11T23:26:49Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ab73fa7700f958f32d211d2cff94372",
+      "title": "[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）] 品質改善に取り組むドコモ、ローミング終了目前の楽天モバイルの次の一手",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2114565.html",
+      "summary": "",
+      "published": "2026-06-12T01:03:30Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f39c07f07a93f76114bf754f95db4268",
+      "title": "ミュトスクラス「Claude Fable 5」とは？何がすごい？非エンジニア広報が Opus 4.8と比較してみた | iret.media",
+      "link": "https://iret.media/199609",
+      "summary": "こんにちは！AI インテグレーター KDDIアイレットの広報・羽鳥です。 2026年6月9日、Anthropic が Mythos クラスの一般向けモデルとして Claude Fable 5を発表し、話題となっています！ 今回は、「話題の Claude Fable 5って何？何がすごいの？」という方...",
+      "published": "2026-06-12T05:40:14Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "227828d233a7abe6120a8ade99cdf2cc",
+      "title": "Fastly、AIトラフィックが「人間の6.5倍」のペースで急増と発表 ボットを阻止するだけではなく、AIトラフィックをどう考えるか？",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2116760.html",
+      "summary": "",
+      "published": "2026-06-12T05:47:58Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "799dba1390b4c7c94c48607925446c0d",
+      "title": "「Claude Fable 5のこっそりナーフ」についてAnthropicが公式声明を発表、AI研究用途でのモデル弱体化を改善へ",
+      "link": "https://gigazine.net/news/20260612-claude-fable-5-safeguard-change/",
+      "summary": "Anthropicは高性能AI「Claude Fable 5」を2026年6月9日にリリースしましたが、Claude Fable 5には「AI研究への利用時にユーザーに通知することなくモデルを弱体化する」という仕組みが組み込まれており、AI研究者などから不満の声があがっています。このモデル弱体化の仕...",
+      "published": "2026-06-12T02:03:39Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "36a3df379a9f0cd67f049d33d2e9725b",
+      "title": "Claude Code × Obsidian で『記憶の二層構造』を作る",
+      "link": "https://zenn.dev/0rv3/articles/b6a7172bfda1ed",
+      "summary": "はじめに Claude(Claude Code / claude.ai)を日常的に使っていると、「前にこの話したよね」「あのアイデア、どこかに書いた気がする」という場面が増えてくる。 これを解消するために、以下の二層構造を構築した。 長期ナレッジ層: Obsidian + MCP連携で、claude...",
+      "published": "2026-06-11T13:30:00Z",
+      "fetched_at": "2026-06-12T08:17:28.951830+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-12T02:47:23.176453+00:00"
+  "updated_at": "2026-06-12T08:17:28.951830+00:00"
 }

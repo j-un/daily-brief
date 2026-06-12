@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1900b0fd3173ef4d898668facedceaa1",
-      "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
-      "published": "11 Jun 2026 05:55 +0000",
-      "fetched_at": "2026-06-11T08:28:59.104430+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1280d12e8a186ee026dd227cae90d146",
       "title": "homebrew代替のRust実装。homebrewのエコシステムを流用している…",
       "link": "https://github.com/lucasgelfond/zerobrew",
@@ -629,7 +619,207 @@
       "fetched_at": "2026-06-12T08:17:28.951830+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "1c9f9f151f0c60e55a09a9cfc33c52a5",
+      "title": "Claude Code Auto Memory をチームでは使わない理由 | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/52824",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Code Auto Memory をチームでは使わない理由 | SIOS Tech Lab",
+      "published": "12 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45aaef25e38fd4bc3ac1bcbb886bd1cf",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://ryokatsu.dev/blog/2026/frontend-phpcon-do-lt-web-idl/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Web IDLって知ってる？",
+      "published": "12 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43eb16faccf821f671006f433365b8bf",
+      "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
+      "link": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
+      "summary": "Article URL: https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/ Comments URL: https://news.ycombi...",
+      "published": "Fri, 12 Jun 2026 05:53:19 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f80ebde703fc9885da6d71016c35d85",
+      "title": "Removing 'um' from a recording is harder than it sounds",
+      "link": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
+      "summary": "Article URL: https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/ Comments URL: https://news.ycombinator.com/item?id=484984...",
+      "published": "Fri, 12 Jun 2026 00:42:11 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff8367307b471233ce339340e05aba83",
+      "title": "Travel locally, where you are",
+      "link": "https://www.ssp.sh/brain/travel-where-you-are/",
+      "summary": "Article URL: https://www.ssp.sh/brain/travel-where-you-are/ Comments URL: https://news.ycombinator.com/item?id=48495751 Points: 105 # Comments: 66",
+      "published": "Thu, 11 Jun 2026 20:08:26 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26b285355326729df1a3e7313bdb5552",
+      "title": "AI時代のスマホに空冷ファンは必須？COMPUTEX 2026で見えたスマホ冷却最前線(山根康宏)",
+      "link": "https://www.techno-edge.net/article/2026/06/12/5177.html",
+      "summary": "AIや高性能化に伴い、スマホの冷却技術として空冷ファン導入が増加し、オンデバイスAI処理に対応した冷却ニーズが高まっている。",
+      "published": "Fri, 12 Jun 2026 18:32:19 +0900",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1b0a17b8be489de4a0e21d58d875ca6",
+      "title": "OpenAI、Codexのレート制限リセット権を貯めて後から使える新機能Banked Reset提供開始 友達紹介でリセットプレゼントも",
+      "link": "https://www.techno-edge.net/article/2026/06/12/5176.html",
+      "summary": "OpenAIが、AIコーディングエージェント「Codex」のレート制限のリセットを貯めておき、任意のタイミングで使える新機能「Banked Reset」のロールアウトを開始しました。",
+      "published": "Fri, 12 Jun 2026 18:02:28 +0900",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3eb3fd47d2a748fd6dc5424735a045b",
+      "title": "経済産業省 GENIAC 基盤モデル開発支援事業 (第4期) における採択事業者への支援を開始",
+      "link": "https://aws.amazon.com/jp/blogs/news/geniac-cycle4-kick-off/",
+      "summary": "2026年6月4日、経済産業省と国立研究開発法人新エネルギー・産業技術総合開発機構 (NEDO) が実施する […]",
+      "published": "Fri, 12 Jun 2026 09:09:27 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "277f724975334e2b140924df1a5cdba1",
+      "title": "Oracle から Amazon Aurora DSQL へのデータ移行",
+      "link": "https://aws.amazon.com/jp/blogs/news/migrating-data-from-oracle-to-amazon-aurora-dsql/",
+      "summary": "AWS DMS、Amazon S3、AWS Glue、AWS Step Functions を使って、Oracle から Amazon Aurora DSQL へデータを移行する手順を解説します。自動化されたコスト効率の高い移行パイプラインを構築し、Amazon Aurora DSQL のサーバーレ...",
+      "published": "Fri, 12 Jun 2026 08:55:44 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "12e192dd2c759ec03da4705fe944124a",
+      "title": "警視庁、メール受信者の注意力を逆手に取った「二段階式フィッシングメール」に注意喚起",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2116742.html",
+      "summary": "",
+      "published": "2026-06-12T07:35:34Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b000b34cbffbd4e1cdfc396dc98189f7",
+      "title": "空気中から1リットル近い飲料水を取り出せるジャケットが開発される",
+      "link": "https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air/",
+      "summary": "テキサス大学オースティン校の研究チームが、空気中の水分を集めて飲料水を取り出せるジャケット型デバイスを開発しました。この技術は繊維そのものに水分回収機能を持たせることで、ハイキングやキャンプ、農作業、災害対応、軍事活動など、飲料水を確保しにくい環境での利用を想定しています。 Scalable hie...",
+      "published": "2026-06-12T07:25:53Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "156f27a34a88ccc838fbb912e9661e09",
+      "title": "ゲーム事業部設立して、終了したお話",
+      "link": "https://zenn.dev/91works/articles/b535a86336cf42",
+      "summary": "はじめに 会社からゲーム事業部作ってみない？と言われたのがきっかけで事業部を作ってみることになり、その経過と終了までをまとめたものになります。 これから事業を始めていく人や、事業を始めるってどういうことなんだろう？という方に少しでも参考になれば幸いです。 事業計画書 まずは事業として設立するには事業...",
+      "published": "2026-06-11T11:42:21Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9c69779b2d79ef5b62fff220ef984dd",
+      "title": "初心者でも自転車で富士山に登れるだと!? 50歳を過ぎてからなぜか「富士ヒル」にはまってしまった理由【ぼっち・ざ・ろーど！その11】【空いた時間でなにしてる？】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2116552.html",
+      "summary": "",
+      "published": "2026-06-12T03:31:15Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c587fee596c2c40d5702eb797951e31",
+      "title": "Blueskyは2026年中に新機能「コミュニティ」を追加予定、同じ興味を持つ人々とより深く交流できる小規模スペース",
+      "link": "https://gigazine.net/news/20260612-bluesky-communities-deeper-smaller-spaces/",
+      "summary": "X(旧Twitter)の代替SNSとして人気のBlueskyに、同じことに興味を持つ人々とより深く交流できる「コミュニティ」機能が追加されることが明らかになりました。 communities are coming to Bluesky this year. today, Bluesky is one...",
+      "published": "2026-06-11T23:59:23Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "491c5c5afec4ed9e89931aed8009fa02",
+      "title": "Emacs Appearances in Pop Culture",
+      "link": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
+      "summary": "software engineer, emacs enthusiast, keyboard lover. occasionally nerdy. As an Emacs user, few things are as delightful as catching my favorite text e...",
+      "published": "2026-06-12T01:05:55Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d467925b05f13384e5dfd4fc9ea3d077",
+      "title": "Starlink対抗の衛星ネット「Amazon Leo」 NTTが国内提供へ 災害時や離島でも“つながる回線”に",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+      "summary": "NTTは6月11日、グループ会社のNTTドコモビジネス（旧NTTコミュニケーションズ）、エヌ・ティ・ティ エムイー（以下、NTT ME）、NTTメディアサプライの3社が、米Amazonの衛星ブロードバンド通信サービス「Amazon Leo」の再販事業者契約を9日までに締結したと発表した。今後はサービ...",
+      "published": "2026-06-12T04:02:54Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f93ba82f121926d483947c40ae85693b",
+      "title": "エージェンティックRAGにAWSで入門しよう！",
+      "link": "https://speakerdeck.com/har1101/ezienteitukuragniawsderu-men-siyou",
+      "summary": "2026/06/11 (木) AWSでAIエージェント構築を始めよう！Amazon Bedrock AgentCore 実践入門 での登壇資料です",
+      "published": "2026-06-12T04:15:47Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a90736e7219aec06a448e7866a410c56",
+      "title": "Microsoft AI、独自開発のAIモデル「MAI」7種を一挙発表 ～推論から画像、音声まで／他社モデルからの蒸留なし、出所不明のデータに頼らず、全部自社で",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2116621.html",
+      "summary": "",
+      "published": "2026-06-12T07:32:41Z",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c1e4d15830e269100e93de3cece764",
+      "title": "Fraunhofer, the creator of the MP3 and MPEG-H, shows me the innovations coming to audio",
+      "link": "https://musictech.com/features/fraunhofer-mp3-to-mpeg-h/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-mp3-to-mpeg-h",
+      "summary": "The institute behind MP3 is now exploring immersive, adaptive and object-based audio, pointing to new ways of producing and delivering sound The post ...",
+      "published": "Fri, 12 Jun 2026 11:30:50 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "55275aaaa50f559eb5cc2fbab9e63235",
+      "title": "Wondering if your playlists contain AI-generated music? Deezer’s new free tool can tell you",
+      "link": "https://musictech.com/news/gear/deezer-ai-music-detector/?utm_source=rss&utm_medium=rss&utm_campaign=deezer-ai-music-detector",
+      "summary": "Deezer says nearly half of users importing playlists from other services already have AI-generated tracks in their libraries. The post Wondering if yo...",
+      "published": "Fri, 12 Jun 2026 08:59:53 +0000",
+      "fetched_at": "2026-06-12T12:49:48.119314+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-12T08:17:28.951830+00:00"
+  "updated_at": "2026-06-12T12:49:48.119314+00:00"
 }

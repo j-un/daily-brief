@@ -1,4 +1,295 @@
 {
-  "articles": [],
-  "updated_at": "2026-06-13T23:33:28.585766+00:00"
+  "articles": [
+    {
+      "entry_id": "5db9886ff4864d7e03892cb68b4d9620",
+      "title": "Amazon DynamoDB グローバルテーブルのベストプラクティス – パート 1: 運用準備 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/best-practices-for-amazon-dynamodb-global-tables-part-1-operational-readiness/",
+      "summary": "パート3までまとめて公開されてる。",
+      "published": "14 Jun 2026 02:49 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3add84c220f0563b1b278fbd15751460",
+      "title": "AWS Lambda durable functionsを使用した耐障害性アプリケーションの構築 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-fault-tolerant-long-running-application-with-aws-lambda-durable-functions-ja/",
+      "summary": "日本語記事きてた。ワークショップのご案内も併せて。",
+      "published": "14 Jun 2026 02:48 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a5e142358017887655ceeaf5927f0d1",
+      "title": "PowerToys 0.100.0が大幅軽量化。コマンドパレットも進化した大型アップデート | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/powertoys-0-100-0/",
+      "summary": "わいわい。1.0にはならんのかねPowerToysくん。",
+      "published": "14 Jun 2026 01:52 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "124b1fd50dcf8c36b4cb2bb8227421ee",
+      "title": "ツール分析結果シートのアップデート - JPCERT/CC Eyes | JPCERTコーディネーションセンター公式ブログ",
+      "link": "https://blogs.jpcert.or.jp/ja/2026/06/tool_analysis_update.html",
+      "summary": "逆引きはGoogle検索で。なるほど。",
+      "published": "14 Jun 2026 01:42 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b17e0308ab35e9959acd5ca0af686352",
+      "title": "AI実践ドリル30日チャレンジ 仕事にすぐ効くAI活用 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/06/09/02654/",
+      "summary": "2026年6月29日発売。",
+      "published": "14 Jun 2026 01:36 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "548a68a9ce900d40c61b6434396a158f",
+      "title": "TimeSync BoF - connpass",
+      "link": "https://connpass.com/event/395215/",
+      "summary": "時刻同期の技術を語り合うイベント。現地/オンライン",
+      "published": "14 Jun 2026 01:33 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1643b9613e89ab3c22e7ae38ab0ceac8",
+      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+      "summary": "「LinuxコンテナとmacOSの両者のユーザーやファイルシステムをシームレスに統合することで、macOSの自然な拡張として便利にLinuxコンテナを利用できるようにしたもの」ほう。WSLと同様の共有が可能と。",
+      "published": "14 Jun 2026 01:25 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e7e82ed750e5ac227374c3b559589c8",
+      "title": "Announcing stdx, Rust's extended standard library: simplicity, performance and supply chain security for everyone",
+      "link": "https://kerkour.com/stdx",
+      "summary": "unofficialであるものの、サプライチェーン問題に悩まされる可能性が減らせることを期待と。",
+      "published": "14 Jun 2026 01:21 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1f4adcef110d6944bfb6804062e1367",
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI - The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "summary": "コマンド実行の自動化を主眼にしたskills/tools、もしくは手元で動くworkflowみたいなものだろうか。",
+      "published": "14 Jun 2026 01:17 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da5e5660b78d9936266899afd7ca232a",
+      "title": "ネットに蔓延るサポート詐欺について (その1 観察編) - コーヒーサーバは香炉である",
+      "link": "https://blog.maripo.org/2026/06/tech-support-scam-0/",
+      "summary": "その2 対処編に書かれてる内容を自動で行うブラウザ拡張が必要とされている。",
+      "published": "14 Jun 2026 01:08 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ad16a3ff384475c572c4913258d8df0",
+      "title": "技術者必携 図解で身に付く ネットワークの基礎 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/06/08/02651/",
+      "summary": "2026年6月11日発売",
+      "published": "14 Jun 2026 01:04 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffbc22fb502a3e68c097e1269f4c493e",
+      "title": "Node.jsプロジェクト - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401673/",
+      "summary": "2026年7月3日発売。オライリーにしてはちょっと変わったタイトルだなと思ったが「Node.jsによる実践的なプロジェクト集」なるほど",
+      "published": "14 Jun 2026 01:02 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89a1e54e83b44e9a8cb0e6d345547876",
+      "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+      "summary": "LXDベースなるほど。",
+      "published": "14 Jun 2026 01:01 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79074a9a4abb39788107ba03682ea0f8",
+      "title": "【図解】エンジニアの「雑なMermaid」を、ビジネス側に刺さる図解に変換する #初心者 - Qiita",
+      "link": "https://qiita.com/ktdatascience/items/4b35eb4e157becfac073",
+      "summary": "MermaidをベースにしてNano Bananaで清書させる。個人的にはdraw.io形式で清書させたいところだ。",
+      "published": "14 Jun 2026 01:00 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e3feab567a319a08d4e190a30b290c3",
+      "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
+      "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
+      "summary": "semgrep+gitleaksno",
+      "published": "14 Jun 2026 00:50 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a44b0e2fc696a1ace3e7b7318196909",
+      "title": "遅延VS. ゲームラグの全対策 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15650-3",
+      "summary": "2026年6月22日発売",
+      "published": "14 Jun 2026 00:49 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44d3387ea27fbd263803fa84c06b526e",
+      "title": "Kimi Code CLI、homebrewに追加されてました。brew ins…",
+      "link": "https://github.com/MoonshotAI/kimi-code",
+      "summary": "Kimi Code CLI、homebrewに追加されてました。brew install kimi-code",
+      "published": "14 Jun 2026 00:47 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcd7b1a1a1595166c6da0eb1a1045941",
+      "title": "Rust実装のターミナル向けファイルマネージャ。画像やpdfなどのプレビュー機能…",
+      "link": "https://github.com/elio-fm/elio",
+      "summary": "Rust実装のターミナル向けファイルマネージャ。画像やpdfなどのプレビュー機能もついてる。",
+      "published": "14 Jun 2026 00:45 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e66adc6d76a48bc9edec030af4664cc6",
+      "title": "tmuxをRustで再実装したものかな。設定ファイルはrmux.confだが、存…",
+      "link": "https://github.com/Helvesec/rmux",
+      "summary": "tmuxをRustで再実装したものかな。設定ファイルはrmux.confだが、存在しない場合はtmux.confがそのまま使える模様。linux/macOS/Windows対応。macOSはbrew install rmuxでインストール可。",
+      "published": "14 Jun 2026 00:43 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cb07dec940977f8f20eec80eb9598c0",
+      "title": "50以上のDBシステムに対応したClient。デスクトップアプリ、Dockerで…",
+      "link": "https://github.com/t8y2/dbx",
+      "summary": "50以上のDBシステムに対応したClient。デスクトップアプリ、Dockerで動くWebブラウザ、CLIなど様々なアクセス方式に対応。AI連携ももちろん対応。CLI版はhomebrew公式に追加されたのでbrew install dbx-cliでok",
+      "published": "14 Jun 2026 00:05 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aeefa830360dc5dccf50478424d94b51",
+      "title": "コーディングエージェントの登場後に読む本が変わった - 覚書",
+      "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/06/04/214202",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コーディングエージェントの登場後に読む本が変わった",
+      "published": "14 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2eb1423f0ba7f385ba113bcf2aa83cf1",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20260602-61b0c122f5/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MySQLで実装されたクエリをSpannerに移行した時に行ったパフォーマンスチューニング",
+      "published": "14 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "775482f807854a6bad2f7d6c55aa4f8b",
+      "title": "S3 Tables×AWS Glueで作る次世代データ分析基盤 | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260605a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 S3 Tables×AWS Glueで作る次世代データ分析基盤 | フューチャー技術ブログ",
+      "published": "13 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1f4bf4c0900e9e6cb80708a0381ff52",
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "link": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "summary": "Article URL: https://www.phoronix.com/news/ReactOS-Running-Half-Life Comments URL: https://news.ycombinator.com/item?id=48522486 Points: 104 # Comment...",
+      "published": "Sat, 13 Jun 2026 23:22:05 +0000",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72ee8d20977c7de29fcfe69d27a7c56e",
+      "title": "Claude Fable 5に作ってもらった日本語プログラミング入門教材「言語の庭」が凄い",
+      "link": "https://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5",
+      "summary": "はじめに こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。大学院の頃はPEG（Parsing Expression Grammar）の研究をしていて、構文解析やプログラミング言語処理系が専門です。 先日、Anthropicの新モデルClaude...",
+      "published": "2026-06-12T02:50:20Z",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0f3424d3514f8253ee3bf9f2e74b47f",
+      "title": "NVIDIAのCEO、日本を素通り 歴訪の韓国・台湾に劣るパートナーの魅力 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN091C60Z00C26A6000000/",
+      "summary": "米エヌビディアのジェンスン・ファン最高経営責任者（CEO）が5〜6月に中国・台湾・韓国を歴訪するなか、日本を素通りした。半導体産業における日本の競争力の陰りだけでなく、人工知能（AI）革命で日本が出遅れかねないリスクを示唆している。「台湾はAI革命の中心だ」「韓国のパートナーに感謝を伝えに来た」。フ...",
+      "published": "2026-06-13T22:18:46Z",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "662fbf1d142c271e24614b77e2c237e3",
+      "title": "サッカーW杯の優勝予測、時代は「予言タコ」から「生成AI」に",
+      "link": "https://www.afpbb.com/articles/-/3639482",
+      "summary": "ドイツ・オーバーハウゼンの水族館「シーライフ」の水槽で、サッカーW杯南アフリカ大会決勝の行方を占い、スペイン国旗のついた箱を選んだタコのパウル（2010年7月9日撮影）。(c)AFP/PATRIK STOLLARZ 【6月13日 AFP】米オープンAIの「チャットGPT」と米アンソロピックの「Cla...",
+      "published": "2026-06-13T10:53:56Z",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b19945593bb39fdc5716a8e8c995946",
+      "title": "knowledge-catalog/okf/SPEC.md at main · GoogleCloudPlatform/knowledge-catalog",
+      "link": "https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md",
+      "summary": "Version 0.1 — Draft OKF is an open, human- and agent-friendly format for representing knowledge — the metadata, context, and curated insight that surr...",
+      "published": "2026-06-13T03:49:15Z",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cc122a55c158654c22b00a3ae12e65c",
+      "title": "CL4R1T4S/ANTHROPIC/CLAUDE-FABLE-5.md at main · elder-plinius/CL4R1T4S",
+      "link": "https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md",
+      "summary": "Here is some information about Claude and Anthropic's products in case the person asks: This iteration of Claude is Claude Fable 5, the first model in...",
+      "published": "2026-06-11T05:18:45Z",
+      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-06-14T02:51:40.642933+00:00"
 }

@@ -289,7 +289,527 @@
       "fetched_at": "2026-06-14T02:51:40.642933+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c9e07578130e37334d97f301f49edfaa",
+      "title": "DNS Summer Day 2026 - connpass",
+      "link": "https://dnsops.connpass.com/event/396807/",
+      "summary": "現地開催",
+      "published": "14 Jun 2026 07:17 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35e822c31ef6ab72700c020a36d566d1",
+      "title": "Tamachi.sre#5 - connpass",
+      "link": "https://tamachi-sre.connpass.com/event/394914/",
+      "summary": "現地開催",
+      "published": "14 Jun 2026 07:16 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "146c08ecef3d1574ef091bbc75fd31bb",
+      "title": "オープンソースのJira代替らしいですが、どうでしょうね。…",
+      "link": "https://github.com/Paca-AI/paca",
+      "summary": "オープンソースのJira代替らしいですが、どうでしょうね。",
+      "published": "14 Jun 2026 07:15 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb70933965953fa33d2975adc7f915b4",
+      "title": "AIへの指示まで履歴として保存する新バージョン管理システム「DeltaDB」をZedが発表 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260612-zed-deltadb/",
+      "summary": "これ読んでると、エージェントへ何らかの作業を依頼するたびにbranch作成して指示も結果も自動コミット、最後に変更内容okもらうときにmergeとすれば既存のVCSでも実現できるんじゃないかなと思った。",
+      "published": "14 Jun 2026 07:10 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0baeeb67119238916b60e9e66445af5",
+      "title": "mtrコマンドをより良くしたTUIベースのtraceroute+αなツール。Ru…",
+      "link": "https://github.com/lance0/ttl",
+      "summary": "mtrコマンドをより良くしたTUIベースのtraceroute+αなツール。Rust実装。ほう",
+      "published": "14 Jun 2026 07:06 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2129638ac0adc845f5ac1efe69cdd224",
+      "title": "GNU screen風キー操作が可能なターミナルマルチプレクサ。既存ターミナル上…",
+      "link": "https://github.com/coder/boo",
+      "summary": "GNU screen風キー操作が可能なターミナルマルチプレクサ。既存ターミナル上で動かすTUIツールではあるのだが、libghostty-vtを内蔵しており各セッションはその上で動くのでscreenでありがちな画面崩れなどが発生しないと。ほう",
+      "published": "14 Jun 2026 07:03 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a31864febc58ce71f81a43c1a775bd87",
+      "title": "ファイル名を覚えておくだけでいつでも復元できて容量無制限、最強のファイルシステム…",
+      "link": "https://github.com/philipl/inferencefs/",
+      "summary": "ファイル名を覚えておくだけでいつでも復元できて容量無制限、最強のファイルシステム爆誕。LLMがファイル名から復元してくれるぞ。保存した時と画像が異なる？人の記憶って曖昧だから覚えてないだけでは？わいわい",
+      "published": "14 Jun 2026 06:41 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "034077ec71da5247e31a165c38785925",
+      "title": "NixOSと相性の良いコンテナーランタイム。ほほう…",
+      "link": "https://github.com/sig-id/nucleus",
+      "summary": "NixOSと相性の良いコンテナーランタイム。ほほう",
+      "published": "14 Jun 2026 06:35 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f6f0b82b78fa6fedc245e65f4140e9c",
+      "title": "トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260609-cftc-trump/",
+      "summary": "おわっとる。多分このように報道されるのは氷山の一角で、様々なところで暗躍してるんだろう。",
+      "published": "14 Jun 2026 06:26 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b58b04507bf7fb8e31d2dc1b1eb20a1",
+      "title": "AI�G�[�W�F���g���t�B�b�V���O���\\�Ɉ���������H�@�ăZ�L�����e�B��Ƃ�OpenClaw�Ō��؁@���ʂ́c�c - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news126.html",
+      "summary": "「エージェントもフィッシングに引っかかる場合があった」エージェントに依存する範囲はある程度制限した方がよい、ということだろうね。資産運用とか雑用の自動化とか危うい。",
+      "published": "14 Jun 2026 06:22 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a74b380a084b5780b1c7aebf7fcb31a7",
+      "title": "oh。パッケージ一覧を流し読みしてみたところメジャーどころもチラホラ。懐かしいl…",
+      "link": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
+      "summary": "oh。パッケージ一覧を流し読みしてみたところメジャーどころもチラホラ。懐かしいlvの文字も見えた。",
+      "published": "14 Jun 2026 06:17 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37584cd834721526aefa7bc3243231f3",
+      "title": "gitdot",
+      "link": "https://gitdot.io/",
+      "summary": "GitHub代替を謳うサービス。シンプルだ。オープンソース実装なのでセルフホストも可能。ライセンスはApache-2.0。コア部分の実装言語はRust。",
+      "published": "14 Jun 2026 06:12 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d13ed1cece9569de14890141722118e",
+      "title": "Amazon Cognito がマルチリージョンレプリケーションのサポートを開始 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/amazon-cognito-multi-region/",
+      "summary": "東京リージョンもok。リージョンのサービス中断発生時の耐障害性向上に。",
+      "published": "14 Jun 2026 06:07 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "266e8e469f1f44b071b34ba61910f785",
+      "title": "Free IPv4 Lookup — Owner, ASN, Geo, PTR — WorldIP.io",
+      "link": "https://worldip.io/",
+      "summary": "IPv4の所有者情報などをまとめたサイト。こうみると日本のIPv4割り当て数って多いね。",
+      "published": "14 Jun 2026 06:05 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8754bcd3653ed42d6a2ce24daf34fe6",
+      "title": "生成AIを使ってチュートリアルやハンズオンなどの資料を作れるツール。チュートリア…",
+      "link": "https://github.com/devenjarvis/lathe",
+      "summary": "生成AIを使ってチュートリアルやハンズオンなどの資料を作れるツール。チュートリアルなどが用意されていない新しい技術を学ぶのにいいのかも。",
+      "published": "14 Jun 2026 05:59 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc480eb481a3ab3661b576376c601a7a",
+      "title": "CLIベースのバックアップツールresticのGUI(Web)ラッパー。グラフ表…",
+      "link": "https://github.com/garethgeorge/backrest",
+      "summary": "CLIベースのバックアップツールresticのGUI(Web)ラッパー。グラフ表示やファイルツリー表示などは普通に便利そう。",
+      "published": "14 Jun 2026 05:56 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce4fe4a274d90b1867409f108ed918cd",
+      "title": "カズーとコーディングエージェントの相性が良い - hitode909の日記",
+      "link": "https://blog.sushi.money/entry/2026/06/11/235900",
+      "summary": "「手でタイピングしながら別のことを音声入力するのは不可能、という点で、口はウーとか言っておく、というのが、もっとも高度な使い方」ほんまか。まぁでもタイピング中に異なること言うのは確かに難しい。",
+      "published": "14 Jun 2026 05:48 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "186d1d7dd1f1777540d54b3c76882ba8",
+      "title": "slogでエラーをちょっとリッチにログ出力するためのライブラリ slogerr をリリースした - 私が歌川です",
+      "link": "https://blog.utgw.net/entry/2026/06/12/230116",
+      "summary": "わいわい",
+      "published": "14 Jun 2026 05:44 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0f5ba23abfd1fd5943b57a10014d125",
+      "title": "ターミナル好きに贈るファイラー「tfx」— macOS と Windows #finder - Qiita",
+      "link": "https://qiita.com/spumoni/items/9c7277d66e9d0ba8be15",
+      "summary": "わいわい",
+      "published": "14 Jun 2026 05:42 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a37a6fa4b2663fc3d22b56bb6d3149f",
+      "title": "現在利用可能: AWS Graviton5 プロセッサを搭載した Amazon EC2 M9g および M9gd インスタンス | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
+      "summary": "M7gからM8gは10%の値上げだったが、M8gからM9gは9%の値上げっぽい。性能の向上はそれより大きいだろうからコストメリットはあるだろうけども。",
+      "published": "14 Jun 2026 05:41 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d60516ab33d663fbb25245006b93a66e",
+      "title": "Linuxカーネルを読んでみたいあなたへ - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20260612",
+      "summary": "新Linuxカーネル解読室は10名体制。わいわい",
+      "published": "14 Jun 2026 05:34 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "00f786e3bfda1a0fbfd1d082cf31be2c",
+      "title": "Mermaid.jsのRust実装。Rustのライブラリとしても使えるし、was…",
+      "link": "https://github.com/Latias94/merman",
+      "summary": "Mermaid.jsのRust実装。Rustのライブラリとしても使えるし、wasmでブラウザ動作版のほかCLIツールも用意されていてmacOSならbrew install merman-cliでインストール可。",
+      "published": "14 Jun 2026 05:31 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2badfc10bc81a1612532e24542bac5d",
+      "title": "ターミナルベースのネットワークモニタリングツール。Rust実装。…",
+      "link": "https://github.com/matthart1983/netwatch",
+      "summary": "ターミナルベースのネットワークモニタリングツール。Rust実装。",
+      "published": "14 Jun 2026 05:24 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61f7fc4faf03ac01abaf0053987fca23",
+      "title": "ターミナル向けKubernetesダッシュボード実装。homebrew公式に追加…",
+      "link": "https://github.com/kdash-rs/kdash",
+      "summary": "ターミナル向けKubernetesダッシュボード実装。homebrew公式に追加されたことを確認。brew install kdash",
+      "published": "14 Jun 2026 05:19 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "597728554ea3c822f9ebc1f06691957a",
+      "title": "人にもAIにも使いやすいDatadog CLIクライアントかな。pup auth…",
+      "link": "https://github.com/datadog-labs/pup",
+      "summary": "人にもAIにも使いやすいDatadog CLIクライアントかな。pup auth loginで認証できるほか、DD_API_KEY/DD_APP_KEYやDD_ACCESS_TOKENも利用可能。",
+      "published": "14 Jun 2026 05:15 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "88f3c2279b262ae78075efe11387bb70",
+      "title": "kubectl explainをよりインタラクティブにして探索できるようにしたk…",
+      "link": "https://github.com/keisku/kubectl-explore",
+      "summary": "kubectl explainをよりインタラクティブにして探索できるようにしたkubectlサブコマンド。このresourceってなんだっけ？ってちょっと調べるときに良さそう。わいわい。",
+      "published": "14 Jun 2026 05:12 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a01f82c9c637bf6ebf15ef843d907f17",
+      "title": "クラウド間の ID フェデレーションで固定シークレットから解放される | diary.sorah",
+      "link": "https://diary.sorah.jp/2026/06/12/id-token-federations",
+      "summary": "わいわい。絶対あとで見返すことになるのでメモ",
+      "published": "14 Jun 2026 05:04 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c3c1ae9a667b5096d054762f030ec1f",
+      "title": "Vercel Security Checkpoint",
+      "link": "https://www.hashicorp.com/ja/blog/terraform-mcp-server-is-now-generally-available",
+      "summary": "TerraformのMCPサーバがGAだそうです。",
+      "published": "14 Jun 2026 04:44 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99cd79b88006bee131ad38d90ea1c6b3",
+      "title": "ターミナルファーストを謳うAI開発環境(ADE)。terminalのベースはxt…",
+      "link": "https://github.com/crynta/terax-ai",
+      "summary": "ターミナルファーストを謳うAI開発環境(ADE)。terminalのベースはxterm.js。editorはCodeMirror。git対応、Webプレビューも可能。AIはクラウドサービスもローカルLLMも可。macOSならbrew install --cask terax",
+      "published": "14 Jun 2026 04:25 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f2a5922a0fa25f998b24ed7a87e2676",
+      "title": "第272回 MySQL 9.7でJSON Duality ViewのDMLを再検証してみた | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/mysql-rcn0272",
+      "summary": "「MySQL 9.7ではDMLを実行できるようになり、JSON Duality View経由での更新がベーステーブルへ反映される」わいわい",
+      "published": "14 Jun 2026 03:06 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a80813a45dd6ecefb21c95ed6f75d2c",
+      "title": "Google will pay SpaceX $920M per month for compute | TechCrunch",
+      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google will pay SpaceX $920M per month for compute",
+      "published": "14 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6604a9f968f2d67f4c8d37b635c36460",
+      "title": "Just a moment...",
+      "link": "https://medium.com/google-cloud/structuring-a-google-cloud-armor-policy-a-rule-ordering-playbook-a5b9fd53976d",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Structuring a Google Cloud Armor Policy: A Rule-Ordering Playbook",
+      "published": "14 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7cbca4d382fff681239fb1034003541",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://levtech.jp/media/detail_868/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜ自宅に Kubernetes クラスタを持つのか —— 本番相当に運用して得られる学び（前編）",
+      "published": "14 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e1e21dbb6ca2f2c3057a70de5c25dd1",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://findy-code.io/media/articles/event-csstrend-2605",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 鹿野さんに聞く！CSSの最新トレンド Ver.2026 - Findy Media",
+      "published": "14 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e41e2247574844e1cfde7ab72df242f",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://findy-code.io/media/articles/gsi-mysql-postgresql",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 RDBは「自己矛盾」しているから面白い？ MySQL・PostgreSQLの深淵に触れる - Findy Media",
+      "published": "14 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "893a90b29e0df8673d0c45e111de4bea",
+      "title": "Mythosでセキュリティの考え方が変わった！今こそコンテナを使おう！ - 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2026/06/05/105749",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Mythosでセキュリティの考え方が変わった！今こそコンテナを使おう！",
+      "published": "14 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2577ca731fa3d6083df5c05a910a01c3",
+      "title": "あるプログラマの若かりし頃の奇行集 - 覚書",
+      "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/06/05/221440",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 あるプログラマの若かりし頃の奇行集",
+      "published": "14 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba71b2af8dfc0ea6561472fe867ede6a",
+      "title": "インフラもアプリも同じAIに書かせたら、境界面のズレが消えた - 虎の穴ラボ技術ブログ",
+      "link": "https://toranoana-lab.hatenablog.com/entry/2026/06/03/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 インフラもアプリも同じAIに書かせたら、境界面のズレが消えた",
+      "published": "14 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "91c3ed3d9a4dff160323fec555e92a0b",
+      "title": "Honda Civics and the Evil Valet",
+      "link": "https://juniperspring.org/posts/honda-evil-valet/",
+      "summary": "Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https://news.ycombinator.com/item?id=36052753 - May 2023 (43 comments) Comments UR...",
+      "published": "Sun, 14 Jun 2026 00:49:46 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e443e43e5be16a252a888ada63d0c86",
+      "title": "What happens to an economy when it's too hot to work?",
+      "link": "https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-06-12/india-s-extreme-heat-is-hurting-its-economy-and-workers Comments URL: https://news.yco...",
+      "published": "Sat, 13 Jun 2026 18:35:15 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "14e3c420a11e6b60b250c6f86b5b082d",
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "link": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "summary": "Article URL: https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html Comments URL: https://news.ycombinator.com/item?id=48519011 Point...",
+      "published": "Sat, 13 Jun 2026 16:49:42 +0000",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a26f617ad67af5dc34a209d711e466d8",
+      "title": "任天堂ゲーム音楽めざまし Alarmoに『ドンキーコング バナンザ』アラーム追加、計11作74曲に。バナンザ本編の体験版も配布中",
+      "link": "https://www.techno-edge.net/article/2026/06/14/5181.html",
+      "summary": "「ゲームの世界で目覚める不思議な目覚まし」こと「ニンテンドーサウンドクロック Alarmo」に、インターネット経由で入手できる無料曲として『ドンキーコング バナンザ』のアラームが加わりました。",
+      "published": "Sun, 14 Jun 2026 15:00:46 +0900",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "47be19719171f66b785f9b610e72ca16",
+      "title": "はてなブックマークは「Togetterブックマーク」に名前を変えるべき",
+      "link": "https://anond.hatelabo.jp/20260614112126",
+      "summary": "はてブ見てたら、Togetterばっかりでびっくりする。 初めて見た人は、Togetterがはてなブックマークの関連サイトかと思うだろう。 それくらいTogetter率が高い。 いっそのこと、Togetterブックマークという名前にしてはどうか。 それなら実情に合ってるし、納得できると思う。",
+      "published": "2026-06-14T02:38:37Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc6de0cbf860f9bebe3e9538b3730e41",
+      "title": "田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？ | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/rice-factory-jrt/",
+      "summary": "そんな中、ちょっと興味深いニュースを見つけました。 Image: 株式会社あゆち株式会社あゆちはお米を室内で栽培・収穫する水耕栽培技術を開発。新品種『みずのゆめ稲』を使った実証が成功したと発表。 つまり、野菜プラントみたいな感じで、お米もプラント生産というわけですね。室内環境での無農薬育成で、天候や...",
+      "published": "2026-06-13T17:19:34Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8417772954f4fcb228124316a360a2a",
+      "title": "言語の庭 — ことばを育てて、言語をつくる",
+      "link": "https://kmizu.github.io/cs-edu-site/",
+      "summary": "登録不要、ずっと無料 アカウントも、メールアドレスも、お金もいりません。ブラウザがあれば、それで全部です。 文系も、理系もない ここではプログラミングを「ことば」として学びます。日本語を読み書きできるあなたは、すでに言語の使い手です。 最後は、自分の言語をつくる この庭のゴールは、あなたが自分のプロ...",
+      "published": "2026-06-11T21:30:28Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af1fb08cd0a0ca664b0a44cde2548ecb",
+      "title": "AIはもうクラウド不要？Googleが公開したローカルAIモデル『Gemma 4 12B』の衝撃 | DXマガジン",
+      "link": "https://dxmagazine.jp/news/ykmt26/",
+      "summary": "Gemma 4 12Bは、モバイルファーストの効率性と高度な推論能力を両立させたミッドサイズのマルチモーダルモデルです。16GBのVRAMやユニファイドメモリを搭載する一般的なノートパソコンでもローカル実行できるサイズに設計されています。エッジ向けのE4Bと、より大型の26Bミックス・オブ・エキスパ...",
+      "published": "2026-06-13T10:56:09Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8047328b5b0e83544c37ec6bdcb68cd6",
+      "title": "「SaaSの死」に会計ソフトfreeeが逆張りして見えた、AIエージェント時代の「正解」【Code with Claude 2026】 | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2606-freee-beyond-the-death-of-saas/",
+      "summary": "freeeの共同創業者でCAIO（最高AI責任者）の横路隆氏。13年間務めたCTOを後任に譲り、この1月からAIに全振りするべくCAIOに就任した。 撮影：Business Insider Japan OpenAIやアンソロピックをはじめとするAIハイパースケーラーがAIの高性能化にしのぎを削るなか...",
+      "published": "2026-06-12T21:10:11Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a33208f78f075e324341e9044e3ef552",
+      "title": "AI開発なら本人同意なく提供 個人情報保護法改正案の問題点とは？：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV6D2RYSV6DULZU008M.html",
+      "summary": "個人情報保護法改正案の国会審議に、いつになく注目が集まっている。火種となっているのは、AI（人工知能）開発やビッグデータ活用を進めるため、本人の同意なく個人データを企業に提供できるようにする特例だ。…",
+      "published": "2026-06-13T23:00:22Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35c5eb9f8fd1ed71be8e0d3165bb69ac",
+      "title": "「幕末」の数学者たち: AIと数学｜R. Shimada",
+      "link": "https://note.com/rshimada/n/n776da2f06fc8",
+      "summary": "まさに黒船来航といったところでしょうか。 先月、OpenAIは内部モデルを使ってエルデシュの単位距離問題を解決したと発表しました。これは、AIが初めて数学における重要な未解決問題を解いた例であるという意味で、極めて重要な意義を持つと思います。 本記事は、今、数学界で何が起こっているのかを、数学者であ...",
+      "published": "2026-06-13T12:37:10Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "53d7a0409ca39952b420881a70fa6645",
+      "title": "「反移民」唱道の兆万長者マスク氏、北アイルランド暴動めぐり批判される",
+      "link": "https://www.afpbb.com/articles/-/3639452",
+      "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【6月13日 AFP】資産が1兆ドル（約160兆円）を超え、世界初の「兆万長者（トリリオネア）」となったイーロン・マスク氏は12日、英領北アイルランドの中心...",
+      "published": "2026-06-13T01:37:29Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56b7b98f42fb1f2282e1b7f07d77a52f",
+      "title": "Meta's months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it | TechCrunch",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it Anyone who works at Meta or knows anyone who works at Meta will ...",
+      "published": "2026-06-14T03:06:49Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b8731cac04a3b86841cacb6dac6838f",
+      "title": "Personal AI AgentのためのPersonal Context Hub実装 - yutashx.log",
+      "link": "https://yutashx.hatenablog.com/entry/2026/06/13/154510",
+      "summary": "背景 前回のPersonal AI Agentのためのデータ基盤設計思想の記事では、AI Agentが個人データを横断参照できる中心を手元に持つという考え方を整理し、その中心を Personal Context Hub と名づけました。 yutashx.hatenablog.com 本記事はその続き...",
+      "published": "2026-06-13T16:34:27Z",
+      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-14T02:51:40.642933+00:00"
+  "updated_at": "2026-06-14T08:09:25.150274+00:00"
 }

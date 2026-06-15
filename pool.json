@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5db9886ff4864d7e03892cb68b4d9620",
-      "title": "Amazon DynamoDB グローバルテーブルのベストプラクティス – パート 1: 運用準備 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/best-practices-for-amazon-dynamodb-global-tables-part-1-operational-readiness/",
-      "summary": "パート3までまとめて公開されてる。",
-      "published": "14 Jun 2026 02:49 +0000",
-      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3add84c220f0563b1b278fbd15751460",
-      "title": "AWS Lambda durable functionsを使用した耐障害性アプリケーションの構築 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/building-fault-tolerant-long-running-application-with-aws-lambda-durable-functions-ja/",
-      "summary": "日本語記事きてた。ワークショップのご案内も併せて。",
-      "published": "14 Jun 2026 02:48 +0000",
-      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1643b9613e89ab3c22e7ae38ab0ceac8",
-      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-      "summary": "「LinuxコンテナとmacOSの両者のユーザーやファイルシステムをシームレスに統合することで、macOSの自然な拡張として便利にLinuxコンテナを利用できるようにしたもの」ほう。WSLと同様の共有が可能と。",
-      "published": "14 Jun 2026 01:25 +0000",
-      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5e3feab567a319a08d4e190a30b290c3",
-      "title": "バイブコーディングが怖いので、全PJにSemgrep + gitleaksの自動セキュリティスキャンを仕込んだ話",
-      "link": "https://zenn.dev/zittiandbuoni/articles/632ff0709247f6",
-      "summary": "semgrep+gitleaksno",
-      "published": "14 Jun 2026 00:50 +0000",
-      "fetched_at": "2026-06-14T02:51:40.642933+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "eb70933965953fa33d2975adc7f915b4",
       "title": "AIへの指示まで履歴として保存する新バージョン管理システム「DeltaDB」をZedが発表 - GIGAZINE",
       "link": "https://gigazine.net/news/20260612-zed-deltadb/",
@@ -379,7 +339,367 @@
       "fetched_at": "2026-06-15T02:56:12.873018+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bdd776696cb91d7b1258aa8e203bf5dd",
+      "title": "AIネイティブ時代の設計書を考える | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260609a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIネイティブ時代の設計書を考える | フューチャー技術ブログ",
+      "published": "15 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a46f764547d1ffb11f34db4965a6f4e",
+      "title": "OJTをいつ終えるか | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260608a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OJTをいつ終えるか | フューチャー技術ブログ",
+      "published": "15 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "828d0d60f7924176a387ba2172dcb7e6",
+      "title": "コンテナ運用をシンプルにする「AppRun」とは？共用型・専有型の魅力を解説 | さくらのナレッジ",
+      "link": "https://knowledge.sakura.ad.jp/50689/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コンテナ運用をシンプルにする「AppRun」とは？共用型・専有型の魅力を解説",
+      "published": "15 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16bf2822a28db4abb2066882725dcd9e",
+      "title": "AI駆動開発を2コマンドで組織標準に ── Claude Code × Codexで設計からテストまで - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/ai-development-two-commands",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI駆動開発を2コマンドで組織標準に ── Claude Code × Codexで設計からテストまで",
+      "published": "15 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a1ab37f9c5492b01876fd7d71dc4ab7",
+      "title": "プロダクト開発で「意見」と「事実」を行き来する | Ryuzee.com",
+      "link": "https://www.ryuzee.com/contents/blog/14621",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プロダクト開発で「意見」と「事実」を行き来する",
+      "published": "15 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a44b0e2fc696a1ace3e7b7318196909",
+      "title": "遅延VS. ゲームラグの全対策 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15650-3",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 遅延VS. ゲームラグの全対策 | 技術評論社",
+      "published": "15 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08843325abdc4fb3aa8769ac59d26aed",
+      "title": "Coding AgentとはじめるMySQLパフォーマンスチューニング - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2026/06/09/165530",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Coding AgentとはじめるMySQLパフォーマンスチューニング",
+      "published": "15 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "162df317e67bfcd2675357018e98c838",
+      "title": "What the Fuck Happened to Nerds",
+      "link": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+      "summary": "Article URL: https://mrmarket.lol/what-the-fuck-happened-to-nerds/ Comments URL: https://news.ycombinator.com/item?id=48538229 Points: 112 # Comments:...",
+      "published": "Mon, 15 Jun 2026 08:23:52 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4dad738a8d4a1b527c1cf97755bcba1",
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "summary": "Article URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/ Comments URL: https://news.ycombinator.com/item?id=48537165 Points: 387 # Co...",
+      "published": "Mon, 15 Jun 2026 06:02:57 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c91a3e687bae1e02f7f0e5b5a77b0279",
+      "title": "Apple Foundation Models",
+      "link": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "Article URL: https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Mon, 15 Jun 2026 04:55:34 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f4ec4072af78b76b85930cddbe08370",
+      "title": "Even more batteries included with Emacs",
+      "link": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "summary": "Article URL: https://karthinks.com/software/even-more-batteries-included-with-emacs/ Comments URL: https://news.ycombinator.com/item?id=48535886 Point...",
+      "published": "Mon, 15 Jun 2026 02:30:25 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "14988effe0b9b554fb2284760d9b209d",
+      "title": "AI is code – and can't be prompted into being smarter",
+      "link": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141 Comments URL: https://news.yc...",
+      "published": "Sun, 14 Jun 2026 20:17:54 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7f191af3c70f26634bb24f35e4901a1",
+      "title": "Yserver: A modern X11 server written in Rust",
+      "link": "https://github.com/joske/yserver",
+      "summary": "Article URL: https://github.com/joske/yserver Comments URL: https://news.ycombinator.com/item?id=48531394 Points: 106 # Comments: 110",
+      "published": "Sun, 14 Jun 2026 19:10:35 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc779a956073d562a10a47b7ae4a265d",
+      "title": "Show HN: Discover Wikipedia articles popular on Hacker News",
+      "link": "https://www.orangecrumbs.com/",
+      "summary": "Article URL: https://www.orangecrumbs.com/ Comments URL: https://news.ycombinator.com/item?id=48530382 Points: 115 # Comments: 26",
+      "published": "Sun, 14 Jun 2026 17:54:17 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2621a0b756027f9d488ce9ed37157cd",
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "link": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "summary": "Article URL: https://github.com/nex-agi/Nex-N2/issues/4 Comments URL: https://news.ycombinator.com/item?id=48528371 Points: 350 # Comments: 188",
+      "published": "Sun, 14 Jun 2026 15:37:31 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cc7e0135e479d4b4685b6c17b582f39",
+      "title": "ゲーミングARグラスASUS ROG XREAL R1、14万円で国内発売 世界初240Hz対応、限定300台の予約特典でXREAL Eyeとマウス付属",
+      "link": "https://www.techno-edge.net/article/2026/06/15/5184.html",
+      "summary": "ASUSのゲーミングブランドROGが、XREALとの共同開発によるゲーミングARグラス「ROG XREAL R1」を国内発表しました。 ゲーミングを名乗る理由は、一般的な120Hzを超える240Hzのリフレッシュレートに対応すること。ASUSによればARグラスで240Hzは世界初。",
+      "published": "Mon, 15 Jun 2026 14:30:59 +0900",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "01f296d995c4ff281dd5aef543c36511",
+      "title": "週刊AWS – 2026/6/8週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260608/",
+      "summary": "Amazon OpenSearch Serverless が Agentic Search に対応、Amazon Redshift がマニュアルスナップショットのコストを削減、Claude Fable 5 が一般提供開始、AWS FinOps Agent がプレビュー提供開始、OpenAI GPT-...",
+      "published": "Mon, 15 Jun 2026 09:22:01 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5d5b718f0aa00d6821061ab02526aa4",
+      "title": "AWS クレジット詳細ページのご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-the-aws-credits-detail-page/",
+      "summary": "この記事では、パブリック API および Amazon Q との統合を備えた AWS Billing and […]",
+      "published": "Mon, 15 Jun 2026 06:27:59 +0000",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb8c319f9fe202b4d520fd438051dd40",
+      "title": "機能を作るな。楽して作るな。 （LayerX社内資料） Don’t Build Features. Don’t Take the Easy Way Out.",
+      "link": "https://speakerdeck.com/mosa_siru/don-t-build-features-dot-don-t-take-the-easy-way-out",
+      "summary": "LayerX社内の定例でつかった資料です。",
+      "published": "2026-06-15T05:27:28Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "147437d36c668e5e5dd89de048079708",
+      "title": "グーグル、AIのための知識共有フォーマット「OKF」を公開",
+      "link": "https://www.watch.impress.co.jp/docs/news/2116974.html",
+      "summary": "",
+      "published": "2026-06-15T02:39:11Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af5a36196d2274a0a498835486eeb257",
+      "title": "AIエージェントはCloudflareに賭けろ",
+      "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+      "summary": "最初に表明しておくと、自分はCloudflareの社員である。 AIエージェント時代にCloudflareは最適なプラットフォームである！今回はCloudflareがなぜAIエージェントに向いているかを紹介する。 AIエージェント時代のアーキテクチャ AIエージェントを構築するためのアーキテクチャに...",
+      "published": "2026-06-15T03:10:37Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e553ddfdfb83c1fb94102cf4a6169c71",
+      "title": "Claude Code と Codex CLI を “設計者と作業者” として組み合わせる開発フローの話",
+      "link": "https://blog.asial.co.jp/6859/",
+      "summary": "こんにちは。AI漬けの毎日を送っている橋本です。 今日はAIを使って普段どういった開発フローで開発を進めているか紹介したいと思います。 まず前提として、Asialでは様々なAIツールを導入しているのですが、その中でも自分は Claude Code をメインで使っています。 最初は個人用のMax20x...",
+      "published": "2026-06-15T03:02:36Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d282c6e01a281e756f3d85cfc3f3cfb",
+      "title": "「人形の頭」でテスラの監視機能をだましてよそ見しながら自動運転させる方法を中国のドライバーが編み出す",
+      "link": "https://gigazine.net/news/20260615-chinese-drivers-fool-tesla-autopilot/",
+      "summary": "電気自動車メーカー・テスラの自動車には、ドライバーがハンドルから手を離した状態でもアクセルやブレーキの制御、車線維持または変更などが可能なオートパイロット機能が搭載されています。ドライバーはオートパイロット中も道路の状況を注視する必要があり、テスラ車は搭載するカメラでドライバーを監視していますが.....",
+      "published": "2026-06-15T06:03:23Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e0561c3434c53284d5bab761408ba07",
+      "title": "Google、AIエージェントのための文書記述仕様「Open Knowledge Format」を発表 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/open-knowledge-format",
+      "summary": "Google⁠⁠、AIエージェントのための文書記述仕様「Open Knowledge Format」を発表 Googleは2026年6月13日、AIエージェントと人間の両方が使いやすいオープンな文書記述仕様「Open Knowledge Format」（⁠OKF）を発表した。 How the Ope...",
+      "published": "2026-06-15T02:58:58Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1662743a3b6efec3f7d1a7f4955f0c74",
+      "title": "目的地はシークレット、矢印だけで行き先を誘導する無料の散歩アプリが人気上昇中【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2117043.html",
+      "summary": "",
+      "published": "2026-06-15T02:41:42Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aac00326cb32c0cf5b0918afce39510a",
+      "title": "変更容易性の2層モデル | lacolaco's marginalia",
+      "link": "https://blog.lacolaco.net/posts/two-layer-modifiability-model/",
+      "summary": "ソフトウェアの本質的な特性は変更容易性であり、それはソフトウェアと人間との関係性に左右されるということをここまで見てきた。ではその関係性とはどのように観測されるものか？どのように評価されうるものか？ 変更容易性の2層モデル ここでは変更容易性を2つの層から成るものだと考え、独自の概念を導入する。 予...",
+      "published": "2026-06-15T02:48:59Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5de98279bbe28007a0785fe1f537a03",
+      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/2115598.html",
+      "summary": "",
+      "published": "2026-06-14T23:32:58Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "824dca9d68039e5f3699c135eeabacb4",
+      "title": "RubyKaigi 2026 にローカルオーガナイザーとして参加したので何したかを書く - Re: 醤油の一升瓶じゃあ戦えない",
+      "link": "https://uvb-76.hatenablog.com/entry/2026/06/15/130259",
+      "summary": "やったことをまとめるために一旦出すことにする。あとで加筆されたり、気持ちや日記や荷物ストラテジーが別の記事になる可能性大いにある。 そしてこれを書くために下書きにあった以下の記事をはちゃめちゃに雑な状態で出した。でもこれがないと話ができない。 YAPC::Hakodateに参加した - Re: 醤油...",
+      "published": "2026-06-15T04:21:18Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e58c789be5fd81134f5ef46843ac31d",
+      "title": "Loop EngineeringをClaudeを使って実践してみた。 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/claude-loop-engineering-practice/",
+      "summary": "こんにちは、せーのです。 2026年6月、Loop Engineering という言葉が一気に広がりました。Boris Cherny 氏の \"I don't prompt Claude anymore. I have loops running that prompt Claude\"、Addy Os...",
+      "published": "2026-06-14T08:48:06Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2724697104df7665708dfffba9eb630d",
+      "title": "OpenTelemetry形式でテレメトリーデータを合成するk6拡張を作った",
+      "link": "https://zenn.dev/ymotongpoo/articles/20260615-xk6-otel-gen-intro",
+      "summary": "はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 オブザーバビリティ基盤の検証をしたいとき、いつも悩ましいのが「それらしいテレメトリーをどう用意するか」です。ダッシュボードの開発、Collectorパイプラインの設定確認、バックエンドの負荷試験、社内トレー...",
+      "published": "2026-06-15T03:58:16Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82a6248171fc24277426de34287c7c40",
+      "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+      "link": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+      "summary": "はじめに 「動くものができた。GitHub に push した。Product Hunt にも出した。——でも、誰も使わない。」 個人開発をやったことがある人なら、一度はこの静けさを味わったはずだ。技術的には完成しているのに、リアクションがゼロに近い。バグでもなければ、デザインが致命的に悪いわけでも...",
+      "published": "2026-06-14T05:48:11Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "816f033c5f42312253db42be756bf1df",
+      "title": "Welcome! You are invited to join a webinar: 【26/6/24開催】タイミーに学ぶ、リソースが少ない環境で「信頼できるメディア」をつくる方法【はてなCMS活用事例】. After registering, you will receive a confirmation email about joining the webinar.",
+      "link": "https://hatena.zoom.us/webinar/register/2217624929911/WN_pZ-F2aYoQ-OUnjKep-BYFA",
+      "summary": "2026年6月24日（水）に、「タイミーに学ぶ、リソースが少ない環境で「信頼できるメディア」をつくる方法【はてなCMS活用事例】」と題したセミナーを実施します。 本セミナーでは、実際に「はてなCMS」をご利用いただいている企業様の事例のご紹介として、株式会社タイミーのメディアご担当者様にもご登壇をい...",
+      "published": "2026-06-15T02:00:06Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe8ded16b469eb0d37641db3c9e31801",
+      "title": "ChatGPT・Claude・Geminiに「冷戦下の戦略会議」をさせたら核兵器を使用してしまったという研究結果",
+      "link": "https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/",
+      "summary": "AIの研究開発が急速に進む中で、AIを軍事的な戦略・戦術決定に活用する動きも見え始めています。キングス・カレッジ・ロンドンで政治心理学やAIについて研究するケネス・ペイン教授は「GPT-5.2」「Claude Sonnet 4」「Gemini 3 Flash」で核保有国同士の戦争戦略会議をシミュレー...",
+      "published": "2026-06-15T00:04:15Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c73f3b5604114655e85cbb33f29fb4f6",
+      "title": "「Apple税からの解放」と「クレカ規制」 エンタメを揺るがす「決済」の地殻変動",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/15/news039.html",
+      "summary": "「Apple税」からの解放か、それとも国際決済ブランドによる“締め出し”か──。今、日本のゲーム・エンタメ産業の「決済」の領域で、大きな地殻変動が起きている。 2025年12月、通称「スマホ新法」（スマホソフトウェア競争促進法）が日本で全面施行され、アプリ事業者がAppleや米Googleのアプリ内...",
+      "published": "2026-06-15T00:46:52Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1a2da20589777611c6ad07c16d0a3e5",
+      "title": "WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に",
+      "link": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+      "summary": "WebAssembly関連仕様の標準化を行っているByteCode Allianceは、WebAssemblyを基盤としたコンポーネントモデルの最新仕様「WASI 0.3」（WebAssembly System Interface Preview 3）の正式版を発表しました。 WebAssembly...",
+      "published": "2026-06-14T13:56:28Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25833dfebc3585f931df70aa1ca42ed8",
+      "title": "日本人の食事は4パターン、「休日朝食抜き」「間食多め」「夕食早め」……あなたはどれ？ 東大など論文発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/15/news027.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-06-14T23:33:19Z",
+      "fetched_at": "2026-06-15T09:53:20.804957+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-15T02:56:12.873018+00:00"
+  "updated_at": "2026-06-15T09:53:20.804957+00:00"
 }

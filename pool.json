@@ -1319,7 +1319,147 @@
       "fetched_at": "2026-06-15T19:38:12.757766+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "8832875a0fb9268c38fa1e82978b65b6",
+      "title": "A backdoor in a LinkedIn job offer",
+      "link": "https://roman.pt/posts/linkedin-backdoor/",
+      "summary": "Article URL: https://roman.pt/posts/linkedin-backdoor/ Comments URL: https://news.ycombinator.com/item?id=48546294 Points: 211 # Comments: 42",
+      "published": "Mon, 15 Jun 2026 20:00:57 +0000",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fc1edbf9e09895d4661cb35a8e2e815",
+      "title": "Around 200 Stanford students walk out as Google CEO takes stage",
+      "link": "https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php",
+      "summary": "Article URL: https://www.sfgate.com/tech/article/sundar-pichai-stanford-commencement-22304888.php Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Mon, 15 Jun 2026 18:34:14 +0000",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6af16c9b82b3021f1f9f939131aa2f76",
+      "title": "Game Engine White Papers Commander Keen",
+      "link": "https://forgottenbytes.net/commander_keen.html",
+      "summary": "Article URL: https://forgottenbytes.net/commander_keen.html Comments URL: https://news.ycombinator.com/item?id=48544781 Points: 101 # Comments: 29",
+      "published": "Mon, 15 Jun 2026 17:52:39 +0000",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a8aa15f87052724f12d099b7b36ba28",
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "link": "https://github.com/sammysltd/euromesh",
+      "summary": "Article URL: https://github.com/sammysltd/euromesh Comments URL: https://news.ycombinator.com/item?id=48541014 Points: 101 # Comments: 151",
+      "published": "Mon, 15 Jun 2026 13:31:09 +0000",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25bb950e7a9a2b5a79630f6d078867d2",
+      "title": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata",
+      "summary": "Amazon Bedrock AgentCore Memory extracts useful information from short-term memory and stores it as long-term memory records. Metadata on these record...",
+      "published": "Mon, 15 Jun 2026 20:00:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccbc1080f25d0ec0d23bbc5ffe2060a3",
+      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
+      "summary": "Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log ...",
+      "published": "Mon, 15 Jun 2026 18:00:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7413c72306b0edb780bdd6fd3babaedd",
+      "title": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/",
+      "summary": "Amazon Web Services announces the preview of Palo Alto Networks (PANW) Advanced DNS Security on Amazon Route 53 Resolver DNS Firewall. Security admini...",
+      "published": "Mon, 15 Jun 2026 17:06:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdbb7cb959886d3335d7c2c87362e5c6",
+      "title": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire ...",
+      "published": "Mon, 15 Jun 2026 13:00:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d4a84a7b616038083a9884fdf1b5c00",
+      "title": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by...",
+      "published": "Mon, 15 Jun 2026 13:00:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4ef0e505ed1942178068d36f5b2a824",
+      "title": "AWS WAF announces AI traffic monetization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/",
+      "summary": "Today, AWS WAF announced AI traffic monetization, a new Bot Control capability that lets you price, meter, and collect payment from AI bots and agents...",
+      "published": "Mon, 15 Jun 2026 12:00:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4069c77143312beeacc32b2b7992f758",
+      "title": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/",
+      "summary": "Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on ...",
+      "published": "Thu, 11 Jun 2026 00:12:00 GMT",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "98ab6cd7bacc849e063268d794716074",
+      "title": "同じ勉強時間でもテストで約20％の差…「3年間で脳の発達がほぼ止まる」たった1つの習慣",
+      "link": "https://diamond.jp/articles/-/391629",
+      "summary": "宮城県仙台市は毎年、小・中学生の学力と、生活・学習状況を調査しているという。その解析を引き受けた東北大学加齢医学研究所の川島隆太教授らが目にした驚きの結果とは――。また5～18歳の223人を測定すると、“あるもの”を使用している子どもの「脳の発達」が遅れていることがわかったのだった。（ジャーナリスト...",
+      "published": "2026-06-15T00:56:38Z",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "20772871a573818e33dd63d6ec8f3772",
+      "title": "文系エンジニアがClaude Codeで学習アプリを自作して3か月でCISSP合格した話 - Qiita",
+      "link": "https://qiita.com/hiyoshiz/items/b63c2e7ff52b5554a8a5",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 文系エンジニアがClaude Codeで学...",
+      "published": "2026-06-14T23:57:20Z",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69f3e6a72bebbf36a1545d92e71c3f16",
+      "title": "📦 krahets / hello-algo ⭐ 126,740 (+34) 🗒…",
+      "link": "https://github.com/krahets/hello-algo",
+      "summary": "📦 krahets / hello-algo ⭐ 126,740 (+34) 🗒 Java 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Rub...",
+      "published": "15 Jun 2026 20:16 +0000",
+      "fetched_at": "2026-06-15T21:24:49.495396+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-15T19:38:12.757766+00:00"
+  "updated_at": "2026-06-15T21:24:49.495396+00:00"
 }

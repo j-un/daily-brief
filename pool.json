@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "eb70933965953fa33d2975adc7f915b4",
-      "title": "AIへの指示まで履歴として保存する新バージョン管理システム「DeltaDB」をZedが発表 - GIGAZINE",
-      "link": "https://gigazine.net/news/20260612-zed-deltadb/",
-      "summary": "これ読んでると、エージェントへ何らかの作業を依頼するたびにbranch作成して指示も結果も自動コミット、最後に変更内容okもらうときにmergeとすれば既存のVCSでも実現できるんじゃないかなと思った。",
-      "published": "14 Jun 2026 07:10 +0000",
-      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "0a37a6fa4b2663fc3d22b56bb6d3149f",
-      "title": "現在利用可能: AWS Graviton5 プロセッサを搭載した Amazon EC2 M9g および M9gd インスタンス | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/now-available-amazon-ec2-m9g-and-m9gd-instances-powered-by-new-aws-graviton5-processors/",
-      "summary": "M7gからM8gは10%の値上げだったが、M8gからM9gは9%の値上げっぽい。性能の向上はそれより大きいだろうからコストメリットはあるだろうけども。",
-      "published": "14 Jun 2026 05:41 +0000",
-      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a01f82c9c637bf6ebf15ef843d907f17",
-      "title": "クラウド間の ID フェデレーションで固定シークレットから解放される | diary.sorah",
-      "link": "https://diary.sorah.jp/2026/06/12/id-token-federations",
-      "summary": "わいわい。絶対あとで見返すことになるのでメモ",
-      "published": "14 Jun 2026 05:04 +0000",
-      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "0a80813a45dd6ecefb21c95ed6f75d2c",
-      "title": "Google will pay SpaceX $920M per month for compute | TechCrunch",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google will pay SpaceX $920M per month for compute",
-      "published": "14 Jun 2026 06:55 +0000",
-      "fetched_at": "2026-06-14T08:09:25.150274+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "9742219bfcbecb890817ec2f399c5166",
       "title": "もうプロンプトを書くな──「Loop Engineering」という新しいパラダイムの正体",
       "link": "https://zenn.dev/acrosstudioblog/articles/38509c0473683a",
@@ -699,7 +659,307 @@
       "fetched_at": "2026-06-15T09:53:20.804957+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "87ac5f97a29c995ae5094bb0e366093d",
+      "title": "Hetzner increased dedicated server prices 3-4x",
+      "link": "https://news.ycombinator.com/item?id=48542064",
+      "summary": "A few months after raising prices ~30%, Hetzner has increased bare metal pricing again, this time by 3-4x:AX102: €124 -> €454 AX162 (256GB): €244 -> €...",
+      "published": "Mon, 15 Jun 2026 14:44:02 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef2d20c5e47e623b9c17e22a915145bf",
+      "title": "CrankGPT",
+      "link": "https://crankgpt.com",
+      "summary": "Article URL: https://crankgpt.com Comments URL: https://news.ycombinator.com/item?id=48540854 Points: 235 # Comments: 97",
+      "published": "Mon, 15 Jun 2026 13:20:13 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37d79bd89efd2656d66cd32d6c3d5408",
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "link": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "summary": "Article URL: https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL Comments URL: https...",
+      "published": "Mon, 15 Jun 2026 12:08:59 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ab27674b393e61434a7d61ff2c72673",
+      "title": "Anthropic's Safety Superpower",
+      "link": "https://stratechery.com/2026/anthropics-safety-superpower/",
+      "summary": "Article URL: https://stratechery.com/2026/anthropics-safety-superpower/ Comments URL: https://news.ycombinator.com/item?id=48539078 Points: 159 # Comm...",
+      "published": "Mon, 15 Jun 2026 10:06:35 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d8668edda23cb7849624277d3338f75",
+      "title": "Openrouter Fusion API",
+      "link": "https://openrouter.ai/openrouter/fusion",
+      "summary": "Article URL: https://openrouter.ai/openrouter/fusion Comments URL: https://news.ycombinator.com/item?id=48537641 Points: 138 # Comments: 54",
+      "published": "Mon, 15 Jun 2026 07:10:57 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "131869f8d6a0cbd826fca4e070cde666",
+      "title": "21 years and counting of 'eight fallacies of distributed computing' (2025)",
+      "link": "https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/",
+      "summary": "Article URL: https://blog.apnic.net/2025/12/08/21-years-and-counting-of-eight-fallacies-of-distributed-computing/ Comments URL: https://news.ycombinat...",
+      "published": "Mon, 15 Jun 2026 00:07:32 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19b8cb78d3e2e52000735f6d597cb376",
+      "title": "週刊生成AI with AWS – 2026/6/8 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260608/",
+      "summary": "週刊生成 AI with AWS, エージェント型サービスが続々登場した 2026 年 6 月 8 日号 - タキヒヨー株式会社様、株式会社エイチビーソフトスタジオ様の国内事例ブログを紹介。また、Claude Fable 5 の発表や AWS FinOps Agent、AWS DevOps Agen...",
+      "published": "Mon, 15 Jun 2026 10:57:33 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d331b9e702de51fff4911cbfd1b57ca2",
+      "title": "ゲーム開発者間で「ゲームデザインは書類でガチガチに固める必要あるか」巡って議論沸騰。ヒット作の“800ページ超えデザインドキュメント”、真似るべきか否か - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260615-449795/",
+      "summary": "『Mina the Hollower』の800ページにも及ぶデザインドキュメントを巡り、ゲーム開発におけるデザインドキュメントの運用方針について議論が交わされている。",
+      "published": "2026-06-15T10:17:26Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffcaaf3078ca26589935363782f6689a",
+      "title": "「ChatGPT」と「Gemini」で「Canva」のマジックレイヤーが利用可能に／“フラットな”1枚のAI生成画像をパーツごとにレイヤー化された「Canva」デザインに",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2117005.html",
+      "summary": "",
+      "published": "2026-06-15T08:33:16Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db42398ae9ff7bce93a2030e17765d80",
+      "title": "「技術の人じゃないね」と言われたエンジニアの話 - めるノート",
+      "link": "https://c5meru.hatenablog.jp/entry/2026/06/15/202551",
+      "summary": "私はエンジニアになってから何度も「マネージャー向きですね」と言われてきた。 理由もなんとなく分かる。問題を整理するのが好きだし、複雑な状況を構造化するのも好きだし、人の認識を揃えるのも好きだからだ。 技術的な課題が絡み合っている状況を見ると、まずは図にしたり論点を書き出したりしたくなる。 そういう振...",
+      "published": "2026-06-15T13:58:35Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2863354935963e9d1a6bc42b148d4e35",
+      "title": "技術広報チームのマネージャーに贈る、経営層に説明できる評価軸 - 941::blog",
+      "link": "https://blog.kushii.net/archives/2026/06/15/163726",
+      "summary": "ちょっと長くなっちゃったので要約するとこんなかんじです 技術広報の成果は測りにくい。だからマネージャーも評価に悩む 3つの軸（外部へのアウトプット、内部のコミュニケーション、仕組み化）を定量と定性でバランスよく見て、同時に回すことが基本 3つの軸が高いレベルで回ると自動的に業界への影響力が生まれ、そ...",
+      "published": "2026-06-15T08:14:23Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d56afe86135333408f021a977e625d4",
+      "title": "【お知らせ】人工知能学会設立40周年にあたっての提言 | 人工知能学会 (The Japanese Society for Artificial Intelligence)",
+      "link": "https://www.ai-gakkai.or.jp/whats-new/announcement_20260615/",
+      "summary": "人とAIが共生する社会の実現に向けて 人工知能学会は今年設立40周年を迎えた．40年前は第2次AIブームの真っ只中であった．しかし，この40年間におけるAIの加速的な進展，とりわけ近年の生成AIは，社会，産業，教育，行政，安全保障など，あらゆる領域に抜本的な影響を及ぼす基盤技術へと発展し，人間の知的...",
+      "published": "2026-06-15T09:48:02Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a1f68369672817ee1b3253f060e8e9f",
+      "title": "ゲームエンジンGodot Engineは今後どうなる？コンソールサポートは？AIは？弱点はどこ？Godot利用開発者が関係者に訊いた。ロング公式Q&A決定版になった - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/godot-20260615-449775/",
+      "summary": "躍進を続けるゲームエンジンGodot Engineの課題について、ゲーム開発者にGodotのスタッフが訊いてきた。",
+      "published": "2026-06-15T11:57:54Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fdea86fc732f046d703b991b7d61b70",
+      "title": "この3冊の共通点は何でしょう？——『死神の精度』『AIに書けない文章を書く』『ストーリーテリングの科学』 - あたまの中を循環する",
+      "link": "https://ichi06ka.hatenablog.com/entry/20260615/1781523000",
+      "summary": "なぜ全員が同じ方向に思い込むのか 文学理論側——イーザーさんの「テクストの空白」 脳科学・物語論側——ストーさんのモデル構築と好奇心 文章論側——前田さんの「脈」とクレショフ効果 3冊が同じ現象を語っている 「自分の読み違い」が「人間の認知の仕掛け」に見えた瞬間 書くことの中身は「何を書かないか」に...",
+      "published": "2026-06-15T11:40:42Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe02154eb6f7ae6867ddefcd65018e51",
+      "title": "AIが社会を変革する「今」と「AGIの未来」の中間にある真の問題「混沌とした中間期」とは？",
+      "link": "https://gigazine.net/news/20260615-ai-messy-middle/",
+      "summary": "アメリカのシンクタンクであるブルッキングス研究所でAIに関するプロジェクトを率いてきたモリー・キンダー氏が、エッセイの中で「AIの混沌(こんとん)とした中間期」の到来を予測しており、それが大きな社会的混乱を招くと指摘しています。 How to help knowledge workers who l...",
+      "published": "2026-06-15T07:02:40Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d5445e78cdec1cb2f5699420b8208da",
+      "title": "依存DLLゼロの単体exeで配る ― Windows×Rustで「全部入り」を1ファイルにする舞台裏 - Qiita",
+      "link": "https://qiita.com/mikage/items/77874c029b80bf9d84a5",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに （本記事は、Rustもネイティブ...",
+      "published": "2026-06-15T07:57:31Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bd55f2078aa7b40393d371b5a6b5936",
+      "title": "AI駆動開発の組織標準化に向き合う - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260615/ai-adoption-standardization",
+      "summary": "こんにちは、ラクス技術広報です。 AIツールが開発現場に届いたあと、何が起きているのか。ChatGPT EnterpriseやGitHub Copilotが展開されてしばらく経ったころ、ラクスの開発本部横断組織「開発管理課」はある問いに詰まっていました。ツールは使えている。使っているエンジニアもいる...",
+      "published": "2026-06-15T06:07:39Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f69f870836a9c27efcf0d9a4abf28928",
+      "title": "ドメイン知識こそがAI時代の開発力になる──Anthropic「Code with Claude」で語られたソフトウェア民主化の現在地",
+      "link": "https://codezine.jp/article/detail/24532",
+      "summary": "AIの普及によりソフトウェアを作る制約が変わった。かつては「コードを書けるか」が問われたが、今は「課題を言葉にできるか」が最も重要なスキルだ。2026年6月に東京で開催されたAnthropicのイベント「Code with Claude」のDay 1クロージングセッションで、Anthropic Ja...",
+      "published": "2026-06-15T05:39:06Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "705acab20ed222d342d0fc3ac4b2c42f",
+      "title": "パワポ資料が消えた…MIXI「生成AIフル活用」がエグすぎる、年10億円削減の衝撃の裏側",
+      "link": "https://www.sbbit.jp/article/cont1/185600",
+      "summary": "生成AI活用でぶち当たった「3つの壁」 MIXIでは生成AIの登場以前から、AIにおける研究開発を進めており、スマホゲームやアプリなどで活用してきた実績がある。しかしChatGPTの登場以降は経営における影響も考慮して補助を出すなど普及を狙ったものの、進まなかった経緯がある。村瀨氏はこう振り返る。 ...",
+      "published": "2026-06-14T21:56:00Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2badfc10bc81a1612532e24542bac5d",
+      "title": "GitHub - matthart1983/netwatch: Real-time network diagnostics in your terminal. One command, zero config, instant visibility.",
+      "link": "https://github.com/matthart1983/netwatch",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-04-15T10:47:57Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1ca0d6fef6e222c03fa768d7f261e38",
+      "title": "日本語対応の音声クローンAI「ZONOS2」が登場、トランプ大統領の声でエヴァンゲリオンについて語らせるデモもあり",
+      "link": "https://gigazine.net/news/20260615-tts-zonos2-amd-zyphra/",
+      "summary": "AI開発企業のZyphraが音声合成AI「ZONOS2」を2026年6月12日に発表しました。ZONOS2は人物の声や録音状況を再現しつつ任意のセリフをリアルタイム合成することが可能。日本語にも対応しており、オープンモデルとして公開されています。 ZONOS2: Real-time TTS with...",
+      "published": "2026-06-15T04:50:17Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56830ae84d8f9873566660eaf6b245a1",
+      "title": "カオナビがエンジニアロールを全面再設計した理由｜カオナビ技術広報",
+      "link": "https://recruit.kaonavi.jp/lp/hatena-2606-01/",
+      "summary": "「何をするか」じゃない、 「何に責任を持つか」だ。 カオナビがエンジニアロールを 全面再設計した理由 こんにちは！カオナビ採用広報チームです。 「エンジニアの役割定義って、一度決めたら終わりじゃないの？」「ロールを変えるだけで、組織は本当に変わるの？」そんな疑問に真正面から答えてくれたのが、プロダク...",
+      "published": "2026-06-15T02:00:06Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f79b999dbc56d850a2fb67f84a07b0aa",
+      "title": "3Dの地球を自由に飛べる。Web版Google Earthにフライトシミュレータ追加",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2117058.html",
+      "summary": "",
+      "published": "2026-06-15T02:54:11Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf930f9fab621c0fdff7bd60562f915f",
+      "title": "System Prompts",
+      "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "summary": "Claude's web interface (claude.ai) and mobile apps use a system prompt to provide up-to-date information, such as the current date, to Claude at the s...",
+      "published": "2024-08-27T03:03:19Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57950aa86eb6af767ecc2c0b306bcfe8",
+      "title": "アンソロピック幹部、米政権当局者と会談へ 最新モデル巡り＝報道（ロイター） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/660421a145471f0c94d3bf826b7c99f5e87e2a77",
+      "summary": "[１４日 ロイター] - 米人工知能（ＡＩ）開発企業アンソロピックの技術担‌当幹部らは、同社の最先端ＡＩモデルの⁠提供停止につながった問題の解決を図るため、ワシントンでホ​ワイトハウス当局者と会談する。米ニュースサイトのアク‌シオスが１４日、同社に近い関係者の話として報じた。 報道によると、同社‌の...",
+      "published": "2026-06-15T06:40:42Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49774cd01fbd7c5a057f2f4ee9598ab1",
+      "title": "knowledge-catalog/okf at main · GoogleCloudPlatform/knowledge-catalog",
+      "link": "https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf",
+      "summary": "This repository is primarily about the Open Knowledge Format (OKF). OKF is a universal, vendor-neutral format for representing knowledge as plain mark...",
+      "published": "2026-06-14T01:19:59Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "60adedd2a20683d834572421bfe82b95",
+      "title": "「現行機能保証」はなぜ“悪魔の言葉”になったのか PM歴40年の筆者が解説",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/12/news007.html",
+      "summary": "この連載について ユーザー企業にとって、SIerはITシステムの導入から運用、故障時の対応や更新などに欠かせない存在です。 しかし、その関係性はと言うと、対等なパートナーと言うよりも、ユーザー企業はSIerに対して丸投げしがちで、SIerも「お客さまであるユーザー企業の要望は断りづらい」ために、ユー...",
+      "published": "2026-06-14T23:46:31Z",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83ac090add6a0b978ad0fd01aa5462c5",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 its…",
+      "link": "https://github.com/itsfatduck/optimizerDuck",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 itsfatduck / optimizerDuck ⭐ 3,493 (+321) 🗒 C# Free, open-source Windows optimization tool for performance, priva...",
+      "published": "15 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "97ef932e4b43c50c2ef33b50232e807c",
+      "title": "Genghis Tron, “Signal Fire”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/genghis-tron-signal-fire-review",
+      "summary": "Electro-metal smashers Genghis Tron put the \"Tron\" in Genghis Tron on their latest. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 15 Jun 2026 13:45:14 -0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "16561c2b9f38bbd8ce0eb03565e20cd3",
+      "title": "Twenty-Seven Projects and Counting: Alice Simard’s Unstoppable Metal Onslaught",
+      "link": "https://daily.bandcamp.com/lists/alice-simard-discography-guide",
+      "summary": "The Quebecois artist has dropped nearly 100 releases since 2019, spanning everything from funeral doom to tech-death. Read full story on the Bandcamp ...",
+      "published": "Mon, 15 Jun 2026 13:45:03 -0000",
+      "fetched_at": "2026-06-15T15:38:00.382837+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-15T09:53:20.804957+00:00"
+  "updated_at": "2026-06-15T15:38:00.382837+00:00"
 }

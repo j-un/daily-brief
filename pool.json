@@ -1799,7 +1799,107 @@
       "fetched_at": "2026-06-17T20:03:05.444357+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "6a17cf6cae43723ef4c99a1e2f24c537",
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "link": "https://github.com/Adam-CAD/CADAM",
+      "summary": "Hey HN! I'm Zach from Adam (https://adam.new/). We're building AI agents for mechanical CAD software. We’ve built the company on two fundamental belie...",
+      "published": "Wed, 17 Jun 2026 16:14:04 +0000",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "536297b49f491956aab017787bbe8c01",
+      "title": "Why thinking out loud with someone beats thinking alone",
+      "link": "https://www.thesignalist.io/s/the-dialogue-dividend/",
+      "summary": "Article URL: https://www.thesignalist.io/s/the-dialogue-dividend/ Comments URL: https://news.ycombinator.com/item?id=48569894 Points: 121 # Comments: ...",
+      "published": "Wed, 17 Jun 2026 13:00:38 +0000",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ad093615bbfaf0c2649b053aab18159",
+      "title": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/",
+      "summary": "AWS Graviton5-based M9g database (DB) instances are now generally available for Amazon Relational Database Service (RDS) for PostgreSQL, MySQL, and Ma...",
+      "published": "Wed, 17 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "33ab5f927ca442eacde61681270b3f26",
+      "title": "Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick/",
+      "summary": "Today, AWS announces multiple new features for Amazon Quick, including autonomous agents, multi-dataset analytics capabilities, and a redesigned activ...",
+      "published": "Wed, 17 Jun 2026 13:40:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2817b1ccd9174b8d7f053598dbf01348",
+      "title": "AWS Glue Data Catalog now supports business context and semantic search (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-data-catalog/",
+      "summary": "Today, AWS announces the preview of business context and semantic search for AWS Glue Data Catalog, helping you discover and understand data by semant...",
+      "published": "Wed, 17 Jun 2026 12:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f7d7444997b343d3b67a61b4762eefc",
+      "title": "Oracle Database@AWS now supports Oracle Autonomous AI Database Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/oracle-database-aws-autonomous-database-serverless/",
+      "summary": "Oracle Database@AWS now supports Oracle Autonomous AI Database Serverless (ADB-S), a fully managed Oracle database service on Exadata infrastructure t...",
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccbc1080f25d0ec0d23bbc5ffe2060a3",
+      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
+      "summary": "Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log ...",
+      "published": "Mon, 15 Jun 2026 18:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9e83681bc4db97702e51abdb8acf479",
+      "title": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/",
+      "summary": "AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, ...",
+      "published": "Tue, 09 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "68f1c59794c6f97c8d13b05ecb443c17",
+      "title": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/",
+      "summary": "AWS Backup support for Amazon Elastic Kubernetes Service (EKS) is now available in the AWS European Sovereign Cloud (Germany) Region. This expansion b...",
+      "published": "Tue, 09 Jun 2026 10:00:00 GMT",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf3408e522ca2216aeec1ad6870ab644",
+      "title": "📦 makeplane / plane ⭐ 50,997 (+68) 🗒 Typ…",
+      "link": "https://github.com/makeplane/plane",
+      "summary": "📦 makeplane / plane ⭐ 50,997 (+68) 🗒 TypeScript 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management pl...",
+      "published": "17 Jun 2026 21:16 +0000",
+      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-17T20:03:05.444357+00:00"
+  "updated_at": "2026-06-17T21:24:38.373961+00:00"
 }

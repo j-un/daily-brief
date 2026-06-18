@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1643b9613e89ab3c22e7ae38ab0ceac8",
-      "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
-      "published": "17 Jun 2026 06:55 +0000",
-      "fetched_at": "2026-06-17T08:54:33.775785+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2d16dfc7dffb68cd418c39350eb772c8",
-      "title": "AIエージェント時代の権限管理が、いまアツい - LayerX エンジニアブログ",
-      "link": "https://tech.layerx.co.jp/entry/ai-agent-authorization",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェント時代の権限管理が、いまアツい",
-      "published": "17 Jun 2026 03:55 +0000",
-      "fetched_at": "2026-06-17T08:54:33.775785+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1002e98f9d8ed4c23105b27ea25cdca6",
-      "title": "Amazon Managed Service for Prometheus now supports out of order sample ingestion",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/",
-      "summary": "Amazon Managed Service for Prometheus now supports out-of-order sample ingestion and a workspace-level rule query offset. All workspaces have a defaul...",
-      "published": "Thu, 11 Jun 2026 13:00:00 GMT",
-      "fetched_at": "2026-06-17T08:54:33.775785+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "ccbc1080f25d0ec0d23bbc5ffe2060a3",
       "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
@@ -1139,7 +1109,357 @@
       "fetched_at": "2026-06-18T12:46:09.226969+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "7d2f49bd1848b61cb2ee8d528f0dcd7e",
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "summary": "Article URL: https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html Comments URL: https://news.ycomb...",
+      "published": "Thu, 18 Jun 2026 14:17:07 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03559a926632e295d8f1f33ce8afe5dd",
+      "title": "Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore",
+      "link": "https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/",
+      "summary": "Article URL: https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/ Comments URL: https://news....",
+      "published": "Thu, 18 Jun 2026 13:21:28 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0937462ed37f48263d188bcbcc907302",
+      "title": "Has W Social switched to closed source?",
+      "link": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
+      "summary": "Article URL: https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/ Comments URL: https://news.yc...",
+      "published": "Thu, 18 Jun 2026 12:46:04 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "831e0230a671c7223ed974b6214b0447",
+      "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+      "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+      "summary": "Article URL: https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/ Co...",
+      "published": "Thu, 18 Jun 2026 12:19:05 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a4373e15f94bb1e5f887696196f5641",
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "summary": "Article URL: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner Comments URL: https://news.ycombinator.com/item?id=48584135 Points: 281 # C...",
+      "published": "Thu, 18 Jun 2026 12:10:53 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71ed7c4e1bbc227e93d6b0861987fd4d",
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "summary": "Article URL: https://orchidfiles.com/github-repositories-distributing-malware/ Comments URL: https://news.ycombinator.com/item?id=48583928 Points: 252...",
+      "published": "Thu, 18 Jun 2026 11:45:43 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c690dab56209278aacc609027b86ab7",
+      "title": "Advanced Compilers: The Self-Guided Online Course",
+      "link": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
+      "summary": "Article URL: https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/ Comments URL: https://news.ycombinator.com/item?id=48583606 Points: 135 # C...",
+      "published": "Thu, 18 Jun 2026 11:04:31 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e53b83b1b288b8fff4241e0216bdcbf7",
+      "title": "Hospitals and universities repurposing drugs at 90% lower cost",
+      "link": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+      "summary": "Article URL: https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Thu, 18 Jun 2026 10:33:22 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a2cac8b384a69aa740e50107ab8d52a",
+      "title": ".gitignore Isn't the Only Way to Ignore Files in Git",
+      "link": "https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/",
+      "summary": "Article URL: https://nelson.cloud/.gitignore-isnt-the-only-way-to-ignore-files-in-git/ Comments URL: https://news.ycombinator.com/item?id=48583356 Poi...",
+      "published": "Thu, 18 Jun 2026 10:29:20 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd3f23036ade96da8eb6c12e851468ee",
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "link": "https://rbelmont.mameworld.info/?p=1725",
+      "summary": "Article URL: https://rbelmont.mameworld.info/?p=1725 Comments URL: https://news.ycombinator.com/item?id=48582464 Points: 103 # Comments: 96",
+      "published": "Thu, 18 Jun 2026 08:28:04 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c79e17dbbae162aafc34d4d49e2375ef",
+      "title": "Microsoft、「Microsoft Scout」を発表 ～「OpenClaw」を基盤にした「Autopilot」の第一弾／常時稼働して、指示なしで先回り。「Work IQ」で業務を理解して、どんどん賢く",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118074.html",
+      "summary": "",
+      "published": "2026-06-18T08:48:54Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a30ed8406a1372600a17b14a3e56344",
+      "title": "アメリカの科学界はトランプ大統領の政策で大混乱状態に陥っている",
+      "link": "https://gigazine.net/news/20260618-us-science-chaos/",
+      "summary": "2025年、ドナルド・トランプ大統領が政府効率化省(DOGE)を通じた大規模な予算削減を実行したことで、NASAといった科学系機関に大混乱が生じました。一体何が起こったのか、科学ジャーナリストのアダム・ロジャース氏が解説しています。 America’s compact between science...",
+      "published": "2026-06-18T12:42:28Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c7f573f85998ef05cf88172b8a6e6d0",
+      "title": "Epic GamesがGitの死角を突く。バージョン管理「Lore」公開",
+      "link": "https://joho-todai.com/epic-games-lore-version-control/",
+      "summary": "※ ◎=ネイティブ対応 △=制限付き対応 ×=非対応。LoreはUEFN（Unreal Editor for Fortnite）内蔵VCSとして運用実績あり。pre-1.0 Gitの設計に正面から答える設計意図はわかりやすい。GitとPerforceの長所を選び取り、短所を避ける。 集中型のサーバー...",
+      "published": "2026-06-18T04:37:57Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2d5097d34867b44e0469fa63d660b20",
+      "title": "その問い、本当に正しいですか？AI時代のエンジニアに必要な哲学と認知科学 / ai-philosophy-cognitive-science",
+      "link": "https://speakerdeck.com/minodriven/ai-philosophy-cognitive-science",
+      "summary": "こちらのイベントの登壇資料です エンジニアの役割の変化に向き合うConference https://engineering-shift-con.findy-tools.io/2026/",
+      "published": "2026-06-17T10:26:24Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22f837cd0c4aa51140040ac11025b0a8",
+      "title": "Epic Gamesが大容量バイナリに強いバージョン管理システム「Lore」を公開、ゲーム制作のコードと素材をまとめて管理",
+      "link": "https://gigazine.net/news/20260618-epic-games-lore/",
+      "summary": "Epic Gamesがゲームやエンターテインメント制作向けのオープンソースのバージョン管理システム「Lore」を公開しました。Loreはソースコードだけでなく画像や音声、3Dモデルといった大容量のバイナリファイルを扱うことを前提に設計されており、MITライセンスで利用できます。 Lore | 次世代...",
+      "published": "2026-06-18T08:38:37Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "367ab6820ddcc656e4b1fe04bf58ecdb",
+      "title": "「正規表現が0.002ミリ秒遅かった」という理由だけで、全角/半角判定をすべて『ビット演算』で実装した話 - Qiita",
+      "link": "https://qiita.com/Shiro_Shihi/items/d18bf49f0c7a168baa19",
+      "summary": "この記事は Qiita Tech Festa 2026「この記事誰得？ 私しか得しないニッチな技術で記事投稿！」 の参加記事です。 はじめに みなさん、文字列の全角・半角判定、どうやってますか？ 大半の人はこう答えるでしょう。 「正規表現で /[^\\x20-\\x7E]/ とか使えば一発じゃん」 はい...",
+      "published": "2026-06-17T09:14:08Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "778254bf54d149194068a1078237e436",
+      "title": "あの「コモドール」の名を冠した折りたたみガラケーが突如発表される。ブラウザー・SNSはあえて排除【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2118136.html",
+      "summary": "",
+      "published": "2026-06-18T04:55:40Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9eae48a08b2d4b3a978055527fbee7ae",
+      "title": "月110GBが3270円の「povo」登場 au品質で「つながらない2社」のユーザー刈り取りへ",
+      "link": "https://japan.cnet.com/article/35249087/",
+      "summary": "KDDIは6月18日、オンライン専用プラン「povo2.0」で、メイン回線としての利用を見据えた新たなトッピングを提供すると発表した。 目玉は、povo2.0で最大容量となる1年間トッピング「1.32TB（365日間）」だ。料金は3万9240円で、月あたりに換算すると110GBを3270円で使える。...",
+      "published": "2026-06-18T05:28:39Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "736c4aa2371c8bff2ef1661ba1d637d6",
+      "title": "zlib-rs in Firefox - Trifecta Tech Foundation",
+      "link": "https://trifectatech.org/blog/zlib-rs-in-firefox/",
+      "summary": "As of 151.0.0, Firefox uses zlib-rs for gzip (de)compression. This is very exciting, and has both performance and safety advantages. We first started ...",
+      "published": "2026-06-18T11:29:00Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1df4e538fad8e85d1e4674d8bbbb1ba1",
+      "title": "Copilot Studio に「新しいエージェント体験」がやってきました - 吉田の備忘録",
+      "link": "https://memo.tyoshida.me/power-platform/copilot-studio/copilot-studio-new-orchestration/",
+      "summary": "Microsoft Build が開催された期間に合わせて、大々的な発表なく、しれっとCopilot Studio も新しく生まれ変わりました。 これまでの Copilot Studio は、トピックやフロー（会話の流れ図）といった部品を一つひとつ組み立てていく必要があり、慣れていない方にとっては少...",
+      "published": "2026-06-17T22:03:51Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cad9a2b4cfe50078ad56434c4083d3b8",
+      "title": "GitHub - beamivalice/PonyExl3: Run Exl3 format LLM quant on Apple Silicon",
+      "link": "https://github.com/beamivalice/PonyExl3",
+      "summary": "v0.2.0 - Update, Converter now landed but it's still in beta shape since I haven't tested the tool against a few supported models. But the results wit...",
+      "published": "2026-06-18T11:13:58Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d49fc5ab45063924b1537b3e585d9c5",
+      "title": "「サ終ゲームの継続動作をパブリッシャーへ義務付け」法案化は欧州委員会に却下される【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2118142.html",
+      "summary": "",
+      "published": "2026-06-18T05:24:37Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec80d71bb50f6b191a28f9c6cb4fe0d3",
+      "title": "GitHub - Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "link": "https://github.com/Imbad0202/academic-research-skills",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-03-27T08:21:58Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b81738582c97f620bdf5367cc9768b18",
+      "title": "ハーネスエンジニアリングをやりすぎた話 ~そのハーネスは解体された~",
+      "link": "https://speakerdeck.com/gotalab555/hanesuenziniaringuwoyarisugitahua-sonohanesuhajie-ti-sareta",
+      "summary": "本発表では、AIエージェントによるソフトウェアの長時間自律開発を可能にする「エージェントハーネス」の構築と、その失敗の経緯を共有する。 仕様承認後、放置で大規模開発を完了させることを目指し、タスク分解、並列実行、検証可能、証跡付きといった機能を盛り込んだ。最初、中規模開発に成功したことが最悪の成功体...",
+      "published": "2026-04-24T14:57:56Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23088a08c940a7e8f6f5fc2ccbca1b49",
+      "title": "Google Earthで飛行機操縦シミュレーションが可能に",
+      "link": "https://gigazine.net/news/20260618-flight-simulator-google-earth/",
+      "summary": "Googleの地球儀シミュレータ「Google Earth」に、飛行機に乗った気分になって地球の上空を飛び回れるフライトシミュレータ機能が追加されました。アプリダウンロード不要でブラウザから体験することができます。 【楽しいお知らせ】 Web 版 Google Earth の『フライト シミュレータ...",
+      "published": "2026-06-18T06:51:25Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab71c2b242fbdbbb6eba091c1ba1091e",
+      "title": "ChatGPTに新機能、予約したタスクを自動実行できる「Scheduled tasks」 状況監視も依頼可能",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news099.html",
+      "summary": "米OpenAIは6月17日（現地時間）、ChatGPTに新機能「Scheduled tasks」を順次展開すると発表した。ChatGPTにリマインダーの送信や定期的な作業、各種状況の監視などを依頼すると、指定したタイミングで自動的に実行する。タスクの管理機能や処理速度、通知機能もあわせて改善したとい...",
+      "published": "2026-06-18T06:04:06Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a17d57f5282978de3456426c01c7b09",
+      "title": "そもそもJWTに関する私の理解は完全に間違っていた！ - ブログなんだよもん",
+      "link": "https://koduki.hatenablog.com/entry/2019/11/03/163014",
+      "summary": "TL;DR ステートレスなJWTはそもそもセッションの代替では無い アクセストークンとしての利用が基本で数分レベルの短寿命な有効期限で利用 従来のセッションに近い概念はリフレッシュトークン。てか、リフレッシュトークンはセッションでも(たぶん)良い ユースケース的にモノリスには不要。SPAでMSAな時...",
+      "published": "2019-11-03T08:28:37Z",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21a7656e0869a3ae8a762ac1a758723b",
+      "title": "📦 Kong / insomnia ⭐ 38,516 (+13) 🗒 TypeS…",
+      "link": "https://github.com/Kong/insomnia",
+      "summary": "📦 Kong / insomnia ⭐ 38,516 (+13) 🗒 TypeScript The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Loca...",
+      "published": "18 Jun 2026 16:16 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92a38e4bf3c7444073701a26dd97c59d",
+      "title": "📦 dotnet / aspnetcore ⭐ 38,063 (+11) 🗒 C…",
+      "link": "https://github.com/dotnet/aspnetcore",
+      "summary": "📦 dotnet / aspnetcore ⭐ 38,063 (+11) 🗒 C# ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows,...",
+      "published": "18 Jun 2026 15:16 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ae59b2a4976b07bb77be7aa4da8e0a7",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 LibreTr…",
+      "link": "https://github.com/LibreTranslate/LibreTranslate",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 LibreTranslate / LibreTranslate ⭐ 14,800 (+179) 🗒 Python Free and Open Source Machine Translation API. Self-hosted, o...",
+      "published": "18 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc82948151fe68eb394e6bf03c29a6f9",
+      "title": "📦 owainlewis / awesome-artificial-intell…",
+      "link": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "summary": "📦 owainlewis / awesome-artificial-intelligence ⭐ 14,148 (+33) A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers...",
+      "published": "18 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c80ae466dfab566634dc7294262fab81",
+      "title": "“We’ve learned what schools, teachers and students want – and we’ve gone further than ever to deliver”: BandLab for Education 2.0 brings new learning tools, streamlined project management and more",
+      "link": "https://musictech.com/news/music/bandlab-for-education-2/?utm_source=rss&utm_medium=rss&utm_campaign=bandlab-for-education-2",
+      "summary": "BandLab for Education 2.0 also offers an updated experience with Studio, BandLab’s flagship DAW. The post “We’ve learned what schools, teachers and st...",
+      "published": "Thu, 18 Jun 2026 14:00:53 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "032ef7769ebf2e35bfc644672ff3977f",
+      "title": "“The most powerful standalone MPC we have ever built at these prices”: Akai launches “generation 2” MPCs with four times the processing power",
+      "link": "https://musictech.com/news/gear/akai-mpc-one-g2-mpc-key-37-g2/?utm_source=rss&utm_medium=rss&utm_campaign=akai-mpc-one-g2-mpc-key-37-g2",
+      "summary": "The new MPC One G2 and MPC Key 37 G2 both feature an upgraded 8-core processor, 4GB RAM and 64GB internal storage for faster loading speeds and enhanc...",
+      "published": "Thu, 18 Jun 2026 14:00:04 +0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "61884c9725b0c8819934d09bb0f54b96",
+      "title": "The Ascendance of Bay Area Dance Music",
+      "link": "https://daily.bandcamp.com/scene-report/bay-area-dance-music-scene-report",
+      "summary": "The contemporary sound of Bay Area dance music is high-energy, omnivorous, and life-affirming. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 18 Jun 2026 13:51:21 -0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "1eaebb6eb6f00a07d983482632e45640",
+      "title": "Celestial Power, “Celestial Power”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/celestial-power-self-titled-review",
+      "summary": "This heavy psych offshoot of Manchester rockers Dead Sea Apes contrasts scorching set pieces with mellow minimalism. Read full story on the Bandcamp D...",
+      "published": "Thu, 18 Jun 2026 13:51:13 -0000",
+      "fetched_at": "2026-06-18T16:51:51.061440+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-18T12:46:09.226969+00:00"
+  "updated_at": "2026-06-18T16:51:51.061440+00:00"
 }

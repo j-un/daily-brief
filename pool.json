@@ -49,7 +49,147 @@
       "fetched_at": "2026-06-18T08:38:25.303638+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "40acf758f913f8cb873069cb743ecdea",
+      "title": "Show HN: Are You in the Weights?",
+      "link": "https://www.intheweights.com/",
+      "summary": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave \"in the weights\". My design partner and I built a site in the...",
+      "published": "Thu, 18 Jun 2026 20:49:03 +0000",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67d716bfc55aa129bdc10958162696ec",
+      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+      "link": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+      "summary": "https://web.archive.org/web/20260618212028/https://www.thatp...https://archive.ph/I4zjA Comments URL: https://news.ycombinator.com/item?id=48589501 Po...",
+      "published": "Thu, 18 Jun 2026 18:31:23 +0000",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5982a7f989af73d5be2acd3e69526ad",
+      "title": "1兆パラメータのコーディングAI「Kimi-K2.7-Code」が無料・商用利用可、既存の衛星画像から地球を3D生成するアリババ開発のAI「ABot-Earth 0.5」など生成AI技術5つを解説（生成AIウィークリー）",
+      "link": "https://www.techno-edge.net/article/2026/06/19/5203.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第148回）は、テキスト生成を最大4倍高速化するGoogle開発のAIモデル「DiffusionGemma」や、1兆パラメータのコーディング特化AI「Kimi-K2.7-Code」を取り上げてます...",
+      "published": "Fri, 19 Jun 2026 08:26:30 +0900",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee75c367ce69b375deae816f832c7b0a",
+      "title": "Amazon ECS announces faster service auto scaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/",
+      "summary": "Amazon ECS service auto scaling now detects and responds to load changes faster with support for high resolution (20-second) metrics and metric publis...",
+      "published": "Thu, 18 Jun 2026 21:00:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "93a3c286307ba6c7abf75343c9c435a2",
+      "title": "Amazon EC2 G7 instances are now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available",
+      "summary": "Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell ...",
+      "published": "Thu, 18 Jun 2026 20:59:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fee20543de595ba9d33bfd45109538ed",
+      "title": "Amazon EKS now supports customer-routed control plane egress",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress",
+      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you route outbound Kuber...",
+      "published": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e51a8e8844f1d8da601b428e86f41beb",
+      "title": "Amazon GameLift Servers adds new container fleet improvements",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements",
+      "summary": "Amazon GameLift Servers now supports two significant container fleet improvements that enhance flexibility and inter-container communication for game ...",
+      "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebd59081718d90431c850619bced7c81",
+      "title": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports higher volume-level limits for General Purpose (gp3) storage. With this up...",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "be0ff6eb444cd13019c0142e26636969",
+      "title": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available",
+      "summary": "Today, AWS announces that Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy, giving enterprises deeper safety and security controls a...",
+      "published": "Wed, 17 Jun 2026 12:00:00 GMT",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d901ea8bdacb297e1810d6f1373c3a47",
+      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/uv-audit-preview",
+      "summary": "OpenAI傘下のAstralは2026年6月8日、Pythonパッケージマネージャー「uv」に、依存関係の脆弱性を確認する新コマンドuv auditと、インストール時に既知のマルウェア情報を照合する機能を追加したと発表した。いずれも現時点ではプレビュー機能で、設計の反復に伴い破壊的変更が入る可能性...",
+      "published": "2026-06-17T03:22:30Z",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c6e423a9a1f0a432b7b91cb3bac2b16",
+      "title": "【特集】 壊れて不要になったモニター、どう処分する？ 2つの方法を比較してみた",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2118387.html",
+      "summary": "",
+      "published": "2026-06-18T21:07:10Z",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c18c08bbdb23b882dad0817f3ca99de0",
+      "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118062.html",
+      "summary": "",
+      "published": "2026-06-18T08:49:07Z",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5eb69d5e71a9ad9dab755eea6e31351",
+      "title": "gapに線をひきたい! gridとflexに罫線を入れられる新しいCSS - ICS MEDIA",
+      "link": "https://ics.media/entry/260618/",
+      "summary": "Chrome・Edge 149（2026年6月）で利用できるようになったCSS Gap Decorationsを紹介します。従来はGrid LayoutやFlexboxの余白に罫線を入れるために、疑似要素や子要素のborderプロパティに頼る場面も多く、折り返しや列数の変化を考慮しながら要素ごとに罫...",
+      "published": "2026-06-18T10:01:52Z",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bddcb9962156c14d9270abc929e416bd",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 yifanfe…",
+      "link": "https://github.com/yifanfeng97/Hyper-Extract",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 yifanfeng97 / Hyper-Extract ⭐ 1,689 (+124) 🗒 Python Transform unstructured text into structured knowledge with LLMs. ...",
+      "published": "18 Jun 2026 23:16 +0000",
+      "fetched_at": "2026-06-18T23:29:02.625547+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-18T21:33:50.704752+00:00"
+  "updated_at": "2026-06-18T23:29:02.625547+00:00"
 }

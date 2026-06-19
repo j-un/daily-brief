@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "0453fc66a41aa898e9c30f158bf9bd1c",
-      "title": "Cloud SQL for MySQLのIAM認証化とGitHub Actionsを承認ゲートにした書き込み権限の一時払い出し - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/cloudsql-mysql-db-role-iam-grant-wf",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloud SQL for MySQLのIAM認証化とGitHub Actionsを承認ゲートにした書き込み権限の一時払い出し",
-      "published": "18 Jun 2026 05:55 +0000",
-      "fetched_at": "2026-06-18T08:38:25.303638+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d60516ab33d663fbb25245006b93a66e",
-      "title": "Linuxカーネルを読んでみたいあなたへ - VA Linux エンジニアブログ",
-      "link": "https://www.valinux.co.jp/blog/entry/20260612",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Linuxカーネルを読んでみたいあなたへ",
-      "published": "18 Jun 2026 03:55 +0000",
-      "fetched_at": "2026-06-18T08:38:25.303638+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "649e56ae8eb690528f18aa135b052ba5",
-      "title": "【GitHub Actions】明日からマネできる CI 高速化テクニック 3 選 - Timee Product Team Blog",
-      "link": "https://tech.timee.co.jp/entry/2026/06/12/120143",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【GitHub Actions】明日からマネできる CI 高速化テクニック 3 選",
-      "published": "18 Jun 2026 03:55 +0000",
-      "fetched_at": "2026-06-18T08:38:25.303638+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "40acf758f913f8cb873069cb743ecdea",
       "title": "Show HN: Are You in the Weights?",
       "link": "https://www.intheweights.com/",
@@ -779,7 +749,237 @@
       "fetched_at": "2026-06-19T09:00:06.299004+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d93f66a67e9d475605ff06ec741497c6",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/stack-overflow-for-agents/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Coding agents have questions, too — so Stack Overflow built them a home",
+      "published": "19 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b72492024c5b64de21d11363ce748690",
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "summary": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 271 # C...",
+      "published": "Fri, 19 Jun 2026 06:35:57 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b3258e8737399539ac3aa2e242fcaf8",
+      "title": "So You Want to Define a Well-Known URI",
+      "link": "https://mnot.net/blog/2026/well_known_uris",
+      "summary": "Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 103 # Comments: 49",
+      "published": "Fri, 19 Jun 2026 06:05:01 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9c0b15dfb359dbc6aad4d6da049d09c",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jun/18/datasette-apps/ Comments URL: https://news.ycombinator.com/item?id=48593731 Points: 101 # Comments:...",
+      "published": "Fri, 19 Jun 2026 01:06:27 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dec972a85618a8559acefc352f9e06f4",
+      "title": "The AirPods Effect",
+      "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "summary": "Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect Comments URL: https://news.ycombinator.com/item?id=48592832 Points: 172 # Commen...",
+      "published": "Thu, 18 Jun 2026 23:08:35 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "187510b8d716ec2e6c0891cdf297f882",
+      "title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+      "link": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+      "summary": "Article URL: https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/ Comments URL: https://news.ycombinator.com/item?id=4...",
+      "published": "Thu, 18 Jun 2026 17:37:00 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "056fafb625da52a978e0337e92722115",
+      "title": "Amazon MQ for RabbitMQ now supports private networking connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/",
+      "summary": "Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resou...",
+      "published": "Thu, 18 Jun 2026 20:20:00 GMT",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "00dcc7629cd63ca232708ea333c5775a",
+      "title": "AWS Transform now supports model-to-model migration assessment for generative AI workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments",
+      "summary": "AWS Transform now offers a model-to-model migration custom transformation that assesses your generative AI workloads and produces a comprehensive migr...",
+      "published": "Tue, 16 Jun 2026 21:55:00 GMT",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4331dfff90c6ef8a96e26d5463fb17c9",
+      "title": "「日本人を分断せよ」不気味に進行する中国の対日プロパガンダ…人民解放軍・政治工作ドクトリンの全貌 | 集英社オンライン | ニュースを本気で噛み砕け",
+      "link": "https://shueisha.online/articles/-/257888",
+      "summary": "中国は武力だけで日本に影響力を及ぼそうとしているわけではない。SNSやメディア、世論を通じて社会の対立をあおり、人々の不信感を増幅させる――。こうした「認知戦」「政治工作」は、中国が長年重視してきた安全保障戦略の柱の一つとされる。人民解放軍が体系化してきた政治工作ドクトリンには、日本社会を内側から揺...",
+      "published": "2026-06-19T01:56:39Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a7264129f5660a73ffb55037dec7f2e",
+      "title": "AWSに繋げなくてもテストできる？新サービス「AWS Blocks」を触ってみた",
+      "link": "https://zenn.dev/aws_japan/articles/aws-blocks-ai-agent-intro",
+      "summary": "はじめに 先日、AWSから AWS Blocks という新しい開発者向けツールがリリースされました。 ドキュメントをひと通り読んで実際にAIエージェントのデモアプリを作ってみたら、思っていた以上に「これは良いぞ」となったので紹介します。結論から言うと、「ローカルで即動く・AWS接続不要・そのままデプ...",
+      "published": "2026-06-19T05:56:57Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c8a7e5888ac2f71350fb60349b453ba",
+      "title": "「AIが自らを作る」と予言した8日後、『Claude Fable 5』は消えた――【生成AIストリーム】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2118581.html",
+      "summary": "",
+      "published": "2026-06-19T08:39:56Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "778fed322ef4e46fed655cbe6761476d",
+      "title": "デザインシステムのskillの精度が上がった8つの方法",
+      "link": "https://zenn.dev/pksha/articles/7a7db5c105f396",
+      "summary": "初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しているのですが、今日は人生で初めてテックブログを書いてみたので、よければご覧ください。（この記事は、デザイントークンを扱うデザイナー・エンジニアを主な対象にしていますが、AI にデザイン実装を任...",
+      "published": "2026-06-18T23:52:33Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6c8188dfba889a41afedc0339cc0228",
+      "title": "新規受け付けを中断していた「GitHub Copilot」個人プラン、約2カ月を経てようやく再開／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118410.html",
+      "summary": "",
+      "published": "2026-06-19T01:38:34Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79d9623f3d06bbd0de8c0d46f0523a86",
+      "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+      "summary": "外部ツールとAIをつなぐ規格「MCP」（Model Context Protocol）に対応し、Claude Codeに加え「Cursor」「Codex」といったAIエージェントサービスから、プロジェクトの画面を直接読み取って動画を編集できる。動画・音声・画像・テキストのマルチトラック編集をはじめ、...",
+      "published": "2026-06-19T09:34:59Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4050e77f722bd5988d7bfdacd0acd7d",
+      "title": "A12およびA13チップ搭載のAppleデバイスでパッチ不可能な脆弱性「usbliter8」が見つかる",
+      "link": "https://gigazine.net/news/20260619-unpatchable-exploit-targets-apple-a12-a13/",
+      "summary": "iPhone XSシリーズに搭載されているA12チップと、iPhone 11シリーズに搭載されているA13チップに、パッチ不可能な脆弱(ぜいじゃく)性が存在することが明らかになりました。 Paradigm Shift - Introducing usbliter8 https://ps.tc/pag...",
+      "published": "2026-06-19T03:29:51Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c766025175d7691bd10638dee1a63f42",
+      "title": "自己推薦の「おすすめ記事」はもう通用しない？ AI検索で進む引用と推薦の分離",
+      "link": "https://www.suzukikenichi.com/blog/self-promotional-best-of-listicles-no-longer-work-ai-search-is-separating-citations-from-recommendations/",
+      "summary": "[レベル: 上級] 自社のプロダクトやサービスを 1 位にする自己推薦のランキング記事を公開することで、AI 検索に引用させる手法が出回っています。 一見するとグレーにも思える手法ですが、効果を表していました。 ところが、Google 検索においては風向きが変わってきたようです。 ダメになるまでは、...",
+      "published": "2026-06-19T01:00:09Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4eb2c7399129db3c851516fa656cbe56",
+      "title": "約2,000人が使うClaude Codeと向き合う。 | CyberAgent Developers Blog",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/64334/",
+      "summary": "作者Boris Cherny氏とのQ&Aから見えた、大規模組織でのAIエージェント活用 Q&Aセッション後に撮影した集合写真。 はじめに サイバーエージェントでは、Claude Codeの活用がエンジニア個人の試行錯誤から、組織全体での活用フェーズへ広がっています。現在、社内では約2,000人のユー...",
+      "published": "2026-06-18T04:35:58Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce08f27b7ae53d863037864058863352",
+      "title": "Cloudflare Agents ワークショップ",
+      "link": "https://workshop.yusuke.run/cloudflare-agents",
+      "summary": "Cloudflare Agents ワークショップ Cloudflare Developer Advocate Yusuke Wada https://workshop.yusuke.run/cloudflare-agents Yusuke Wada 和田裕介 Cloudflare Develope...",
+      "published": "2026-06-18T08:38:36Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c37c6462f1f3feb5294b195983c66b7d",
+      "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2118416.html",
+      "summary": "",
+      "published": "2026-06-19T08:14:27Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71b1744d8d4da70e624f8b86e2930cd9",
+      "title": "ついにアプリをクラウド公開へ！「ローカル」「ステージング」「本番」の違いを学びながら、AIと一緒にステージング環境にデプロイしてみた【プロと実践！ ゼロから始めるバイブコーディング】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/vibcode/2117898.html",
+      "summary": "",
+      "published": "2026-06-19T00:03:32Z",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c91380d9f6159474a90c62ee7f877a0f",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Builder…",
+      "link": "https://github.com/BuilderIO/agent-native",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 BuilderIO / agent-native ⭐ 819 (+172) 🗒 TypeScript A framework for building agent-native applications.",
+      "published": "19 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2a5f1801501a962db6609d9e737a87e",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 ais…",
+      "link": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 aishwaryanr / awesome-generative-ai-guide ⭐ 27,428 (+203) 🗒 HTML A one stop repository for generative AI research...",
+      "published": "19 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8ad1613ed8df0b80b1bd2aa423dc778",
+      "title": "Bitwig Studio 6.1 has arrived, with a “radically updated Sampler” – here’s everything you need to know",
+      "link": "https://musictech.com/news/gear/bitwig-studio-6-1/?utm_source=rss&utm_medium=rss&utm_campaign=bitwig-studio-6-1",
+      "summary": "With advanced vertical slicing, workflow improvements and way more. The post Bitwig Studio 6.1 has arrived, with a “radically updated Sampler” – here’...",
+      "published": "Fri, 19 Jun 2026 12:26:09 +0000",
+      "fetched_at": "2026-06-19T13:28:39.925914+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-19T09:00:06.299004+00:00"
+  "updated_at": "2026-06-19T13:28:39.925914+00:00"
 }

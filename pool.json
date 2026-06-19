@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a35689a587bae323fcb98a7ad738df30",
-      "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/",
-      "summary": "Amazon Managed Service for Prometheus now supports ingestion, storage, and querying of Prometheus native histograms, enabling customers to capture hig...",
-      "published": "Thu, 11 Jun 2026 13:00:00 GMT",
-      "fetched_at": "2026-06-18T02:49:18.517541+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "0453fc66a41aa898e9c30f158bf9bd1c",
       "title": "Cloud SQL for MySQLのIAM認証化とGitHub Actionsを承認ゲートにした書き込み権限の一時払い出し - ZOZO TECH BLOG",
       "link": "https://techblog.zozo.com/entry/cloudsql-mysql-db-role-iam-grant-wf",
@@ -499,7 +489,297 @@
       "fetched_at": "2026-06-19T03:34:55.143480+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "47e8d8a1cf1bb8669d24f514e3737fb6",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Making secret scanning more trustworthy: Reducing false positives at scale",
+      "published": "19 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2149290c64f5550b3e223a6ef57e986f",
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations | TechCrunch",
+      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 KPMG pulls report on AI usage due to apparent hallucinations",
+      "published": "19 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7b41e92c0ee1ecdb6cc68eff137521e",
+      "title": "Vulnerability management is reaching the limits of human scale | Sysdig",
+      "link": "https://webflow.sysdig.com/blog/vulnerability-management-is-reaching-the-limits-of-human-scale",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Vulnerability management is reaching the limits of human scale",
+      "published": "19 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b17e49ff09413d518fcdf70da22f07a2",
+      "title": "Canonical Launches ARM Laptop Certification Program to Boost Ubuntu’s Next Generation of Mobile Computing | Linux Journal",
+      "link": "https://www.linuxjournal.com/content/canonical-launches-arm-laptop-certification-program-boost-ubuntus-next-generation-mobile",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Canonical Launches ARM Laptop Certification Program to Boost Ubuntu’s Next Generation of Mobile Computing",
+      "published": "19 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "787c67f65402e682e683c25305a858e1",
+      "title": "Many Let's Encrypt renewals had errors today",
+      "link": "https://letsencrypt.status.io/#2026",
+      "summary": "Article URL: https://letsencrypt.status.io/#2026 Comments URL: https://news.ycombinator.com/item?id=48594715 Points: 139 # Comments: 87",
+      "published": "Fri, 19 Jun 2026 04:18:09 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71d703ec98a84caf5a858591de7347f3",
+      "title": "Ice water drowning survival of young patient (2025)",
+      "link": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "summary": "Article URL: https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885 Comments URL: https://news.ycombinator.com/item?id=48594592 Points: 137 # Comments:...",
+      "published": "Fri, 19 Jun 2026 03:50:25 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94c773c157fb637104437584351281c3",
+      "title": "ChatGPTに定期タスク実行の新機能「スケジュール」、入荷確認や毎朝のまとめを自動化して通知 使い方はかんたん",
+      "link": "https://www.techno-edge.net/article/2026/06/19/5205.html",
+      "summary": "OpenAI が ChatGPT に新機能「タスク」(Scheduled Tasks)を追加しました。現在 iOS / Android モバイルアプリとWeb版、macOSアプリで利用可能です。",
+      "published": "Fri, 19 Jun 2026 17:33:43 +0900",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "d02a6835fcf24f8641fef9e447b0f967",
+      "title": "連載「歌うテックニュース」第8回：「明るすぎる鼻の穴」問題。パストレーシングが可能にする「人間らしい鼻の穴」とは？（西川善司）",
+      "link": "https://www.techno-edge.net/article/2026/06/19/5204.html",
+      "summary": "ゲームに登場するキャラクターは、たとえリアル系表現の人間キャラであっても鼻の穴にリアリティがないと感じたことないでしょうか。",
+      "published": "Fri, 19 Jun 2026 12:57:33 +0900",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a63174ae3cb4a7c6c48c31184c16539",
+      "title": "AI 時代だからこそ、人を育てる ─ コニカミノルタのクラウド人財育成 6 年の歩みと「AWS Boost Camp!」の取り組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/konicaminolta-boostcamp/",
+      "summary": "本ブログは、コニカミノルタ株式会社と Amazon Web Services Japan が共同で執筆しました […]",
+      "published": "Fri, 19 Jun 2026 08:56:15 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "eef4eafd8b481bd9fa51d49151a47258",
+      "title": "AWS Summit 展示「 AWS IoT で実現するロボット遠隔テレオペレーション体験」で Physical AI 時代のデータを生成＆収集しよう！",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit2026-aws-iot-robot-tele-operation/",
+      "summary": "このテレオペのデモでは AWSのIoTサービスを利用し、 WebのUIを見ながらゲームコントローラーを操作することで、クラウド経由でロボットを操作します。",
+      "published": "Fri, 19 Jun 2026 08:29:30 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "18dc6815e598655fa3e8c2f858a3ce2c",
+      "title": "AWS Summit Japan 2026 に Chaos Kitty が対戦モードを引っさげて 4 回目の登場！",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-chaos-engineering-chaos-kitty/",
+      "summary": "みなさんこんにちは！ 猫や犬に癒されるより AI bou (相棒) に助けられる日々を送る Solution […]",
+      "published": "Fri, 19 Jun 2026 08:24:00 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eeb0418af1fa06a6913a00094e0d555",
+      "title": "【開催報告】通信事業者向けカスタム AI エージェントワークショップ開催しました！ ( 2026 年 4 月 23 日 ) – ネットワーク開発・運用を AI エージェントで変える",
+      "link": "https://aws.amazon.com/jp/blogs/news/telco-dev-ai-agent-workshop/",
+      "summary": "はじめに 通信業界の主要 MNO 4 社（NTTドコモ、KDDI、ソフトバンク、楽天モバイル）に NTT、ソニ […]",
+      "published": "Fri, 19 Jun 2026 08:12:54 +0000",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "461990fec19c916dbb77abb5df92e8e3",
+      "title": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/",
+      "summary": "AWS announces the availability of bmn-cx3a instances on second-generation AWS Outposts racks. Bmn-cx3a instances feature 5th Gen AMD EPYC processors w...",
+      "published": "Wed, 17 Jun 2026 14:30:00 GMT",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad418b8beb6b4c597c8da5190349b58c",
+      "title": "AWS Management Console Private Access now works without internet connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/",
+      "summary": "AWS Management Console Private Access now enables customers to access the AWS Console from VPCs without internet connectivity, allowing enterprises to...",
+      "published": "Mon, 15 Jun 2026 23:00:00 GMT",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "82b8523439b098e6921b23b3140d83a2",
+      "title": "トークンの節約法を「VS Code」開発チームが解説、OpenAI、Anthropicそれぞれのポイントも／「GitHub Copilot」のコストと遅延を大幅削減、プロンプトキャッシュの活用や遅延読み込みなど",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118390.html",
+      "summary": "",
+      "published": "2026-06-19T01:36:41Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e6d0b47aac2bc72899011ead62ee8bb",
+      "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+      "summary": "作成した手順を使うときは、新しいスレッドでCodexに該当手順の利用を指示する。アップロードするファイルや対象の日付範囲など、その回ごとに異なる値を渡せば、Codexが手順に沿って作業を進める。 OpenAIは録画時の注意として、短く完結した内容にすること、パスワードなどの機密情報を含めないことを挙...",
+      "published": "2026-06-19T05:40:38Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcc35a00a86c29f4bca708d911ae52c1",
+      "title": "単三電池8本で最大6カ月、庭や畑を見守る『置くだけ簡単「トレイル防犯カメラ」』、サンコーが発売",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2118337.html",
+      "summary": "",
+      "published": "2026-06-18T23:26:50Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ca9143429db9c687785f5eb367a6e40",
+      "title": "Virtual monorepo のすゝめ - 誰かの役に立てばいいブログ",
+      "link": "https://ymmt.hatenablog.com/entry/2026/06/18/230120",
+      "summary": "TL;DR プロダクトの構成要素が多数の Git リポジトリに分かれているが、モノリポ化するのは大変。でもコーディングエージェントにはモノリポのほうが文脈与えやすくて、どうしよう。そんなあなたに virtual monorepo パターンと実際の使い方を指南します。 Claude Code をはじめ...",
+      "published": "2026-06-18T21:07:11Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "750d5573946fbb024af93d35d39312d0",
+      "title": "「この写真を復元して」と入力するだけ、ChatGPTが過激な画像を生成する抜け穴が発覚",
+      "link": "https://japan.cnet.com/article/35249158/",
+      "summary": "「ChatGPT」は、SNSで拡散した「この写真を復元して」というプロンプトによって、性的で生々しい暴力表現を含む画像を容易に生成していたことが分かった。AIサイバーセキュリティ・調査会社であるMindgardが米国時間6月18日に報告書を公開した。この報告は、AIチャットボットの安全策やコンテンツ...",
+      "published": "2026-06-19T03:59:47Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44d38a0544eda5fbc887b9a6600bfff6",
+      "title": "「Microsoft Defender」に未パッチの脆弱性「RoguePlanet」、システムが乗っ取られるおそれ／Microsoftが修正パッチを準備中",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118393.html",
+      "summary": "",
+      "published": "2026-06-19T06:26:45Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8a3d231f22f95a19e2841425d815e79",
+      "title": "ダイソンの高級ハンディファン、使って分かった羽根のないことの便利さ、それでも気になることとは？",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news098.html",
+      "summary": "ダイソンから初めてのポータブルハンディファン「Dyson HushJet Mini Coolファン」が登場した。一目で従来のハンディファンとは違うと思わせる羽根のないスリムな外観が特徴だ。",
+      "published": "2026-06-19T05:03:38Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61170b99df5748ffb0686f1ddd7ad1b1",
+      "title": "不老不死に大金注ぐIT富豪たち 我が身で人体実験、若者の血を輸血……Natureが過熱指摘",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news028.html",
+      "summary": "科学誌「Nature」が6月16日に報じたところによると、現在、IT業界の富裕層や起業家たちの間で、有効性が証明されていない薬やサプリメントを使って自らの体を改造し、寿命を延ばそうとする「バイオハッキング」が過熱しているという。 例えば2019年、IT起業家のブライアン・ジョンソン氏は寿命を延ばすた...",
+      "published": "2026-06-18T22:48:32Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbf6cb833235b4d85c8f4ac6735bd2e2",
+      "title": "ノートPC向け世界初の1,000Wh/Lバッテリ、LenovoがThinkPadに搭載へ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2118433.html",
+      "summary": "",
+      "published": "2026-06-19T03:49:36Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e958d94d83a373a7f3d0f80d1e059e89",
+      "title": "51歳が自転車で富士山に登るのは過酷!! なのになぜかまた出たいと思ってしまう富士ヒルの魅力とは？【ぼっち・ざ・ろーど！その12】【空いた時間でなにしてる？】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2118389.html",
+      "summary": "",
+      "published": "2026-06-19T03:54:27Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ca579454c341f1b90c5a3228b80c57a",
+      "title": "超高速ファイル検索fffが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202606182/",
+      "summary": "GitHub - dmtrKovalenko/fff: The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, Python, Bun and NodeJS The fastest a...",
+      "published": "2026-06-19T00:17:02Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "799eb45228cf8f01eb312b929bf0e610",
+      "title": "Why is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "summary": "Hi – this is Gergely with a free issue of the Pragmatic Engineer Newsletter. In every issue, I cover challenges at Big Tech and startups through the l...",
+      "published": "2026-06-19T04:51:37Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac8e4e6752571a09168cbf624894f603",
+      "title": "画像生成AIのMidjourneyが医療参入、超音波全身スキャナとサウナ融合の「Midjourney Spa」構想を発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news090.html",
+      "summary": "Midjourneyは、超音波を使った全身スキャナと、それを組み込んだ温浴施設「Midjourney Spa」を展開する新事業を立ち上げ、医療分野に参入すると発表した。60秒以内で高精度な立体スキャンを行う技術を開発。当面は体組成マップの提供から始め、将来的には世界で5万台以上のスキャン能力を目指す...",
+      "published": "2026-06-19T03:35:10Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b104053cac10bb44b3d88ffe0e38ccc",
+      "title": "GitHub - anthropics/knowledge-work-plugins: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-02-05T04:17:04Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91c3ca95dc61b90c9084db3de9760bfe",
+      "title": "Claude Code now supports artifacts | Claude",
+      "link": "https://claude.com/blog/artifacts-in-claude-code",
+      "summary": "Starting today, Claude Code can capture work progress as an artifact, which turn Claude Code's work into live, shareable visual pages— including PR wa...",
+      "published": "2026-06-18T23:10:36Z",
+      "fetched_at": "2026-06-19T09:00:06.299004+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-19T03:34:55.143480+00:00"
+  "updated_at": "2026-06-19T09:00:06.299004+00:00"
 }

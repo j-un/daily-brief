@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ccbc1080f25d0ec0d23bbc5ffe2060a3",
-      "title": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
-      "summary": "Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log ...",
-      "published": "Mon, 15 Jun 2026 18:00:00 GMT",
-      "fetched_at": "2026-06-17T21:24:38.373961+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "a35689a587bae323fcb98a7ad738df30",
       "title": "Amazon Managed Service for Prometheus now supports Native Histograms",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/",
@@ -189,7 +179,327 @@
       "fetched_at": "2026-06-18T23:29:02.625547+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "5c3c1ae9a667b5096d054762f030ec1f",
+      "title": "Vercel Security Checkpoint",
+      "link": "https://www.hashicorp.com/ja/blog/terraform-mcp-server-is-now-generally-available",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform MCP server is now generally available",
+      "published": "19 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1ad89054fcf0a85d314d181a31fb648",
+      "title": "Securing CI/CD for an open source project: Locking down dependencies | CNCF",
+      "link": "https://www.cncf.io/blog/2026/06/12/securing-ci-cd-for-an-open-source-project-locking-down-dependencies/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Securing CI/CD for an open source project: Locking down dependencies",
+      "published": "18 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca8ef5636ff758326545b03501b7858f",
+      "title": "Update on Ocean Observatories Initiative",
+      "link": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
+      "summary": "Article URL: https://www.nsf.gov/news/update-ocean-observatories-initiative Comments URL: https://news.ycombinator.com/item?id=48593093 Points: 111 # ...",
+      "published": "Thu, 18 Jun 2026 23:41:48 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4922565bf91b13bbb74e0b12aaaa034",
+      "title": "Zero-Touch OAuth for MCP",
+      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "summary": "Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ Comments URL: https://news.ycombinator.com/item?id=48592163 Points: 1...",
+      "published": "Thu, 18 Jun 2026 21:54:10 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ed469a76fa31ebcb6c1bf4f5343c885",
+      "title": "The AI Hate Progression",
+      "link": "https://www.xodium.net/2026/06/the-ai-hate-progression.html",
+      "summary": "Article URL: https://www.xodium.net/2026/06/the-ai-hate-progression.html Comments URL: https://news.ycombinator.com/item?id=48589485 Points: 101 # Com...",
+      "published": "Thu, 18 Jun 2026 18:30:33 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a3c4cbe5dea6ba4bcf9b7580915caf7",
+      "title": "Migrating from GNU Stow to Chezmoi",
+      "link": "https://rednafi.com/misc/chezmoi/",
+      "summary": "Article URL: https://rednafi.com/misc/chezmoi/ Comments URL: https://news.ycombinator.com/item?id=48588413 Points: 109 # Comments: 105",
+      "published": "Thu, 18 Jun 2026 17:09:53 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4e2dfc485959d7ec41bb05c57530da6",
+      "title": "TerraPower in deal with Meta for eight Natrium 345 MW nuclear plants",
+      "link": "https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/",
+      "summary": "Article URL: https://neutronbytes.com/2026/01/09/terrapower-in-mega-deal-with-meta-for-eight-natrium-345-mw-advanced-nuclear-plants/ Comments URL: htt...",
+      "published": "Thu, 18 Jun 2026 15:13:26 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a6f2389c870b3f3813030309c031c3b",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "link": "https://tester.army",
+      "summary": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https://tester.army). TesterArmy is an agentic testing platform that runs end-...",
+      "published": "Thu, 18 Jun 2026 14:49:44 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a5ce2d394ba218474423fd91e049434",
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "summary": "https://web.archive.org/web/20260618100028/https://www.wired... Comments URL: https://news.ycombinator.com/item?id=48584484 Points: 103 # Comments: 84",
+      "published": "Thu, 18 Jun 2026 12:44:09 +0000",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e541a6f2a56099fde24cd89776121f40",
+      "title": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/",
+      "summary": "Today, AWS announces the general availability of a new Local Zone in Hanoi, Vietnam, bringing AWS infrastructure closer to end users. This new Local Z...",
+      "published": "Fri, 19 Jun 2026 01:00:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a4116847edd6adc713e0113c11e31ae",
+      "title": "Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/",
+      "summary": "Amazon MSK Provisioned clusters with Express brokers now support Intelligent Rebalancing on all existing clusters, at no additional cost. Previously a...",
+      "published": "Thu, 18 Jun 2026 22:36:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "adef60671c9427d7d62ddcc11cfd1eff",
+      "title": "AWS Compute Optimizer enhances EBS volume recommendations with additional performance metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-enhances-ebs-recommendations/",
+      "summary": "AWS Compute Optimizer now includes improved visibility into IOPS and throughput spikes when deliverings Amazon EBS volume rightsizing recommendations....",
+      "published": "Thu, 18 Jun 2026 18:30:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0800dc8277af914ce8c79cc59ff140f7",
+      "title": "AWS Partner Central now validates Foundational Technical Review in minutes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/",
+      "summary": "AWS Partner Central now accepts SOC 2 Type II audit reports or AWS Well-Architected Framework Reviews (WAFR) reports to complete Foundational Technica...",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "996f215edd83e4fd4ca849b9c160ca3d",
+      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
+      "summary": "Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the se...",
+      "published": "Thu, 11 Jun 2026 20:10:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "72995ad51e20931bda29011e858ccbb1",
+      "title": "Gemma 4 models now available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/",
+      "summary": "Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on Amazon Bedrock. With Gemma 4, you can build ...",
+      "published": "Wed, 10 Jun 2026 19:17:00 GMT",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "36ba7b1e099539845bf8c3aec364b5a0",
+      "title": "AIエージェントが自律的に自己改善する self-improvement スキルが良い",
+      "link": "https://zenn.dev/stak22/articles/3ea03d0e3ca025",
+      "summary": "こんにちは、takahashi（@stak_22） です。 私は Claude Code を使って開発しているのですが、「さっき同じこと指摘したのに、また同じミスしてる」というケースがよくあります。 同じセッションなら覚えてくれます。でもセッションをまたぐと忘れる。チームの別メンバーが同じエージェン...",
+      "published": "2026-06-18T06:30:15Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4deb428fbed8c72ee2bde98e44b72d36",
+      "title": "東急「車内コンセントでモバイルバッテリー充電しないで」 注意喚起を更新",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news080.html",
+      "summary": "東急電鉄は6月18日、車内でのモバイルバッテリー使用に関する注意喚起を更新し、車両内の電源コンセントを使ったモバイルバッテリーへの充電も控えるよう求めた。 東急は、一部の車両の有料座席指定サービス「Q SEAT」に電源コンセントを設置している。 同社は6月15日、「モバイルバッテリーによる充電中の発...",
+      "published": "2026-06-19T01:24:56Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "253c0200062ea78f073a77cae9786f6d",
+      "title": "コンサル7社、日本人員10万人超え 企業のAI導入支援で膨張 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC28AGJ0Y6A420C2000000/",
+      "summary": "国内コンサルティング大手の人員が初めて10万人を超える見通しだ。人工知能（AI）導入や活用の支援などで需要が高まる。コンサル各社は採用を拡大して「特需」を取り込む。人員拡大、25%増も2026年度の大手7社の人員数が合計で約10万2000人と前年度から6%増える見込みだ。25年度の約9万6000人も...",
+      "published": "2026-06-18T23:15:44Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6e6145f959f16cee44543cdaa376fae",
+      "title": "16年ぶりに『学研の学習』が復刊 4290円でも予約殺到、AI時代に求められる“体験”の価値",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/19/news021.html",
+      "summary": "ITmedia デジタル戦略EXPO 2026 夏では、各分野の第一人者や企業の現場でビジネス変革に取り組むリーダーの声を通じて、経営×IT×現場のコラボレーションで全社変革を進めるヒントをお届けします。 AIを活用したデジタル戦略が必須となる中、ダイハツ工業や旭化成、NOT A HOTELなどビジ...",
+      "published": "2026-06-18T21:02:58Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10060c320059a2268a1832b9a673383a",
+      "title": "ゼロから始める負荷試験環境構築 — Grafana Cloud k6とDatadogで本番トラフィックを再現する - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/06/19/070000",
+      "summary": "こんにちは。 CTO室/Platform開発チームでSREを担当している富田(@Cooking_ENG)です。 ファインディでは、サービスがどれほどの負荷に耐えられるかを把握し、性能の問題を表面化・改善することで、ユーザーに安定したサービスを提供できる状態を目指しています。 そこで、Grafana ...",
+      "published": "2026-06-19T00:11:03Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7b750a9e4974a9fbbe773a8294deb70",
+      "title": "「脱WordPress」法人サイト担当者が抱える課題5つとSaaS型CMSという選択肢 - オウンドメディア戦略ラボ by はてな",
+      "link": "https://www.hatena.ne.jp/ownedmedia/article/leave-wordpress",
+      "summary": "「会社のWordPressサイト、このまま続けていいのだろうか」。近年、WordPress運用の負荷や保守体制を見直す企業も増えています。 本記事では、WordPressの法人運用で起きている典型的な5つの困りごとと、その対処として注目されているSaaS型CMSへの移行について、得るもの・失うものの...",
+      "published": "2026-06-19T02:00:27Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ba700c27886ca8600e58cb7df05e519",
+      "title": "トランプ大統領「AppleがIntelと提携し、米国でチップ製造」と自身のSNSに投稿",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
+      "summary": "ドナルド・トランプ米大統領は6月18日（現地時間）、自身のSNS「Truth Social」に投稿し、米Appleが米Intelと協力して米国内でチップを設計・製造することに合意したと述べた。ただしAppleとIntelは、この内容を公式に認めてはいない。 トランプ氏は投稿で、世界が依存するテクノロ...",
+      "published": "2026-06-18T22:34:45Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "110b556d366f4d1b6063076543f31933",
+      "title": "消費者の60％がブランドメッセージに「AI」という言葉が含まれていると敬遠する",
+      "link": "https://gigazine.net/news/20260618-ai-brand-visibility-research/",
+      "summary": "大手企業やメディア向けに特化したエンタープライズ対応のCMSおよびホスティングプラットフォーム・WordPress VIPがAI時代のブランド可視性とウェブ体験に関する調査レポート「Future of the Web 2026: Chapter 1」を公開しました。このレポートは、AI時代のブランド...",
+      "published": "2026-06-18T11:39:05Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82f22a5680365a3cb1e3d259d075ecf5",
+      "title": "ゲーム開発ではなぜファイルのマージよりも「ロック」を多用して開発を進めるのか？",
+      "link": "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
+      "summary": "ゲーム開発の現場では、複数人が同じファイルを編集して後から変更内容を統合する「マージ」が一般的なソフトウェア開発ほど使われていません。ゲーム開発者のアレックス・クリリン氏が、画像や3Dモデルなどのバイナリファイル、ファイルの排他ロック、巨大なデータ容量といった事情から、ゲーム開発特有の作業手順が生....",
+      "published": "2026-06-18T23:48:05Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1a22a991ecf70e61b29143e37fd2823",
+      "title": "「GitHub Copilot」アプリが正式版に ～エージェント駆動開発の拠点、Win/Mac/Linux対応／適切なモデルを自動選択してコストを削減する「Auto」モードなども同時アナウンス",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118058.html",
+      "summary": "",
+      "published": "2026-06-18T02:13:02Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5a2014194bd6ca65b5aa2e452c655fd",
+      "title": "OpenAI、Google「Gemini」共同リードのノーム・シャジーア氏を獲得 トランプ政権でAI政策を担ったディーン・ボール氏も",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/19/news072.html",
+      "summary": "米OpenAIに、著名なAI研究者と政策の専門家が相次いで加わることが分かった。米Googleで生成AIモデル「Gemini」の開発を共同で率いてきたノーム・シャジーア氏と、米連邦政府でAI政策に携わったディーン・ボール氏が、それぞれXへの投稿でOpenAIへの参加を明らかにした。 シャジーア氏は6...",
+      "published": "2026-06-18T23:55:53Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "977dcd471721e58db4597201ccf1847b",
+      "title": "Claude DesignとClaude Codeの連携が強化されてコーディングからデザインまでAIをバリバリ活用可能に",
+      "link": "https://gigazine.net/news/20260618-claude-design-claude-code/",
+      "summary": "AnthropicがClaude Designの機能強化を2026年6月17日に発表しました。Claude Designはデザインシステムに沿った制作、キャンバス上での直接編集、Claude Codeとの同期、外部ツールとの連携に対応するようになり、デザインからコーディングまでの流れをより一体的に扱...",
+      "published": "2026-06-18T07:36:00Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "310c489b9088f3f489c20c2ff0b7ba53",
+      "title": "データセンターは海の中に沈めてしまう。故障率も低減。中国で商用利用が始まっているUDC - 中華IT最新事情",
+      "link": "https://tamakino.hatenablog.com/entry/2026/06/12/080000",
+      "summary": "データセンターは立地の選定が最大難関の問題になってきている。中国は、データセンターを海の中に沈めてしまうプロジェクトを進め、商用利用も始まっている。海中では故障率も低くなるとrefiが報じた。 データセンターは用地の選定が最大難関 データセンターをどこに設置するかは非常に頭の痛い問題だ。大量の電力を...",
+      "published": "2026-06-13T01:40:02Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11d6ddd4c40acbbc0463c97bc5d8ac0a",
+      "title": "「MacBook」で「Linux」を簡単に実行--新ツール「container」の使用方法",
+      "link": "https://japan.zdnet.com/article/35249088/",
+      "summary": "筆者はこれまで、「Docker」「Docker Desktop」「Podman」「Portainer」など、あらゆる種類のコンテナーツールを使ってきた。コンテナー関連の作業のほとんどは各種「Linux」マシンで処理してきたが、「MacBook」で作業したくなることもある。どちらを使用するにせよ、選択...",
+      "published": "2026-06-18T22:49:49Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "304814fe300f09ae899c592e775fe315",
+      "title": "個人開発のかくれんぼゲーム「めっちゃカメレオン」 発売1週間で300万本突破 体に絵を描き景色に紛れる独自システム",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news124.html",
+      "summary": "6月10日に発売された個人開発のかくれんぼゲーム「めっちゃカメレオン」が人気を博している。累計販売本数は発売6日で300万本に到達し、Steamストアのレビューも8000件超え。80％の好評率で「非常に好評」ステータスを獲得している。",
+      "published": "2026-06-18T11:05:05Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a39c315f6997ce528c5748eb7cb97772",
+      "title": "【ミニレビュー】親指カメラがフィルムカメラ風に 「Insta360 GO 3S レトロキット」を試す",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2117979.html",
+      "summary": "",
+      "published": "2026-06-18T23:28:06Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "061eb056c52a721a90b5692470f7a828",
+      "title": "ReactとかNext.jsとか、あたかも言語みたいな顔でこちらを見てくるJavaScript周辺技術をまとめてみた - Qiita",
+      "link": "https://qiita.com/miruky/items/b892d9ff73495ca4b68d",
+      "summary": "はじめに こんばんは、mirukyです。 私は元文系の人間なので、プログラミングを学び始めたころ「ReactとかNext.jsってプログラミング言語なの？何？」とよく思っていました。なにせ、非常によく使われているのをいいことに、もはやプログラミング言語かのごとき堂々たる顔をしていませんか、彼ら（主観...",
+      "published": "2026-06-16T15:07:28Z",
+      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-18T23:29:02.625547+00:00"
+  "updated_at": "2026-06-19T03:34:55.143480+00:00"
 }

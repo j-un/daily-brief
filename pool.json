@@ -459,7 +459,167 @@
       "fetched_at": "2026-06-20T07:43:58.064976+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c34b90450299e7ed15353dad7b339688",
+      "title": "Apple ContainerをバックエンドにDocker互換REST APIを…",
+      "link": "https://github.com/socktainer/socktainer",
+      "summary": "Apple ContainerをバックエンドにDocker互換REST APIを用意できるCLI/daemon。つまりこれを起動すればdockerコマンドでApple Containerを扱えるわけだ。わいわい。Podman DesktopのApple Container extensionもこれを...",
+      "published": "20 Jun 2026 10:07 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "01150b5de837f2582eacff0a89a95457",
+      "title": "npm/yarn/bun/uv/pipなどのパッケージマネージャのサプライチェー…",
+      "link": "https://github.com/arnica/depsguard",
+      "summary": "npm/yarn/bun/uv/pipなどのパッケージマネージャのサプライチェーン対策設定を一括で適用してくれるツールかな。Rust実装。",
+      "published": "20 Jun 2026 08:44 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfbe344906742ce38d8a5fd79d165b49",
+      "title": "JWT(JSON Web Tokens)を自前でエンコード/デコードするためのT…",
+      "link": "https://github.com/jwt-rs/jwt-ui",
+      "summary": "JWT(JSON Web Tokens)を自前でエンコード/デコードするためのTUIツール。Rust実装。homebrew公式に追加されてたのでbrew install jwt-uiでインストール可",
+      "published": "20 Jun 2026 08:40 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43c65c26734a77b3283cbf5fb7d51b65",
+      "title": "Just a moment...",
+      "link": "https://www.datacenterdynamics.com/en/news/railway-taps-claude-to-design-a-data-center/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Railway taps Claude to design a data center",
+      "published": "20 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "161d75ecfb64f232740af85225b55dd5",
+      "title": "RHEL10で構築するSyslogサーバ実践ガイド 〜rsyslogでログをホスト別に分離保存する〜｜SHIFT Group 技術ブログ",
+      "link": "https://note.shiftinc.jp/n/ncb6f04c073ec",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 RHEL10で構築するSyslogサーバ実践ガイド 〜rsyslogでログをホスト別に分離保存する〜",
+      "published": "18 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65b502da4928be7ebf375d041d875f54",
+      "title": "I Stored a Website in a Favicon",
+      "link": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "summary": "Article URL: https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/ Comments URL: https://news.ycombinator.com/item?id=48606619 Points: 134 # ...",
+      "published": "Sat, 20 Jun 2026 05:33:59 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03237db1be47df21098c8a5a5a86487a",
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "link": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "summary": "Article URL: https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Sat, 20 Jun 2026 03:36:49 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf8121d2478c613d42769e3aecdd0e5f",
+      "title": "Ask HN: Will programmers write more efficient code during the memory shortage?",
+      "link": "https://news.ycombinator.com/item?id=48604232",
+      "summary": "Maybe there will even be more interest in the invention and use of more advanced algorithms and data structures that use less memory? Comments URL: ht...",
+      "published": "Fri, 19 Jun 2026 22:51:09 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dc3a3d3ce04a947fcbad9bd346c62fd",
+      "title": "Surprising economics of load-balanced systems",
+      "link": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "summary": "Article URL: https://brooker.co.za/blog/2020/08/06/erlang.html Comments URL: https://news.ycombinator.com/item?id=48602918 Points: 114 # Comments: 29",
+      "published": "Fri, 19 Jun 2026 20:30:59 +0000",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26ec54e3fefafe0b37fbd5e91dde22fa",
+      "title": "伝わる発信のつくりかた",
+      "link": "https://yoshiko-pg.github.io/talks/zennfes-2026/",
+      "summary": "2026/06/19のZennfesでの発表「伝わる発信のつくりかた」のスライドです。",
+      "published": "2026-06-20T07:28:29Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57ad080a8660c71a806204e55119c59d",
+      "title": "技術記事、 専門家としてのプログラマ、 言語化",
+      "link": "https://speakerdeck.com/mizchi/ji-shu-ji-shi-zhuan-men-jia-tositenopurogurama-yan-yu-hua",
+      "summary": "技術記事やテクニカルライティングとは何なのか #zennfes の発表資料",
+      "published": "2026-06-20T04:52:30Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb222cc263ad980fd0d8fb4a6cb58784",
+      "title": "“つながらない”声あふれる楽天モバイル、「WiFiスポット」でかつての“ソフトバンク戦法”を踏襲か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/19/news139.html",
+      "summary": "6月19日、楽天モバイルは自社の対象プラン契約者向けに、公衆Wi-Fiサービス「楽天モバイルWiFiスポット」の提供を順次開始すると発表した。対象となるのは、「Rakuten最強プラン」「Rakuten最強U-NEXT」「Rakuten最強プラン（データタイプ）」の他、法人向け「音声＋データプラン」...",
+      "published": "2026-06-19T13:03:00Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c818ebdbb9da62ee6e694bc595883147",
+      "title": "捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜｜memuro-DX-oss",
+      "link": "https://note.com/memuro_dx_oss/n/nf982351d30ef",
+      "summary": "捨てるつもりで作ったシステムが、本稼働している〜 自治体がVibe Codingで「書かない窓口」を内製し、OSSとして公開するまで 〜 2023年窓口体験調査窓口に来た住民が、名前を55回書く。 北海道芽室町の窓口で、私たちが窓口体験調査をして見えてきた現実です。一つの係でやりとりする申請書は、た...",
+      "published": "2026-06-18T16:10:03Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a52ab401808af852b506dba332df12e",
+      "title": "第915回 aptの新機能あれこれ［Ubuntu 26.04 LTS版］ | gihyo.jp",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0915",
+      "summary": "「apt」は言わずとしれたUbuntuの基本を担うパッケージ管理システムです。今回はUbuntu 26.04 LTSに搭載された「apt 3.2.0」に関して、前回のLTSである24.04の「apt 2.8.0」以降に実装された機能について紹介しましょう。 図1 表示がカラフルになったaptコマンド...",
+      "published": "2026-06-17T16:37:44Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22c71887e35a1ce8a1d6bcd710137d6c",
+      "title": "ベテランさんが教えてくれない「クリーンアーキテクチャー」を小学生でもわかるように解説 - Qiita",
+      "link": "https://qiita.com/Hashimoto-Noriaki/items/f451a4ecb49a9476f09b",
+      "summary": "概要 クリーンアーキテクチャーってよく聞くけど、なんやねんって思う人いますよね💦 ベテランさんとかもなかなか教えてくれたりしないです。 なのでその内容を小学生にもわかるレベルで、解説していきます。 今回はRailsで実装してますが、 皆さんが使っている言語に置き換えて学んでくださいね！ AI時代だか...",
+      "published": "2026-06-19T11:38:57Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8afe5454f73162921216572a9c4a049",
+      "title": "楽天モバイル、契約者向けフリーWi-Fiの提供を開始、まずは関東のイオンモールやアトレから",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2118686.html",
+      "summary": "",
+      "published": "2026-06-19T09:43:34Z",
+      "fetched_at": "2026-06-20T10:27:40.071692+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-20T07:43:58.064976+00:00"
+  "updated_at": "2026-06-20T10:27:40.071692+00:00"
 }

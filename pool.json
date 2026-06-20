@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5c3c1ae9a667b5096d054762f030ec1f",
-      "title": "Vercel Security Checkpoint",
-      "link": "https://www.hashicorp.com/ja/blog/terraform-mcp-server-is-now-generally-available",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform MCP server is now generally available",
-      "published": "19 Jun 2026 02:55 +0000",
-      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "996f215edd83e4fd4ca849b9c160ca3d",
-      "title": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/",
-      "summary": "Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the se...",
-      "published": "Thu, 11 Jun 2026 20:10:00 GMT",
-      "fetched_at": "2026-06-19T03:34:55.143480+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "2149290c64f5550b3e223a6ef57e986f",
       "title": "KPMG pulls report on AI usage due to apparent hallucinations | TechCrunch",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
@@ -219,7 +199,267 @@
       "fetched_at": "2026-06-20T02:38:47.484975+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b4713ce9c5eb626548ff70a7de32426d",
+      "title": "廃棄処理業者に破砕処分を委託したハードディスクが外部に流出 | ScanNetSecurity",
+      "link": "https://scan.netsecurity.ne.jp/article/2026/06/19/55534.html",
+      "summary": "どこの業者でしょうか",
+      "published": "20 Jun 2026 02:58 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f549a3fe0bb65096dbb9a679327126d4",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20260612-workflow-engine/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 内製ワークフローエンジンの設計とメルカリでの活用事例",
+      "published": "20 Jun 2026 06:55 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02a59b8e54aeccafebbf97c7c1c2e41c",
+      "title": "RFC 7807 から RFC 9457 で Web API のエラー表現で変わったこと | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260611a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 RFC 7807 から RFC 9457 で Web API のエラー表現で変わったこと | フューチャー技術ブログ",
+      "published": "20 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d7383f823036be99ee20bcc2d9cf2af",
+      "title": "はじめての性能テストを公開しました | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260610a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 はじめての性能テストを公開しました | フューチャー技術ブログ",
+      "published": "20 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f8e317e05acb6d64c0b572654efeae4",
+      "title": "はじめての性能テスト | フューチャー株式会社",
+      "link": "https://future-architect.github.io/arch-guidelines/documents/forPerformanceTest/performance_test.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 はじめての性能テスト",
+      "published": "20 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0a6155b0f191cd7b6fda749a63219b0",
+      "title": "How to feed a dictator",
+      "link": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+      "summary": "Article URL: https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film Comments URL: https://news.ycombinator.com/item?id=48605301 Poin...",
+      "published": "Sat, 20 Jun 2026 01:16:56 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8f8da4a18ba2af562d3cafd5cbff55b",
+      "title": "Hey, n00b, we didn't hire you to complete tasks",
+      "link": "https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete",
+      "summary": "Article URL: https://newsletter.kentbeck.com/p/hey-n00b-we-didnt-hire-you-to-complete Comments URL: https://news.ycombinator.com/item?id=48604851 Poin...",
+      "published": "Sat, 20 Jun 2026 00:11:07 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92a2e00949207083b53b559ca4a09d5d",
+      "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
+      "link": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
+      "summary": "Article URL: https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow Com...",
+      "published": "Fri, 19 Jun 2026 23:32:03 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "918f135f25c733b14b5907c319dc9932",
+      "title": "Zenzizenzizenzic",
+      "link": "https://en.wikipedia.org/wiki/Zenzizenzizenzic",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Zenzizenzizenzic Comments URL: https://news.ycombinator.com/item?id=48603664 Points: 100 # Comments: 30",
+      "published": "Fri, 19 Jun 2026 21:49:44 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e1cd49ccfcc58eccfd4078f7ae1028e",
+      "title": "Companies rein in AI usage as costs strain budgets",
+      "link": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "summary": "https://archive.ph/z24oE Comments URL: https://news.ycombinator.com/item?id=48602571 Points: 106 # Comments: 93",
+      "published": "Fri, 19 Jun 2026 19:57:18 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "301d976a6e49e9cb7b6659858e7296f1",
+      "title": "John Jumper to join Anthropic",
+      "link": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "summary": "Article URL: https://twitter.com/JohnJumperSci/status/2068001285173834106 Comments URL: https://news.ycombinator.com/item?id=48601162 Points: 117 # Co...",
+      "published": "Fri, 19 Jun 2026 17:53:00 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a508986bc6515abbdde6ffdbbb102bf",
+      "title": "How many of the 170k English words do you know?",
+      "link": "https://vocabowl-870366514258.us-west1.run.app/",
+      "summary": "Article URL: https://vocabowl-870366514258.us-west1.run.app/ Comments URL: https://news.ycombinator.com/item?id=48598586 Points: 337 # Comments: 427",
+      "published": "Fri, 19 Jun 2026 13:51:36 +0000",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "15f52fdb1e00809d9c986b84124829da",
+      "title": "3分の720p動画を5分かつ無料で生成。再生しながらプロンプトで改変もできる、中国アリババ製ワールドモデル「HappyOyster」が凄すぎる（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/06/20/5207.html",
+      "summary": "中国アリババが提供しているワールドモデル「HappyOyster」が凄すぎる件。",
+      "published": "Sat, 20 Jun 2026 13:57:26 +0900",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4fa4346c75792da532da2de36f9fc06",
+      "title": "ターミナルでMarkdownをリッチに見られるleafが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202606192/",
+      "summary": "機能 TUIながらGUIライクな体験を売りにしているMarkdownビューア。 GitHub形式のアラート表記、40以上の言語のシンタックスハイライト、カラム揃えに対応した罫線つきテーブル表示といったレンダリングの拡張を備え、Latex/MermaidもUnicode記号等を用いて描画できます。 目...",
+      "published": "2026-06-19T14:55:51Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f0cfd904f8524d859073e64209c59b9",
+      "title": "【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita",
+      "link": "https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779",
+      "summary": "はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあ...",
+      "published": "2026-06-19T22:41:58Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "24995f0ade64513a3b0a6037a7085a91",
+      "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
+      "link": "https://toyokeizai.net/articles/-/948348?page=2",
+      "summary": "ケーブルカーで中腹まで上がり、1号路で山頂を目指した。舗装された坂道では、エコモード20％でも十分なアシストを感じる。5％で足りるという参加者もいた。普段あまり運動しない筆者でも、ケーブルカーを使わず下から登れたのではないかと思えるほどだった。 効果が際立つのは階段だ。高尾山の1号路には急な石段がい...",
+      "published": "2026-06-20T02:45:39Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7324dc3b3b13db5a2e4d4a3cd60a475",
+      "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+      "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+      "summary": "ベストプラクティスは、エージェントを縛るためではなく、速さの方向を正しく保つ ためのものだ。 1. 検証可能な要求（Verifiable Requirements） 原則: 「いい感じ」「適当に」は要求ではない。完了は コマンドか観測可能な状態 で定義する。 エージェント時代: 自然言語の依頼は実装...",
+      "published": "2026-06-19T14:51:16Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a84cec9d15ea82cdf8e1128d8d5dcc3",
+      "title": "macOS版Codexアプリにワークフローの“録画・再生”機能が登場 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/codex-record-and-replay",
+      "summary": "OpenAIが2026年6月18日にリリースしたCodexアプリの最新バージョン26.616に、ワークフローをCodexに見せることで、再利用可能なスキルに変換する「Record & Replay」機能が追加された。この機能はmacOSでのみ利用できる。 Record & Replay -Codex...",
+      "published": "2026-06-19T06:48:59Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d36516edb1ba5ac678b14102b98623be",
+      "title": "Record & Replay – Codex | OpenAI Developers",
+      "link": "https://developers.openai.com/codex/record-and-replay",
+      "summary": "Docs, videos, and demo apps for building with OpenAI",
+      "published": "2026-06-18T23:38:12Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af506f40f681285411963dfe2f871a69",
+      "title": "Apple container で docker compose を動かす",
+      "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+      "summary": "この記事でやること Apple 純正のコンテナCLI container の新機能 container machine（v1.0 で追加された永続Linux VM。WSL2 的に使える）の中で、docker engine と docker-compose を完全に動かす手順を、ゼロから再現できる形で...",
+      "published": "2026-06-19T08:38:55Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c2ff2749c7a52cc7a14c13ec61d237c",
+      "title": "理研、AI特化スパコンの名称は「理究(りきゅう)」に 7月稼働",
+      "link": "https://www.watch.impress.co.jp/docs/news/2118669.html",
+      "summary": "",
+      "published": "2026-06-19T09:24:10Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd5485b9b7755846b5e944bba0f85544",
+      "title": "日本人はAIを「考える」に使い、「動かす」で足が止まる。世界とこれだけ違う、日本のAI活用のリアル - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/31236/",
+      "summary": "NEW! 2026.06.18 ITニュース 松尾豊AI AIエージェント（LAM：Large Action Model）の台頭により、エンジニアの「普段の道具」は激変している。いまやAIは単なるお助けツールではなく、自律的にコードを書き、業務を推進する「協働パートナー」になりつつあるのが2026年...",
+      "published": "2026-06-18T19:46:33Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2a3a743ce6ecf451852732fa295b5ad",
+      "title": "GitHubでトロイの木馬を配布するリポジトリ約1万件が見つかる、正規プロジェクトを複製して検索結果に紛れ込む",
+      "link": "https://gigazine.net/news/20260619-github-malware-distribution/",
+      "summary": "ソフトウェア開発者向けプラットフォームのGitHubで「正規のプロジェクトを複製してトロイの木馬を配布するリポジトリが約1万件見つかった」と開発者のOrchid氏が報告しました。リポジトリごとに名前や所有者が異なり、GitHub上では複製を示す「フォーク」として扱われていないため、一見しただけでは不...",
+      "published": "2026-06-19T12:33:24Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebb656ba633e61ca9b84fcaebf07a0e3",
+      "title": "Googleが蚊を駆除「デバッグ」計画 AI活用、生態系への影響は - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOSG0500D0V00C26A6000000/",
+      "summary": "【この記事でわかること】・AIやロボットが蚊の対策にどう貢献？・蚊を減らす細菌の正体は？・計画が食物連鎖にもたらす影響は？",
+      "published": "2026-06-18T23:15:34Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2567b1a43f2e286a61a33f341a84341b",
+      "title": "Improving token efficiency for GitHub Copilot in VS Code",
+      "link": "https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot",
+      "summary": "June 17, 2026 by Ryan Caldwell and Bhavya U With the recent move to usage-based billing for GitHub Copilot, every token in an agentic session matters....",
+      "published": "2026-06-19T08:56:50Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d02a6835fcf24f8641fef9e447b0f967",
+      "title": "連載「歌うテックニュース」第8回：「明るすぎる鼻の穴」問題。パストレーシングが可能にする「人間らしい鼻の穴」とは？（西川善司） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/06/19/5204.html",
+      "summary": "テクニカルジャーナリスト。東京工芸大学特別講師。monoAI Technology顧問。IT技術、半導体技術、映像技術、ゲーム開発技術などを専門に取材を続ける。スポーツカー愛好家。 前回は、NVIDIAが考案した、悪魔的な恐ろしさを持つパストレーシング（パストレ）技術「ReSTIR法」とその歌を紹介...",
+      "published": "2026-06-19T05:07:52Z",
+      "fetched_at": "2026-06-20T07:43:58.064976+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-20T02:38:47.484975+00:00"
+  "updated_at": "2026-06-20T07:43:58.064976+00:00"
 }

@@ -669,7 +669,397 @@
       "fetched_at": "2026-06-21T12:06:30.432156+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "0c8dbd7ac2873f7fabe721d533283099",
+      "title": "PostgreSQL用SQLのLSP実装。PL/pgSQLにも対応。…",
+      "link": "https://github.com/gmr/postgres-lsp",
+      "summary": "PostgreSQL用SQLのLSP実装。PL/pgSQLにも対応。",
+      "published": "21 Jun 2026 14:34 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ead6b93e051102f593597f4685578b0f",
+      "title": "Identity verification on Claude | Claude Help Center",
+      "link": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "summary": "Claudeに本人確認が導入されるようninaru",
+      "published": "21 Jun 2026 14:29 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c8e958fab5a4afc292c16bf1fba6beb",
+      "title": "GitHub ActionsのYAMLファイルに対するLSP実装。ほう…",
+      "link": "https://github.com/actions/languageservices",
+      "summary": "GitHub ActionsのYAMLファイルに対するLSP実装。ほう",
+      "published": "21 Jun 2026 14:19 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07bdc39ef82fb69231ec0456d83a1ced",
+      "title": "KEV・EPSS で脆弱性トリアージの緊急度を毎日見直す — 悪用シグナルで優先度を自動更新する設計",
+      "link": "https://zenn.dev/ojt/articles/kev-epss-cve-urgency-daily-rescoring",
+      "summary": "「KEV で「悪用されているか」を、EPSS で「悪用される確率」を、CVSS で「悪用されたときの影響」を測る」ほほう",
+      "published": "21 Jun 2026 14:17 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2eb7b2187824516a830cb251f49cf99",
+      "title": "7/10 - 7/11…",
+      "link": "https://sre-next.dev/2026/",
+      "summary": "7/10 - 7/11",
+      "published": "21 Jun 2026 14:14 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9852cbbf1ba874898dcdd3d622fb709b",
+      "title": "依存するcrateでunsafeが使われているか再起的に確認できるcargoプラ…",
+      "link": "https://github.com/geiger-rs/cargo-geiger",
+      "summary": "依存するcrateでunsafeが使われているか再起的に確認できるcargoプラグイン。",
+      "published": "21 Jun 2026 14:09 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "593a40f5362efe0c46ae6cea2f160be9",
+      "title": "PolyCSS - CSS 3D Engine for the DOM",
+      "link": "https://polycss.com/",
+      "summary": "PolyCSSこれだな",
+      "published": "21 Jun 2026 14:07 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e79296be9c391e492bdcc9a6373f566",
+      "title": "cssQuake - Powered by PolyCSS",
+      "link": "https://cssquake.com/",
+      "summary": "CSSで実装されたQuake。CSS!? PolyCSSってのを使ってるらしい。",
+      "published": "21 Jun 2026 14:05 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6835fb0d53d9db9a0ec682426c86d454",
+      "title": "RFC 10008: The HTTP QUERY Method | RFC Editor",
+      "link": "https://www.rfc-editor.org/info/rfc10008/",
+      "summary": "いつのまに5桁になってたんや",
+      "published": "21 Jun 2026 13:57 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6482d24d9df2fe52023dede702e22536",
+      "title": "kaonavi Tech Night #1 - connpass",
+      "link": "https://kaonavi.connpass.com/event/396231/",
+      "summary": "現地開催",
+      "published": "21 Jun 2026 13:48 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7324dc3b3b13db5a2e4d4a3cd60a475",
+      "title": "今だから押さえておきたいソフトウェア工学のベストプラクティス",
+      "link": "https://zenn.dev/zapabob/articles/software-engineering-best-practices-agent-era",
+      "summary": "「エージェントに実装を任せると、コードが出る速度 は確実に上がる。けれど、出てくるのは「動きそうな diff」であって、保守できるソフトウェア とは限らない。」良い出だしだ。わいわい",
+      "published": "21 Jun 2026 13:46 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af506f40f681285411963dfe2f871a69",
+      "title": "Apple container で docker compose を動かす",
+      "link": "https://zenn.dev/7kaji/articles/370a8dd7f678d1",
+      "summary": "container machineはVM相当なので、その中でsystemd+dockerdを動かすことでdocker composeが使えるようになると。なるほどですね。",
+      "published": "21 Jun 2026 13:44 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33c0a60015c29e61e5eb802afeab6bb3",
+      "title": "GitHubで立て続けに数十件の大規模障害が発生したことを受けMicrosoftはライバルのAWSに協力を求めることに、AI主導の成長でインフラにとてつもない負荷がかかっているため - GIGAZINE",
+      "link": "https://gigazine.net/news/20260617-microsoft-turns-aws-github-capacity/",
+      "summary": "どこでAWS使うんだろうと思ったが、GitHub Hosted RunnerがAWS上で動く、バックアップ先としてAWSを利用する、とかだろうか。",
+      "published": "21 Jun 2026 13:34 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02b643af29802c9e164be9a3a046f54c",
+      "title": "開発者のためのメール送信テスト用ツール。SMTPサーバのモックが立ち上がるので、…",
+      "link": "https://github.com/axllent/mailpit",
+      "summary": "開発者のためのメール送信テスト用ツール。SMTPサーバのモックが立ち上がるので、正しいメールを送れているか確認できる。HTMLメールの互換性やSPAM判定、Link-Unsubscribeなどもチェック可。GUIあり。良さそう。",
+      "published": "21 Jun 2026 13:30 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7f191af3c70f26634bb24f35e4901a1",
+      "title": "Rustで書かれたモダンを謳うX11サーバ実装。xのつぎだからyか。MITライセ…",
+      "link": "https://github.com/joske/yserver",
+      "summary": "Rustで書かれたモダンを謳うX11サーバ実装。xのつぎだからyか。MITライセンス。",
+      "published": "21 Jun 2026 13:25 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "902bc3767d15f52c843fbd2a20ac2c7f",
+      "title": "The only scalable delete in Postgres is DROP TABLE — PlanetScale",
+      "link": "https://planetscale.com/blog/the-only-scalable-delete",
+      "summary": "いやぁでも外部キーとか設定してたらそう簡単にDROP TABLEできませんやん、というのはある。ログのような用途のトランザクションテーブルはスモールスタートであっても後々を考慮してパーティショニングを有効に。はい",
+      "published": "21 Jun 2026 13:22 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "619b1b1222ee9cb898dd3f17bc027f62",
+      "title": "AWS Continuum のご紹介: マシンスピードで実現するセキュリティ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-aws-continuum-security-at-machine-speed/",
+      "summary": "amazon.comの知見をもとに構築したAIを使った脆弱性コード検知サービスかな。",
+      "published": "21 Jun 2026 13:17 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "874dc0b4ac36bae8a15d101c0ad94051",
+      "title": "2026 年 5 月の AWS Black Belt オンラインセミナー資料及び動画公開のご案内 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/2026-05-aws-blackbelt/",
+      "summary": "きてます。皆様。",
+      "published": "21 Jun 2026 13:14 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da7663d188c2f4fe1eacbdb14973aac3",
+      "title": "AWS WAF に AI トラフィック収益化機能が追加され、コンテンツ所有者が AI ボットにコンテンツへのアクセス料金を請求することが可能に | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-waf-adds-ai-traffic-monetization-capability-to-help-content-owners-charge-ai-bots-for-content-access/",
+      "summary": "Cloudflareも似たような機能を追加してた気がする。このAWS WAFの実装プロトコルはx402。支払いはUSDCなどのステーブルコインと。",
+      "published": "21 Jun 2026 13:14 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9b1983314e5544ae5f5bfa47f09424f",
+      "title": "Kiro 公式グッズストアのご紹介 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-merch-store/",
+      "summary": "Kiroをお使いの皆様。",
+      "published": "21 Jun 2026 13:10 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58dda6c7a20e2cecdaa0bed2c8e39544",
+      "title": "PeerDBこれか。2024年にClickHouseに買収されたらしい…",
+      "link": "https://github.com/PeerDB-io/peerdb",
+      "summary": "PeerDBこれか。2024年にClickHouseに買収されたらしい",
+      "published": "21 Jun 2026 12:38 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35b96ef26d7b7d5084b2affbe093b2e8",
+      "title": "PeerDB + ClickHouse + MySQL でCDC検証をしてみた話 | スマートスタイル TECH BLOG",
+      "link": "https://blog.s-style.co.jp/2026/06/16302/",
+      "summary": "PeerDB初耳だったが、「Postgresからデータウェアハウス、キュー、ストレージエンジンへデータをストリーミングするための、高速でシンプルかつ最もコスト効率の高い方法を開発」MySQLも対応と。ほほう",
+      "published": "21 Jun 2026 12:35 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c53bbcf54dc9b459aa9f326e9a29570b",
+      "title": "PostgreSQLのSQLフォーマッター。8種類のスタイルに対応。8種類もあっ…",
+      "link": "https://github.com/gmr/pgfmt",
+      "summary": "PostgreSQLのSQLフォーマッター。8種類のスタイルに対応。8種類もあったのね。",
+      "published": "21 Jun 2026 12:32 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "498fa9f6c8ea05161af99fe9f414c320",
+      "title": "Intelligent Terminal 0.1.1 is here: bash support, new slash commands, and more customization - Windows Command Line",
+      "link": "https://devblogs.microsoft.com/commandline/intelligent-terminal-0-1-1-is-here-bash-support-new-slash-commands-and-customization/",
+      "summary": "Microsoftが先日リリースしたAI組み込みターミナルIntelligent Terminalの更新情報もこのブログでアナウンスされる模様。注目していきましょう。",
+      "published": "21 Jun 2026 12:29 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5ef44aef1b8cedd234e40ab70dcbf81",
+      "title": "LLM・AIエージェントシステムベストプラクティス（澁井 雄介）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798194318",
+      "summary": "2026年8月20日発売",
+      "published": "21 Jun 2026 12:24 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d901ea8bdacb297e1810d6f1373c3a47",
+      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/uv-audit-preview",
+      "summary": "インストール時に既知のマルウェア情報を照合する機能。なるほど",
+      "published": "21 Jun 2026 12:23 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e592a89e41a458a7e12b177f1bb2e42e",
+      "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+      "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+      "summary": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Sun, 21 Jun 2026 12:44:13 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc0eb6596f274e121c0647079936b81c",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "link": "https://www.beyondallreason.info",
+      "summary": "Article URL: https://www.beyondallreason.info Comments URL: https://news.ycombinator.com/item?id=48617990 Points: 210 # Comments: 97",
+      "published": "Sun, 21 Jun 2026 11:38:01 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e433105cd6c0f0f811d6090e11bd5870",
+      "title": "A 3D voxel game engine written in APL",
+      "link": "https://github.com/namgyaaal/avoxelgame",
+      "summary": "Article URL: https://github.com/namgyaaal/avoxelgame Comments URL: https://news.ycombinator.com/item?id=48616713 Points: 101 # Comments: 8",
+      "published": "Sun, 21 Jun 2026 08:04:54 +0000",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72ace9c8a7a468c80882510b2100951e",
+      "title": "Steering Claude Code: skills, hooks, subagents and more | Claude",
+      "link": "https://claude.com/ja/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "summary": "Claude is built to work the way you work, and in Claude Code you can customize it. There are seven methods for instructing Claude's behavior: CLAUDE.m...",
+      "published": "2026-06-21T08:49:28Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7baa2fe8b3c962f2ca36f519125190ed",
+      "title": "入門から実践 -「🔁 ループエンジニアリング」 - Qiita",
+      "link": "https://qiita.com/Syoitu/items/97ed37e7ba9c38dc75d8",
+      "summary": "前書き 最近 X やブログで 「Loop Engineering（ループエンジニアリング）」 という言葉をやたら見るようになりました。 「もう Claude に指示は出していない、私の仕事はループを書くことだ」 みたいな、ちょっと面白い言い回しで流れてくるアレです 最初は「また新しい “XX エンジ...",
+      "published": "2026-06-20T11:25:48Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f036a378b9bc7b79f171bf2e34d5371a",
+      "title": "2026年にもなって日本語のTeXワークフローがいまだにDVIを経由しているわけ - golden-luckyの日記",
+      "link": "https://golden-lucky.hatenablog.com/entry/2026/06/21/205551",
+      "summary": "欧米ではすっかりpdfTeXに移行してPDFを直接生成するワークフローになっているのに、なぜ日本語ではPDFを出力できない(u)pTeXがいまだに生き残っているのか。 簡単に言うと、TeXと事実上互換性があるpdfTeXが発明されたときに、日本語圏のデファクトだったpTeXのことが一切考慮されなかっ...",
+      "published": "2026-06-21T13:32:10Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd7d494490ac3f01bc51a5fc3e4e140a",
+      "title": "ゼロをイチにする仕事の終わり、ソフトウェアエンジニアという仕事の終わり - smasato.log",
+      "link": "https://blog.smasato.net/entry/2026/06/21/181605",
+      "summary": "ソフトウェアエンジニアの仕事のうち、ゼロをイチにする業務の割合はかなり多かったはずです。初期のAIは、GitHub Copilotの行補完のように、その「ゼロをイチにする」ための作業を支援するツールでした。書きかけたコードを完成させるためのツールであり、コードをゼロから書くことを手伝ってくれるものだ...",
+      "published": "2026-06-21T12:19:04Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1712c987533ad18b149a91b709052e0",
+      "title": "＜独自＞安保3文書に「新しい守り方」明記へ 無人機やAI導入…軍事色抑えた表現に",
+      "link": "https://www.sankei.com/article/20260621-FKZEBPD2AVJNVJ6HL6WPQXM2WM/",
+      "summary": "政府は21日、年内の改定を目指す国家安全保障戦略など「安保3文書」で、防衛力強化の理念として「新しい守り方」を打ち出す方向で調整に入った。人工知能（AI）やドローン（無人機）など先端技術を用いる「新しい戦い方」が国際的に広がる中、日本独自の構想を掲げる。軍事色の強い表現を避け、防衛力整備への国民の理...",
+      "published": "2026-06-21T13:52:39Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85bafa02721321f8e4601cdb43811e4d",
+      "title": "AIエージェントを「指揮」するOSS「TAKT」とは — 仕組と使い方",
+      "link": "https://zenn.dev/alpha_omega/articles/56ca3136bc5cd8",
+      "summary": "📚 連載「TAKTとClaude Codeの使い分け」（全3部を予定）の第1部・解説編です。 第1部（本記事）解説編: TAKTのしくみと使い方 第2部 実体験編: OSS「TAKT」を普段開発に使ってみた — よかったこと・つまずいたこと 第3部 検証編: TAKT vs Claude Codeを...",
+      "published": "2026-06-20T15:19:44Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cd10ffd8e67bc272f9ac2bb28bf7064",
+      "title": "llama.cppがAI言語モデルに使用するファイル形式「GGUF」にはウェイト以外に何が含まれているのか？",
+      "link": "https://gigazine.net/news/20260621-whats-in-a-gguf/",
+      "summary": "「GGUF」はllama.cppが言語モデルに使用するファイルフォーマットです。GGUFの特徴の一つに「単一ファイルである」という点があり、複数のファイルが散在する他のフォーマットと比較すると使いやすさの面で有利と言えます。ただ、ファイル中にどんな情報が含まれているのかわからないと、本当にGGUFフ...",
+      "published": "2026-06-21T03:08:33Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd99b93cb9c9db854c24c7a0641eb007",
+      "title": "月 100万件・ 50億トークンをローカルLLMで捌く - 明細名のストア情報マッピング",
+      "link": "https://zenn.dev/finatext/articles/7180db2c0fce5b",
+      "summary": "こんにちは。ナウキャストの Data Holder Unit 所属、マッピングチームでデータエンジニアをしている翁長です。 この記事では、2026 年度の社内 AI コンテストで優勝とテクノロジー賞をダブル受賞（！）した「ローカル LLM を活用したストアブランドマッピング」の取り組みについて紹介さ...",
+      "published": "2026-06-15T01:43:46Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "77e52218028a15520b82e0a3d5f64e4c",
+      "title": "無料でWordPressの管理画面をデスクトップOSっぽくできるプラグイン「Desktop Mode」、AIとの連携も可能",
+      "link": "https://gigazine.net/news/20260621-desktop-mode/",
+      "summary": "WordPressの管理画面で複数の作業を行う場合、投稿編集・メディア確認・設定変更などを行き来する場面が増えます。管理画面をデスクトップOS風に変え、AIとの連携機能もある無料プラグイン「Desktop Mode」が公開されています。 Desktop Mode – WordPress plugin...",
+      "published": "2026-06-21T09:57:15Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6ea837db37b5945d0c750c52d534dfe",
+      "title": "untodo - Type-safe TODO for humans and AI",
+      "link": "https://ysknsid25.github.io/untodo/",
+      "summary": "Type-safe TODO for humans and AI - trackable, structured, and lint-enforceable. Type-safe replacement for // TODO: comments. Trackable in your IDE, en...",
+      "published": "2026-06-21T11:55:55Z",
+      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-21T12:06:30.432156+00:00"
+  "updated_at": "2026-06-21T15:46:11.686792+00:00"
 }

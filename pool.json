@@ -459,7 +459,217 @@
       "fetched_at": "2026-06-21T08:21:41.393773+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b537d67124bbaef2d26179e9de0eb785",
+      "title": "ITエンジニアのためのMarkdown実践入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15723-4",
+      "summary": "2026年7月6日発売",
+      "published": "21 Jun 2026 11:48 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9aaf7caeea803757112260050d6a299d",
+      "title": "ＯＳＳビジネス活用の教科書 「守り」と「攻め」の実践的オープンソース戦略 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/06/18/02667/",
+      "summary": "2026年7月13日発売",
+      "published": "21 Jun 2026 11:34 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6968c3578c4ca59c3041ecfcc1fdbf1d",
+      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+      "summary": "動画を軽くみてみたが、やはりオブジェクトストレージを利用する構成の模様。確かにGitとオブジェクトストレージの相性良さそうだもんね。",
+      "published": "21 Jun 2026 11:31 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "06be3f44ac8b3cac474d3383658d99f4",
+      "title": "パーティショニングしているPostgreSQL環境で無駄にパーティションを跨いで…",
+      "link": "https://github.com/hexacluster/pg_kpart",
+      "summary": "パーティショニングしているPostgreSQL環境で無駄にパーティションを跨いで問い合わせしようとするクエリーを拒否することができるPostgreSQL拡張。これPostgreSQL標準で実装してほしい機能では。",
+      "published": "21 Jun 2026 11:12 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45cf27c171a21fc1af8bda02e95a435e",
+      "title": "localstask代替のAWS環境エミュレータ。READMEを見る限りサポート…",
+      "link": "https://github.com/faiscadev/fakecloud",
+      "summary": "localstask代替のAWS環境エミュレータ。READMEを見る限りサポートサービスも幅広い。代替ツールがたくさんリリースされてるのでどれが一番良いのか比較表欲しいね。",
+      "published": "21 Jun 2026 11:07 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72c704d0302fed02a444839d951c6e50",
+      "title": "KubernetesのPersistentVolumeClaimのデータのバック…",
+      "link": "https://github.com/utkuozdemir/pv-migrate",
+      "summary": "KubernetesのPersistentVolumeClaimのデータのバックアップ/リストアやマイグレーションを実現できるCLIツール。Go実装。macOSならbrew install pv-migrateでもインストール可",
+      "published": "21 Jun 2026 11:02 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d66135b0875737522018a08b1557c9dc",
+      "title": "OSSの「AI社員だけの会社」OneManCompany を動かしてみる ~Microsoft Foundry のモデルで~",
+      "link": "https://zenn.dev/nomhiro/articles/omc-azure-foundry",
+      "summary": "2Dゲームっぽい見た目だがきちんと開発ができる模様。あれだ、カイロソフトの経営シミュレーションをAIで実現してしまった感じだ。",
+      "published": "21 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e96734768e7f4b20a6e569af827ab988",
+      "title": "ミニモニター用ダッシュボードから始まった、Rust製ハードウェア監視ツール「HardwareVisualizer」",
+      "link": "https://zenn.dev/shm_7ec/articles/hardwarevisualizer-dev-story",
+      "summary": "「CPU、GPU、メモリなどの状態をリアルタイムに可視化する、無料・軽量・オープンソースのハードウェア監視ツール」わいわい。win/macOS/Linuxに対応。",
+      "published": "21 Jun 2026 10:20 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d355d11bd38065873941d7f35032a97",
+      "title": "Amazon CloudWatch が統合ログ分析のための Log Analytics を導入 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "published": "21 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5554789951ba37b7d625d0339027cc24",
+      "title": "AWS マネジメントコンソールプライベートアクセスがインターネット接続なしで利用可能に - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/aws-management-console-private/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Management Console Private Access now works without internet connectivity",
+      "published": "21 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93b908f5d316354e9ca190be36412612",
+      "title": "AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime",
+      "link": "https://www.nextplatform.com/compute/2026/06/11/aws-tunes-up-graviton5-for-agentic-ai-boosts-bang-for-the-buck-bigtime/5254538",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Tunes Up Graviton5 For Agentic AI, Boosts Bang For The Buck Bigtime",
+      "published": "19 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddbb96b980d94c5d41648edd78c95858",
+      "title": "Google Hits 50% IPv6",
+      "link": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "summary": "Article URL: https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/ Comments URL: https://news.ycombinator.com/item?id=48616800 Points: 167 # Comments...",
+      "published": "Sun, 21 Jun 2026 08:21:22 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08b6418582ce7a7287b94c5b0945e4a7",
+      "title": "The 100k Whys of AI",
+      "link": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 116 # Comments: ...",
+      "published": "Sun, 21 Jun 2026 05:45:21 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65411946b238acf3fdad4c918b3e7942",
+      "title": "Building reliable agentic AI systems",
+      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 112 # Comme...",
+      "published": "Sun, 21 Jun 2026 04:28:39 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80941dbae2cfcf470279a439a92a9422",
+      "title": "Alice is impatient",
+      "link": "https://brooker.co.za/blog/2026/06/19/waiting.html",
+      "summary": "Article URL: https://brooker.co.za/blog/2026/06/19/waiting.html Comments URL: https://news.ycombinator.com/item?id=48612740 Points: 106 # Comments: 32",
+      "published": "Sat, 20 Jun 2026 20:32:54 +0000",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08fb4e864950dd800e90ace1da1fa11c",
+      "title": "Apple container 1.0 を試してみた ― systemd、名前付きホスト、起動速度を Docker と比較",
+      "link": "https://zenn.dev/tokium_dev/articles/202c16adec91d0",
+      "summary": "毎年恒例の Apple の開発者向けイベント WWDC26 で、Linux コンテナを動かすツール container が 1.0 になり、その目玉として軽量な Linux 環境 container machine がしれっと発表されました。 container は Apple Silicon の ...",
+      "published": "2026-06-20T03:15:55Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4c118f8e0f6febc4d023154f45d2a6a",
+      "title": "AI駆動開発を通して感じた、 AI時代のデザイナーの役割変化",
+      "link": "https://speakerdeck.com/whisaiyo/whidevelopers-linklight20260618",
+      "summary": "AI駆動開発のワークショップを体験して感じた、AIによる影響、 デザイナーの役割変化について共有いたします。",
+      "published": "2026-06-19T12:28:22Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37c6bc2bf6fe5fce2418f62864ab98dc",
+      "title": "ワークフローを再利用可能なスキルに変換する Record & Replay を試してみた",
+      "link": "https://azukiazusa.dev/blog/workflow-to-reusable-skill/",
+      "summary": "Codex の Record & Replay は macOS 上でのユーザーの操作を実演することで再利用可能なスキルに変換する機能です。例えば経費精算の提出や勤怠アプリへの打刻や工数入力、定期的なレポートの作成などをスキルとして記録し、煩雑な定型業務を AI に任せることが期待できます。この記事で...",
+      "published": "2026-06-21T06:21:16Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "864c36965c5f6e2183fed25650c606d1",
+      "title": "DNSとSNIが見えにくくなる時代に、外部通信をどう見るか",
+      "link": "https://zenn.dev/catatsuy/articles/566f5e37076e53",
+      "summary": "以前、以下の記事を書きました。 今回はその補足のような話です。 ただし、この記事だけ読んでも分かるように書きます。 開発環境やCI/CDでは、外部通信を見られることが重要です。 どのプロセスが動き、どのファイルに触り、どこへ通信したのか。特に、package install中に普段とは違う通信が発生...",
+      "published": "2026-06-20T14:31:55Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d80bf58ab6e2fe3965c4ccf98c527386",
+      "title": "今の時代、AIを使いこなせる事は必須条件、その上で必要なのは人間として判断する能力 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/what-the-world-needs-is-not-people-who-know-how-to-use-tools-but-people-who-know-why-those-tools-should-be-used/",
+      "summary": "CPUやGPUの開発企業AMDのCEOのリサ・スー氏による、マサチューセッツ工科大学（MIT）卒業式でのスピーチが今の時代を象徴する内容だったと評判です。 世界が求めているのは、単に強力なツールの使い方を知っている人間ではありません。それらのツールを何のために使うべきかを知っている人間、つまり目的意...",
+      "published": "2026-06-21T02:37:47Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d3df76358720b5eacbcefa7ddaa25f1",
+      "title": "フォルクスワーゲンがGrapheneOSで利用不能に、API変更でサードパーティモジュール全般が機能停止",
+      "link": "https://gigazine.net/news/20260620-volkswagen-grapheneos/",
+      "summary": "フォルクスワーゲンは公式アプリと連携することで、走行距離を確認したり乗車前にエアコンをオンにしておいたりと、スマートフォンから便利な操作をすることができるほか、フォルクスワーゲンのAPIを使用することで、充電ソリューションの設定やサードパーティアプリからの車両制御などが可能です。しかし、フォルクスワ...",
+      "published": "2026-06-20T12:46:25Z",
+      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-21T08:21:41.393773+00:00"
+  "updated_at": "2026-06-21T12:06:30.432156+00:00"
 }

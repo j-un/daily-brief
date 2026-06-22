@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6968c3578c4ca59c3041ecfcc1fdbf1d",
-      "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
-      "summary": "動画を軽くみてみたが、やはりオブジェクトストレージを利用する構成の模様。確かにGitとオブジェクトストレージの相性良さそうだもんね。",
-      "published": "21 Jun 2026 11:31 +0000",
-      "fetched_at": "2026-06-21T12:06:30.432156+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "902bc3767d15f52c843fbd2a20ac2c7f",
       "title": "The only scalable delete in Postgres is DROP TABLE — PlanetScale",
       "link": "https://planetscale.com/blog/the-only-scalable-delete",
@@ -1089,7 +1079,197 @@
       "fetched_at": "2026-06-22T15:13:32.959677+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "9d00fc3dc42f1a36875809b06c761df9",
+      "title": "Steam Machine",
+      "link": "https://store.steampowered.com/hardware/steammachine",
+      "summary": "https://store.steampowered.com/sale/steammachinehttps://store.steampowered.com/sub/1629447/https://www.lttlabs.com/articles/2026/06/22/the-newell-nucl...",
+      "published": "Mon, 22 Jun 2026 17:09:51 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34cf5f74bbe86c41fbb150a73a268ac0",
+      "title": "NSF slashes research programs to support new tech initiative, insiders say",
+      "link": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+      "summary": "Article URL: https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say Comments URL: ht...",
+      "published": "Mon, 22 Jun 2026 16:25:02 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a42fc917d4e7846edd2b41ee57490fc",
+      "title": "DHL Set to Transport Goods on New Wind-Powered Cargo Ships",
+      "link": "https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0",
+      "summary": "Article URL: https://www.wsj.com/pro/sustainable-business/dhl-set-to-transport-goods-on-new-wind-powered-cargo-ships-eca5d5a0 Comments URL: https://ne...",
+      "published": "Mon, 22 Jun 2026 14:55:51 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d509f232d1636852395412d86a334b35",
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "link": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "summary": "Article URL: https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/ Comments URL: https://news.ycombinator.com...",
+      "published": "Mon, 22 Jun 2026 14:22:46 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6403de463dadf7abdc7a4ea1d17d3091",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "link": "https://hustvl.github.io/Moebius/",
+      "summary": "Article URL: https://hustvl.github.io/Moebius/ Comments URL: https://news.ycombinator.com/item?id=48630171 Points: 146 # Comments: 37",
+      "published": "Mon, 22 Jun 2026 13:53:02 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b49a99b5186accd678c8869512d4ab0",
+      "title": "Why Drawing Tablet Brands Won't Collaborate on Linux Floss Drivers",
+      "link": "https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers",
+      "summary": "Article URL: https://www.davidrevoy.com/article1154/why-drawing-tablet-brands-wont-collaborate-on-linux-floss-drivers Comments URL: https://news.ycomb...",
+      "published": "Mon, 22 Jun 2026 12:09:34 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "70ebf6549a1f4fe3dd028ea24c5b1925",
+      "title": "Alan Greenspan has died",
+      "link": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+      "summary": "https://archive.ph/tSlDZhttps://www.cnbc.com/2026/06/22/alan-greenspan-former-chairm... Comments URL: https://news.ycombinator.com/item?id=48628731 Po...",
+      "published": "Mon, 22 Jun 2026 11:27:40 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c97894716f47ebcb7ed97e20575a251",
+      "title": "AWS Network Firewall updates default drop action for improved connection reliability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action",
+      "summary": "AWS Network Firewall now uses \"Application drop established (server-directed only)\" as the default stateful action for all newly created firewall poli...",
+      "published": "Mon, 22 Jun 2026 17:00:00 GMT",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5c9b6b107738b83a2a5eaedadd9b6dc",
+      "title": "AWS Batch now supports customer-ordered instance allocation strategies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/",
+      "summary": "AWS Batch now offers the Best Fit Progressive Ordered (BFPO) and Spot Capacity Optimized Prioritized (SCOP) allocation strategies, giving you more con...",
+      "published": "Mon, 22 Jun 2026 16:30:00 GMT",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9bf1733f7b0af9d1188b5ab7f9c810f",
+      "title": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/",
+      "summary": "AWS IAM Identity Center now supports separate quotas for the number of AWS accounts and applications that can be configured in an IAM Identity Center ...",
+      "published": "Mon, 22 Jun 2026 16:07:00 GMT",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5978ca38971483cb9270655756796195",
+      "title": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service/",
+      "summary": "AWS Parallel Computing Service (PCS) now supports Amazon EC2 P6e-GB200 and P6e-GB300 UltraServer instances, enabling customers to run large-scale GPU ...",
+      "published": "Thu, 18 Jun 2026 19:00:00 GMT",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b179b7d3ae0d05d544728428feb43ec5",
+      "title": "DuckDB Internals: Why is DuckDB Fast?",
+      "link": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "summary": "DuckDB has gone from a research project at CWI Amsterdam in 2019 to one of the most widely adopted databases of the past decade. The list of places it...",
+      "published": "2026-06-19T12:09:11Z",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a455d88efe90488b65363a16fe76b8ef",
+      "title": "エレコム、ナトリウムイオン電池のハンディファン 寿命約10倍 - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2118645.html",
+      "summary": "",
+      "published": "2026-06-22T04:25:59Z",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da283f901be9d6b48d16ed34fdf0017e",
+      "title": "ソロでも優秀だが、外付けGPUで覚醒！ミニPCを最強化してみた ～ゲーミングPCにも変身できるACEMAGIC「F5A AMD Ryzen 7 H255」[Sponsored]",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2118052.html",
+      "summary": "",
+      "published": "2026-06-22T01:50:27Z",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "84a0fbae102f66e00163a1772d7e99ee",
+      "title": "楽天モバイルが「楽天モバイルWiFiスポット」開始、データ消費なし",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2118878.html",
+      "summary": "",
+      "published": "2026-06-22T06:51:47Z",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c708e2373cec76649dcefad364090e6",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 hey…",
+      "link": "https://github.com/heygen-com/hyperframes",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 heygen-com / hyperframes ⭐ 29,644 (+369) 🗒 TypeScript Write HTML. Render video. Built for agents.",
+      "published": "22 Jun 2026 17:16 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdf1702f364a4d5a525df1f377373026",
+      "title": "📦 JCodesMore / ai-website-cloner-templat…",
+      "link": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "summary": "📦 JCodesMore / ai-website-cloner-template ⭐ 17,413 (+63) 🗒 TypeScript Clone any website with one command using AI coding agents",
+      "published": "22 Jun 2026 16:16 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49a1c7e387a4e695f617ce1ad562319d",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 fire…",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 firecrawl / firecrawl ⭐ 136,642 (+513) 🗒 TypeScript The API to search, scrape, and interact with the web at scale....",
+      "published": "22 Jun 2026 15:16 +0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9465701ed5448f15eca8171a4da06a80",
+      "title": "It’s All Love: Positive Punk and the Sunny Origins of Goth Rock",
+      "link": "https://daily.bandcamp.com/lists/positive-punk-album-guide",
+      "summary": "Swapping nihilism for romance and spirituality, these bands led an unprecedented vibe shift in ’80s punk. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 22 Jun 2026 17:32:47 -0000",
+      "fetched_at": "2026-06-22T19:18:59.591264+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-22T15:13:32.959677+00:00"
+  "updated_at": "2026-06-22T19:18:59.591264+00:00"
 }

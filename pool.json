@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "902bc3767d15f52c843fbd2a20ac2c7f",
-      "title": "The only scalable delete in Postgres is DROP TABLE — PlanetScale",
-      "link": "https://planetscale.com/blog/the-only-scalable-delete",
-      "summary": "いやぁでも外部キーとか設定してたらそう簡単にDROP TABLEできませんやん、というのはある。ログのような用途のトランザクションテーブルはスモールスタートであっても後々を考慮してパーティショニングを有効に。はい",
-      "published": "21 Jun 2026 13:22 +0000",
-      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "619b1b1222ee9cb898dd3f17bc027f62",
-      "title": "AWS Continuum のご紹介: マシンスピードで実現するセキュリティ | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/introducing-aws-continuum-security-at-machine-speed/",
-      "summary": "amazon.comの知見をもとに構築したAIを使った脆弱性コード検知サービスかな。",
-      "published": "21 Jun 2026 13:17 +0000",
-      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d901ea8bdacb297e1810d6f1373c3a47",
-      "title": "Pythonパッケージマネージャー「uv」、脆弱性確認コマンド「uv audit」をプレビュー提供 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/06/uv-audit-preview",
-      "summary": "インストール時に既知のマルウェア情報を照合する機能。なるほど",
-      "published": "21 Jun 2026 12:23 +0000",
-      "fetched_at": "2026-06-21T15:46:11.686792+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b9cee8b5a940d39e09c1cb3d4d4708db",
       "title": "The minimum viable unit of saleable software",
       "link": "https://brandur.org/minimum-viable-unit",
@@ -1269,7 +1239,137 @@
       "fetched_at": "2026-06-22T19:18:59.591264+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "4e501b558e7ace387d4e36a23da0052b",
+      "title": "Jobs and Software Is Fucked",
+      "link": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+      "summary": "Article URL: https://urflow.bearblog.dev/jobs-and-software-is-fucked/ Comments URL: https://news.ycombinator.com/item?id=48635112 Points: 199 # Commen...",
+      "published": "Mon, 22 Jun 2026 19:47:52 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2542512594ca07103e184b5c456a88ba",
+      "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+      "link": "https://ipvm.com/reports/police-chiefs-track",
+      "summary": "Article URL: https://ipvm.com/reports/police-chiefs-track Comments URL: https://news.ycombinator.com/item?id=48634694 Points: 118 # Comments: 14",
+      "published": "Mon, 22 Jun 2026 19:13:46 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f410da262bf0885c9e3f34460852fd16",
+      "title": "Steam Machine launches today",
+      "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "summary": "https://store.steampowered.com/sale/steammachinehttps://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...https://www.youtube.com/watch?v=66QzlDe...",
+      "published": "Mon, 22 Jun 2026 17:09:51 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cd4d5b106a4f812d3bb33a78ef05890",
+      "title": "Mexican government unveils a prototype for a new homegrown, ultra-affordable EV",
+      "link": "https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080",
+      "summary": "Article URL: https://gizmodo.com/mexico-just-showed-off-a-new-extremely-cheap-government-backed-ev-2000769080 Comments URL: https://news.ycombinator.c...",
+      "published": "Mon, 22 Jun 2026 16:48:45 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3c6655a20c54051d21ad717b0cad34f",
+      "title": "Prompt Injection as Role Confusion",
+      "link": "https://role-confusion.github.io",
+      "summary": "https://arxiv.org/abs/2603.12277 Comments URL: https://news.ycombinator.com/item?id=48631888 Points: 113 # Comments: 58",
+      "published": "Mon, 22 Jun 2026 15:48:55 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05da327b3a751ddcd9f9329583c1e07f",
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "link": "https://oak.space/oak/oak",
+      "summary": "Oak is a version control system I've been working on designed for agents (https://oak.space). It improves the speed and context your agents need when ...",
+      "published": "Mon, 22 Jun 2026 15:37:48 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73248d25549d868059f1c27d7866c017",
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "link": "https://puzzlelair.com/",
+      "summary": "Article URL: https://puzzlelair.com/ Comments URL: https://news.ycombinator.com/item?id=48629213 Points: 101 # Comments: 81",
+      "published": "Mon, 22 Jun 2026 12:23:46 +0000",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2e2650dfe2a6d854a25a2656dfb0ced",
+      "title": "Getty ImagesがOpenAIと複数年契約、ChatGPTにライセンス画像を提供へ",
+      "link": "https://www.techno-edge.net/article/2026/06/23/5211.html",
+      "summary": "Getty Imagesは、OpenAIとの複数年にわたるパートナーシップ締結を発表しました。この契約により、Gettyのライセンス済みコンテンツライブラリがOpenAIのサービスに提供され、OpenAIの検索機能およびChatGPTの回答内にGettyの画像が表示されるようになります。",
+      "published": "Tue, 23 Jun 2026 06:30:03 +0900",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "7925ab8b45a299e3e42b2253746adc31",
+      "title": "AWS DevOps Agent adds release management capability (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/",
+      "summary": "AWS DevOps Agent now offers a release management capability in preview, reviewing code changes for release readiness and running autonomous release te...",
+      "published": "Wed, 17 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "665a5c7cecef773afe1c0d326c8ba9a5",
+      "title": "新試験制度のサンプル問題について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/shiken/syllabus/henkou/2026/20260622.html",
+      "summary": "2027年度から開始を予定する新試験制度における各試験区分のサンプル問題を掲載しています。 公開準備が整ったものから順次このページに掲載し、2026年度夏頃を目途に一通り公表する予定です。 サンプル問題 各試験区分における、新たな出題分野、出題形式のサンプル問題を掲載します。 なお、本サンプル問題は...",
+      "published": "2026-06-22T07:20:58Z",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b500168163755b64d25b4c7c8f92dd8a",
+      "title": "Cloudflare の一時アカウントを使って即座にデプロイできるようになった",
+      "link": "https://azukiazusa.dev/blog/cloudflare-temporary-account-deploy/",
+      "summary": "Cloudflare の Temporary Cloudflare Accounts を使用すると、人間が介入することなく AI エージェントが即座に Cloudflare Workers にデプロイできるようになります。この記事では、Temporary Cloudflare Accounts を使...",
+      "published": "2026-06-22T14:17:11Z",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49bf7cef6767b61caa6f0337df9fe2c0",
+      "title": "Excelを代わりに操作してくれる「Copilot in Excel」がさらに便利に、「自分のやり方」や「共同作業のやり方」を設定可能に／「セルは結合しない」「グラフに赤を使わない」「シート名は分かりやすく」など",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118762.html",
+      "summary": "",
+      "published": "2026-06-22T01:44:43Z",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ba541d1911a87fb33f11180fc1b865b",
+      "title": "CSV を顧客に配るのは、想像よりずっと難しい",
+      "link": "https://zenn.dev/dress_code/articles/csv-for-customers",
+      "summary": "TL;DR はじめに こんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！ 私たちは DRESS CODE という、人事・情報システム・総務・採用・コーポレートなど複数の部門を横断する業務 OS として機能する、グローバル向けのコンパウンドプロダクトを開発しています。...",
+      "published": "2026-06-22T02:52:59Z",
+      "fetched_at": "2026-06-22T21:29:46.669698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-22T19:18:59.591264+00:00"
+  "updated_at": "2026-06-22T21:29:46.669698+00:00"
 }

@@ -799,7 +799,267 @@
       "fetched_at": "2026-06-23T07:40:50.831292+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "701dee3cd94737700be5529272bdb0d6",
+      "title": "情シスの知見を凝縮！ AWSでのDR構成ノウハウのまとめ｜KDDI Tech note",
+      "link": "https://tech-note.kddi.com/n/n0d6203afb43d",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 情シスの知見を凝縮！ AWSでのDR構成ノウハウのまとめ",
+      "published": "23 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b7d3d26728aebeb054903f67d7075f4",
+      "title": "対話システムの評価を LLM にどこまで任せられるか（前編）：5 つの落とし穴",
+      "link": "https://zenn.dev/ivry/articles/2c298614d0ee85",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 対話システムの評価を LLM にどこまで任せられるか（前編）：5 つの落とし穴",
+      "published": "23 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "deedb0177c6807995e0f1aa2143c83c8",
+      "title": "The new HTTP QUERY method explained",
+      "link": "https://kreya.app/blog/new-http-query-method-explained/",
+      "summary": "Article URL: https://kreya.app/blog/new-http-query-method-explained/ Comments URL: https://news.ycombinator.com/item?id=48640974 Points: 133 # Comment...",
+      "published": "Tue, 23 Jun 2026 06:05:37 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cab23dbbd064e16c22943d2c70fafde8",
+      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
+      "link": "https://openai.com/index/daybreak-securing-the-world/",
+      "summary": "Article URL: https://openai.com/index/daybreak-securing-the-world/ Comments URL: https://news.ycombinator.com/item?id=48639063 Points: 110 # Comments:...",
+      "published": "Tue, 23 Jun 2026 01:36:08 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "595028bd30f6159b27bdd6d589aab1d7",
+      "title": "店舗の気づきを本部に届ける AI エージェント SMART のご紹介 — Amazon Bedrock AgentCore × Strands Agents によるユナイテッドアローズでの取り組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-smart-store-manager-agent-for-retail-tech/",
+      "summary": "本記事では、AWS サンプルアセットである AI エージェント SMART（Store Manager Agent for Retail Tech） についてのご紹介と、それを活用した株式会社ユナイテッドアローズ（以下、ユナイテッドアローズ）の取り組みについてご紹介します。小売業にとって、店舗の声を...",
+      "published": "Tue, 23 Jun 2026 10:22:57 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "24365f47b4a1f00646486087cab0d714",
+      "title": "Amazon CloudWatch と OpenTelemetry による Claude Code 利用状況の分析",
+      "link": "https://aws.amazon.com/jp/blogs/news/analyzing-claude-code-usage-with-cloudwatch-and-opentelemetry/",
+      "summary": "エンジニアリング組織で Claude Code のような AI コーディングエージェントを利用している場合、そ […]",
+      "published": "Tue, 23 Jun 2026 09:22:28 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "2745ef8565625d5586e28cb07ebc82cd",
+      "title": "AWS セキュリティエージェントで、脅威モデリング、Kiro パワー、Claude Code プラグインなどが追加",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-security-agent-adds-threat-modeling-kiro-power-and-claude-code-plugin-and-more/",
+      "summary": "re:Invent 2025 では、開発ライフサイクル全体を通じてあらゆる環境でアプリケーションをプロアクティ […]",
+      "published": "Tue, 23 Jun 2026 08:36:46 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "824f3ac00f958e8b460a4525b39a8296",
+      "title": "NVIDIA RTX PRO 4500 Blackwell Server Edition GPU で高速化された Amazon EC2 G7 インスタンスのご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-amazon-ec2-g7-instances-accelerated-by-nvidia-rtx-pro-4500-blackwell-server-edition-gpus/",
+      "summary": "2026 年 6 月 18 日、AI 推論、グラフィックス、データ分析のワークロード向けに高性能な GPU ア […]",
+      "published": "Tue, 23 Jun 2026 07:58:07 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f78c8a4390474d8ed9395501a1cebce3",
+      "title": "より高速かつ正確なエンタープライズ AI アプリケーションを実現する Amazon Bedrock マネージドナレッジベースのご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/",
+      "summary": "2026 年 6 月 17 日、Amazon Bedrock マネージドナレッジベースを発表しました。これは、 […]",
+      "published": "Tue, 23 Jun 2026 07:46:00 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee58f24afc7c66905c280c0e75706c4e",
+      "title": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/",
+      "summary": "AWS Transform for migrations now supports all AWS commercial regions as migration targets. A migration target region is the AWS region where migrated ...",
+      "published": "Mon, 22 Jun 2026 17:30:40 GMT",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "27676a767c56c562c8b7bd7f6c472096",
+      "title": "KDDI、メアドなど最大1422万件漏えいか ISP事業者向けシステムに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+      "summary": "KDDIは6月23日、ISP事業者向けに提供しているメールシステムが不正アクセスを受けたと発表した。これにより、提供先のISP事業者が手掛けるメールサービスの情報が最大1422万件漏えいした可能性があるという。 対象サービスはSTNetの「ピカラ光サービス」、「ピカラモバイルサービス」「お仕事ピカラ...",
+      "published": "2026-06-23T07:29:51Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca8a0d4b3fee9b750cbf86b5a84ac269",
+      "title": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015157301000",
+      "summary": "KDDIは、取引先の企業に提供しているメールシステムが不正アクセスを受け、利用者のメールアドレスとパスワードが最大で1422万件漏えいした可能性があると発表しました。利用者にパスワードの変更を早急に行…",
+      "published": "2026-06-23T08:19:27Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "201e93ce22d470e9e4acc26302affd74",
+      "title": "カーネルの深淵を覗いた男、USBハブを抜いて帰る - Qiita",
+      "link": "https://qiita.com/wetty_serial/items/3696bbae80b38bc14a74",
+      "summary": "VRChatで顔トラッキングを使うとCPUの1コアが99%占有されてゲームが14fpsに落ちた。「カーネルレベルの問題だ」と確信して、割り込みアフィニティ、MSI-X、バイナリパッチ、コールドブート、USBポート総入れ替え……Windowsカーネルの深淵を6時間さまよった。見つけた答えは「USBハブ...",
+      "published": "2026-06-23T03:04:23Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28339daa00cf2cc48fff285158ea5572",
+      "title": "マネフォへの不正アクセス、約6.3万件流出した可能性 調査完了で規模確定",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/23/news109.html",
+      "summary": "マネーフォワードは6月23日、ソースコード管理サービス「GitHub」への不正アクセスで個人情報が流出した可能性がある件について、精査が完了したと発表した。新たに顧客や取引先、従業員などの情報が対象だったと判明。流出した可能性のある個人データは、単体では個人を特定できない固有識別子を含めて計6万29...",
+      "published": "2026-06-23T07:31:14Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d5fba0e1ead585cf3ed0a029fef19aa",
+      "title": "KDDI基盤に不正アクセス、ニフティやビッグローブなど最大1422万件のメール・パスワード漏洩の可能性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2119354.html",
+      "summary": "",
+      "published": "2026-06-23T07:46:56Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8468999097afd0a9dd793becb44b5094",
+      "title": "KDDIのISP向けメールシステムに不正アクセス、BIGLOBE、J:COM、ニフティなど最大1422万件の情報漏えいの可能性 影響を受けるサービスの利用者はパスワードの変更を",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2119351.html",
+      "summary": "",
+      "published": "2026-06-23T07:45:17Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44c415b6aeb92e372c20b4d412905806",
+      "title": "ISP 事業者向けメールシステムに対する不正アクセスの発生について |KDDI株式会社",
+      "link": "https://newsroom.kddi.com/news/assets/2026/kddi_nr_s-71_4593/kddi_nr_s-71_4593_pdf_01.pdf",
+      "summary": "",
+      "published": "2026-06-23T07:37:58Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0cdba01be72c5019edaf655d6336ba5",
+      "title": "複数の写真から3Dシーンを生成するAIモデル「ArtiFixer」をNVIDIAが発表、写真にない部分も生成処理で補完可能",
+      "link": "https://gigazine.net/news/20260623-nvidia-artifixer-3d-representation/",
+      "summary": "NVIDIAが複数の写真から3Dシーンを生成できるAIモデル「ArtiFixer」を開発しました。ArtiFixerは動画生成AIのWan 2.1をベースに開発されており、参考画像に含まれていない部分を生成処理で補って高品質な3Dシーンを作り出すことができます。 ArtiFixer: Enhanci...",
+      "published": "2026-06-23T07:40:05Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d9fd704c640bb9dc30d4dbedeb2031a",
+      "title": "GitHubへの不正アクセスに関する詳細調査の完了およびセキュリティ対策強化のお知らせ（第四報）",
+      "link": "https://corp.moneyforward.com/news/info/20260623-mf-press-1/",
+      "summary": "平素は、マネーフォワードグループ（以下「当社グループ」といいます。※1）が提供するサービスをご利用いただき、誠にありがとうございます。 2026年5月1日の第一報以降お知らせしておりました、当社がソフトウェア開発およびシステム管理に利用するソースコード管理サービス『GitHub』※2への不正アクセス...",
+      "published": "2026-06-23T07:06:57Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f06fa352d9d5f28d0cb258551a30b80",
+      "title": "とある「銅化合物」が脳の“ゴミ掃除ポンプ”を修繕、マウス実験で記憶力が約44%向上 アルツハイマー病治療に期待",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/23/news028.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-06-23T02:12:10Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7341234d192110eb6fde77ddaa5381bd",
+      "title": "国産リモートデスクトップ「Brynhildr 3」のWake-on-LAN機能が早くも大改良／新たに［Wake on LAN］モードとしてGUIが追加、複数端末の登録が可能に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2118735.html",
+      "summary": "",
+      "published": "2026-06-22T01:44:38Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecedbb941b3d81eb68a163c9a6f526e9",
+      "title": "KDDI、ISP向けメールに不正アクセス J:COM、ニフティなど1422万件流出可能性",
+      "link": "https://www.watch.impress.co.jp/docs/news/2119358.html",
+      "summary": "",
+      "published": "2026-06-23T08:45:47Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d232c08c90f0c70f97812f7c9e62a06f",
+      "title": "失敗しないための「サプリメントECサイト構築」7つのコツ",
+      "link": "https://ebisumart.com/blog/supplement-ec/",
+      "summary": "サプリメントのECサイト構築では、その商材特性から、アパレルや家電などの一般的なECサイトと同じ感覚でプロジェクトを進めると、販売開始後に売上が伸び悩んだり、運用が回らなくなったりして失敗につながるリスクがあります。 一般的にサプリメントは、日常的・継続的な利用を前提に購入されることが多い商品です。...",
+      "published": "2026-06-23T02:00:10Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2362812d50d8164fd4bbfe53c5be4b91",
+      "title": "AIが飲み込む水、アフリカ13億人の生活用水に匹敵――国連大学が警告、「丁寧すぎる指示」も負荷に（36Kr Japan） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/4dbb169ae0749782f30fca561ffb2d2e5aa4ac27",
+      "summary": "国連大学の水・環境・健康研究所（UNU-INWEH）がこのほど、「人工知能（AI）のエネルギー使用に伴う環境コスト――炭素排出量、水使用量、土地利用面積（原題：Environmental Cost of AI's Energy Use: Carbon, Water and Land Footprin...",
+      "published": "2026-06-23T03:52:54Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "891d80bc6f3c5b44bd6be7fe7daf850b",
+      "title": "日本でもGoogle アカウントのメールアドレスが変更可能に 具体的な手順は？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/22/news077.html",
+      "summary": "Google アカウントの「@gmail.com」より前の部分（ユーザー名）を変更できる機能が、6月中旬ごろから日本でも利用できるようになった。米国などで先行リリースされていた新機能であり、変更後は新たなGmailアドレスとして使用できる。 変更手順は、Google アカウントの「個人情報」から「メ...",
+      "published": "2026-06-22T03:03:25Z",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2191f297046131505e5fcdfa7adaa40f",
+      "title": "Is Oeksound’s Soothe3 the most transparent resonance suppressor yet?",
+      "link": "https://musictech.com/reviews/plug-ins/oeksound-soothe3-review/?utm_source=rss&utm_medium=rss&utm_campaign=oeksound-soothe3-review",
+      "summary": "Soothe3 comes out swinging with improved sound and some unique new features The post Is Oeksound’s Soothe3 the most transparent resonance suppressor y...",
+      "published": "Tue, 23 Jun 2026 08:00:18 +0000",
+      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-23T07:40:50.831292+00:00"
+  "updated_at": "2026-06-23T10:56:05.822111+00:00"
 }

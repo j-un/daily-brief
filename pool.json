@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "bcf90a423b828bd581e0cfe33cbc15a9",
-      "title": "Chrome拡張機能の開発で気をつけたいセキュリティリスク - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/chrome_extension_security_risk",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Chrome拡張機能の開発で気をつけたいセキュリティリスク",
-      "published": "23 Jun 2026 05:55 +0000",
-      "fetched_at": "2026-06-23T07:40:50.831292+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8b7d3d26728aebeb054903f67d7075f4",
       "title": "対話システムの評価を LLM にどこまで任せられるか（前編）：5 つの落とし穴",
       "link": "https://zenn.dev/ivry/articles/2c298614d0ee85",
@@ -909,7 +899,277 @@
       "fetched_at": "2026-06-24T10:42:01.110043+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "65411946b238acf3fdad4c918b3e7942",
+      "title": "Building Reliable Agentic AI Systems",
+      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Building Reliable Agentic AI Systems",
+      "published": "24 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2863354935963e9d1a6bc42b148d4e35",
+      "title": "技術広報チームのマネージャーに贈る、経営層に説明できる評価軸 - 941::blog",
+      "link": "https://blog.kushii.net/archives/2026/06/15/163726",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 技術広報チームのマネージャーに贈る、経営層に説明できる評価軸",
+      "published": "21 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fcd3daa73af3951d8f741c30d9d5d8e",
+      "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+      "link": "https://paolino.me/founding-a-company-in-germany/",
+      "summary": "Article URL: https://paolino.me/founding-a-company-in-germany/ Comments URL: https://news.ycombinator.com/item?id=48658718 Points: 189 # Comments: 202",
+      "published": "Wed, 24 Jun 2026 12:31:43 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75dd5d6f96896d577870fce2717be8f0",
+      "title": "A deadly fungus that can infect cats and people is spreading",
+      "link": "https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading",
+      "summary": "Article URL: https://www.sciencenews.org/article/deadly-fungus-cats-people-spreading Comments URL: https://news.ycombinator.com/item?id=48658186 Point...",
+      "published": "Wed, 24 Jun 2026 11:31:20 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "937811a5ac5b3c82afb743e88d94d737",
+      "title": "ロボティクスモビリティ「tatamo!」が秋葉原で試乗イベント開催 水冷ウェアChillerX Proとの同時体験も",
+      "link": "https://www.techno-edge.net/article/2026/06/24/5219.html",
+      "summary": "・ICOMAが開発中のロボティクスモビリティ「tatamo!」の試乗イベントを2026年7月11日に秋葉原で無料開催 ・tatamo!は特定小型原付区分で16歳以上免許不要、最高時速20km・1充電約30km走行可能 ・Shiftallの水冷ウェア「ChillerX Pro」との同時体験も可能",
+      "published": "Wed, 24 Jun 2026 21:25:13 +0900",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "254970e60d75f467cfd264d22a70d6f0",
+      "title": "Anthropic、日本でClaudeコミュニティアンバサダー募集開始 イベント資金やAPIクレジット提供、開発者以外もOK",
+      "link": "https://www.techno-edge.net/article/2026/06/24/5218.html",
+      "summary": "・AnthropicがClaudeの地域コミュニティ構築を担う「Claude Community Ambassadors」プログラムを開始し、世界各地から参加者を募集している ・アンバサダーにはイベント資金・月次APIクレジット・限定グッズなどが無償提供され、プレリリース機能へのアクセスやプロダクト...",
+      "published": "Wed, 24 Jun 2026 20:52:42 +0900",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "599e9e9bc2c5948e7ea0dbe27c970864",
+      "title": "AWS Summit Japan 2026 : Physical AI – Spatial Computing 関連展示の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-physical-ai-spatial-computing/",
+      "summary": "こんにちは。AWS プロフェッショナルサービスの Spatial Computing (空間コンピューティング […]",
+      "published": "Wed, 24 Jun 2026 14:08:09 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "99adde7b0cfb62c1ee7f591273450e55",
+      "title": "Amazon CloudWatch now supports tags on dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards",
+      "summary": "Amazon CloudWatch now supports tagging for CloudWatch dashboards, enabling you to organize, categorize, and control access to your dashboards using ta...",
+      "published": "Wed, 24 Jun 2026 08:00:00 GMT",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d643c880671d6e4d4f080ebf18dd5051",
+      "title": "「Transformerの最大475倍」 富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+      "summary": "富士通は6月24日、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発したと発表した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え...",
+      "published": "2026-06-24T12:13:32Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe0bacadd7e2c5f58f51a7b46393fce5",
+      "title": "【コピペ可】Geminiの資料作成用プロンプト7選｜用途別の入力例や指示出しのポイントを解説",
+      "link": "https://www.dsk-cloud.com/blog/gws/7-gemini-prompts-for-creating-documents",
+      "summary": "「企画書やプレゼン資料の作成に時間がかかり、本来の業務に集中できない」と悩んでいる方も多いのではないでしょうか。このような課題解消のため、近年では生成AI「Gemini」を業務に活用するビジネスパーソンが急増しています。しかし、いざ使ってみても、「期待通りの答えが返ってこない」「手直しに時間がかかる...",
+      "published": "2026-06-23T10:36:19Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "763dc2b801335bb25b91b4b4995041fb",
+      "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/06/24/165633",
+      "summary": "【デジスマ ブログリレー 3日目】 デジスマチームの立花です。 突然ですが皆さんはどのエディタが好きでしょうか。 僕は Helix が好きでよく使っているのですが、 最近また好きなエディタが増えました。Zedです。 zed.dev 動作の軽快さに惹かれて使い始めたのですが、触っていくうちに「これは便...",
+      "published": "2026-06-24T08:49:15Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf6f4749b42ee94b1d39fd32e84648d7",
+      "title": "【山口真弘の電子書籍タッチアンドトライ】 Kindleの大画面モデルがついにカラー化。「Kindle Scribe Colorsoft」を試す",
+      "link": "https://pc.watch.impress.co.jp/docs/column/ebook/2119548.html",
+      "summary": "",
+      "published": "2026-06-24T05:03:44Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "818f370790f83ceefe92901a1696055f",
+      "title": "Claude、Slackのチームメンバーとして仕事を頼める機能を追加",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2119574.html",
+      "summary": "",
+      "published": "2026-06-24T08:07:50Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c15f7b41481291c27fd909bcfc0efa4a",
+      "title": "「Slack」で「@Claude これやっといて！」 ～Anthropic、「Claude Tag」を発表／新しいチームコラボレーション機能、「Enterprise」「Team」にベータ提供",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2119472.html",
+      "summary": "",
+      "published": "2026-06-23T23:38:45Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcdb9776100f4e0dad716618eae47bae",
+      "title": "「賞金1000万円」コンテストに「AI番付」 サイバーエージェントが明かす、AIを使い倒させる仕組み作り",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/24/news027.html",
+      "summary": "本記事の内容は、フリーが6月16日に開催した「freee 統合ワールド 2026 」内で実施されたセッション「【リーダーの本音トーク】AIを使い倒すサイバーエージェントとfreeeは何をしているのか？ 明日から真似できる『組織・人』の育て方」の内容を要約したもの。 生成AIの活用が重要なテーマとなる...",
+      "published": "2026-06-23T23:53:42Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0f85f00c9d859a3e3835c31fc4abed4",
+      "title": "AIが画像から3Dモデルを生成する「Pixal3D」をローカルに導入してみた！【Blender ウォッチング】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2119440.html",
+      "summary": "",
+      "published": "2026-06-24T08:29:38Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7c26fd49a46143361e92df0855f1c4f",
+      "title": "How to stay technical as a software engineering manager",
+      "link": "https://leaddev.com/career-development/how-to-stay-technical-as-an-engineering-manager",
+      "summary": "You have 1 article left to read this month before you need to register a free LeadDev.com account. Estimated reading time: 9 minutes Key takeaways: Te...",
+      "published": "2026-06-24T03:11:02Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ccda9155ee7ceff131170b3c77aaf89",
+      "title": "ポータブルゲーミングPCに異変あり！AMD超えを狙うIntel Arc G3 Extreme搭載機の実力を測定【6月24日(水)22時配信】",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/sp/2119636.html",
+      "summary": "",
+      "published": "2026-06-24T05:39:14Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e9c4f8c9a869f15d9efaa4ea33cf5f2",
+      "title": "NASが凄く進化していたの知ってた!?障害/メンテでも“止まらない”高可用性にAI検索で変わるデータの価値、QNAPの最新技術をCOMPUTEXで聞いてきた[Sponsored]",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2116368.html",
+      "summary": "",
+      "published": "2026-06-23T17:06:02Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27c7ac8744bdac063825a14adc95d2a2",
+      "title": "クマ被害の切り札になるか AIで100メートル先を検知する新対策機器",
+      "link": "https://www.itmedia.co.jp/business/articles/2606/24/news063.html",
+      "summary": "全国各地でクマが出没し、人的被害も続発するなか、害獣対策事業を行う専門業者の防除研究所（岐阜県大垣市）が独自に開発した「クマ対策機器」が話題となっている。出没が確認された地域で機器の試験導入や効果検証が始まっている。 同社はこれまで20年以上にわたりイノシシなどの害獣のほか、害虫の駆除に携わってきた...",
+      "published": "2026-06-24T01:05:57Z",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7dc32f00be2e8f50acc933b5a08c8b5",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 sta…",
+      "link": "https://github.com/stablyai/orca",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 stablyai / orca ⭐ 6,487 (+265) 🗒 TypeScript Orca is the ADE for working with a fleet of parallel agents. Run any ...",
+      "published": "24 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fcbd3d83192e011ec5774fc3c18b1b6",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 goog…",
+      "link": "https://github.com/google-labs-code/design.md",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 google-labs-code / design.md ⭐ 16,708 (+504) 🗒 TypeScript A format specification for describing a visual identity ...",
+      "published": "24 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "347a8060976fea77f6b3af81445f54fe",
+      "title": "teenage engineering EP-133 K.O. IIがアップデート、パソコンやスマートフォンとUSB経由でオーディオをやり取りすることが可能に…… 待望のアルペジエーターも搭載",
+      "link": "https://icon.jp/archives/27811",
+      "summary": "teenage engineeringが、EP-133 K.O. IIをアップデート。パソコンやスマートフォンとUSB経由でオーディオをやり取りすることが可能になり、待望のアルペジエーターも搭載されました。 teenag […]",
+      "published": "Wed, 24 Jun 2026 13:00:00 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "51af2f198c4245fddec5327de258df30",
+      "title": "Flexur and Chill, with this Trautonium-inspired DIY synthesizer",
+      "link": "https://cdm.link/flexur-and-chill-with-this-trautonium-inspired-diy-synthesizer/",
+      "summary": "I missed this when it dropped earlier this month -- Synthtopia was there! But now is a perfect time to chill out to the smoothly gliding sounds of thi...",
+      "published": "Wed, 24 Jun 2026 10:40:36 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "fa798e2910650634591c2b6405471073",
+      "title": "Meet Anukari, a strange virtual instrument that is “part synth, part virtual physics playground”",
+      "link": "https://musictech.com/news/gear/anukari-virtual-instrument-synth-physics-playground/?utm_source=rss&utm_medium=rss&utm_campaign=anukari-virtual-instrument-synth-physics-playground",
+      "summary": "Designed by a former engineering leader at Google, Anukari has a retro-inspired aesthetic and is made for exploration and discovery. The post Meet Anu...",
+      "published": "Wed, 24 Jun 2026 12:01:07 +0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "a0080af0176654098ceb9c5199959ca5",
+      "title": "Shark School, “Selachimorpha”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/shark-school-selachimorpha-review",
+      "summary": "The rising Irish \"abstract garage\" trio bust out of the gate with an unbridled, indignant debut. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 24 Jun 2026 13:41:27 -0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "26acfe5e8e9238f80db2bac598a78c3b",
+      "title": "Side Door No. 4: Karina Rykman’s Unexpected Jam Alliances",
+      "link": "https://daily.bandcamp.com/side-door/side-door-karina-rykman",
+      "summary": "\"I’m less concerned with associations and more concerned with doing what I feel.” Read full story on the Bandcamp Daily.",
+      "published": "Wed, 24 Jun 2026 13:41:20 -0000",
+      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-24T10:42:01.110043+00:00"
+  "updated_at": "2026-06-24T14:10:48.747053+00:00"
 }

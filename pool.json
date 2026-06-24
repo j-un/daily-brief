@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "644f3a9352cd7b91569f767a7b4daa4f",
-      "title": "DevinからClaude Code Actionsへ ── アカウント管理の自動化基盤を移行した判断とアーキテクチャ - Findy Tech Blog",
-      "link": "https://tech.findy.co.jp/entry/2026/06/16/070000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DevinからClaude Code Actionsへ ── アカウント管理の自動化基盤を移行した判断とアーキテクチャ",
-      "published": "22 Jun 2026 23:55 +0000",
-      "fetched_at": "2026-06-23T02:32:52.725551+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "bcf90a423b828bd581e0cfe33cbc15a9",
       "title": "Chrome拡張機能の開発で気をつけたいセキュリティリスク - GMO Flatt Security Blog",
       "link": "https://blog.flatt.tech/entry/chrome_extension_security_risk",
@@ -379,7 +369,327 @@
       "fetched_at": "2026-06-24T02:33:35.359564+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "af5a36196d2274a0a498835486eeb257",
+      "title": "AIエージェントはCloudflareに賭けろ",
+      "link": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェントはCloudflareに賭けろ",
+      "published": "24 Jun 2026 05:55 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4941ed0966c48baec19faed374534934",
+      "title": "PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/06/16/153849",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話",
+      "published": "24 Jun 2026 03:55 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ef497796fa2eb958a1220ec15765d45",
+      "title": "runcのコンテナ起動処理を理解する〜CにできてGoにできないこと〜",
+      "link": "https://zenn.dev/team_soda/articles/892fa3ee910e38",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 runcのコンテナ起動処理を理解する〜CにできてGoにできないこと〜",
+      "published": "24 Jun 2026 02:55 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5554789951ba37b7d625d0339027cc24",
+      "title": "AWS マネジメントコンソールプライベートアクセスがインターネット接続なしで利用可能に - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/aws-management-console-private/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Management Console Private Access now works without internet connectivity",
+      "published": "21 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "074d70aa216c7aaa45320359d96e81e9",
+      "title": "The war on terror primed America for autocracy",
+      "link": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+      "summary": "https://archive.is/CBCZM Comments URL: https://news.ycombinator.com/item?id=48654367 Points: 189 # Comments: 142",
+      "published": "Wed, 24 Jun 2026 02:23:39 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8e3f008a1672129ec257adf6ac05590",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "link": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "summary": "Article URL: https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/ Comments URL: https://news.ycombina...",
+      "published": "Wed, 24 Jun 2026 00:28:41 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8415c79804cff78095207e33662a00e",
+      "title": "Vulnerability reports are not special anymore",
+      "link": "https://words.filippo.io/vuln-reports/",
+      "summary": "Article URL: https://words.filippo.io/vuln-reports/ Comments URL: https://news.ycombinator.com/item?id=48653216 Points: 223 # Comments: 117",
+      "published": "Tue, 23 Jun 2026 23:42:46 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "83632f4d09f7be55988a940549da1361",
+      "title": "INFOBARデザインのスマートリングがauで販売『NISHIKIGOI』『ICHIMATSU』柄 心拍・睡眠やストレスを24時間7日間計測",
+      "link": "https://www.techno-edge.net/article/2026/06/24/5217.html",
+      "summary": "auのデザインケータイ「INFOBAR」を指輪にしたようなヘルスケアデバイス「スマートリカバリーリング INFOBARコラボモデル」が、全国のKDDI直営店・au Style・auショップ・UQスポットで販売を開始しました。",
+      "published": "Wed, 24 Jun 2026 16:21:42 +0900",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "8483f2b1bea4138be37b083a301d1070",
+      "title": "Claude Codeが進化、Slackで動くClaude Tag発表 Anthropic製品のコード65%を書く実績、新たな権限モデル採用",
+      "link": "https://www.techno-edge.net/article/2026/06/24/5216.html",
+      "summary": "AI企業のAnthropicは、チームがSlack上でAIアシスタント「Claude」を共同利用できる新機能「Claude Tag」を発表しました。",
+      "published": "Wed, 24 Jun 2026 15:29:44 +0900",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "396693e761295e7861baff69459ace56",
+      "title": "AWS Summit Japan 2026 ブース紹介 — 生成 AI 時代の製品設計開発",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-mfg-productengineering/",
+      "summary": "みなさんこんにちは。ソリューションアーキテクトの山田です。2026 年 6 月 25 日(木)、26 日(金) […]",
+      "published": "Wed, 24 Jun 2026 07:27:14 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd5ac509f8c892a24a29f1f0d0cf3b9d",
+      "title": "株式会社 MIXI、FC東京の写真選定業務効率化システムを Amazon Aurora DSQL で実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/mixi-fctokyo-photo-selection-aurora-dsql/",
+      "summary": "株式会社 MIXI が FC東京向けに開発した「写真選定業務効率化システム」のバックエンドデータベースとして Amazon Aurora DSQL を採用した経緯と技術的な工夫、得られた効果を、お客様の声を交えてご紹介します。",
+      "published": "Wed, 24 Jun 2026 07:01:42 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdf9323472b44b555568815964f27cee",
+      "title": "AWS Summit Japan 2026 ブース紹介 ソフトウェア定義型ファクトリー",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-mfg-sda-with-ai-agent/",
+      "summary": "こんにちは、ソリューションアーキテクトのシャルノ ミカエルです。 本記事では、2026 年 6 月 25 日（ […]",
+      "published": "Wed, 24 Jun 2026 06:12:48 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d224a5db9b487162a49cae45c87f5913",
+      "title": "AWS Config を使用したポスト量子暗号 (PQC) 対応の自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/automating-post-quantum-cryptography-readiness-using-aws-config/",
+      "summary": "TLS エンドポイントをポスト量子暗号 (PQC) に移行する第一歩は、現状のインベントリと状態把握です。本記事では、ALB、NLB、Amazon API Gateway のエンドポイントを継続的に監視する PQC Readiness Scanner を紹介します。AWS Config コンフォーマ...",
+      "published": "Wed, 24 Jun 2026 03:57:57 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3eba0bd2bb7a141c7a74d626061745bf",
+      "title": "もぐもぐ AWS – 現場の SA が語るお昼 30 分の技術トーク",
+      "link": "https://aws.amazon.com/jp/blogs/news/mogmog/",
+      "summary": "昼休み30分でAWSの最新AI技術をキャッチアップ。現場のソリューションアーキテクトが配信。AIエージェント、Bedrock、セキュリティまで。参加無料。",
+      "published": "Wed, 24 Jun 2026 03:02:32 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0a5fea38d3f6083aec76a291097bedc",
+      "title": "AWS 週間まとめ：NY Summit の振り返り、ハノイでのローカルゾーン、Bedrock での Grok 4.3、価格引き下げなど（2026年6月22日）",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ny-summit-recap-local-zone-in-hanoi-grok-4-3-in-bedrock-price-reductions-and-more-june-22-2026/",
+      "summary": "2026 年 6 月 15 日週、AWS Summit New York City では、何千人ものお客様、パ […]",
+      "published": "Wed, 24 Jun 2026 02:48:23 +0000",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4d329439e3918dbd4ac559c776eb9f3",
+      "title": "「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑 “勝手に”公式マーク表示も 専門家「AIうまく機能していない」｜FNNプライムオンライン",
+      "link": "https://www.fnn.jp/articles/-/1064623",
+      "summary": "AIが飲食店に自動音声電話をかけて予約を代行するサービス「オートリザーブ」をめぐり、無断掲載や鳴り止まない自動音声電話など飲食店とのトラブルが相次いでいる。運営会社は「法的に問題はない」としているが、専門家はサービスの課題を指摘する。 自動音声の予約電話に店主が悲鳴 店先にある張り紙に書かれていたの...",
+      "published": "2026-06-24T01:44:09Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87b73d6fc83de297178894e4bc9918d5",
+      "title": "NVIDIAが「お風呂よりも高温の冷却液」で冷やす完全液冷システムを発表、電力消費量と水使用量を最大100％削減できるとアピール",
+      "link": "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
+      "summary": "NVIDIAが45℃の冷却液を循環させるAIサーバー向けの完全液体冷却方式を発表しました。Rubin世代のAIインフラではチップやネットワーク機器を含む全ての主要部品を閉ループ式の液体で冷却し、ファンを使わない設計を採用するとしています。 Hotter Than a Hot Tub: The 45°...",
+      "published": "2026-06-24T04:38:56Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "472398e0705007cdc0f45738c3d2ef30",
+      "title": "「Codex」がSSDを酷使？ 年間換算で約640TB書き込み、寿命を1年足らずで使い切るおそれ／今後のアップデートは早めに適用した方がいいかも【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2119473.html",
+      "summary": "",
+      "published": "2026-06-24T01:02:38Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "261918095a4a9eafd2b4e035535887da",
+      "title": "画像生成AI「Krea 2」がオープンモデル化されてローカル生成可能になったのでComfyUIで実写風画像とイラスト風画像を生成してみたよレビュー",
+      "link": "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
+      "summary": "AI開発企業のKreaが画像生成AI「Krea 2」をオープンモデル化しました。Krea 2は実写風画像もイラスト風画像も高品質に生成可能。すでにComfyUIでも生成可能になったので、実際にいろいろ生成してみました。 Krea 2 Technical Report - Krea https://w...",
+      "published": "2026-06-24T03:42:19Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e949af998a9420631a6c0d5fe65ddbc",
+      "title": "「アニメ取引適正化」告知チラシ、「AI風」で批判 公取委当惑 | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20260623/k00/00m/040/319000c",
+      "summary": "アニメや映画の制作を巡り、取引の適正化や指針の周知を呼び掛ける公正取引委員会のチラシ＝2026年6月23日午後3時2分、渡辺暢撮影 アニメや映画業界の取引適正化に向けた指針を発表した公正取引委員会が、思わぬ批判に当惑している。 指針は22日に公表された。ネット動画配信サービス会社にオリジナル作品の視...",
+      "published": "2026-06-24T00:03:03Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc499055d95fdc8b2a43719f9f23113c",
+      "title": "「落ち込んだ時にネコと触れ合う」は逆効果？ ネガティブな感情を増幅する可能性 オランダの研究者ら調査",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news029.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-06-24T03:04:01Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9507f59a2dc34ee9d68309d955c00982",
+      "title": "「1杯1500円のノンアル」もつくれる？ バー好きエンジニアが開発した卓上サイズの「蒸留器」がすごかった - おなじみ丨近くの店から、なじみの店へ。",
+      "link": "https://onaji.me/entry/2026/06/24",
+      "summary": "素材から取り出した香りをメニュー開発に生かせる「巴波（うずま）式減圧蒸留器」。開発者である巴波重工業株式会社の代表取締役・安永昌平さんに、開発へのこだわりや幅広い飲食業態での活用事例などを聞きました。 料理やドリンクにおける「香り」は、お店ごとの個性を演出できるポイントの一つです。その香りの抽出方....",
+      "published": "2026-06-24T02:00:13Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ce5cda029020d76f0d3a91fd4f14d1c",
+      "title": "今買うSwitchはどれ？Switch・Switch Lite・有機EL・Switch2を修理店目線で比較してみた | iPhone修理・ipad修理・スマホ修理やスイッチ修理のお役立ち総合情報サイト「スマテクマガジン」",
+      "link": "https://smartcool-group.com/media/switch-comparison/",
+      "summary": "2026年5月、Nintendo Switchシリーズの本体価格は値上がりしました。 これにより現在Switchを未所持の方は、購入を控えたり、購入するシリーズ選びに慎重になるかと思います。 また、すでにSwitchを持っている人は、壊してしまわないように大切に扱うことが重要かと思います。 「今Sw...",
+      "published": "2026-06-24T02:00:14Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "597bfec0674f1be90356926114a2c6a3",
+      "title": "相次ぐGitHub Actions 侵害から学ぶ、初期アクセス手法と開発者が知っておきたい対策 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part1",
+      "summary": "はじめに:なぜ今、GitHub Actionsのセキュリティなのか GitHub Actionsが侵害されると何が起きるか GitHub Actionsに対する攻撃の事例分析 脆弱なトリガー構成を悪用したインジェクション Ultralytics(2024年12月) nx(2025年8月) タグ汚染に...",
+      "published": "2026-06-24T02:59:52Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13c55cc88c0cd56c309c6057d4a34fa2",
+      "title": "Claude Tagという名の新機能登場、設定・テスト・監査ログまで実践レビュー | CloudNative BLOGs",
+      "link": "https://blog.cloudnative.co.jp/articles/claude-tag-slack-security-review/",
+      "summary": "シンジです。2026年6月23日、AnthropicからClaude Tagがリリースされました。Claudeをチームかエンタープライズプランで契約していて、Slackを使っている場合にのみ使える機能です。Slack のチャンネルで、Claudeが自分のアカウント（アイデンティティ）を持ち、文脈を覚...",
+      "published": "2026-06-24T02:54:00Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa6c15770d12ed50a3d163ef116759a2",
+      "title": "気がついたら、Amazon Bedrock AgentCore Runtime のデプロイツールを作ってしまっていた話 - KAYAC Engineers' Blog",
+      "link": "https://techblog.kayac.com/adevent-calender-2025-12-19",
+      "summary": "こんにちは！ カヤックのグループ情報部の@mashiikeです。 この記事は面白法人グループ Advent Calendar 2025の19日目の記事です。 Amazon Bedrock AgentCore Runtime とは？ さて、世の中はAI Agents時代で、様々なAgentが日進月歩で...",
+      "published": "2026-06-24T03:54:08Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fce219e32f208a5e47664904b35dc5e",
+      "title": "Amazon Bedrock Managed Knowledge Bases で日本語ドキュメントはどこまで解析できるか！？ - Taste of Tech Topics",
+      "link": "https://acro-engineer.hatenablog.com/entry/2026/06/24/120000",
+      "summary": "こんにちは、データ分析エンジニアの木介です。 雨の多い6月も終わりに近づき、夏の気配を感じる頃になりました。 今回は新しくAWSから発表されたAmazon Bedrock Managed Knowledge Basesを紹介します。 従来のKnowledge Basesと比較して、何が変わったかを紹...",
+      "published": "2026-06-24T04:34:43Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c88712f8c3e399273074fcd0fcfcbd3e",
+      "title": "日本語対応のOCRモデル「Mistral OCR 4」が登場、PDFや表だらけの文書をAIが「使えるデータ」に変換",
+      "link": "https://gigazine.net/news/20260624-mistral-ocr-4/",
+      "summary": "Mistral AIが文書読み取りモデル「Mistral OCR 4」をリリースしました。PDFやOffice文書などから文字を取り出すだけでなく、表や数式や署名といった文書内の要素を見分け、どこに何が書かれているのかまで構造化して出力可能なモデルとなっています。 Mistral OCR 4 : S...",
+      "published": "2026-06-24T02:49:52Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ec74be9d2fdb3532243c857abd3bb75",
+      "title": "ペンタブメーカーがLinux向けオープンソースドライバーに協力しない理由とは？",
+      "link": "https://gigazine.net/news/20260624-drawing-tablet-linux-driver/",
+      "summary": "ペンタブレットについて、WindowsやmacOSではメーカー製ドライバーを入れるだけで済む場合でも、Linuxではメーカーが公式対応していなかったり、独自ドライバーしか選べなかったりすることがあります。イラストレーターのデビッド・ルボワ氏がペンタブレットメーカーにLinux向けの自由でオープンなド...",
+      "published": "2026-06-23T22:34:20Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5253404dba85e050367fca5fb51425e",
+      "title": "個人のプロンプト術をやめて、チームで回るAI駆動開発ループを作った話",
+      "link": "https://zenn.dev/explaza/articles/d0aeb08fcd1888",
+      "summary": "こんにちは。エクスプラザの Unsu です。 最近 \"Loop Engineering\"という言葉をよく目にするようになりました。 また新しいかっこいい名前の何かしらエンジニアリングが出てきたな、くらいに思いつつ、 Addy Osmani の Loop Engineering という記事を読んでみま...",
+      "published": "2026-06-23T12:01:21Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a70f8d40c6bd8740a8827cbd4661a394",
+      "title": "写真共有サイト「PHOTOHITO」終了へ、18年の歴史に幕 カカクコム運営の老舗サイト",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news078.html",
+      "summary": "PHOTOHITO運営事務局は6月22日、写真共有サイト「PHOTOHITO」を9月30日午後3時に終了すると発表した。同サービスはカカクコムが運営しており。2008年の開始から18年で幕を閉じる。終了理由については明かしていない。 サービス終了後はマイページを含む全機能が使えなくなるため、ユーザー...",
+      "published": "2026-06-24T03:04:52Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c57ab8b1681695a58c7f3aa0678e8d4d",
+      "title": "macOS 27：新しいSiri AIアプリ「Campo.app」を日本語環境で起動する方法 | Mac OS X | Mac OTAKARA",
+      "link": "https://www.macotakara.jp/mac_os_x/entry-51330.html",
+      "summary": "Siri.app：Campo.app Appleは、WWDC26において、macOS Sequoia 15.2にて実装され、macOS Sequoia OS 15.4から日本語にも対応した「Siri.app」を置き換える形で「Siri AI」を発表し、macOS 27 Golden Gateから、対...",
+      "published": "2026-06-23T16:56:27Z",
+      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-24T02:33:35.359564+00:00"
+  "updated_at": "2026-06-24T07:33:44.735006+00:00"
 }

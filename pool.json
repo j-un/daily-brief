@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8b7d3d26728aebeb054903f67d7075f4",
-      "title": "対話システムの評価を LLM にどこまで任せられるか（前編）：5 つの落とし穴",
-      "link": "https://zenn.dev/ivry/articles/2c298614d0ee85",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 対話システムの評価を LLM にどこまで任せられるか（前編）：5 つの落とし穴",
-      "published": "23 Jun 2026 08:55 +0000",
-      "fetched_at": "2026-06-23T10:56:05.822111+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "56242c3722ba827ba8e946dd5bed8fcf",
       "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
@@ -1169,7 +1159,277 @@
       "fetched_at": "2026-06-24T14:10:48.747053+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "644f3a9352cd7b91569f767a7b4daa4f",
+      "title": "DevinからClaude Code Actionsへ ── アカウント管理の自動化基盤を移行した判断とアーキテクチャ - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/06/16/070000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DevinからClaude Code Actionsへ ── アカウント管理の自動化基盤を移行した判断とアーキテクチャ",
+      "published": "22 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e3d3cd65f8bcedada02c7430b3a7f67",
+      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2069799283369345247 Comments URL: https://news.ycombinator.com/item?id=48661825 Points: 269 # Co...",
+      "published": "Wed, 24 Jun 2026 15:56:19 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6b1da51450c665d0968358466ea1a51",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "link": "https://rubyllm.com/",
+      "summary": "Article URL: https://rubyllm.com/ Comments URL: https://news.ycombinator.com/item?id=48660711 Points: 196 # Comments: 24",
+      "published": "Wed, 24 Jun 2026 14:41:41 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8eb5eb59e7a87ad69e86b63b595a19e",
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "link": "https://github.com/nubjs/nub",
+      "summary": "Article URL: https://github.com/nubjs/nub Comments URL: https://news.ycombinator.com/item?id=48660267 Points: 118 # Comments: 25",
+      "published": "Wed, 24 Jun 2026 14:14:18 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "929a4527b308e82c26ddf95d974ebf91",
+      "title": "Slate EV truck starts at $24,950",
+      "link": "https://www.slate.auto/en",
+      "summary": "Article URL: https://www.slate.auto/en Comments URL: https://news.ycombinator.com/item?id=48659451 Points: 210 # Comments: 314",
+      "published": "Wed, 24 Jun 2026 13:26:43 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3816fe928a2067a3e3a7f7e9e47ef88",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "summary": "Article URL: https://openai.com/index/openai-broadcom-jalapeno-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=48659257 Points: 127...",
+      "published": "Wed, 24 Jun 2026 13:14:39 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "52c825ae3e24718240ff7521ef01c0a9",
+      "title": "Stealing Is a Skill",
+      "link": "https://ben-mini.com/2026/stealing-is-a-skill",
+      "summary": "Article URL: https://ben-mini.com/2026/stealing-is-a-skill Comments URL: https://news.ycombinator.com/item?id=48659165 Points: 115 # Comments: 80",
+      "published": "Wed, 24 Jun 2026 13:08:52 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3856b334a321e958844af478aa80301f",
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "link": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "summary": "Article URL: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Wed, 24 Jun 2026 12:23:59 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd53367f9c57e4f4c5fe520f7433681e",
+      "title": "Minimus container images are now free",
+      "link": "https://images.minimus.io/",
+      "summary": "Article URL: https://images.minimus.io/ Comments URL: https://news.ycombinator.com/item?id=48658361 Points: 105 # Comments: 60",
+      "published": "Wed, 24 Jun 2026 11:52:12 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b2987c615830c389ef66f2c41e5c8dd",
+      "title": "Amazon Neptune now supports AWS CloudFormation for global databases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/",
+      "summary": "Amazon Neptune now supports AWS CloudFormation for provisioning and managing Neptune global databases. Using the new AWS::Neptune::GlobalCluster resou...",
+      "published": "Wed, 24 Jun 2026 13:00:00 GMT",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2c3d77d49be2bddd9810e01bcc9b954",
+      "title": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific (Seoul) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/",
+      "summary": "Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Asia Pacific (Seoul) region. U7i instances are part of the A...",
+      "published": "Wed, 24 Jun 2026 01:00:00 GMT",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfdfb2febcd5098eaeb3cbcfcc78b085",
+      "title": "Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/",
+      "summary": "AWS announces the preview of AI-powered investigations in Amazon GuardDuty, a new capability that automatically analyzes GuardDuty findings and accoun...",
+      "published": "Tue, 23 Jun 2026 19:49:00 GMT",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "12900134ce0226110107e6a80d871300",
+      "title": "ChatGPTの心臓部『Transformer』って何がすごいの？ #マンガでわかるAIの仕組み 第1話",
+      "link": "https://codezine.jp/article/detail/24575",
+      "summary": "「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載がスタート！",
+      "published": "2026-06-24T07:06:35Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33bb6d44d5d7d3a4f2ab8f45a1bd071f",
+      "title": "「コードレビューは人間がやるべき」 という、最後の幻想",
+      "link": "https://newspicks.com/news/16930133/body/",
+      "summary": "観点が言葉になれば、砦は仕組みに変わる スピードが上がった現場で、何が詰まっているか 先日、登壇したパネルセッションで、会場に問いを投げました。「コードレビューがチームのボトルネックになっている方は、手を挙げてください」 と。正確な調査ではありません。ただ、会場の体感では、半分ほどの手が挙がりました...",
+      "published": "2026-06-24T12:25:00Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30859560c78428b2d35de855fa7f4630",
+      "title": "iPhoneの「Safari」からGoogle Meetに参加できるように",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2119613.html",
+      "summary": "",
+      "published": "2026-06-24T06:25:47Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfe6e32794fa908bbe8938a5d1d86df0",
+      "title": "IPA、情報処理技術者試験に新設する「データマネジメント試験（仮称）」のサンプル問題を公開 2026年夏ごろまでに、ほかの試験区分でも順次公開",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2119053.html",
+      "summary": "",
+      "published": "2026-06-23T06:48:25Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff6e76ba58a8f9984efda7a5facd2d38",
+      "title": "深刻なGPU品不足の中、OpenAIがLLMチップ「Jalapeño」を自社開発",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2119809.html",
+      "summary": "",
+      "published": "2026-06-24T14:03:11Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "543c9920d017ac93af5097371c54b639",
+      "title": "新たな攻撃手法「Velvet DDoS」の紹介と調査による補足 | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/36775",
+      "summary": "2021年11月にセキュリティ情報統括室に所属。頑固なので、ニックネームだけでもやわらかくひらがなにしてみました。普段はインターネット上にあるサイバー攻撃に関する情報を元に分析しています。分析用のツールも併せて開発しています。 はじめに 今回の記事では DDoS 攻撃の手法として知られている絨毯爆撃...",
+      "published": "2026-06-24T04:11:04Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f012bbc96f236445217013304cdf1593",
+      "title": "【Devin活用】Spring Boot 3.5 → 4 へのメジャーバージョンアップの影響調査 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260624/devin",
+      "summary": "1. はじめに この記事で書くこと この記事で書かないこと 前提 2. バージョンアップ作業フロー Step 1：メジャーバージョンアップによる影響調査 Devin の Playbook を作成する Devin の Playbook を実行して一覧化する Step 2：対応が必要かどうかの判断と方針...",
+      "published": "2026-06-24T06:43:33Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b9f8daae9507370e2c01f5ac6f3c53f",
+      "title": "Sakana AI",
+      "link": "https://sakana.ai/fugu-release/",
+      "summary": "Sakana AI Releases ‘Fugu Ultra’ to Match Frontier Performance via Autonomous Model Orchestration. Our Fugu Ultra model stands shoulder-to-shoulder wit...",
+      "published": "2026-06-22T03:03:32Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b659df287e0e196eb1aa885f040e3820",
+      "title": "AIにコンテンツのスクレイピングを許可するかどうかをクリエイターが簡単に制御できる機能をCloudflareが提供開始",
+      "link": "https://gigazine.net/news/20260624-cloudflare-beehiiv-ai-crawl-control/",
+      "summary": "AIが学習や回答に使用するデータをインターネット上からかき集めるAIクローラーは、AI開発者にとっては有用なものですが、一部のクリエイターはAIによるコンテンツの無断使用を問題視しています。そんな中、ウェブサイトやアプリといったコンテンツの配信を高速化・最適化するCloudflareが、ニュースレタ...",
+      "published": "2026-06-24T08:00:58Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f9f24f171af1fe466d2d36eed8fa977",
+      "title": "RTX 5090を使って1.8秒で動画を生成できる動画生成AIモデル「FastWan-QAD」が登場、Wan2.1を量子化＆蒸留して95.6倍に高速化",
+      "link": "https://gigazine.net/news/20260624-fastwan-qad-video-generation-ai/",
+      "summary": "カリフォルニア大学サンディエゴ校のAIラボであるHao AI Labが動画生成AIモデル「FastWan-QAD」を公開しました。GeForce RTX 5090でFastWan-QADを実行すると480p・5秒の動画をわずか1.8秒で生成できます。 FastWan-QAD: FastVideo g...",
+      "published": "2026-06-24T09:58:18Z",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecac04eb8fd789a96b02c8c2ea912f15",
+      "title": "📦 kunchenguid / no-mistakes ⭐ 1,757 (+90…",
+      "link": "https://github.com/kunchenguid/no-mistakes",
+      "summary": "📦 kunchenguid / no-mistakes ⭐ 1,757 (+90) 🗒 Go git push no-mistakes",
+      "published": "24 Jun 2026 17:16 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a703dff9c32e9305c73e1c6085e47a2",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 intervi…",
+      "link": "https://github.com/interviewstreet/hiring-agent",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 interviewstreet / hiring-agent ⭐ 1,850 (+152) 🗒 Python AI agent to evaluate and score resumes.",
+      "published": "24 Jun 2026 16:16 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b315b26fb029ae56dc1ab418db546d8",
+      "title": "📦 andreknieriem / headunit-revived ⭐ 1,3…",
+      "link": "https://github.com/andreknieriem/headunit-revived",
+      "summary": "📦 andreknieriem / headunit-revived ⭐ 1,355 (+79) 🗒 Kotlin Headunit App for displaying Android Auto",
+      "published": "24 Jun 2026 15:16 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b68be267c74ad85516903dd5450390ed",
+      "title": "📦 flutter / flutter ⭐ 177,114 (+44) 🗒 Da…",
+      "link": "https://github.com/flutter/flutter",
+      "summary": "📦 flutter / flutter ⭐ 177,114 (+44) 🗒 Dart Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "published": "24 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "db4d0bddd1a9a4304d4fb281de5f076e",
+      "title": "Softube’s new Console 1 Compact brings hands-on mixing to even the smallest studios",
+      "link": "https://musictech.com/news/gear/softube-console-1-compact/?utm_source=rss&utm_medium=rss&utm_campaign=softube-console-1-compact",
+      "summary": "The new control surface promises the sound and feel of a large-format console in a desk-friendly package. The post Softube’s new Console 1 Compact bri...",
+      "published": "Wed, 24 Jun 2026 11:00:37 +0000",
+      "fetched_at": "2026-06-24T17:48:10.144328+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-24T14:10:48.747053+00:00"
+  "updated_at": "2026-06-24T17:48:10.144328+00:00"
 }

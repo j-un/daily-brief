@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4941ed0966c48baec19faed374534934",
-      "title": "PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話 - エムスリーテックブログ",
-      "link": "https://www.m3tech.blog/entry/2026/06/16/153849",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話",
-      "published": "24 Jun 2026 03:55 +0000",
-      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5554789951ba37b7d625d0339027cc24",
-      "title": "AWS マネジメントコンソールプライベートアクセスがインターネット接続なしで利用可能に - AWS",
-      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/aws-management-console-private/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Management Console Private Access now works without internet connectivity",
-      "published": "21 Jun 2026 08:55 +0000",
-      "fetched_at": "2026-06-24T07:33:44.735006+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "65411946b238acf3fdad4c918b3e7942",
       "title": "Building Reliable Agentic AI Systems",
       "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
@@ -859,7 +839,287 @@
       "fetched_at": "2026-06-25T10:35:58.947701+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "f15c38e1707d52a6145a35813803c392",
+      "title": "かつてインターネットが起こし、今度はAIが起こす「破壊的イノベーション」を乗り越える～IIJ 「自由」と「デジタル主権」をめぐる未来への課題 - INTERNET Watch",
+      "link": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2115078.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 かつてインターネットが起こし、今度はAIが起こす「破壊的イノベーション」を乗り越える～IIJ",
+      "published": "25 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f685691c9f312c56fe9ef57696b1252",
+      "title": "Countries are competing to see which can carry out mass surveillance the best",
+      "link": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
+      "summary": "Article URL: https://mullvad.net/en/why-privacy-matters/state-mass-surveillance Comments URL: https://news.ycombinator.com/item?id=48672764 Points: 16...",
+      "published": "Thu, 25 Jun 2026 13:07:07 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee74b3cc0e5f53d791d763fefe11c65c",
+      "title": "Apple announces significant price increases for MacBooks, iPads, more",
+      "link": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
+      "summary": "Article URL: https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/ Comments URL: https://news.ycombinator.com/item?id=48672732 Points: 1...",
+      "published": "Thu, 25 Jun 2026 13:02:56 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b385b41a78bc3eb76954313b6583808",
+      "title": "\"Hey Nico, you didn't vibe code it, you stole Papermark's open source code\"",
+      "link": "https://twitter.com/mfts0/status/2070080422482977095",
+      "summary": "Article URL: https://twitter.com/mfts0/status/2070080422482977095 Comments URL: https://news.ycombinator.com/item?id=48672328 Points: 164 # Comments: ...",
+      "published": "Thu, 25 Jun 2026 12:23:05 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82b619033f8ebc5b36e9fd41b21f1511",
+      "title": "LastPass notifies users of yet another data breach",
+      "link": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "summary": "Article URL: https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/ Comments URL: https://news.ycombinator.com/item?id=486...",
+      "published": "Thu, 25 Jun 2026 10:28:16 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c2de7acb3113237f12ecee51a345550",
+      "title": "Dolphin Emulator Progress Release 2606",
+      "link": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "summary": "Article URL: https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/ Comments URL: https://news.ycombinator.com/item?id=48671392...",
+      "published": "Thu, 25 Jun 2026 10:20:07 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce2ea62e0534a91d53e750e78390f8df",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "link": "https://utaw.tech/news/wikipedia-recognition",
+      "summary": "Article URL: https://utaw.tech/news/wikipedia-recognition Comments URL: https://news.ycombinator.com/item?id=48669932 Points: 138 # Comments: 145",
+      "published": "Thu, 25 Jun 2026 07:02:37 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5010f40c39af2b82174a1fb989558026",
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "link": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "summary": "Article URL: https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies Comments URL: https:...",
+      "published": "Thu, 25 Jun 2026 02:30:18 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "96a70ed8d1bc57b71a17f7359adb81a7",
+      "title": "Logi G、約59gの軽量ゲーミングマウス G304 X SUPERLIGHT LIGHTSPEED発売 約4割減量で130時間駆動、44k高精度センサ採用",
+      "link": "https://www.techno-edge.net/article/2026/06/25/5225.html",
+      "summary": "Logitechの日本法人ロジクールが、ゲーミングブランド「ロジクールG」の新製品「G304 X SUPERLIGHT LIGHTSPEED ワイヤレス ゲーミング マウス」を発表しました。",
+      "published": "Thu, 25 Jun 2026 19:37:26 +0900",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "08f033b970e382ff17f0fb5dfa5128cd",
+      "title": "まだ終わらんよ！Windows 10のサポートが1年延長。来年10月まで実質無料に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120164.html",
+      "summary": "",
+      "published": "2026-06-25T13:22:06Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c8732db23c52eb4d6bacf84e482b8db",
+      "title": "IBMが「1ナノ未満」半導体技術 ラピダス世代から性能5割向上 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN193WI0Z10C26A6000000/",
+      "summary": "【シリコンバレー=山田航平、ニューヨーク=大原恵】米IBMは25日、回路線幅が1ナノ（ナノは10億分の1）メートル未満の世代に相当する次世代の半導体技術を開発したと発表した。最先端半導体の量産を目指すラピダスに供与する2ナノ半導体の技術から、性能を最大5割高められる見通しだ。早ければ今後5年以内に実...",
+      "published": "2026-06-25T11:39:49Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eb0e8a335462c65145b921cff57b9c4",
+      "title": "LLM処理効率を最大475倍にする新技術。富士通が開発",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2119985.html",
+      "summary": "",
+      "published": "2026-06-25T05:06:04Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc121d5f9f83d2baa3d4a0cef1453402",
+      "title": "1nm未満の微細化へ、IBMが「ナノスタック」技術の0.7nm世代で性能約50%向上",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2119895.html",
+      "summary": "",
+      "published": "2026-06-25T10:38:47Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d8822039b4f088e450f2ccaf903677d",
+      "title": "猶予は数ヶ月。AIによる壊滅的なサイバー攻撃の脅威が迫っていると国際情報機関が警告",
+      "link": "https://karapaia.com/archives/611806.html",
+      "summary": "Image by Istock spawns 高度なAIを悪用したサイバー犯罪により、国家や企業の中枢システム、生活インフラが完全に麻痺し、社会が大混乱に陥る危機がすぐ目の前まで迫っている。 米国、オーストラリア、英国、カナダ、ニュージーランドの5カ国で構成される国際的な情報同盟「ファイブ・アイズ（...",
+      "published": "2026-06-25T09:21:03Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "587be40e61d46f9e96ab624a5e4df266",
+      "title": "ひろゆきが若者へ同情「僕は逃げ切った世代なので大変だなと…」 AIが40〜50代を強化して若手を締め出す現実 | AERA Books",
+      "link": "https://dot.asahi.com/articles/-/285741?page=1",
+      "summary": "ひろゆきさん（右、写真／鈴木芳果）と、外資系IT米国本社勤務でnoteクリエイターの福原たまねぎさん（左、写真／写真映像部・上田泰世） この記事の写真をすべて見る 外資系IT米国本社に勤めるプロダクト・マネージャーで、noteクリエイターとして活躍する福原たまねぎさん。2025年、彼がアメリカの熾烈...",
+      "published": "2026-06-25T11:00:38Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cb5fa8c80901793f958d89ea22fe2e6",
+      "title": "NVIDIAもAMDもなし。CPUだけで2.19EFLOPS達成した中国スパコンが首位",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2119870.html",
+      "summary": "",
+      "published": "2026-06-25T03:19:45Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2c41d323353d06bb83f2cc8b6370252",
+      "title": "職人すら危うい…「AIロボット」で消える「ブルーカラーの仕事」",
+      "link": "https://gendai.media/articles/-/168519",
+      "summary": "人間の生活空間にそのまま入り込む、高度なAIを搭載した自律移動型ロボット。家事をこなし、会話をし、街を歩く――そんな存在が、現実のものになろうとしている。 「家事ロボットを開発する企業はすでに乱立し、予約販売も始まっています。今はまだ一部の層がエンタメとして飛びついている段階ですが、2027年には『...",
+      "published": "2026-06-25T03:01:32Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59b479b4f4c4c39d3cc020f34514c503",
+      "title": "ソニー「aibo」の国内販売終了 なぜ、人に愛される存在になったのか",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2606/25/news092.html",
+      "summary": "ソニーグループとソニーマーケティングは2026年6月25日、自律型エンタテインメントロボット「aibo」の国内販売を終了すると発表した。1999年の初代誕生から四半世紀が経過し、2018年に最先端のAIを搭載して奇跡の復活を遂げた現行モデルは、多くの家庭で家族として迎え入れられてきた。今回の知らせは...",
+      "published": "2026-06-25T04:37:36Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f61c2a6249b24558d1badbdda8c56f44",
+      "title": "KDDIメール基盤から最大で1422万件漏えい ニフティやBIGLOBEなど6社に波及",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news043.html",
+      "summary": "KDDIは2026年6月23日、同社がISP事業者向けに提供するメールシステムへの不正アクセスを確認し、メールサービス利用者のメールアドレスとパスワードが外部へ漏えいした可能性があると発表した。対象はSTNet、KDDIウェブコミュニケーションズ、JCOM、中部テレコミュニケーション、ニフティ、BI...",
+      "published": "2026-06-25T01:07:38Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "208f0ce3fce4bd442a26598a34d967a3",
+      "title": "aibo",
+      "link": "https://info.aibo.sony.jp/info/2026/06/20260625-01.html",
+      "summary": "2026年6月25日 ソニーグループ株式会社 ソニーマーケティング株式会社 平素よりソニー製品をご愛用いただき、誠にありがとうございます。 下記製品について在庫がなくなり次第、国内での販売を終了することをお知らせいたします。 尚、aiboベーシックプランおよびaiboプレミアムプラン、aiboケアサ...",
+      "published": "2026-06-25T03:37:34Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e411a7a8063884bb51752de54aae7c8",
+      "title": "ゲーム開発者の「大規模シムの最適化」談義が盛り上がる。大量キャラをぬるぬる動かすノウハウ、ベテランが語る“数千体からが本番” - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260624-451668/",
+      "summary": "「コロニーシムはどうやってフレームレートを落とさずに500以上のユニットをシミュレートしているのか」という素朴な疑問を開発者に訊くスレッドが注目を集めている。",
+      "published": "2026-06-24T14:52:04Z",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d1f873d0b898bf1192d82473b244121",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 IceWhal…",
+      "link": "https://github.com/IceWhaleTech/CasaOS",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 IceWhaleTech / CasaOS ⭐ 34,486 (+174) 🗒 Go CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "published": "25 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab39876dc0e3e00587d19ab5a7d6a88e",
+      "title": "AVA London 2026 speakers include Moby, Oklou, Richie Hawtin and more",
+      "link": "https://musictech.com/news/events/ava-london-2026-lineup-moby-oklou-richie-hawtin/?utm_source=rss&utm_medium=rss&utm_campaign=ava-london-2026-lineup-moby-oklou-richie-hawtin",
+      "summary": "Attendees can also take part in a workshop with Ableton, or learn about the fundamentals of music publishing with PRS For Music. The post AVA London 2...",
+      "published": "Thu, 25 Jun 2026 13:35:09 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7075212d49cddd9899db13d9ea9f5c88",
+      "title": "“There’s a great opportunity for people who are committed to being creative”: Chris Lake wants you to make something with what you’ve got",
+      "link": "https://musictech.com/features/interviews/chris-lake-interview-chemistry/?utm_source=rss&utm_medium=rss&utm_campaign=chris-lake-interview-chemistry",
+      "summary": "Two decades on from landing his first record deal through a message board, the British producer is now only chasing the projects that interest him, an...",
+      "published": "Thu, 25 Jun 2026 13:18:04 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "f833e4292456e2615394fb5e1ad9851d",
+      "title": "Need more character in your tracks? UJAM’s new Retrocraft plugin packs an entire vintage effects chain into one window",
+      "link": "https://musictech.com/news/gear/ujam-retrocraft-plugin/?utm_source=rss&utm_medium=rss&utm_campaign=ujam-retrocraft-plugin",
+      "summary": "The all-in-one processor lets you add saturation, degradation, tape and vinyl character, movement, and ambience to any kind of track and mix. The post...",
+      "published": "Thu, 25 Jun 2026 12:30:12 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "ef1e322b52baa3d9489660227bc7ce33",
+      "title": "Corus wants to make music discovery social again – and leave the algorithm behind",
+      "link": "https://musictech.com/news/gear/corus-music-discovery-app/?utm_source=rss&utm_medium=rss&utm_campaign=corus-music-discovery-app",
+      "summary": "What if your next favourite song came from a person, not an algorithm? The post Corus wants to make music discovery social again – and leave the algor...",
+      "published": "Thu, 25 Jun 2026 11:55:31 +0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "2f5f7ac1d0e889e5edecdb96b77516ff",
+      "title": "The Expansive Worlds of Mary Halvorson",
+      "link": "https://daily.bandcamp.com/lists/mary-halvorson-album-guide",
+      "summary": "Whether playing folk, noise-rock, or art song, in quartets, trios, or on her own, the guitarist’s presence is unmistakable. Read full story on the Ban...",
+      "published": "Thu, 25 Jun 2026 13:44:16 -0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "408d1bd1b3a3f28b52c93da2af453e27",
+      "title": "Various Artists, “10 Years of Love Injection: A Declaration of Universal Love, Compiled by Barbie Bertisch & Paul Raffaele”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/10-years-of-love-injection-compilation-review",
+      "summary": "A killer dance compilation celebrates New York’s wide-ranging sounds and triumphant communal spirit. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 25 Jun 2026 13:44:13 -0000",
+      "fetched_at": "2026-06-25T14:08:06.085183+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-25T10:35:58.947701+00:00"
+  "updated_at": "2026-06-25T14:08:06.085183+00:00"
 }

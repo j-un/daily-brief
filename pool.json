@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "56242c3722ba827ba8e946dd5bed8fcf",
-      "title": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/",
-      "summary": "Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions, enabling you to easily and efficiently transfer incremental ...",
-      "published": "Mon, 15 Jun 2026 18:30:00 GMT",
-      "fetched_at": "2026-06-23T21:48:50.132717+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "4941ed0966c48baec19faed374534934",
       "title": "PRごとに検証環境が立ち上がる仕組みをTerraform × GitHub Actionsで作った話 - エムスリーテックブログ",
       "link": "https://www.m3tech.blog/entry/2026/06/16/153849",
@@ -179,7 +169,237 @@
       "fetched_at": "2026-06-24T22:59:42.489202+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "00defbdc9762f90e6240186e6c56fa2f",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/anthropic-pauses-claude-agent-sdk-subscription-change/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Anthropic pauses Claude Agent SDK subscription change on day it was due to take effect",
+      "published": "25 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "931ba4d0153120e16648cb828a2eace8",
+      "title": "Just a moment...",
+      "link": "https://www.coinbase.com/en-gb/blog/a-postmortem-of-our-may-7-2026-outage",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 A postmortem of our May 7, 2026 outage",
+      "published": "24 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1d70d92460119f39154c0e3efaf7873",
+      "title": "Elastic lays off 7% of employees",
+      "link": "https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees",
+      "summary": "Article URL: https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees Comments URL: https://news.ycombinator.com/item?id=4866610...",
+      "published": "Wed, 24 Jun 2026 21:57:30 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac59e7b7776afb960e6c8121858d5d6a",
+      "title": "I rewrote PostHog's SQL parser, 70x faster, while barely looking at the code",
+      "link": "https://posthog.com/blog/sql-parser",
+      "summary": "Article URL: https://posthog.com/blog/sql-parser Comments URL: https://news.ycombinator.com/item?id=48663544 Points: 119 # Comments: 59",
+      "published": "Wed, 24 Jun 2026 18:05:33 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "496974165fb13a69ccdc0f4257e8bcad",
+      "title": "Big AI labs are hiring philosophers",
+      "link": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "summary": "https://archive.is/T1FJG Comments URL: https://news.ycombinator.com/item?id=48662452 Points: 127 # Comments: 114",
+      "published": "Wed, 24 Jun 2026 16:40:13 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f709adbd370ec0b2e2e379149c8635e",
+      "title": "Qualcomm to Acquire Modular",
+      "link": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "summary": "https://investor.qualcomm.com/news-events/press-releases/new...https://www.modular.com/blog/qualcomm-to-acquire-modularhttps://x.com/clattner_llvm/sta...",
+      "published": "Wed, 24 Jun 2026 13:49:16 +0000",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ef4a47110660aa68602b2b551e06ebb",
+      "title": "5分の動画素材を25分で生成。話題のワールドモデル「HappyOyster」を軸にしたMV制作の新潮流（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/06/25/5222.html",
+      "summary": "Claude作家の黒戸寓吾が創作したSFショートショート「至高の歌」をテーマにした楽曲のAIミュージックビデオを作りました。作詞：黒戸寓吾、補作詞：松尾公也、作曲：Suno、歌唱：妻音源とりちゃん。映像素材はHappy Oysterです。",
+      "published": "Thu, 25 Jun 2026 11:09:43 +0900",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "1431bc61eb2358ff81481fd3b896f3ed",
+      "title": "今も「パスワードの定期変更」ルールが生き残っている企業では、何が起きているのか【フォーカス】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_881/",
+      "summary": "東京通信大学 情報マネジメント学部 教授 前川 徹（まえがわ・とおる） 国際大学GLOCOM主幹研究員も務める。企業や政府のDXに関する研究を専門分野とする。通商産業省（現・経済産業省）入省後、IPAセキュリティセンター所長、早稲田大学大学院国際情報通信研究センター教授などを歴任。IT人材を発掘・育...",
+      "published": "2026-06-25T00:58:43Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a5134d5b0d8e4de6c3243d063ae66da",
+      "title": "HTMLのセマンティクスを意識して、壊れにくいテストコードを書こう - ICS MEDIA",
+      "link": "https://ics.media/entry/260624/",
+      "summary": "AIがアプリケーションコードもテストコードも書く時代、UIを操作するE2Eテストは「通るか」だけでなく、「何を操作しているかが読み取れるか」という視点も重要です。 AIが生成したUIのテストコードは一見それらしく動いても、順番や見た目のテキストに依存していて、あとから読むと意図がわからないことがあり...",
+      "published": "2026-06-24T09:25:41Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03eebc22c2c86c8cb5edd2d750bc088e",
+      "title": "AI時代のリーダーシップ：導くとは何か - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
+      "link": "https://kaz-ataka.hatenablog.com/entry/2026/06/24/224845",
+      "summary": "Amagi, Shizuoka, Japan 1.4/50 Summilux ASPH, Leica M10P, RAW AI時代のリーダーシップとは何か。 そんなテーマで対談する機会があった。お相手は、前職の後輩であり長年の友人でもあるNPOクロスフィールズ代表の小沼大地さんと、越境学習を長く研究...",
+      "published": "2026-06-24T22:51:40Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd9231129a4b679359d62adb0195a9d",
+      "title": "【レビュー】 「Ray-Ban Meta」約1カ月使ってみた。カメラ・スピーカーに感動、AIは成長に期待",
+      "link": "https://av.watch.impress.co.jp/docs/review/review/2119712.html",
+      "summary": "",
+      "published": "2026-06-25T00:49:24Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "589dc7335b9bc74f0465b66bdda203a9",
+      "title": "“PayPay送金詐欺”3カ月で22.4倍に急増 ゲーム・トレカサービスかたる新手口も",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news135.html",
+      "summary": "ショートメッセージ（SMS）から「PayPay」の送金画面へ誘導し、金銭をだまし取ろうとする“PayPay送金詐欺”が急増している──フィッシング詐欺の対策サービスを提供するトビラシステムズ（名古屋市）が6月24日に発表した調査結果によると、同社が5月に確認したPayPay送金詐欺の件数は2月の22...",
+      "published": "2026-06-24T11:04:23Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "78500d83e18cc3843846ed774f981813",
+      "title": "OpenAI、LLMのための新チップ「ハラペーニョ」を自社開発 年内にGW級",
+      "link": "https://www.watch.impress.co.jp/docs/news/2119811.html",
+      "summary": "",
+      "published": "2026-06-24T14:45:38Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75bb205ecbd2801d22ae93eec45c6dc4",
+      "title": "「夏場は50度以上のコンテナで作業」に対処 サンワサプライが西日本で荷降ろしロボット活用",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news081.html",
+      "summary": "この記事は本多和幸氏と谷川耕一氏によるIT事例メディア「CaseHub.News」に掲載された「サンワサプライ、AIロボットで荷降ろしを自動化 西日本拠点で処理能力15％向上」（2026年6月24日掲載）を、ITmedia NEWS編集部で一部編集し、転載したものです。 サンワサプライが、物流倉庫に...",
+      "published": "2026-06-24T08:16:05Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d569bd2818000da96cc6888475d3549",
+      "title": "SaaSは死なない AIへの置き換え、ソフトより人の作業 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCD095RT0Z00C26A6000000/",
+      "summary": "日米の株式市場で、企業向け業務ソフトウエア関連株価の低迷が目立っている。自律的に動く人工知能（AI）エージェントの普及が「SaaSの死」につながるとの懸念が昨年後半から市場を覆っているからだ。だが企業の実務現場では業務ソフトと併用する形でのAIエージェント導入が多く、代替されるのは人間の「作業」だ。...",
+      "published": "2026-06-24T20:56:54Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6b1da51450c665d0968358466ea1a51",
+      "title": "RubyLLM",
+      "link": "https://rubyllm.com/",
+      "summary": "Battle tested at - Fully private work AI Build a working Ruby AI chat in two minutes Using RubyLLM? Share your story! Takes 5 minutes. Why RubyLLM? Ev...",
+      "published": "2025-03-11T09:15:09Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa58961c6bf7167efee240aa3d5c8427",
+      "title": "複数システム横断でAIが業務を自律的に実行する環境構築サービスを提供開始",
+      "link": "https://www.nttdata.com/global/ja/news/topics/2026/062400/",
+      "summary": "ホーム ニュース 複数システム横断でAIが業務を自律的に実行する環境構築サービスを提供開始 ～AIが複数システムを横断して一連の業務プロセスを完遂し、業務効率化や高度な意思決定を支援～ トピックス 2026年6月24日 株式会社NTTデータ 株式会社NTTデータ（以下、NTTデータ）は、企業内の複数...",
+      "published": "2026-06-24T12:41:03Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "17b9c1e3d39c1c33e63a57a220042575",
+      "title": "国産フルスクラッチAI「PLaMo 3.0 Prime」提供開始、“高コスパ”うたう 無料のAPIプランも PFN",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000113/",
+      "summary": "Preferred Networksは6月22日、AIモデル「PLaMo 3.0 Prime」の提供を始めると発表した。フルスクラッチで開発した国産のAIモデルで、長い時間をかけて複雑なタスクをこなせる「Reasoningモデル」と、通常の「Non-reasoningモデル」を用意する。APIまたは...",
+      "published": "2026-06-22T08:13:43Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8eb5eb59e7a87ad69e86b63b595a19e",
+      "title": "GitHub - nubjs/nub: The fast all-in-one Node.js toolkit",
+      "link": "https://github.com/nubjs/nub",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-06-18T13:03:06Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f43b9b66dbf224141d355db9b0f29c83",
+      "title": "「GitHub Copilot CLI」の新UIが一般提供 ～タブ、対話型の設定、アクセシビリティ対応など／「Build 2026」発表の新機能が正式展開",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2119476.html",
+      "summary": "",
+      "published": "2026-06-24T08:35:32Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4133bb04ae63a96f077a889d33900441",
+      "title": "巨女と共同生活ゲーム『SAEKO』開発者にインタビューしたら、ファンでも引くほどの歪んだこだわりが詰まっていた。徹底したのは「恐怖と欲情」、イチャイチャなんてさせない - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/saeko-20260624-451342/",
+      "summary": "美しい少女の部屋に転がり込んで、夢の共同生活。 ただし、自分の背丈は彼女の指1本未満。小人と巨人。その気になれば、彼女はいつでもあなたを握り潰すことができる。止まった蚊を叩くよりも無造作に―― SAFE HAVN STUDIOが開発し、HYPER REALが発売する『SAEKO: Giantess ...",
+      "published": "2026-06-24T03:52:48Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af1c3768865a05b2e57e14e3b34d9fc6",
+      "title": "折りたたみiPhone、1年後の中古再販価格は半額以下？ 通常のiPhoneより大きく下がる可能性【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2119488.html",
+      "summary": "",
+      "published": "2026-06-24T02:08:41Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c54a4f8ed1b44f411dae339699e01f9f",
+      "title": "陸自駐屯地で四足歩行型の警備用ロボットが見回り GMOインターネットグループが開発",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news130.html",
+      "summary": "GMOインターネットグループ4社は、国産ロボット開発を担う未来ロボットと組み、国産の四足歩行型警備用ロボットを開発し、陸上自衛隊の駐屯地での導入検証を始めると発表した。警備の省人化を図り、24時間警備体制の実現を目指すという。 同グループによると、各社が共同で、AIとロボット技術を融合させた四足歩行...",
+      "published": "2026-06-24T10:04:55Z",
+      "fetched_at": "2026-06-25T02:34:48.403691+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-24T22:59:42.489202+00:00"
+  "updated_at": "2026-06-25T02:34:48.403691+00:00"
 }

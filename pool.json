@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "65411946b238acf3fdad4c918b3e7942",
-      "title": "Building Reliable Agentic AI Systems",
-      "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Building Reliable Agentic AI Systems",
-      "published": "24 Jun 2026 10:55 +0000",
-      "fetched_at": "2026-06-24T14:10:48.747053+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "644f3a9352cd7b91569f767a7b4daa4f",
       "title": "DevinからClaude Code Actionsへ ── アカウント管理の自動化基盤を移行した判断とアーキテクチャ - Findy Tech Blog",
       "link": "https://tech.findy.co.jp/entry/2026/06/16/070000",
@@ -1379,7 +1369,237 @@
       "fetched_at": "2026-06-25T18:04:17.453672+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "6c74b2d83f3d4dc03421daf5b748d2b0",
+      "title": "Deno 2.9",
+      "link": "https://deno.com/blog/v2.9",
+      "summary": "Article URL: https://deno.com/blog/v2.9 Comments URL: https://news.ycombinator.com/item?id=48675717 Points: 127 # Comments: 54",
+      "published": "Thu, 25 Jun 2026 16:22:55 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c62baeff9bd40a0840c3139c4e5991f",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "link": "https://github.com/inkeep/open-knowledge",
+      "summary": "Hi HN, Nick here. We’re launching OpenKnowledge (https://openknowledge.ai/), a “what you see is what you get” markdown editor that has direct integrat...",
+      "published": "Thu, 25 Jun 2026 16:04:46 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5558e580ab5eab6c4e743ce78f9b5162",
+      "title": "Windows 10 quietly gets one more year of support and updates",
+      "link": "https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/",
+      "summary": "Article URL: https://www.neowin.net/news/windows-10-quietly-gets-one-more-year-of-support-and-updates/ Comments URL: https://news.ycombinator.com/item...",
+      "published": "Thu, 25 Jun 2026 15:59:54 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5f18e26a1f1ea965a8aee0434f5a042",
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "link": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "summary": "Article URL: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology Comments URL: https://news.ycombinator.com/it...",
+      "published": "Thu, 25 Jun 2026 15:33:37 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f59cc9f520a00a5b1b3aec07c313922b",
+      "title": "OS9Map",
+      "link": "https://yllan.org/software/OS9Map/",
+      "summary": "Article URL: https://yllan.org/software/OS9Map/ Comments URL: https://news.ycombinator.com/item?id=48674484 Points: 126 # Comments: 19",
+      "published": "Thu, 25 Jun 2026 15:01:06 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6071a30993e011fcf993458025d17567",
+      "title": "Tell HN: OpenAI has started putting ads on paid programs",
+      "link": "https://news.ycombinator.com/item?id=48673194",
+      "summary": "I was on the £6.99/month program-- mainly because I didnt use it much. Last few days I've started seeing ads:1. Ad for Financial Times 2. Add for Shei...",
+      "published": "Thu, 25 Jun 2026 13:37:36 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a113270b8031d956c1058261f9474991",
+      "title": "AWS Network Firewall now supports managed threat intelligence rules from VisionHeight",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules",
+      "summary": "AWS Network Firewall now supports two new managed rule groups from VisionHeight, available through AWS Marketplace: Zero-Day Threat Protection, and No...",
+      "published": "Thu, 25 Jun 2026 20:18:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b096e56f5e6f6f8cafba67fe3c3628ae",
+      "title": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/",
+      "summary": "Kiro is now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 authorized in th...",
+      "published": "Thu, 25 Jun 2026 17:00:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd0fe0b64e1e03b2f8cbdd0cd812842e",
+      "title": "AWS GovCloud (US) now offers US-based, US citizen 24/7 technical support for all customers by default",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/",
+      "summary": "AWS GovCloud (US) customers now have their technical support cases routed to US-based, US-citizen cloud support engineers by default with no opt-in or...",
+      "published": "Thu, 25 Jun 2026 12:00:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "13bf2441678a6508d1f2707e90f7f8ca",
+      "title": "AWS Backup enhances Amazon S3 backup copy performance",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/",
+      "summary": "AWS Backup now executes S3 backup copy operations up to 8x faster for buckets with millions of objects and low change rates between backup copies thro...",
+      "published": "Thu, 25 Jun 2026 10:00:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8525ea9adfaf0a50f4961e86edc7e58b",
+      "title": "Amazon RDS now supports the latest GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest General Distribution Release (GDR) updates for Microsoft SQL Se...",
+      "published": "Thu, 25 Jun 2026 07:03:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a57df181329e125fa01d9cac1e0ab78",
+      "title": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability",
+      "summary": "Starting today, customers can use Amazon OpenSearch Ingestion in the Europe (Paris) Region (eu-west-3) for ingesting data into their Amazon OpenSearch...",
+      "published": "Thu, 25 Jun 2026 01:32:00 GMT",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "80fc9820ebc21b0b4d11768949dd6ca8",
+      "title": "生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果｜Goodpatch Blog グッドパッチブログ",
+      "link": "https://goodpatch.com/blog/2026-06-github",
+      "summary": "ナレッジ・ノウハウ 生産性向上を「個人レベル」から「組織レベル」へ 15人のデザイナーで「Claude Code × GitHub」で組織運営をした結果 こんにちは。グッドパッチのサービスデザイナーのぬまです。 グッドパッチのデザイナーは、クライアントワークとは別に「組織貢献活動」という社内プロジェ...",
+      "published": "2026-06-25T10:34:59Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41a24b17deb50584cae59fab262ab131",
+      "title": "AnthropicがAlibabaを「蒸留攻撃」で非難、Claudeに2880万回以上のアクセスか",
+      "link": "https://gigazine.net/news/20260625-anthropic-accuses-alibaba/",
+      "summary": "「Claude」シリーズを展開しているAI企業のAnthropicが、中国のビッグテック・AlibabaのAI研究機関・Qwen labによる「蒸留攻撃」を受けているとして、ホワイトハウス関係者や上院議員に対して告発文を送付したことがわかりました。 Anthropic says Alibaba il...",
+      "published": "2026-06-25T05:01:21Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39df93d9cbe8621d5a83d3aa2718dc2e",
+      "title": "富士通がAI効率を475倍にするTransformer代替アーキテクチャ「PHOTON」を開発",
+      "link": "https://gigazine.net/news/20260625-fujitsu-photon/",
+      "summary": "2026年6月24日、富士通が大規模言語モデル(LLM)の大幅なコスト削減を実現するアーキテクチャ「Parallel Hierarchical Operation for TOp-down Networks(PHOTON)」を発表しました。LLMの基盤アーキテクチャであるTransformerと比較...",
+      "published": "2026-06-25T03:09:39Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5b3eb1d289bdd68657084f1c59f212c",
+      "title": "自衛隊の日米訓練にパランティアAI 2.8億円の契約と変わる戦闘：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV6B3T07V6BULZU00DM.html",
+      "summary": "AI（人工知能）が、世界各地で戦争の形を変えている。日本の防衛省も、導入に向けて動き出している。 今年1～2月、東京・市谷の防衛省。自衛隊と米インド太平洋軍の最高幹部が参加する日米共同の指揮所演習が…",
+      "published": "2026-06-25T03:16:49Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7be3301892a35faafd2f9b2478ca87c5",
+      "title": "既存AIエージェントと連携してPC操作を自動化、APIなしのアプリも画面を見て操作する「HoloDesktop CLI」が登場",
+      "link": "https://gigazine.net/news/20260625-holodesktop-cli/",
+      "summary": "AI企業のH Companyが、人間向けに作られたデスクトップ画面をAIエージェントに操作させるためのクライアント「HoloDesktop CLI」を発表しました。HoloDesktop CLIによってAIエージェントに「画面を見る能力」と「PCを操作する能力」を追加できると述べられています。 Le...",
+      "published": "2026-06-25T08:25:46Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a8eae726a9640de9e3cce55fbe92bae",
+      "title": "MacとiPadが値上げ。MacBook Neoは11万9,800円からに",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120193.html",
+      "summary": "",
+      "published": "2026-06-25T13:55:43Z",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8d54e4bd4f02a141951673d864465de",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 ali…",
+      "link": "https://github.com/alibaba/page-agent",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 alibaba / page-agent ⭐ 19,597 (+280) 🗒 TypeScript JavaScript in-page GUI agent. Control web interfaces with natur...",
+      "published": "25 Jun 2026 21:16 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bf20bedea38ea7db01164e08d016ef8",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Nan…",
+      "link": "https://github.com/NanmiCoder/MediaCrawler",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 NanmiCoder / MediaCrawler ⭐ 52,559 (+347) 🗒 Python 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、...",
+      "published": "25 Jun 2026 20:16 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e659dc15da03489abfc543716fd33a1",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 xbt…",
+      "link": "https://github.com/xbtlin/ai-berkshire",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 xbtlin / ai-berkshire ⭐ 1,532 (+201) 🗒 Python AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研...",
+      "published": "25 Jun 2026 19:16 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f922997c926f6be181d9dcc187cc881",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 maurice…",
+      "link": "https://github.com/mauriceboe/TREK",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mauriceboe / TREK ⭐ 6,169 (+112) 🗒 TypeScript A self-hosted travel/trip planner with real-time collaboration, interac...",
+      "published": "25 Jun 2026 18:16 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26012d81bb2bcab02a3e8abee2686343",
+      "title": "Emotional electronics, from Mexicali’s underground beacon: four essential releases",
+      "link": "https://cdm.link/2026-facade-electronics/",
+      "summary": "We live in dissonant, uncertain times, and maybe our consciousness struggles if we try to make it fit square corners and easy forms. So now is a perfe...",
+      "published": "Thu, 25 Jun 2026 19:01:09 +0000",
+      "fetched_at": "2026-06-25T21:24:15.232781+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-25T18:04:17.453672+00:00"
+  "updated_at": "2026-06-25T21:24:15.232781+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5978ca38971483cb9270655756796195",
-      "title": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service/",
-      "summary": "AWS Parallel Computing Service (PCS) now supports Amazon EC2 P6e-GB200 and P6e-GB300 UltraServer instances, enabling customers to run large-scale GPU ...",
-      "published": "Thu, 18 Jun 2026 19:00:00 GMT",
-      "fetched_at": "2026-06-24T19:27:25.963409+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "d12667059c31c44414a6f573edd10c56",
-      "title": "Amazon S3 Vectors now supports up to 10,000 similarity search results per query",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query",
-      "summary": "Amazon S3 Vectors can now return up to 10,000 similarity search results per query, a 100x increase from the previous limit. The higher result limit he...",
-      "published": "Tue, 16 Jun 2026 21:22:00 GMT",
-      "fetched_at": "2026-06-24T21:17:28.626087+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "e90b2a053f7f534cc557160088185f6c",
       "title": "AI生成コードはどこまで安全か：バイブコーディングで作ったポイント交換アプリを診断してみた - ラック・セキュリティごった煮ブログ",
       "link": "https://devblog.lac.co.jp/entry/20260616",
@@ -139,7 +119,177 @@
       "fetched_at": "2026-06-25T23:09:58.878774+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "58d997d2a015aaf3fce754415081f27f",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d#file-skill-md",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 japanese-tech-writing/SKILL 日本語技術文書の文章規範",
+      "published": "26 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b57abda78dc3fc41cd8c89548966bb0",
+      "title": "AI時代のコンピューター技術書 - golden-luckyの日記",
+      "link": "https://golden-lucky.hatenablog.com/entry/2026/05/17/170605",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代のコンピューター技術書",
+      "published": "25 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbcf9502bd95af5a365154f70acb2250",
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "link": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/ Comments URL: https...",
+      "published": "Thu, 25 Jun 2026 22:16:55 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebc5ea53f3fe04a6c0d01b609a0afcc2",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "link": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "summary": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/ Comments URL: https://news.ycombinator.com/item?id=48...",
+      "published": "Thu, 25 Jun 2026 20:50:02 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fc78c1e7223afeec6971197a4ce27dc",
+      "title": "Political bias in AI: Where the AI models stand",
+      "link": "https://trakkr.ai/bias",
+      "summary": "Article URL: https://trakkr.ai/bias Comments URL: https://news.ycombinator.com/item?id=48672779 Points: 121 # Comments: 240",
+      "published": "Thu, 25 Jun 2026 13:08:31 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eef33a8afc1dd89cf8f525a860253a49",
+      "title": "Open Governance for MySQL: A Step Forward for the Community",
+      "link": "https://aws.amazon.com/jp/blogs/news/open-governance-for-mysql-a-step-forward-for-the-community/",
+      "summary": "このBlog postはOpen Governance for MySQL: A Step Forward f […]",
+      "published": "Fri, 26 Jun 2026 00:56:56 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecbbd9bc13b1d05db34873b2e11983ac",
+      "title": "git を捨てずに、git の手前に立つ - Jujutsu (jj) の概念と、乗り換えの損益分岐点 - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/06/26/004107",
+      "summary": "はじめに 金曜の夜だった。10個のコミットを git rebase -i で並べ替えていた。4個目で衝突した。慌てて解決したが、解決を間違えた。git rebase --abort で巻き戻し、最初からやり直す。2回目はもっと雑になり、3回目で reflog を漁ってコミットを拾い直した。本番でもチ...",
+      "published": "2026-06-25T15:58:05Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2000d64f0f535571aae031c6ccdee9b",
+      "title": "「Windows 10」の延命プログラム「ESU」、個人向けに1年延長 ～2027年10月まで／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2120202.html",
+      "summary": "",
+      "published": "2026-06-25T21:51:06Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "678b2500a4216f13105b90dc0596007c",
+      "title": "【特集】 迫るセキュアブート証明書の期限切れ、今使っているPCは起動できなくなる？",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2120196.html",
+      "summary": "",
+      "published": "2026-06-25T22:09:26Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d2bc2942641e0e9bb79735e43cd7c94",
+      "title": "npm adds preventive account protection for high-impact accounts - GitHub Changelog",
+      "link": "https://github.blog/changelog/2026-06-25-npm-adds-preventive-account-protection-for-high-impact-accounts/",
+      "summary": "npm adds preventive account protection for high-impact accounts npm now adds a temporary, preventive safeguard for high-impact accounts—those responsi...",
+      "published": "2026-06-25T22:26:55Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be27a4d3f11ddb0779b6f4dc74c908d6",
+      "title": "Codexのログ記録バグによりローカルSSDに年間640TB相当の書き込みを行う不具合、最新版で大半を修正",
+      "link": "https://gigazine.net/news/20260625-codex-ssd-write/",
+      "summary": "OpenAIのコーディング支援ツール「Codex」のユーザーから、「Codexがローカルに保存するSQLiteログによってSSDへ年間約640TBに相当する過剰な書き込みが発生する」という不具合が報告されました。OpenAIはログ出力を削減する複数の修正を実施し、最新版では書き込み量の約85％を削減...",
+      "published": "2026-06-25T10:51:12Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a22bfa4b045764108c6792a0ceb17be",
+      "title": "「ChatGPT」の会話品質が向上、“話すのがずっと楽しく” ～標準モデル「GPT-5.5 Instant」が新バージョンに／本日より有料ユーザーへ、翌日には無料ユーザーにも",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2119823.html",
+      "summary": "",
+      "published": "2026-06-24T23:17:42Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df3a5f1530f0f6adfda2ac4b53c1e104",
+      "title": "Apple製品が一斉値上げ、iPadやMacほか20～75%上昇 iPhoneやWatchは含まず | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/06/26/5226.html",
+      "summary": "Appleは2026年6月25日、Apple Storeオンラインのメンテナンスを実施し、Mac・iPad・HomePod・Apple TV・Apple Vision Proなど広いカテゴリーの製品を値上げしました。iPhoneは今回の対象外となっています。 値上げの背景には、AI需要の急増に伴うD...",
+      "published": "2026-06-25T15:59:31Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "17a835b96d29773135801449f4041aee",
+      "title": "ClaudeをSlackチャンネルに召喚、“チームの一員”として直接指示 新機能「Claude Tag」登場",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
+      "summary": "また、Claudeはチャンネル内のやりとりを追いながら、作業に関するコンテキストを学習していく。チームの独自ルールやメンバーの関係値といった業務上の暗黙知も身に付けるため、ユーザーは同じ説明を毎回繰り返さずに済む。設定で許可すれば、プライベートチャンネルを除くほかのチャンネルやデータソースを自動で参...",
+      "published": "2026-06-24T07:04:24Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2502c2373e3f49fa36974bbf863f1e0",
+      "title": "Flashの再来？ Figmaの新機能「Figma Motion」に懐かしいとの声 アニメーション生成するAI機能も",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news132.html",
+      "summary": "米Figmaが6月24日（現地時間）にβ版を発表したアニメーション制作機能「Figma Motion」。タイムライン上でキーフレームを打てることから、米Adobeの「Flash」をほうふつさせるとSNSで話題となっている。 Figma Motionは、デザインツール「Figma Design」に「D...",
+      "published": "2026-06-25T12:12:51Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07911b74947a1827cc4d1fe9bfbdcdec",
+      "title": "Apple製品が一斉値上げ、Mac Studioは9万円超も 主要モデルの新価格まとめ",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2606/25/news139.html",
+      "summary": "Appleは6月25日、Apple Storeオンラインで販売している製品の価格を改定した。MacやiPad、Apple TV、HomePod、Vision Proなどが軒並み値上げとなり、例えば「MacBook Neo」（256GBモデル）は、9万9800円から2万円引き上げられ、11万9800円...",
+      "published": "2026-06-25T14:03:45Z",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1c760c91a2498ee6c33d4e911b4b4fa",
+      "title": "📦 every-app / open-seo ⭐ 2,419 (+57) 🗒 T…",
+      "link": "https://github.com/every-app/open-seo",
+      "summary": "📦 every-app / open-seo ⭐ 2,419 (+57) 🗒 TypeScript Open source alternative to Semrush and Ahrefs",
+      "published": "26 Jun 2026 00:16 +0000",
+      "fetched_at": "2026-06-26T02:37:41.928588+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-25T23:09:58.878774+00:00"
+  "updated_at": "2026-06-26T02:37:41.928588+00:00"
 }

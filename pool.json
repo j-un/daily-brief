@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e90b2a053f7f534cc557160088185f6c",
-      "title": "AI生成コードはどこまで安全か：バイブコーディングで作ったポイント交換アプリを診断してみた - ラック・セキュリティごった煮ブログ",
-      "link": "https://devblog.lac.co.jp/entry/20260616",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI生成コードはどこまで安全か：バイブコーディングで作ったポイント交換アプリを診断してみた",
-      "published": "25 Jun 2026 05:55 +0000",
-      "fetched_at": "2026-06-25T07:36:07.648139+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c2466f14c277cc4c4118ce8d43b1b12f",
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "link": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
@@ -739,7 +729,257 @@
       "fetched_at": "2026-06-26T10:44:52.216099+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "77323fac3abce204b7af2d99702c48b4",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/mcp-gets-its-missing-enterprise-authorization-layer/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MCP gets its missing enterprise authorization layer",
+      "published": "26 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8212da0a6751380a5f4880da315949ad",
+      "title": "Why current LLM costs are not sustainable",
+      "link": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "summary": "Article URL: https://aditya.patadia.org/p/ai-and-cloud-costs Comments URL: https://news.ycombinator.com/item?id=48683588 Points: 100 # Comments: 174",
+      "published": "Fri, 26 Jun 2026 07:44:11 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03e2e2a3a7007ff684929430c2f52c06",
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "link": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "summary": "Article URL: https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/ Comments URL: https://news.ycombina...",
+      "published": "Fri, 26 Jun 2026 06:24:39 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb866b9198a54e3ed5ae172f696c9505",
+      "title": "Parallel Parentheses Matching",
+      "link": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "summary": "Article URL: https://williamdue.github.io/blog/parallel-parentheses-matching Comments URL: https://news.ycombinator.com/item?id=48678623 Points: 109 #...",
+      "published": "Thu, 25 Jun 2026 20:12:24 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd6134a8e02500b40680fb6f952f1431",
+      "title": "個人の資産運用、AIチャットで完結 銀行28社連合が28年度にも実現へ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB246DY0U6A620C2000000/",
+      "summary": "個人の資産運用を相談から商品購入手続きまで自律型の人工知能（AI）のチャットなどで一括対応できる仕組み作りが7月から始まる。三菱UFJフィナンシャル・グループなど3メガバンクを含む計28社が連携し、2028年度にも商用化を目指す。チャットなどのAIツールは投資家に金融サービスを使ってもらうための入り...",
+      "published": "2026-06-26T09:01:27Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b83bc3125e3c2327177c7b5d0ec944c2",
+      "title": "メインフレーム離脱プロジェクトの7割超が失敗、理由は「生成AIの過大評価」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/25/news052.html",
+      "summary": "Gartnerは2026年6月18日（現地時間）、2026年に開始されたメインフレーム離脱プロジェクトの70％超が、意図した利益を生み出せずに終わるとの予測を発表した。原因として、生成AIツールの能力を過大に見積もる傾向を挙げた。同社は、複雑なレガシーコードの変換や移行について、生成AIによる効率化...",
+      "published": "2026-06-26T03:24:16Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e645ed2b7f85f071216de2f56bad636f",
+      "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
+      "link": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
+      "summary": "ホンマでっかSRE勉強会 #1 https://honmadekka.connpass.com/event/395755/",
+      "published": "2026-06-26T01:36:57Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83e2bc26f7be63f636951f19aebf35db",
+      "title": "final、“気持ちいい”に特化した極小耳栓「YOKONE」一般発売開始。2480円から",
+      "link": "https://av.watch.impress.co.jp/docs/news/2120256.html",
+      "summary": "",
+      "published": "2026-06-26T02:48:37Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a063928f292486d44380e71ff888a37",
+      "title": "YouTubeショートのアップデートで「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能に",
+      "link": "https://gigazine.net/news/20260626-youtube-shorts-experience-updates-features/",
+      "summary": "現地時間の2026年6月25日、YouTubeショートの新たなアップデートが順次展開され、「ショート動画の倍速視聴」「邪魔なオーバーレイ要素の削除」などが可能になると発表されました。 How we're updating the YouTube Shorts experience - YouTube...",
+      "published": "2026-06-26T07:02:46Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e48f6f5bf5bc651a58c5a43722512bd",
+      "title": "トランプ政権がOpenAIに「GPT-5.6」のリリースを遅らせるよう要請",
+      "link": "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
+      "summary": "OpenAIの次期大型モデル「GPT-5.6」について、潜在的な安全保障問題への懸念から、トランプ政権がリリースを遅らせるように要請していることが明らかになりました。 Trump Administration Asks OpenAI to Stagger Release of New Model O...",
+      "published": "2026-06-26T09:19:43Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3dec4d92365f83211e812b1efecea15",
+      "title": "GitHub ActionsでAI to Humanになるようレビューフローをコントロールする - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/2026/06/26/164821",
+      "summary": "GitHub After Dark Osakaでの登壇資料です。オリジナルの資料はこちらです。 このエントリはGitHub After Dark Osakaでお話しした内容を文字起こししているものです。 AIレビューと人間のレビューが同時に走る問題 CodeRabbit や GitHub Copil...",
+      "published": "2026-06-26T08:13:17Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9454e0d209488ff16bcc3bc2b3faeb46",
+      "title": "メールをAIで便利に管理できる「Notion Mail」が2026年9月でサービス終了、ユーザーの大半が受信トレイを開かなくなったのでAIエージェントに注力",
+      "link": "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
+      "summary": "受信トレイのメールをAIが便利に管理してくれるメールクライアント「Notion Mail」が、2026年9月22日でサービス終了となることが発表されました。 Notion Mail inbox is going away: what to do next – Notion (ノーション)ヘルプセンタ...",
+      "published": "2026-06-26T05:03:43Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b2175ad557ef7129007b4f2d1ad71f3",
+      "title": "時間内に「LaTeX」で数式を打ち込め！ 新感覚Webアプリ「数式タイピング」が楽しい／高校レベルから大学レベルまでをカバー、復習もできるぞ【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120299.html",
+      "summary": "",
+      "published": "2026-06-26T07:46:04Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea41ff4e1a5d7ba063aa3680d59acbea",
+      "title": "スマホでも213tok/sの爆速推論を実現するモデル「LFM2.5-230M」無料公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120513.html",
+      "summary": "",
+      "published": "2026-06-26T10:23:28Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ce9a243d85b6c5f6c8afdf9a0247db",
+      "title": "AIデータセンター建設ブームで「錫（スズ）」に脚光 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/99724",
+      "summary": "およそ4000年前の青銅器時代以来、錫（スズ）への需要がこれほど強く、価格がこれほど高くなったことはない。3週間前には1トンあたり5万8900ドル（約948万2900円。1ドル＝161円換算）という過去最高値に達した。 かつての時代には、錫と銅の合金で作られた青銅製の道具や武器が錫の主な使い道だった...",
+      "published": "2026-06-26T05:35:16Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82f11092da213602ed01a9b6d69aed42",
+      "title": "ChatGPTの座を奪ったCodex、OpenAI法務・財務にも浸透",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120497.html",
+      "summary": "",
+      "published": "2026-06-26T09:49:45Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9421629b875dad84191953273a3f3b6",
+      "title": "YouTube、「ショート動画」を2倍速で再生可能に 「低評価」ボタンは廃止",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/26/news069.html",
+      "summary": "米Google傘下のYouTubeは6月25日（現地時間）、短編動画「ショート動画」のプレーヤーに複数の新機能を導入すると発表した。同日から順次展開する。 新たに、再生画面上のアイコンやテキストを一時的に非表示にする「Clear Screen」モードを追加する。動画に集中できる没入感のある表示を提供...",
+      "published": "2026-06-26T01:02:59Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "90b1378c5e3e9e6be8f8aa0fe595750a",
+      "title": "Notionメール、9月に終了 「受信箱」利用減でエージェントに注力",
+      "link": "https://www.watch.impress.co.jp/docs/news/2120293.html",
+      "summary": "",
+      "published": "2026-06-26T03:20:10Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "601dcdeb24ffc35574b30520165e94b2",
+      "title": "Apple、MacやiPadなどの価格を値上げ。Mac miniは256GB SSDモデルの販売を再開も最小構成価格で134,800円に。",
+      "link": "https://applech2.com/archives/20260625-apple-increases-prices-mac-and-ipad.html",
+      "summary": "AppleがMacやiPadの価格を値上げしています。詳細は以下から。 Appleは現地時間2026年06月24日、Apple StoreにおいてMacやiPadのラインナップの価格を一斉に値上げしています。 Mac […] The post Apple、MacやiPadなどの価格を値上げ。Mac ...",
+      "published": "2026-06-25T22:33:35Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ac1e8f1ebc7d87ea2d8e0097042b464",
+      "title": "Transit API",
+      "link": "https://api.transit.ls8h.com/",
+      "summary": "クイックスタート # 駅やランドマークの座標から経路を検索（出発検索） curl \"https://api.transit.ls8h.com/api/v1/plan?from=geo:35.681,139.767&to=geo:35.690,139.700\" エンドポイント planningJour...",
+      "published": "2026-06-25T21:00:31Z",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f20ebd9659517d93fdc92c8699bb453e",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 simplex…",
+      "link": "https://github.com/simplex-chat/simplex-chat",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 simplex-chat / simplex-chat ⭐ 11,776 (+191) 🗒 Haskell SimpleX - the first messaging network operating without user id...",
+      "published": "26 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dd98d857ace25f756e4fc8e43ec5c50",
+      "title": "Venezuela is reeling from major earthquakes; artists on how to help",
+      "link": "https://cdm.link/venezuela-earthquakes-how-to-help/",
+      "summary": "Our friends from Venezuela are facing a horrific reality. Wednesday night, the country was hit by two back-to-back earthquakes, each among the stronge...",
+      "published": "Fri, 26 Jun 2026 10:52:32 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "b2836de4a791fb4fca6cb64814ec7f1f",
+      "title": "Deezer’s new Remix Lab feature is AI-free and “compensates artists accordingly”",
+      "link": "https://musictech.com/news/music/deezers-remix-lab-no-ai-compensates-artists/?utm_source=rss&utm_medium=rss&utm_campaign=deezers-remix-lab-no-ai-compensates-artists",
+      "summary": "Deezer says the tool “focuses on simplicity and accessibility”, and is built upon its principles of respecting rights and maximising earnings for arti...",
+      "published": "Fri, 26 Jun 2026 11:33:45 +0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "790d6b8b76c640c93cf4bfe6dc55ad45",
+      "title": "The Best Albums of Spring 2026",
+      "link": "https://daily.bandcamp.com/best-of-2026/the-best-albums-of-spring-2026",
+      "summary": "Looking back at the last three months. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 26 Jun 2026 13:43:57 -0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "677cf21470b25db41d0c6a5d05d3c678",
+      "title": "Beth Orton, “The Ground Above”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/beth-orton-the-ground-above-review",
+      "summary": "This lush and unimposing collection further emphasize Orton’s skill as leader, lyricist, and performer. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 26 Jun 2026 13:43:40 -0000",
+      "fetched_at": "2026-06-26T14:07:32.091687+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-26T10:44:52.216099+00:00"
+  "updated_at": "2026-06-26T14:07:32.091687+00:00"
 }

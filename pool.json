@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e4922565bf91b13bbb74e0b12aaaa034",
-      "title": "Enterprise-Managed Authorization: Zero-touch OAuth for MCP | Model Context Protocol Blog",
-      "link": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Enterprise-Managed Authorization: Zero-touch OAuth for MCP",
-      "published": "26 Jun 2026 02:55 +0000",
-      "fetched_at": "2026-06-26T07:43:23.520045+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "158805edaefbc4bab22845fb3852491a",
       "title": "正直に言う。お前のClaude Codeの使い方は間違っている - Qiita",
       "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
@@ -469,7 +459,117 @@
       "fetched_at": "2026-06-27T11:26:47.797325+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "41b9daf68b2b2d218e5a8c95b8c2f07b",
+      "title": "Fintech Engineering Handbook",
+      "link": "https://w.pitula.me/fintech-engineering-handbook/",
+      "summary": "Article URL: https://w.pitula.me/fintech-engineering-handbook/ Comments URL: https://news.ycombinator.com/item?id=48696982 Points: 126 # Comments: 38",
+      "published": "Sat, 27 Jun 2026 10:28:53 +0000",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f79f46ac30204ab08f5539a948751ec",
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "link": "https://www.sfwriter.com/wordstar.htm",
+      "summary": "Article URL: https://www.sfwriter.com/wordstar.htm Comments URL: https://news.ycombinator.com/item?id=48694853 Points: 114 # Comments: 53",
+      "published": "Sat, 27 Jun 2026 03:30:01 +0000",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37f5273a247f78401f0c56ddcb0fcb3a",
+      "title": "Foreign funds help make housing unaffordable: research",
+      "link": "https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/",
+      "summary": "Article URL: https://news.mccombs.utexas.edu/research/foreign-funds-help-make-housing-unaffordable/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Fri, 26 Jun 2026 23:36:30 +0000",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dc14633b7bf2142f91cb1a8ce908f7f",
+      "title": "IaC コードを資産へ：AWS CDK 社内ライブラリと横断展開 / aws-summit-japan-2026",
+      "link": "https://speakerdeck.com/gotok365/aws-summit-japan-2026",
+      "summary": "2026/06/25,26 開催 AWS Summit Japan 2026 の登壇資料です。",
+      "published": "2026-06-26T12:14:30Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42192c6f427e3a2d2d0e949af2c17f44",
+      "title": "無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現",
+      "link": "https://gigazine.net/news/20260627-hister/",
+      "summary": "「数カ月前に読んだはずの記事を探そうとしても、キーワードが曖昧で検索エンジンやブラウザ履歴から目的のページを見つけにくい」というケースがあります。メタ検索エンジンsearxの作者が新たに開発した「Hister」は、ChromeやFirefoxで開いたWebページをセルフホスト環境に保存し、自分専用の...",
+      "published": "2026-06-27T11:14:54Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56a0138478efab4e6b7ef2111c82243d",
+      "title": "高騰する「Raspberry Pi」の代替策--安くて小さい「ESP32」を活用する",
+      "link": "https://japan.zdnet.com/article/35249206/",
+      "summary": "「必要は発明の母」と言われるが、「Raspberry Pi」の価格高騰は、より安価で用途に適した代替品を探す絶好のきっかけとなった。Raspberry Piは優れたボードだが、登場から約15年が経過する中で、筆者が試してきた多くの用途においてはオーバースペックな面もあった。 先日、帯域幅に限りのある...",
+      "published": "2026-06-27T00:56:38Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "100844819ee72ef0ece34faa06766ace",
+      "title": "OpenAI、「GPT-5.6」発表。Fable 5とMythos 5超えも米政府要求により限定公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120574.html",
+      "summary": "",
+      "published": "2026-06-27T03:45:17Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e275f393a09503c4a9fd4100a4442a0",
+      "title": "退職者を在籍者で割るだけ……じゃない。「離職率」の奥深さとチームの意思決定 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/06/26/142109",
+      "summary": "こんにちは、SmartHRのプロダクトエンジニアをしているceris、theo、kurihara、Yunaです。我々はHRアナリティクスというプロダクトの開発チームのメンバーです。 突然ですが皆さん、普段の機能開発に関連するビジネスドメインのキャッチアップはしていますか？ ヘンリー・フォードが自動車...",
+      "published": "2026-06-26T10:16:33Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "78c05c62b3c5a68486fd2ef9880f0621",
+      "title": "Claude Enterprise全社導入で何を検討し、何をやらなかったか - メドピア開発者ブログ",
+      "link": "https://tech.medpeer.co.jp/entry/2026/06/26/122446",
+      "summary": "こんにちは。セキュリティエンジニア兼SREの侘美です。 2026年6月、メドピアではClaude Enterpriseの全社導入を完了しました。正社員・契約社員あわせて約130名にアカウントを配布しています。 今回の導入は、自分（セキュリティ）とコーポレートIT（社内のIT機器・SaaS管理を担当）...",
+      "published": "2026-06-27T00:13:39Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "130d6b14143043201972c4b277bca10c",
+      "title": "UE5とClaude Codeで適当に作ってみた｜shi3z",
+      "link": "https://note.com/shi3zblog/n/n8f37fada607b",
+      "summary": "UE5がMCPに対応したというので、UE5のMCPをオンにしてClaude Codeと接続した。 そんで「超リアルな地形を飛ぶフライトシミュレータ作って」と言ったら確かに超リアルな地形が出てきた。 雲も超リアルこれ、どれくらいリアルかというと、リアルな富士山と駿河湾である。 実際の地形データをもとに...",
+      "published": "2026-06-26T01:37:22Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecaa2f89e3eb544fb09b1d3afc3709ed",
+      "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
+      "link": "https://gigazine.net/news/20260626-china-anthropic-api/",
+      "summary": "Anthropicは中国をClaudeの提供地域から除外していますが、中国では海外のAPIプロキシ「中转站」を介し、ClaudeやClaude Codeを公式価格の約10％で利用できるグレー市場が広がっていると報告されています。利用者は個人開発者や学生、企業、再販業者に及び、この市場は単なるアクセス...",
+      "published": "2026-06-26T12:20:38Z",
+      "fetched_at": "2026-06-27T13:15:52.169651+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-27T11:26:47.797325+00:00"
+  "updated_at": "2026-06-27T13:15:52.169651+00:00"
 }

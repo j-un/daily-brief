@@ -579,7 +579,287 @@
       "fetched_at": "2026-06-28T10:21:47.727861+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "00a59e2e93fa2dd2e2b8928861ff3b57",
+      "title": "Amazon CloudWatch Logs がマネージド型の syslog 取り込みをサポート - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/",
+      "summary": "「syslogメッセージをファイアウォール、ルーター、スイッチ、LinuxサーバーからCloudWatch Logsに直接送信できるようになりました」わいわい。syslog転送用EC2インスタンスを用意していた皆様。",
+      "published": "28 Jun 2026 12:19 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9982fa45ccb681a679fb6f398c49d9e",
+      "title": "【PostgreSQL】UUIDv4とv7のパフォーマンスとインデックス断片化を比較する | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/postgresql-uuid-v4-v7-performance-index-fragmentation/",
+      "summary": "結論の部分、IDから生成時刻や作成順序、作成頻度が推測できることがセキュリティなどの理由で問題になる場合はUUIDv4to",
+      "published": "28 Jun 2026 12:15 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "182a46629b3cc42e931285e2de482a62",
+      "title": "VFSを介さずディスク(/dev/rdisk*)に直接アクセスしてファイル探索を…",
+      "link": "https://github.com/dmtrKovalenko/ffs",
+      "summary": "VFSを介さずディスク(/dev/rdisk*)に直接アクセスしてファイル探索を行うCLIツール。サポートするファイルシステムはext4, btrfs, APFS(macOS)。dmgファイルも対象にできる。ファイル数が多いのであればripgrepよりも高速と。",
+      "published": "28 Jun 2026 12:11 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "60d04667a60ab6af0508a1333cabf574",
+      "title": "ParquetやORCなどに代わる次世代ファイルフォーマット。WASM実装のデコ…",
+      "link": "https://github.com/future-file-format/F3",
+      "summary": "ParquetやORCなどに代わる次世代ファイルフォーマット。WASM実装のデコーダが組み込まれているらしい。",
+      "published": "28 Jun 2026 11:59 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "38765da565d2b821b98c263d6f140bcf",
+      "title": "動画界のGitHubを目指したクラウド上のコラボレーションサービスFrame.i…",
+      "link": "https://github.com/shumaiOne/shumai",
+      "summary": "動画界のGitHubを目指したクラウド上のコラボレーションサービスFrame.ioのオープンソース代替。焼売。なぜ焼売。",
+      "published": "28 Jun 2026 11:48 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b45a9785858f7d3c0b4e1999f83cdf62",
+      "title": "Oak — the agentic substrate · oak",
+      "link": "https://oak.space/",
+      "summary": "AIエージェントによる利用を念頭においたGit代替なバージョン管理システム。",
+      "published": "28 Jun 2026 11:37 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f22bb8c23cc669d7f7ee2dcb211330c3",
+      "title": "[増枠] EM Meetup #21 〜トークンマキシングとトークンマネジメントのはざま〜 - connpass",
+      "link": "https://engineering-manager-meetup.connpass.com/event/397324/",
+      "summary": "現地開催",
+      "published": "28 Jun 2026 11:05 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "158805edaefbc4bab22845fb3852491a",
+      "title": "正直に言う。お前のClaude Codeの使い方は間違っている #AI - Qiita",
+      "link": "https://qiita.com/tehito/items/356e5f1dba112a075be1",
+      "summary": "きつい言い方ではあるが、おそらく現時点では正しそう。将来はわからん。",
+      "published": "28 Jun 2026 10:59 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fde75680a1bc1267100e83cf4794adab",
+      "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+      "link": "https://zenn.dev/knowledgesense/articles/14a874a9f423bb",
+      "summary": "「mdファイルの冒頭に、Type定義を書きましょうね」なるほど。AIに「OKF書いといて」と言っておけばよいでしょうか。",
+      "published": "28 Jun 2026 10:54 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec98dc21adad7106b6fafb712c2e5c7c",
+      "title": "tmux plugin manager。TPMという同等ツールと互換性があり置き…",
+      "link": "https://github.com/tmuxpack/tpack",
+      "summary": "tmux plugin manager。TPMという同等ツールと互換性があり置き換え可能。TUIつき。TPMはシェル実装だったがこちらはGo実装。macOSであればbrew install tpackで",
+      "published": "28 Jun 2026 10:47 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "64df7bf97638e9367db123c59bcd9b75",
+      "title": "確率が描く世界 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15821-7",
+      "summary": "2026年8月3日発売。「くじ引きや宝くじの賢い買い方、最適な結婚相手の選び方などから、人間の直感とズレる不思議な問題、金融モデルや量子ウォークといったこれからの時代を切り拓くトピックまで」",
+      "published": "28 Jun 2026 10:44 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1235ec3b709bcec3542315f9c62d18e",
+      "title": "フルライフサイクル制御を備えた分離サンドボックスの実行：AWS Lambda が MicroVMs を導入 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "summary": "AWS公式ブログにAWS Lambda MicroVMsの記事きてた。AIコーディングアシスタントだけでなくゲームサーバーなどでも有用と。料金表を見てみたが止めるたびにスナップショット取得でその度に課金も発生するので安くないかも",
+      "published": "28 Jun 2026 10:40 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3eba0bd2bb7a141c7a74d626061745bf",
+      "title": "もぐもぐ AWS – 現場の SA が語るお昼 30 分の技術トーク | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/mogmog/",
+      "summary": "「お昼休みの 30 分で AWS サービスの最新トレンドをキャッチアップできるウェビナーシリーズ」7/9から始まる模様。12:10-12:40。このページのカレンダーから申し込みに飛べる。",
+      "published": "28 Jun 2026 10:31 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61b6f7fc75d9298934dc1ff0f939a542",
+      "title": "Amazon ECS がより高速なサービス自動スケーリングのための新しい高解像度メトリクスを導入 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-ecs-introduces-new-high-resolution-metrics-for-faster-service-auto-scaling/",
+      "summary": "高解像度 (20 秒間隔) メトリクスでスケールアウトが363秒から86秒に短縮と。スケールアウトの速度にお悩みの皆様。",
+      "published": "28 Jun 2026 10:27 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5c6bc1c2c98da27ceb0eb28a3c21cbd",
+      "title": "GitHub Copilotアプリ、独自モデルプロバイダーの追加（BYOK）に対応 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/github-copilot-app-support-byok",
+      "summary": "BYOKのKって何ぞやと思ったらKeyらしく、APIキーのKeyと。ローカルLLMもあるんだからModelにすべきだったのでは。",
+      "published": "28 Jun 2026 10:26 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "543c9920d017ac93af5097371c54b639",
+      "title": "新たな攻撃手法「Velvet DDoS」の紹介と調査による補足 | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/36775",
+      "summary": "絨毯爆撃(Carpet Bombing)だからVelvetなんだろうけど、いやぁvelvetという単語にあまり馴染みがないから「あーvelvetね」とはならずピンとこないねぇ。",
+      "published": "28 Jun 2026 10:23 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4a6c1dccaddd0ae39e1d91d298ec25a",
+      "title": "AIがコードを書ける時代だからこそ、Jrエンジニアに「AIを疑う力」を育てた話 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/06/23/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIがコードを書ける時代だからこそ、Jrエンジニアに「AIを疑う力」を育てた話",
+      "published": "28 Jun 2026 10:55 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8496a445cb7f213f8aa674884e620007",
+      "title": "自動運転レベル4の世界共通ルールが日本主導でついに決定 | 自動運転ラボ",
+      "link": "https://jidounten-lab.com/u_64178",
+      "summary": "国連の自動車基準調和世界フォーラムWP29が、自動運転システムを対象とする初の世界共通ルールを全会一致で採択した。完全な自動運転車が国境を越えて走るための国際的な土台が、ここに整ったことになる。 採択したのはWP29傘下の作業部会である。このルールは約50〜60カ国に適用される見込みで、発効は202...",
+      "published": "2026-06-27T16:50:05Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cfeaba6f344a1c52e7ab7dd71417ade",
+      "title": "iPhone4s",
+      "link": "https://anond.hatelabo.jp/20260628155109",
+      "summary": "家の片付けしてたらiPhone4sが出てきたんだけどこのデバイス神じゃね？ ポケットで邪魔にならない小ささ薄さでありながら手に持った時にしっくり感があって軽い 最近のデカいスマホばっかり使ってたから手に収まる感覚にびっくりした 処理の重いゲームとか映像編集とか高画質撮影をスマホに求めない自分にはこの...",
+      "published": "2026-06-28T06:52:48Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40493963a7e6245f9641016ec047896f",
+      "title": "skills/apple-container",
+      "link": "https://gist.github.com/voluntas/306e75ce54a24379b4b505cf9c4df0cd",
+      "summary": "SKILL.md name apple-container description Apple Silicon Mac で動く軽量 Linux コンテナランタイム `container` の利用者向けリファレンス。`container run`、`container build`、`containe...",
+      "published": "2026-06-28T03:35:37Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "926a01d6259d9b0812627e53a1e2aea8",
+      "title": "ゲームチャットを支える技術",
+      "link": "https://pages.awscloud.com/rs/112-TZM-766/images/R13_0625_7_CDN221_v1.pdf",
+      "summary": "CDN221 ゲームチャットを支える技術 高橋 良 ニンテンドーシステムズ株式会社 システム開発部 吉岡 幸一郎 ニンテンドーシステムズ株式会社 システム開発部 ゲームチャットを支える技術 ニンテンドーシステムズ株式会社 高橋 良 吉岡 幸一郎 はじめに ▸発表者が映り込むような写真撮影はお控えくだ...",
+      "published": "2026-06-28T08:42:32Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e9fec1e9ebea35e1f320f37000e121c",
+      "title": "Loop-Engineering-IEEE.pdf",
+      "link": "https://drive.google.com/file/d/1qzKI4DKnyHRpXK1J3ATPqwaqLc0iNu-M/view",
+      "summary": "読み込んでいます…",
+      "published": "2026-06-27T10:13:27Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26464183f1534d21bf811aada492b602",
+      "title": "【アップデート】信頼できないコードをサンドボックス環境で検証するためのAWS Lambda MicroVMsが利用可能になりました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-introduces-microvms/",
+      "summary": "",
+      "published": "2026-06-24T05:10:44Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddfce773c00730392a2f55362e185414",
+      "title": "AI採用ツールは人種差別や組織的な排除につながりやすいことが研究で判明",
+      "link": "https://gigazine.net/news/20260625-ai-hiring-tools-racial-bias/",
+      "summary": "実運用環境の採用アルゴリズムに関する初の大規模調査によって、AI採用ツールが候補者を不採用とするときのパターンに懸念すべき傾向があることが明らかになりました。 [2605.27371] Algorithmic Monocultures in Hiring https://arxiv.org/abs/...",
+      "published": "2026-06-25T13:49:53Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d74b2c23a8e5ecf8ce70da8ac2097817",
+      "title": "無料でAI最適化「AEO」をChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・Grokなどで確認できる「Elmo」、オープンソースで開発されセルフホスト可能",
+      "link": "https://gigazine.net/news/20260628-elmo/",
+      "summary": "ユーザーがAIに相談した時「自社ブランドが候補として表示されるか」「正しく紹介されるか」は、企業やサイト運営者にとって重要な確認項目です。AI向けのサイト最適化「AEO」を効率よく行うためにChatGPT・Google AI Overviews・Perplexity・Gemini・Copilot・G...",
+      "published": "2026-06-28T03:21:13Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "411f27aa6200acdf6c1859a8382060a3",
+      "title": "シニアエンジニアがコードをほぼ書かなくなった理由",
+      "link": "https://zenn.dev/acntechjp/articles/22f7b6f9258008",
+      "summary": "「AIはコードを書く。人間はコードを読む。」 私はソフトウェアエンジニアとして15年のキャリアがある。コードを書くことが仕事だと思っていた。 今は違う。コードを書くのはAIで、私は仕様を書いている。 今、私が書くコードは体感で全体の1%に満たない。業務もプライベートも関係なく、コードを書くのはAIだ...",
+      "published": "2026-06-27T11:54:06Z",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ea29adcea71be3d57f160a0ed01e468",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ByteByt…",
+      "link": "https://github.com/ByteByteGoHq/system-design-101",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ByteByteGoHq / system-design-101 ⭐ 84,089 (+132) Explain complex systems using visuals and simple terms. Help you pre...",
+      "published": "28 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d8317a963e5edd1dd0669e4d5de60b7",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Rob…",
+      "link": "https://github.com/Robbyant/lingbot-map",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Robbyant / lingbot-map ⭐ 7,972 (+372) 🗒 Python A feed-forward 3D foundation model for reconstructing scenes from ...",
+      "published": "28 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-28T10:21:47.727861+00:00"
+  "updated_at": "2026-06-28T13:20:43.664507+00:00"
 }

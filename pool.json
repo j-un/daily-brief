@@ -39,7 +39,107 @@
       "fetched_at": "2026-06-27T22:56:18.080550+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "eb6553226e33c0b243d3144ef6a7d0db",
+      "title": "AppleのContainerization Frameworkを使ってdock…",
+      "link": "https://github.com/mazrean/kanata",
+      "summary": "AppleのContainerization Frameworkを使ってdockerなしにKubernetes環境を構築できるdaemon。複数台クラスタも構成可能。初期セットアップ後はkubectlでアレコレできる。わいわい。",
+      "published": "28 Jun 2026 01:45 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "abbee9c372dfe17dd05e052f308c63a9",
+      "title": "AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず",
+      "published": "28 Jun 2026 01:55 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37c11a5222a79719dba71400affec565",
+      "title": "GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/githubai_1.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub、AIによる雑なプルリクエストを抑制へ。ユーザー当たりのプルリクエスト数の上限を設定できる新機能導入",
+      "published": "27 Jun 2026 23:55 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a322bb39e6608f8f07c21734a559e865",
+      "title": "Michigan spent $1.8B and only created 602 jobs",
+      "link": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
+      "summary": "Article URL: https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu Comments URL: https://news.ycomb...",
+      "published": "Sat, 27 Jun 2026 21:44:57 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f418ad98f5c033a56c0f8ed2fa4937c",
+      "title": "A Farmer Arrested for Going 5 Seconds over His Time Limit at Data Center Meeting",
+      "link": "https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meeting",
+      "summary": "Article URL: https://www.gadgetreview.com/arrest-him-the-moment-police-handcuffed-a-farmer-for-going-5-seconds-over-his-time-limit-at-data-center-meet...",
+      "published": "Sat, 27 Jun 2026 20:16:32 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4209c1889e4c8d181147b1a378ff863c",
+      "title": "Asian AI startups launch Mythos-like models",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "Article URL: https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ Comments URL: https://ne...",
+      "published": "Sat, 27 Jun 2026 13:10:21 +0000",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ceccd207db46a1f105ca9776de4d03e1",
+      "title": "Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」、VRAM4.5GBで動くコーディング特化AI「Gemma4-12B-Coder」など生成AI技術5つを解説（生成AIウィークリー）",
+      "link": "https://www.techno-edge.net/article/2026/06/28/5232.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第149回）は、Opus 4.8に肉薄するオープンソースモデル「GLM-5.2」や、テキストや画像から動き回れるゲーム世界を創るAI「DreamX-World 1.0」を取り上げます。",
+      "published": "Sun, 28 Jun 2026 11:35:30 +0900",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "420fcb0ad46c28e9db4550038cbac6a1",
+      "title": "hoge+fuga@example.com は「エイリアス」ではない",
+      "link": "https://zenn.dev/mai_llj/articles/3eefb32e632563",
+      "summary": "はじめに 先日、このような投稿を見かけました。 メールサーバをセルフホストして、サービスごとに別々のアドレスを割り当てている方のところに、とあるお寿司チェーンにしか教えていないはずのアドレス宛にフィッシングメールが届いたそうです。おかげで、どこから漏れたのかが一発でわかった、という話でした。アドレ....",
+      "published": "2026-06-27T23:22:44Z",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd77d6901dc22f2a0b8c775e45b305e7",
+      "title": "[ブックマーカー分析]危険性ランキング",
+      "link": "https://anond.hatelabo.jp/20260623134924",
+      "summary": "ここでいう「危険性」は、現実の犯罪危険性ではなく、はてブ上の言説・情報摂取・コメント運用としての危うさです。 評価軸は以下です。 敵味方認識の粗さ 怒り・罵倒・断罪の強さ 党派性への自覚の薄さ デマ・陰謀論・偏向情報への接近しやすさ 他者攻撃や集団敵視に接続しやすいか スター共同体によって過激化しや...",
+      "published": "2026-06-27T05:15:36Z",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "236a4fac5f49721509b5b04ea874e776",
+      "title": "【ミニレビュー】小さくなって“着け続ける”価値が増した Oura Ring 5の真価",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2119742.html",
+      "summary": "",
+      "published": "2026-06-27T02:23:38Z",
+      "fetched_at": "2026-06-28T02:43:12.199630+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-27T22:56:18.080550+00:00"
+  "updated_at": "2026-06-28T02:43:12.199630+00:00"
 }

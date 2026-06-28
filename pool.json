@@ -359,7 +359,227 @@
       "fetched_at": "2026-06-28T07:44:12.251840+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "179c6c070a5f5ff69fce0eece4ed42be",
+      "title": "Terraform と SOPS (Secrets OPerationS) を組み合わせてシークレット値を扱おう - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/06/18/090158",
+      "summary": "「SOPS (Secrets OPerationS) は YAML / JSON / ENV / INI などに記載されているシークレット値を暗号化するツール」ほう",
+      "published": "28 Jun 2026 10:18 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "91dabdaef4e5a7a3dfcee0db12cd0ed3",
+      "title": "Iroh",
+      "link": "https://www.iroh.computer/",
+      "summary": "QUICベースのP2Pネットワークを構築できるフレームワーク。エンドポイント同士はIPアドレスではなくrelayを介してed25519の公開鍵をアドレス代わりにして接続先を認識するらしい。今月1.0がリリースされたそう。",
+      "published": "28 Jun 2026 10:12 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a25be8d48ee0661a9fada7d87568c1a",
+      "title": "Marp と Slidev の使い分け：Git で管理したい僕がやる使い分け | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/52940",
+      "summary": "「手軽さと共有なら Marp、作り込んで育てたいなら Slidev」ほう",
+      "published": "28 Jun 2026 10:03 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "00e9a21b803113d35734e99a7400f90f",
+      "title": "2026年6月29日発売。…",
+      "link": "https://www.kohgakusha.co.jp/books/detail/978-4-7775-2341-2",
+      "summary": "2026年6月29日発売。",
+      "published": "28 Jun 2026 09:53 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "688477142e5e386a833835d5f8c9b0bc",
+      "title": "BSDカーネルの設計と実装 改訂2版 FreeBSD詳解 | ZEN大学出版会",
+      "link": "https://zen.ac.jp/press/books/b_0014",
+      "summary": "2026年6月29日。初版はアスキーから出てた書籍だ。こちらもZEN大学出版会から。",
+      "published": "28 Jun 2026 09:48 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cd0e6eba784b981f0a9903f80694b31",
+      "title": "我ら、プログラマー AdaからAIまで、コーダーたちの年代記 | ZEN大学出版会",
+      "link": "https://zen.ac.jp/press/books/b_0013",
+      "summary": "2026年6月29日発売。発行：ZEN大学出版会、発売：KADOKAWA。従来KADOKAWAからでてたハイレベル(?)なIT書籍は今後ZEN大学出版会からでるっぽいんかな。",
+      "published": "28 Jun 2026 09:46 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3155622d094eddd213275e7189885fd7",
+      "title": "今すぐできるLLMO・AIO[AI最適化]実践テクニック100 - 秀和システム新社 あなたの学びをサポート！",
+      "link": "https://www.shuwasystem.co.jp/book/b678172.html",
+      "summary": "2026年6月29日発売。「AIに認められないWebサイトは、存在しないのと同じ」新時代SEOか。",
+      "published": "28 Jun 2026 09:40 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ffb0d775d11be423a5b4b5fb9a843a8",
+      "title": "ブラウザーのリソースを使いこなそう！ ブラウザー・オーケストレーション・コーディング（クジラ飛行机） | 書籍 本 | ソシム",
+      "link": "https://www.socym.co.jp/book/1551",
+      "summary": "2026年6月29日発売。「ブラウザーを中心としたWeb技術を利用して、さまざまな自動処理やデスクトップアプリを開発するための指南書」",
+      "published": "28 Jun 2026 09:35 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62099e55acbfb7dad23578534a1afbab",
+      "title": "最近つくっているOSS 3つ - Pyxis / Argus / Iris - Gosuke Miyashita",
+      "link": "https://mizzy.org/blog/2026/06/23/1/",
+      "summary": "git diffとシンタックスハイライトを共存できるArgus/Irisいいな。",
+      "published": "28 Jun 2026 09:30 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2325356fac48f3a1a7e7da84d427469c",
+      "title": "WindowsのエラーダイアログはCtrl+Cでコピーできることが話題に | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/windows-11-copy-error-dialog-content/",
+      "summary": "へー知らなかった。エラーダイアログが表示されたらctrl+cを押すだけ。「コピーする」みたいなわかりやすいボタンを用意してくれたらいいのにね。",
+      "published": "28 Jun 2026 09:21 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21d097a75d5e1e93f6a5328bddaabaca",
+      "title": "AIがわかる数学入門 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401666/",
+      "summary": "2026年7月15日発売。「特異値分解や最適化、グラフ理論といった数学的基礎から、自然言語処理、オペレーションズ・リサーチまで」",
+      "published": "28 Jun 2026 09:18 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "302aa000aa4131019d358f9b9e7c47f8",
+      "title": "Google様から開発者のためのおすすめプロンプト10選です。ご査収ください。…",
+      "link": "https://cloud.google.com/blog/ja/topics/developers-practitioners/10-indispensable-prompts-our-team-refuses-to-build-without/",
+      "summary": "Google様から開発者のためのおすすめプロンプト10選です。ご査収ください。",
+      "published": "28 Jun 2026 09:17 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6bf826a16babbb66f6365c65376de1f",
+      "title": "自作 macOS IME「RomKana」開発記",
+      "link": "https://zenn.dev/toshinao/articles/1cffb713b1c670",
+      "summary": "ほう。わいわい",
+      "published": "28 Jun 2026 09:15 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2677739f43543a0015f5bc4a60b009dc",
+      "title": "LINEヤフー、TerraformではなくOpenTofu+Terragrunt…",
+      "link": "https://techblog.lycorp.co.jp/ja/techverse2026-86",
+      "summary": "LINEヤフー、TerraformではなくOpenTofu+Terragruntなんだ。Verdaだけで他のプロジェクトは異なるのかもだけど。",
+      "published": "28 Jun 2026 09:10 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b00d885944b5648eeee3d0b84a90d66f",
+      "title": "Kinesis Data Streamsを使う前に知っておきたかったこと",
+      "link": "https://zenn.dev/aminevsky/articles/2f0a7ebcc0359b",
+      "summary": "知見だ",
+      "published": "28 Jun 2026 09:01 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5348c5ff3f91788221ce06df7191ad6",
+      "title": "OpenClawのライバルを謳うパーソナルAIかな。terminalベースではな…",
+      "link": "https://github.com/tinyhumansai/openhuman",
+      "summary": "OpenClawのライバルを謳うパーソナルAIかな。terminalベースではなくGUIで動作。AIは独自のサブスクもしくはローカルLLMも可。macOS/Linux/Winに対応。macOSはhomebrew公式に追加されたのでbrew install --cask openhumanでインストー...",
+      "published": "28 Jun 2026 08:40 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a3225b069827c09f004bb329bf90b51",
+      "title": "Dockspace – Widgets for Your Mac Dock",
+      "link": "https://getdockspace.app/",
+      "summary": "macOSのDockをもっと高機能にするアプリ。ウィジェットを置けたりサブメニュー(Collections)を配置できたり。brew install --cask dockspaceでインストールできるがアプリ自体は有償（買い切り）。",
+      "published": "28 Jun 2026 08:32 +0000",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "962d06944e3bc2c077e6ced6a9088a06",
+      "title": "🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみた - Qiita",
+      "link": "https://qiita.com/aktsmm/items/6b2ef723c2e660c93731",
+      "summary": "🚀ローカル LLM 選び、もう「VRAM に入る一番デカいやつ」で決めるの卒業しよ？ - whichllm を RTX 4060 Ti 16GB で測ってみたPythonGPUUV駆け出しアーキテクトLLM こんにちは、ローカル LLM 選びで毎回モデル名の海におぼれていたアーキテクトのやまぱん！で...",
+      "published": "2026-06-28T03:25:43Z",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eac4f3fc9f3cb2e6de33721744dec5f4",
+      "title": "880円でPD・PPS対応、iPhone 17 Proも30W充電。ダイソーのGaN充電器が侮れない - はやぽんログ！",
+      "link": "https://hayaponlog.com/daiso-30w-gan-charger-review/",
+      "summary": "880円という価格で、USB PDだけでなくPPSにまで対応した充電器が手に入るとは思わなかった。ダイソーで売られている30W GaN USB充電器を購入し、手持ちのスマートフォンで動作確認をしてみた。 ダイソーの新型充電器に GaN採用のモデルが登場した 充電器のスペックを確認。USB PPS対応...",
+      "published": "2026-06-28T03:36:29Z",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e87bba15308487cef25d417d917af5b",
+      "title": "デュアルブート備忘録",
+      "link": "https://zenn.dev/qnighy/articles/09136afbf27bf3",
+      "summary": "久しぶりに Windows/Linux のデュアルブート構成にしたので、そのときに調べたことと自分の構成をメモしておきます。 なぜデュアルブートにしたのか 4年間愛用していた Surface Laptop Studio が味噌汁の襲撃によりあえなく死んでしまったため、 FMV UX-K3 を購入しま...",
+      "published": "2026-06-27T10:26:00Z",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7db6126c088b0b342cf65b13acf85153",
+      "title": "同じ番号で2台のiPhoneを使える〜iOS27の新機能 - iPhone Mania",
+      "link": "https://iphone-mania.jp/ios-602878/",
+      "summary": "iPhoneを2台持ちしたいと思っても、「番号がもう1つ必要なのでは」「料金が二重にかかるのでは」と感じて踏みとどまる人は多いでしょう。iOS27では、1つの電話番号で2台のiPhoneをセットアップし、切り替えて使える仕組みが登場する見通しです。仕事用と個人用を分けたい人、折りたたみiPhoneと...",
+      "published": "2026-06-28T05:46:36Z",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd236d8a97e2d18aa4cbc9b7a3077901",
+      "title": "米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/28/news019.html",
+      "summary": "米CNNなどによると、今回の措置は、ハワード・ラトニック商務長官がAnthropicに宛てた26日付の書簡に基づくという。ラトニック氏は輸出規制以降に同社が「対象モデルに関するリスクへの対応に取り組んできた」とし、その進展を踏まえ「適切なセーフガードが整っており、信頼できる一部パートナーがClaud...",
+      "published": "2026-06-27T23:02:55Z",
+      "fetched_at": "2026-06-28T10:21:47.727861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-28T07:44:12.251840+00:00"
+  "updated_at": "2026-06-28T10:21:47.727861+00:00"
 }

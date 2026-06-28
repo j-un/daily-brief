@@ -859,7 +859,217 @@
       "fetched_at": "2026-06-28T13:20:43.664507+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "78cfa82daed3585fa2667d9e01547bd4",
+      "title": "ぜんぜんわからない、俺たちは雰囲気でAI適用をやっている - 理系学生日記",
+      "link": "https://kiririmode.hatenablog.jp/entry/20260628/14945776032047400112",
+      "summary": "「インプット整備、出力検証、合意形成の要否。 この3問を順番に通過すると、AIに委譲できるかどうかだけじゃなく、どのような形で委譲するかまで決まるんじゃなかろうか。」ほう",
+      "published": "28 Jun 2026 14:45 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99a4d87fb8e43ba65fa5c1a883dfe66c",
+      "title": "Lance / LanceDB とは何か - Bering Note – formerly 流沙河鎮",
+      "link": "https://bering.hatenadiary.com/entry/2026/06/28/105546",
+      "summary": "「AI/ML や検索に関わる要件を Parquet や Avro、それらの上に成り立つ Iceberg で扱うことに限界を感じていたところ、Lance がそうした要件にフィットする」ほう",
+      "published": "28 Jun 2026 14:43 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c97d5e074f246b3157c8593036491b8",
+      "title": "BPStudy#227 AI時代のシステム障害対応に残る属人化を10年・2000件から解く - connpass",
+      "link": "https://bpstudy.connpass.com/event/398431/",
+      "summary": "現地/リモート",
+      "published": "28 Jun 2026 14:35 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8fe7dfff64f6522be5a814be7552d08",
+      "title": "AIエージェントやBotだけが解くことができると謳うCAPTCHA。人間には面倒…",
+      "link": "https://github.com/mondaycom/HATCHA",
+      "summary": "AIエージェントやBotだけが解くことができると謳うCAPTCHA。人間には面倒な問題らしいが、30秒以内に5桁同士の掛け算とか筆算すれば人間でもできるっしょ。まぁ面倒ではある。あと生成AIも数値計算は怪しいと思う。",
+      "published": "28 Jun 2026 14:28 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2fb6ebe5a58c81ed3922df04f84a681",
+      "title": "Just a moment...",
+      "link": "https://princechazz.com/",
+      "summary": "チェスを題材としたroguelike風ゲーム。最高スコア17でした。厳しい。",
+      "published": "28 Jun 2026 14:19 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65a750acb1ecad97d2fe2539325cb2c6",
+      "title": "ループエンジニアリング meetup！#1 - connpass",
+      "link": "https://findy-aiplus.connpass.com/event/397968/",
+      "summary": "現地開催",
+      "published": "28 Jun 2026 14:06 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c4f5999b2db4c1b42d4f90ab870e5b3",
+      "title": "Chrome/Firefoxの拡張として実装されたAIエージェント。ブラウザの自…",
+      "link": "https://github.com/NotASithLord/peerd",
+      "summary": "Chrome/Firefoxの拡張として実装されたAIエージェント。ブラウザの自動操作が可能と。各種クラウドAIサービスに対応するほか、ローカルLLMもいける。",
+      "published": "28 Jun 2026 14:03 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de2dcc1e510b1b22127d69dd0996803b",
+      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
+      "link": "https://labs.iximiuz.com/tutorials/ssh-tunnels",
+      "summary": "SSHにおけるTCPポート転送に関する解説。-L, -R, -D, -J。昔はよく使ったけど最近は多段接続する機会も無くなったねぇ。とてもわかりやすい。わいわい。",
+      "published": "28 Jun 2026 13:58 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccf43d759bb8e659922d47f433a0de53",
+      "title": "DuckDBに統計系の便利関数を生やすextention。グラフ描画もある。わい…",
+      "link": "https://github.com/KoliStat/the-stats-duck",
+      "summary": "DuckDBに統計系の便利関数を生やすextention。グラフ描画もある。わいわい",
+      "published": "28 Jun 2026 13:50 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f8649a34b3a52b14e9b021d81fb5d09",
+      "title": "GUIで視覚的に確認しながら作成できるSQLクエリービルダー。テーブルの図をドラ…",
+      "link": "https://github.com/webofmarius/SQLJoiner",
+      "summary": "GUIで視覚的に確認しながら作成できるSQLクエリービルダー。テーブルの図をドラッグ＆ドロップして接続すればJOINクエリーが作れると。",
+      "published": "28 Jun 2026 13:43 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30cd40bc24685e862cba5bddfe0c7cfd",
+      "title": "白一百 / pico-usb-wifi · GitLab",
+      "link": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "summary": "Raspberry Pi Pico WをUSB接続のWi-Fiアダプタ化するためのファームウェア。わいわい",
+      "published": "28 Jun 2026 13:41 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b776434cb35b69831b4b5a29ad5d8c3b",
+      "title": "Macbook Neoでカーソルを画面端やターミナルに持っていくとラグが発生する…",
+      "link": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "summary": "Macbook Neoでカーソルを画面端やターミナルに持っていくとラグが発生する現象を修正するスクリプトらしいが、自分の手元のMacbook Neoでは再現しないなその問題。",
+      "published": "28 Jun 2026 13:40 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af2322a1dd70bc87d3c9e6991e03dc47",
+      "title": "glyphcss — turn 3D models into ASCII art (browser, React/Vue & terminal)",
+      "link": "https://glyphcss.com/",
+      "summary": "glbファイルの3Dモデルをアスキーアートで表示するJavaScript+CSS実装。すごい。わいわい。",
+      "published": "28 Jun 2026 13:33 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a6fcba87b7335c0fc30c5abc84b29c9",
+      "title": "Kids act would require age checks to get online",
+      "link": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online Comments URL: https://news.ycombinator.com/item?id=487...",
+      "published": "Sun, 28 Jun 2026 11:56:16 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "471439f4b313d74624aa8f3ed900bc50",
+      "title": "WAL-RUS: a Rust Rewrite of WAL-G for PostgreSQL Backups",
+      "link": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
+      "summary": "Article URL: https://clickhouse.com/blog/walrus-postgres-backups-in-rust Comments URL: https://news.ycombinator.com/item?id=48702848 Points: 110 # Com...",
+      "published": "Sat, 27 Jun 2026 23:32:58 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9db985d05c4fd011e6447b0d17378c99",
+      "title": "ループエンジニアリングを takt exec で気軽に始めよう",
+      "link": "https://zenn.dev/nrs/articles/e4a2ae8a9fb785",
+      "summary": "はじめに 「ループエンジニアリング」という言葉が話題になっています。 ざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。 人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書いて、という往復をやめる。 代わりに作業→レビュー→修正のル...",
+      "published": "2026-06-28T08:51:05Z",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5eec116aee2deea4bd05dcffeb65f41",
+      "title": "Clipory — Mac のための最も強力なクリップボードマネージャー",
+      "link": "https://clipory.app/ja",
+      "summary": "Mac のための最も強力なクリップボードマネージャーコピーしたリンク、画像、色、スニペットは、スクリーンショット内の文字までその場で検索でき、コレクションに自動でまとまります。種類で絞り込み、よく使うものはピン留めして、どのアプリにも貼り付け。",
+      "published": "2026-06-28T12:22:52Z",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac63b68cd24f8961cefc27e605e1380a",
+      "title": "(きのこカンファレンス2026)「もう​今さら」から​始めて​続けられる、​小さな​変化の​つくりかた | ドクセル",
+      "link": "https://www.docswell.com/s/Insurtech-lab/Z9NN2P-2026-06-28-095852",
+      "summary": "20206.6.28実施のきのこカンファレンス https://kinoko-conf.dev/index.html で発表した内容です。",
+      "published": "2026-06-28T08:48:40Z",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecb8ba19774068f853dc1dae58822c98",
+      "title": "Apple、最新RAW現像エンジン「RAW 9」を発表。デモザイクとノイズ低減が強化 富士フイルムX-Trans CMOSのデータにも適用",
+      "link": "https://dc.watch.impress.co.jp/docs/column/2120494.html",
+      "summary": "",
+      "published": "2026-06-28T10:09:04Z",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10ce605e915b7da59a1dd99428d542f3",
+      "title": "NotebookLM’s newest trick makes every tool it already had much more powerful",
+      "link": "https://www.makeuseof.com/stopped-using-notebooklm-but-tiny-epub-feature-dragged-me-back/",
+      "summary": "",
+      "published": "2026-06-28T05:49:04Z",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11576ef07d08cff80d66db9ce0799740",
+      "title": "📦 usestrix / strix ⭐ 26,368 (+88) 🗒 Pyth…",
+      "link": "https://github.com/usestrix/strix",
+      "summary": "📦 usestrix / strix ⭐ 26,368 (+88) 🗒 Python Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "published": "28 Jun 2026 14:16 +0000",
+      "fetched_at": "2026-06-28T15:12:21.970218+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-28T13:20:43.664507+00:00"
+  "updated_at": "2026-06-28T15:12:21.970218+00:00"
 }

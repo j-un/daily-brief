@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e19b985b083decd9a2adc55aa8224843",
-      "title": "freee請求書 33,000 行の openapi.yml を TypeSpec に移行した話 - freee Developers Hub",
-      "link": "https://developers.freee.co.jp/entry/typespec-migration",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 freee請求書 33,000 行の openapi.yml を TypeSpec に移行した話",
-      "published": "28 Jun 2026 06:55 +0000",
-      "fetched_at": "2026-06-28T07:44:12.251840+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f1235ec3b709bcec3542315f9c62d18e",
       "title": "フルライフサイクル制御を備えた分離サンドボックスの実行：AWS Lambda が MicroVMs を導入 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
@@ -669,7 +659,247 @@
       "fetched_at": "2026-06-29T08:51:07.734272+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "7f909829826fc4137522d860f5a874e5",
+      "title": "Deprecating OpenCensus compatibility requirements | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/deprecating-opencensus-compatibility/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Deprecating OpenCensus compatibility requirements",
+      "published": "29 Jun 2026 08:55 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3da1e3b31ac3518ad494f137d738c4c4",
+      "title": "The CEO of Mullvad is the main financer of the far-right Swedish Örebro party",
+      "link": "https://det.social/@lostgen/116820546568940358",
+      "summary": "Article URL: https://det.social/@lostgen/116820546568940358 Comments URL: https://news.ycombinator.com/item?id=48717469 Points: 105 # Comments: 116",
+      "published": "Mon, 29 Jun 2026 10:45:51 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57d0727e88720aba18ff87017ca0f2cc",
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "summary": "Article URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/ Comments UR...",
+      "published": "Mon, 29 Jun 2026 09:28:08 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a0e07f0ff2ee75ec31efefc2cadacbd",
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "link": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+      "summary": "Article URL: https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/ Comments URL: https://news.ycombinat...",
+      "published": "Mon, 29 Jun 2026 08:58:09 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce32f81753d9e8f7428ee9e5f7996ff7",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "link": "https://arxiv.org/abs/2401.07013",
+      "summary": "Article URL: https://arxiv.org/abs/2401.07013 Comments URL: https://news.ycombinator.com/item?id=48712420 Points: 115 # Comments: 21",
+      "published": "Sun, 28 Jun 2026 22:32:04 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc46294d1c5b51c197d7de61a9afb362",
+      "title": "Show HN: DRM-Free Books",
+      "link": "https://frequal.com/Perspectives/DrmFreeAuthors.html",
+      "summary": "After several years of mandatory DRM lockdowns from most commercial book sources, now authors have a choice when it comes to DRM for their books. Pick...",
+      "published": "Sun, 28 Jun 2026 16:58:56 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "069dc2c8f5c08419c8e8fa1e934aadbd",
+      "title": "株式会社フジテレビジョン様が冬季国際スポーツ競技大会で実現した Live Cloud Production",
+      "link": "https://aws.amazon.com/jp/blogs/news/fuji-television-lcp-2026/",
+      "summary": "2026年2月6日から22日にかけて、イタリアのミラノ・コルティナにて世界的な冬季スポーツ競技大会が開催されま […]",
+      "published": "Mon, 29 Jun 2026 09:00:45 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0d2e419f49cbf90428e24c8588d5eb9",
+      "title": "「ヨドバシ池袋店」を見てきた 関東最大の1万坪に家電体験空間",
+      "link": "https://www.watch.impress.co.jp/docs/news/2120942.html",
+      "summary": "",
+      "published": "2026-06-29T10:40:00Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01dd6e393e1a6f79bab227028f9f6cd7",
+      "title": "「Firefox」内蔵の無償VPN、日本にも展開？ どの国からの接続かを隠し、プライバシーを保護／【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2120633.html",
+      "summary": "",
+      "published": "2026-06-29T08:51:08Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a6087ed8b5549e8c4d9a76b4b2af09b",
+      "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
+      "link": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
+      "summary": "アメリカの名門・ブラウン大学の教授が、自身が担当する数理経済学の試験で大規模な不正があったという話を海外メディアのEL PAÍSに共有しました。試験を自宅持ち帰り方式から対面方式に切り替えただけで平均点が大幅に下がり、持ち帰り試験で満点を出した学生のほとんどは対面試験に出席してこなかったといいます。...",
+      "published": "2026-06-29T11:03:48Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df7835328e85deaa2734afb174529e2f",
+      "title": "RAGを作るのではなく、検索される知識を運用する",
+      "link": "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
+      "summary": "RAGは作るより、更新され続けるデータの中で精度を保つ方が難しかった。Difyで自前RAGを組んだあと、データ更新に合わせて検索品質を維持し続けるのがしんどかったので、Agent SearchとCloud Storageでナレッジ供給パイプラインを組んだ話。 TL;DR RAGで本当に重かったのは、...",
+      "published": "2026-06-29T02:04:20Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad66e8a15915e4577a07c20af12a46ae",
+      "title": "音楽生成AIのSunoが独立系アーティストを支援するプログラム「Spark」を開始、「Sunoの悪口禁止」「Sunoに対する裁判への参加権放棄」といった条件が注目を集める",
+      "link": "https://gigazine.net/news/20260629-suno-incubator-program-spark/",
+      "summary": "AI音楽ジェネレーターの「Suno」は、AIのトレーニングに著作権で保護されている楽曲を利用していると指摘されており、これが原因で訴訟を提起されています。そんなSunoが、独立系アーティストを支援するためのプログラム「Spark」を発表しました。 Introducing Spark: Support...",
+      "published": "2026-06-29T04:57:45Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "19f95d6427a793b1bcc97b19dc21fdb9",
+      "title": "多くの現場を見て気づいた「有名ではないエンジニア」の生きのこり方",
+      "link": "https://speakerdeck.com/kenususugi/duo-kunoxian-chang-wojian-teqi-duita-you-ming-dehanaienzinia-nosheng-kinokorifang",
+      "summary": "2026/6/28 エンジニアがこの先生きのこるためのカンファレンス2026 Track B 14:30～",
+      "published": "2026-06-28T21:26:16Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27e2c65dfad896ee25c8807d128872ec",
+      "title": "「土日の方がAI利用者は多い」「女性の方が使用時間は長い」「高賃金タスクは夜間も実行されがち」などClaudeの利用実態レポートが公開される",
+      "link": "https://gigazine.net/news/20260629-anthropic-economic-report/",
+      "summary": "Anthropicは自社製AIサービスの利用データをプライバシーに配慮しつつ収集して分析しています。2026年6月26日にはClaude CodeやAPIを介した利用も踏まえた利用実態レポートが公開されました。 Anthropic Economic Index report: Cadences \\ ...",
+      "published": "2026-06-29T08:07:26Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1ae3b834530913f9dc2b5af95ffcf84",
+      "title": "池袋駅東口のヨドバシ新複合商業施設は「Yodobashi-Ikebukuro」 6月30日オープン",
+      "link": "https://www.watch.impress.co.jp/docs/news/2120614.html",
+      "summary": "",
+      "published": "2026-06-28T10:45:45Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "110881f59ec200fae276a0d25940c740",
+      "title": "Claude Codeのセッションを見下ろし型オフィスとして可視化するツールを作った",
+      "link": "https://zenn.dev/breakbot/articles/53e7f1c6564f26",
+      "summary": "作ったもの Claude Code のセッションを、見下ろし型のオフィスとして眺められるデスクトップアプリを作りました。 ローカルの ~/.claude/ を監視していて、エージェントを社員、動いているセッションをオーケストレーターとして描いています。誰が今なにをしているか、どの hooks がいつ...",
+      "published": "2026-06-28T08:18:59Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00cee52d8bd1809a700bae441365c4c0",
+      "title": "再販がスタート!?GeForce RTX 3060は今でもゲームやAIで通用するのか、時を経て改めてテストする 【第21戦】RTX 4060/5050と実ゲームやAI処理で真っ向勝負 text by 芹澤 正芳",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/parts_review/super_match/2119641.html",
+      "summary": "",
+      "published": "2026-06-29T01:32:33Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d95ba555c45e5e2aa1b92d144c12c083",
+      "title": "ついに｢世界のAI･半導体バブル崩壊が始まった｣と確信した｜会社四季報オンライン",
+      "link": "https://shikiho.toyokeizai.net/news/0/949539",
+      "summary": "小幡 績 / 韓国の株式市場では26日も一時「サーキットブレーカー」が発動。不安定な値動きが続く（写真：AP／アフロ） 競馬をこよなく愛するエコノミスト2人による「東洋経済オンライン」の人気持ち回り連載を「会社四季",
+      "published": "2026-06-27T10:56:00Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69df42b87593ccb1d743898cab7365fa",
+      "title": "焦燥を平穏に変えるエンジニアのための哲学",
+      "link": "https://speakerdeck.com/ichimichi/jiao-zao-woping-wen-nibian-eruenzinianotamenozhe-xue",
+      "summary": "エンジニアがこの先生きのこるためのカンファレンス2026にてお話した内容です 私の考え方に影響を与えた8冊の本を紹介しています https://fortee.jp/kinoko-2026/proposal/b7a1fa16-0645-4d54-be07-03a7ee0c5687",
+      "published": "2026-06-29T08:29:30Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "678304bb75f2f338d547da67ad4b8b84",
+      "title": "マウス、信州大学教育学部と包括連携協定を締結。26台のPC寄贈",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2120441.html",
+      "summary": "",
+      "published": "2026-06-29T00:35:02Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28c6057ee46e9b469078080a3f0967b0",
+      "title": "新幹線に「ファイアーブランケット」配備 相次ぐモバイルバッテリーの発火を受け--JR各社",
+      "link": "https://japan.cnet.com/article/35249558/",
+      "summary": "JR旅客5社（JR北海道、JR東日本、JR東海、JR西日本、JR九州）は6月26日、新幹線の車内にファイヤーブランケットとバケツを配備すると発表した。車内でモバイルバッテリーが発煙・発火する事案を受けた対策で、8月までに配備を終える予定だ。",
+      "published": "2026-06-28T23:49:08Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d94ca9a711980ace183dab045d5e4474",
+      "title": "トランプ政権がAnthropicの「Claude Fable 5」復帰を近く容認か、早ければ7月上旬にも制限解除の可能性",
+      "link": "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
+      "summary": "AI企業のAnthropicが提供する高性能AIモデル「Claude Fable 5」について、トランプ政権がアクセス再開を近く認める見込みであると複数のメディアが報じました。制限は早ければ2026年7月上旬にも解除される可能性があるとのことです。 Scoop: Powerful Anthropic...",
+      "published": "2026-06-29T04:57:02Z",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e0d59e881f79bfe938a001cf0c400cf",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Unclech…",
+      "link": "https://github.com/Unclecheng-li/VulnClaw",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Unclecheng-li / VulnClaw ⭐ 989 (+105) 🗒 Python 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发...",
+      "published": "29 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb2fcee96c89615656574b0ecb19592a",
+      "title": "D16 PunchBox 2 is a surprisingly deep sequel to the brutal kick plug-in classic",
+      "link": "https://cdm.link/d16-punchbox-2-kick-review/",
+      "summary": "D16's kick plug-in PunchBox was already a legendary drum weapons development laboratory, full of layers of crunchy, cruel, wonderful sounds. The Polis...",
+      "published": "Mon, 29 Jun 2026 12:51:55 +0000",
+      "fetched_at": "2026-06-29T13:58:49.084844+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-29T08:51:07.734272+00:00"
+  "updated_at": "2026-06-29T13:58:49.084844+00:00"
 }

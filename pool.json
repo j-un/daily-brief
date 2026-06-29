@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f1235ec3b709bcec3542315f9c62d18e",
-      "title": "フルライフサイクル制御を備えた分離サンドボックスの実行：AWS Lambda が MicroVMs を導入 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "summary": "AWS公式ブログにAWS Lambda MicroVMsの記事きてた。AIコーディングアシスタントだけでなくゲームサーバーなどでも有用と。料金表を見てみたが止めるたびにスナップショット取得でその度に課金も発生するので安くないかも",
-      "published": "28 Jun 2026 10:40 +0000",
-      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "543c9920d017ac93af5097371c54b639",
-      "title": "新たな攻撃手法「Velvet DDoS」の紹介と調査による補足 | IIJ Engineers Blog",
-      "link": "https://eng-blog.iij.ad.jp/archives/36775",
-      "summary": "絨毯爆撃(Carpet Bombing)だからVelvetなんだろうけど、いやぁvelvetという単語にあまり馴染みがないから「あーvelvetね」とはならずピンとこないねぇ。",
-      "published": "28 Jun 2026 10:23 +0000",
-      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e4a6c1dccaddd0ae39e1d91d298ec25a",
-      "title": "AIがコードを書ける時代だからこそ、Jrエンジニアに「AIを疑う力」を育てた話 - MonotaRO Tech Blog",
-      "link": "https://tech-blog.monotaro.com/entry/2026/06/23/090000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIがコードを書ける時代だからこそ、Jrエンジニアに「AIを疑う力」を育てた話",
-      "published": "28 Jun 2026 10:55 +0000",
-      "fetched_at": "2026-06-28T13:20:43.664507+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "a99f52f174fad6b1a9ef307e85716d4e",
       "title": "Google公式のOKF紹介記事…",
       "link": "https://cloud.google.com/blog/ja/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
@@ -1099,7 +1069,117 @@
       "fetched_at": "2026-06-29T16:53:23.081034+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "8b91b54af28fcdcdfb501d48e2033399",
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "summary": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/ Comments URL: https://news.ycombinator.com/item?id=48721903 Points: 285 # Comments: 205",
+      "published": "Mon, 29 Jun 2026 17:05:16 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d617af137e7ede78485a98da5da3f6f2",
+      "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+      "link": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+      "summary": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/ Comments URL: https://news.ycombinato...",
+      "published": "Mon, 29 Jun 2026 16:07:15 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2a13eaa1bb52fc145b130232847a021",
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision Comments URL: https://news.ycombinator.com/...",
+      "published": "Mon, 29 Jun 2026 15:54:24 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c67e041a00783740e150247c680e1ee6",
+      "title": "A native graphical shell for SSH",
+      "link": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "summary": "Article URL: https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html Comments URL: https://news.ycombinator.com/item?id=48720...",
+      "published": "Mon, 29 Jun 2026 15:42:17 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5387d408808c885249283e5522af7652",
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "link": "https://humphri.es/blog/WATaBoy/",
+      "summary": "Article URL: https://humphri.es/blog/WATaBoy/ Comments URL: https://news.ycombinator.com/item?id=48720190 Points: 129 # Comments: 14",
+      "published": "Mon, 29 Jun 2026 15:02:00 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcba54022392b8d1fb6a7919aaec9baf",
+      "title": "CachyOS June 2026 Release",
+      "link": "https://cachyos.org/blog/2606-june-release/",
+      "summary": "Article URL: https://cachyos.org/blog/2606-june-release/ Comments URL: https://news.ycombinator.com/item?id=48719361 Points: 102 # Comments: 52",
+      "published": "Mon, 29 Jun 2026 13:56:46 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aecede9e415150b3b9f816c83245ed96",
+      "title": "What happens when you run a CUDA kernel?",
+      "link": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "summary": "Article URL: https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/ Comments URL: https://news.ycombinator.com/item?id=48718863 Points: 1...",
+      "published": "Mon, 29 Jun 2026 13:11:08 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6809fea93d36977f93865c00e0006edc",
+      "title": "Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ - Qiita",
+      "link": "https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd",
+      "summary": "はじめに Gitは開発現場では欠かせないツールですが、「最近Gitって何か変わったの？」と聞かれると、意外と答えられない方も多いのではないでしょうか。 現在も最新バージョンは2系ですが、Gitでは将来的なメジャーバージョンも見据えた改善が継続的に進められています。 今回は、Git 3.0を見据えて注...",
+      "published": "2026-06-28T23:25:24Z",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab4a09cbd2d5978d9724875e79c5feb8",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 veracry…",
+      "link": "https://github.com/veracrypt/VeraCrypt",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 veracrypt / VeraCrypt ⭐ 10,325 (+114) 🗒 C Disk encryption with strong security based on TrueCrypt",
+      "published": "29 Jun 2026 18:16 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d62b01e76caf9ab755ad8ed4ae134bb",
+      "title": "Amiga Lagoon and the enduring power of marine aquarium screen savers",
+      "link": "https://cdm.link/amiga-lagoon-and-marine-aquarium-screen-savers/",
+      "summary": "Long before anyone was teetotaling screen time like it was some kind of vice, we once stared into our displays for no reason at all, as long as possib...",
+      "published": "Mon, 29 Jun 2026 18:57:37 +0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "d08e0b4f203c6a16a1ff5d95f4a3c1be",
+      "title": "The Best Punk on Bandcamp, June 2026",
+      "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-june-2026",
+      "summary": "Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 29 Jun 2026 17:44:50 -0000",
+      "fetched_at": "2026-06-29T19:45:45.135267+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-06-29T16:53:23.081034+00:00"
+  "updated_at": "2026-06-29T19:45:45.135267+00:00"
 }

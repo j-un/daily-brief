@@ -209,7 +209,267 @@
       "fetched_at": "2026-06-30T02:38:08.844845+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a85043e779e8a6c5e7b863ce815117a7",
+      "title": "Memory Safe Context Switching",
+      "link": "https://fil-c.org/context_switches",
+      "summary": "Article URL: https://fil-c.org/context_switches Comments URL: https://news.ycombinator.com/item?id=48727177 Points: 101 # Comments: 22",
+      "published": "Tue, 30 Jun 2026 00:38:19 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf26fee15579ef0e4fec6a9aacc1e411",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "link": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "Article URL: https://longcat.chat/blog/longcat-2.0/ Comments URL: https://news.ycombinator.com/item?id=48727116 Points: 110 # Comments: 33",
+      "published": "Tue, 30 Jun 2026 00:30:11 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c1fbcdc61b1e06be1808c6afe62590f",
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "link": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "summary": "https://www.nature.com/articles/s41567-026-03301-8 Comments URL: https://news.ycombinator.com/item?id=48726073 Points: 100 # Comments: 75",
+      "published": "Mon, 29 Jun 2026 22:18:26 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "722c977b7ef1779728862ce3282e02ef",
+      "title": "Working With AI: A concrete example",
+      "link": "https://htmx.org/essays/working-with-ai/",
+      "summary": "Article URL: https://htmx.org/essays/working-with-ai/ Comments URL: https://news.ycombinator.com/item?id=48720064 Points: 147 # Comments: 49",
+      "published": "Mon, 29 Jun 2026 14:53:41 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "01b36d885eb5b7b55ead654d8135fdf2",
+      "title": "What can you confidently guarantee about your software?",
+      "link": "https://queue.acm.org/detail.cfm?id=3819084",
+      "summary": "Article URL: https://queue.acm.org/detail.cfm?id=3819084 Comments URL: https://news.ycombinator.com/item?id=48719521 Points: 111 # Comments: 58",
+      "published": "Mon, 29 Jun 2026 14:12:05 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a08f66a9947ebd7de6ded581a8b1083",
+      "title": "『攻殻機動隊』『二十世紀電氣目録』『天幕のジャードゥーガル』ほか注目作多数 REGZAのアニメ伝道師に訊く今期おすすめ作品 2026年夏(片岡秀夫)",
+      "link": "https://www.techno-edge.net/article/2026/06/30/5237.html",
+      "summary": "レグザのアニメ伝道師、片岡秀夫氏による「今期おすすめアニメ」ガイドをお届けします。",
+      "published": "Tue, 30 Jun 2026 13:59:52 +0900",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "67492a17d3301bf24fe2adf6e69e0778",
+      "title": "Agent Focus の紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-agent-focus/",
+      "summary": "開発者が AI と協働する方法は変わりつつあります。モデルは今や複数ステップの作業を計画し実行できるようになり、より多くの開発者が、自分で一行ずつコードを打ったり直接編集したりするのではなく、エージェントを導くことに一日を費やすようになっています。 IDE は別の時代のために作られたものです。IDE...",
+      "published": "Tue, 30 Jun 2026 05:23:26 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1b1bd78d7a75bb1e0b088d2c8999ced",
+      "title": "1 つのタスク、2 つのプロバイダー(GitLab と GitHub) をまたぐ変更を 1 セッションで調整する",
+      "link": "https://aws.amazon.com/jp/blogs/news/coordinating-changes-across-gitlab-and-github-in-one-session/",
+      "summary": "Kiro Web は、既存の GitHub サポートに加えて、GitLab でも動作するようになりました。より興味深いのは、コードが GitLab と GitHub の両方にまたがって存在する場合に何が起きるかです。両方からリポジトリを同じセッションに追加し、単一の変更を記述すれば、Kiro がそれ...",
+      "published": "Tue, 30 Jun 2026 05:20:24 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "36a7580cf73c6a96dc7f2e5b39515822",
+      "title": "【ベータ開始】AWS 認定を最新の状態に保つ新しい方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/",
+      "summary": "AWS 認定の再認定に新たな方法が加わりました。Skill Builder 上のコースとハンズオンラボを完了することで、認定の有効期限を 1 年間延長できます。テストセンターの予約も不要で、自分のペースで取り組めます。現在は AWS Certified Solutions Architect – A...",
+      "published": "Tue, 30 Jun 2026 05:18:39 +0000",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "416324da96212837f008960476a0eb43",
+      "title": "Microsoft、「WSL containers」を公開プレビュー ～2倍速い新ファイルシステム「virtiofs」なども／「Docker」なしでWindows上にLinuxコンテナーを構築・実行",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2120973.html",
+      "summary": "",
+      "published": "2026-06-29T23:28:42Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a714e58142515cf2c955c480a3da0882",
+      "title": "昔は『マネージャーはちゃんと叱れ』と言われていたが、今はどうなのか",
+      "link": "https://blog.tinect.jp/?p=91268",
+      "summary": "こんにちは、しんざきです。 今日書きたいことは、大体以下のようなことです。 ・昔、「お前は部下を叱れない」と上司から何度も怒られました ・確かに「叱責」とか「注意」はとても苦手で、今でもあまりできません ・ただ、いつの間にか「ちゃんと叱れ」と言われることはなくなり、部下のケアや心理的安全性、他部署と...",
+      "published": "2026-06-30T00:44:16Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1d2ae06c9ed94661e5d9fc864de24c0",
+      "title": "スマホのダークモード、Androidでは約4分の3が「常時オン」だと判明【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2121033.html",
+      "summary": "",
+      "published": "2026-06-30T03:02:48Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae58dc45d4589810cf84660527f064e0",
+      "title": "アフラック顧客情報438万人分流出 不正アクセス、23万人分は口座も - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB3046P0Q6A630C2000000/",
+      "summary": "アフラック生命保険は30日、不正アクセスによっておよそ438万人分の顧客の個人情報が流出したと発表した。このうちおよそ23万人分は保険料を振り込むための銀行口座の情報も含まれていた。顧客専用サイトなどのシステムに第三者が不",
+      "published": "2026-06-30T05:16:09Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee54ff5fafce0b8de168b12de4317ba5",
+      "title": "AmazonにAIが生成した「未発売ゲームの偽攻略本」が並んでいる",
+      "link": "https://gigazine.net/news/20260630-amazon-ai-generated-game-guide/",
+      "summary": "Amazonで発売前や詳細未発表のゲームを対象にしたAI生成とみられる攻略本が販売されていると報告されています。表紙や商品説明は一見もっともらしく作られており、公式のガイドブックと誤認する購入者が出る懸念があります。 You CAN judge a book by its cover: AI slo...",
+      "published": "2026-06-30T03:40:10Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63401143e7940d1fac83275d573a48a0",
+      "title": "『めっちゃカメレオン』販売本数1000万本突破記念インタビュー！開発者に直接話を聞いてみた。SNSでの動画拡散は狙い通り、お気に入りは「天井に張りつくスパイダーマン」",
+      "link": "https://news.denfaminicogamer.jp/interview/260630w",
+      "summary": "全世界1000万本を突破した大人気ゲーム『めっちゃカメレオン』の着想元は「テレビで紹介されていたアーティスト」にあった。開発者が考えるヒットの要因は“見る人も遊ぶ人も、全員が楽しめる”ところ──『めっちゃカメレオン』の「かくれんぼ」と「迷彩」を組み合わせるアイディアはどのように生まれたのでしょうか？...",
+      "published": "2026-06-30T03:16:03Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4359a414f31689ac9f27d3f49be22620",
+      "title": "3COINSから新ガジェット、スマホ写真を直接プリントできる「フォトプリンター」発売へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/29/news126.html",
+      "summary": "雑貨チェーン「3COINS」を展開するパルグループホールディングス（大阪市中央区）は6月29日、スマートフォンの写真を印刷する新商品「フォトプリンター」を発表した。7月3日に公式通販サイト「PAL CLOSET」で先行販売し、店頭では7月18日から扱う。価格は1万4300円で、全2色をそろえる。 フ...",
+      "published": "2026-06-29T13:06:56Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9aad9db3fb7f4bfbab101d8263083455",
+      "title": "ブラウザで読んだページをObsidianに自動保存できるようにChrome拡張「Yasumaro」をきっちり設定する",
+      "link": "https://zenn.dev/ar1/articles/yasumaro-04-obsidian",
+      "summary": "気になる記事をブックマークしても、あとで見返すことはほぼありません。 「あとで読む」フォルダは増えるのに、中身を開くことはなくなっていく。そういう経験を繰り返した末に、YasumaroというChrome拡張があります。 ちゃんと設定すれば、ブラウザで読んだWebページを、AIが要約してObsidia...",
+      "published": "2026-06-29T02:41:51Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03408a6728cdd022b64bf799710b6446",
+      "title": "【速報】アフラック、438万人の情報流出",
+      "link": "https://www.47news.jp/14551369.html",
+      "summary": "アフラック生命保険は30日、不正アクセスによって顧客約438万人分の個人情報が流出したと発表した。このうち約23万人分には銀行の口座情報も含まれていた。",
+      "published": "2026-06-30T05:06:02Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "400e61d7cbe6246f0acb7cc2f2b426be",
+      "title": "「アフラック よりそうネット」への不正アクセス、顧客情報約438万件が漏えい",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2121158.html",
+      "summary": "",
+      "published": "2026-06-30T05:10:47Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "70944a38439cebba0811b7f8fcebf2e1",
+      "title": "Read-only Actions cache for untrusted triggers - GitHub Changelog",
+      "link": "https://github.blog/changelog/2026-06-26-read-only-actions-cache-for-untrusted-triggers/",
+      "summary": "GitHub Actions now issues read-only cache tokens to the default branch for workflow events that can be triggered without write permissions to the repo...",
+      "published": "2026-06-29T23:47:32Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "48487b2b1de48ed58a2d19631ac5490b",
+      "title": "「“社長AI”って意味ある？」→言った本人も手のひら返し 幹部の9割が高評価したNTTドコモビジネスの「AI小島社長」開発録",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news030.html",
+      "summary": "「“社長AI”って意味ある？」→言った本人も手のひら返し 幹部の9割が高評価したNTTドコモビジネスの「AI小島社長」開発録：Interop Tokyo 2026（1/4 ページ） 経営トップの判断や思考をAIで再現する取り組みが、国内の大企業に広がっている。三井住友フィナンシャルグループはグループ...",
+      "published": "2026-06-30T02:09:48Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb7ca649b1247a3b2eebf660f9c646c0",
+      "title": "アフラックに不正アクセス、約438万人分の個人情報漏えい 一部口座情報なども",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news133.html",
+      "summary": "アフラック生命保険は6月30日、顧客専用サイト「アフラック よりそうネット」などのシステムが第三者による不正アクセスを受け、顧客の個人情報を含む一部の情報が漏えいしたと発表した。漏えいの対象は約438万人分にのぼる。現時点において、漏えいした情報の不正利用などは確認していないという。 漏えいした顧客...",
+      "published": "2026-06-30T06:00:24Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e80c9177f8ea31c92b5a67f98384fb5",
+      "title": "設計ミスで河川構造物を全て造り直し、設計者が全額負担 広島県の砂防工事",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02690/",
+      "summary": "広島県が発注した砂防工事で設計ミスが判明し、完成した河川構造物を全て造り直すことになった。越流水深を本来よりも0.2m低く設定していたため、強度が不足した。再構築に掛かる費用は、設計者のアース開発コンサルタント（広島県呉市）が全額負担する。",
+      "published": "2026-06-30T00:59:36Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "999793964b8c3519b565eb07344e3180",
+      "title": "Sarashina3 mini / Sarashina3 nano: フルスクラッチで開発した最新の国産LLM - SB Intuitions TECH BLOG",
+      "link": "https://www.sbintuitions.co.jp/blog/entry/2026/06/30/100000",
+      "summary": "はじめに こんにちは、SB IntuitionsのYuyang Dong、廣淵亮太、平子潤です。 SB Intuitionsでは、日本語に強い国産のLLMの開発に取り組んでおり、これまでに様々なモデルの公開を進めてまいりました。また、開発したモデルをより幅広いビジネスシーン等でご活用いただくため、2...",
+      "published": "2026-06-30T02:40:00Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fac08e5b2ff5fe98a5b637bbb4d618a",
+      "title": "手術不要で脳活動から文章を読み取るAIモデル「Brain2Qwerty v2」がMetaによって開発される",
+      "link": "https://gigazine.net/news/20260630-brain2qwerty-v2-meta/",
+      "summary": "Metaが外科手術不要で脳活動からのテキスト読み取りを可能とするAIモデル「Brain2Qwerty v2」を開発しました。Brain2Qwerty v2は外科手術を伴う侵襲的な手法と同等のテキスト予測精度を達成しているとのことです。 From Brain Waves to Words: Brain...",
+      "published": "2026-06-30T02:12:47Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2e1a94911b8c04c007d446d87b3bfaa",
+      "title": "タスクの難易度でローカルAIとクラウドAIを自動切り替えする「Wayfinder」、切り替え判断にAIを使わずコストを削減",
+      "link": "https://gigazine.net/news/20260630-wayfinder/",
+      "summary": "短い文章の要約や誤字修正は手元の小さなAIに任せ、複雑な推論や長いコードの解析は高性能なクラウドAIに送るという判断を自動化するオープンソースツール「Wayfinder Router」がGitHubで公開されています。 GitHub - itsthelore/wayfinder-router: Si...",
+      "published": "2026-06-30T00:16:48Z",
+      "fetched_at": "2026-06-30T07:43:12.271752+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-30T02:38:08.844845+00:00"
+  "updated_at": "2026-06-30T07:43:12.271752+00:00"
 }

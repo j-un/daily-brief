@@ -1329,7 +1329,147 @@
       "fetched_at": "2026-06-30T19:44:20.767510+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "51513f5623e3d368a74f8e6b1995e073",
+      "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "link": "https://news.ycombinator.com/item?id=48737226",
+      "summary": "Just hit this today and I'm furious. I installed the Cursor iOS app to see what it had.I've been on `Privacy Mode (Legacy)` for a long time, which is ...",
+      "published": "Tue, 30 Jun 2026 18:33:59 +0000",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecd46f61b777c8b829488a76dd65c44c",
+      "title": "I built a mmWave material classification radar (2025)",
+      "link": "https://gauthier-lechevalier.com/radar",
+      "summary": "Article URL: https://gauthier-lechevalier.com/radar Comments URL: https://news.ycombinator.com/item?id=48736137 Points: 101 # Comments: 29",
+      "published": "Tue, 30 Jun 2026 17:29:36 +0000",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76679db3ddef082b356dbcb1f8de2271",
+      "title": "Xsnow \"protestware\" in Debian",
+      "link": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/ Comments URL: https://news.ycombinator.com/item?id=48735554 Points: 109 # Commen...",
+      "published": "Tue, 30 Jun 2026 16:54:41 +0000",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "591717396cbce713240fed00cb1739fd",
+      "title": "Supreme Court upholds broad conception of birthright citizenship",
+      "link": "https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026",
+      "summary": "Article URL: https://apnews.com/live/birthright-citizenship-decision-supreme-court-updates-06-30-2026 Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Tue, 30 Jun 2026 14:43:54 +0000",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb1ac64f0e9e889cee85aab82686e023",
+      "title": "Amazon RDS Enhances IAM Database Authentication with Connection Rate Scaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) now offers dynamic connection scaling for IAM database authentication, allowing connection rates to sc...",
+      "published": "Tue, 30 Jun 2026 20:00:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d0fa2ebb38cffd137e281236c157da6",
+      "title": "AWS Parallel Computing Service supports in-place Slurm major version upgrades",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/",
+      "summary": "AWS Parallel Computing Service (PCS) now supports managed in-place Slurm version upgrades for existing clusters. You can move your clusters up to thre...",
+      "published": "Tue, 30 Jun 2026 19:12:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "df3af59c3ad817b3dbb05c0b65a80e7e",
+      "title": "Amazon ElastiCache T4g nodes now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/",
+      "summary": "Amazon ElastiCache now supports T4g node types in the following AWS Regions: Africa (Cape Town), Asia Pacific (Jakarta), Asia Pacific (Osaka), AWS Gov...",
+      "published": "Tue, 30 Jun 2026 19:00:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "88d9f48ee2a87ca7ed025b7bddcf5b3c",
+      "title": "Amazon Neptune announces dual stack support with IPv6",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/",
+      "summary": "Amazon Neptune now supports dual-stack mode, enabling database clusters to accept connections over IPv4, IPv6, or both protocols simultaneously. This ...",
+      "published": "Tue, 30 Jun 2026 19:00:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c8079779fe5c44ac87ad20fe5a28ce5",
+      "title": "AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security/",
+      "summary": "Today, AWS Security Hub CSPM announces the AI Security Best Practices standard, a set of 31 automated security controls that detect when your deployed...",
+      "published": "Tue, 30 Jun 2026 16:17:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e504d0c7f8a2f5c7efc5796ab0782a14",
+      "title": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/",
+      "summary": "Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providi...",
+      "published": "Thu, 18 Jun 2026 15:13:00 GMT",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad355403eaa9ab92beb2d71340b1c66f",
+      "title": "Run any Dockerfile on Vercel",
+      "link": "https://vercel.com/blog/dockerfile-on-vercel",
+      "summary": "You have a server in a container. Maybe it's a Go service, a Rails app, a Spring Boot API, or a web server behind nginx. It speaks HTTP. It listens on...",
+      "published": "2026-06-30T14:26:35Z",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a22c401fb0bde352c03b61c22910cd4b",
+      "title": "Windows上でLinuxコンテナが直接動く「WSL container」パブリックプレビューリリース | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/06/wsl-container",
+      "summary": "Microsoftは2026年6月29日、Windows上で動くLinux環境であるWindows Subsystem for Linux（WSL）のプレリリース版（リリース2.9.3）で、Linuxコンテナ環境をWindowsに直接統合する「WSL container」の機能がパブリックプレビュー...",
+      "published": "2026-06-30T09:37:57Z",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3940a8cd00c44d47b533883d78af7609",
+      "title": "おうちKubernetesを約3年運用してみた - Qiita",
+      "link": "https://qiita.com/takumiida1/items/39907f41be86431a58e7",
+      "summary": "Summary 自宅・実家・クラウドの3拠点にまたがる分散Kubernetes環境を3年かけて構築・運用した際の気づきを共有 Raspberry Pi単独構成から始まり、RAID崩壊・マスター消滅・NFSボトルネック・連鎖障害という痛い失敗を繰り返しながら、現在の安定構成にたどり着いた変遷を記録 業...",
+      "published": "2026-06-29T02:43:06Z",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e665646e6d6bb4d6de1506808b403c4b",
+      "title": "📦 Mebus / cupp ⭐ 6,009 (+18) 🗒 Python Co…",
+      "link": "https://github.com/Mebus/cupp",
+      "summary": "📦 Mebus / cupp ⭐ 6,009 (+18) 🗒 Python Common User Passwords Profiler (CUPP)",
+      "published": "30 Jun 2026 20:16 +0000",
+      "fetched_at": "2026-06-30T21:22:51.592279+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-30T19:44:20.767510+00:00"
+  "updated_at": "2026-06-30T21:22:51.592279+00:00"
 }

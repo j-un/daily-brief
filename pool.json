@@ -1,4 +1,105 @@
 {
-  "articles": [],
-  "updated_at": "2026-06-30T21:42:36.019724+00:00"
+  "articles": [
+    {
+      "entry_id": "c7620228444deafa1e791ee946799161",
+      "title": "I ported Kubernetes to the browser",
+      "link": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "summary": "https://github.com/ngrok/weberneteshttps://webernetes-demo.ngrok.app/ Comments URL: https://news.ycombinator.com/item?id=48738985 Points: 106 # Commen...",
+      "published": "Tue, 30 Jun 2026 20:48:36 +0000",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8d6673c156ebac5949c0373a019ab0c",
+      "title": "電子ペーカー開発キットでゲームボーイを60Hz表示するエミュレーター『Paper Boy S3』",
+      "link": "https://www.techno-edge.net/article/2026/07/01/5240.html",
+      "summary": "中国のハードウェア技術者Wenting Zhang氏が、M5Stack社のE-inkディスプレイ搭載マイコン開発キット「PaperS3」上で、動作するゲームボーイエミュレーター『Paper Boy S3』を動かす様子をYouTubeに公開しました。",
+      "published": "Wed, 01 Jul 2026 07:30:03 +0900",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "074e8bd2f786cfbdab5e5a16f9d7d2c4",
+      "title": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/",
+      "summary": "Amazon CloudWatch Logs now enriches log events with resource tags, making it easier to filter, search, and analyze logs by the metadata that matters m...",
+      "published": "Tue, 30 Jun 2026 21:15:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b5c837810dc223b3582fde8552fca98",
+      "title": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/",
+      "summary": "AWS CloudFormation customers can now get immediate feedback on deployment errors in seconds, eliminating the need to wait through a full provision-and...",
+      "published": "Tue, 30 Jun 2026 21:00:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e6de5d7ec07b68151a70dafdd8a82d3",
+      "title": "AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/",
+      "summary": "AWS CloudFormation and CDK express mode reduces deployment time by up to 4x for developers and AI agents building infrastructure, based on internal be...",
+      "published": "Tue, 30 Jun 2026 21:00:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9495eaf3e92f0715961dc5fa49e654ac",
+      "title": "Amazon EC2 Auto Scaling now supports reservations then balanced Availability Zone distribution",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-auto-scaling-res-then-balanced/",
+      "summary": "Amazon EC2 Auto Scaling now offers reservations-then-balanced, a new Availability Zone (AZ) distribution strategy that prioritizes launching instances...",
+      "published": "Tue, 30 Jun 2026 17:09:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca87151eb8ce1c9b2169f50fe73686da",
+      "title": "Amazon EC2 C9g and C9gd compute optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-c9g-c9gd-instances-graviton5-processors-available/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Gr...",
+      "published": "Tue, 30 Jun 2026 15:00:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "58655d8b4e595d268a71b84bcd55cd3c",
+      "title": "Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-ddos-protection-unity",
+      "summary": "Amazon GameLift Servers now offers DDoS Protection client SDKs for C# and Unity, helping game developers protect session-based multiplayer games again...",
+      "published": "Tue, 30 Jun 2026 08:00:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2da018572dac0daab01910da91288e1e",
+      "title": "AWS Clean Rooms now supports intermediate tables for SQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-clean-rooms-intermediate-tables",
+      "summary": "AWS Clean Rooms now supports intermediate tables for SQL queries, offering increased flexibility for organizations running complex, multi-step analyti...",
+      "published": "Tue, 30 Jun 2026 06:00:00 GMT",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "713665e58c904b1fc540e5b66eb142ca",
+      "title": "AI駆動開発を妨げる技術的負債の解消アプローチ / ai-refactoring-approach",
+      "link": "https://speakerdeck.com/minodriven/ai-refactoring-approach",
+      "summary": "こちらの登壇資料です。 AI駆動開発を妨げる技術的負債の解消アプローチ https://levtechlab.connpass.com/event/395968/",
+      "published": "2026-06-30T10:43:02Z",
+      "fetched_at": "2026-06-30T23:03:46.848360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-06-30T23:03:46.848360+00:00"
 }

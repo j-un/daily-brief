@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "920c179bb366c6f51a2565acf88762df",
-      "title": "apple/container で worktree 並行開発を快適にするツールを作ってみた - エムスリーテックブログ",
-      "link": "https://www.m3tech.blog/entry/2026/06/22/170000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 apple/container で worktree 並行開発を快適にするツールを作ってみた",
-      "published": "29 Jun 2026 03:55 +0000",
-      "fetched_at": "2026-06-29T08:51:07.734272+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "53db6bd35c5f8fe315682782d4094c36",
       "title": "Amazon EC2 R8g instances now available in additional regions",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/",
@@ -639,7 +629,227 @@
       "fetched_at": "2026-06-30T10:49:34.821729+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "e8b066d054fae0e009767aa3bea9f536",
+      "title": "Clean Architecture 達人に学ぶソフトウェアの構造と設計 Ｒｏｂｅｒｔ Ｃ．Ｍａｒｔｉｎ(著) - ＺＥＮ大学出版会 | 版元ドットコム",
+      "link": "https://www.hanmoto.com/bd/isbn/9784049012033",
+      "summary": "Clean Architecture本、ZEN大学出版会から2026年7月10日に発売される模様。既刊の新品がAmazonで買えなくなってるし第二版などの記載がないので移籍出版だろうか。ZEN大学出版会のサイトにはまだ掲載なし。",
+      "published": "30 Jun 2026 12:15 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9489ca565ae61641f6bb8d490069251d",
+      "title": "Sony erases digital content from libraries",
+      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/ Comments URL: h...",
+      "published": "Tue, 30 Jun 2026 11:02:10 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82b046d62c4325510d6fb2d6d71d35dc",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "summary": "Article URL: https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/ Comments URL: https://news.ycombinator.com/item?id=487...",
+      "published": "Tue, 30 Jun 2026 10:36:23 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c64866b98bcba848996de8ab751c75ab",
+      "title": "The US ambassador had Belgian police stop our reporting",
+      "link": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "summary": "Article URL: https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting Comments URL: https://news.ycombinator.com...",
+      "published": "Tue, 30 Jun 2026 10:15:15 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fef36ad8f4ec4625619e1694912bbaac",
+      "title": "Microsoft Needs Windows Lite",
+      "link": "https://philipbohun.com/blog/0011.html",
+      "summary": "Article URL: https://philipbohun.com/blog/0011.html Comments URL: https://news.ycombinator.com/item?id=48720591 Points: 116 # Comments: 162",
+      "published": "Mon, 29 Jun 2026 15:30:37 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2898f0c20d3e215b97089f097b9b98e",
+      "title": "AWS Deadline Cloud の Wait and Save サービスマネージドフリートを使ってみる",
+      "link": "https://aws.amazon.com/jp/blogs/news/jp-mne-getting-started-with-wait-and-save-service-managed-fleets-on-aws-deadline-cloud/",
+      "summary": "Deadline Cloud のサービス管理フリートで Wait and Save を設定し、CPU レンダリングコストを削減する方法を紹介します。",
+      "published": "Tue, 30 Jun 2026 13:09:46 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b11e852655fb833e813d3da7ec2ce35f",
+      "title": "国産AIで狙う脱「米国依存」、性能はミュトスに及ばず 第三極を模索 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC2449U0U6A620C2000000/",
+      "summary": "国産の人工知能（AI）基盤の実現へ官民プロジェクトが動き出す。経済産業省は30日、最大1兆円規模の支援事業の対象にソフトバンクなどの企業連合を選んだと発表した。米中がAI開発で先行するなか、技術主権の確立を狙う。AI基盤の開発はソフトバンクとホンダ、NECとソニーグループの4社を中核に設立された会社...",
+      "published": "2026-06-30T11:29:53Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "50ff2e677a7e5ee6cd48062751e84f89",
+      "title": "【永久0円】人間LLMのすすめ - Qiita",
+      "link": "https://qiita.com/Syuparn/items/0001f93221d4d7556271",
+      "summary": "起動するとUI画面とOpenAI API互換サーバーが立ち上がります。 LLMモデルになって、届いたプロンプトに返答しましょう。 Codexを使ってみる さっそくエージェントで使ってみましょう。ここではOpenAI APIが導入しやすいCodexを使っていきます。 まずはモデルの設定を準備します。 ...",
+      "published": "2026-06-30T03:56:39Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8823b4514fb7411f84b0c7cbce8b4ff8",
+      "title": "死んだ個体と交尾するイノシシ、東京農工大などが記録 有蹄類で初 白骨化も見届ける",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/30/news148.html",
+      "summary": "東京農工大学などは6月26日、オスのイノシシがメスのイノシシの死体に対して交尾行動を行う様子を野生下で記録したと発表した。同種あるいは近縁種の死体への交尾行動は世界的に珍しく、哺乳類では11例目、陸生哺乳類では4例目、有蹄類では初の事例という。 動物の死体を自然下で見つけるのは難しく、野生動物が同種...",
+      "published": "2026-06-30T08:37:49Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4b80d14c7f617927363a9090619e88a",
+      "title": "メモリ価格は2026年第3四半期に40～50％上昇して2028年まで改善の見込みはないとの予測",
+      "link": "https://gigazine.net/news/20260630-memory-prices-surge-until-2028/",
+      "summary": "世界的な半導体不足によってPCやスマートフォンに搭載されるメモリ価格が上昇を続ける中で、市場調査機関のJefferies Equity Researchが「メモリ価格は2026年第3四半期に40～50％上昇し、その後も上昇傾向は続いて2028年まで改善の見込みはない」との予測を発表しました。 Jef...",
+      "published": "2026-06-30T07:24:08Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7615fd78e36b45688d87d54fed0b4609",
+      "title": "サプライチェーン攻撃に怯えたくないので、パッケージを「寝かせる」プロキシを自作した - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/06/29/170000",
+      "summary": "こんにちは、セキュリティチームの坂梨です。 皆さん、ソフトウェアサプライチェーン攻撃対策はできていますか。 2025年の Shai-Hulud（大規模なnpmパッケージ侵害事件）以降、ソフトウェアサプライチェーン攻撃が話題に挙がる機会が増えました。特に今年3月末に発生した Trivy と axios...",
+      "published": "2026-06-30T04:58:00Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "48b9c1eda378f5f0dd51b9cbdefb091b",
+      "title": "AIエージェントの「物忘れ」を防ぐMicrosoftの長期記憶アーキテクチャ「Memora」とは？",
+      "link": "https://gigazine.net/news/20260630-microsoft-memora-harmonic-memory/",
+      "summary": "Microsoft Researchが2026年6月29日にAIエージェント向けの長期記憶アーキテクチャ「Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity」を公開しました。長期間にわたる会話や...",
+      "published": "2026-06-30T10:41:25Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "487f46ee5dc6d2192e1454807834ff5b",
+      "title": "生産性が上がらないチームは、この問いを忘れている | サイボウズ式",
+      "link": "https://cybozushiki.cybozu.co.jp/articles/m006335.html",
+      "summary": "話題の人気ブログ「おい、」シリーズの著者で、ソフトウェアエンジニアのnwiizoさんによる新連載「生産性を取り戻せ」。この連載では「仕事の生産性」をあらゆる角度からとらえ、チームで生産性を高めていくためのヒントを探ってきました。 最終回は、全5回の連載を振り返りながら「チームの生産性が低いのはなぜか...",
+      "published": "2026-06-30T02:06:54Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afd74398e7a89f6d4d65f66d1013b9e4",
+      "title": "清水理史の「AI道場」 一般提供が始まった「Copilot Cowork」を体験 普段は答えないが、聞き方を変えると饒舌になる“教えたがりの門番”",
+      "link": "https://ai.watch.impress.co.jp/docs/serial/dojo/2121172.html",
+      "summary": "",
+      "published": "2026-06-30T06:14:06Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ccacd1e69bf11a8610b7138cd105ff8",
+      "title": "AIランキングサイト「Arena」が商用サービス開始から8カ月で年換算収益160億円を突破、AIモデルを「実際に使って比べる」評価が巨大ビジネスに",
+      "link": "https://gigazine.net/news/20260630-arena-revenue/",
+      "summary": "AIモデルの性能ランキングサイト「Arena」が商用サービス開始から8カ月で年換算収益1億ドル(約162億円)を突破したとTechCrunchが報じました。Arenaはアメリカのカリフォルニア大学バークレー校発の研究プロジェクトから始まったAI評価プラットフォームで、企業向け評価サービスでも急速に存...",
+      "published": "2026-06-30T07:25:21Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f7b802923bce6958a0e5d030aa892c7",
+      "title": "【東証トップ10レベルの裏側】生産性の秘密は、たぶん”AI”じゃない｜門奈剣平",
+      "link": "https://note.com/kempei_monna/n/nc2e8417de104",
+      "summary": "本邦初公開。カウシェの今。数字と事業モデルと生産性を、隠さず出すことにしました。 今回初公開ですが、カウシェは直近月ベースの年換算で売上高約71億円、売上総利益約62億円ペース。 従業員はインターンを入れて39人です。 この62億円を39人で割ると、1人あたりの売上総利益が約1.6億円になります。 ...",
+      "published": "2026-06-30T04:01:16Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba16b100c11d49633478cbaf396b8ece",
+      "title": "約40年のノウハウを社外へ、パナソニックがセキュリティ技術のサービス化を本格化",
+      "link": "https://cloud.watch.impress.co.jp/docs/special/2120950.html",
+      "summary": "",
+      "published": "2026-06-30T01:16:15Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "272f18a102c0cf0c3e5f1bfb6f20c27a",
+      "title": "【Mac Info】 マウス不要でMacを爆速操作！新世代ランチャー「Tuna」登場",
+      "link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2121019.html",
+      "summary": "",
+      "published": "2026-06-30T05:06:16Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43f15f42d7de479db377e1dd6160d9be",
+      "title": "Claude Codeに同じバグを3回出すと、自動でルール化される話",
+      "link": "https://zenn.dev/nexta_/articles/858e92ee22b4a4",
+      "summary": "こんにちは。製造業向けSaaSを開発しているエンジニアです。 AIエージェントを使い込むと、誰もが必ずぶつかる壁があります。「同じ失敗を、何度もAIに繰り返される」ことと、その対策で記録を増やすと今度は 「記憶が肥大化して、肝心なルールがノイズに埋もれる」ことです。 私はこの2つを、セッション履歴を...",
+      "published": "2026-06-30T02:35:28Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "558367c57383bb46cf73ddf2180b8b13",
+      "title": "Amazon、AI統合開発環境「Kiro IDE 1.0」を公開 ～「エージェントに指示して作る」ための新UIを導入／“仕様駆動”型のAI統合開発環境。CLI、Web、iOSアプリも展開中",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2120998.html",
+      "summary": "",
+      "published": "2026-06-30T07:51:48Z",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af5e1c06972b6063e9f1919da857c4f4",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 fac…",
+      "link": "https://github.com/facebook/astryx",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 facebook / astryx ⭐ 1,414 (+426) 🗒 TypeScript An open source design system that's fully customizable and agent re...",
+      "published": "30 Jun 2026 13:16 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e67e2c38cce6781c49dd6c350b210981",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 microso…",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 microsoft / AI-For-Beginners ⭐ 48,891 (+180) 🗒 Jupyter Notebook 12 Weeks, 24 Lessons, AI for All!",
+      "published": "30 Jun 2026 12:16 +0000",
+      "fetched_at": "2026-06-30T14:00:50.287395+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-06-30T10:49:34.821729+00:00"
+  "updated_at": "2026-06-30T14:00:50.287395+00:00"
 }

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # /// script
 # requires-python = ">=3.11"
+# dependencies = ["pyyaml"]
 # ///
 """
 articles.json を受け取り Claude Sonnet で関連度判定・カテゴリ分類・注目選定を行い selected.json を出力する。
@@ -12,7 +13,11 @@ import os
 import re
 import subprocess
 import sys
+from collections import defaultdict
 from datetime import datetime, timezone
+from urllib.parse import urlparse
+
+import yaml
 
 CATEGORY_ENUM = [
     "tech_ai",
@@ -95,6 +100,35 @@ def extract_json(text: str) -> dict:
     return json.loads(text)
 
 
+def domain_of(link: str) -> str:
+    host = (urlparse(link).hostname or "").lower()
+    return host[4:] if host.startswith("www.") else host
+
+
+def apply_domain_cap(
+    candidates: list[dict], max_per_domain: int | None
+) -> tuple[list[dict], dict[str, int]]:
+    """candidates は 'link' キーを持つ dict のリスト（優先順）。
+    ドメイン（正規化済み）ごとに max_per_domain 件までを残し、超過分を落とす。
+    link からドメインが取得できない場合は無条件で残す。
+    """
+    if max_per_domain is None:
+        return candidates, {}
+
+    domain_count: dict[str, int] = defaultdict(int)
+    dropped_by_domain: dict[str, int] = defaultdict(int)
+    kept = []
+    for c in candidates:
+        domain = domain_of(c["link"])
+        if domain:
+            if domain_count[domain] >= max_per_domain:
+                dropped_by_domain[domain] += 1
+                continue
+            domain_count[domain] += 1
+        kept.append(c)
+    return kept, dict(dropped_by_domain)
+
+
 def print_usage(label: str, usage: dict, cost: float | None) -> None:
     input_t = usage.get("input_tokens", 0)
     cache_cr = usage.get("cache_creation_input_tokens", 0)
@@ -115,7 +149,27 @@ def main() -> None:
     parser.add_argument("--articles", required=True, help="articles.json のパス")
     parser.add_argument("--output", required=True, help="selected.json の出力先パス")
     parser.add_argument("--usage-file", help="トークン使用量・コストの出力先 JSON")
+    parser.add_argument(
+        "--config", help="config.yaml のパス（省略時はドメイン上限なし）"
+    )
     args = parser.parse_args()
+
+    max_per_domain = None
+    if args.config:
+        with open(args.config, encoding="utf-8") as f:
+            config = yaml.safe_load(f) or {}
+        selection = config.get("selection") or {}
+        max_per_domain = selection.get("max_per_domain")
+        if max_per_domain is not None and (
+            isinstance(max_per_domain, bool)
+            or not isinstance(max_per_domain, int)
+            or max_per_domain < 1
+        ):
+            print(
+                f"ERROR: selection.max_per_domain must be a positive int, got {max_per_domain!r}",
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     with open(args.articles, encoding="utf-8") as f:
         data = json.load(f)
@@ -146,6 +200,7 @@ def main() -> None:
         for i, a in enumerate(articles)
     ]
     id_to_eid = {i: a["entry_id"] for i, a in enumerate(articles)}
+    id_to_link = {i: a.get("link", "") for i, a in enumerate(articles)}
 
     prompt = (
         SYSTEM_PROMPT
@@ -166,7 +221,8 @@ def main() -> None:
         sys.exit(1)
 
     errors = []
-    picked_out = []
+    candidates = []
+    seen_ids: set[int] = set()
     for p in picked:
         try:
             idx = int(p["id"])
@@ -176,13 +232,18 @@ def main() -> None:
         if idx not in id_to_eid:
             errors.append(f"id out of range: {idx}")
             continue
+        if idx in seen_ids:
+            errors.append(f"duplicate id: {idx}")
+            continue
+        seen_ids.add(idx)
         cat = p.get("category")
         if cat not in CATEGORY_ENUM:
             errors.append(f"invalid category '{cat}' for id={idx}")
             continue
-        picked_out.append(
+        candidates.append(
             {
                 "entry_id": id_to_eid[idx],
+                "link": id_to_link[idx],
                 "category": cat,
                 "starred": bool(p.get("starred", False)),
             }
@@ -191,6 +252,20 @@ def main() -> None:
         for e in errors:
             print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
+    picked_out, dropped_by_domain = apply_domain_cap(candidates, max_per_domain)
+    for c in picked_out:
+        del c["link"]
+
+    if dropped_by_domain:
+        total_dropped = sum(dropped_by_domain.values())
+        breakdown = ", ".join(
+            f"{domain}: {n}" for domain, n in sorted(dropped_by_domain.items())
+        )
+        print(
+            f"Dropped {total_dropped} articles by domain cap (max_per_domain={max_per_domain}): {breakdown}",
+            file=sys.stderr,
+        )
 
     starred_count = sum(1 for p in picked_out if p.get("starred"))
     print(

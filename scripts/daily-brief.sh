@@ -137,7 +137,8 @@ SONNET_USAGE="$TMPDIR/sonnet_usage.json"
 uv run scripts/select_articles.py \
   --articles "$ARTICLES_JSON" \
   --output "$SELECTED_JSON" \
-  --usage-file "$SONNET_USAGE"
+  --usage-file "$SONNET_USAGE" \
+  --config config.yaml
 
 # --- 6. Summarize articles (Haiku) ---
 echo ""

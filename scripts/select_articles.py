@@ -71,6 +71,8 @@ def call_claude(prompt: str) -> tuple[str, dict, float | None]:
         "claude",
         "--model",
         "claude-sonnet-5",
+        "--effort",
+        "medium",
         "--dangerously-skip-permissions",
         "--output-format",
         "json",

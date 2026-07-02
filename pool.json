@@ -749,7 +749,207 @@
       "fetched_at": "2026-07-02T07:23:43.363751+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "26d292d37af307749fc7b6c073910e68",
+      "title": "ただのログ収集じゃない！クリアコード年表アプリを支えるFluentd + eBPF活用術 #cc20th - 2026-06-25 - ククログ",
+      "link": "https://www.clear-code.com/blog/2026/6/25/cc20th-timeline-system-fluentd-backend.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ただのログ収集じゃない！クリアコード年表アプリを支えるFluentd + eBPF活用術 #cc20th - 2026-06-25 - ククログ",
+      "published": "02 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9a1f17ff0789cdf05880a440a7f2033",
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "link": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "Article URL: https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Thu, 02 Jul 2026 04:32:41 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf8e2aa13a4b247a4cdfafbffa57a899",
+      "title": "Qualcomm Linux 2.0",
+      "link": "https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available",
+      "summary": "Article URL: https://www.qualcomm.com/developer/blog/2026/06/qualcomm-linux-2-now-available Comments URL: https://news.ycombinator.com/item?id=4875306...",
+      "published": "Wed, 01 Jul 2026 21:01:42 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d8511d9ddf3c72d193f44a8083f8be8",
+      "title": "Claude Fable 5 Promotional Access",
+      "link": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+      "summary": "Article URL: https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access Comments URL: https://news.ycombinator.com/item?id=4875...",
+      "published": "Wed, 01 Jul 2026 19:31:46 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b69b34a32165501d4ac8557e70f8722",
+      "title": "Metagenomi が LanceDB と Amazon S3 で実現した 10 億ベクトル超のスケーラブルな検索基盤",
+      "link": "https://aws.amazon.com/jp/blogs/news/search-solution-for-1b-vectors-built-on-lancedb/",
+      "summary": "Metagenomi は LanceDB、Amazon S3、AWS Lambda を組み合わせ、35 億件のタンパク質エンベディングを低コストで保存・検索するサーバーレスソリューションを構築しました。データをバケット分割して並列インデックス化し、map-reduce 方式で検索する設計により、常時...",
+      "published": "Thu, 02 Jul 2026 09:23:52 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "98634524c7f9162293eac1efafce5403",
+      "title": "株式会社ラクス: 伝票作成 AI エージェントの構築と、品質を支える評価設計の取り組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/rakus-ai-agent-development-and-evaluations/",
+      "summary": "本ブログは株式会社ラクス様と Amazon Web Services Japan 合同会社が共同で執筆しました […]",
+      "published": "Thu, 02 Jul 2026 09:15:37 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d17e37a382e488e5e71b34c2ec52dbc",
+      "title": "【ブース展示報告】AWS Summit Japan 2026 不動産ブース 不動産業の未来を、生成 AI で切り拓く",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-2026-japan-cre-booth-realestate/",
+      "summary": "はじめに AWS Summit Japan 2026（6/25-26 @幕張メッセ）にご来場いただいた皆様、あ […]",
+      "published": "Thu, 02 Jul 2026 08:39:01 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb68af0b1e7e6b7d5627b1a4cfeb90ba",
+      "title": "AWS Graviton5 プロセッサを搭載した Amazon EC2 の C9g インスタンスと C9gd インスタンスが利用可能に",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+      "summary": "リアルタイム分析、バッチ処理、ビデオエンコーディング、科学モデリング、CPU ベースの機械学習推論など、計算量 […]",
+      "published": "Thu, 02 Jul 2026 08:28:31 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1127f746fc584c9d73be34c4e360938",
+      "title": "AWS Certificate Manager の ACME サポートを使用してパブリック TLS 証明書の発行を自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
+      "summary": "アプリケーションの TLS 証明書を管理している場合、証明書が期限切れになると、顧客にエラーが表示されるか、サ […]",
+      "published": "Thu, 02 Jul 2026 08:20:25 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ec6c8125643db9f8bd755a7288ab944",
+      "title": "Amazon OpenSearch Service の新エンジンでログ分析コストを大幅に削減",
+      "link": "https://aws.amazon.com/jp/blogs/news/run-log-analytics-for-a-fraction-of-the-cost-with-the-new-engine-for-amazon-opensearch-service/",
+      "summary": "Amazon OpenSearch Service にログ分析に特化した新エンジンが加わりました。価格性能比は最大 4 倍、取り込み速度は 2 倍、ストレージコストは最大 70% 削減されます。OpenSearch の強みである全文検索も犠牲にならず、同じデータに対してそのまま使えます。",
+      "published": "Thu, 02 Jul 2026 08:08:49 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8f729573ed45e0157faaef7bedb003d",
+      "title": "オルファ「テクニックナイフ」濡れた紙や柔らかい布が綺麗に切れる - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2121427.html",
+      "summary": "",
+      "published": "2026-07-02T02:52:25Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49d79bf9b233254ba1932ca0dfa05b82",
+      "title": "エンジニア職の新卒採用はじめました - PLEX Product Team Blog",
+      "link": "https://product.plex.co.jp/entry/engineer-new-graduate",
+      "summary": "こんにちは、プレックスの石塚です。 プレックスでは以前から営業職や企画職の新卒採用を行っていましたが、エンジニア職の新卒採用は昨年まで行っていませんでした。長期インターンから偶然新卒として入社が決まった方は何名かいたのですが、正式な採用枠としては設けていなかったというのが実情です。 そんな中今年か....",
+      "published": "2026-07-02T02:20:02Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "189ec180389aa67d8d14464a7021f5df",
+      "title": "iCloud+で利用できる匿名アドレス機能に、元アドレスが外部から参照できる脆弱性【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2121782.html",
+      "summary": "",
+      "published": "2026-07-02T03:31:42Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcaccf0b4c51b8d4786f091beb401056",
+      "title": "遅いのは SQL だと思ったら、別のところにあった",
+      "link": "https://zenn.dev/dress_code/articles/postgres-distinct-on-nested-loop",
+      "summary": "TL;DR はじめに こんにちは、Dress Code でプロダクトエンジニアをしている ないとー です！ Dress Code の技術力・思想・カルチャーを外に発信していくため、この7月にテックブログのアドベントカレンダー Dress Code Advent Calendar 2026/07 を開...",
+      "published": "2026-07-01T11:57:14Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07bdf9f599505ab8e1da691909ccac26",
+      "title": "Findy AI Engineering Summit 2026 に登壇しました（AI時代に、なぜHERPのエンジニアが採用に関わるのか） - taketo957の日記",
+      "link": "https://taketo957.hatenablog.com/entry/2026/07/02/100000",
+      "summary": "こんにちは、id:taketo957 です。 2026年6月9日、Findy主催の「Findy AI Engineering Summit Tokyo 2026」に登壇してきました。 話したのは、HERPのこの1年の取り組みを振り返って、「AIを使う」「AIプロダクトを作る」「作ったプロダクトで採用...",
+      "published": "2026-07-02T04:32:12Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "312ebf00d02190dc25c2425a14439842",
+      "title": "Hanami 3.0: In full bloom",
+      "link": "https://hanakai.org/blog/2026/06/30/hanami-3-0-in-full-bloom",
+      "summary": "From the very beginning we set out to make Hanami a different kind of Ruby framework: clear, modular, and built to grow. Today it comes into full bloo...",
+      "published": "2026-07-02T00:06:57Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "460d504771179d7541f586f8af606225",
+      "title": "新規のプリンターインストールは「Windows Ready Print」が既定に、6月プレビューパッチより展開／シンプル・安全・信頼性の高い印刷体験を提供",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2121908.html",
+      "summary": "",
+      "published": "2026-07-02T08:10:30Z",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2333f1fe7a19441f86e4a8638167e276",
+      "title": "Yes, the Akai MPC Sample really is that good",
+      "link": "https://musictech.com/reviews/hardware-instruments/akai-mpc-sample-review/?utm_source=rss&utm_medium=rss&utm_campaign=akai-mpc-sample-review",
+      "summary": "The classic MPC workflow in a tiny, battery-powered package for $400? Almost unbeatable The post Yes, the Akai MPC Sample really is that good appeared...",
+      "published": "Thu, 02 Jul 2026 09:43:24 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "48144689256760f769ecad05a425ad68",
+      "title": "Menura Audio’s MDFX Delay and Reverb units bring studio-grade effects to the DJ booth",
+      "link": "https://musictech.com/news/gear/menura-audio-mdfx-delay-reverb/?utm_source=rss&utm_medium=rss&utm_campaign=menura-audio-mdfx-delay-reverb",
+      "summary": "The best part? You can demo them online before purchasing. The post Menura Audio’s MDFX Delay and Reverb units bring studio-grade effects to the DJ bo...",
+      "published": "Thu, 02 Jul 2026 09:12:04 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "b2741d64b2e1580e8b1e6fdfc0cd96a3",
+      "title": "Credits.fm is a free, open music credits database to help artists get paid in the AI era",
+      "link": "https://musictech.com/news/gear/credits-fm/?utm_source=rss&utm_medium=rss&utm_campaign=credits-fm",
+      "summary": "The new platform indexes more than 150 million song codes, identifiers, and contributor records across the global music ecosystem. The post Credits.fm...",
+      "published": "Thu, 02 Jul 2026 09:10:42 +0000",
+      "fetched_at": "2026-07-02T10:30:11.678375+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-02T07:23:43.363751+00:00"
+  "updated_at": "2026-07-02T10:30:11.678375+00:00"
 }

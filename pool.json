@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "597bfec0674f1be90356926114a2c6a3",
-      "title": "相次ぐGitHub Actions 侵害から学ぶ、初期アクセス手法と開発者が知っておきたい対策 - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part1",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 相次ぐGitHub Actions 侵害から学ぶ、初期アクセス手法と開発者が知っておきたい対策",
-      "published": "01 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-02T02:33:53.103339+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "763dc2b801335bb25b91b4b4995041fb",
       "title": "いま一番好きなエディタ、Zed - エムスリーテックブログ",
       "link": "https://www.m3tech.blog/entry/2026/06/24/165633",
@@ -439,7 +429,307 @@
       "fetched_at": "2026-07-03T02:08:59.692221+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "af536685d99261785427f2a8e9b6c36a",
+      "title": "LLMが書いた「正しそうな言葉」に感じる違和感",
+      "link": "https://zenn.dev/mkj/articles/40a6c187d2dbc9",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLMが書いた「正しそうな言葉」に感じる違和感",
+      "published": "03 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e5d5169910d7659f014e1b5677bcdcc",
+      "title": "日々の覚書: Group ReplicationでのExecuted_Gtid_Setの進み方",
+      "link": "https://yoku0825.blogspot.com/2026/06/group-replicationexecutedgtidset.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Group ReplicationでのExecuted_Gtid_Setの進み方",
+      "published": "03 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "179d63f7964f2e59d67f281ead92de02",
+      "title": "[MVC]パッケージの依存関係を極力減らし、本番環境で動かせるWebアプリについて考える(Python, Node.js, Go)",
+      "link": "https://zenn.dev/tkithrta/articles/d5662ffd56a47f",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 [MVC]パッケージの依存関係を極力減らし、本番環境で動かせるWebアプリについて考える(Python, Node.js, Go)",
+      "published": "03 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "625baceecd024bec2e04bacbd174dd21",
+      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "summary": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/ Comments URL: https://news.ycombinator.com/item?id=48770647 Points: 337 # Comment...",
+      "published": "Fri, 03 Jul 2026 04:16:17 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a53310ead87ffedc5c570618248f3a4",
+      "title": "CarPlay Is Additive",
+      "link": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "summary": "Article URL: https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts Comments URL: https://news.ycombinator.com/item?id=48769397 Points: 197 ...",
+      "published": "Fri, 03 Jul 2026 01:02:45 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "861955b5c4a143fa5573b45ce96f7912",
+      "title": "Order a burned CD of your own public GitHub repo",
+      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "summary": "Article URL: https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u...",
+      "published": "Fri, 03 Jul 2026 00:01:26 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eab75f447f1d445a334a342456696d8f",
+      "title": "Right to Local Intelligence",
+      "link": "https://righttointelligence.org/",
+      "summary": "Article URL: https://righttointelligence.org/ Comments URL: https://news.ycombinator.com/item?id=48768951 Points: 142 # Comments: 57",
+      "published": "Thu, 02 Jul 2026 23:54:03 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac5836a5f8e764161052ecd6c76d274f",
+      "title": "U.S. officials believed Israel was plotting to kill Iranian negotiators",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html",
+      "summary": "https://archive.ph/QIePX Comments URL: https://news.ycombinator.com/item?id=48767914 Points: 106 # Comments: 47",
+      "published": "Thu, 02 Jul 2026 21:59:10 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d91d2ab0ac74af9c6ffcc6e670563144",
+      "title": "EFF letter to FTC on X consent order [pdf]",
+      "link": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected Comments URL: https...",
+      "published": "Thu, 02 Jul 2026 19:27:38 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "428502b35e55b55ac1632711619bc9e0",
+      "title": "The short leash AI coding method for beating Fable",
+      "link": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "summary": "Article URL: https://blog.okturtles.org/2026/07/short-leash-ai-method/ Comments URL: https://news.ycombinator.com/item?id=48766026 Points: 106 # Comme...",
+      "published": "Thu, 02 Jul 2026 19:11:57 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3adc6d8ee1bf4d3afbf5c05a3550443",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "Article URL: https://github.com/HUANGCHIHHUNGLeo/claude-real-video Comments URL: https://news.ycombinator.com/item?id=48766005 Points: 123 # Comments:...",
+      "published": "Thu, 02 Jul 2026 19:10:12 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f83a2e3abb5d156579d2628b7f5aaf4",
+      "title": "24-bit/192kHz music downloads and why they make no sense (2012)",
+      "link": "https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm",
+      "summary": "Article URL: https://people.xiph.org/~xiphmont/demo/neil-young.html#toc_wd2bm Comments URL: https://news.ycombinator.com/item?id=48763790 Points: 107 ...",
+      "published": "Thu, 02 Jul 2026 16:24:49 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "84c4b45643f83c4f7fdc3519460942ac",
+      "title": "【開催報告 & 資料公開】公共分野における AI 活用最新アップデート (AWS 公共セミナー 2026 年)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-april/",
+      "summary": "こんにちは。アマゾン ウェブ サービス ジャパン合同会社 パートナー ソリューション アーキテクト の深井宣之 […]",
+      "published": "Fri, 03 Jul 2026 06:24:04 +0000",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6b172a90e9530fa59f7969a02829fd5",
+      "title": "消火栓標識にStarlinkを設置する技術デモ。災害時のWi-Fi拠点化を検証",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2122083.html",
+      "summary": "",
+      "published": "2026-07-03T02:11:05Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67a31dd629e233fc660d364a8661003a",
+      "title": "CDを生んだソニーが、ゲームの“円盤”に終わりを告げる事情 プレステとディスクの30年史",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/03/news098.html",
+      "summary": "ついに来たか、という印象だった。ソニー・インタラクティブエンタテインメント（SIE）は、PlayStationコンソール向けの新作ゲームのディスク生産を2028年1月に終了する。ゲームの流通手段としての光学ディスクは40年近い歴史を持つが、いよいよ終わりが見えてきたようだ。 もともと音楽用に開発され...",
+      "published": "2026-07-03T04:48:29Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18519ed108e38505545d68b1519c18b1",
+      "title": "curlが7月の脆弱性報告をまるごと停止、AIスロップが優秀になった逆説 - Qiita",
+      "link": "https://qiita.com/okssusucha/items/d17ac3c49e568266123d",
+      "summary": "HackerOne は、脆弱性を見つけた人が開発者に非公開で報告し、対応状況をやり取りする定番のプラットフォームだ。1月にやめたのは、そのうえに乗っていた「報奨金」の部分。金銭のインセンティブが、雑な報告を大量生産させる燃料になっていたという判断だった。 7月に閉じるのは、報告チャネルそのものである...",
+      "published": "2026-07-03T04:13:31Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "99c2021827b0d8357ca72b8be42575f8",
+      "title": "「やばい」いつのまにか撮影 AI搭載スマートグラス、記者が体験：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV6S7KLDV6SULFA02TM.html",
+      "summary": "米メタ（旧フェイスブック）の対話型AI（人工知能）「メタAI」を搭載したスマートグラスが5月、日本に上陸した。「スマホの次」と期待される新たな端末が普及したら、どんな社会になるのか。スマートグラスを…",
+      "published": "2026-07-03T04:32:23Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "772871f5e9336d15defff110fa9b41c1",
+      "title": "「怪しいメールを見破った人」がだまされる、社内注意喚起を装う「二段階式フィッシングメール」に注意！【読めば身に付くネットリテラシー】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2117321.html",
+      "summary": "",
+      "published": "2026-07-03T03:22:59Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4879b8fcc84377a7bdc335b42d0c3052",
+      "title": "「見た目の好み」を捉えるマルチモーダル推薦システム —— 画像特徴量でCTR・CVR・売上を改善 - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/multimodal-recommendation-with-image-embedding",
+      "summary": "はじめに こんにちは。データシステム部・MA推薦ブロックの住安（@kosuke_sumiyasu）です。 私たちのチームは、ZOZOTOWNのメール・LINE・プッシュ通知といったマーケティングオートメーション（MA）の推薦システムを開発・運用しています。目指しているのは、ユーザーひとりひとりに最適...",
+      "published": "2026-07-03T02:24:44Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb8df1596278bfb8cc690f22791ad3ee",
+      "title": "GitHub - ctxrs/ctx: Search the coding agent history already on your machine",
+      "link": "https://github.com/ctxrs/ctx",
+      "summary": "ctx is an open-source CLI for fast local search across your past coding agent sessions. Coding agents usually start from zero. They can inspect the cu...",
+      "published": "2026-07-03T03:03:20Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75e67a8c96ccda30e789cf3878ef3121",
+      "title": "非同期処理のアーキテクチャに想いを馳せた",
+      "link": "https://zenn.dev/dress_code/articles/62524f2e5dbd3c",
+      "summary": "はじめに こんにちは、Dress Code 株式会社 でプロダクトエンジニアをやっている津田です。 このブログはDress Code Advent Calendar 2026/07の3日目の記事です。 最近はもっぱら共通基盤まわりの開発をしており、非同期処理のアーキテクチャについて検討する機会に恵ま...",
+      "published": "2026-07-02T23:10:23Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae873a6bf4bd6f26e67097842d3dead7",
+      "title": "科学者が教える「AI生成された顔を見破る方法」 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/scientists-think-this-is-the-best-way-to-detect-ai-slop-imagery/",
+      "summary": "訓練すれば私たちにもできる！ つい2年くらい前までのAI生成画像は、変なところから指が生えていたり、笑っちゃうほどおかしなところがあったりして、すぐAI画像だってわかりました。けど、ここ1年くらいで、もう本物の写真だかAI生成の画像だかの判別がつかなくなってしまいました。 でもオーストラリア国立大学...",
+      "published": "2026-07-03T00:27:28Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e62f786750d5f3be71ef12bdc41c6bb8",
+      "title": "AI時代に哲学を学ぶ意味 28歳から大学院でスピノザを学んだ研究者 | 朝日新聞Thinkキャンパス",
+      "link": "https://www.asahi.com/thinkcampus/article-130559/",
+      "summary": "■話題・トレンド 「哲学は仕事にならない」「社会で直接役に立たない」――そうしたイメージがある一方で、生成AI（人工知能）の進化に伴い、テクノロジー企業や大企業に哲学者が関わる動きが世界的に広がっています。「その会社は何者か」を問い続ける「 …",
+      "published": "2026-07-02T10:34:02Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4728cc433fbcc8f12790f83e21165a66",
+      "title": "AIエージェント時代のターミナルマルチプレクサ「herdr」にtmuxから乗り換えた",
+      "link": "https://zenn.dev/studypocket/articles/herdr-ai-agent-multiplexer",
+      "summary": "はじめに スタディポケットで執行役員 CTO をしている@Tocyukiです。 自分は長らく tmux をターミナルマルチプレクサとして使ってきました。Zellij や WezTerm のマルチプレクサ機能など、乗り換え候補は何度か検討したものの、tmux を育ててきたので愛着心もあり、そもそも t...",
+      "published": "2026-07-02T12:14:43Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c37a9ba5512c50bfedd3ed8d8593248c",
+      "title": "データから考えるはてなブックマークの改善案",
+      "link": "https://anond.hatelabo.jp/20260702145439",
+      "summary": "anond:20260702143915 はてブの政治コメント欄、スター順にしてる限り一生まともにならない スターが多いコメントが上に来る。 一見すると民主的に見える。 でも政治、ジェンダー、表現規制、歴史認識、移民、戦争あたりになると、スターはかなりの割合で「参考になった」ではなく「よく言った！」...",
+      "published": "2026-07-02T05:54:54Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "496bdfec8cce40f727822ecb492ef42d",
+      "title": "世の中は左回りに設計したほうが快適かもしれない | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/individual_locomotor_bias/",
+      "summary": "「なんとなく」のつもりが、実は「みんなそうだった」とは！ 東京大学大学院工学系研究科とスペイン・ナバラ大学を中心とする研究チームが、人々はランダムに歩くと上から見て反時計回り（左回り）に動く傾向があることを発見しました。 その割合は全体の6割以上。しかも、明確な理由は不明だというのです。 この研究成...",
+      "published": "2026-07-02T14:17:33Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "485ae889e68dc6cd544a64f0d3333e10",
+      "title": "マグネット式「浮かせる歯磨きコップ」で洗面台のぬめりとお別れ！衛生的で便利 - ソレドコ",
+      "link": "https://soredoko.jp/entry/2026/07/03/103000",
+      "summary": "洗面所でなにかと場所を取る歯磨きコップ。直置きすると底がぬめったり、掃除のたびにどかしたりと地味にストレスですよね。そんな「コップ置き場問題」を解決してくれるのが、マグネットでコップを逆さに浮かせて収納できる「コップホルダー」。水切れがよく、洗面台もすっきり片づきます。 洗面台って、歯ブラシからス....",
+      "published": "2026-07-03T02:00:07Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dfdc21eacf67939a9e710904c57fea8",
+      "title": "夏の暑さを貯めておいて冬使うってできない？",
+      "link": "https://anond.hatelabo.jp/20260702071716",
+      "summary": "夏に融点25度の氷を大量に溶かしておいて、圧力容器にいれておいて溶けた状態でロックしておいて、冬に圧力を抜いて固めて温まるとかできないかな。逆でもいいよ。冬に融点10度くらいの氷を大量に固めておいて、圧力とかでロックしておいて、夏に開放したら燃料いらずで涼しくならない？相転移をロックしたりできないの...",
+      "published": "2026-07-01T22:18:50Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9a64cb3f27cfc4fe9c85acec6832d50",
+      "title": "トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 - Qiita",
+      "link": "https://qiita.com/ochtum/items/d442ed23d24245b789a0",
+      "summary": "＜📝本記事のターゲット層＞ GitHub Copilot ChatやAgent modeを業務で使い始めた方 MCPやAgent Skillsを導入している、または導入を検討している方 AGENTS.md や設計文書の置き場所に迷っている方 AI開発の速度・品質・コストを管理するテックリード AIに...",
+      "published": "2026-07-02T01:23:41Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1df516e81a86bfdf069b846732f31d2",
+      "title": "Core Ultra 7 270K Plus/5 250K Plusが最大50ドルの値上げ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2122119.html",
+      "summary": "",
+      "published": "2026-07-03T02:17:04Z",
+      "fetched_at": "2026-07-03T06:54:52.205181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-03T02:08:59.692221+00:00"
+  "updated_at": "2026-07-03T06:54:52.205181+00:00"
 }

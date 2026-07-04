@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "da2595991aa5b92afd9640866df65b4c",
-      "title": "Incident Report: CVE-2026-LGTM | Andrew Nesbitt",
-      "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Incident Report: CVE-2026-LGTM",
-      "published": "03 Jul 2026 08:55 +0000",
-      "fetched_at": "2026-07-03T10:27:38.203230+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "9504892ceca9edec2c8ffc9e9535a2ef",
       "title": "The Life and Times of Maxis, Part 1: SimEverything",
       "link": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
@@ -509,7 +499,77 @@
       "fetched_at": "2026-07-04T13:05:05.190611+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "a3d0136ba7092a7f9b4b1bd4af5466b4",
+      "title": "Astrophysicists Puzzle over Webb’s New Universe",
+      "link": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "summary": "Article URL: https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Sat, 04 Jul 2026 09:08:09 +0000",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdcb39b5f5b6a319cce3813bd2066591",
+      "title": "Software, from First Principles",
+      "link": "https://fazamhd.com/mental-models/software/",
+      "summary": "Article URL: https://fazamhd.com/mental-models/software/ Comments URL: https://news.ycombinator.com/item?id=48780224 Points: 102 # Comments: 17",
+      "published": "Fri, 03 Jul 2026 21:28:55 +0000",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce587a055cc6c257469442be82ed83e1",
+      "title": "無料で簡単にYouTubeなどから動画をダウンロードして保存できる「Parabolic」、ブラウザ拡張機能との連携もあり",
+      "link": "https://gigazine.net/news/20260704-parabolic/",
+      "summary": "Parabolicはyt-dlpのフロントエンドとして無料で公開されている動画ダウンローダーです。yt-dlpの機能を簡単に利用でき、またブラウザ拡張機能を使うこともできるとのことなので、実際に導入して使用感を確認してみました。 NickvisionApps/Parabolic: Download ...",
+      "published": "2026-07-04T03:21:49Z",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c91c2aeda669d5ab13acf24cbb5c6364",
+      "title": "AI の回答を増田に貼り付けるために「はてな記法」へ変換するプロンプト",
+      "link": "https://anond.hatelabo.jp/20260704095557",
+      "summary": "ふつうに指示すると、どうしてもAIは指示に反して(!)いつもの形式で出力してしまいがちだが、「三連バッククォート記号で囲んで」という指示がいちばん効いた。主に ChatGPT で検証したが、Gemini と Grok でも有効だった。 はてな匿名ダイアリーで使える、以下の記法とマークアップだけを必要...",
+      "published": "2026-07-04T00:56:16Z",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6cc2f11ac53285a7e7b596e0bc0a6a1",
+      "title": "最新のロボティクスと確率 | ドクセル",
+      "link": "https://www.docswell.com/s/ryuichiueda/K1QQRE-2026-06-24-101802?utm_source=twitter&utm_medium=social&utm_campaign=singlepage",
+      "summary": "誰だお前は？ • 上田隆一 • 千葉工業大学先進工学部未来ロボティクス学科教授 • 今までやり散らかしてやってきた主なこと • 2000年代にロボットサッカー競技（RoboCup） で遊んでいた • 「確率ロボティクス」の教科書を翻訳・執筆 • 「シェル芸」という言葉の考案 • 引きこもり執筆（右上...",
+      "published": "2026-07-02T22:00:24Z",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "387be0c359be7e5910af415c1cb4f825",
+      "title": "📦 CoplayDev / unity-mcp ⭐ 11,376 (+49) 🗒…",
+      "link": "https://github.com/CoplayDev/unity-mcp",
+      "summary": "📦 CoplayDev / unity-mcp ⭐ 11,376 (+49) 🗒 C# Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage asse...",
+      "published": "04 Jul 2026 14:16 +0000",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99cd79b88006bee131ad38d90ea1c6b3",
+      "title": "📦 crynta / terax-ai ⭐ 7,909 (+44) 🗒 Type…",
+      "link": "https://github.com/crynta/terax-ai",
+      "summary": "📦 crynta / terax-ai ⭐ 7,909 (+44) 🗒 TypeScript Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "published": "04 Jul 2026 13:16 +0000",
+      "fetched_at": "2026-07-04T14:59:13.429198+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-04T13:05:05.190611+00:00"
+  "updated_at": "2026-07-04T14:59:13.429198+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "78cfa82daed3585fa2667d9e01547bd4",
-      "title": "ぜんぜんわからない、俺たちは雰囲気でAI適用をやっている - 理系学生日記",
-      "link": "https://kiririmode.hatenablog.jp/entry/20260628/14945776032047400112",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ぜんぜんわからない、俺たちは雰囲気でAI適用をやっている",
-      "published": "04 Jul 2026 08:55 +0000",
-      "fetched_at": "2026-07-04T10:01:06.116970+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "741fdad893bca6f95522c326f33633c3",
       "title": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など － Publickey",
       "link": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
@@ -689,7 +679,87 @@
       "fetched_at": "2026-07-05T13:13:44.824081+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c223ea2bd46c694625487b26555560d6",
+      "title": "Cloud One Workload Securityのサポート終了に備えてVision One Endpoint Securityへ移行しよう（PAYG対応） | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/202606-c1ws-eol-payg-migration-01/",
+      "summary": "あらー最近追ってなかったけどC1WSも2027年12月31日でサポート終了なのね。移行先はVision One Endpoint Security(V1ES)",
+      "published": "05 Jul 2026 14:41 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1032b802b01ad23b36ad8ea1bcc225a6",
+      "title": "S3サーバーアクセスログの新機能、CloudWatch Logs配信とS3 Tables連携を試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/s3-server-access-logs-cloudwatch-logs-s3-tables/",
+      "summary": "S3 Tables連携、コスト周りがどうなるか気になるな。安価になる可能性もワンチャンある？",
+      "published": "05 Jul 2026 14:40 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ecc04dbd149620140975cf3a98f30a1",
+      "title": "CLI向けブラックボックス E2E テストランナー nao1215/atago を作った話 | Debimate",
+      "link": "https://debimate.jp/post/ja/2026-07-04-cli%E3%81%AB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%83%86%E3%82%B9%E3%83%88e2e%E3%82%92%E8%A1%8C%E3%81%86atago%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E8%A9%B1/",
+      "summary": "わいわい",
+      "published": "05 Jul 2026 14:34 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48e21aa794f45d42c4d95f541f9f0128",
+      "title": "kubernetes上で動作するjob queue実装。Netflixのblog…",
+      "link": "https://github.com/kubernetes-sigs/kueue",
+      "summary": "kubernetes上で動作するjob queue実装。Netflixのblogで紹介されてた",
+      "published": "05 Jul 2026 14:16 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47178da740c143962372f51a508a4ade",
+      "title": "ブラウザからアクセス可能な踏み台サーバを用意できるオープンソース実装。SSH、R…",
+      "link": "https://github.com/jumpserver/jumpserver",
+      "summary": "ブラウザからアクセス可能な踏み台サーバを用意できるオープンソース実装。SSH、RDP、DB接続用UIなどを備える。OIDC, OAuth2, SAMLなどを経由したSSOも実現可。踏み台サーバはLinuxであればok。知らなかったけど良さげだ。",
+      "published": "05 Jul 2026 13:57 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43599b386f6ed44c5b3b335d8b044f94",
+      "title": "そうだ、時計作ろう - 重力に縋るな",
+      "link": "https://sksat.hatenablog.com/entry/pico-gnssdo",
+      "summary": "みなさん時間測ってますか？ 僕はパスタ茹でる時とかに測ります。 また、時間の間隔だけでなく、正確な時刻を知ったり、正確な時刻に合わせて何かアクションをしたい時があります。 たとえば JST 2026年06月21日22時23分24秒きっかりに数十 ns の精度でパスタを茹で始めたい時などがあると思いま...",
+      "published": "2026-07-05T07:19:40Z",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "60068df5244a7b22350c611a079f2e59",
+      "title": "AIがコードを書く時代、人間はAIにできないことをしよう",
+      "link": "https://ho.lc/slides/2026.07.03_kyoto_univ/1/",
+      "summary": "京都大学 工学部情報学科 講義「情報と職業」 / 2026-07-03",
+      "published": "2026-07-03T09:58:50Z",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "256fb47aaf18f5908cdd1474f8e0a7c3",
+      "title": "📦 OthmanAdi / planning-with-files ⭐ 24,5…",
+      "link": "https://github.com/OthmanAdi/planning-with-files",
+      "summary": "📦 OthmanAdi / planning-with-files ⭐ 24,544 (+61) 🗒 Python Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-pr...",
+      "published": "05 Jul 2026 13:16 +0000",
+      "fetched_at": "2026-07-05T15:06:53.324915+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-05T13:13:44.824081+00:00"
+  "updated_at": "2026-07-05T15:06:53.324915+00:00"
 }

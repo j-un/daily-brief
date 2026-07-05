@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "128d95a67a92e30af4a067a4737005fb",
-      "title": "Actions steps can now be run in parallel - GitHub Changelog",
-      "link": "https://github.blog/changelog/2026-06-25-actions-steps-can-now-be-run-in-parallel/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Actions steps can now be run in parallel",
-      "published": "04 Jul 2026 03:55 +0000",
-      "fetched_at": "2026-07-04T06:40:44.743537+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "329af03cdc116831b886a7da25b002a6",
-      "title": "作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
-      "link": "https://blog.lai.so/pi-coding-agent/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 作って使うAIエージェント —— Pi Coding Agentで足りない機能を自作しよう",
-      "published": "04 Jul 2026 02:55 +0000",
-      "fetched_at": "2026-07-04T06:40:44.743537+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "78cfa82daed3585fa2667d9e01547bd4",
       "title": "ぜんぜんわからない、俺たちは雰囲気でAI適用をやっている - 理系学生日記",
       "link": "https://kiririmode.hatenablog.jp/entry/20260628/14945776032047400112",
@@ -419,7 +399,297 @@
       "fetched_at": "2026-07-05T10:04:30.020088+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "6494bddc380033ed6f22258e7c8c5798",
+      "title": "あなたのパスワードポリシー、まだ8文字＋定期変更ですか？ NIST 800-63-4 の新常識2025",
+      "link": "https://zenn.dev/microsoft/articles/password-new-standard-2025",
+      "summary": "パスワードを単独の要素として使うなら最低15文字、多要素認証と組み合わせるなら最低8文字。まぁ多要素認証と組み合わせるとしてもパスワードマネージャに記録する前提で15文字以上でいいでしょう。",
+      "published": "05 Jul 2026 13:11 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7774d5cea5c9c7a4875c830af893ad87",
+      "title": "共有インフラ事故の「最初の 30 分」の備えを診断するCLIツール。Python…",
+      "link": "https://github.com/suwa-sh/shared-infra-incident-readiness",
+      "summary": "共有インフラ事故の「最初の 30 分」の備えを診断するCLIツール。Python実装",
+      "published": "05 Jul 2026 13:04 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04970903815352faf2b95a5ea8a6a8e7",
+      "title": "共有インフラ事故の初動を診断するCLI siir の構造と設計判断",
+      "link": "https://zenn.dev/suwash/articles/shared-infra-incident-readiness_20260701",
+      "summary": "事案分析から抽出したフレームワーク + 診断 CLI siir(shared-infra-incident-readiness)ほう",
+      "published": "05 Jul 2026 13:02 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "032de53126c905d0389d9a5069a13f31",
+      "title": "DBに向けるだけでREST APIと管理UIが生える単一バイナリのGoツール「adms」を作った",
+      "link": "https://zenn.dev/mickamy/articles/cfabd370bcefbe",
+      "summary": "良さそう。わいわい",
+      "published": "05 Jul 2026 12:57 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "14ecb94c6a3d2fcc9318f213104f25db",
+      "title": "プレゼンツールPeithoをつくっている - Gosuke Miyashita",
+      "link": "https://mizzy.org/blog/2026/07/03/1/",
+      "summary": "発表者ツールとしてのタイマー機能なども含めて良い感じだ。わいわい。",
+      "published": "05 Jul 2026 12:56 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07b9d33cf791f71c036ba174afd7a2d9",
+      "title": "Ubuntu 26.10（Stonking）の開発; ntpd-rsの導入計画 | gihyo.jp",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202607/03",
+      "summary": "27.04でntpd-rsがデフォルトになることを目指す、と。",
+      "published": "05 Jul 2026 12:36 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c8e17e09d34f44f73954f0b21873d7d",
+      "title": "Rustで実装されたntpd。プロトコルとしてはNTPとNTSに対応する模様。U…",
+      "link": "https://github.com/pendulum-project/ntpd-rs",
+      "summary": "Rustで実装されたntpd。プロトコルとしてはNTPとNTSに対応する模様。Ubuntuが採用する予定らしい。",
+      "published": "05 Jul 2026 12:36 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb68af0b1e7e6b7d5627b1a4cfeb90ba",
+      "title": "AWS Graviton5 プロセッサを搭載した Amazon EC2 の C9g インスタンスと C9gd インスタンスが利用可能に | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-ec2-c9g-and-c9gd-instances-powered-by-aws-graviton5-processors-are-now-available/",
+      "summary": "M8g→M9gと同様に、C8g→C9gも9%値上げっぽいな。",
+      "published": "05 Jul 2026 12:32 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1127f746fc584c9d73be34c4e360938",
+      "title": "AWS Certificate Manager の ACME サポートを使用してパブリック TLS 証明書の発行を自動化 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/automate-public-tls-certificate-issuance-with-acme-support-in-aws-certificate-manager/",
+      "summary": "AWS Certificate ManagerがACMEサポート！これはきましたね。ちなみにLet's Encrypt以外の各商用認証局も最近は期間短縮に伴う自動更新を見越してACMEサポートを打ち出しているので自動化進めていきましょう。",
+      "published": "05 Jul 2026 12:30 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0208971b25efd36c3a61f3a33e6523c8",
+      "title": "完全なライフサイクル制御による分離されたサンドボックスの実行: AWS Lambda が MicroVM を導入 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms-2/",
+      "summary": "Lambda MicroVMsのAWS公式ブログきてた。いかに無駄なくサスペンドできるかが肝かなと思いました。",
+      "published": "05 Jul 2026 12:21 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36a7580cf73c6a96dc7f2e5b39515822",
+      "title": "【ベータ開始】AWS 認定を最新の状態に保つ新しい方法 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/",
+      "summary": "「2026年6月23日より、今までのように認定試験を再受験する代わりに、AWS Skill Builder 上の厳選されたトレーニングとハンズオンラボを完了することで、AWS 認定を 1 年間延長して維持できるようになりました」皆様。",
+      "published": "05 Jul 2026 12:00 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5845413e421c68d5ab1a7206f8daebe9",
+      "title": "kubectlの--watchオプションやwatchコマンド相当をもっとわかりや…",
+      "link": "https://github.com/applejag/kubectl-klock",
+      "summary": "kubectlの--watchオプションやwatchコマンド相当をもっとわかりやすくしたkubectl用プラグイン。kubectlコマンドを使って状態をリアルタイムに目視確認する用途で便利そう。",
+      "published": "05 Jul 2026 11:53 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e923337241032f53851f6547e4db2c59",
+      "title": "CVEの各種データを収集、バイナリをスキャンしたりSBOMやパッケージをチェック…",
+      "link": "https://github.com/ossf/cve-bin-tool",
+      "summary": "CVEの各種データを収集、バイナリをスキャンしたりSBOMやパッケージをチェックしてトリアージを行いレポートを生成するまでを支援するツール。元はIntelで開発されたツールらしい。",
+      "published": "05 Jul 2026 11:50 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c7fce292cd508c113546098622462dd",
+      "title": "現場で役立つ マルチエージェントAI設計入門 Google A2A×ADKで実現する堅牢な運用システム（為藤 アキラ）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798194981",
+      "summary": "2026年8月20日発売。",
+      "published": "05 Jul 2026 11:39 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1147c915c94dd7f206e5ff60fae40df2",
+      "title": "セキュリティインシデント体験ツールZANSINはこちら。descriptionつ…",
+      "link": "https://github.com/ZANSIN-sec/ZANSIN",
+      "summary": "セキュリティインシデント体験ツールZANSINはこちら。descriptionつけたほうがいいっすよ。",
+      "published": "05 Jul 2026 11:31 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "000bfed9628f9b1f3386330da68dbf1f",
+      "title": "セキュリティインシデント体験ツール「ZANSIN」の構築方法と使ってみた感想 - NTT WEST Engineers' Blog",
+      "link": "https://engineers.ntt-west.co.jp/entry/2026/06/17/093000",
+      "summary": "MINI Hardeningのコミュニティメンバーにより開発された、サイバー攻撃を想定したインシデント・レスポンスを体験するためのトレーニングツール。githubにアップされてる。",
+      "published": "05 Jul 2026 11:30 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12dc50f3c44818564ab325aa3f643166",
+      "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+      "summary": "OSSで構成されたAIエージェントがあることを考えれば、Name Serviceの意味をあまり見出せないんだが、うーん。自分がよくわかってないだけだろうか。",
+      "published": "05 Jul 2026 11:22 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04ba30d771d5cc182ae618123c7dee87",
+      "title": "ClamAV® blog: ClamAV 1.5.3 and 1.4.5 security patch versions published",
+      "link": "https://blog.clamav.net/2026/07/clamav-153-and-145-security-patch.html",
+      "summary": "ClamAV、脆弱性対応の新バージョンでてます。",
+      "published": "05 Jul 2026 11:10 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e994fd77a7b0ca9ef7456c6c3e162a55",
+      "title": "［改訂新版］オブジェクト指向UIデザイン | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15716-6",
+      "summary": "2026年7月23日発売",
+      "published": "05 Jul 2026 11:07 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45d7c0301b3a76904e488d9ee77a0d97",
+      "title": "ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
+      "link": "https://isucon.net/archives/59917350.html",
+      "summary": "きたか",
+      "published": "05 Jul 2026 11:06 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eccba1a0269568c49c1d84e3b17b5b8",
+      "title": "gitのGUIクライアント。Linux, Windows, macOSに対応。R…",
+      "link": "https://github.com/Auto-Explore/GitComet",
+      "summary": "gitのGUIクライアント。Linux, Windows, macOSに対応。Rust実装。macOSはhomebrew公式に取り込まれてたのでbrew install --cask gitcometでインストール可",
+      "published": "05 Jul 2026 10:56 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f34dadfa2e734742f74289ffb5f9171",
+      "title": "デバイス間でクリップボードを共有できるアプリ。Linux, macOS, Win…",
+      "link": "https://github.com/UniClipboard/UniClipboard",
+      "summary": "デバイス間でクリップボードを共有できるアプリ。Linux, macOS, Windowsで利用可。AndroidとiOSも参加可能な模様。LANのみならずインターネットを跨いでも共有可。CLIアプリもあり。Rust実装",
+      "published": "05 Jul 2026 10:53 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "85aa8c2351b23d09aa0efaec290c9828",
+      "title": "WebベースのValkey管理ツール。クラスタ構成にも対応。…",
+      "link": "https://github.com/valkey-io/valkey-admin",
+      "summary": "WebベースのValkey管理ツール。クラスタ構成にも対応。",
+      "published": "05 Jul 2026 10:27 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dcf721fb25d7e593e40e64879174115",
+      "title": "Redmine 7.0.0 is now available - Redmine",
+      "link": "https://www.redmine.org/news/161",
+      "summary": "メジャーバージョンアップだ。これにともない5.1系はEOLとなっております。少なくとも6.0系以上にアップデートしましょう。",
+      "published": "05 Jul 2026 10:19 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1be933dc0652a568e9143948b68cbf75",
+      "title": "その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す",
+      "link": "https://recruit.group.gmo/engineer/jisedai/blog/evidence-first-rag-grounding/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 その RAG、社内規程に「忠実」に答えていますか？ ― 回答を遅くする後追い検証に頼らず、構造で正す",
+      "published": "05 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdce75bf6dcfca508824533b4f2c4410",
+      "title": "Europe's new climate in seven charts",
+      "link": "https://www.bbc.com/news/articles/c8e2j0j87reo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c8e2j0j87reo Comments URL: https://news.ycombinator.com/item?id=48792790 Points: 115 # Comments: 161",
+      "published": "Sun, 05 Jul 2026 09:56:10 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aaf5e680051a552e00555911ac51d4e9",
+      "title": "Programmers need to start meditating",
+      "link": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+      "summary": "Article URL: https://jacob.gold/posts/programmers-need-to-start-meditating-now/ Comments URL: https://news.ycombinator.com/item?id=48792080 Points: 10...",
+      "published": "Sun, 05 Jul 2026 07:39:35 +0000",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f69acb09a385568ea94b1c0fe970695c",
+      "title": "システム思考の実践例だった「エンジニアリング戦略の作り方」を読んだ - 勘と経験と読経",
+      "link": "https://agnozingdays.hatenablog.com/entry/2026/07/05/170000",
+      "summary": "読むのがホネな技術書やビジネス書を取り上げて2週間の読書期限を課して読んでアウトプットする仮想読書会「デッドライン読書会」の第91回。同僚と読書期限を約束することによって積読が確実に減るという仕組み。過去記事はこちら。 今回とりあげるのは「エンジニアリング戦略の作り方 ―エンジニアリングの難局を打破...",
+      "published": "2026-07-05T09:49:47Z",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "474aa50c4ea3968bd2786c98684b1d82",
+      "title": "ClaudeのAPI費用が激減。システムプロンプトを「画像」として読ませる新ツールの仕組み | XenoSpectrum",
+      "link": "https://xenospectrum.com/pxpipe-claude-token-image-compression/",
+      "summary": "この記事のポイント 何が起きた: Claude Codeの入力コンテキストをPNG画像に変換し、トークン費用を約6割削減するローカルプロキシ「pxpipe」が登場した。なぜ重要か: テキストの従量課金に対し、画像はピクセルサイズに基づく固定課金というAIモデルの料金体系のギャップを突き、新たなコスト...",
+      "published": "2026-07-05T10:24:29Z",
+      "fetched_at": "2026-07-05T13:13:44.824081+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-05T10:04:30.020088+00:00"
+  "updated_at": "2026-07-05T13:13:44.824081+00:00"
 }

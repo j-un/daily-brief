@@ -759,7 +759,247 @@
       "fetched_at": "2026-07-05T15:06:53.324915+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "34e42540ee177316bbd2ee692d929113",
+      "title": "Codexが年640TBをSSDに書いていた、原因のTRACEログを追う",
+      "link": "https://zenn.dev/okssusucha/articles/20260701-openai-codex-sqlite-trace-log-ssd-wear",
+      "summary": "おそろしや。codexはバージョン0.142.0以降を使いましょう。",
+      "published": "05 Jul 2026 16:45 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26b9ede3469404ac08f4a891517f588d",
+      "title": "Python向けリトライ実装用ライブラリ。backoffってライブラリが有名だっ…",
+      "link": "https://github.com/Llucs/backon",
+      "summary": "Python向けリトライ実装用ライブラリ。backoffってライブラリが有名だったがarchiveされてしまったのでoff→onでbackonらしい。",
+      "published": "05 Jul 2026 16:43 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b19e9350a44eccaf8594d158d2de071",
+      "title": "セルフホストを支援するために設計された新しいトップレベルドメイン「.self」、1名につき1つの無料ドメイン - GIGAZINE",
+      "link": "https://gigazine.net/news/20260702-self-tld/",
+      "summary": "わいわい。今後の展開に期待",
+      "published": "05 Jul 2026 16:41 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e943438c35b769b7a2b88df363e5db8",
+      "title": "Winamp Skin Museum",
+      "link": "https://skins.webamp.org/",
+      "summary": "Winampのスキン集だ。クリックすると実際に操作できるし自前のmp3ファイルを食わせることも可能。おっさんほいほい",
+      "published": "05 Jul 2026 16:39 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "149c5c790af851a62a236c150e66a194",
+      "title": "Claude Codeにポモドーロタイマーを組み込むカスタムスラッシュコマンド。…",
+      "link": "https://github.com/emson/claudoro",
+      "summary": "Claude Codeにポモドーロタイマーを組み込むカスタムスラッシュコマンド。ポモドーロテクニックとAIの相性は良さそう？",
+      "published": "05 Jul 2026 16:38 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed8a93c0b3500b13ad54f2fce96aa394",
+      "title": "SQLでレイトレーシング。何を言っているんだ。…",
+      "link": "https://github.com/ClickHouse/RayTracer",
+      "summary": "SQLでレイトレーシング。何を言っているんだ。",
+      "published": "05 Jul 2026 16:31 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b9570df12345b159ba0a108bc9eae29",
+      "title": "「Herdr」を使い始めたら、もう他のターミナルには戻れなくなった",
+      "link": "https://zenn.dev/dragon1208/articles/45708cc45a7a7c",
+      "summary": "Herdr、ちょっと使ってはみたものの、prefix+qで終了してもserverが残ってしまうところが自分にとってはストレスで早々に諦めてしまった。",
+      "published": "05 Jul 2026 16:27 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94fe7d8a11c44c5b0ed917b68640cf89",
+      "title": "ブラウザで動作するKubernetesシミュレータ。実際にpodなどを配置できる…",
+      "link": "https://github.com/ngrok/webernetes",
+      "summary": "ブラウザで動作するKubernetesシミュレータ。実際にpodなどを配置できるわけではなく、kubernetes内における各kindの関係性を理解するための学習用かな。",
+      "published": "05 Jul 2026 16:18 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f60d0ba0f14f72ea16445b81c757eb12",
+      "title": "I build a 10 inch mini rack from aluminium extrusions",
+      "link": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+      "summary": "10インチミニラック。かわいい。一般のご家庭用にいかが。",
+      "published": "05 Jul 2026 16:16 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6930ba1c0584b05186c1f07b834d7c6",
+      "title": "Eurosky Portal",
+      "link": "https://eurosky.social/",
+      "summary": "Euroskyはこちらから。",
+      "published": "05 Jul 2026 16:14 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e05913d3732b0d55eb7a9512d082eb1c",
+      "title": "Waag | Why we moved our Bluesky data to Eurosky",
+      "link": "https://waag.org/en/article/why-we-moved-our-bluesky-data-eurosky/",
+      "summary": "Euroskyって初めて知った。欧州の非営利団体が運営するPDS(Personal Data Server)。Blueskyからの移行もできるし新規サインアップも可能。",
+      "published": "05 Jul 2026 16:13 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9a64cb3f27cfc4fe9c85acec6832d50",
+      "title": "トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 #生成AI - Qiita",
+      "link": "https://qiita.com/ochtum/items/d442ed23d24245b789a0",
+      "summary": "メモ",
+      "published": "05 Jul 2026 16:10 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c210c0795b9b565b81dd6466e45baa67",
+      "title": "Organic Maps",
+      "link": "https://organicmaps.app/",
+      "summary": "Article URL: https://organicmaps.app/ Comments URL: https://news.ycombinator.com/item?id=48794446 Points: 292 # Comments: 73",
+      "published": "Sun, 05 Jul 2026 14:14:30 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ceb573339ad3390c7d08671ea2ab0b4d",
+      "title": "Phosh 0.56.0",
+      "link": "https://phosh.mobi/releases/rel-0.56.0/",
+      "summary": "Article URL: https://phosh.mobi/releases/rel-0.56.0/ Comments URL: https://news.ycombinator.com/item?id=48794179 Points: 121 # Comments: 41",
+      "published": "Sun, 05 Jul 2026 13:28:11 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b9043b6e2bc140e6638acfa9b89e255",
+      "title": "Cannabis users face substantially higher risk of heart attack (2025)",
+      "link": "https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk",
+      "summary": "Article URL: https://www.acc.org/about-acc/press-releases/2025/03/17/15/35/cannabis-users-face-substantially-higher-risk Comments URL: https://news.yc...",
+      "published": "Sun, 05 Jul 2026 11:59:27 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c0c7f885fbb68a75aa87e83d6d10e16",
+      "title": "Introduction to Compilers and Language Design",
+      "link": "https://dthain.github.io/books/compiler/",
+      "summary": "Article URL: https://dthain.github.io/books/compiler/ Comments URL: https://news.ycombinator.com/item?id=48793454 Points: 156 # Comments: 21",
+      "published": "Sun, 05 Jul 2026 11:54:16 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cac9d0247383fa1c37dd15d9e24efc55",
+      "title": "EU Council forces Chat Control via fast-track",
+      "link": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html Comments URL: https://news.y...",
+      "published": "Sun, 05 Jul 2026 11:44:04 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6371e36537e6d4350c526d4440f64186",
+      "title": "Claude Design System Prompt",
+      "link": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "summary": "Article URL: https://github.com/Trystan-SA/claude-design-system-prompt Comments URL: https://news.ycombinator.com/item?id=48792399 Points: 104 # Comme...",
+      "published": "Sun, 05 Jul 2026 08:43:37 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77fa9ba3de8f2de0b98412071e1cd8d8",
+      "title": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上..",
+      "link": "https://anond.hatelabo.jp/20260705205433",
+      "summary": "たくさんのリクエスト、本当にありがとうございます。 想像していた以上に「あの人を見てみたい」「自分も載せてほしい」という声をいただいており、大変ありがたい一方で、掲載が追いついていません。 現在、順番待ちのリクエストが500件を超えています。 「まだ？」と思われている方、お待たせして申し訳ありません...",
+      "published": "2026-07-05T11:55:48Z",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6815ae7793b445fdc4c85562ce30e51",
+      "title": "2026年6月のwhywaitaのAI現在地",
+      "link": "https://blog.whywrite.it/2026/07/05/whywaita-ai-2026-06/",
+      "summary": "2026年6月のwhywaitaのAI現在地 2026/07/05 / whywaita / 0 Comments 2026年6月時点のAIの現在地をメモしておく。目まぐるしく状況が変わるので定期的にメモしたいのだが、AIでやりたいことが多すぎてメモに時間が割けない。業務と個人の話が混ざっているので...",
+      "published": "2026-07-05T11:40:25Z",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5494476f9c6a821c6afc4154c1ea6adb",
+      "title": "コードレビュー指摘300件を3ヶ月分類したら効いていたのは2種類だけだった",
+      "link": "https://zenn.dev/kenimo49/articles/code-review-300-comments-2-effective-categories",
+      "summary": "Bug指摘の欠陥相関0.51は、Style指摘の0.04の約13倍。同じ「1件のレビューコメント」でも、効きめが1桁違う。 「nit:が多いレビューほどコードが歪む」という逆説 集計の途中で、不気味な相関に気づいた。nit: (Style系) が多いPRほど、3ヶ月後の欠陥相関がむしろ高い。Styl...",
+      "published": "2026-07-05T01:01:02Z",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b495722cbfa41c46befdf4fb527148f8",
+      "title": "高品質な組込みソフトウェア開発（ESxR Series） | アーカイブ | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/archive/digital/iot-en-ci/emb.html",
+      "summary": "【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ C言語を用いて開発されるソフトウェアのソースコードの品質をより良いものとするために、コーディングの際に注意すべきことやノウハウを紹介しています。 （書籍ページ_ESCR C Ver.3.0／PDF／対応表／ESCRトレーナー養...",
+      "published": "2021-07-13T02:54:20Z",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3adc6d8ee1bf4d3afbf5c05a3550443",
+      "title": "GitHub - HUANGCHIHHUNGLeo/claude-real-video: Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "Let Claude — or any LLM — actually watch a video. Same 58-second clip: fixed 1 fps sampling = 58 frames. crv keeps the 26 that actually differ — and -...",
+      "published": "2026-07-03T04:26:04Z",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec2b5bfa19731be203acb1a47127b971",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 hesreal…",
+      "link": "https://github.com/hesreallyhim/awesome-claude-code",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 hesreallyhim / awesome-claude-code ⭐ 48,113 (+133) 🗒 Python A hand-picked collection of the finest of resources for t...",
+      "published": "05 Jul 2026 15:16 +0000",
+      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-05T15:06:53.324915+00:00"
+  "updated_at": "2026-07-05T16:58:40.528203+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b9a64cb3f27cfc4fe9c85acec6832d50",
-      "title": "トークンをケチるな、設計しろ：GitHub Copilotを賢く使うコンテキスト戦略 #生成AI - Qiita",
-      "link": "https://qiita.com/ochtum/items/d442ed23d24245b789a0",
-      "summary": "メモ",
-      "published": "05 Jul 2026 16:10 +0000",
-      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a3adc6d8ee1bf4d3afbf5c05a3550443",
-      "title": "GitHub - HUANGCHIHHUNGLeo/claude-real-video: Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-      "link": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "summary": "Let Claude — or any LLM — actually watch a video. Same 58-second clip: fixed 1 fps sampling = 58 frames. crv keeps the 26 that actually differ — and -...",
-      "published": "2026-07-03T04:26:04Z",
-      "fetched_at": "2026-07-05T16:58:40.528203+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "f9b51a9d6ac3b09def65ed816b376288",
       "title": "Reparaible and open source paper printer",
       "link": "https://www.opentools.studio/",
@@ -1349,7 +1329,67 @@
       "fetched_at": "2026-07-06T19:44:36.725391+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "599ff36d183ca58508a377d39c947e88",
+      "title": "CoMaps – FOSS Offline Maps",
+      "link": "https://www.comaps.app/",
+      "summary": "Article URL: https://www.comaps.app/ Comments URL: https://news.ycombinator.com/item?id=48808928 Points: 117 # Comments: 19",
+      "published": "Mon, 06 Jul 2026 18:55:07 +0000",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3d61d22b8fce615e055ff46eda77c0d",
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "summary": "Article URL: https://www.anthropic.com/research/global-workspace Comments URL: https://news.ycombinator.com/item?id=48808002 Points: 143 # Comments: 4...",
+      "published": "Mon, 06 Jul 2026 17:44:08 +0000",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7c2167854fe901b442ce13c46469191",
+      "title": "Union Busters Coming After Me",
+      "link": "https://www.nlrbedge.com/p/union-busters-coming-after-me",
+      "summary": "Article URL: https://www.nlrbedge.com/p/union-busters-coming-after-me Comments URL: https://news.ycombinator.com/item?id=48806560 Points: 116 # Commen...",
+      "published": "Mon, 06 Jul 2026 16:03:43 +0000",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "837674107f6cbc4d6133630e0d17febb",
+      "title": "Kani: A Model Checker for Rust",
+      "link": "https://arxiv.org/abs/2607.01504",
+      "summary": "Article URL: https://arxiv.org/abs/2607.01504 Comments URL: https://news.ycombinator.com/item?id=48806410 Points: 103 # Comments: 5",
+      "published": "Mon, 06 Jul 2026 15:53:24 +0000",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2c262afb090dea33a8466b194697862",
+      "title": "AIが「安全」判定キノコに猛毒 食べた少年が一時危篤、中国湖北省：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV762TYLV76UHBI019M.html",
+      "summary": "中国湖北省武漢市で6月、野生のキノコを食べた9歳の少年が、一時は生死の境をさまよう出来事があった。AI（人工知能）で「安全」と判断されたが、猛毒の成分を持つキノコだったという。中国共産党系の地元紙「…",
+      "published": "2026-07-06T15:40:18Z",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4882ca1001578a2fcb0b1b0609886347",
+      "title": "KDDI、761万人分のパスワード漏洩を確認 企業向けメール基盤に攻撃 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC065ZL0W6A700C2000000/",
+      "summary": "KDDIは6日、企業向けに提供するメールシステムへの不正アクセスで個人情報が流出した事案を巡り、1223万人分のメールアドレスの漏洩を確認したと発表した。このうち761万人分のパスワードが漏洩したことも確認したという。現時点で2次被害は確認されていないという。KDDIは同日、総務省に報告書を提出した...",
+      "published": "2026-07-06T07:51:07Z",
+      "fetched_at": "2026-07-06T21:22:10.388776+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-06T19:44:36.725391+00:00"
+  "updated_at": "2026-07-06T21:22:10.388776+00:00"
 }

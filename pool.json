@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4a31bf3c2b4a29048af8414e1ce21910",
-      "title": "Python 3.15新機能：lazy imports（遅延インポート）の紹介 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/06/monthly-python-2606",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Python 3.15新機能：lazy imports（遅延インポート）の紹介 | gihyo.jp",
-      "published": "05 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-05T07:17:58.566588+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "45d7c0301b3a76904e488d9ee77a0d97",
       "title": "ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
       "link": "https://isucon.net/archives/59917350.html",
@@ -679,7 +669,277 @@
       "fetched_at": "2026-07-06T08:12:47.346955+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "88b201a8eb2f40ea705de7e4d6f3ac68",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20260630-28a5eee688/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 決済プラットフォームに常駐する自律AIエージェントの設計と運用",
+      "published": "06 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e98ae13a836be41f3d0cf252a5432982",
+      "title": "SELECT FOR UPDATEのデッドロックを防ぐ2つの設計パターン - Yappli Tech Blog",
+      "link": "https://tech.yappli.io/entry/select-for-update-deadlock-patterns",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SELECT FOR UPDATEのデッドロックを防ぐ2つの設計パターン",
+      "published": "06 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dc1f1d165e88f43bd8dc28cdb0156ff",
+      "title": "Real-time map of Great Britain's rail network",
+      "link": "https://www.map.signalbox.io",
+      "summary": "Article URL: https://www.map.signalbox.io Comments URL: https://news.ycombinator.com/item?id=48802535 Points: 226 # Comments: 92",
+      "published": "Mon, 06 Jul 2026 09:38:36 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a021e810910191a8c6de5d0fb156270d",
+      "title": "When AI Costs More Than the Engineer",
+      "link": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "summary": "Article URL: https://tomtunguz.com/ai-spend-breakeven-2029/ Comments URL: https://news.ycombinator.com/item?id=48801493 Points: 112 # Comments: 101",
+      "published": "Mon, 06 Jul 2026 07:05:25 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdb75a5fc5fa264c5b588ceba78781cf",
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "link": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "summary": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support Comments URL: https://news.ycombinator.com/item?id=48799929 Poi...",
+      "published": "Mon, 06 Jul 2026 02:06:49 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd69a567f792f097a95e4fdc6c254e45",
+      "title": "The Private Capture of Public Genius",
+      "link": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+      "summary": "Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius Comments URL: https://news.ycombinator.com/item?id=48799178 Points: 142 # Com...",
+      "published": "Sun, 05 Jul 2026 23:52:20 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad21718c683ab4044dc68445dc65ec5f",
+      "title": "Composite Video on the NES: Why's it so wobbly?",
+      "link": "https://nicole.express/2026/phase-altering-by-line.html",
+      "summary": "Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments URL: https://news.ycombinator.com/item?id=48798247 Points: 102 # Comment...",
+      "published": "Sun, 05 Jul 2026 21:45:17 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b3d7fa84f85705ab0f6281357638db4",
+      "title": "週刊AWS – 2026/6/29週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260629/",
+      "summary": "Amazon S3 サーバーアクセスログが Amazon CloudWatch Logs と Amazon S3 Tables への配信に対応、AWS WAF が Amazon Bedrock AgentCore Gateway のサポートを追加、AWS のサービスおよび機能の提供状況変更のお知らせ...",
+      "published": "Mon, 06 Jul 2026 13:16:10 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfafd2d4207fc8cc9cae648232b1b165",
+      "title": "週刊生成AI with AWS – 2026年6月29日週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260629/",
+      "summary": "週刊生成AI with AWS, お客様事例が充実した 2026 年 6 月 29 日号 - プリモグローバルホールディングス様、株式会社ラクス様、ITbook 株式会社様、株式会社オーレックホールディングス様の国内事例ブログを紹介。また、Kiro の Agent Focus や GitLab 連携...",
+      "published": "Mon, 06 Jul 2026 09:28:56 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "110d91bc3239da2cfd9a04d6130bde87",
+      "title": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/",
+      "summary": "Starting today, AWS CodePipeline is now available in Asia Pacific (New Zealand) Region (ap-southeast-6). AWS CodePipeline is a continuous delivery ser...",
+      "published": "Mon, 06 Jul 2026 09:00:00 GMT",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d449e2851e0240a9b468577f13834fd1",
+      "title": "クレカ決済代行の全東信が破産、端末が使用不可に 負債は1259億円で今年最大──帝国データバンク",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news127.html",
+      "summary": "飲食店向けクレジットカード決済代行の全東信（大阪市中央区）は7月6日、大阪地裁に自己破産を申請し、同日破産手続き開始決定を受けた。負債は2025年3月期末時点で約1259億2900万円に上り、その後変動している可能性があるものの、今年最大の規模という。帝国データバンクが同日付で報じた。 全東信は06...",
+      "published": "2026-07-06T10:30:41Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33ff2b126bb7a62a3cd223da9ca7f640",
+      "title": "スマホゲーのKLab、防衛産業に参入 アラブで対ドローン防衛システム導入推進へ 提携先は「非開示」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news128.html",
+      "summary": "モバイルゲーム開発を手掛けるKLab（東京都港区）は7月6日、RF（無線周波数）技術を持つ海外の防衛企業と、アラブ首長国連邦（UAE）における対ドローン防衛システムの導入推進に向けた覚書を締結したと発表した。提携先の企業名や製品名などの詳細は、契約上の守秘義務と安全保障上の観点から非開示としている。...",
+      "published": "2026-07-06T11:10:09Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a8c0eb30e69887286c27563647c1a13",
+      "title": "令和8年度 応用情報技術者試験、高度試験及び情報処理安全確保支援士試験の申込受付期間及び試験実施期間について | 試験情報 | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/shiken/2026/ap_koudo_sc_kikan.html",
+      "summary": "トップページ 試験情報 令和8年度試験情報 令和8年度 応用情報技術者試験、高度試験及び情報処理安全確保支援士試験の申込受付期間及び試験実施期間について",
+      "published": "2026-07-06T08:38:02Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c68f5d12f5076b6c1a2ef28922279c5",
+      "title": "かつて成功したブログ100個のうち約半数はGoogleのAI導入などで検索トラフィックの85％以上を失った",
+      "link": "https://gigazine.net/news/20260706-great-blog-collapse-google-ai/",
+      "summary": "Googleは検索結果をAIがわかりやすくまとめる「AIによる概要」という機能を展開しており、これによりウェブサイトを開かなくても知りたい内容がわかるようになった反面、Google検索からウェブサイトへのトラフィックが大幅に減少したと指摘されています。そんな中、情報分析企業Monetize Bett...",
+      "published": "2026-07-06T08:52:28Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fb289c3d5775c7d68c2090fc9fe0393",
+      "title": "提供が再開された「Claude Fable 5」の使いこなし術を解説した書籍が無料公開／Anthropic公式ガイドの日本語図解『Claude Fable 5 プロンプトエンジニアリングガイド』【Book Watch/ニュース】",
+      "link": "https://forest.watch.impress.co.jp/docs/bookwatch/news/2122739.html",
+      "summary": "",
+      "published": "2026-07-06T08:41:26Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c1802e664a9476d3028c3cdb41590d0",
+      "title": "FDEを名乗る会社が増えた。うちのFDEは、たぶんそのどれとも違う - ROXX開発者ブログ",
+      "link": "https://techblog.roxx.co.jp/entry/2026/07/06/123901",
+      "summary": "ROXX CTOの松本です。今回は最近立ち上げたFDE事業の新しい取り組みに関して紹介させていただきます。 「うちの技術、外に売れるんじゃないか」——この話、あなたの会社の会議室でも一度は出たはずだ。そして多くの場合、「それって受託では」の一言で、ふわっと消える。 うちでも出た。ただ、消えなかった。...",
+      "published": "2026-07-06T08:14:48Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8a10143b84e474ac7dd74761a5ea6d3",
+      "title": "富裕層の中には「AIに子どもの教育を任せる人」もいる",
+      "link": "https://gigazine.net/news/20260706-rich-let-ai-teach-kids/",
+      "summary": "富裕層の中で「AIを活用した教育システム」を採用する学校に子どもを預ける保護者が増えていると、ウォール・ストリート・ジャーナルが報じています。 Wealthy Families Swap Traditional Classrooms for AI Tutors and ‘Alternative’ S...",
+      "published": "2026-07-06T10:14:53Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d3ba9b1755dff89355808ca981e928c",
+      "title": "中国のAIアプリから「人間っぽい相棒」が消える、ByteDanceとAlibabaが規制対応で機能停止へ",
+      "link": "https://gigazine.net/news/20260706-disable-custom-agents/",
+      "summary": "2026年7月15日から「人工知能擬人化インタラクションサービス管理暫定弁法」が施行されることを受け、中国の大手AIアプリであるByteDanceの「Doubao」とAlibabaの「Qwen」が人間のような性格や口調を持つカスタムAIエージェント機能を停止するとユーザーに通知しました。 ByteD...",
+      "published": "2026-07-06T06:25:13Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe7c0a8f652990cdd90d8d8ace2fb448",
+      "title": "XREAL、「AirPods Proと同じ重さ」のARグラス「xbx a01＋」。43980円",
+      "link": "https://av.watch.impress.co.jp/docs/news/2122734.html",
+      "summary": "",
+      "published": "2026-07-06T08:08:03Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db26a530322195da451c3f9a8e044386",
+      "title": "FDEとリコーの新コンサルサービス、どこが違う？ AXのパートナー選びを考察",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news054.html",
+      "summary": "企業はAIを中核に業務プロセスやビジネスモデルを変革するAX（AIトランスフォーメーション）を推進する際、どのようなベンダーをパートナーに選べばよいのか。AXパートナーの見付け方について、リコーの新たな取り組みにヒントがあると感じたので、今回はその内容を紹介して考察したい。 企業のAX支援に向けたリ...",
+      "published": "2026-07-06T02:02:52Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "96f715a959df0bbc872469117a8cd5e8",
+      "title": "会社で「選ばれし者」しかAIを使えない日が来るかもしれない",
+      "link": "https://zenn.dev/awesome_kou/articles/ai-access-chosen-few-2026",
+      "summary": "「非エンジニアには、もう生成AIを使わせられない」 最近、こんな話を耳にすることが増えました。 非エンジニアには、もう生成AIを使わせられない。 少し前まで、企業の合言葉は「とにかくAIを使え」でした。ところが2026年に入ってから、風向きが明らかに変わってきています。 「全社員にライセンスを配る」...",
+      "published": "2026-07-04T22:53:05Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fcba4426cba03d0441bc1d7a4e2c50a",
+      "title": "テスラ車の現オーナーが日本法人へ「喝！」 相次ぐ納車トラブルに募る国内体制への不安",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news080.html",
+      "summary": "テスラ車の現オーナーが日本法人へ「喝！」 相次ぐ納車トラブルに募る国内体制への不安：走るガジェットTeslaに乗ってます（1/2 ページ） 「iPhoneにタイヤをつけたようなクルマ」と表現される米Tesla。IT・ビジネス分野のライターである山崎潤一郎が、デジタルガジェットとして、そしてときには、...",
+      "published": "2026-07-06T06:05:35Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bc71fa297cf3175088451c501a83246",
+      "title": "人間が宇宙人と接触していないのは「宇宙人がAIを導入したから」ではないかという説",
+      "link": "https://gigazine.net/news/20260706-superintelligent-ai-explain-fermi-paradox/",
+      "summary": "フェルミのパラドックスとは、物理学者のエンリコ・フェルミが指摘した「宇宙には人類以外の知的生命体が存在する可能性が高いにもかかわらず、これまで人類と接触した宇宙人や地球外文明が存在しないという矛盾」のことです。この理由については「太陽系に訪れる価値がないから」「他の文明に滅ぼされるのを避けるため.....",
+      "published": "2026-07-06T03:20:41Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b4059edfe8a0df003405bde8ed6dae3",
+      "title": "ギガファイル便で障害 暫定ドメインで一部復旧",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/06/news132.html",
+      "summary": "ファイル転送サービス「ギガファイル便」で7月6日朝から発生している障害を巡り、運営はドメインを暫定的に「gigafile.jp」へ変更したと発表した。発行済みのURLもドメイン部分の書き換えでアクセスできるという。",
+      "published": "2026-07-06T12:06:03Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c62038267e1f1cd62f42ceedc2e123e3",
+      "title": "個人開発者がClaude Fableを使って「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しオープンソースで無料公開",
+      "link": "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
+      "summary": "開発者のammaarreshi氏が、ゲーム「Command ＆ Conquer Generals Zero Hour」をMac・iPhone・iPadに移植しました。ammaarreshi氏はAIを活用したと述べています。 GitHub - ammaarreshi/Generals-Mac-iOS-...",
+      "published": "2026-07-06T11:21:18Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef378616ade651a874f29f91846e7354",
+      "title": "テキストエディター「Mery」に「検索バー」プラグイン、正規表現・ローマ字・あいまい検索に対応／作者自ら手がけた公式プラグイン",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2122582.html",
+      "summary": "",
+      "published": "2026-07-06T08:45:40Z",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbb6c6e2ca5fde6f9007c7c08fb9c87f",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 bra…",
+      "link": "https://github.com/bradautomates/claude-video",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 bradautomates / claude-video ⭐ 3,796 (+368) 🗒 Python Give Claude the ability to watch any video. /watch downloads...",
+      "published": "06 Jul 2026 13:16 +0000",
+      "fetched_at": "2026-07-06T13:38:41.207702+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-06T08:12:47.346955+00:00"
+  "updated_at": "2026-07-06T13:38:41.207702+00:00"
 }

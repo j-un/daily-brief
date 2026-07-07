@@ -1,4 +1,25 @@
 {
-  "articles": [],
-  "updated_at": "2026-07-07T21:00:33.487214+00:00"
+  "articles": [
+    {
+      "entry_id": "e889a1b735a8bea551e92a9a60494097",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "link": "https://streetcomplete.app/",
+      "summary": "Article URL: https://streetcomplete.app/ Comments URL: https://news.ycombinator.com/item?id=48816883 Points: 595 # Comments: 135",
+      "published": "Tue, 07 Jul 2026 12:38:35 +0000",
+      "fetched_at": "2026-07-07T21:16:04.532379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94bb742d1c68dabf0920a35160eeaaca",
+      "title": "AWS introduces declarative controls for VPC Encryption Controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/vpc-encryption-controls-declarative-controls/",
+      "summary": "You can now use declarative policies to turn on VPC Encryption Controls in monitor or enforce mode across all VPCs in your environment. This enhanceme...",
+      "published": "Mon, 06 Jul 2026 18:19:00 GMT",
+      "fetched_at": "2026-07-07T21:16:04.532379+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-07-07T21:16:04.532379+00:00"
 }

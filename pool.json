@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f93d4da70eab5773d52d14c9836baf6e",
-      "title": "GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策 - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part2",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Actions 認証情報ごとのリスクから読み解く、権限昇格パターンとその対策",
-      "published": "06 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-06T08:12:47.346955+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "568d6fb28a79084bd61575712e41d258",
       "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
       "link": "https://findy-code.io/media/articles/event-harness-2604",
@@ -759,7 +749,207 @@
       "fetched_at": "2026-07-07T10:48:09.302664+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "994a2a7fcc50daf4dfb8d512a6a5d8d7",
+      "title": "98% Isn't Much",
+      "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+      "summary": "Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/ Comments URL: https://news.ycombinator.com/item?id=48816959 Points: 146 # Com...",
+      "published": "Tue, 07 Jul 2026 12:45:14 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd4ab026b95871efb638869bdc1b2a77",
+      "title": "Europe's company websites are mostly served by US vendors",
+      "link": "https://ciphercue.com/blog/european-web-hosting-vendor-share-2026",
+      "summary": "Article URL: https://ciphercue.com/blog/european-web-hosting-vendor-share-2026 Comments URL: https://news.ycombinator.com/item?id=48816612 Points: 101...",
+      "published": "Tue, 07 Jul 2026 12:08:25 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1efe3a97a34ebc8189b1221ec6bc0c3a",
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "link": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "summary": "Article URL: https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland Comments URL: https://news.ycombinator.c...",
+      "published": "Tue, 07 Jul 2026 10:47:33 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e25935846bea436d4d484030a6228b89",
+      "title": "Microsoft Can Track Users via a Windows Device ID",
+      "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
+      "summary": "Article URL: https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device Comments URL: https://news.ycombinator...",
+      "published": "Tue, 07 Jul 2026 08:54:03 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9e9ee291450b6025be836624ed93930",
+      "title": "OpenSSH 10.4/10.4p1 Released",
+      "link": "https://www.openssh.org/txt/release-10.4",
+      "summary": "Article URL: https://www.openssh.org/txt/release-10.4 Comments URL: https://news.ycombinator.com/item?id=48811373 Points: 100 # Comments: 17",
+      "published": "Mon, 06 Jul 2026 22:32:58 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76e6d2fd024166b4cb4bb1048e4005c8",
+      "title": "録れるイヤホンNothing Ear (3a)発売、単体で通話やメディアを保存 12mmドライバで低音向上、ノイキャンも強化",
+      "link": "https://www.techno-edge.net/article/2026/07/07/5267.html",
+      "summary": "Nothing がイヤホンの新製品 Nothing ear (3a) を発表しました。",
+      "published": "Tue, 07 Jul 2026 22:20:16 +0900",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5cac8f581a11265c7daf19464684b99",
+      "title": "コンカフェ勤務だけどおぢアタック凄い多くない？",
+      "link": "https://anond.hatelabo.jp/20260707183302",
+      "summary": "お父さんは元オタクで、私の名前が実は昔のアニメやゲームキャラの名前が由来と知って高校の頃、軽く幻滅したけど元ネタの作品と曲は綺麗だからさらに無性に複雑な気分になった程度にそういう環境で生まれ育って、 一緒に大学進学した友達から誘われて、割合時間のわりにバイト代がいいから始めて、そんなに経験年数はな....",
+      "published": "2026-07-07T09:38:18Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db1f2ea9b34105da1a64591323fe026a",
+      "title": "Windows 11で空き容量が0バイトになる恐れ 影響を確認して速やかに対策を",
+      "link": "https://news.mynavi.jp/techplus/article/20260707-4672951/",
+      "summary": "Windows Latestは7月6日(現地時間)、「Microsoft admits a Windows 11 bug is eating up to 500GB of storage, verify if you are affected」において、Windows 11がストレージを勝手に数百G...",
+      "published": "2026-07-07T09:24:03Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "953f77efd5da33685f2854dacd73a99b",
+      "title": "AIコーディング時代の生き抜き方",
+      "link": "https://zenn.dev/garasubo/articles/9b9548ebab5a67",
+      "summary": "生成AIを活用したコーディングはかなり広く使われるようになり、プログラマーは開発スタイルを大幅に変える必要があることは共通の認識になりつつある。一方で、今後どのようなアプローチで開発スタイルを変更していくかは議論の余地がありまだ明確な答えが出揃っていない段階に思える。 …という書き出しで以前個人サイ...",
+      "published": "2026-07-07T05:10:52Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec309e4d789518c8ab103d28353ec94b",
+      "title": "KDDIのISP事業者向けメールシステムへの不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/07/182112",
+      "summary": "2026年6月23日、KDDI株式会社は、同社がISP事業者向けに提供するメールシステムが不正アクセスを受け、STNet・JCOMなど6社のメールサービスに関する情報の一部が外部に漏えいした可能性があると公表しました。その後、総務省による報告徴収や、関連が疑われるフィッシングメールに関する注意喚起も...",
+      "published": "2026-07-07T09:26:43Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1601e2238731acf27197b6702797b04",
+      "title": "マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだった | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do-a/",
+      "summary": "マッキンゼーのグローバル・マネージング・パートナー、ボブ・スターンフェルズ氏は、AIにはできない3つの“人間的”スキルを特定した。FABRICE COFFRINI/AFP/Getty Imagesマッキンゼーでは、人間の従業員と並び、非常に多くのAIエージェントが働いている。グローバル・マネージング...",
+      "published": "2026-07-06T19:06:37Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1ca34fb2fe49a7cf40ddbd57ebfbbd4",
+      "title": "「AIはもう十分賢い」 活用のボトルネックは「モデル性能」から「評価」へ 米データ基盤開発企業のAI研究者に聞く",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000160/",
+      "summary": "今日のAIモデルはもう十分賢い――AI向けデータ基盤製品を提供する米DatabricksのチーフAIサイエンティスト、ジョナサン・フランクル氏はこう断言する。2023年にDatabricksに買収されたAI開発企業、米MosaicMLの共同創業者でもある同氏が見据えるAI活用ボトルネックは、モデルの...",
+      "published": "2026-07-06T08:12:02Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc063196add3e98dd2cd6621713fb97a",
+      "title": "AI Agentに自由な開発環境を渡す、Proxmox+LXCで。",
+      "link": "https://zenn.dev/uzulla/articles/91272997a7c668",
+      "summary": "こんにちは uzullaです。もはやAIエージェントに作業をさせることがお仕事みたいな時代になりましたね。 Agentに作業をさせるのだから「Enterをおすだけのかんたんなおしごと」は減らして、できるだけロングランしてほしい。 そうなると「エージェントが好き勝手できる」かどうかは重要なポイントです...",
+      "published": "2026-07-06T15:02:50Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "287a73fa06fec3e5f398661e061d4728",
+      "title": "国連事務総長がAI技術開発で世界に呼びかけ、「革新的な技術」を利用できない数十億の人々に提供する必要性を強調",
+      "link": "https://gigazine.net/news/20260707-un-chief-call-ai/",
+      "summary": "ジュネーブで開催された第1回Global Dialogue on AI Governance(国連AIガバナンスに関するグローバルな対話)において、国連事務総長のアントニオ・グテーレス氏がAIに関する演説を行いました。 From AI to ‘killer robots’: UN chief iss...",
+      "published": "2026-07-07T04:07:14Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51981447b3bf31e4573aea2330a79791",
+      "title": "テンセントがAIモデル「Hy3」をオープンモデルとして公開、295BでGLM-5.2やDeepSeek-V4に匹敵＆科学タスクではGPT-5.5を上回る",
+      "link": "https://gigazine.net/news/20260707-tencent-ai-hy3/",
+      "summary": "中国の大手テクノロジー企業であるTencent(テンセント)がAIモデル「Hy3」を2026年7月6日に公開しました。Hy3はGLM-5.2やDeepSeek-V4-Proといったオープンモデルと比べて小規模なモデルで、はるかに大規模なモデルと同等クラスの性能を発揮するとアピールされています。 In...",
+      "published": "2026-07-07T02:08:02Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08651f06b8ffd8b062c6d9af30335386",
+      "title": "謝って済むことを頑張って予防しない - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/option-to-not-improve",
+      "summary": "あなたは「再発防止の呪い」に掛かっていないだろうか。 この記事のまとめ 再発防止策にはコストが必ずかかる。タダの対策はない 仕事は投資活動だ。再発防止策も、コストとメリットを天秤にかけて判断しよう 「起きたとき何をどれだけ失うか」と「予防にどれだけ払うか」で測る。謝って済むことを、高いコストを払って...",
+      "published": "2026-07-07T00:35:00Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "393c27b821e25e7063f973b1f03f6e92",
+      "title": "パランティアCEOがOpenAIやAnthropicを批判 「AIモデルを強化するためのデータをなぜ顧客が渡すのか」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/06/2000000161/",
+      "summary": "米Palantirのアレックス・カープCEOは、米CNBCが7月1日（現地時間）に公開したインタビューで、米OpenAIのサム・アルトマンCEOや米Anthropicのダリオ・アモデイCEOの名前を挙げつつ、最先端のAIを提供する企業のビジネスモデルを批判した。「彼らが自らのアルファ（競争優位性）を...",
+      "published": "2026-07-06T11:07:43Z",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adc797b8b3939065c99a83c5fb4c2246",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 kyut…",
+      "link": "https://github.com/kyutai-labs/pocket-tts",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 kyutai-labs / pocket-tts ⭐ 5,711 (+510) 🗒 Python A TTS that fits in your CPU (and pocket)",
+      "published": "07 Jul 2026 12:16 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bcafbd281835590e196d05b057e4dbb",
+      "title": "Beatport’s new bosses are still betting on music downloads: “Streaming is complementary rather than cannibalistic”",
+      "link": "https://musictech.com/features/interviews/beatport-new-ceo-president-interview/?utm_source=rss&utm_medium=rss&utm_campaign=beatport-new-ceo-president-interview",
+      "summary": "Newly appointed CEO Matt Gralen and president Helen Sartory explain why downloads and data are driving Beatport forward, and what challenges a marketp...",
+      "published": "Tue, 07 Jul 2026 12:52:22 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "d0b45f7b6880eea1b2868a1e3717c267",
+      "title": "These Behringer synths are currently discounted at Thomann",
+      "link": "https://musictech.com/news/gear/these-behringer-synths-are-currently-discounted-at-thomann/?utm_source=rss&utm_medium=rss&utm_campaign=these-behringer-synths-are-currently-discounted-at-thomann",
+      "summary": "Don’t wait – these deals are only available until 14 July… The post These Behringer synths are currently discounted at Thomann appeared first on Music...",
+      "published": "Tue, 07 Jul 2026 11:09:22 +0000",
+      "fetched_at": "2026-07-07T14:11:00.278552+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-07T10:48:09.302664+00:00"
+  "updated_at": "2026-07-07T14:11:00.278552+00:00"
 }

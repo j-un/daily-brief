@@ -579,7 +579,187 @@
       "fetched_at": "2026-07-07T07:31:03.955049+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b73e95747526fd93cdfd88f0ebd87d3b",
+      "title": "NSA and IETF: Fairness",
+      "link": "https://blog.cr.yp.to/20260706-fairness.html",
+      "summary": "Article URL: https://blog.cr.yp.to/20260706-fairness.html Comments URL: https://news.ycombinator.com/item?id=48811887 Points: 114 # Comments: 91",
+      "published": "Mon, 06 Jul 2026 23:33:54 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6ac029ebfcddebd24ddd450284a9a7d",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "link": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "summary": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 104 # Comments: 25",
+      "published": "Mon, 06 Jul 2026 19:28:24 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "659d82f217fadf207fa96434ac5454c6",
+      "title": "Pros and Cons of Solo Development",
+      "link": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+      "summary": "Article URL: https://johnjeffers.com/pros-and-cons-of-solo-development/ Comments URL: https://news.ycombinator.com/item?id=48808508 Points: 102 # Comm...",
+      "published": "Mon, 06 Jul 2026 18:24:34 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0426808f0f854c5ae7b4fe93260a93b7",
+      "title": "Januscape: Guest-to-Host Escape in KVM/x86 [CVE-2026-53359]",
+      "link": "https://github.com/V4bel/Januscape",
+      "summary": "Article URL: https://github.com/V4bel/Januscape Comments URL: https://news.ycombinator.com/item?id=48807908 Points: 114 # Comments: 39",
+      "published": "Mon, 06 Jul 2026 17:35:03 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a4cb3a647130d1d9eba963524a18a4a",
+      "title": "満充電で物理的に外れるUSB-C充電アダプタ「満タンデタッチャブル」 待機電流の検出にも対応、USB-PD 140Wまで",
+      "link": "https://www.techno-edge.net/article/2026/07/07/5266.html",
+      "summary": "・満充電を検知すると内部モーターとギア駆動により物理的にコネクタを押し出し、自動でケーブルを切断する仕組みを採用 ・ホワイトLEDとブルーLEDの2モード切替により、スマートフォン・PCからモバイルバッテリー・Bluetoothイヤホンまで幅広いデバイスに対応 ・最大140W（5V～28V／5A）の...",
+      "published": "Tue, 07 Jul 2026 18:49:39 +0900",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "80870ce517a6d60d3ed7b069623ded2e",
+      "title": "Claude Fable 5との残された時間に書いてもらった小説2作品、編集者とAI作家の対話には魂が宿っていたのか（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/07/07/5265.html",
+      "summary": "今朝（7月7日）、AnthropicがAIの内側に「J-space」と呼ぶ構造を発見した、というニュースが流れました。元になった論文は、「Verbalizable Representations Form a Global Workspace in Language Models」です。",
+      "published": "Tue, 07 Jul 2026 17:39:17 +0900",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6d295faae822ce17dacff1fe47a13e8",
+      "title": "XREAL新モデルxbx a01+もプライムセールで実質値引、Beam Proと「空間エンタメセット」 XREAL One Proや1Sも最安級",
+      "link": "https://www.techno-edge.net/article/2026/07/07/5264.html",
+      "summary": "XREALがAmazonプライムデーセールにあわせた「XREALプライムセール」を開始しました。",
+      "published": "Tue, 07 Jul 2026 17:26:53 +0900",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "a748f74293d535890b378e5c21d86fc5",
+      "title": "エムシーディースリー株式会社様：AI-DLC Unicorn Gym による3日間の開発変革",
+      "link": "https://aws.amazon.com/jp/blogs/news/mcd3-aidlc/",
+      "summary": "エムシーディースリー株式会社様とAI-DLC Unicorn Gym を実施し、Kiroを使った3日間のプロダクト開発に挑戦しました。AI-DLCで要件定義からアーキテクチャ設計、実装、テスト、デプロイまでの開発ライフサイクル全体でAIを活用し、従来数か月かかっていた開発を3日間で実現可能なレベルま...",
+      "published": "Tue, 07 Jul 2026 08:06:37 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4e21e175fa222b2d0acba53ee962925",
+      "title": "AIは“頭の中”で考えていた。Anthropic、Claudeの思考をのぞく新手法",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2122988.html",
+      "summary": "",
+      "published": "2026-07-07T04:06:03Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "236d2d5121a425b5a6d9f84f3c8b0084",
+      "title": "SpaceX、xAIの正式名称を「SpaceXAI」に 新ロゴも公開",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/07/news084.html",
+      "summary": "マスク氏は2月に、宇宙開発企業のSpaceXにxAIを統合することにより、SpaceXが運用する衛星通信網「Starlink」や次世代大型ロケット「Starship」の運用に、xAIが開発するAI技術を直接活用できるようになると説明した。 関連記事 SpaceX、AIコーディングの「Cursor」を...",
+      "published": "2026-07-07T01:59:20Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d59b9f8d56a17284c86374705b6f68a7",
+      "title": "MSIが中国製DDR5メモリ向けのベータ版BIOSをリリースしDDR5-8200での動作が可能に、CXMTがMicron・Samsung・SK hynixに代わる選択肢となるか",
+      "link": "https://gigazine.net/news/20260707-msi-cxmt-memory-bios/",
+      "summary": "AI需要による世界的なメモリ不足が深刻化する中、中国のメモリメーカーであるCXMTが個人向けのDDR5メモリを生産しているという情報が注目を集めています。新たに大手マザーボードメーカーのMSIがCXMT製メモリの高速動作を可能にするベータ版BIOSをリリースしたことが明らかになりました。 MSI c...",
+      "published": "2026-07-07T05:50:47Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "464c9c8524382df2aca5668657914222",
+      "title": "「メモリが高すぎる」米ユーザーらが半導体大手3社を提訴",
+      "link": "https://ascii.jp/elem/000/004/416/4416397/",
+      "summary": "世界的なメモリの価格高騰が続く中、怒った米国のユーザーたちが訴訟に踏み切った。 米国の個人14人と法人3社が2026年6月25日、半導体大手3社が不当にメモリ（DRAM）の価格を引き上げるカルテルを形成したとして、米国カリフォルニア州北部地区連邦地裁に訴えを起こした。提訴されたのは韓国のサムスン電子...",
+      "published": "2026-07-07T08:28:42Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73b6edc63833b89c626202a014ee9ec4",
+      "title": "複数のAIモデルを一元管理できる「Otari」がMozilla.aiによって開発される",
+      "link": "https://gigazine.net/news/20260707-mozilla-ai-otari/",
+      "summary": "Firefoxなどの開発で知られるMozillaが設立したオープンソースAIエコシステム構築を目指すスタートアップ「Mozilla.ai」は2026年7月6日に、大規模言語モデル(LLM)を効果的に運用するためのオープンソースコントロールプレーン「Otari」をリリースしました。 Otari: Ow...",
+      "published": "2026-07-07T05:19:05Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6538246a1fab8ab215784f49b8818666",
+      "title": "中国、AIとの「感情的交流」を規制 バイトダンスとアリババが「擬人化AI」終了へ",
+      "link": "https://japan.cnet.com/article/35250128/",
+      "summary": "中国のテクノロジー大手、字節跳動（バイトダンス）と阿里巴巴（アリババ）は、ユーザーが独自の人格や話し方を設定できるAIエージェントの機能を相次いで終了するという。South China Morning Postが報じた。 報道によると、バイトダンスはAIアプリ「豆包（Doubao）」でエージェント機...",
+      "published": "2026-07-06T10:19:55Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c88729986c258a36059d9c32f9c3011",
+      "title": "Sakana AIが翻訳機能「Sakana Translate」をリリース、日英中の双方向翻訳に対応＆カジュアル・簡潔・大阪弁などに変換可能",
+      "link": "https://gigazine.net/news/20260707-sakana-translate/",
+      "summary": "東京に拠点を置くAI企業のSakana AIがチャットAI「Sakana Chat」に翻訳機能「Sakana Translate」を追加しました。Sakana Translateは日本語・英語・中国語の双方向翻訳に対応し、最大約5000文字の翻訳が可能とのこと。無料で使えるそうなので実際に使ってみま...",
+      "published": "2026-07-07T06:51:44Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b00920e35721ee7e2d9fb8e3040dae0",
+      "title": "小規模言語モデルが最先端AIを「コスト・速度・精度」で上回る | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/100415",
+      "summary": "AI競争は初日から「より大きい」ことによって定義されてきた。より多いパラメータ、より多い学習データ、より高い能力。そのすべてが、ほぼ何でもこなせる少数の最先端大規模言語モデル（LLM）へと収れんしていった。モデルは時間とともに進歩した一方で、価格もそれに伴って上昇し、規模拡大時の手頃さへの懸念が世界...",
+      "published": "2026-07-07T03:41:38Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89b6e3b845ee65ddecf499a5de38054f",
+      "title": "便利な配色ツールが登場！ OKLCHで知覚的に優れた広色域カラーパレットを生成 -OKLCH Color Palette Generator",
+      "link": "https://coliss.com/articles/build-websites/operation/design/wide-gamut-color-palettes-for-ui.html",
+      "summary": "UIデザイン用にカラースケールを作成するとき、数値的に均一にしてしまうと、やや無機質に感じられることがあります。明るさが均一の変化だと、色褪せて見え、特に両端の淡い色合いと濃い色合いの変化が少なくなってしまいます。 また、ライトモードだといい感じだけど、ダークモードで使用するとなんか違う、そんな経験...",
+      "published": "2026-07-07T00:59:31Z",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "68068322a054e276311dcd609ccbb9b4",
+      "title": "XLN Audio’s new DB-30 Drum Butter is a delicious delight",
+      "link": "https://musictech.com/reviews/plug-ins/xln-audio-db-30-drum-butter-review/?utm_source=rss&utm_medium=rss&utm_campaign=xln-audio-db-30-drum-butter-review",
+      "summary": "Butter up your beats and give them production love with XLN’s new multi-effects plugin The post XLN Audio’s new DB-30 Drum Butter is a delicious delig...",
+      "published": "Tue, 07 Jul 2026 08:00:24 +0000",
+      "fetched_at": "2026-07-07T10:48:09.302664+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-07T07:31:03.955049+00:00"
+  "updated_at": "2026-07-07T10:48:09.302664+00:00"
 }

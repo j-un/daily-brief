@@ -1499,7 +1499,87 @@
       "fetched_at": "2026-07-08T20:58:26.299792+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "7aeae7cfe319058b4d36166136196d56",
+      "title": "Meta、スマートグラスの「キャプチャLED」を物理的に改ざんすると撮影不能になるアップデートを配布",
+      "link": "https://www.techno-edge.net/article/2026/07/09/5274.html",
+      "summary": "Metaは、同社スマートグラスが内蔵カメラで撮影中であることを示すLED表示を何らかの形で無効化した場合、カメラ機能が使えなくなるアップデートを配布したと述べています。",
+      "published": "Thu, 09 Jul 2026 06:45:03 +0900",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "1829e8cfb0f672e87d80b08168ca05aa",
+      "title": "AWS Security Hub now offers Network Scanning to identify publicly reachable resources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/",
+      "summary": "Today, AWS Security Hub introduces Network Scanning, a capability that identifies resources in your environment that are reachable from the public int...",
+      "published": "Wed, 08 Jul 2026 21:00:00 GMT",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4280c29a5d1bf315e3ec30ab18b9b387",
+      "title": "Amazon Redshift RG instances now available on the trailing track",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
+      "summary": "Amazon Redshift now supports Graviton-based RG instances on the trailing track. Starting July 7, 2026, rg.4xlarge and rg.xlarge instance types are ava...",
+      "published": "Wed, 08 Jul 2026 18:12:00 GMT",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "66a2c3ca8e93c6259365b955dedff2c9",
+      "title": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/",
+      "summary": "Amazon Aurora DSQL change data capture (CDC) is now generally available, enabling you to stream real-time database changes to Amazon Kinesis Data Stre...",
+      "published": "Wed, 08 Jul 2026 18:00:00 GMT",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "36d280f75363b8bd989defdb8398609d",
+      "title": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/",
+      "summary": "Amazon Connect Customer now supports forecasting, capacity planning, and scheduling for Tasks and Emails, enabling you to plan and optimize your workf...",
+      "published": "Wed, 08 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c79d8ec3eef6ffbba449c1b542553b80",
+      "title": "AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codebuild-amazon-linux-2023/",
+      "summary": "AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts through a new host kernel selection setting. AWS CodeBuild is a fully managed c...",
+      "published": "Fri, 03 Jul 2026 12:27:00 GMT",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d95b95d0e40fbc358b0beb7f1e353e37",
+      "title": "Fable 5を顧問、Sonnet 5を実行役とすることでコストを抑える方法",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2123524.html",
+      "summary": "",
+      "published": "2026-07-08T09:41:37Z",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b84fc0d18a6c6d998ec50653319752a",
+      "title": "Fable 5が使えなくなる前に、その「働き方」をOpus/Sonnetに引き継がせた",
+      "link": "https://zenn.dev/yui/articles/e4f8268ab5c6c1",
+      "summary": "前回、Fable 5をトークン破産させずに使い倒す方法について書きました。 簡単にいうとオーケストレーターに Fable 5をおいて、スコープ切り、設計、委譲、最終レビューを任せ、手を動かす実装・テスト・シッピング・コードレビューは Opus と Sonnet のサブエージェントが担う形式です。高い...",
+      "published": "2026-07-07T21:10:09Z",
+      "fetched_at": "2026-07-08T22:09:09.057938+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-08T20:58:26.299792+00:00"
+  "updated_at": "2026-07-08T22:09:09.057938+00:00"
 }

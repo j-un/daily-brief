@@ -1099,7 +1099,97 @@
       "fetched_at": "2026-07-08T11:42:37.627970+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "5fd915df9ef7d5ef581c3e6f79ef9acc",
+      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+      "link": "https://www.digipres.org/the-floppy-guide/",
+      "summary": "Article URL: https://www.digipres.org/the-floppy-guide/ Comments URL: https://news.ycombinator.com/item?id=48827092 Points: 116 # Comments: 34",
+      "published": "Wed, 08 Jul 2026 03:22:31 +0000",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0347ca460e91c5783368c9ef1a9435e6",
+      "title": "個人タスク管理を「判断は人間、更新はエージェント、計算はスクリプト」で設計する",
+      "link": "https://zenn.dev/layerx/articles/797bb5b8935bf6",
+      "summary": "こんにちは。Ai Workforce事業部でAIエージェントのためのデータ基盤を開発している uphy です。業務では複数のプロジェクトを並走させているのですが、今回は個人のタスク管理についてお話しします。 タスク管理は、この5年ほどMarkdownベースでわりとライトにやってきました。プロジェクト...",
+      "published": "2026-07-08T07:02:34Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f05f44d53b03ba1f70ebfc4d50369f2b",
+      "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか？",
+      "link": "https://gigazine.net/news/20260708-rowboat/",
+      "summary": "メール・会議・Slack・AIとの会話などをローカルに蓄積し、仕事の文脈を覚えたAIアシスタントとして動作するデスクトップアプリ「Rowboat」が公開されています。RowboatはMac・Windows・Linux向けに配布されているオープンソースのAI作業環境で、公式GitHubでは「仕事の記憶...",
+      "published": "2026-07-08T09:13:11Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d57c79501b1dffc32e4f41777bdd926",
+      "title": "AWS Well-Architected Framework 入門：全体像と公式ドキュメントを整理してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-01/",
+      "summary": "AWS認定試験の学習で頻繁に登場する「Well-Architected Framework」について、全容を把握しきれていないという課題を解決するため、6つの柱をハンズオンで実践しながら学ぶシリーズを始めます。まず今回は、Framework の概要と情報の探し方を整理しました。 はじめに こんにちは...",
+      "published": "2026-07-08T04:52:05Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd032c9efa6362ba93415be78df9fe46",
+      "title": "VS Code DevContainer を使わなくなった私の、LLM エージェント向け開発環境",
+      "link": "https://zenn.dev/kenfdev/articles/1febc0052b0d71",
+      "summary": "この記事は長いです。長い癖に具体的に自分が使っているdocker composeなどの設定までは記載していません。そこまで書くとさらにとんでもなく長い記事になってしまうと思ったためです。あくまで思想としてどのように最近開発環境を考えているのかを伝えられたらと思っています。コンテナ開発における環境に悩...",
+      "published": "2026-07-08T07:55:06Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "433516c37c00153f5c7586c3d7e35e2e",
+      "title": "個人情報保護法改正案 参議院特別委員会で可決 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015171871000",
+      "summary": "AIの開発促進に向けて、個人情報を取得する際の規制を緩和することなどを盛り込んだ、個人情報保護法の改正案は、参議院の特別委員会で、自民・維新両党と国民民主党、チームみらいの賛成多数で可決されました。改…",
+      "published": "2026-07-08T08:04:10Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c1c303b289748c42a80c86f0c83b4ff",
+      "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/08/news043.html",
+      "summary": "AIエージェントが既存のソフトウェアビジネスの価値を奪う「SaaS is Dead」（SaaSの死）の次に名指しされたのは、SIer（システムインテグレーター）だった。 2月初旬、米Anthropicがナレッジワーカー向けの自律型AIエージェント（人間の代わりに自分で考えて業務をこなすAIアシスタン...",
+      "published": "2026-07-08T01:47:52Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "480ea54ce734b66e36ec476448a40dda",
+      "title": "Claude Fable 5が2026年7月13日16時まで全有料プランで利用可能に",
+      "link": "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/",
+      "summary": "Anthropicが、Claude Fable 5を有料プランでも追加費用なしで利用できるプロモーション期間を日本時間の7月13日16時まで延長すると発表しました。 Claude Fable 5 promotional access | Claude Help Center https://supp...",
+      "published": "2026-07-08T03:23:40Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "90813e1371c8b1ae8bf3ec7e3e2b4a3d",
+      "title": "【PC短評】 バッテリ25時間駆動！あえて1世代前CPUで高コスパな1kg切りモバイルノート「LAVIE NEXTREME」",
+      "link": "https://pc.watch.impress.co.jp/docs/column/short-review/2122659.html",
+      "summary": "",
+      "published": "2026-07-08T01:48:56Z",
+      "fetched_at": "2026-07-08T13:44:45.225625+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-08T11:42:37.627970+00:00"
+  "updated_at": "2026-07-08T13:44:45.225625+00:00"
 }

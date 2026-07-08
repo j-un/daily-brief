@@ -179,7 +179,287 @@
       "fetched_at": "2026-07-07T22:53:10.116152+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "1ea7e77175b0a960aaa7c890c63c4b30",
+      "title": "tcpdump で追う Datastream 障害調査と Transit Gateway × VPN のリアーキテクチャ設計 - Speaker Deck",
+      "link": "https://speakerdeck.com/hirosi1900day/tcpdump-dezhui-u-datastream-zhang-hai-diao-cha-to-transit-gateway-x-vpn-noriakitekutiyashe-ji",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 tcpdump で追う Datastream 障害調査と Transit Gateway × VPN のリアーキテクチャ設計",
+      "published": "08 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de91112ac584a73d24fa23ead6d1c519",
+      "title": "AIに障害切り分けを全部やってもらった。 。 。 。 - Speaker Deck",
+      "link": "https://speakerdeck.com/estie/ainizhang-hai-qie-rifen-kewoquan-bu-yatutemoratuta",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIに障害切り分けを全部やってもらった。 。 。 。",
+      "published": "08 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45d7c0301b3a76904e488d9ee77a0d97",
+      "title": "ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
+      "link": "https://isucon.net/archives/59917350.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
+      "published": "07 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e645ed2b7f85f071216de2f56bad636f",
+      "title": "「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる - Speaker Deck",
+      "link": "https://speakerdeck.com/yuukit/alerting-in-the-wild",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「アラーティング」の話をしよう— SREconや論文等の最先端とのギャップをみる",
+      "published": "07 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fccdf757e8da4d2b19898c9a88798dae",
+      "title": "We charge $10k a week to delete AI-generated code",
+      "link": "https://odra.dev/slopfix/",
+      "summary": "Article URL: https://odra.dev/slopfix/ Comments URL: https://news.ycombinator.com/item?id=48823359 Points: 183 # Comments: 79",
+      "published": "Tue, 07 Jul 2026 20:35:42 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bea616ed34a495325e6ba247378c248",
+      "title": "l: A new runtime for k and q",
+      "link": "https://lv1.sh/",
+      "summary": "https://lv1.sh/blog/why-l/ Comments URL: https://news.ycombinator.com/item?id=48821378 Points: 103 # Comments: 61",
+      "published": "Tue, 07 Jul 2026 18:08:29 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "067ede438b1a4f75e548392513b88bc5",
+      "title": "Automating AI Away",
+      "link": "https://replicated.live/blog/away",
+      "summary": "Article URL: https://replicated.live/blog/away Comments URL: https://news.ycombinator.com/item?id=48818937 Points: 103 # Comments: 49",
+      "published": "Tue, 07 Jul 2026 15:11:08 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "810f4743f4b368d151161ec7c244f4fc",
+      "title": "Amazon Redshift のモダナイゼーション: RA3 から RG への移行ベストプラクティス",
+      "link": "https://aws.amazon.com/jp/blogs/news/modernize-amazon-redshift-ra3-to-rg-migration-best-practices/",
+      "summary": "Amazon Redshift RA3 クラスターを Graviton ベースの RG インスタンスに移行する方法を解説します。Elastic Resize、Classic Resize、Snapshot/Restore の 3 つの移行戦略を比較し、スムーズな移行のための考慮事項とベストプラクティ...",
+      "published": "Tue, 07 Jul 2026 23:27:04 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3099c586560f295bd28b88223e9e0b35",
+      "title": "Amazon GameLift Streams introduces secure terminal access for stream sessions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/",
+      "summary": "Amazon GameLift Streams now supports Stream Session Admin Shell, a secure terminal connection to the live runtime environment of a stream session for ...",
+      "published": "Tue, 07 Jul 2026 21:26:00 GMT",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "796be3b093181bd0b1c9d6d1b2b96ffe",
+      "title": "Amazon S3 Vectors is now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/",
+      "summary": "Amazon S3 Vectors is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West). Amazon S3 Vectors is purpose-built vector storage for AI agen...",
+      "published": "Tue, 07 Jul 2026 19:00:00 GMT",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebf14d12d1edc0992666d9826fc1d62d",
+      "title": "Amazon SageMaker now supports data lineage in IAM-based domains",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain",
+      "summary": "Amazon SageMaker Unified Studio now supports OpenLineage compatible data lineage in IAM-based domains, capturing lineage events from Apache Spark jobs...",
+      "published": "Tue, 07 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "137bc3d7169f1db98c7572c34e12230b",
+      "title": "Amazon S3 Express One Zone is now available in the AWS Europe (Frankfurt) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt/",
+      "summary": "The Amazon S3 Express One Zone storage class is now available in the AWS Europe (Frankfurt) Region. Amazon S3 Express One Zone is a high-performance, ...",
+      "published": "Tue, 07 Jul 2026 13:00:00 GMT",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "33d3665ffb604722bf1d1079571b9527",
+      "title": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/",
+      "summary": "AWS Artifact now includes Assurance Assistant, an AI-powered capability that generates citation-backed responses to security and compliance questions ...",
+      "published": "Wed, 01 Jul 2026 20:01:00 GMT",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d9629e24c9c257b258a0a4312eb2252",
+      "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
+      "link": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
+      "summary": "はじめに AI x 旅行アプリのアバトラベル（iOS / Android）は、2026年6月にフルリニューアルしました！ ところがその直後から、「ほぼ全てのAPIが一律に遅い」 という不思議な症状に悩まされていました。弊社に協力いただいているつよつよエンジニアの栗田さんの調査により、原因はAPIのコ...",
+      "published": "2026-07-07T15:02:55Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "425b759d62239f8f41017035008c33d1",
+      "title": "『めっちゃカメレオン』のサーバー代0円ってまじ？ - Qiita",
+      "link": "https://qiita.com/i-icc/items/fb02ae5fa0848f4c511e",
+      "summary": "めっちゃカメレオン、流行ってますね 真っ白な体に絵を描いてステージに擬態する、新感覚のかくれんぼゲーム『めっちゃカメレオン』。 気づいたら世界的ヒットですよ この記事執筆時点で 1500 万本突破ってやばすぎないですか？ 780円 × 約1500万本 ≒ 120億円 超 同時接続 ピーク約20万人 ...",
+      "published": "2026-07-07T08:24:18Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42599b234b91051bfecd091350f802b7",
+      "title": "犬が飼い主に従うのは「忖度」？ それとも「人が好き」だから？ 餌を巡る綱引き対決で狼と比較実験",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news024.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-07-07T23:19:07Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "421f34060efeb4770453b96c1424fd06",
+      "title": "ターミナル中心の開発環境が手になじんできたので、実務で効いていることを紹介したい",
+      "link": "https://zenn.dev/shinkawa/articles/ae1f88aa0fb027",
+      "summary": "これまでIDE中心だった開発環境を、今年の4月ごろからターミナル中心に切り替え始めた。 ようやく手になじんできて、以前IDEでやっていた作業もターミナル上でかなり素早くできるようになってきた。現時点の構成をまとめておきたい。 特に効いているのは、AIエージェントと一緒に開発を進める時だ。自分がよくや...",
+      "published": "2026-07-07T10:44:06Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dc6dff0d3932e4fb1ab5009e1ed6692",
+      "title": "無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」",
+      "link": "https://gigazine.net/news/20260708-officecli/",
+      "summary": "AIエージェントでWord・Excel・PowerPointファイルを読み取り、編集・自動化するためのCLIが「OfficeCLI」です。オープンソースで開発されており、無料で誰でもインストールして利用することができます。 GitHub - iOfficeAI/OfficeCLI: OfficeCL...",
+      "published": "2026-07-07T23:45:40Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28a680cd3e9d44ff2050479304b5aad2",
+      "title": "【セキュリティ ニュース】農業従事者情報を含むデータを誤送信 - フィルタ解除で閲覧可能（1ページ目 / 全1ページ）：Security NEXT",
+      "link": "https://www.security-next.com/186821",
+      "summary": "徳島県小松島市は、農業従事者の個人情報が含まれるデータをメールで誤送信したことを明らかにした。 同市によれば、2026年6月16日、経営所得安定対策に関する農地管理データを市内の農業法人1社へメールで送信した際、誤送信が発生したもの。 本来は同法人分のみを送信すべきだが、担当職員が6月19日に送信済...",
+      "published": "2026-07-07T17:28:21Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a4cb3a647130d1d9eba963524a18a4a",
+      "title": "満充電で物理的に外れるUSB-C充電アダプタ「満タンデタッチャブル」 待機電流の検出にも対応、USB-PD 140Wまで | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/07/07/5266.html",
+      "summary": "PC周辺機器やスマホアクセサリを扱うエアリアが、満充電になると物理的に抜けるUSB-C自動切断アダプタ「満タンデタッチャブル」を発売しました。 スマホなどUSB-Cで充電するデバイスと電源ケーブルのあいだにセットすると、電流が止まった・減った時点で物理的にツメが伸び、アダプタとデバイスを分離します。...",
+      "published": "2026-07-07T11:36:20Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ddcf25b1602a61404b8059f8d8ac98a",
+      "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ＆Zen 5CPU＆Radeon 8060S GPUを搭載した強力ミニワークステーション",
+      "link": "https://gigazine.net/news/20260707-amd-ryzen-ai-halo/",
+      "summary": "2026年1月に開催されたコンピューター見本市・CES 2026におけるAMDの基調講演で、リファレンス用のAI開発者向けミニPC「AMD Ryzen AI Halo」が発表され、同年7月10日(金)に順次出荷が始まります。Ryzen AI Haloは16コア32スレッドのZen 5CPU・40基の...",
+      "published": "2026-07-07T18:07:34Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "949a5169d0c429f75e031e982df36d7c",
+      "title": "Claude Code で HTML を出力する際に CSS フレームワークを指定すると便利 - Qiita",
+      "link": "https://qiita.com/QUANON/items/db3defd280f765c135ec",
+      "summary": "HTML 出力は見やすくて自由度が高い Claude Code に成果物を出力させる際、プレーンテキストや Markdown ではなく HTML で出力させると、そのままブラウザ (Chrome など) で開くことができ、Markdown の本部プレビューと比べて人間にとって非常に見やすくなります。...",
+      "published": "2026-07-05T07:35:46Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd12c0ee13fdefa22cbe1551c1d01307",
+      "title": "自動テストの肥大化とどう向き合うか",
+      "link": "https://zenn.dev/frontendflat/articles/automated-test-size-tradeoff",
+      "summary": "Q. 「自動テストを書いてきてしばらく経つが、実行時間の増加に伴う問題 (CI 待ち時間) や偽陽性・偽陰性の問題が出てきた。どう対応していくのがよいか？」 IMO: コードの変更に対する不安と実行時間をコンパスにして、自動テストの肥大化に立ち向かう。(一ヶ月後には言っていることが変わるかもしれない...",
+      "published": "2026-07-06T18:07:56Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4fe8edfc304189cf852adde20f72dfb",
+      "title": "“ストレスで飲酒”は脳を変質させる 断酒しても戻らず、中年になって変化への対応力が低下 米国チームがマウス実験",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news025.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-07-07T22:48:03Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "68ae2ac575de01eaaef1360a997d9992",
+      "title": "AIが指示を処理するとき「思考」に特化した「J空間」が活性化していることが判明",
+      "link": "https://gigazine.net/news/20260707-ai-j-apace/",
+      "summary": "人間は物事を処理するときに意識的に行うことと無意識的に行うことがあります。昨日食べたものを思い出すときは前者、呼吸したり姿勢を維持したりするときは後者です。このような2つのパターンがAIにも存在することを、Anthropicの研究者が明らかにしました。意識的に物事を処理するときに活性化する領域をAI...",
+      "published": "2026-07-07T09:28:39Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "877b11f8c02d8d17fb08c7bead12b54e",
+      "title": "「Claudeの母」はAIの心を見守る 反抗期恐れるテック界で進むしつけ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC031EB0T00C26A6000000/",
+      "summary": "【この記事でわかること】・AnthropicやGoogleが哲学者に頼る理由・AIは人間の本心を探っている？・ロボット研究の第一人者からの警告",
+      "published": "2026-07-07T20:44:50Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49f4a75e96f354a32cb97312d6b0fce",
+      "title": "Missing Error Intel I225-V/I226-Vの不具合と対処の備忘録",
+      "link": "http://xaicoro.blog83.fc2.com/blog-entry-140.html",
+      "summary": "マザーボードを変更して以降、最近ブツブツとよくネット接続が切れる。 よくよくチェックしてみたらI225-Vのせいだったというオチで忘備録として記事に残しておこう。 ■イーサネットコントローラ I225-V/I226-V の大問題 I225-VはIntelブランドのイーサネットコントローラ(LANチッ...",
+      "published": "2024-03-15T05:36:08Z",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa11d93f44e4aeb43a2a730a3eb93dbe",
+      "title": "EPROM built an instrument for Current: complete guide",
+      "link": "https://cdm.link/eprom-memory-rites/",
+      "summary": "EPROM, the West Coast experimental bass and production legend, meets Minimal Audio’s Currents with Memory Rites. Here’s a guide to exploring those sou...",
+      "published": "Tue, 07 Jul 2026 23:12:20 +0000",
+      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-07T22:53:10.116152+00:00"
+  "updated_at": "2026-07-08T01:56:22.149038+00:00"
 }

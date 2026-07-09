@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c3c0c114feb9b553ac19d5622b745793",
-      "title": "AWS CloudFormation Express モードを使用してインフラストラクチャのデプロイを最大 4 倍高速化 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS CloudFormation Express モードを使用してインフラストラクチャのデプロイを最大 4 倍高速化 | Amazon Web Services",
-      "published": "08 Jul 2026 10:55 +0000",
-      "fetched_at": "2026-07-08T11:42:37.627970+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b6b22ad7e7aa82d4ace015ae18ed1756",
       "title": "Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time",
@@ -779,7 +769,137 @@
       "fetched_at": "2026-07-09T14:36:45.793880+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "743ae76b79321215e04a26915e8d52e1",
+      "title": "Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows/",
+      "summary": "Amazon SageMaker Unified Studio Workflows now supports 19 new operators for Amazon Bedrock, Amazon S3 Tables, Amazon S3 Vectors, AWS Glue Data Catalog...",
+      "published": "Wed, 08 Jul 2026 22:00:00 GMT",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a93a3bcece933c4c1053880d0dc069e1",
+      "title": "Microsoft Research、AI時代のグラフ作成を支援する中間言語「Flint」を発表 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/flint",
+      "summary": "Microsoft Research⁠⁠、AI時代のグラフ作成を支援する中間言語「Flint」を発表 Microsoft Researchは2026年7月8日、AIエージェントによるグラフ作成を支援する中間言語「Flint」を発表した。Flintは、AIエージェントが扱いやすく、人間も確認・編集しや...",
+      "published": "2026-07-09T12:28:37Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "500034816561ac79532f5d3648b58e05",
+      "title": "三菱自動車、京都工場でHighlandersのヒューマノイドロボット量産化を検討 2027年の早いタイミングで生産開始へ",
+      "link": "https://car.watch.impress.co.jp/docs/news/2123922.html",
+      "summary": "",
+      "published": "2026-07-09T09:12:59Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1df184994d5d8be050355cba19964528",
+      "title": "Grokを使って継娘の性的な画像を大量作成した男性が自殺、被害者少女は性的被害と父親を失う二重苦で一夜にして人生が崩壊",
+      "link": "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
+      "summary": "SpaceXAIの開発するAIチャットボットであるGrokが生成した児童性的虐待コンテンツ(CSAM)を巡り、複数の被害者少女が同社を提訴しています。この訴状から、継娘の性的な画像を7000枚も作成した男性が自殺していたことが明らかになりました。 Lawsuit: Man used Grok to ...",
+      "published": "2026-07-09T03:52:39Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "158989a316e0f59ad2a57e9790992806",
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "link": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "summary": "A technology enthusiast, Bobby studied Computer Science at the University of Southampton before working in a number of roles across industries, from t...",
+      "published": "2026-07-09T08:46:52Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "863443d4a9c1776dee42fa9b0ead1f5c",
+      "title": "未来のバスは「スマホを出さずに」乗るだけ？ JCBらが「ハンズフリー決済」2028年度実用化へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news130.html",
+      "summary": "ジェーシービー（JCB）、りそなホールディングス、小田原機器（神奈川県小田原市）の3社は7月9日、バスでのUWB（Ultra Wide Band）を使用する決済の実用化に向けた「協業覚書」を締結したと発表した。乗降時にスマートフォンを取り出さずに支払える「ハンズフリー決済」などを目指し、2028年度...",
+      "published": "2026-07-09T08:56:18Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e790525e3fa47ac9b00d680da5ed2dd",
+      "title": "「懐かしい」 京急・上大岡駅の“デジタルパタパタ”話題 導入理由を聞いた 細やかなアップデートも",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news116.html",
+      "summary": "京浜急行電鉄（京急）が上大岡駅（横浜市港南区）に採用した「デジタルパタパタ」が、Xで注目を集めている。かつて駅で親しまれためくれる表示器「パタパタ」を、液晶ディスプレイ（LCD）上で再現した発車案内表示器だ。機能だけなら必ずしも必要ではないはずだが、なぜ導入に至ったのか。経緯を京急に聞いた。 パタパ...",
+      "published": "2026-07-09T08:26:20Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcc433233287bfaf360a575343712763",
+      "title": "優勝→急成長のAIスタートアップが考える「AI時代の事業のあり方」と「AIハッカソン」の関係とは？／～急成長するAIスタートアップに聞く「AIハッカソン」がイイ理由(3)【特集・集中企画】",
+      "link": "https://forest.watch.impress.co.jp/docs/special/2122490.html",
+      "summary": "",
+      "published": "2026-07-08T23:53:57Z",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5819d40b415a29586350a75ad6b98243",
+      "title": "Marshall unveils new Auracast-enabled Action IV and Stanmore IV Bluetooth speakers",
+      "link": "https://musictech.com/news/gear/marshall-acton-iv-stanmore-iv/?utm_source=rss&utm_medium=rss&utm_campaign=marshall-acton-iv-stanmore-iv",
+      "summary": "The audio company famous for its guitar amplifiers has released two models that will give any abode some serious volume. The post Marshall unveils new...",
+      "published": "Thu, 09 Jul 2026 16:26:34 +0000",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "a993af40d137c1b106236505b7a0162b",
+      "title": "Numark launches two new controllers perfect for anyone who wants to start DJing",
+      "link": "https://musictech.com/news/gear/numark-party-mix-iii-mixtrack-go/?utm_source=rss&utm_medium=rss&utm_campaign=numark-party-mix-iii-mixtrack-go",
+      "summary": "The Party Mix III and MixTrack Go are both compact, affordable controllers – perfect for beginners. The post Numark launches two new controllers perfe...",
+      "published": "Thu, 09 Jul 2026 15:04:44 +0000",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7dd5aa2b71129164d0ea01036dd91f6a",
+      "title": "FL Studio 2026 has arrived: here’s everything you need to know",
+      "link": "https://musictech.com/news/gear/fl-studio-2026-everything-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=fl-studio-2026-everything-you-need-to-know",
+      "summary": "The mainstay DAW has introduced revamped FLEX, Secure Cloud Project Backup, Smart Assistance, and many more features for its latest update. The post F...",
+      "published": "Thu, 09 Jul 2026 14:53:35 +0000",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "e47cf285809e250595bb190e2f6b870f",
+      "title": "The Warped, Wondrous World of Microtonal Jazz on Bandcamp",
+      "link": "https://daily.bandcamp.com/lists/microtonal-jazz-album-guide",
+      "summary": "To Western listeners, microtonal jazz can sound a little “off.\" That's what makes it vital. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 09 Jul 2026 14:47:21 -0000",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "a12be5db93241bdcb058371cb4a1be65",
+      "title": "MAQUINA., “BODY TRANSMISSION”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/maquina-body-transmission-review",
+      "summary": "The Portuguese band's fusion of krautrock and industrial oozes warehouse-ready debauchery. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 09 Jul 2026 14:47:17 -0000",
+      "fetched_at": "2026-07-09T17:48:38.211079+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-09T14:36:45.793880+00:00"
+  "updated_at": "2026-07-09T17:48:38.211079+00:00"
 }

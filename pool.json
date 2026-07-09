@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "45d7c0301b3a76904e488d9ee77a0d97",
-      "title": "ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
-      "link": "https://isucon.net/archives/59917350.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ISUCON2026 開催決定と参加受付日程のお知らせ : ISUCON公式Blog",
-      "published": "07 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-08T01:56:22.149038+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c3c0c114feb9b553ac19d5622b745793",
       "title": "AWS CloudFormation Express モードを使用してインフラストラクチャのデプロイを最大 4 倍高速化 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
@@ -209,7 +199,247 @@
       "fetched_at": "2026-07-09T02:09:17.024205+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bebbbe1dd3b77c720cd71cc2a6052053",
+      "title": "5 pitfalls to avoid when measuring developer experience in the AI era | Datadog",
+      "link": "https://www.datadoghq.com/blog/devex-measurement-pitfalls-ai-era/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 5 pitfalls to avoid when measuring DevEx in the AI era",
+      "published": "09 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e9e4eea1d4e1ff8a109125817c0a1d7",
+      "title": "A return to two-pizza culture | All Things Distributed",
+      "link": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 A return to two-pizza culture",
+      "published": "09 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34c6328473ccbd02f51b3c4057932305",
+      "title": "アラート調査向けAIエージェントの本番導入とその後/AI Agents for Alert Investigation: Production Deployment and After - Speaker Deck",
+      "link": "https://speakerdeck.com/taddy_919/ai-agents-for-alert-investigation-production-deployment-and-after",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 アラート調査向けAIエージェントの本番導入とその後/AI Agents for Alert Investigation: Production Deployment and After",
+      "published": "08 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e912a2bc61eaef1ce277af4be42db928",
+      "title": "スキマに入る最薄ポータブル電源 Jackery SlimPower H1発売 厚さ67mmで1024Wh、0.01秒UPSにも対応",
+      "link": "https://www.techno-edge.net/article/2026/07/09/5275.html",
+      "summary": "ポータブル電源・ソーラーパネルの世界的リーディングカンパニーであるJackery（ジャクリ）の日本法人、株式会社Jackery Japanは、超薄型ポータブル電源「Jackery SlimPower H1（ジャクリ スリムパワー エイチワン）」を2026年7月15日（水）より発売すると発表しました。",
+      "published": "Thu, 09 Jul 2026 11:50:04 +0900",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "6293a032f2ec1a60593f247427bcd27c",
+      "title": "AWS Weekly Roundup: AWS での Claude Sonnet 5、AI エージェント向けの Amazon WorkSpaces、AWS サービスの可用性アップデートなど (2026 年 7 月 6 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-claude-sonnet-5-on-aws-amazon-workspaces-for-ai-agents-aws-service-availability-updates-and-more-july-6-2026/",
+      "summary": "数回前の号で、スタートアップと仕事をすることがどれほど活力になるかについて書きました。2026 年 6 月 2 […]",
+      "published": "Thu, 09 Jul 2026 05:48:07 +0000",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "89bffe0ad2a4aba44563d9e7de1afc54",
+      "title": "Amazon Bedrock のゼロデータ保持の強制方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/enforce-zero-data-retention-on-amazon-bedrock-with-bedrock-projects-and-service-control-policies/",
+      "summary": "本記事では、Amazon Bedrock のデータ保持モード (none、default、inherit、provider_data_share) の仕組みと、設定したモードが保持の上限として機能する動作を解説します。Amazon Bedrock Projects による保持要件が異なるワークロード...",
+      "published": "Thu, 09 Jul 2026 02:52:21 +0000",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "958f601daabb0ec12ef14c4ed58c077e",
+      "title": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/",
+      "summary": "Today, AWS announces Service Events for Amazon CloudWatch Application Signals, which automatically captures exception and latency event snapshots, fun...",
+      "published": "Mon, 06 Jul 2026 15:00:00 GMT",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "046a118645f0f9baef55db74d1890c18",
+      "title": "GPUのメモリ（VRAM）を仮想ディスクにしちゃうトンデモアプリ「VRAMDISK」が登場／確かにメインメモリを「RAMディスク」にするのは一時期定番だったけど……【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2123636.html",
+      "summary": "",
+      "published": "2026-07-09T04:20:23Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87147fce375b052baa929850854aa261",
+      "title": "Anthropic、AIの危険な知識を消去/無効化する技術「GRAM」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2123785.html",
+      "summary": "",
+      "published": "2026-07-09T04:55:27Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5a452abf65e093ac65b4d7fd92f20ef",
+      "title": "暑さ対策：トイレの電球を“ファン付きLEDライト”に交換したら想像以上に快適になった",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news077.html",
+      "summary": "「今年も猛暑の見込みです」と、ニュースで毎年のように言われるようになって随分経ちます。幸い、6月は昨年に比べて真夏日が少なく過ごしやすかったのですが、気象庁が7月2日に発表した向こう1カ月の天候の見通しによると、「北・東・西日本では暖かい空気に覆われやすいため、向こう1カ月の気温は高いでしょう」との...",
+      "published": "2026-07-09T02:11:41Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af2ab2ea68ef06007e923dd4a395283b",
+      "title": "テックブログはじめました & 継続的な循環的複雑度と認知的複雑度の計測をしているという話題 - タイムリープ テックブログ",
+      "link": "https://techblog.timeleap.co.jp/entry/2026/07/09/093440",
+      "summary": "こんにちは。タイムリープ株式会社でソフトウェアエンジニアをやっております id:moznion です。 タイムリープ株式会社は遠隔接客サービス RURA (https://timeleap-rura.com/) を提供しているテクノロジースタートアップです。 このサービスは主としてブラウザで動作する...",
+      "published": "2026-07-09T01:03:17Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f3ecab096dd1bf18cdd6420a9eee9ac",
+      "title": "Yamanote.fun",
+      "link": "https://www.yamanote.fun/",
+      "summary": "These evocative soundscapes combine the station melodies, announcements, door chimes and train sounds of the Yamanote Line to create a complete audito...",
+      "published": "2026-07-09T00:16:17Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "764fd8b4fe0661b0e0f6a2b5ad49b040",
+      "title": "What's the best way to do authentication in modern applications",
+      "link": "https://neciudan.dev/most-secure-way-to-store-auth-token",
+      "summary": "Ask ten frontend developers where to store a login token, and you'll get four answers and an argument. And because each approach addresses different c...",
+      "published": "2026-07-08T23:24:23Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "588417c9ad89a835dec530ebe53dbb80",
+      "title": "ChatGPTが“相づち”を打つ会話AIに進化。自傷やAIへの感情依存対策も",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2123650.html",
+      "summary": "",
+      "published": "2026-07-08T23:53:12Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "014c1cd250cd5756b9708a82ad422b8c",
+      "title": "経産省肝いり「IP360」の光と影──クールジャパンの検証待たずに始まったコンテンツ支援の行方",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/04/news032.html",
+      "summary": "6月12日、官民ファンド「クールジャパン機構」について、政府が廃止も視野に検討へ――そんな報道がX（旧Twitter）で広がっていた。著名クリエイターを含む多くのユーザーがこれに反応するのを見て、筆者も1つの投稿をした。 テレビアニメ「チェンソーマン」でMAPPAが製作委員会方式をとらず「単独製作」...",
+      "published": "2026-07-09T03:23:01Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71324c6dc7b3780b5c33ce9ba99384e5",
+      "title": "突然の覚醒？ ソニーの電子書籍ストア「Reader Store」が7月13日のアプリ全面刷新を予告【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2123732.html",
+      "summary": "",
+      "published": "2026-07-09T03:03:46Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b07b5d5e66b2aa380adde8599c74e3d8",
+      "title": "メモリ不足でPC出荷減、成長も見込めずベンダー統合進む",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2123719.html",
+      "summary": "",
+      "published": "2026-07-09T02:51:21Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dd5e90d6ce88c3981549d66173ee186",
+      "title": "首相官邸、“本物そっくり”の偽サイト出現で注意喚起 正しいURLか「アクセスする前に確認を」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news097.html",
+      "summary": "首相官邸はこれまでにも複数の偽サイトを確認し、注意喚起をしてきた。過去には、高市早苗総理の映像を悪用し「政府支援の自動収益プロジェクト」などと騙って投資を勧誘するものや、「4万5000円の投資で月収最大900万円を保証する」「3万8000円の投資で月収3000万円を目指せ」などとうたう例もあった。 ...",
+      "published": "2026-07-09T04:05:51Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "144ed0d6dfe4b007e0801e30eb8aff1e",
+      "title": "HDMIケーブルでの“半径ずらしの技”に効果はあるか【吉田伊織のA&V奥の細道】",
+      "link": "https://av.watch.impress.co.jp/docs/series/yoshida/2120026.html",
+      "summary": "",
+      "published": "2026-07-08T23:16:34Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0cdd83eb38db4b9eb43c52e050e2972",
+      "title": "「060」番号提供延期……でもまだ“大丈夫”と言える理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2123612.html",
+      "summary": "",
+      "published": "2026-07-08T11:30:38Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "531aca736e8aceb55ba8b83b98e406fa",
+      "title": "「非エンジニアがAIでアプリ作れた！」がほとんど意味を持たない理由",
+      "link": "https://zenn.dev/awesome_kou/articles/4722d7c0c54441",
+      "summary": "ここに、最初の、そして多くの人が見落としがちな段差があります。「動いた」はゴールの手前どころか、まだスタートラインをまたいだあたり。「使える」までの距離は、想像よりずっと遠いのです。 本当の壁は、リリースから始まる ローカルで動いたアプリを、誰かに使ってもらうには、最低でも次のようなことが必要にな....",
+      "published": "2026-07-07T06:13:04Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "16ff8ac63d82def1c3e333929fe61b0c",
+      "title": "AIが後押しする「一人会社」 中国で新たな起業モデル広がる",
+      "link": "https://www.afpbb.com/articles/-/3640813",
+      "summary": "北京市経済技術開発区のOPCインキュベーションコミュニティで作業するOPC起業家＝2026年4月27日撮影・資料写真(c)CNS/李若晗 【7月8日 CNS】朝、一人会社（OPC、One Person Company）の起業家である王傑さん（仮名）はパソコンを開き、AIアシスタントに簡単な指示を送る...",
+      "published": "2026-07-08T07:15:39Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b223307b0ecb0756a062ee6df1dd34bf",
+      "title": "Claudeに「ゴースト」は宿ったのか？アンソロピックの新研究が暴いたAIの内面",
+      "link": "https://www.sbbit.jp/article/cont1/186041",
+      "summary": "グローバル・ワークスペース理論とは、脳内で並行して進む多くの無意識的な処理のうち、一部の情報だけが共有され、言葉で説明したり、注意を向けたり、推論に使ったりできるようになるという考え方である。私たちが普段、頭の中で考えていると感じるものの一部は、こうした共有領域に上がってきた情報だと説明されるこ.....",
+      "published": "2026-07-08T11:03:02Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "441b3d0ed39fae2fd634cb422f15d5a8",
+      "title": "Ankerのモバイルバッテリー＆充電器で買うべき3選！ 推し活必携で充電切れの心配がなくなりました - ソレドコ",
+      "link": "https://soredoko.jp/entry/2026/07/09/103000",
+      "summary": "Anker（アンカー）の充電器やモバイルバッテリーは推し活の必需品！ すぐに充電が減る＆ケーブルでカバンがごちゃごちゃする悩みを解決してくれる3つのアイテムを、アイドル大好きなはるんさんがおすすめしてくれました。 スマホは、推し活に欠かせないアイテム。 現場に行くときは友達とたくさん写真を撮るし、も...",
+      "published": "2026-07-09T02:00:11Z",
+      "fetched_at": "2026-07-09T07:35:53.393899+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-09T02:09:17.024205+00:00"
+  "updated_at": "2026-07-09T07:35:53.393899+00:00"
 }

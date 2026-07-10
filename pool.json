@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2f91e3a13c81477a52c271e832083fcc",
-      "title": "Kubernetes バージョンロールバックを使用して Amazon EKS クラスターを安心してアップグレード | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/upgrade-amazon-eks-clusters-with-confidence-using-kubernetes-version-rollbacks/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Kubernetes バージョンロールバックを使用して Amazon EKS クラスターを安心してアップグレード | Amazon Web Services",
-      "published": "08 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-09T02:09:17.024205+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d8699931bd0d77914774f3f6c5011230",
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
       "link": "https://github.com/JustVugg/colibri",
@@ -309,7 +299,227 @@
       "fetched_at": "2026-07-10T02:08:56.398886+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a5ade4a1666753efdd8c778b0dcb4f1b",
+      "title": "Is developer experience dead? | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/continuous-delivery/is-developer-experience-dead",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Is developer experience dead?",
+      "published": "10 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "781dd1b7462897a1a5df5daca3a9dd42",
+      "title": "Autonomous AI is here, but are enterprises ready? | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/articles/Autonomous_AI_is_here_but_are_enterprises_ready",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Autonomous AI is here, but are enterprises ready?",
+      "published": "10 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6e4193ee8f174b5734a83325aab74fa",
+      "title": "Code you don't understand is a liability you can't defend | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/security/code-you-don-t-understand-is-a-liability-you-can-t-defend",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Code you don't understand is a liability you can't defend",
+      "published": "10 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03e8a4fb63c0f2f0e13f7e9f556c64b0",
+      "title": "Why American ambulance rides are so expensive",
+      "link": "https://davidoks.blog/p/why-american-ambulance-rides-are",
+      "summary": "Article URL: https://davidoks.blog/p/why-american-ambulance-rides-are Comments URL: https://news.ycombinator.com/item?id=48853091 Points: 175 # Commen...",
+      "published": "Thu, 09 Jul 2026 22:15:56 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3007a73af20ec38094db889dde5ee0ee",
+      "title": "NVIDIA倒産危機をセガが救って30年の突発イベント予告 革ジャンが秋葉原GiGO降臨、ファン招待で5090プレゼント 鈴木裕や入交元社長も参加",
+      "link": "https://www.techno-edge.net/article/2026/07/10/5281.html",
+      "summary": "NVIDIAが30年にわたるセガとの縁をゲーマーと祝うイベントの突発開催を予告しました。",
+      "published": "Fri, 10 Jul 2026 13:51:51 +0900",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb2d98db71be49475dce4847528a46a5",
+      "title": "【開催報告 & 資料公開】IT 基盤の環境変化に対応する AWS マイグレーション",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-june/",
+      "summary": "こんにちは。アマゾン ウェブ サービス ジャパン合同会社 パートナーソリューションアーキテクトの深井 宣之です […]",
+      "published": "Fri, 10 Jul 2026 03:57:28 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5581e50810c4441eaf70dc266dca6c4d",
+      "title": "ax — the AI-era curl",
+      "link": "https://ax.yusuke.run/",
+      "summary": "The AI-era curl ax — fetch, discover, extract. One command.Local HTTP and HTML I/O for coding agents. One command instead of curl + throwaway Python —...",
+      "published": "2026-07-09T23:18:58Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3998344809a7579921032fe14e7db93a",
+      "title": "AWSの強い権限は使い捨てに ── ZOZOがJITアクセスを全社導入した設計と運用 - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/just-in-time-access-company-wide-rollout-at-zozo",
+      "summary": "はじめに こんにちは、全社AWS管理部門の江島です。社内で利用されているAWS環境を全社横断的に管理する役割を担っています。 全社AWS管理部門では、AWSを安全に運用するために日頃からさまざまな取り組みを行っています。例えば、AWS本番環境へのアクセス管理においてIAM Identity Cent...",
+      "published": "2026-07-10T02:03:48Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64d9c98abd404f19dcdad2f665b63edf",
+      "title": "Windows Defenderにディスクを食い潰す穴が発見される",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2124087.html",
+      "summary": "",
+      "published": "2026-07-10T03:36:56Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69a11e75fda34fa0758f1e74f967ef8f",
+      "title": "【特集】 LM Studioをさらに便利に使おう！モデルの選び方や便利な使いこなしテクニックを解説",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html",
+      "summary": "",
+      "published": "2026-07-09T21:52:40Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9a03a5b49be53ee16fd6e4b3b22337e",
+      "title": "Introducing Muse Spark 1.1",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "summary": "Today, we’re excited to introduce Muse Spark 1.1, the latest model from Meta Superintelligence Labs and a significant upgrade from Muse Spark. Muse Sp...",
+      "published": "2026-07-09T21:55:20Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04854241351e7baa7a8134feb4b47817",
+      "title": "Model guidance | OpenAI API",
+      "link": "https://developers.openai.com/api/docs/guides/latest-model",
+      "summary": "Example workflows and tasks teams can take on with ChatGPT or Codex",
+      "published": "2023-06-13T23:37:09Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e06f6dda1a13b513db7835a88e8851d7",
+      "title": "Sonnet・Opus で Fable 5 相当の成果物を再現するハーネスの設計と検証",
+      "link": "https://zenn.dev/eda_sann/articles/343ce0f43b8fa5",
+      "summary": "Fable 5 にソースとしてhttps://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5 を渡して、 Opus 4.8 との性能の差がどこから生まれているのかを分析...",
+      "published": "2026-07-09T00:11:29Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfc68fc96c1cbae67bcb5efd826465c4",
+      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+      "summary": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？ JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewritin...",
+      "published": "2026-07-09T14:40:29Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b29c7c11dfaa8af0a8a4c649bb4680d",
+      "title": "Claude Codeに作らせたデスクトップアプリ、その後3ヶ月でどうなったか",
+      "link": "https://zenn.dev/kashioka/articles/7e02592d222990",
+      "summary": "相変わらず、機能コードとほぼ同量のテストが AI から生成されています。そしてコードを書いているのは今でも 99% AIです。私がやっているのは、後述するとおり「何を作るか」と「本当に正しいか」の判断だけ。 3ヶ月で足された主なもの： KaTeX 数式レンダリング（$$...$$） 内部 Markd...",
+      "published": "2026-07-08T13:33:03Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "735f4d0d7b7129a01ced587dc59d4e99",
+      "title": "コード品質分析を活用して、コードを効率的にリファクタリングしよう【Findy Team+】 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/07/10/110000",
+      "summary": "こんにちは！ファインディでプロダクト開発部のVPoEをしている浜田です。 Findy Team+では、コードの複雑さを可視化して技術的負債の解消に役立てられる「コード品質分析」という機能の提供を開始しました。 4つのコード品質に関連する指標を組み合わせて、ファインディ独自のスコアとして可視化していま...",
+      "published": "2026-07-10T02:09:24Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7d160aa941381321761b5ffa42afdb3",
+      "title": "Rust 微経験のWebエンジニアが Claude Code で新機能を実装し、安定運用するまで | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/maintainable-serverless-rust-with-claude/",
+      "summary": "Claude Codeを使ってRustで新機能を開発し、1年以上本番運用できている私たちの歩み方を振り返ります。微経験の言語でも、設計・テスト・仕組みで堅牢性を確保する手法をお伝えします。 クラウド事業統括本部 プラットフォーム事業本部 サービス開発部の金谷です。 AI、主に Claude Code...",
+      "published": "2026-07-09T13:10:51Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "165284d80508864da75b8b894239d8f8",
+      "title": "GitHub - makinux/adversarial-panel",
+      "link": "https://github.com/makinux/adversarial-panel",
+      "summary": "A Claude Code skill for multi-model adversarial mutual review — multiple models answer a question independently, attack each other's answers across ro...",
+      "published": "2026-07-09T22:13:50Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fd846cdcef00fce82e1ea31496a6914",
+      "title": "日沼諭史の「AI活用入門塾」 日報のような毎日必須のレポート作成は「スキル」に頼ってみて",
+      "link": "https://ai.watch.impress.co.jp/docs/serial/beginner/2122380.html",
+      "summary": "",
+      "published": "2026-07-09T22:50:07Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c60555f051f182ab12d5085d1d4249a4",
+      "title": "OpenAI「GPT-5.6」公開、下位モデルでも16分の1のコストでFable 5超えうたう",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2123999.html",
+      "summary": "",
+      "published": "2026-07-09T23:10:33Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bda873c7f2f11af66686360c72011f0f",
+      "title": "「全東信」破産 経団連会長も言及 カード決済の環境整備強調 「事業者は健全経営を」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news085.html",
+      "summary": "クレジットカード決済代行会社「全東信」（大阪市中央区）の破産手続きをめぐり、経団連の筒井義信会長は7月9日、大阪市内で開いた記者会見で「一般論として、決済を扱う事業者は健全経営を徹底すべきだ」と述べた。キャッシュレス決済の普及が進む中、店舗や消費者が安心して利用できる環境づくりの重要性も強調した。 ...",
+      "published": "2026-07-10T01:33:06Z",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98d9dda85d77b584b05ef2625fa407cb",
+      "title": "コルグ、各種マシンの出力をまとめるのに最適な小型ミキサー、「NTS-4 mixer kit」を発表…… モジュラーレベルにも対応、オーディオ・インターフェース機能も搭載",
+      "link": "https://icon.jp/archives/27840",
+      "summary": "コルグが新製品、「NTS-4 mixer kit」を発表。各種マシンやモジュラーシンセの出力をまとめるのに最適なマイクロ・ミキサーが、明日（2026年7月11日）から発売になります。 コルグ「NTS-4 mixer ki […]",
+      "published": "Fri, 10 Jul 2026 05:00:00 +0000",
+      "fetched_at": "2026-07-10T07:28:04.053921+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-10T02:08:56.398886+00:00"
+  "updated_at": "2026-07-10T07:28:04.053921+00:00"
 }

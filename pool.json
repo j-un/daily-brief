@@ -69,7 +69,247 @@
       "fetched_at": "2026-07-09T23:03:49.405601+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "1e00b1a2a384770b77b9604ec7fe96ce",
+      "title": "The code review is dead; long live the code review | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/testing/code-review-dead-long-live-code-review",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The code review is dead; long live the code review",
+      "published": "10 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51cc6866776b52433e176547f0a2268e",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/enterprise-ai-model-routing/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Microsoft just admitted its biggest AI mistake — and spent $2.5 billion fixing it",
+      "published": "09 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4ffd2fe1bbf5a41a004abd4f0b98353",
+      "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
+      "summary": "Article URL: https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/ Comments URL: https://news.ycombinator.com/item?id=48849292 Poin...",
+      "published": "Thu, 09 Jul 2026 17:17:16 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d69a44df9d060ad8352a4925033c00d5",
+      "title": "Opinionated and easy Pi.dev configuration",
+      "link": "https://lazypi.org/",
+      "summary": "Article URL: https://lazypi.org/ Comments URL: https://news.ycombinator.com/item?id=48847407 Points: 109 # Comments: 61",
+      "published": "Thu, 09 Jul 2026 15:19:33 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e41b1586b2fd69acf3f0f14b735b6d7d",
+      "title": "A road to Lisp: Why Lisp",
+      "link": "https://scotto.me/blog/2026-07-09-why-lisp/",
+      "summary": "Article URL: https://scotto.me/blog/2026-07-09-why-lisp/ Comments URL: https://news.ycombinator.com/item?id=48845209 Points: 115 # Comments: 110",
+      "published": "Thu, 09 Jul 2026 13:06:04 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0331d3a4f5ebf03235d666401bf383d1",
+      "title": "Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」、NVIDIAが「Qwen3.6」を軽量化4ビットモデルを商用利用可能で公開など生成AI技術5つを解説（生成AIウィークリー）",
+      "link": "https://www.techno-edge.net/article/2026/07/10/5280.html",
+      "summary": "今回の「生成AIウィークリー」（第151回）は、Claude Opus 4.7に匹敵するコーディングAI「Ornith-1.0」や、動画から世界のしくみを学ぶAIモデル「Orca」を取り上げます。",
+      "published": "Fri, 10 Jul 2026 08:43:24 +0900",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "0283dbd523d312a5ee36c6211374e21c",
+      "title": "AWS Cloud WAN Routing Policy：実運用におけるグローバルネットワークのシナリオ集 (Part 2)",
+      "link": "https://aws.amazon.com/jp/blogs/news/networking-and-content-delivery-aws-cloud-wan-routing-policy-real-world-global-network-scenarios-part-2/",
+      "summary": "本記事では、AWS Cloud WAN のルーティングポリシーを使い、ハイブリッド環境やマルチサイト環境で一般的に見られる3つの実運用シナリオを取り上げます。Transit Gateway 環境からの移行中のルート伝播制御、複数の Direct Connect ロケーション間のパス選択の改善、そして...",
+      "published": "Fri, 10 Jul 2026 01:43:38 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3050ff8b2332005b59b13bcfcc8f67c2",
+      "title": "Kiro の超過利用の上限設定と前払い機能のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/cap-prepay-overage/",
+      "summary": "Kiro の超過利用に関する 2 つの新機能をご紹介します。チーム向けには、AWS Service Quotas コンソールからアカウント単位で超過利用の上限を設定できるようになりました。個人開発者向けには、有料プラン利用者が前払いで購入できるアドオンクレジットパック (最小 5 ドルから) を追加...",
+      "published": "Fri, 10 Jul 2026 01:21:11 +0000",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3a269eefa8e29f38744796d3825a049",
+      "title": "OAuth support for the AWS MCP Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/",
+      "summary": "You can now connect AI agents directly to the AWS MCP Server using AWS Sign-In. Agents connect using industry-standard OAuth without requiring additio...",
+      "published": "Thu, 09 Jul 2026 23:03:00 GMT",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0af0acf9fb594deba31a96f1dd9b404",
+      "title": "AWS Config now supports 191 additional managed rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-config-additional-managed-rules",
+      "summary": "AWS Config now supports 191 additional managed rules across key services including Amazon Bedrock, Amazon SageMaker, Amazon ECS, Amazon EKS, Amazon RD...",
+      "published": "Thu, 09 Jul 2026 12:00:00 GMT",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b6ab127f4d248cf52390a7cf7f5653e",
+      "title": "メタ｢インスタ｣画像、他人がAIで合成可能 拒否しないと勝手に素材化 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN09CE20Z00C26A7000000/",
+      "summary": "【シリコンバレー=山田航平】米メタはSNS「インスタグラム」の仕様を変更し、投稿画像を使って他人がAI画像を合成できる機能を標準搭載した。無断使用を拒否しない限りAIが勝手に素材として利用し続ける「オプトアウト方式」を採用し、有名人などから反発を招いている。メタは7日、画像生成に特化した生成AIモデ...",
+      "published": "2026-07-09T22:25:27Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d963e92d26686073a1e939c81d157e6",
+      "title": "官公庁や企業向けだったオフィス統合環境「JUST Office 6 Pro」が個人向けに提供へ／PDF編集ツール「JUST PDF 6」を同梱",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2123857.html",
+      "summary": "",
+      "published": "2026-07-09T23:48:40Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ea2f873ff6dd3896ee17339f7ed72ca",
+      "title": "米企業、コスト安い中国AIに乗り換え 開発者向けでは利用5割に迫る - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN07C2E0X00C26A7000000/",
+      "summary": "【ニューヨーク=内山瑞貴】米国企業の間で中国製の人工知能（AI）の利用が広がっている。米高性能AIの1%程度の料金で使えるモデルもあることから乗り換えが進み、特に業務ソフトにAIを組み込む際などに使うサービス「オープンルーター」では中国AI利用率が50%に迫っている。各社のAIモデルを自由に切り替え...",
+      "published": "2026-07-09T22:46:07Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "809e90e5f62e31fa7873a375984d2847",
+      "title": "Orca — The Worktree IDE for Claude Code, Ghostty & AI Coding Agents",
+      "link": "https://www.onorca.dev/",
+      "summary": "The command center for AI coding agents.Orca brings the whole AI engineering workflow into one app: multiple worktrees, multiple terminals, markdown e...",
+      "published": "2026-04-04T12:31:55Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8acd21851b94a80f70a53f23df7482bd",
+      "title": "文字の変化を気持ちよく見せる! テキストアニメーションのJavaScriptライブラリまとめ - ICS MEDIA",
+      "link": "https://ics.media/entry/260709/",
+      "summary": "テキスト演出では、見た目だけでなく読み上げや選択、コピーへの影響などアクセシビリティにも注意が必要です。元のテキストが読み取りやすい構造で残るか、装飾のための文字が選択やコピーの邪魔にならないかを確認しておくと安心です。 slot-text slot-textは、短いUIラベルをスロットのように切り...",
+      "published": "2026-07-09T23:49:29Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c9facbe7d65369a3a37bf8c3b74ff5",
+      "title": "HTMLやCSSをドラッグ＆ドロップするだけでウェブサイトとして公開できる「Cloudflare Drop」を使ってみた",
+      "link": "https://gigazine.net/news/20260709-cloudflare-drop/",
+      "summary": "CDN大手のCloudflareが「Cloudflare Drop」という静的サイトデプロイサービスを2026年7月8日にリリースしました。HTMLファイルなどをドラッグ＆ドロップするだけでCloudflareのCDNを用いたウェブサイト公開が可能で、アカウント作成せずとも60分間の期限付き公開を試...",
+      "published": "2026-07-09T10:42:04Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "354072b8d7792480c479be9016a37792",
+      "title": "ヒト型ロボットがアキバの地下リングで殴り合い 米国発メカ格闘技「REK」日本上陸",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news167.html",
+      "summary": "米国のロボット格闘技団体「REK」が、7月25日に日本の秋葉原でイベントを初開催する。ヒト型ロボットがリングの中で殴り合う競技「REK」を公演。「ロボットの街・秋葉原で繰り広げる、破壊と歓声のエンターテインメント」（同社）になるとうたう。 REKはVR機器を使ってヒト型ロボットを遠隔操作し、八角形の...",
+      "published": "2026-07-09T11:07:19Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3bc43fd2d02d8edebb8c2f1c365c1f2",
+      "title": "デスクトップ版ChatGPT大幅刷新 AIエージェント「Codex」統合、「ChatGPT Work」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
+      "summary": "米OpenAIは7月9日（現地時間）、チャットAIサービス「ChatGPT」とAIコーディングエージェント「Codex」を統合した「ChatGPT Work」を発表した。「GPT-5.6」シリーズを搭載する。最終成果物を指定するだけで、あいまいな状況にも適応しながら最小限の指示で洗練されたアウトプッ...",
+      "published": "2026-07-09T20:03:29Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73eed86e2f53ee53f40118998d8b81d1",
+      "title": "NVIDIAが「セガとの歴史を祝うイベント」開催へ “革ジャン”フアンCEOも来日",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news138.html",
+      "summary": "米NVIDIAの日本法人が、セガとの歴史を祝う招待制イベントを7月15日に開催する。ジェンスン・フアンCEOが来日するほか、セガ経営陣も参加する予定だ。 12日までにXで「NVIDIAやセガの思い出」を投稿したユーザーのうち「素敵な投稿」をした人を招待。GPUのプレゼント企画などを行うという。当選者...",
+      "published": "2026-07-09T10:06:11Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4930d5a745580e112044a791615553a6",
+      "title": "流れを自由自在に操りアジリティを高める「かんばん」方法論 - カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/kanban",
+      "summary": "流れを自由自在に操りアジリティを高める「かんばん」方法論 こんにちは。健康診断の肺活量診断で看護師さんに「もっといける！もっといけるぞ！そうだ、どんどんだせ！いけー！」と応援されたけど、前回の記録を更新できなかった daipresents です。次も同じとこで受けよう。 カミナシの開発プロセスは、プ...",
+      "published": "2026-07-09T01:44:33Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11d91bfc85def0d93e9f3ea703c1fb53",
+      "title": "My Thoughts on the Bun Rust Rewrite - Andrew Kelley",
+      "link": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "summary": "My Thoughts on the Bun Rust Rewrite Context: Rewriting Bun in Rust History When Jarred joined the Zig community about 5 years ago, I described him as ...",
+      "published": "2026-07-09T22:45:46Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63accbb7dca380bfdef133da1cef5bce",
+      "title": "山手線の各駅の発車メロディ・ドア開閉音・車内アナウンスを延々ループ再生し続ける「Yamanote.fun」",
+      "link": "https://gigazine.net/news/20260709-yamanote-fun/",
+      "summary": "東京都心部を周回する山手線では、駅ごとにさまざまな発車メロディが設定されています。「Yamanote.fun」は、山手線各駅の発車メロディやドアの開閉音、列車の走行音、停車駅のアナウンスなどを延々とループ再生できるウェブサイトです。 Yamanote.fun https://www.yamanote...",
+      "published": "2026-07-09T13:54:31Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "47a1074277e772d530e07bd7d25436ce",
+      "title": "SwitchBot、電子ペーパー採用の情報端末「スマートデイリーステーション」に、画面レイアウトを自由に編集できる「Webエディター」追加 Amazonプライムデーで7月13日まで19％OFF",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2123805.html",
+      "summary": "",
+      "published": "2026-07-09T06:52:35Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "81a942c781ce9387e3960b7ff4916aa9",
+      "title": "寝る前の「ベッドでスマホ」は睡眠時間を延ばす？ Apple Watchが示した意外な結果 欧州チームが研究発表",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news090.html",
+      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が...",
+      "published": "2026-07-09T22:45:02Z",
+      "fetched_at": "2026-07-10T02:08:56.398886+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-09T23:03:49.405601+00:00"
+  "updated_at": "2026-07-10T02:08:56.398886+00:00"
 }

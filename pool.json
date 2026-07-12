@@ -1,166 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "7aaeda18cbb492c6bcf53d598f73428d",
-      "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず。公正取引委員会が調査を終了 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/vmware_9.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず。公正取引委員会が調査を終了",
-      "published": "11 Jul 2026 03:55 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b6a51959735febccebf3e2fac3f71276",
-      "title": "GoogleユーザーのIPv6利用率がついに50％を超えたことが判明 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/googleipv650.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GoogleユーザーのIPv6利用率がついに50％を超えたことが判明",
-      "published": "11 Jul 2026 02:55 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4e2780301079b7bd5bd122a5da99ef08",
-      "title": "Of Course Meta Platforms Is Going To Be A Cloud",
-      "link": "https://www.nextplatform.com/cloud/2026/07/01/of-course-meta-platforms-is-going-to-be-a-cloud/5265392",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Of Course Meta Platforms Is Going To Be A Cloud",
-      "published": "11 Jul 2026 01:55 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b1b7fe6054ff32f644a3f464196c26f4",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "summary": "https://www.science.org/doi/10.1126/science.aei1285 Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 159 # Comments: 54",
-      "published": "Fri, 10 Jul 2026 22:30:44 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "fb223e44988863c937af01d6eb0d3b45",
-      "title": "An update on residential proxies and the scraper situation",
-      "link": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 136 # Commen...",
-      "published": "Fri, 10 Jul 2026 19:38:34 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d9f3d7963250780a94aca56f3df710d6",
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "link": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "summary": "Article URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/ Comments URL: https://news.ycomb...",
-      "published": "Fri, 10 Jul 2026 17:51:07 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "115e49494d8560cb611d8452fa841b6d",
-      "title": "Computation as a universal and fundamental concept",
-      "link": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "summary": "Article URL: https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept Comments URL: https://news.ycombinator.com/item?id=48861213 P...",
-      "published": "Fri, 10 Jul 2026 15:23:42 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b7d6590df8da76e754d388467054f1ac",
-      "title": "Kiro で Claude Sonnet 5 が利用可能になりました",
-      "link": "https://aws.amazon.com/jp/blogs/news/kiro-%E3%81%A7-claude-sonnet-5-%E3%81%8C%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/",
-      "summary": "2026 年 7 月 1 日より、Claude Sonnet 5 が Kiro の IDE、CLI、Web でご利用いただけるようになりました。Sonnet 5 は Anthropic がこれまでに提供した中で最もエージェント性能に優れた Sonnet モデルであり、Sonnet 4.6 から大幅に...",
-      "published": "Sat, 11 Jul 2026 03:49:44 +0000",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "82c9c32f5671b1c4df82ee78915f1bd9",
-      "title": "AI 2040: Plan A",
-      "link": "https://ai-2040.com/",
-      "summary": "Thomas Larsen, Romeo Dean, Brendan Halstead, Eli Lifland, Ryan Greenblatt, Daniel Kokotajlo AI companies are racing to build AIs that are smarter than...",
-      "published": "2026-07-10T01:59:22Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e91d6787d55be31e56ebac3e54461540",
-      "title": "15年前の『アジャイルサムライ』、AI時代に古びたのは\"作るコスト\"の教えだけだった - Qiita",
-      "link": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 15年前の定番書『アジャイルサム...",
-      "published": "2026-07-10T06:15:46Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d6d5a2c2f5f37c62fd5bc3c504332a3f",
-      "title": "ISMSの運用を、GitHub×Claudeで“ラクで楽しい”ものにする【前編】",
-      "link": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
-      "summary": "対象読者: ISMSの活動に関わっているみなさん キーワード: ISO/IEC 27001、リスクアセスメント、情報資産管理、ドキュメント管理の自動化 はじめに ISMS（情報セキュリティマネジメントシステム、ISO/IEC 27001）を運用していると、避けて通れないのが大量のドキュメント管理です...",
-      "published": "2026-07-10T11:08:57Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "847463862f75ab1b5b445b31b0bea7ca",
-      "title": "総務省｜不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～",
-      "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000604.html",
-      "summary": "お知らせ 令和7年5月2日 （令和7年5月15日更新） 不法無線局の疑いのある無線機器※からの携帯電話サービスへの混信 ～フィッシング詐欺等のSMSにご注意ください～ 昨今、都内周辺をはじめとする一部の都市において、不法無線局の疑いのある無線機器からの携帯電話サービスへの混信事案が発生しており、携帯...",
-      "published": "2025-05-02T04:15:16Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5be5e6997c182ca4ac354d2bd2956466",
-      "title": "やさしいループエンジニアリング入門 | ドクセル",
-      "link": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
-      "summary": "ループエンジニアリングに火をつけた3人 コーディングエージェントに直接指示するな エージェントに指示を出す “ループ” を設計しろ Peter Steinberger OpenClaw の作者 もう Claude に指示は出していない 私の仕事はループを書くことだ KDDI Agile Develo...",
-      "published": "2026-07-10T12:53:13Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "40ce8f62a32391de575cca9b40f0d1e9",
-      "title": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方 - Qiita",
-      "link": "https://qiita.com/aktsmm/items/7b92f95325893cb4e5a3",
-      "summary": "GPT-5.6 は何が変わった？ Luna / Terra / Sol の違いと実務での選び方 こんにちは、新モデルが出るたびに「結局どれを選べばいいの？」から調べ始めるアーキテクトのやまぱん！です 😅 2026/07/09、OpenAI が GPT-5.6 を一般提供。Sol / Terra / ...",
-      "published": "2026-07-10T03:05:21Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "3007a73af20ec38094db889dde5ee0ee",
-      "title": "NVIDIA倒産危機をセガが救って30年の突発イベント予告 革ジャンが秋葉原GiGO降臨、ファン招待で5090プレゼント 鈴木裕や入交元社長も参加 | テクノエッジ TechnoEdge",
-      "link": "https://www.techno-edge.net/article/2026/07/10/5281.html",
-      "summary": "NVIDIAが30年にわたるセガとの縁をゲーマーと祝うイベントの突発開催を予告しました。",
-      "published": "2026-07-10T08:21:33Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e509ee66114d9826ea03b707f3cef28f",
-      "title": "Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/11/news038.html",
-      "summary": "米Appleは7月10日（現地時間）、同社の営業秘密を不正に取得したとして、元従業員2人と米OpenAI、傘下のio Productsをカリフォルニア州北部地区連邦地裁サンノゼ支部に提訴した。 Appleは、iPhoneなどの開発で培った機密情報が、ハードウェア事業への参入を進めるOpenAIに流出...",
-      "published": "2026-07-11T00:02:54Z",
-      "fetched_at": "2026-07-11T04:57:33.288430+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "5ec3b84ac963471eac64d5c02bcfa2e8",
       "title": "開発プロセスに組み込む継続的なセキュリティ対策 ～ヒアリングの標準化からAI活用、PoCによる現場定着まで | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/07/continuous-security",
@@ -1299,7 +1139,247 @@
       "fetched_at": "2026-07-12T08:03:19.747770+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "2e75184d470791eb17653646421bc58d",
+      "title": "GitHub Actions の parallel でデプロイは8分→3分、CI はコスト3割減になった",
+      "link": "https://zenn.dev/hatsu/articles/github-actions-steps-parallel",
+      "summary": "parallel、メモ",
+      "published": "12 Jul 2026 09:28 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "53ab22790ad3c1ee3dd2b2c1f19f3d4b",
+      "title": "3-shake テックランチ会 #1 - connpass",
+      "link": "https://3-shake.connpass.com/event/399469/",
+      "summary": "オンライン開催",
+      "published": "12 Jul 2026 09:21 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9e94244033154be324ffebc5efeb338",
+      "title": "Apache Iceberg Meetup Japan #7 - connpass",
+      "link": "https://iceberg.connpass.com/event/399857/",
+      "summary": "現地/オンライン",
+      "published": "12 Jul 2026 09:09 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67c27f2f77942a22e389c6271095db98",
+      "title": "もう一度考えるSRE #1 - connpass",
+      "link": "https://topotal.connpass.com/event/399194/",
+      "summary": "現地開催",
+      "published": "12 Jul 2026 09:06 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f81489a79a4218cd809e03fee22c1f54",
+      "title": "JDDUG#21 オンライン Datadog 勉強会１ - connpass",
+      "link": "https://datadog-jp.connpass.com/event/399572/",
+      "summary": "オンライン開催",
+      "published": "12 Jul 2026 09:04 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55dee98b4da492ca3626d7fefb6fa08a",
+      "title": "Cloud Security Night #4 - connpass",
+      "link": "https://kinto-technologies.connpass.com/event/396976/",
+      "summary": "現地開催",
+      "published": "12 Jul 2026 09:03 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c6038eabdf276d71c9e6eb39e7649a9",
+      "title": "AWS CDK Conference Japan 2026 - connpass",
+      "link": "https://jawsug-cdk.connpass.com/event/393595/",
+      "summary": "現地/オンライン",
+      "published": "12 Jul 2026 09:02 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ba15fb177716278b6c4ae0d5318df00",
+      "title": "KMLでの配布、もうやめませんか。 | Stop Shipping KML",
+      "link": "https://shimizu.github.io/Stop-Shipping-KML/",
+      "summary": "「Web版Google Earthは今やGeoJSONもShapefileも直接読み込めます」なるほど。「GeoJSON（またはCSV）を正のデータとして公開してください」承知",
+      "published": "12 Jul 2026 08:58 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7b012a19a14f0e72520800dbc586576",
+      "title": "Terraform Actionを使ってみた。 命令的な操作をリソースのライフサイクルイベントに紐づけて実行できます | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/terraform-actions/",
+      "summary": "Terraform Actionアツイ。うまく活用していきたい。",
+      "published": "12 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ceecee2238c9727af5b5349bd5c76710",
+      "title": "PerlのLSP実装。Rakuの実装も別途用意されてる…",
+      "link": "https://github.com/bscan/PerlNavigator",
+      "summary": "PerlのLSP実装。Rakuの実装も別途用意されてる",
+      "published": "12 Jul 2026 08:51 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cbccae91d30ac91acc6cf721da71568",
+      "title": "既存のCloudWatch監視を止めずにOTelメトリクスへ移行してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/migrate-cloudwatch-to-otel-metrics-without-downtime/",
+      "summary": "ハマりどころ、参考になる。メモ",
+      "published": "12 Jul 2026 08:45 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "421f34060efeb4770453b96c1424fd06",
+      "title": "ターミナル中心の開発環境が手になじんできたので、実務で効いていることを紹介したい",
+      "link": "https://zenn.dev/shinkawa/articles/ae1f88aa0fb027",
+      "summary": "本題と関係ないんだけど、ターミナルを透過して後ろに資料を表示させることで表示領域広げるテクをやってる人は昔の職場にいた。この記事の各スクリーンショットを見てて思い出した。",
+      "published": "12 Jul 2026 08:36 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d9629e24c9c257b258a0a4312eb2252",
+      "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
+      "link": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
+      "summary": "AWSに閉じた世界でもAmazon S3への通信がバージニア北部経由になってたとかあるあるのやつだ。",
+      "published": "12 Jul 2026 08:32 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "646f0fc5ade1b1610927626186ff97ff",
+      "title": "【Windows標準OCR】窓キー + Shift + T キー押してますか？ #tips - Qiita",
+      "link": "https://qiita.com/kaga-yasumitsu/items/e9ce46596969983cdb4e",
+      "summary": "へー知らなかった。覚えておこう。",
+      "published": "12 Jul 2026 08:30 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93f83060bf38b967cbf0363629e4adc2",
+      "title": "AppImage, AppBundle, 静的バイナリなど、Linuxディストリ…",
+      "link": "https://github.com/pkgforge/soar",
+      "summary": "AppImage, AppBundle, 静的バイナリなど、Linuxディストリビューションを問わず稼働可能なポータブルな各種フォーマットをまとめて管理できるパッケージマネージャ。Rust実装",
+      "published": "12 Jul 2026 08:27 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acbfb6b0b312bbcdb38f290e3dbf6e2e",
+      "title": "SphinxのLSP実装。Sphinxでドキュメントを書かれる皆様。…",
+      "link": "https://github.com/swyddfa/esbonio",
+      "summary": "SphinxのLSP実装。Sphinxでドキュメントを書かれる皆様。",
+      "published": "12 Jul 2026 08:22 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "174ffdacae02e3c56ed527183e4fffda",
+      "title": "DuckDBをMySQL 9.7のstorage engineとして利用するため…",
+      "link": "https://github.com/EvgeniyPatlan/ducksdb-mysql-engine",
+      "summary": "DuckDBをMySQL 9.7のstorage engineとして利用するための実装。ENGINE=InnoDBと書くところがENGINE=DuckDBになると。つまりテーブル単位なので混在可能。わいわい。",
+      "published": "12 Jul 2026 08:17 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e9fd4ed5f9b6418d883e0a3084bbb5f",
+      "title": "Equinixが正式にベアメタルサービスを終了 | Data Center Café",
+      "link": "https://cafe-dc.com/cloud/equinix-officially-retires-bare-metal-offering/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Equinixが正式にベアメタルサービスを終了 | Data Center Café",
+      "published": "12 Jul 2026 10:56 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c129ea011593033923ff039c167e324",
+      "title": "Aurora MySQL の GTID モード有効化と Datastream の安全な切り替え - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/07/06/134421",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Aurora MySQL の GTID モード有効化と Datastream の安全な切り替え",
+      "published": "12 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68b8e37f949a0e0f29e021f05af23026",
+      "title": "システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み",
+      "published": "12 Jul 2026 08:56 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c86a3fb8f66c72d82ad4887be80c18fa",
+      "title": "ROSA（Red Hat OpenShift Service on AWS）を利用したコンテナプラットフォーム構築 ~ROSAの特徴とメリット~ | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/53140",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ROSA（Red Hat OpenShift Service on AWS）を利用したコンテナプラットフォーム構築 ~ROSAの特徴とメリット~ | SIOS Tech Lab",
+      "published": "12 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "185bfa6db7681cdcab25ab57980d6c91",
+      "title": "Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
+      "link": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "summary": "Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext Comments URL: https://news.ycombinator.com/item?id=48877192 Points: 100...",
+      "published": "Sun, 12 Jul 2026 00:35:08 +0000",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ac95bc22905a468d0d6f4ca82b2c405",
+      "title": "型は壁、Rustでもバグを直すな、表現できなくせよ",
+      "link": "https://speakerdeck.com/nwiizo/xing-habi-rustdemobaguwozhi-suna-biao-xian-dekinakuseyo",
+      "summary": "関数型まつりで登壇したりします。 https://2026.fp-matsuri.org",
+      "published": "2026-07-11T06:18:53Z",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b654b881505ed723f47d595d4a565243",
+      "title": "経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2123986.html",
+      "summary": "",
+      "published": "2026-07-10T07:45:23Z",
+      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-12T08:03:19.747770+00:00"
+  "updated_at": "2026-07-12T11:05:55.349544+00:00"
 }

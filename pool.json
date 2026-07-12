@@ -1,126 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "36a7580cf73c6a96dc7f2e5b39515822",
-      "title": "【ベータ開始】AWS 認定を最新の状態に保つ新しい方法 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【ベータ開始】AWS 認定を最新の状態に保つ新しい方法 | Amazon Web Services",
-      "published": "10 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c6113a7431def3b32a1931a9cc4ea823",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 518 # Comments: 249",
-      "published": "Fri, 10 Jul 2026 20:47:09 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "dfda5ffb5892c1e81abe42448ef0d51b",
-      "title": "Please don't discontinue Gemini 2.5 Flash",
-      "link": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "summary": "Article URL: https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246 Comments URL: https://news.ycombinator.com/item?id=488645...",
-      "published": "Fri, 10 Jul 2026 20:00:28 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "cb4333ce0abc60ff4c3e9737b4aa26cb",
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "link": "https://waratlas.org",
-      "summary": "Article URL: https://waratlas.org Comments URL: https://news.ycombinator.com/item?id=48863080 Points: 112 # Comments: 58",
-      "published": "Fri, 10 Jul 2026 17:52:48 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4f95f8ffdca37e249e0b96da2269918d",
-      "title": "Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters using continuous provisioning",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2025/06/ami-configuration-continuous-slurm/",
-      "summary": "Amazon SageMaker HyperPod now supports AMI-based configuration for Slurm clusters that use continuous provisioning. Continuous provisioning adds nodes...",
-      "published": "Fri, 10 Jul 2026 17:00:00 GMT",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "4b9158a612b28ac36eb4c369b9d75f02",
-      "title": "Loop Engineeringで失敗しないためのハーネス設計",
-      "link": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-      "summary": "「動きました！」（動いてない） 「全テストパスしました！」（通るように書いたテストが、通っただけ） 「完了しました ✅」（何も完了していない） AI coding agent を業務で使っている人なら、どれか一つは見覚えがあるはずです。私は全部、見覚えがあります。これは個人の体験談だけの話でもありま...",
-      "published": "2026-07-10T15:09:34Z",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e18569bf37fca897bd0235576bf8db4e",
-      "title": "ミズノ、「ピックルボール」市場に参入 競技人口7倍に拡大",
-      "link": "https://www.watch.impress.co.jp/docs/news/2124158.html",
-      "summary": "",
-      "published": "2026-07-10T06:37:38Z",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "753194c06db8eab1bdee2244d6cd2cb3",
-      "title": "Email Verification Protocol を理解しよう - r-weblife",
-      "link": "https://ritou.hatenablog.com/entry/2026/07/10/210745",
-      "summary": "ritouです。 Email Verification Protocol Origin Trial Email Verification ProtocolのOrigin Trialが始まったようです。 https://developer.chrome.com/blog/email-verificat...",
-      "published": "2026-07-10T12:33:31Z",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "cce21cad6a45e987c70b72b73a0106ca",
-      "title": "セキュリティ対策を強化したメールサーバー専用プラン【メールボックス】 - レンタルサーバーはさくらインターネット",
-      "link": "https://rs.sakura.ad.jp/plan/mail/",
-      "summary": "無料SSL Let’s Encrypt Let's Encryptなら無料で簡単に独自SSLがご利用できます。",
-      "published": "2007-06-25T15:50:59Z",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e0eb31222492034eba5b75250e0b8367",
-      "title": "📦 jbeder / yaml-cpp ⭐ 6,044 (+65) 🗒 C++…",
-      "link": "https://github.com/jbeder/yaml-cpp",
-      "summary": "📦 jbeder / yaml-cpp ⭐ 6,044 (+65) 🗒 C++ A YAML parser and emitter in C++",
-      "published": "11 Jul 2026 01:16 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7b96a8713f54316d7054238b00bac24a",
-      "title": "📦 abseil / abseil-cpp ⭐ 17,469 (+3) 🗒 C+…",
-      "link": "https://github.com/abseil/abseil-cpp",
-      "summary": "📦 abseil / abseil-cpp ⭐ 17,469 (+3) 🗒 C++ Abseil Common Libraries (C++)",
-      "published": "11 Jul 2026 00:16 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1529ac3945ee1527b7453e77334d6bcf",
-      "title": "📦 chriskohlhoff / asio ⭐ 6,032 (+87) 🗒 C…",
-      "link": "https://github.com/chriskohlhoff/asio",
-      "summary": "📦 chriskohlhoff / asio ⭐ 6,032 (+87) 🗒 C++ Asio C++ Library",
-      "published": "10 Jul 2026 23:16 +0000",
-      "fetched_at": "2026-07-11T01:54:43.247062+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "7aaeda18cbb492c6bcf53d598f73428d",
       "title": "ブロードコムによるVMware製品抱き合わせ販売疑惑、独占禁止法違反と認定されず。公正取引委員会が調査を終了 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/vmware_9.html",
@@ -1199,7 +1079,227 @@
       "fetched_at": "2026-07-12T05:29:05.733910+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c5a452abf65e093ac65b4d7fd92f20ef",
+      "title": "�����΍�F�g�C���̓d�����g�t�@���t��LED���C�g�h�Ɍ���������z���ȏ�ɉ��K�ɂȂ����i1/5 �y�[�W�j - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/09/news077.html",
+      "summary": "「人感センサー搭載ファン付LEDミニライト」参考価格：6,980円。なるほど？",
+      "published": "12 Jul 2026 07:40 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0712788b8ce29f7fcd2bd27c5104eaf9",
+      "title": "現場のGoプログラミング 実プロジェクトで役立つイディオムとテスト - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1125101136",
+      "summary": "2026年9月9日発売",
+      "published": "12 Jul 2026 07:37 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a466ea0e173c0eff5b20fa8b9de92f7",
+      "title": "Otty — A native, beautiful terminal app",
+      "link": "https://otty.sh/",
+      "summary": "macOS向けターミナル実装。垂直タブで各種AIエージェントの進捗管理も可能と。brew install --cask otty",
+      "published": "12 Jul 2026 07:35 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55263395f1bf8c1022f2575f0d4408f8",
+      "title": "PostgreSQL公式のDockerイメージはextensionsを含んでいな…",
+      "link": "https://github.com/pglayers/pglayers",
+      "summary": "PostgreSQL公式のDockerイメージはextensionsを含んでいない問題を解決するためのプロジェクト。公式イメージをベースに拡張を含んだイメージを公開している。自前ビルドするためのツールも用意。",
+      "published": "12 Jul 2026 07:32 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86d06c9fe1a11ee0160ff7979f501ea7",
+      "title": "Google Cloud エミュレーター「floci-gcp」を試す - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/09/084739",
+      "summary": "AWSエミュレータとして知られるflociがGoogle Cloudエミュレータもリリースしてると。ほほう",
+      "published": "12 Jul 2026 07:27 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e8a0cc1b64f6a0d88090377fb15f374",
+      "title": "public dns serversを公開しているサービスに対してDNSレコード…",
+      "link": "https://github.com/514-labs/dnsglobe",
+      "summary": "public dns serversを公開しているサービスに対してDNSレコードの「浸透」状況を調査するためのTUIツール。浸透警察の皆さん、こんにちは。",
+      "published": "12 Jul 2026 07:06 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b222e3c247215e0e317950dcc31f96e",
+      "title": "Dependencies should be fetched directly from VCS",
+      "link": "https://www.arp242.net/deps-vcs.html",
+      "summary": "RubyGems, npm, PyPIなどの中央集権で依存関係を解決するのではなく、Goのように分散型で各VCSに取得しに行くのが良い設計ではないか、と。Go以外だとDenoはそういう形式だったはず。調べたところSwiftもそうらしい。",
+      "published": "12 Jul 2026 07:01 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ba268a1c4d8990b05bd10cdb8c6382c",
+      "title": "Go Conference 2026",
+      "link": "https://gocon.jp/2026/",
+      "summary": "2026/09/11 中野セントラルパークカンファレンス",
+      "published": "12 Jul 2026 06:04 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e0666e9c7505b0624baf8d5e07e391a",
+      "title": "「OpenSSH 10.4／10.4p1」リリース ─ 複数のセキュリティ問題を修正 | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/news/39350",
+      "summary": "ML-DSAという文字が見えたので、お、きたか？と思ったが署名のみでML-DSA鍵に対応したわけではなかった。ステイ。",
+      "published": "12 Jul 2026 06:03 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "29ff4a9572725afcaa61651eeba360b4",
+      "title": "Elastic、PrometheusネイティブサポートとKubernetesエージェンティック調査機能を発表——メトリックとログを単一プラットフォームで統合 | 編集部が読み解く! 3行でわかるテックニュース | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/article/39341",
+      "summary": "Elastic ObservabilityにPrometheus Remote Writeでメトリクスを記録できるようになったと。PromQLでのクエリーにも対応。トレースも対応済。",
+      "published": "12 Jul 2026 06:02 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d35b52a2242378bb01c668875f9af32",
+      "title": "Windows/Linux向けシステムクリーナーBleachBitこれか。Pyt…",
+      "link": "https://github.com/bleachbit/bleachbit",
+      "summary": "Windows/Linux向けシステムクリーナーBleachBitこれか。Python実装",
+      "published": "12 Jul 2026 05:51 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c3f06a4ef1594e1637481e2f46dff81",
+      "title": "「BleachBit 6.0.2」リリース ─ Windows・Linux対応のシステムクリーニングソフト | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/news/39344",
+      "summary": "BleachBit初耳。「不要なファイルやキャッシュ、Cookie、閲覧履歴などを削除し、ストレージ容量の確保やプライバシー保護を支援するオープンソースソフトウェア」ほう。macOS対象外でWindows/Linux対応は珍しい",
+      "published": "12 Jul 2026 05:50 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1858244e8ef3b3f96e2954212b9d5ce3",
+      "title": "Git 2.55 の git history fixup で「過去のコミットへの入れ忘れ」を一発修正する #Git - Qiita",
+      "link": "https://qiita.com/P-SiZK/items/a067b0d96667f07b0e54",
+      "summary": "git history fixup。良さそう",
+      "published": "12 Jul 2026 05:30 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "13ac6f3999fb9da358ec2a54fefb7cd5",
+      "title": "機密情報をGoogle Drive等にアップロードするのはよいのか？ - 日々量産",
+      "link": "https://ryozi.hatenadiary.jp/entry/2026/05/05/124807",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 機密情報をGoogle Drive等にアップロードするのはよいのか？",
+      "published": "12 Jul 2026 06:56 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32d4fa03c0a9d7cd5aae8c706c60b53d",
+      "title": "「上場」が消え、EXITがM&A前提になった夏 ― IVSで見たスタートアップの現在地｜久松剛",
+      "link": "https://comemo.nikkei.com/n/nadbc7cff8628",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「上場」が消え、EXITがM&A前提になった夏 ― IVSで見たスタートアップの現在地",
+      "published": "12 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d555242fa3e2d8e02984fa64d69a7cc",
+      "title": "x86_64からARM64（Graviton）へ──コスト約20%削減を目指したECS移行の記録 - コネヒト開発者ブログ",
+      "link": "https://tech.connehito.com/entry/2026/07/02/093925",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 x86_64からARM64（Graviton）へ──コスト約20%削減を目指したECS移行の記録",
+      "published": "12 Jul 2026 05:56 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d01edc5e52b4ad1662e7a5aa62ed100",
+      "title": "YOUTRUSTで一番重い計算をMySQLからRedisへ移行したことで、レスポンスタイムを77%削減した話 - YOUTRUST Tech Blog",
+      "link": "https://tech.youtrust.co.jp/entry/redis_performance_optimization",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 YOUTRUSTで一番重い計算をMySQLからRedisへ移行したことで、レスポンスタイムを77%削減した話",
+      "published": "12 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca7a302167b9686e725f49a4edb84ce9",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "link": "https://github.com/Wren6991/RISCBoy",
+      "summary": "Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 126 # Comments: 18",
+      "published": "Sat, 11 Jul 2026 21:58:00 +0000",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67a1d37ce80f44842eaa7a17ff33adac",
+      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+      "link": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+      "summary": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective",
+      "published": "2026-07-11T21:30:16Z",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8bddaefdcbed2744a0a7e7b07aeea646",
+      "title": "AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜",
+      "link": "https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os",
+      "summary": "はじめに 前回、AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か という記事を書きました。結論はシンプルで、**「構造はディレクトリ、意味はタグ、両取りが最強」**でした。 この記事は、その続編です。「1つのリポジトリをA...",
+      "published": "2026-07-07T11:16:39Z",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4d8f6302967a1d8437813fd8c6042f0",
+      "title": "インスタ投稿画像が無断でAI生成素材に… 猛反発→3日で廃止（毎日新聞） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/61c52bdfea9e768753192a1c870e222da6d54609",
+      "summary": "米IT大手メタは10日、交流サイト（SNS）「インスタグラム」の投稿から人工知能（AI）が画像を生成する機能を廃止した。利用者が拒否しない限り、勝手に画像生成の素材として使われる仕様に批判が殺到。消費者団体やタレント事務所も「プライバシーの重大な侵害」などと強く反発し、メタは公開からわずか4日目に幕...",
+      "published": "2026-07-11T10:34:09Z",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5795dec8c2a3318c1635b1329c1b4a8a",
+      "title": "【Web完結】GPT-5.6 Sol×Image 2.0で編集可能なスライドを作り、資料とっても素敵マンになる方法",
+      "link": "https://zenn.dev/acntechjp/articles/76a9e436ae7391",
+      "summary": "ChatGPT Images 2.0で、完成イメージとなるスライド風画像を生成する GPT-5.6 Solに画像を渡し、編集可能なPowerPointとして再構築してもらう 使用したプロンプトも全文公開してます 生成AIでスライドを作ろうとすると、だいたい次のどちらかになります。 PowerPoin...",
+      "published": "2026-07-11T06:25:59Z",
+      "fetched_at": "2026-07-12T08:03:19.747770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-12T05:29:05.733910+00:00"
+  "updated_at": "2026-07-12T08:03:19.747770+00:00"
 }

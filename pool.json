@@ -1,86 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e7769c6a20021d8c9563848d3d2c5f48",
-      "title": "Apple sues OpenAI, accusing it of stealing company secrets",
-      "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html Comments URL: https://news.ycombinator.com/item?id=48865431 Point...",
-      "published": "Fri, 10 Jul 2026 21:20:29 +0000",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "32fbc8f469293212f8a409ac81784a0a",
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "link": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "summary": "Article URL: https://www.tryai.dev/blog/gpt-5.6-build-off-12-models Comments URL: https://news.ycombinator.com/item?id=48865093 Points: 116 # Comments...",
-      "published": "Fri, 10 Jul 2026 20:52:28 +0000",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2510bf2353768b4d3bca35136a9cb27c",
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "link": "https://casp.ac/reports/ai-enabled-terrorism",
-      "summary": "Article URL: https://casp.ac/reports/ai-enabled-terrorism Comments URL: https://news.ycombinator.com/item?id=48863707 Points: 137 # Comments: 114",
-      "published": "Fri, 10 Jul 2026 18:49:26 +0000",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "8b44c25043f960f5863026ec540f0c74",
-      "title": "Amazon EC2 network/EBS instances now available in additional regions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8in, R8ib, R8idn, and R8idb instances are available in the AWS Asia Pacific (Tokyo) and Eur...",
-      "published": "Fri, 10 Jul 2026 20:00:00 GMT",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "a4ffd2fe1bbf5a41a004abd4f0b98353",
-      "title": "Interview With Mitchell Hashimoto",
-      "link": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/",
-      "summary": "Mitchell Hashimoto was behind Vagrant, Packer, Consul, Terraform, Vault, Nomad, Waypoint and now builds Ghostty and Vouch. In this interview, we talk ...",
-      "published": "2026-07-10T00:48:35Z",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "183ef3e05eeda20bec0d1890b5eb6be5",
-      "title": "「AIデスキリング」が始まった…生産性向上の影で、AIは人間の思考とスキルを静かにむしばんでいる | Business Insider Japan",
-      "link": "https://www.businessinsider.jp/article/2606-ai-deskilling-impact-on-worker-skills-productivity/",
-      "summary": "アンダーソン氏は6月から8月にかけて、自分では1行もコードを書かず、AIを使ってソフトウェア製品を構築していく様子を、YouTubeでライブ配信した。 彼が開発したアプリ「Road Trip Ninja（ロード・トリップ・ニンジャ）」は、家族連れが長距離ドライブの途中で安心して立ち寄れる場所、例えば...",
-      "published": "2026-07-10T02:18:16Z",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "47503397d9e427e063a3f583ddd58fd8",
-      "title": "📦 tailscale / tailscale ⭐ 33,455 (+66) 🗒…",
-      "link": "https://github.com/tailscale/tailscale",
-      "summary": "📦 tailscale / tailscale ⭐ 33,455 (+66) 🗒 Go The easiest, most secure way to use WireGuard and 2FA.",
-      "published": "10 Jul 2026 22:16 +0000",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b58db5c0a7c76bd1c9e76f7138c88210",
-      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 vercel…",
-      "link": "https://github.com/vercel/next.js",
-      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 vercel / next.js ⭐ 140,578 (+176) 🗒 JavaScript The React Framework",
-      "published": "10 Jul 2026 21:16 +0000",
-      "fetched_at": "2026-07-10T22:53:04.266727+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "36a7580cf73c6a96dc7f2e5b39515822",
       "title": "【ベータ開始】AWS 認定を最新の状態に保つ新しい方法 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/a-new-way-to-keep-your-aws-certification-current/",
@@ -1009,7 +929,277 @@
       "fetched_at": "2026-07-12T01:58:10.069883+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "c3f1ad4e0b3f3608084c32555e1efb24",
+      "title": "GitHub Quick Review (ghqr) を Classic PAT を発行せずに GitHub Apps の認証で実行する - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/07/091735",
+      "summary": "「最新の ghqr v.0.5.0 でサポートされた GitHub Apps 連携」なるほど。",
+      "published": "12 Jul 2026 04:42 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6cff6c555ef0e7c1e40f925f1bcd0df",
+      "title": "セキュリティの新指標「日本度」公開発表会を開催 | ScanNetSecurity",
+      "link": "https://scan.netsecurity.ne.jp/article/2026/07/07/55644.html",
+      "summary": "日本度 とは",
+      "published": "12 Jul 2026 04:30 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61a8f965ad701065a84178b9fcf9b943",
+      "title": "PostgreSQLからWALを受け取りS3上のIcebergに保存していく実装…",
+      "link": "https://github.com/burnside-project/pg-cdc",
+      "summary": "PostgreSQLからWALを受け取りS3上のIcebergに保存していく実装。言語はGo。",
+      "published": "12 Jul 2026 04:03 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d94fff6ce8ac5e094b9b94b89fffb868",
+      "title": "バイブコーディング 生成AI→チャット→エージェントによる「本番品質のソフトウェア」の未来 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/06/29/02682/",
+      "summary": "2026年7月21日発売",
+      "published": "12 Jul 2026 03:49 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6910a232f7ec441860b5c239f62ff27c",
+      "title": "AIコーディングエージェントが動作している間はスリープに突入しないように制御する…",
+      "link": "https://github.com/kageroumado/adrafinil",
+      "summary": "AIコーディングエージェントが動作している間はスリープに突入しないように制御するmacOS向けアプリ。エージェントの動作が終わればスリープモードに突入してくれるので無駄がないと。なるほど。",
+      "published": "12 Jul 2026 03:11 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "348b6a581c84ce0fcfc610fb72e8cd47",
+      "title": "homebrewのTUIクライアント。brew install bbrewでイン…",
+      "link": "https://github.com/Valkyrie00/bold-brew",
+      "summary": "homebrewのTUIクライアント。brew install bbrewでインストール可。",
+      "published": "12 Jul 2026 03:01 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5622c8843cfec74c8ed3c78a2c3c6030",
+      "title": "htop explained | peteris.rocks",
+      "link": "https://peteris.rocks/blog/htop/",
+      "summary": "topやhtopなどのツールで表示される各種情報と、よく見るプロセスについての解説。とても良い。古い記事だがこういうのは知識として知っておくと良いです。わいわい",
+      "published": "12 Jul 2026 02:48 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81539e5fa58a3687d40362691212daa5",
+      "title": "GitFut — your GitHub, rated out of 99",
+      "link": "https://gitfut.com/",
+      "summary": "GitHubのusernameを入力するとFIFA ULTIMATE TEAM風のカードを生成、共有できるサイト。他のuserとの対戦も可能。",
+      "published": "12 Jul 2026 02:34 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "deb1dd52057a4320ce10fc97b4b70f86",
+      "title": "ゆるSRE勉強会 #17 〜実践！クラウド・AIのインフラ費用最適化〜 - connpass",
+      "link": "https://yuru-sre.connpass.com/event/398199/",
+      "summary": "現地/オンライン開催",
+      "published": "12 Jul 2026 02:27 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57fbe18c1008cc18d71e288e6b4678b5",
+      "title": "Grafana Tech Night 2026.07 - connpass",
+      "link": "https://grafana.connpass.com/event/399048/",
+      "summary": "現地開催",
+      "published": "12 Jul 2026 02:19 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3cf2d842b4bb99c355a6d415c91e63f",
+      "title": "NW-JAWS #22 ～タイトル持ちの長い夜(LV300-)～ - connpass",
+      "link": "https://jawsug-nw.connpass.com/event/399100/",
+      "summary": "オンライン開催(YouTube)",
+      "published": "12 Jul 2026 02:18 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6931fb2237c72216285a9840dabc0e08",
+      "title": "EC2 X8iインスタンスが東京リージョンで利用可能になったので起動してCPU情報を確認してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-ec2-x8i-instance-tokyo-region-cpu-info/",
+      "summary": "largeからあるのが前世代のx2i系と異なるところか。R系インスタンスではメモリーが足りない場合の選択肢としてX系があることを覚えておく。",
+      "published": "12 Jul 2026 02:15 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1135a4bf87c086187b998f4861623074",
+      "title": "CDKでも「Expressモード」がサポートされたので、デプロイ時間を計測してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/dk-express-mode-deploy-time/",
+      "summary": "--expressフラグをつけるだけでスタック定義の変更は不要。わいわい。",
+      "published": "12 Jul 2026 02:10 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3181df2643c3d4d4aa364b3b4c178c60",
+      "title": "Amazon RDSのIAMデータベース認証で接続レートがスケールするようになったので、RDS for MySQLで負荷テストしてみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/rds-iam-db-auth-connection-rate-scaling-verification/",
+      "summary": "レイテンシーはどうなんでしょうか。IAMじゃない従来の認証と比べた場合との差も気になります。追試される場合は是非ともそのあたりを。",
+      "published": "12 Jul 2026 02:08 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07d9f8acbee6992810ad82e187129e14",
+      "title": "中国政府機関がClaude Codeにバックドアが含まれていると発表 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260709-china-cnndv-claude-code-backdoor/",
+      "summary": "タイムゾーンがAsia/ShanghaiもしくはAsia/Urumqiだった場合のみ動作するなどの挙動はバックドアが含まれていると指摘されても言い逃れできない内容ではある。",
+      "published": "12 Jul 2026 02:01 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6dcb813d5902627fdd9f1ae430b6c67",
+      "title": "Linuxカーネル解読室プロジェクト: 新Linuxカーネル解読室 - UDPレイヤーにおける送信処理 (1) - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20260702",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 新Linuxカーネル解読室 - UDPレイヤーにおける送信処理 (1)",
+      "published": "12 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f52e903d06998fd23baf9ec29383dbe",
+      "title": "SCS評価制度セミナー参加レポート：ISMSとの違いと、セキュリティ対応で大切なこと - MNTSQ Techブログ",
+      "link": "https://tech.mntsq.co.jp/entry/2026/07/03/110000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SCS評価制度セミナー参加レポート：ISMSとの違いと、セキュリティ対応で大切なこと",
+      "published": "12 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49e3cbc2efecf318b2514392d0e02d8e",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "summary": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547 Comments URL: https://news.ycombinator.com/item?id=48877371 Points: 159...",
+      "published": "Sun, 12 Jul 2026 01:09:50 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f7477f79a67c9a38ef951236eb06ac9",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "link": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 115 # Comme...",
+      "published": "Sat, 11 Jul 2026 23:15:06 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8265069f1e30f7742d7a79f8db3d2ed",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "link": "https://www.iroh.computer/blog/mesh-llm",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 173 # Comments: 37",
+      "published": "Sat, 11 Jul 2026 22:38:57 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af07d7a5b22f1dfb6660fcba578986af",
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "link": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "summary": "Article URL: https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative Comments URL: https://news.ycombinator.com/item?id=4887385...",
+      "published": "Sat, 11 Jul 2026 17:23:52 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7afe4ea44c82946dcff3239b64ab1482",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "link": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "summary": "Article URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf Comments URL: https://news.ycombinator.com/item?id=48872858 Points: 104 ...",
+      "published": "Sat, 11 Jul 2026 15:26:12 +0000",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d0af2e14e5dea908e0d0fef5827b263",
+      "title": "ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ",
+      "link": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+      "summary": "本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門」「...",
+      "published": "2026-07-11T23:11:58Z",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a32c8b384be66600afe15b7c5c036aa7",
+      "title": "AI-DLC Workflows 2.0 とは何か、そしてどう実装されているか",
+      "link": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+      "summary": "はじめに AI コーディングエージェントが日々の開発に浸透するにつれ、多くのチームが同じ壁に行き着きます。エージェント向けのワークフローが「バグ修正でも新規開発でも同じ重厚な手順」を強制してくる一方で、自動化に慣れるほど人間側は「AI に全部決めさせる」受動的な姿勢に傾き、レビューと監督の質が落ちて...",
+      "published": "2026-07-12T02:07:23Z",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e261d6ebd358a7e738455d787a4e85eb",
+      "title": "ループエンジニアリングをGitHub Copilotで組めるか調べてみた",
+      "link": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
+      "summary": "📋 この記事の前提 Superpowers導入記事、ponytail調査記事、共存記事のいずれかを読んだ GitHub Copilot CLIやClaude Codeなど、コーディングエージェントを日常的に使っている 「ループエンジニアリング」という言葉を見聞きしたが、ハーネスエンジニアリングとの違...",
+      "published": "2026-07-11T23:48:50Z",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "886c24575cd6b94d6398b7a152f53d58",
+      "title": "Next.js の Instant Navigations を試してみた",
+      "link": "https://azukiazusa.dev/blog/nextjs-instant-navigations/",
+      "summary": "Next.js 16.3 Preview では、Instant Navigations という新機能が導入されました。画面遷移で即時表示できない箇所を開発時に検出し、修正を促すための機能です。この記事では Instant Navigations を実際に試してみた様子を紹介します。 Next.js ...",
+      "published": "2026-07-11T08:25:12Z",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a60cb9291c6d14302c0831a5b33f5e0",
+      "title": "agent-cost-bench でコーディングエージェントの品質とコストを測ってみる",
+      "link": "https://zenn.dev/aws_japan/articles/agent-cost-bench-model-compare",
+      "summary": "はじめに こんにちは ! ソリューションアーキテクトの いなりく です ! AI コーディングエージェントを使っていると、必ずぶつかる疑問があります。「このタスク、もっと安いモデルでも十分だったのでは ?」「モデルを変えたら品質はどのくらい変わる ?」。カタログスペックや口コミでは答えが出ません。自...",
+      "published": "2026-07-11T12:40:37Z",
+      "fetched_at": "2026-07-12T05:29:05.733910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-12T01:58:10.069883+00:00"
+  "updated_at": "2026-07-12T05:29:05.733910+00:00"
 }

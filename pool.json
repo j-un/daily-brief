@@ -1,76 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5ec3b84ac963471eac64d5c02bcfa2e8",
-      "title": "開発プロセスに組み込む継続的なセキュリティ対策 ～ヒアリングの標準化からAI活用、PoCによる現場定着まで | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/07/continuous-security",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 開発プロセスに組み込む継続的なセキュリティ対策 ～ヒアリングの標準化からAI活用、PoCによる現場定着まで | gihyo.jp",
-      "published": "11 Jul 2026 06:55 +0000",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "6abd80a51d737c174cb61c1560f1b269",
-      "title": "東海旅客鉄道株式会社：超電導リニアの電気設備保守を支える IoT プラットフォームの構築 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/jr-central-iot-platform-for-maglev-electrical-maintenance/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 東海旅客鉄道株式会社：超電導リニアの電気設備保守を支える IoT プラットフォームの構築 | Amazon Web Services",
-      "published": "11 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2184c66331b9ada64799b459efcadd7c",
-      "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
-      "link": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html",
-      "summary": "Article URL: https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html Comments URL: https://n...",
-      "published": "Fri, 10 Jul 2026 13:30:41 +0000",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e362225c0e65fc000f5ee09cdec332f5",
-      "title": "Kiro で Claude Sonnet 5 が利用可能になりました",
-      "link": "https://aws.amazon.com/jp/blogs/news/sonnet-5/",
-      "summary": "2026 年 7 月 1 日より、Claude Sonnet 5 が Kiro の IDE、CLI、Web でご利用いただけるようになりました。Sonnet 5 は Anthropic がこれまでに提供した中で最もエージェント性能に優れた Sonnet モデルであり、Sonnet 4.6 から大幅に...",
-      "published": "Sat, 11 Jul 2026 03:49:44 +0000",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "75b03c3c515a2b3f7ee0039b76dde60d",
-      "title": "AI時代でも変わらない、業務自動化／効率化の考え方",
-      "link": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-      "summary": "はじめに こんにちは！GroovesでCrowd Agent開発組織のマネージャーをしています、鳥井です。本記事は、私が社内向けに書いた業務自動化／効率化に関するドキュメントを、公開用に再構成したものになります。 AI時代に入り、業務自動化／効率化が改めて脚光を浴びています。LLMを司令塔としたMC...",
-      "published": "2026-07-10T17:14:42Z",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "6c33355a86bdd6f55ae6d673da4fcd0f",
-      "title": "ミューテーションテストのススメ",
-      "link": "https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28",
-      "summary": "はじめに クロステック・マネジメント Foundation Dept. 所属の Radish です。 先日、社内輪読会で『テスト駆動開発』(Kent Beck 著、和田卓人 訳) を読んでいたとき、17 章で 欠陥挿入（defect insertion） という言葉が出てきました。 （数年前に自分で...",
-      "published": "2026-07-10T14:30:48Z",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "61280fa47135ea8aa30a27181fa14008",
-      "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
-      "link": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
-      "summary": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cl...",
-      "published": "2026-07-10T23:39:32Z",
-      "fetched_at": "2026-07-11T07:42:38.191723+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "ba324489832ce294376cbcf533cd3527",
       "title": "Claude Desktop、Linux版ベータを提供開始 ——Ubuntu/DebianでClaude CodeやCoworkをデスクトップから利用可能に | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/07/claude-desktop-on-linux",
@@ -1379,7 +1309,67 @@
       "fetched_at": "2026-07-12T11:05:55.349544+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "6bb8da5aba8e0aa3bb6c387426054104",
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "link": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "summary": "Article URL: https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans Comments URL: https://news.ycombinator.com/item?id=488...",
+      "published": "Sun, 12 Jul 2026 04:00:14 +0000",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9205cfb5cedd607e970bceee964c59f",
+      "title": "Why are US consumers so angry? It's not just high prices",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+      "summary": "Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy Comments URL: https://news.ycombinator.com...",
+      "published": "Sun, 12 Jul 2026 03:10:08 +0000",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bcfce2976601091f8efe23f8dadba96",
+      "title": "前の客のATM暗証番号も丸見え…日本でも普及し始めた「スマートグラス」を使用してみた結果。“新型盗撮”に悪用の可能性も | 日刊SPA!",
+      "link": "https://nikkan-spa.jp/2172263",
+      "summary": "今年に入り、新たなデバイスが台頭しつつある。それはスマートグラスだ。 5月下旬、レイバンと米メタが共同開発した「Ray-Ban Meta（第2世代）」が国内で正式発売された。カメラ機能が搭載され、メガネをかけたまま通話や撮影ができ、同時通訳も可能だ。他ブランドの機種も続々と発売され、家電量販店には専...",
+      "published": "2026-07-12T10:36:28Z",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "70fbcba3d986a03f3a6967a4967aae68",
+      "title": "司法も医師もペンなし試験 広がり始めたCBT、多面的に理解度測る - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC24AZG0U6A620C2000000/",
+      "summary": "15日に始まる司法試験で、鉛筆などの筆記具を使わずパソコンで受験する「CBT」が初めて採用される。次に導入の検討を進めているのが医師国家試験だ。最難関の司法と医師の資格試験が大きく変わる。理解度を多面的に測る「試験の進化」につなげられるか。5月下旬、司法試験指導の東京リーガルマインド水道橋本校（東京...",
+      "published": "2026-07-12T02:42:37Z",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2dea261c15b16590b050721a2eed9c1",
+      "title": "Rust製の軽量ヘッドレスブラウザobscuraが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202607112/",
+      "summary": "GitHub - h4ckf0r0day/obscura: The headless browser for AI agents and web scraping 機能 WebスクレイピングやAIエージェントの自動操作向けに作られたオープンソースのヘッドレスブラウザエンジンです。 Chromeに比べ...",
+      "published": "2026-07-11T16:44:06Z",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3687a0874b5239a5caf99ea781b616d2",
+      "title": "📦 PrefectHQ / prefect ⭐ 23,002 (+55) 🗒 P…",
+      "link": "https://github.com/PrefectHQ/prefect",
+      "summary": "📦 PrefectHQ / prefect ⭐ 23,002 (+55) 🗒 Python Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "published": "12 Jul 2026 12:16 +0000",
+      "fetched_at": "2026-07-12T13:02:07.961026+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-12T11:05:55.349544+00:00"
+  "updated_at": "2026-07-12T13:02:07.961026+00:00"
 }

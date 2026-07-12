@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c8417db56e61647d16beffcfb2e8ad81",
-      "title": "Your code is fast – if you're lucky",
-      "link": "https://tiki.li/blog/lucky_code.html",
-      "summary": "Article URL: https://tiki.li/blog/lucky_code.html Comments URL: https://news.ycombinator.com/item?id=48870799 Points: 109 # Comments: 74",
-      "published": "Sat, 11 Jul 2026 10:50:10 +0000",
-      "fetched_at": "2026-07-11T16:44:52.917066+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3c44170b4eea4f09b431ca6abb87bd67",
-      "title": "Ghost Font: A font that humans can read but AI cannot",
-      "link": "https://www.mixfont.com/ghost-font",
-      "summary": "Article URL: https://www.mixfont.com/ghost-font Comments URL: https://news.ycombinator.com/item?id=48870381 Points: 109 # Comments: 89",
-      "published": "Sat, 11 Jul 2026 09:36:53 +0000",
-      "fetched_at": "2026-07-11T16:44:52.917066+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4cc0ee0b9ca59814a60dafedbd76b4af",
-      "title": "[アップデート] AWS MCP Server が AI エージェントからの接続に業界標準の OAuth 2.1（AWS Sign-In 経由）をサポートしたので試してみました | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
-      "summary": "",
-      "published": "2026-07-11T05:42:34Z",
-      "fetched_at": "2026-07-11T16:44:52.917066+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "333ac7fd8f02fc4355c0365385e45bf7",
-      "title": "GitHub - kepano/obsidian-skills: Agent skills for Obsidian",
-      "link": "https://github.com/kepano/obsidian-skills",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
-      "published": "2026-01-07T00:42:49Z",
-      "fetched_at": "2026-07-11T16:44:52.917066+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "7e4ee71decfc0085c7b7210f3d3edf0b",
       "title": "We scaled PgBouncer to 4x throughput",
       "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
@@ -1569,7 +1529,47 @@
       "fetched_at": "2026-07-12T20:36:25.703179+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d276934b0799ed04da80336917cc64f3",
+      "title": "Making Crash Bandicoot (2011)",
+      "link": "https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/",
+      "summary": "Article URL: https://all-things-andy-gavin.com/2011/02/02/making-crash-bandicoot-part-1/ Comments URL: https://news.ycombinator.com/item?id=48880987 P...",
+      "published": "Sun, 12 Jul 2026 13:18:36 +0000",
+      "fetched_at": "2026-07-12T21:37:12.727014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "134e9d6a539b54eff3ad570edd0ed2b1",
+      "title": "まだまだ続くFable 5祭り、20日までサブスク提供延長 Claude Codeのレート50%増量も継続、GPT-5.6追う1週間、",
+      "link": "https://www.techno-edge.net/article/2026/07/13/5283.html",
+      "summary": "Anthropicが、Claudeの最上位モデル「Fable 5」のサブスク内提供プロモーションをさらに延長しました。",
+      "published": "Mon, 13 Jul 2026 06:30:02 +0900",
+      "fetched_at": "2026-07-12T21:37:12.727014+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f54c8882f564484b0c99280568a0faa",
+      "title": "AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か",
+      "link": "https://zenn.dev/yamitake/articles/github-ai-context-structure-vs-obsidian",
+      "summary": "はじめに 「ドキュメントやナレッジをAIに読ませたい」というニーズが一気に増えました。Claude Code のようなエージェントにリポジトリを丸ごと渡す、RAG の知識ベースとして食わせる、社内 Wiki をそのまま参照させる——用途はさまざまですが、そこで必ず出てくる問いがあります。 ディレクト...",
+      "published": "2026-07-03T22:19:13Z",
+      "fetched_at": "2026-07-12T21:37:12.727014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b009473cf91ae2c0fc45f4ee119dbae9",
+      "title": "“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/10/news127.html",
+      "summary": "素材は3Dプリント用のコンクリート製。3Dプリントした構造体に金属飛翔体を衝突させる実験を重ね、構造や素材の処理方法ごとの耐久性・耐衝撃性を検証。得られたデータを防爆シェルターやドローン基地に生かしたという。 曲面や複雑な形状の壁面を造形できる点や、3Dプリント用のロボットアームとノズル、素材さえあ...",
+      "published": "2026-07-12T08:20:04Z",
+      "fetched_at": "2026-07-12T21:37:12.727014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-12T20:36:25.703179+00:00"
+  "updated_at": "2026-07-12T21:37:12.727014+00:00"
 }

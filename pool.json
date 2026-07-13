@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "421f34060efeb4770453b96c1424fd06",
-      "title": "ターミナル中心の開発環境が手になじんできたので、実務で効いていることを紹介したい",
-      "link": "https://zenn.dev/shinkawa/articles/ae1f88aa0fb027",
-      "summary": "本題と関係ないんだけど、ターミナルを透過して後ろに資料を表示させることで表示領域広げるテクをやってる人は昔の職場にいた。この記事の各スクリーンショットを見てて思い出した。",
-      "published": "12 Jul 2026 08:36 +0000",
-      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "6d9629e24c9c257b258a0a4312eb2252",
-      "title": "APIもDBも東京なのに、全クエリが太平洋横断していた話",
-      "link": "https://zenn.dev/avaintelligence/articles/b7d4743a448485",
-      "summary": "AWSに閉じた世界でもAmazon S3への通信がバージニア北部経由になってたとかあるあるのやつだ。",
-      "published": "12 Jul 2026 08:32 +0000",
-      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "0c129ea011593033923ff039c167e324",
-      "title": "Aurora MySQL の GTID モード有効化と Datastream の安全な切り替え - Timee Product Team Blog",
-      "link": "https://tech.timee.co.jp/entry/2026/07/06/134421",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Aurora MySQL の GTID モード有効化と Datastream の安全な切り替え",
-      "published": "12 Jul 2026 10:55 +0000",
-      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "68b8e37f949a0e0f29e021f05af23026",
-      "title": "システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 システム構成図、もう手で描くのやめました ── Claude Codeで構成図を自動生成・自動更新する仕組み",
-      "published": "12 Jul 2026 08:56 +0000",
-      "fetched_at": "2026-07-12T11:05:55.349544+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "a9b26234683f415e5ce9c17e28db7db2",
       "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
       "link": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
@@ -1069,7 +1029,287 @@
       "fetched_at": "2026-07-13T12:26:32.817450+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "35602ac53d07a876965a4365d953d047",
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "link": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/a_green_being/status/2076598897779020159 Comments URL: https://news.ycombinator.com/item?id=48892512 Points: 368 # Co...",
+      "published": "Mon, 13 Jul 2026 13:39:59 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f986529b520d7300a14a33d9cfc0eff1",
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "link": "https://twitter.com/i/status/2076598897779020159",
+      "summary": "Article URL: https://twitter.com/i/status/2076598897779020159 Comments URL: https://news.ycombinator.com/item?id=48892468 Points: 229 # Comments: 84",
+      "published": "Mon, 13 Jul 2026 13:35:32 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ab9b23af922fb75e33bac691a143a19",
+      "title": "An Infuriating Goodbye to Photoshop",
+      "link": "https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop",
+      "summary": "Article URL: https://anderegg.ca/2026/07/12/an-infuriating-goodbye-to-photoshop Comments URL: https://news.ycombinator.com/item?id=48891200 Points: 15...",
+      "published": "Mon, 13 Jul 2026 11:46:47 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aea348b609cb2eec97f9224e1926995d",
+      "title": "Control the Ideas, Not the Code",
+      "link": "https://antirez.com/news/169",
+      "summary": "Article URL: https://antirez.com/news/169 Comments URL: https://news.ycombinator.com/item?id=48891184 Points: 163 # Comments: 120",
+      "published": "Mon, 13 Jul 2026 11:45:36 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9214111cdf85b6f889a4770bb4ae1449",
+      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+      "link": "https://jivx.com/densha",
+      "summary": "Article URL: https://jivx.com/densha Comments URL: https://news.ycombinator.com/item?id=48890959 Points: 214 # Comments: 23",
+      "published": "Mon, 13 Jul 2026 11:18:30 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d341736b0dd0bb1f3ddba1715d5e786",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "link": "https://kode.diy",
+      "summary": "Article URL: https://kode.diy Comments URL: https://news.ycombinator.com/item?id=48884992 Points: 113 # Comments: 30",
+      "published": "Sun, 12 Jul 2026 21:27:29 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbad00b4cca186840f45d149e21c8cae",
+      "title": "AI使いすぎるとプロジェクトマネジメント力が低下する｜すぅ | AI駆動PM",
+      "link": "https://note.com/suh_sunaneko/n/n98c16a0479ba",
+      "summary": "「AIを使いすぎると、プロジェクトマネジメント力が落ちる。」 AI漬けの育休生活から現場に戻ってきて、私が実感したことです。 この記事では、なぜAI依存でPM力が落ちるのかを整理していきます。 AI漬けの育休明け、数十人規模の現場に戻って感じた不安私は直近の半年間、育休を取っていました。ただ、この期...",
+      "published": "2026-07-12T23:39:50Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b7fb9d6f9d374f865d3cfd1991f88b3",
+      "title": "Cloudflare Workers は AI 搭載の Slack ボットを簡単に作れていいぞ - JX通信社エンジニアブログ",
+      "link": "https://tech.jxpress.net/entry/2026/07/13/113000",
+      "summary": "こんにちは、JX通信社で CTO をしている小笠原(@yamitzky)です。 JX 通信社の Slack では、プレスリリースへの反響や、弊社の情勢調査事業に関する発信や、ニュースアプリの「NewsDigest（ニュースダイジェスト）」についての言及を監視するチャンネルがあります。皆さんの会社でも...",
+      "published": "2026-07-13T04:15:10Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9ec239544003637ac3305bd01c19145",
+      "title": "イスラム過激派組織ボコ・ハラムがAIを使って爆発物の設計や武器の修理を行っていたことが判明",
+      "link": "https://gigazine.net/news/20260713-terrorist-group-use-ai/",
+      "summary": "ナイジェリアを拠点に活動するイスラム過激派組織「ボコ・ハラム」が、AIに爆発物の作り方や敵を攻撃する方法について尋ねていたことが分かりました。AIを利用したテロ計画がもたらす脅威について業界関係者は懸念しています。 “God has helped us, and so will AI”: How t...",
+      "published": "2026-07-13T11:34:11Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bafa69e88e195d5a5fcc9376cef72e01",
+      "title": "ビル・ゲイツの娘であるフィービー・ゲイツが共同設立したアプリ「Phia」がアフィリエイト報酬を不正に請求するために偽のクリックや「クッキースタッフィング」を使用",
+      "link": "https://gigazine.net/news/20260713-gates-heir-phia-cookie-stuffing/",
+      "summary": "Microsoftを創業したビル・ゲイツ氏の娘であるフィービー・ゲイツ氏は、パーソナルショッピングアシスタントの「Phia」を共同設立した人物としても知られています。しかし、このPhiaは「クッキースタッフィング」と呼ばれる手法で不正に報酬を生み出していたことが指摘されました。 Forced Cli...",
+      "published": "2026-07-13T05:42:03Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd2a04be7252be1da75a9c1cb4a1bd1",
+      "title": "DevOpsとは何だったのか",
+      "link": "https://mizzy.org/blog/2026/07/13/2/",
+      "summary": "SRE NEXT 2026の記事で、maruさん、ゆううきさん、Moriさんとの立ち話から、こんなポストをした、ということを書いた。 https://t.co/mGZbILmQRK にある「開発の時系列上の役割と、技術レイヤーの話が混ざっている」という話、maruさん、yuukiさん、moriさんと...",
+      "published": "2026-07-13T14:48:26Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64c77491983a73acdaf1bea005432520",
+      "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+      "link": "https://gigazine.net/news/20260713-claude-code-consuming-token/",
+      "summary": "AnthropicのAIコーディング支援ツール「Claude Code」は、利用者が入力した指示を処理する前に約3万3000トークンを使用しており、AIと外部ツールを接続する共通規格「Model Context Protocol(MCP)」対応サーバーや指示ファイルなどを追加した環境では約7万500...",
+      "published": "2026-07-13T08:06:39Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e21cbd13bda0bf6881803c4ce64795e",
+      "title": "4キャリアのネット銀行、メイン利用率は35.8％ 契約キャリアとの結び付きが強い結果に MMDが調査",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2607/13/news118.html",
+      "summary": "MMDLaboが運営するMMD研究所は、7月9日に「銀行口座と通信キャリア利用に関する調査」の結果を発表した。予備調査では全国の18～69歳の男女1万4988人、本調査はスマートフォンの通信会社と銀行の連携で金利が優遇されるプラン／プログラムを認知しているが未利用者1000人が対象で、調査期間は4月...",
+      "published": "2026-07-13T09:04:24Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "257fb910b80ce397a4fb650ee9ee27cf",
+      "title": "反AI運動の過激派が行方不明になって大騒動、反AI運動グループで何が起こっているのか？",
+      "link": "https://gigazine.net/news/20260713-war-with-ai/",
+      "summary": "AIが普及するに伴って、AIの危険性を訴える反AI運動の活動家グループの活動も過激化しつつあります。反AIグループ「Stop AI」を取り巻くAI反対運動が過激化する経緯について、ウォール・ストリート・ジャーナルがまとめています。 The Hard-Line Activists Ramping Up...",
+      "published": "2026-07-13T05:12:53Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75efd2e134522ae1de9c9d6a189d9df1",
+      "title": "トランプ政権がIntelを強力に後押し、Appleは関税回避と引き換えにIntelへの協力を飲まされた可能性",
+      "link": "https://gigazine.net/news/20260713-intel-with-white-house/",
+      "summary": "2026年6月、アメリカのドナルド・トランプ大統領は「AppleがIntelとチップを共同製造することで合意した」と発言しました。一時に比べて、AppleとIntelの関係はかなり近いものとなっているのは事実なのですが、その背景に、Appleがトランプ政権による半導体への100％の関税計画を回避する...",
+      "published": "2026-07-13T10:03:57Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64fff9f5cb406a0f80e67acfe0cbe590",
+      "title": "DMM.com 購入改善推進チーム におけるCodeRabbitを用いた レビューフロー改善の一例",
+      "link": "https://speakerdeck.com/ysknsid25/dmm-dot-com-gou-ru-gai-shan-tui-jin-timu-niokerucoderabbitwoyong-ita-rebiyuhurogai-shan-no-li",
+      "summary": "CodeRabbit User Group Osaka #3 での登壇資料です。 https://crug.connpass.com/event/398184/",
+      "published": "2026-07-13T11:02:35Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d98429b6915904493855d731785fb174",
+      "title": "AI駆動開発_ワークフロー設計",
+      "link": "https://speakerdeck.com/mae616/aiqu-dong-kai-fa-wakuhuroshe-ji",
+      "summary": "Claude Codeで考える AI駆動開発のしくみづくりワークショップ セッション",
+      "published": "2026-07-13T13:45:10Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d84d5ed90cd430085419593c06a6a8a",
+      "title": "富士通のFDEがAIエージェントを10日で試作、イオン系スーパーの店長を支援",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/11888/",
+      "summary": "首都圏でスーパーマーケットを展開するイオンフードスタイルは、店舗運営を支援するAI（人工知能）エージェントの実証実験を2026年7月に実施する。実証対象は、店舗の戦略立案と売り場レイアウト作成をそれぞれ支援する2種類のAIエージェント。富士通のFDE（Forward Deployed Enginee...",
+      "published": "2026-07-13T02:00:38Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0dab42a9a0c842ea686758d3e4608906",
+      "title": "ドコモバイクシェアが「ノル」に一新 9月から新ブランド・新車両導入",
+      "link": "https://www.watch.impress.co.jp/docs/news/2124680.html",
+      "summary": "",
+      "published": "2026-07-13T06:40:09Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbe277444065c0f8db0d85e37592069c",
+      "title": "OpenAIのブラウザ「ChatGPT Atlas」終了へ 公開から1年足らずで",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/13/news090.html",
+      "summary": "米OpenAIは7月9日（現地時間）、ChatGPTを搭載した同社製のWebブラウザ「ChatGPT Atlas」の提供を2026年8月9日に終了すると発表した。2025年10月の公開から1年足らずでの終了となる。 OpenAIはAtlasの終了に伴い、AIがユーザーの代わりにWebページを操作する...",
+      "published": "2026-07-13T06:08:36Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c8cb0d15cdd1063448a5e2b9f19c4a0",
+      "title": "Grok Buildが機密情報を伏せずに送信、未読ファイルやGit履歴もアップロードしていたとの調査結果",
+      "link": "https://gigazine.net/news/20260713-grok-build-sending-data/",
+      "summary": "AIの安全性を調査するcereblabがSpaceXAI(旧xAI)のAIコーディング支援ツール「Grok Build」を解析したところ、認証情報などが伏せ字処理されずにSpaceXAIへ送信され、AIが開いていないファイルやGitのコミット履歴を含むリポジトリ全体もアップロードされていたと報告しま...",
+      "published": "2026-07-13T07:03:43Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "995498c09151012d9ea7aa57b7c5f3c5",
+      "title": "「GPT-Liveが“まるで人間”」ってホンマ？ 出汁を「でじる」、トーストを「素焼き」て言うてたけど……",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/13/news068.html",
+      "summary": "GPT-Liveも「まるで人間と話しているみたい」と話題に 先週は、OpenAIによる新AIモデル「GPT-5.6」シリーズ公開や、新音声モデル「GPT-Live」も話題になった（関連記事：「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる）...",
+      "published": "2026-07-13T03:03:53Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3780d173a74da8e7b5dc5776cc93244d",
+      "title": "仏、欧州諸国へのサイバー攻撃めぐりロシア大使呼び出しへ",
+      "link": "https://www.afpbb.com/articles/-/3643828",
+      "summary": "フランスのジャンノエル・バロ外相（2026年7月9日撮影）。(c)Wojtek RADWANSKI/AFP 【7月13日 AFP】フランスの外相は13日、ロシアがフランスを含む欧州諸国に対して広範なサイバー攻撃を仕掛けたことを受け、近日中に駐仏ロシア大使を呼び出す方針を明らかにした。 ジャンノエル・...",
+      "published": "2026-07-13T11:11:43Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f468f411348af6d1af3eb253f90bc401",
+      "title": "MVNO契約数が1年間で12.5%増加し4277万件に、総務省が四半期データ公表",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2124668.html",
+      "summary": "",
+      "published": "2026-07-13T05:56:42Z",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d877e72a1b1804cb9622b7b7f5b01fe4",
+      "title": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Open…",
+      "link": "https://github.com/OpenCut-app/OpenCut",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 OpenCut-app / OpenCut ⭐ 64,302 (+1,077) 🗒 TypeScript The open-source CapCut alternative",
+      "published": "13 Jul 2026 13:17 +0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30337d2ec40be3dd9d1d244a1439a23a",
+      "title": "Gugak Fusion Pairs Korean Folk with Pop",
+      "link": "https://daily.bandcamp.com/lists/korean-folk-fusion-album-guide",
+      "summary": "Korean artists are creating radio pop with instruments and techniques rarely heard on the airwaves. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 13 Jul 2026 13:54:33 -0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "b8055c8f2343887583d115d621094729",
+      "title": "Side Door No. 5: Water Damage, Setting, and Two Improvisational Avenues to Escape",
+      "link": "https://daily.bandcamp.com/side-door/side-door-no-5-water-damage-setting-and-two-improvisational-avenues-to-escape",
+      "summary": "How two non-jam bands represent the essence of jamming plus three great new records from North Carolina groups. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 13 Jul 2026 13:54:27 -0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "2e9aac64e144adc77d309a39cc0d7d6b",
+      "title": "Ferries, “Eye Wander”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/ferries-eye-wander-review",
+      "summary": "The anonymous band's debut is the best kind of musical secret, a body-shaking mash-up of dub and psychedelia. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 13 Jul 2026 13:53:53 -0000",
+      "fetched_at": "2026-07-13T16:22:19.668360+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-13T12:26:32.817450+00:00"
+  "updated_at": "2026-07-13T16:22:19.668360+00:00"
 }

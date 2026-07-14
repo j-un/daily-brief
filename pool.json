@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "318c3d27bc52936b7e9e9708a38648c8",
-      "title": "GitHub Actionsの脆弱な構成の検知ツール、任せられる範囲と人が見極めるべきリスク - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part4",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Actionsの脆弱な構成の検知ツール、任せられる範囲と人が見極めるべきリスク",
-      "published": "13 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-13T08:53:19.391450+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "6f2094829d6769f9b84b951d8235f2b9",
       "title": "Cloudflareに独自ドメインのメールクライアントを構築した",
       "link": "https://blog.sh1ma.dev/articles/20260706_cloudflare_agentic_inbox/",
@@ -1089,7 +1079,117 @@
       "fetched_at": "2026-07-14T11:19:24.152078+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "5102764a834f0fe6b63d58e6845c4809",
+      "title": "Codex starts encrypting sub-agent prompts",
+      "link": "https://github.com/openai/codex/issues/28058",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28058 Comments URL: https://news.ycombinator.com/item?id=48905028 Points: 157 # Comments: 103",
+      "published": "Tue, 14 Jul 2026 11:21:32 +0000",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9452f72c8912c07edf20c21721924d36",
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cg53l737v1qo Comments URL: https://news.ycombinator.com/item?id=48903082 Points: 103 # Comments: 10",
+      "published": "Tue, 14 Jul 2026 06:43:28 +0000",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71720589186c9037777d330cf8f985b9",
+      "title": "Satellite Tracker – Live Map of Starlink and 30k Satellites",
+      "link": "https://satellitemap.space/",
+      "summary": "Article URL: https://satellitemap.space/ Comments URL: https://news.ycombinator.com/item?id=48901356 Points: 112 # Comments: 57",
+      "published": "Tue, 14 Jul 2026 01:55:24 +0000",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6ec56695d01b70a79a4ec97cdcc4d0f",
+      "title": "Show HN: I implemented a neural network in SQL",
+      "link": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "summary": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database...",
+      "published": "Mon, 13 Jul 2026 20:00:10 +0000",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "288551c44765f04ccbbcb8be59c30c90",
+      "title": "GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」",
+      "link": "https://japan.cnet.com/article/35250558/",
+      "summary": "GMOインターネットグループの熊谷正寿代表は7月14日、在宅勤務の完全廃止に踏み切った理由を自身のXアカウントで説明した。在宅勤務では時間当たりのPCタイピング数がデータ上確実に減っているとし、「トータルで在宅勤務はマイナス」と判断したという。",
+      "published": "2026-07-14T11:27:17Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8669025dc12d727f99d59478a6fa109",
+      "title": "KFC、全店舗で品切れや臨時休業のおそれ ネット注文も停止 原因はニチレイへの不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
+      "summary": "日本ケンタッキー・フライド・チキンは7月14日、食材配送の委託先で不正アクセスによるシステム障害が発生し、KFC全店舗で商品の一部品切れや販売メニューの制限、営業時間の短縮、臨時休業が生じる可能性があると発表した。委託先は、13日に不正アクセスを公表したニチレイ（東京都中央区）であると、ITmedi...",
+      "published": "2026-07-14T10:02:56Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2dc6863be65c7398ff465dc95e4b6c0",
+      "title": "「舐められない人」になるための5つの技術｜もとやま",
+      "link": "https://note.com/yusuke_motoyama/n/nb141e431bc2f",
+      "summary": "仕事をしていて、「ああ、この人はなんとなく押せば引いてくれる人だ」と相手に学習されてしまう瞬間ってあると思うんですよね。 一度そう認知されると、以降ずっと押される側に回り続けることになります。 会議で発言しても流される、雑な依頼が回ってくる、自分の意見が反映されない。 逆に、明らかに同じくらいの実力...",
+      "published": "2026-04-26T09:50:28Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffd06cc090039718fe894733d8d1b942",
+      "title": "AsyncAPI ソフトウェアサプライチェーン攻撃の概要と対応指針 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/asyncapi_compromise",
+      "summary": "2026年7月14日、AsyncAPI エコシステムの複数の npm パッケージに悪性コードが注入されました。一部は週間数百万ダウンロードされる、広く利用されているパッケージです。 注入された悪性コードは、ワーム型マルウェアです。require() や import された際、開発者のもつ認証情報を...",
+      "published": "2026-07-14T12:04:07Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4f979143a74be797b6d15bf56631817",
+      "title": "ドメイン駆動設計を実装に落とし込むための設計方針",
+      "link": "https://zenn.dev/shotaro_tsuji/articles/09a99625fba620",
+      "summary": "ドメイン駆動設計を実践する際に、ドメイン知識を具体的にソースコードに落とし込む方針を簡単にまとめます。1つの例であって絶対的な基準ではありませんが、参考となる設計方針を提供するためにこの記事を書きました。プログラミング言語はJavaを前提とします。 Value Object Javaにおける値のよう...",
+      "published": "2026-07-14T03:24:50Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5fdbd02130a7de632db4e21f4b75306",
+      "title": "https://www.nintendo-systems.com/pdfs/engineering/00007/SRE_NEXT_2026.pdf",
+      "link": "https://www.nintendo-systems.com/pdfs/engineering/00007/SRE_NEXT_2026.pdf",
+      "summary": "",
+      "published": "2026-07-10T04:26:12Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00213874bd0ec60852b2592975077832",
+      "title": "Claudeの“性格”は言語で変わる。英語は厳しくアラビア語は温かい",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2124919.html",
+      "summary": "",
+      "published": "2026-07-14T04:54:32Z",
+      "fetched_at": "2026-07-14T13:14:19.890218+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-14T11:19:24.152078+00:00"
+  "updated_at": "2026-07-14T13:14:19.890218+00:00"
 }

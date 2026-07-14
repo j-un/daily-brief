@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6678fcd5ee18ca3f68f68db30854f007",
-      "title": "MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/mcpenterprise-managed_authorizationemaextension.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MCPにエンタープライズ向け新機能、アクセスを一括管理できる「Enterprise-Managed Authorization（EMA）extension」が安定版として利用可能に",
-      "published": "13 Jul 2026 01:56 +0000",
-      "fetched_at": "2026-07-13T02:00:03.673989+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "318c3d27bc52936b7e9e9708a38648c8",
       "title": "GitHub Actionsの脆弱な構成の検知ツール、任せられる範囲と人が見極めるべきリスク - GMO Flatt Security Blog",
       "link": "https://blog.flatt.tech/entry/2026-github-actions-security-part4",
@@ -589,7 +579,217 @@
       "fetched_at": "2026-07-14T04:43:52.943639+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "51845a0f13dd94f29909c7b36ba33c09",
+      "title": "Terraform CI/CDに潜む権限昇格リスクと対策 〜金融システムにおける権限分離と制御事例〜 / SRE NEXT 2026 - Speaker Deck",
+      "link": "https://speakerdeck.com/datachain/sre-next-2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform CI/CDに潜む権限昇格リスクと対策 〜金融システムにおける権限分離と制御事例〜 / SRE NEXT 2026",
+      "published": "14 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1242edeb733e2b9b95a10950cf2a2763",
+      "title": "インフラ寄りSREでも 開発に踏み出せる〜境界を越えてユーザー体験に向き合いたい〜 - Speaker Deck",
+      "link": "https://speakerdeck.com/sansantech/260710",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 インフラ寄りSREでも 開発に踏み出せる〜境界を越えてユーザー体験に向き合いたい〜",
+      "published": "14 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44ceafa466919edd998a0565ca6eb7ad",
+      "title": "低コストなログ基盤を支えるアーキテクチャ 〜Grafana Lokiの設計思想〜 - Speaker Deck",
+      "link": "https://speakerdeck.com/mtanda/design-principles-of-grafana-loki",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 低コストなログ基盤を支えるアーキテクチャ 〜Grafana Lokiの設計思想〜",
+      "published": "14 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb2dee0b154c4adad8eb6aa4974dfe30",
+      "title": "環境凍結という Toil を倒す -セルフサービス型 Ephemeral テスト環境の 設計と実践 - Speaker Deck",
+      "link": "https://speakerdeck.com/shirouz/huan-jing-dong-jie-toiu-toil-wodao-su-seruhusabisuxing-ephemeral-tesutohuan-jing-no-she-ji-toshi-jian",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 環境凍結という Toil を倒す -セルフサービス型 Ephemeral テスト環境の 設計と実践",
+      "published": "14 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac2e12b21482d379b11cfb2f9b764217",
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "summary": "Article URL: https://web.stanford.edu/~dntse/wireless_book.html Comments URL: https://news.ycombinator.com/item?id=48901454 Points: 114 # Comments: 3",
+      "published": "Tue, 14 Jul 2026 02:10:19 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fff514470bc92844b50f007cc4ad5dd1",
+      "title": "What will be left for us to work on?",
+      "link": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "summary": "Article URL: https://www.normaltech.ai/p/what-will-be-left-for-us-to-work Comments URL: https://news.ycombinator.com/item?id=48901292 Points: 112 # Co...",
+      "published": "Tue, 14 Jul 2026 01:44:40 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bdb64e7939f6af737932dcfe6a74617",
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "link": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cm2drrv6q54o Comments URL: https://news.ycombinator.com/item?id=48900191 Points: 126 # Comments: 37",
+      "published": "Mon, 13 Jul 2026 23:12:22 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bc5ecfb4e3c8bef43da8a2f39a76a07",
+      "title": "スマホでスキャナ品質のScanSnapカメラ提供開始 PFUもAIサブスクScanSnap Cloud+導入、手書きも理解してリンクつきPDF化",
+      "link": "https://www.techno-edge.net/article/2026/07/14/5291.html",
+      "summary": "PFUは2026年7月14日、AIでスキャナを便利にするサブスクリプションサービス「ScanSnap Cloud＋」と、スマホカメラでスキャナ品質の取り込みができる「ScanSnap Camera」の提供を開始しました。",
+      "published": "Tue, 14 Jul 2026 16:24:29 +0900",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd21c621b49f22157a32e09f2ba30abf",
+      "title": "ハイテクインターが Amazon Rekognition と Graviton プロセッサで実現した富山市の人流観測プラットフォーム",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-hitecinter/",
+      "summary": "本ブログは ハイテクインター株式会社 様と Amazon Web Services Japan 合同会社が共同 […]",
+      "published": "Tue, 14 Jul 2026 07:01:35 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb32452906120d1e63c4777c142658c9",
+      "title": "株式会社村田製作所様の AWS 生成 AI 活用事例 : 3 万人利用の「Murata Coworker」を AI エージェント活用基盤へ進化させるまで",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-murata-coworker-agent-platform/",
+      "summary": "みなさん、こんにちは。AWS ソリューションアーキテクトの池田です。 AI エージェントの活用に取り組む企業が […]",
+      "published": "Tue, 14 Jul 2026 05:15:41 +0000",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "2414de2b49fd73c59de1c33134d67e4f",
+      "title": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Hyderabad) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/",
+      "summary": "AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Asia Pacific (Hyderabad) region. Designed for large storage I/O i...",
+      "published": "Fri, 10 Jul 2026 14:55:00 GMT",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d844648fc969c10e4f5e462961eeb60",
+      "title": "AWS Security Hub extends unified security management to Microsoft Azure",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/",
+      "summary": "Today, AWS announces that AWS Security Hub now monitors Microsoft Azure resources, extending risk analytics, cloud security posture management, vulner...",
+      "published": "Tue, 07 Jul 2026 18:21:00 GMT",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a253830c6478fa88c91e1d83c6db39b0",
+      "title": "これは便利すぎてお勧め！ macOSで画面をキャプチャする最強のスクリーンショットアプリ -Snapzy、しかも完全に無料！！",
+      "link": "https://coliss.com/articles/build-websites/operation/work/snapzy-native-screen-capture-app.html",
+      "summary": "macOSで画面をキャプチャするスクリーンショットアプリを探している人は、一度「Snapzy」を試してみてください！ macOSでスクリーンショットアプリといえば、CleanShot Xを勧める人もいますが、あちらは実質サブスクの有料アプリ。お勧めのポイントとして「スクロールキャプチャ」「注釈を入れ...",
+      "published": "2026-07-14T01:03:58Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "661340b4c9ed17ca874dff41981417e6",
+      "title": "Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/",
+      "summary": "開発者向けのClaude Code向けプラグインは、Dropboxに保存した仕様書や議事録をコンテキストとしてコード生成や分析に活用可能。 Claude Codeから「Dropbox内の仕様書を参照しながらこの機能を開発してください」などと指令し、Dropboxに移動せずにClaude Codeの画...",
+      "published": "2026-07-14T03:09:45Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b1de46941c28f3cb16865ac2c34fd0d",
+      "title": "【特集】 セキュアブート証明書の期限切れ、簡単にチェックする方法",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2124896.html",
+      "summary": "",
+      "published": "2026-07-14T03:43:48Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35da13142cd26adfe1a4592ff7702f9b",
+      "title": "商用利用OKのアニメ特化動画生成AI「AnimeGen」が無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2124932.html",
+      "summary": "",
+      "published": "2026-07-14T06:06:10Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddd8c1ff467f4876585f54bf097064b1",
+      "title": "Glance. Native markdown viewer for macOS",
+      "link": "https://glance.md/",
+      "summary": "Native viewer for markdown files. Mermaid, LaTeX, code, beautifully rendered",
+      "published": "2026-07-08T08:15:39Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e090fda502159738886df149ceb5a64f",
+      "title": "鉄は熱いうちに打て、CI は Blacksmith で鍛えろ — runs-on 1行で1.76倍高速化 - kickflow Tech Blog",
+      "link": "https://tech.kickflow.co.jp/entry/2026/07/14/132032",
+      "summary": "Blacksmith 氏が runs-on を打ち直す様子（イメージ） こんにちは、プロダクト開発本部でエンジニアをしている秋山です。 昨今のプロダクト開発では AI は切っても切れない存在となりました。kickflow でも掲げているバリューの一つに AI 1st があり、日々 Claude Co...",
+      "published": "2026-07-14T04:33:24Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6b15e2a1476124851bc83a7b6b2f6ef",
+      "title": "ollama-pythonで文章校正 - Qiita",
+      "link": "https://qiita.com/AzukiImo/items/8aae8d912a016eea7683",
+      "summary": "1. 概要 Ollamaの登場により、ローカル環境でも手軽にLLMを試せるようになりました。Ollamaの魅力の一つは、PythonからLLMを呼び出せること、つまりLLMを「部品」としてプログラムに組み込めることです。今回は、ollama-pythonライブラリを使い、複数のテキストファイルをLL...",
+      "published": "2026-07-13T14:30:06Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31748edcf27ed259ff3335d9b52536eb",
+      "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
+      "link": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+      "summary": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公開しました。 生成AIは信頼できないコードを実行する 生成A...",
+      "published": "2026-07-13T15:25:53Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69dcbdc398012d5074713a5a7b666a7b",
+      "title": "英語ネイティブ同士のグループの会話になるとついていけない方へ―GPT liveで行う複数人英会話リスニング訓練｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請",
+      "link": "https://note.com/genkaijokyo/n/nbdffb9b412f9",
+      "summary": "ネイティブ同士の「速い会話」が聞き取り対策にGPT Liveで作ったリスニング練習法英語のリスニングは、1対1ならなんとかなる、相手がこちらに合わせてくれる会話や、講演のように整った英語なら、だいたい追えるという人は多いと思います。問題は、ネイティブ同士のグループ会話です。3人くらいのアメリカ人の輪...",
+      "published": "2026-07-12T10:36:17Z",
+      "fetched_at": "2026-07-14T07:49:22.131151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-14T04:43:52.943639+00:00"
+  "updated_at": "2026-07-14T07:49:22.131151+00:00"
 }

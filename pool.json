@@ -29,7 +29,107 @@
       "fetched_at": "2026-07-14T04:43:52.943639+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "0e149f1f34dd768f90c7063ab48f59ff",
+      "title": "I'm a USB-C Maximalist",
+      "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/ Comments URL: https://news.ycombinator.com/item?id=48908214 Points: 116 # Comment...",
+      "published": "Tue, 14 Jul 2026 15:20:36 +0000",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "671c76fa9d7a4c6180a88d2d63002ae5",
+      "title": "PlayStation初の純正ワイヤレスファイトスティック「FlexStrike」、発売日が無期限延期に",
+      "link": "https://www.techno-edge.net/article/2026/07/15/5293.html",
+      "summary": "ソニーは、PlayStation初の純正アーケードコントローラー、「FlexStrike」に関し、2026年8月6日に予定していた発売を無期限で延期すると発表しました。PlayStation Blogの製品発表記事にアップデートとして追記された情報によれば、新たな発売日はいまのところ未定で、詳細は「...",
+      "published": "Wed, 15 Jul 2026 07:30:03 +0900",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "6113ce1260741c577c4cc464f333dc19",
+      "title": "アップルが「iOS 27」パブリックベータを公開、「Siri AI」や大幅な速度改善など多数の新機能",
+      "link": "https://www.techno-edge.net/article/2026/07/15/5292.html",
+      "summary": "アップルが、iOS 27・iPadOS 27・macOS 27・tvOS 27・watchOS 27・visionOS 27のパブリックベータを公開しました。Apple Beta Software Programに登録済みのApple IDユーザーは誰でも試用できます。",
+      "published": "Wed, 15 Jul 2026 06:45:02 +0900",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5b55881325d4421b5f32ca57f133a0d",
+      "title": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/",
+      "summary": "AWS Elastic Disaster Recovery (AWS DRS) now supports the Amazon EBS volume initialization rate, helping recovered volumes reach full performance faste...",
+      "published": "Tue, 14 Jul 2026 22:00:56 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f0d2622f4a7922822e92b5cfb7911fe",
+      "title": "AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/",
+      "summary": "AWS Elastic Disaster Recovery (AWS DRS) now recovers your AWS-based workloads faster. For source servers running on Amazon EC2, DRS can now skip prepa...",
+      "published": "Tue, 14 Jul 2026 22:00:00 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c945818fb5b9e87d13b78487cc03859",
+      "title": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/",
+      "summary": "Amazon Managed Service for Apache Flink now offers AI Agent Skills that give AI coding assistants expert, up-to-date guidance for building and operati...",
+      "published": "Tue, 14 Jul 2026 18:20:00 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "386164944efe0fd7884a66ec0c26f577",
+      "title": "Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/",
+      "summary": "Amazon Redshift Serverless now automatically preserves zero-ETL and Amazon S3 event integrations when restoring a namespace from a snapshot or recover...",
+      "published": "Mon, 13 Jul 2026 15:00:00 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "79594e434cc56521f6c39b0a8eb66e87",
+      "title": "AWS Partner Central introduces Partner Lead Prospecting",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central-prospecting/",
+      "summary": "AWS Partner Central now offers Partner Lead Prospecting, an AI-powered capability that helps APN Customer Engagements (ACE)-eligible AWS Partners act ...",
+      "published": "Thu, 09 Jul 2026 16:30:00 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a9f007362833d48632ce49c7c32f28b",
+      "title": "Amazon GuardDuty adds sensitive file modification threat detections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/",
+      "summary": "Amazon GuardDuty Runtime Monitoring now includes three new threat detections that alert security teams when sensitive files are modified on Amazon EC2...",
+      "published": "Wed, 01 Jul 2026 16:58:00 GMT",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a45544c576ec8616950caac2ec3c9328",
+      "title": "AIの発展によって私たち「人間」に残される仕事は何か？人間とAIの「共同超知能」というビジョン",
+      "link": "https://gigazine.net/news/20260714-ai-left-work/",
+      "summary": "AIの能力が向上し続ける中で、「AIに仕事を奪われる」という懸念がしばしば話題になります。2026年7月6日からソウルで開催された「国際機械学習会議(ICML 2026)」の基調講演で、プリンストン大学のコンピューターサイエンス教授であるアルヴィンド・ナラヤナン氏が「AIが私たちが現在行っている仕事...",
+      "published": "2026-07-14T13:10:51Z",
+      "fetched_at": "2026-07-14T22:49:51.349287+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-14T21:35:04.718812+00:00"
+  "updated_at": "2026-07-14T22:49:51.349287+00:00"
 }

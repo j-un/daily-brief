@@ -269,7 +269,327 @@
       "fetched_at": "2026-07-14T01:46:30.810299+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "16dde07b1039bd2d30da2412507c2f54",
+      "title": "事業価値を⽣み出すSREへ SREが担うべき意思決定の5層 - Speaker Deck",
+      "link": "https://speakerdeck.com/kenta_hi/shi-ye-jia-zhi-wo-michu-susrehe-sregadan-ubekiyi-si-jue-ding-no5ceng",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 事業価値を⽣み出すSREへ SREが担うべき意思決定の5層",
+      "published": "14 Jul 2026 03:56 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "187ddccb434b2686e27187093cc16ee0",
+      "title": "SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7 - Speaker Deck",
+      "link": "https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7",
+      "published": "14 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "52c53345f8aa3ea09ed05f2a49a2614d",
+      "title": "なぜ私たちのSREプラクティスはなかなか機能しないのか 〜システムより先に組織を見る〜 / Why our SRE practices aren't really working - Speaker Deck",
+      "link": "https://speakerdeck.com/vtryo/why-our-sre-practices-arent-really-working",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜ私たちのSREプラクティスはなかなか機能しないのか 〜システムより先に組織を見る〜 / Why our SRE practices aren't really working",
+      "published": "14 Jul 2026 02:56 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1350136e632349a1564a84d0b61024e",
+      "title": "TLS certificates for internal services done right",
+      "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TLS certificates for internal services done right",
+      "published": "14 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa09f9c0d5d5f610dd84d132fd801026",
+      "title": "【開催報告】「クラウドネイティブ会議」実践 AI SRE — AIワークロードの自律的パフォーマンスエンジニアリング",
+      "link": "https://zenn.dev/fixstars/articles/cloud-native-conference-report",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【開催報告】「クラウドネイティブ会議」実践 AI SRE — AIワークロードの自律的パフォーマンスエンジニアリング",
+      "published": "14 Jul 2026 01:56 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d049400ff8f45e9833700c3e91b85a2",
+      "title": "ウェルスナビのSREチームの歩みとこれから",
+      "link": "https://zenn.dev/wn_engineering/articles/79f8cc1d047861",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ウェルスナビのSREチームの歩みとこれから",
+      "published": "14 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7d1acd6488e38cb74090c88862e0e92",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "summary": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/ Comments URL: https://news.ycombinator.com/it...",
+      "published": "Tue, 14 Jul 2026 02:27:20 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05099155f74c1fd1497e6b27f55d2646",
+      "title": "The Git history command deserves more attention",
+      "link": "https://lalitm.com/post/git-history/",
+      "summary": "Article URL: https://lalitm.com/post/git-history/ Comments URL: https://news.ycombinator.com/item?id=48901010 Points: 137 # Comments: 87",
+      "published": "Tue, 14 Jul 2026 00:57:11 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5274772224566d914f310ffdfe7e60a9",
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "link": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
+      "summary": "Article URL: https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php Comments URL: https://news.ycombinator.com/item?id=48897...",
+      "published": "Mon, 13 Jul 2026 18:53:53 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "858c8707ea08cdc74e6e4819bf77feb2",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "link": "https://cakehonolulu.github.io/linux-on-32x/",
+      "summary": "Article URL: https://cakehonolulu.github.io/linux-on-32x/ Comments URL: https://news.ycombinator.com/item?id=48896600 Points: 111 # Comments: 22",
+      "published": "Mon, 13 Jul 2026 18:18:25 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c8aae20bdbf55cb71e801f0b654e2fe",
+      "title": "Kiro のバースデーウィークへようこそ",
+      "link": "https://aws.amazon.com/jp/blogs/news/birthday-2026/",
+      "summary": "Kiro は誕生から 1 周年を迎え、AI コーディングからエージェンティックエンジニアリングへと進化しました。7 月 13 日から 17 日まで（太平洋時間）の 1 週間、コミュニティへの感謝を込めたバースデーウィークを開催します。ボーナスクレジットを獲得できるデイリーコーディングチャレンジ、7 ...",
+      "published": "Tue, 14 Jul 2026 02:24:23 +0000",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0764e33c52d415a6962fcdb9cd4d42c7",
+      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version...",
+      "published": "Mon, 13 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "61098ed7a9f8c03274cf2d9c26dea7af",
+      "title": "AWS Organizations now applies account departure security controls by default for new organizations created via AWS Organizations console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console",
+      "summary": "AWS Organizations now automatically applies security controls by default when you create a new organization via AWS Organizations console, simplifying...",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bb0cd1f5d22b51006cdce145c34f64c",
+      "title": "AWS Partner Central subsidiary connections now support qualification sharing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/subsidiary-qualification-sharing/",
+      "summary": "AWS Partner Central subsidiary connections now enable partners to share qualifications across their connected partner and seller accounts. Partners co...",
+      "published": "Fri, 10 Jul 2026 04:00:00 GMT",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba5d93851513aec8356b1749a9792e69",
+      "title": "Amazon Bedrock AgentCore increases default runtime quota limits",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/",
+      "summary": "Amazon Bedrock AgentCore has increased the default runtime quota limits, giving customers greater capacity to scale their agent-based workloads. Agent...",
+      "published": "Wed, 01 Jul 2026 22:00:00 GMT",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a046ea7ddbc23531b6ae9ddfe02ff2a7",
+      "title": "【特集】 Windowsで「うっかりごみ箱から消しても復元できる」は昔話!? その理由を紐解く",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2124799.html",
+      "summary": "",
+      "published": "2026-07-13T21:16:21Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a41411ccbea8be270d22c2cf9fb54a04",
+      "title": "AI SLOPは「AIの問題」ではない。OSSコミュニティーに足りないのは“組織マネジメントの教科書”【中央大学・飯尾教授】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_893/",
+      "summary": "中央大学 国際情報学部 教授 飯尾 淳 博士（工学）。NPO法人オープンソースソフトウェア協会（OSSAJ）理事。1970年、岐阜市生まれ。1994年に東京大学大学院工学系研究科計数工学専攻の修士課程を修了し、同年、三菱総合研究所に入社。情報技術研究センター主席研究員などを経て、2013年に中央大学...",
+      "published": "2026-07-14T02:46:31Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe5ace5a453bc1ca2cf8c259b7dd1beb",
+      "title": "空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威 島国・日本は耐えられるか",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/08/news027.html",
+      "summary": "空から数千機、24時間365日の攻撃──ウクライナ防空副司令官が語る”安いドローン”の脅威 島国・日本は耐えられるか（1/2 ページ） ウクライナや中東での紛争を通し、戦時におけるドローンの脅威が現実味を増している。防衛省も迎撃ドローンの早期取得プログラムを展開するなど、日本においても対岸の火事とは...",
+      "published": "2026-07-14T00:33:48Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "788892f7a78c7889faf6e5f313b906b0",
+      "title": "数回の練習が数千回分の効果にも──物事の上達スピードを決めるのは練習量より「報酬の大きさ」 マウス実験がScience誌掲載",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news026.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-07-13T22:13:30Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a7348c235d840362b06a664ddc60514",
+      "title": "サンリオで活躍中のid:r_kurainを訪問 | はてな卒業生訪問企画 [#21] - Hatena Developer Blog",
+      "link": "https://developer.hatenastaff.com/entry/2026/07/14/110000",
+      "summary": "こんにちは、CTOのid:motemenです。 Hatena Developer Blogの連載企画「卒業生訪問インタビュー」では、創業からはてなの開発に関わってきた取締役の id:onishi、CTOの id:motemen、エンジニアリングマネージャーの id:onk、技術グループ長の id:d...",
+      "published": "2026-07-14T02:05:32Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaa49eee316db742e18039fe5d371973",
+      "title": "MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話 - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/mysql-order-by-limit-slow-query",
+      "summary": "こんにちは。freee請求書エンジニアのshunです。 24卒未経験でfreeeに入社し、freee請求書プロダクトの開発を行っています。 この記事では、先日行ったAPIのスロークエリの改善について紹介します。 APIのエンドポイントで発生していた約5分のスロークエリを、原因調査からMySQLオプテ...",
+      "published": "2026-07-14T02:28:05Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93d53e74017afe7d12b875f0c0202c1d",
+      "title": "AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測",
+      "link": "https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint",
+      "summary": "これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾...",
+      "published": "2026-07-14T01:12:24Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a34feecb83f73b5c3731efc4bce42d9c",
+      "title": "【ITエンジニア転職経験者に転職で実現したいことを調査】転職時の最重視項目は「年収アップ」（65.1%）しかし今後のキャリアで重視したいことは「ワークライフバランス」（60.1%）が逆転1位〜転職経験者が語る、キャリア判断基準のシフト〜",
+      "link": "https://kikkakeagent.co.jp/column/report/9939",
+      "summary": "■調査概要 調査名称：ITエンジニアの転職で実現したいことに関する実態調査 調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査 調査期間：2026年5月7日〜同年5月12日 有効回答：過去3年以内に転職を経験したITエンジニア258名 ※構成比は...",
+      "published": "2026-07-14T02:00:11Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c87890c349c1b9cd2e0cc3790c13f4dc",
+      "title": "「Yahoo!ニュースに載る」が3万円で買える時代 その価値はいつまで続くのか",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/14/news021.html",
+      "summary": "ITmedia デジタル戦略EXPO 2026 夏では、各分野の第一人者や企業の現場でビジネス変革に取り組むリーダーの声を通じて、経営×IT×現場のコラボレーションで全社変革を進めるヒントをお届けします。 AIを活用したデジタル戦略が必須となる中、ダイハツ工業や旭化成、NOT A HOTELなどビジ...",
+      "published": "2026-07-13T23:07:43Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f16460f313292a429d0a0334830201ad",
+      "title": "バラバラだった staleTime を、データの性質で選ぶ4プリセットに集約した",
+      "link": "https://zenn.dev/dress_code/articles/78ce46997dfe96",
+      "summary": "画面ごとにバラバラだった staleTime 設定を、データの性質で選ぶ4プリセットに集約した はじめに このブログは Dress Code Advent Calendar 2026/07 の 10本目の記事です。 こんにちは。ぷーじ（@yug1224）です。 約7,500ファイル規模の TypeS...",
+      "published": "2026-07-14T03:06:12Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "547226ac456df603c2ab844449b28e35",
+      "title": "マネフォ上方修正、売上最大623億円に GitHub不正アクセス影響は「限定的」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news070.html",
+      "summary": "マネーフォワードは7月13日、2026年11月期の通期売上高予想を605億～623億円に上方修正した。従来予想から最大71億円の引き上げとなる。 SaaSと金融を掛け合わせた決済サービスがけん引した他、第3四半期に営業投資有価証券売上高の計上を見込むため。 同日発表した上半期（2025年12月1日～...",
+      "published": "2026-07-14T02:21:40Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27aea041251e5021718eb2d8f43e5ffe",
+      "title": "4月～6月の世界スマホ出荷は13年ぶりの低水準、Appleのシェアは初の20％に──Counterpoint調べ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2607/14/news065.html",
+      "summary": "4月～6月の世界スマホ出荷は13年ぶりの低水準、Appleのシェアは初の20％に──Counterpoint調べ 香港に拠点を置く調査会社Counterpoint Researchは7月13日、2026年第2四半期（4～6月）の世界スマートフォン出荷台数（速報値）が前年同期比11％減となり、第2四半...",
+      "published": "2026-07-14T01:02:54Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4f0085388231c9a2f98b23a49695f63",
+      "title": "「Windows 11」の検索ボックス改善へ──Web結果の宣伝を排除、ローカル結果を優先",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news063.html",
+      "summary": "Microsoftは、「Windows 11」の検索ボックスの改善を発表した。検索ホームの簡素化、Web検索結果からのプロモーションコンテンツの排除に加え、WebやMicrosoft Storeの候補を表示するかどうかを選べる新設定を追加。アプリや設定、ファイルなどローカルの結果を優先する改善も含ま...",
+      "published": "2026-07-13T23:05:53Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7678a2d37afd99c5464c5d9657bccde0",
+      "title": "Asanaにたまるバグチケを、月一でAIに棚卸しさせる - kickflow Tech Blog",
+      "link": "https://tech.kickflow.co.jp/entry/2026/07/10/145536",
+      "summary": "Asanaにたまるバグチケを、月一でAIに棚卸しさせる こんにちは、kickflow QAチームのyanagiyaです。 今回は、Asanaにたまったバグチケットを月に一度AIがチェックし、すでに直っているかもしれないものをクローズ候補として提示するBotを作りました。 Asanaのチケット自体には...",
+      "published": "2026-07-13T16:01:47Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c59e1df96912a36f5a2410279afcad2",
+      "title": "電子カルテSaaSを支えるオブザーバビリティ活用と開発者の実践/Observability in healthcare SaaS electronic medical records",
+      "link": "https://speakerdeck.com/msksgm/observability-in-healthcare-saas-electronic-medical-records",
+      "summary": "SRE NEXT 2026 の登壇資料です。 https://sre-next.dev/2026/schedule/#slot103",
+      "published": "2026-07-13T03:48:45Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b26b0925dda0efa63a22d3865c702f69",
+      "title": "How Claude's values vary by model and language",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "summary": "When someone asks Claude a question with no universal right answer—say, whether to take a new job or how to handle conflict with a friend—how Claude r...",
+      "published": "2026-07-13T21:29:31Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1813739601ad29f40e98e1eea52797de",
+      "title": "今週のはてなブックマーク数ランキング（2026年7月第2週） - はてなブックマーク開発ブログ",
+      "link": "https://bookmark.hatenastaff.com/entry/2026/07/14/120034",
+      "summary": "はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。7月6日（月）～7月12日（日）〔2026年7月第2週〕のトップ30です*1。 順位 タイトル 1位 Claude Code、とりあえずこれ読んどけばOKなまとめ（2026年版） #AI - Qiita 2...",
+      "published": "2026-07-14T03:00:55Z",
+      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-14T01:46:30.810299+00:00"
+  "updated_at": "2026-07-14T04:43:52.943639+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "187ddccb434b2686e27187093cc16ee0",
-      "title": "SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7 - Speaker Deck",
-      "link": "https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7",
-      "published": "14 Jul 2026 03:55 +0000",
-      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c1350136e632349a1564a84d0b61024e",
-      "title": "TLS certificates for internal services done right",
-      "link": "https://tuxnet.dev/posts/tls-for-internal-services/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TLS certificates for internal services done right",
-      "published": "14 Jul 2026 02:55 +0000",
-      "fetched_at": "2026-07-14T04:43:52.943639+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "0e149f1f34dd768f90c7063ab48f59ff",
       "title": "I'm a USB-C Maximalist",
       "link": "https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/",
@@ -829,7 +809,137 @@
       "fetched_at": "2026-07-15T07:53:02.987597+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "main"
+    },
+    {
+      "entry_id": "4362f285b18125a0828cdd8b57ad4163",
+      "title": "xREとの連携による「SREの一日」と組織的協業の実際 - Speaker Deck",
+      "link": "https://speakerdeck.com/jnytnai0613/xretonolian-xi-niyoru-sreno-ri-tozu-zhi-de-xie-ye-noshi-ji",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 xREとの連携による「SREの一日」と組織的協業の実際",
+      "published": "15 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c66ae0a4c24264bfac51585fe556c25",
+      "title": "泥臭く始める一人目SREの生存戦略、戦略的属人化による運用肥大化からの脱却 - Speaker Deck",
+      "link": "https://speakerdeck.com/kmitsuhashi/ni-chou-kushi-meru-ren-mu-srenosheng-cun-zhan-lue-zhan-lue-de-shu-ren-hua-niyoruyun-yong-fei-da-hua-karanotuo-que",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 泥臭く始める一人目SREの生存戦略、戦略的属人化による運用肥大化からの脱却",
+      "published": "15 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "001e6af2ed272781953eeff97c14d4a3",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "link": "https://www.ayush.digital/blog/the-memory-heist",
+      "summary": "Article URL: https://www.ayush.digital/blog/the-memory-heist Comments URL: https://news.ycombinator.com/item?id=48916975 Points: 294 # Comments: 129",
+      "published": "Wed, 15 Jul 2026 06:28:00 +0000",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22ae7ba6c2c2313addcb5ed62cb6e8ba",
+      "title": "「切なさ」はアルゴリズムで書けるか。初期ユーミン様式のバラード生成マシンをClaude Fable 5と作って考えたこと（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/07/15/5297.html",
+      "summary": "切ない曲ってどんなものでしょうか。Sunoで切ないバラードを生成したいときは、sentimental ballad, heart-aching, sorrowful, emotionalといった表現を使いますが、それが意味するところは？",
+      "published": "Wed, 15 Jul 2026 18:17:54 +0900",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "737216a7cc4769a06ae9c0372d22fb61",
+      "title": "自己愛が強いナルシシストは生成AIに過剰な時間を費やしたり過度に依存したりする傾向が強い",
+      "link": "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
+      "summary": "現代では多くの人々が日常的な質問や相談相手としてチャットAIを使ったり、生成AIツールを使って仕事を効率化したりしています。新たな研究では、ナルシシズム(自己愛)の強い人は問題がある生成AI使用に陥りやすいという結果が明らかになりました。 Dark Tetrad traits and problem...",
+      "published": "2026-07-15T06:48:06Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "668d9a50a1543ea9c30cf6e077f6e99d",
+      "title": "KFC、イオン、くら寿司…ニチレイ不正アクセス影響拡大 システム障害の復旧めど立たず",
+      "link": "https://www.sankei.com/article/20260715-TODVA4XBAZKONE34CPKPXVGVUE/",
+      "summary": "ケンタッキー・フライド・チキンの店舗の看板不正アクセスを受けたニチレイのシステム障害の影響が広がっている。イオン系列のスーパーやくら寿司で一部商品の欠品が生じたほか、冷凍うどんなどを手がけるテーブルマークが出荷不能に。日本ケンタッキー・フライド・チキン（KFC）も、店舗の臨時休業や一部商品の販売休止...",
+      "published": "2026-07-15T06:38:09Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5af4f4f8da8fad3cb3ddc56a9a3f189f",
+      "title": "情報を追いかけることをやめた。自分の「技術地図」で歩くための“やらないこと” - Findy Media",
+      "link": "https://findy-code.io/media/articles/list-songmu",
+      "summary": "「もっと成果を出さなきゃ」「スキルを増やさなきゃ」。そんな焦りに押され、やることを積み重ねていないでしょうか？けれど、本当に働き方を変えるのは“足し算”ではなく、“引き算”かもしれません。この企画では、エンジニアたちがあえてやめたことと、その後に訪れた変化をたどります。ムダをそぎ落とした先に残る、本...",
+      "published": "2026-07-14T23:31:41Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dee4859121ffc3fef194cd0e07af2cf",
+      "title": "デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた",
+      "link": "https://note.com/uchita_success/n/n030ad63765d3",
+      "summary": "一番意外だったのは、7つのうち“1つの型”だけで45%を占めていたこと。一流ほど、派手な技より“基本の型”を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 経産省のサイトは、コンサル資料の\"宝の山\"コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。...",
+      "published": "2026-07-15T01:04:34Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "540584623dcade2223142c27efe281ad",
+      "title": "Claude Fable 5のサブスクリプション内提供を7月19日まで延長、CodexとChatGPT Workは5時間制限を一時撤廃＆アクティブユーザー600万人到達と使用量リセット | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/claude-fable-5-codex-usage-limit-updates",
+      "summary": "Claude Fable 5のサブスクリプション内提供を7月19日まで延長⁠⁠、CodexとChatGPT Workは5時間制限を一時撤廃＆アクティブユーザー600万人到達と使用量リセット Anthropicは2026年7月12日、ClaudeのPro、Max、Teamと、シート制Enterpris...",
+      "published": "2026-07-14T21:10:12Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdb785c8cb1be6f30c996e320895c784",
+      "title": "Samsung Healthアプリが「AIの学習に健康データを使用するか健康データを削除するか」を迫る",
+      "link": "https://gigazine.net/news/20260715-samsung-health-ai-training/",
+      "summary": "Samsungの健康管理アプリ「Samsung Health」に、「AIトレーニングとモデリングのための健康データの使用への同意」という項目が追加されていることが分かりました。これに同意しないと健康データを永久に失う可能性があるという警告が表示されるそうです。 Samsung is pushing ...",
+      "published": "2026-07-14T22:02:12Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2703e659f4799fdae9191c1d60d5c39b",
+      "title": "一部Dell製PCで異常終了など不具合のため7月のWindows更新利用できず",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125271.html",
+      "summary": "",
+      "published": "2026-07-15T04:18:49Z",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "acaadd09ce354d7af8b36cff0c349202",
+      "title": "How Lee “Scratch” Perry taught Mouse on Mars to stop controlling sound",
+      "link": "https://musictech.com/features/interviews/mouse-on-mars-interview-lee-scratch-perry/?utm_source=rss&utm_medium=rss&utm_campaign=mouse-on-mars-interview-lee-scratch-perry",
+      "summary": "Spatial, No Problem is the final album from Lee Scratch Perry, and saw the dub pioneer record with Mouse on Mars in multiple rooms at once. Here’s how...",
+      "published": "Wed, 15 Jul 2026 08:00:57 +0000",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "882007f7a26ff741410eaf191fb817b8",
+      "title": "I swapped Ableton Live for Fender’s Studio Pro 8.1 DAW – but is it compelling enough for the change to stick?",
+      "link": "https://musictech.com/reviews/digital-audio-workstations/fender-studio-pro-8-1-review/?utm_source=rss&utm_medium=rss&utm_campaign=fender-studio-pro-8-1-review",
+      "summary": "In its first point update since rebranding, Studio Pro gains slick Moises integration and meaningful workflow improvements – but most of all, proves F...",
+      "published": "Wed, 15 Jul 2026 08:00:51 +0000",
+      "fetched_at": "2026-07-15T09:53:13.591694+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-15T07:53:02.987597+00:00"
+  "updated_at": "2026-07-15T09:53:13.591694+00:00"
 }

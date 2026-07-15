@@ -59,7 +59,157 @@
       "fetched_at": "2026-07-15T20:51:11.214454+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "2bdccaea9d3819f9feb845879f475076",
+      "title": "Grok Build",
+      "link": "https://github.com/xai-org/grok-build",
+      "summary": "Article URL: https://github.com/xai-org/grok-build Comments URL: https://news.ycombinator.com/item?id=48926590 Points: 152 # Comments: 170",
+      "published": "Wed, 15 Jul 2026 20:24:58 +0000",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f71a78058ebd3686a570abcf4bcb9843",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "link": "https://github.com/vshulcz/deja-vu/",
+      "summary": "Article URL: https://github.com/vshulcz/deja-vu/ Comments URL: https://news.ycombinator.com/item?id=48923111 Points: 101 # Comments: 25",
+      "published": "Wed, 15 Jul 2026 16:15:03 +0000",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "805d77d8dbcc3899e0852afc4dbd110f",
+      "title": "OpenAI初のハードウェア製品「Codex Micro」発売。AIエージェント操作専用キーパッド",
+      "link": "https://www.techno-edge.net/article/2026/07/16/5299.html",
+      "summary": "OpenAIは、キーボードメーカーのWork Louderと共同開発したキーパッド「Codex Micro」を230ドルで販売開始しました。",
+      "published": "Thu, 16 Jul 2026 06:45:03 +0900",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3c332257df288fe45738868ae98ad11",
+      "title": "Apple Intelligence、中国での展開にGOサイン。BaiduとAlibabaのAIモデルを採用",
+      "link": "https://www.techno-edge.net/article/2026/07/16/5298.html",
+      "summary": "アップルがiPhoneなどに搭載する生成AIサービス「Apple Intelligence」が、中国のサイバースペース規制当局への登録を完了しました。",
+      "published": "Thu, 16 Jul 2026 06:30:02 +0900",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa350e1d7a8ebff773929767095f8cb8",
+      "title": "Amazon CloudWatch Logs announces intelligent tiering for storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/",
+      "summary": "Amazon CloudWatch Logs now supports intelligent storage tiering, which automatically classifies your log data across three storage tiers - Standard (e...",
+      "published": "Wed, 15 Jul 2026 20:00:00 GMT",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f1bb75e06648a68e46ed09b268b4582",
+      "title": "Amazon Cognito now supports importing users with password hashes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/",
+      "summary": "Amazon Cognito now supports importing users with password hashes in CSV user imports. Previously, users imported from a CSV file had to reset their pa...",
+      "published": "Wed, 15 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "40fe2d37d42554fd41c9733783e15bb1",
+      "title": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud",
+      "summary": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, with support fo...",
+      "published": "Wed, 15 Jul 2026 15:51:00 GMT",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0764e33c52d415a6962fcdb9cd4d42c7",
+      "title": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version...",
+      "published": "Mon, 13 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd0069386e2f9096362fc4b95e36bc1d",
+      "title": "AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた",
+      "link": "https://note.com/uchita_success/n/n5db702b25061",
+      "summary": "ベンチャー企業でAI活用推進リーダーしてるうちたです。 営業やバックオフィスをAIで自動化・質向上をして、ぬくぬく働きつつも成果を上げています。 この記事は、「AIでぬくぬく仕事する」を実現する、うちたの保管庫の玄関です。 うちた式パワポ変換 最新版 PDF/画像→パワポで編集（プロンプト） 資料リ...",
+      "published": "2026-07-15T14:15:30Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d15ba2ce8b8e2a97c2a5281f1d9623e0",
+      "title": "aws-actions/configure-aws-credentials で AWS 認証情報の環境変数へのエクスポートを抑止する - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/15/193517",
+      "summary": "はじめに 普段よく GitHub Actions で aws-actions/configure-aws-credentials を使っているけど「output-credentials」と「output-env-credentials」というオプションがあることは知らなかった💡 aws-action...",
+      "published": "2026-07-15T11:10:19Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "536ba218e715e88347ecad55c458db8f",
+      "title": "LUUPに会社負担で乗れる「LUUP for Work」--法人モードに切り替えるだけ、経費精算いらず",
+      "link": "https://japan.cnet.com/article/35250607/",
+      "summary": "管理者は専用の管理画面で従業員の利用状況を随時確認できる。車両には保険も付く。電動キックボードと電動シートボードには自賠責保険に加えて任意保険を、電動アシスト自転車には任意保険を付けている。いずれも相手への賠償だけでなく、乗っている本人のけがを補償する搭乗者傷害保険も含む。 背景には、移動のロスに....",
+      "published": "2026-07-15T12:33:09Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "001e6af2ed272781953eeff97c14d4a3",
+      "title": "The Memory Heist",
+      "link": "https://www.ayush.digital/blog/the-memory-heist",
+      "summary": "Take a look at this Claude conversation. Notice anything suspicious? Looks innocuous, but by the time Claude finished responding, it had already sent ...",
+      "published": "2026-07-15T07:24:34Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa58001afb3a0740c6d201bbe2809c99",
+      "title": "電力8社がデータセンター送電網増強 全国30カ所、AI需要見据え先手 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC0889M0Y6A500C2000000/",
+      "summary": "東京電力ホールディングスなど大手電力8社が送電設備を増強する。変電所を全国30カ所で新増設する。人工知能（AI）需要で急増するデータセンター新設で、送電設備不足が課題となっている。電力需要予測の2倍のペースで整備し、AI投資を後押しする。データセンターを送電設備につなぐには最大で約10年かかる事例も...",
+      "published": "2026-07-15T10:57:31Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd312a3057af2f7ce2e2528125121a14",
+      "title": "マスク氏「Xの全コードを例外なくオープンソース化」 本番環境との一致も第三者が検証へ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
+      "summary": "「Xの全コードベースを、例外なくオープンソース化します」――米Xを率いるイーロン・マスク氏は7月15日（現地時間）、自身のXでこう宣言した。セキュリティ上の脆弱性レビューが完了次第、全コードを公開するという。時期は明らかにしていない。 第三者のレビューアーも招き、公開したコードがXで実際に動いている...",
+      "published": "2026-07-15T21:53:16Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54f8d3a87bc5e7329ad16c1cd0d787b2",
+      "title": "スマホで27B級LLMが動く！PrismMLが「Bonsai 27B」を無料公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125273.html",
+      "summary": "",
+      "published": "2026-07-15T05:52:28Z",
+      "fetched_at": "2026-07-15T22:51:27.957221+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-15T20:51:11.214454+00:00"
+  "updated_at": "2026-07-15T22:51:27.957221+00:00"
 }

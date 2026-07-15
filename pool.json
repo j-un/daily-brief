@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ca4034068fea7074492d669f83b56c2f",
-      "title": "Rewriting Bun in Rust | Bun Blog",
-      "link": "https://bun.com/blog/bun-in-rust",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Rewriting Bun in Rust",
-      "published": "13 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-14T01:46:30.810299+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "187ddccb434b2686e27187093cc16ee0",
       "title": "SREの積み重ねがAI駆動開発のガードレールになった ― 7つの実践/SRE Guardrails The 7 - Speaker Deck",
       "link": "https://speakerdeck.com/tomoyakitaura/sre-guardrails-the-7",
@@ -579,7 +569,267 @@
       "fetched_at": "2026-07-15T04:43:36.650072+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "ad26c493d7ca5e8053a7add5a544f4b6",
+      "title": "RACIで比較する DBA と DBRE の思想の違い 〜データベース運用をプラットフォーム化する責任設計〜 - Speaker Deck",
+      "link": "https://speakerdeck.com/_awache/racidebi-jiao-suru-dba-to-dbre-nosi-xiang-nowei-i-detabesuyun-yong-wopuratutohuomuhua-suruze-ren-she-ji",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 RACIで比較する DBA と DBRE の思想の違い�〜データベース運用をプラットフォーム化する責任設計〜",
+      "published": "15 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1882e137f3e0d50f7de055ea0364d975",
+      "title": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE - Speaker Deck",
+      "link": "https://speakerdeck.com/kanny/shibui-sre",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
+      "published": "15 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67a1d37ce80f44842eaa7a17ff33adac",
+      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective - Speaker Deck",
+      "link": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE fr...",
+      "published": "15 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f972c1c032f213b33d0ad5fe02b3c29",
+      "title": "End-to-Endで考える信頼性 — LINEアプリにおける クライアント開発×SRE連携の実践 - Speaker Deck",
+      "link": "https://speakerdeck.com/maruloop/end-to-end-sre",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 End-to-Endで考える信頼性 —�LINEアプリにおける�クライアント開発×SRE連携の実践",
+      "published": "15 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d4800754aaa447a61922536dbb0898c",
+      "title": "Chatto is now Open Source!",
+      "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Chatto is now Open Source!",
+      "published": "13 Jul 2026 10:56 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b37627ebd72c452a25d033e12a8d2508",
+      "title": "Jurassic Park computers in excruciating detail",
+      "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html Comments URL: https://news.ycombinator.com/item?id=48915709 Points: 319 # C...",
+      "published": "Wed, 15 Jul 2026 02:57:47 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "364f2618e4e93217e0eee805598e2241",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "link": "https://tailscale.com/security-bulletins",
+      "summary": "Article URL: https://tailscale.com/security-bulletins Comments URL: https://news.ycombinator.com/item?id=48915004 Points: 128 # Comments: 55",
+      "published": "Wed, 15 Jul 2026 01:08:26 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e83a7d03ca54a398a0d80f5f92fc771",
+      "title": "Solving 20 Erdős Problems with 20 Codex Accounts Running in Parallel",
+      "link": "https://www.starfleetmath.com/",
+      "summary": "Article URL: https://www.starfleetmath.com/ Comments URL: https://news.ycombinator.com/item?id=48914646 Points: 117 # Comments: 51",
+      "published": "Wed, 15 Jul 2026 00:15:56 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "613a1c6aeda12ea4f6968ccb532739d2",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/ Comments URL: https://news.ycombinator.com/item?id=489...",
+      "published": "Tue, 14 Jul 2026 21:32:22 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b692f34523e3f6fe9311131184955942",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "link": "https://prismml.com/news/bonsai-27b",
+      "summary": "Article URL: https://prismml.com/news/bonsai-27b Comments URL: https://news.ycombinator.com/item?id=48910545 Points: 554 # Comments: 198",
+      "published": "Tue, 14 Jul 2026 17:50:48 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d0c16c8ceca19a76c84b686f92d473c",
+      "title": "Google Play手数料値下げが国内で前倒し、9月30日までに適用へ",
+      "link": "https://www.techno-edge.net/article/2026/07/15/5296.html",
+      "summary": "Googleは7月14日、Google Playのサービス手数料引き下げと課金オプション拡充について、日本での適用を前倒しすると発表しました。",
+      "published": "Wed, 15 Jul 2026 16:17:28 +0900",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "746ed445f0c2ad56750a3877cb6f7b51",
+      "title": "【開催報告】AWS GenAI Catapult! 〜AI 駆動型ハッカソンイベント：ユースケース創出から Kiro によるプロトタイプ開発まで〜",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-genai-catapalut-hackathon-2026/",
+      "summary": "2026年6月11日（木）、12日（金）の2日間、AWS 麻布台オフィスにて AI 駆動型ハッカソンイベント「 […]",
+      "published": "Wed, 15 Jul 2026 07:45:47 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff13bb3f6884606f9e286fd56b8f6a73",
+      "title": "AWS Weekly Roundup: AWS Builder Center 1 周年、セキュリティハブにおけるネットワークスキャン、Loom for AWS など (2026 年 7 月 13 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-builder-center-at-one-year-network-scanning-in-security-hub-loom-for-aws-and-more-july-13-2026/",
+      "summary": "AWS Builder Center は 2026年 7 月 6 日週、提供開始から 1 周年を迎えました。2 […]",
+      "published": "Wed, 15 Jul 2026 07:15:00 +0000",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "61d7af10498c3f465ccd86314d20fc15",
+      "title": "「POPOPO」サービス終了へ 提供開始から半年で",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news104.html",
+      "summary": "川上量生氏が全額出資するPOPOPOは7月15日、コミュニケーションサービス「POPOPO」の提供を9月17日に終了すると発表した。「今後の事業環境やサービスの最適化を総合的に検討した結果」という。 POPOPOは3月にサービスを開始。3Dアバターを介して通話できるスマートフォン専用の通話サービスで...",
+      "published": "2026-07-15T06:27:33Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "710d53d6242e0bd51302904d3ae09287",
+      "title": "「POPOPO」サービス終了のお知らせ | POPOPO ニュース",
+      "link": "https://news.popopo.com/ja/post-20/",
+      "summary": "POPOPO株式会社は、現在提供しているアプリ「POPOPO」につきまして、2026年9月17日（木） をもってサービスを終了することを決定いたしました。 「POPOPO」は2026年3月18日のサービス開始以降、多くのお客様にご利用いただいてまいりましたが、今後の事業環境やサービスの最適化を総合的...",
+      "published": "2026-07-15T06:24:31Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33316d6e793cc7ba45838d7a4e1ed89e",
+      "title": "「POPOPO」サービス終了のお知らせ",
+      "link": "https://prtimes.jp/main/html/rd/p/000000009.000178219.html",
+      "summary": "POPOPO株式会社は、現在提供しているアプリ「POPOPO」につきまして、2026年9月17日（木） をもってサービスを終了することを決定いたしました。 「POPOPO」は2026年3月18日のサービス開始以降、多くのお客様にご利用いただいてまいりましたが、今後の事業環境やサービスの最適化を総合的...",
+      "published": "2026-07-15T06:27:44Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd0dcc1ac36a74d7f45b74cda294cf8",
+      "title": "頂上と裾野の両方から「底上げ」 GMO Flatt Security＆GMO サイバーセキュリティ byイエラエが支える、日本のサイバーセキュリティ（前編）ーEngineering Journey / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/84242/",
+      "summary": "頂上と裾野の両方から「底上げ」 GMO Flatt Security＆GMO サイバーセキュリティ byイエラエが支える、日本のサイバーセキュリティ（前編）ーEngineering Journey サイバー攻撃は年々高度化し、生成AIが攻撃と防御の双方で武器になりつつあります。国家を背景にした攻撃か...",
+      "published": "2026-07-15T04:00:58Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7f0dae6585589e3a826933fae9bcc49",
+      "title": "Datadogでも長期ログ保存はできる ─ Flex Logs導入でエンジニアのログ調査工数を削減しようとしている話 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/07/14/175636",
+      "summary": "はじめに 株式会社タイミーのプラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 突然ですが、皆さんの組織では「3ヶ月前のログを見たいんですが……」という依頼が来たとき、どう対応していますか？ タイミーではDatadogをログ基盤として利用しています。Datadog...",
+      "published": "2026-07-14T10:33:38Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a9024e29f44e7f8b838aa3b4a264e2b",
+      "title": "イオンも一部欠品 ニチレイへの不正アクセスが影響",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news076.html",
+      "summary": "イオン（千葉市美浜区）は7月15日、ニチレイへの不正アクセスに伴うシステム障害の影響で、一部商品が欠品しているとITmedia NEWSの取材で明らかにした。どの商品がどの店舗で欠品しているかなどの詳細は「店舗やグループ各社を調査している段階」という。 発端はニチレイ（東京都中央区）が13日に発表し...",
+      "published": "2026-07-15T03:02:53Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae5e546d2200955dbb3240c470d03fbd",
+      "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel- Google Developers Blog",
+      "link": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
+      "summary": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel That's a wrap on Google I/O India! In a special joint showcase with the Google Pix...",
+      "published": "2026-07-15T06:06:26Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "99b4ed2f0150cfdaf2a094930d0dc25f",
+      "title": "ローソン、「コンビニ車中泊」エリア拡大 「安心感」でリピート",
+      "link": "https://www.watch.impress.co.jp/docs/news/2125088.html",
+      "summary": "",
+      "published": "2026-07-14T21:47:12Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "288551c44765f04ccbbcb8be59c30c90",
+      "title": "GMO熊谷氏、在宅勤務廃止の理由説明--「タイピング数は確実に減少」「トータルでマイナス」",
+      "link": "https://japan.cnet.com/article/35250558/",
+      "summary": "GMOインターネットグループの熊谷正寿代表は7月14日、在宅勤務の完全廃止に踏み切った理由を自身のXアカウントで説明した。在宅勤務では時間当たりのPCタイピング数がデータ上確実に減っているとし、「トータルで在宅勤務はマイナス」と判断したという。",
+      "published": "2026-07-14T11:27:17Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0ed64b64bf290970640ec3aafc96b3f",
+      "title": "国産SNS「POPOPO」、9月17日にサービス終了 開始から半年",
+      "link": "https://www.watch.impress.co.jp/docs/news/2125368.html",
+      "summary": "",
+      "published": "2026-07-15T07:09:36Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da12701cba38810af4659d31098beae9",
+      "title": "一部のDell製Windows 11 PCで動作が不安定になるおそれ、特定のIntelドライバーと非互換／6月プレビューパッチで発生、当該デバイスで7月セキュリティパッチの配信を一時停止",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125158.html",
+      "summary": "",
+      "published": "2026-07-15T02:02:14Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d8644d7972d80bfddf7abbd9b4cad8d",
+      "title": "I changed a few Windows settings and my Wi-Fi speed finally improved",
+      "link": "https://www.makeuseof.com/improve-wifi-speed-with-these-windows-settings/",
+      "summary": "Pankil is a Civil Engineer turned freelance writer from Ahmedabad, India. As a long-time Windows and Android user, he has extensive knowledge of both ...",
+      "published": "2026-07-15T04:28:50Z",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fd87ab2f3432c7a4dca2467e4a135e1",
+      "title": "Google CloudではじめるAI/ML入門",
+      "link": "http://www.oreilly.co.jp/books/9784814401741/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "本書は、Google Cloud上でAI、機械学習を用いた実用的なアプリケーションを構築するために必要となる知識を幅広くまとめた書籍です。 第Ⅰ部では、データ基盤の構築、分析からBigQuery、Gemini Enterprise Agent Platform、Agent Development K...",
+      "published": "2026-08-07T00:00:00+09:00",
+      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-15T04:43:36.650072+00:00"
+  "updated_at": "2026-07-15T07:53:02.987597+00:00"
 }

@@ -129,7 +129,137 @@
       "fetched_at": "2026-07-14T22:49:51.349287+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "9ebcbd4671f991e4da4b6d0ea772f4be",
+      "title": "SRE NEXT 2026 - Speaker Deck",
+      "link": "https://speakerdeck.com/akiragoto/sre-next-2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SRE NEXT 2026 発表資料 Engも、Bizも、CSも。組織横断タスクフォースで実現したライブ配信サービスの信頼性向上",
+      "published": "14 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1871115a882844875c50a6d25b4c3519",
+      "title": "分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門 - Speaker Deck",
+      "link": "https://speakerdeck.com/mshibuya/fen-san-sisutemu-nandesugusi-ndesimaun-nai-zhang-hai-xing-wogao-metaianatanotamenoreziriensupatanru-men/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 分散システム、なんですぐ死んでしまうん？耐障害性を高めたいあなたのためのレジリエンスパターン入門",
+      "published": "14 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4484900b8b63ae2c34587aac5d4de29d",
+      "title": "How I use HTMX with Go",
+      "link": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "summary": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 108 # Comment...",
+      "published": "Tue, 14 Jul 2026 19:55:31 +0000",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd9218e70c3b6169471f314fb2c734da",
+      "title": "StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",
+      "link": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "summary": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Poi...",
+      "published": "Tue, 14 Jul 2026 19:48:36 +0000",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17eb4913f69c3bd978f7c0b75d1052f5",
+      "title": "連載「歌うテックニュース」第9回：Transformer論文を読めば、倦怠期カップルも愛を取り戻せるはずなのだ（西川善司）",
+      "link": "https://www.techno-edge.net/article/2026/07/15/5294.html",
+      "summary": "今回の楽曲は、先日掲載された、ローカルSLMに対応したNVIDIAのゲーム向けAI技術のACEの記事にちなんだ歌です。",
+      "published": "Wed, 15 Jul 2026 08:30:34 +0900",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "83823bb8489b27a79cf620a9bdd09b80",
+      "title": "AWS Lambda console provides a one-click setup prompt for coding agents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/",
+      "summary": "AWS Lambda console now provides a one-click setup prompt for coding agents that configures your agent with AWS Serverless skills and the Serverless Mo...",
+      "published": "Tue, 14 Jul 2026 20:00:00 GMT",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4280c29a5d1bf315e3ec30ab18b9b387",
+      "title": "Amazon Redshift RG instances now available on the trailing track",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track",
+      "summary": "Amazon Redshift now supports Graviton-based RG instances on the trailing track. Starting July 7, 2026, rg.4xlarge and rg.xlarge instance types are ava...",
+      "published": "Wed, 08 Jul 2026 18:12:00 GMT",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "73d1b8d08b4356e64f60a1ab952f87c3",
+      "title": "非エンジニアが自作アプリを社内にデプロイできる基盤を作った話",
+      "link": "https://zenn.dev/hacobell_dev/articles/369ff476324aae",
+      "summary": "こんにちは、ハコベルでVPoTを務めている横山です。 ハコベルでは、エンジニア以外のメンバーに対しても生成AIツールの利用を推進しています。Claude Codeを配布したことで、非エンジニアでも自分の手元では業務改善ができるようになりました。一方で、作った仕組みをチームの他メンバーに展開するのが難...",
+      "published": "2026-07-14T11:14:47Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "937142cba1ef6598ecc0b89949cec934",
+      "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+      "link": "https://www.publickey1.jp/blog/26/202960.html",
+      "summary": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わってAIが日常的なエンジニアリングの作業を処理してくれる能力を持つようになったことがあります。 人間...",
+      "published": "2026-07-14T14:39:52Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61138c412d6bb4f360429c4e810defce",
+      "title": "「査読前論文は信用できない」はどこまで本当か？ 査読前後での内容の変化、7万件の分析結果は",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-07-14T22:58:11Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b9baee92d18e95f16bac94d3b9234a6",
+      "title": "mirage-ecsでPRごとのプレビュー環境を構築し、動作確認しやすくした話",
+      "link": "https://zenn.dev/zaico/articles/zaico-mirage-ecs-preview-2026",
+      "summary": "はじめに ZAICOでは、Amazon ECS Fargate上にRuby on Railsのアプリケーションをデプロイして在庫管理システムを提供しています。 開発フローの中で動作確認に関する開発者体験を損なう課題があり、それを解決するためにmirage-ecsを活用して、PRごとに独立したプレビュ...",
+      "published": "2026-07-14T13:00:13Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c04596d63a9bba8261a5ed47705451d",
+      "title": "売上95％減、どん底のアスクルが旧システムを捨て、再起をかけた復旧の3カ月半",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/14/news014.html",
+      "summary": "アスクルは2025年10月、ランサムウェア攻撃を受け、ECサービスが停止する大規模な被害に見舞われた。売上は一時95％減少し、事業の全面復旧までには約3.5カ月を要した。 被害は、オンプレミス環境で構築していた物流システムに加え、社内システムやSaaSで運用していた問い合わせ管理システムにも及んだ。...",
+      "published": "2026-07-14T02:40:26Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d53832f321fd3798a7bfb087cd64a179",
+      "title": "富士急ハイランド、“分身”が代わりに並んでくれる 新チケット「分身くん」 通常料金＋2000円で",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/14/news098.html",
+      "summary": "価格は、日により変動するワンデイパスのシーズナリティ料金（変動価格制）に2000円を加えた額。数量限定で、メルマガ会員サービス「CLUBフジQ」から来園前日までに購入する。当日販売やバーチャルキュー機能単体での販売はなく、購入後のキャンセル・払い戻しはアトラクション休止時を含めできない。販売対象は大...",
+      "published": "2026-07-14T08:03:10Z",
+      "fetched_at": "2026-07-15T01:42:51.288626+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-14T22:49:51.349287+00:00"
+  "updated_at": "2026-07-15T01:42:51.288626+00:00"
 }

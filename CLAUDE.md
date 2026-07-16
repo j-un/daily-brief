@@ -12,7 +12,7 @@ RSSフィードから収集した記事をキュレーションし、日次 Mark
 フィードリスト・関心テーマ・除外キーワードは `config.yaml` で管理する。
 フィードの追加・削除やキーワード変更を求められた場合は `config.yaml` を更新すること。
 
-> **参照**: `config.yaml` — feeds / interests セクション
+> **参照**: `config.yaml` — feeds / interests / selection セクション
 
 ---
 

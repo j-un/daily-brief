@@ -749,7 +749,207 @@
       "fetched_at": "2026-07-16T07:58:38.688990+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "59e2a2da554d97c06ac95d74d4974a23",
+      "title": "PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能",
+      "published": "16 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e93adf5a1c28b93b43547524290dec54",
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "link": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "summary": "Article URL: https://madcampos.dev/blog/2026/07/accessibility-from-scratch/ Comments URL: https://news.ycombinator.com/item?id=48930136 Points: 134 # ...",
+      "published": "Thu, 16 Jul 2026 03:48:43 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35b6db622d5d5731b978c1d224f9cae4",
+      "title": "Bluesky Trademarks ATProto",
+      "link": "https://atproto.com/blog/at-protocol-trademark",
+      "summary": "Article URL: https://atproto.com/blog/at-protocol-trademark Comments URL: https://news.ycombinator.com/item?id=48929351 Points: 103 # Comments: 43",
+      "published": "Thu, 16 Jul 2026 01:21:04 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed6e1422f4a0b62162873d164a507dd0",
+      "title": "Oracle Database@AWS のトラフィック集中検査",
+      "link": "https://aws.amazon.com/jp/blogs/news/centralized-traffic-inspection-for-oracle-databaseaws/",
+      "summary": "Oracle Database@AWS 環境で AWS Transit Gateway の集中検査 VPC または AWS Cloud WAN のサービス挿入を使用して、東西・南北ネットワークトラフィックを集中検査する 2 つのパターンを解説します。",
+      "published": "Thu, 16 Jul 2026 09:55:12 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "13d565a9afeed1dd8b36ab83c9e2a6f6",
+      "title": "Terraform を使用した Oracle Database@AWS リソースのプロビジョニング",
+      "link": "https://aws.amazon.com/jp/blogs/news/provision-oracle-databaseaws-resources-using-terraform/",
+      "summary": "本記事では、Terraform を使用して Oracle Database@AWS の主要コンポーネント（ODB ネットワーク、Exadata インフラストラクチャ、Exadata VM クラスター、Autonomous VM クラスター）をプロビジョニングする方法を説明します。サンプルの Terr...",
+      "published": "Thu, 16 Jul 2026 09:50:52 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "daefde215447d318a29621f63f5f90b3",
+      "title": "Oracle Database@AWS を読み解く: Oracle ワークロードに最適な選択肢の見極め方",
+      "link": "https://aws.amazon.com/jp/blogs/news/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/",
+      "summary": "2025 年 7 月に GA となった Oracle Database@AWS (ODB@AWS) が Oracle ワークロードに適しているかを判断する 5 つの質問と、ビジネス・技術・ライセンス面での利点、Amazon RDS for Oracle や EC2 との使い分けを解説します。",
+      "published": "Thu, 16 Jul 2026 09:00:52 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7b2288135b7c65c2a35aa95947dc717",
+      "title": "Oracle Database@AWS のクロスアカウント共有のベストプラクティスとアーキテクチャパターン",
+      "link": "https://aws.amazon.com/jp/blogs/news/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/",
+      "summary": "AWS RAM によるリソース共有と AWS License Manager によるエンタイトルメント共有を使い、AWS アカウント間で Oracle Database@AWS リソースを共有する 6 つのアーキテクチャパターンとベストプラクティスを解説します。",
+      "published": "Thu, 16 Jul 2026 08:20:29 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "baca91d7a9c3aab76653b6e032e55a8a",
+      "title": "Oracle Database@AWS の高性能ネットワーキング入門",
+      "link": "https://aws.amazon.com/jp/blogs/news/getting-started-with-the-oracle-databaseaws-high-performance-networking/",
+      "summary": "Oracle Database@AWS の高性能ネットワーキング機能を使い、EC2 上のアプリケーションと ODB@AWS データベース間で安定したサブミリ秒のネットワークレイテンシーを実現する設定手順を解説します。",
+      "published": "Thu, 16 Jul 2026 08:10:52 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "98d2cadb8a23556fe4da6f756f0bd706",
+      "title": "Oracle Database@AWS のバックアップとリカバリオプションを理解する",
+      "link": "https://aws.amazon.com/jp/blogs/news/navigating-backup-and-recovery-options-for-oracle-databaseaws/",
+      "summary": "Oracle Database@AWS (ExaDB-D / ADB-D) で利用できる自動・手動・ユーザー管理・長期バックアップの各オプションと、Amazon S3、OCI Object Storage、Autonomous Recovery Service へのバックアップ先の選択、リストアオプ...",
+      "published": "Thu, 16 Jul 2026 08:06:11 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b5c681b172cf7f5a0a1ed1817e98f02",
+      "title": "AWSで障害 「CloudFront」世界規模で不調 PayPayに影響 noteやニコニコ生放送もつながりにくく",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news096.html",
+      "summary": "ITmedia NEWS読者調査 当社では企業のビジネストレンドを明らかにするために読者調査を行っております。ご回答いただきました方の中から抽選で5名の方にAmazonギフトカード（3000円分）をプレゼント。何卒ご協力お願い致します。回答はこちらから！ 【追記：2026年7月16日午後6時30分】...",
+      "published": "2026-07-16T09:10:39Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23240e05046464b9d0374611259b3aeb",
+      "title": "Claude Opus 4.8超えの予測力、マルチモーダルLLM「Inkling」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125626.html",
+      "summary": "",
+      "published": "2026-07-16T03:31:51Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a52a64b2e9499b9556cd8d17871d4f5",
+      "title": "NVIDIAのジェンスン・フアン氏が秋葉原でセガに賛辞 これは巨大テック企業のトップによる社交辞令ではなく、セガのゲームに脳を焼かれたゲーマーの叫びだ (1/2)",
+      "link": "https://ascii.jp/elem/000/004/420/4420031/",
+      "summary": "NVIDIAを「謎の半導体企業」と表現する人は流石にもういないだろう。少し前はPCグラフィックス、今はAI業界を牽引するビッグテック企業である。そんなNVIDIAも創業期に技術選択に失敗して死にかけており、その窮地を救ったのがセガだ。アーケードゲーム界に数々の名作ゲームを送り出し、「メガドライブ」（...",
+      "published": "2026-07-16T05:23:04Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4632663c301f422a1c8dd5a69e1cacaa",
+      "title": "ボケ投稿サービス「bokete」が事実上のサービス終了、将来的な後継の開発も示唆？【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2125620.html",
+      "summary": "",
+      "published": "2026-07-16T03:44:05Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f10b6a6d49eeba8a832258d7296c3050",
+      "title": "ぷるぷるメーカー",
+      "link": "https://purupuru-maker.tanosix.com/",
+      "summary": "画像の好きな範囲を揺らして保存できる、ブラウザ完結のぷるぷるメーカー",
+      "published": "2026-07-15T22:40:32Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b7c6478fcb98a8c6541d467049fc0b3",
+      "title": "Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法",
+      "link": "https://zenn.dev/sonicmoov/articles/8712598f532b18",
+      "summary": "はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回してい...",
+      "published": "2026-07-16T02:38:31Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4cc1015b3db6d2232dbb3fc9566b490",
+      "title": "Google、無料AI「Gemma 4」を大幅強化。処理最大70%高速化やツール呼び出し改善",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125687.html",
+      "summary": "",
+      "published": "2026-07-16T04:59:18Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "401b626042bf8422251d59925db4a39a",
+      "title": "QAがSRE NEXT 2026に行ったら、SREを勘違いしていたことに気づいた｜yuden",
+      "link": "https://note.com/ydn_/n/n4d6e5a9280d4",
+      "summary": "私はSREではありません。QAエンジニアです。 きっかけは、同僚のSREが参加すると聞いたこと。名前は聞いたことあるし、面白そうだから行ってみよーくらいの軽い気持ちで申し込みました。 後から知ったのですが、今年のテーマは「Inclusive SRE」。 公式サイトには、SREというロールに限定されず...",
+      "published": "2026-07-16T05:01:27Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf2524f26ce64ef6a46b3fa910927109",
+      "title": "Mackerelのログ機能をオープンβ版として公開しました！ - Mackerel ブログ #mackerelio",
+      "link": "https://mackerel.io/ja/blog/entry/announcement/log-beta-release",
+      "summary": "お待たせいたしました！本日2026年7月16日（木）、Mackerelのログ機能をオープンβ版として公開しました。 この機能でどのような課題を解こうとしているのかは、以前の事前告知記事にまとめています。 mackerel.io では、ご利用条件や機能の使い方、ログの送信方法、そして正式リリースに向け...",
+      "published": "2026-07-16T07:04:47Z",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a134626dffdc21bacf1ce484f0084fb8",
+      "title": "ACE Studio 2 review: Next-gen AI features, stone age workflows",
+      "link": "https://musictech.com/reviews/digital-audio-workstations/ace-studio-2-review/?utm_source=rss&utm_medium=rss&utm_campaign=ace-studio-2-review",
+      "summary": "With an AI-centric workflow, this DAW aspires to be your all-in-one solution for generative audio. But does it inspire creative results? The post ACE ...",
+      "published": "Thu, 16 Jul 2026 08:00:40 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "cb03329f0b7a20e501958724b99b8321",
+      "title": "The complete guide to getting the best acoustics in your home studio",
+      "link": "https://musictech.com/guides/essential-guide/the-complete-guide-to-getting-the-best-acoustics-in-your-home-studio/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-getting-the-best-acoustics-in-your-home-studio",
+      "summary": "Know the difference between sound proofing and acoustic treatment, absorbers and diffusers? Get started treating your studio for the best sound within...",
+      "published": "Thu, 16 Jul 2026 08:00:19 +0000",
+      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-16T07:58:38.688990+00:00"
+  "updated_at": "2026-07-16T10:09:55.738547+00:00"
 }

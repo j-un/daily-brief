@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1882e137f3e0d50f7de055ea0364d975",
-      "title": "しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE - Speaker Deck",
-      "link": "https://speakerdeck.com/kanny/shibui-sre",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 しぶいSRE: サーバから見えない障害にどう向き合うか。ラストワンマイルのデバッグ実践 / Shibui SRE",
-      "published": "15 Jul 2026 06:55 +0000",
-      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "67a1d37ce80f44842eaa7a17ff33adac",
-      "title": "依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE from an EM's Perspective - Speaker Deck",
-      "link": "https://speakerdeck.com/shin1988/discussing-platform-engineering-and-inclusive-sre-from-an-ems-perspective",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 依頼文化をやめる日 EM視点で語るPlatform EngineeringとInclusive SRE / Discussing Platform Engineering and Inclusive SRE fr...",
-      "published": "15 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-15T07:53:02.987597+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c0baedab6f0bd9e1a40b7704d57b7f91",
       "title": "Collection of Digital Clock Designs",
       "link": "https://clocks.dev",
@@ -949,7 +929,247 @@
       "fetched_at": "2026-07-16T10:09:55.738547+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "efadbd4fb8758c8e465287b9f5bba57b",
+      "title": "LATERALでSQL実行時間を99.75%削減した話 - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/07/10/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LATERALでSQL実行時間を99.75%削減した話",
+      "published": "16 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c59e1df96912a36f5a2410279afcad2",
+      "title": "電子カルテSaaSを支えるオブザーバビリティ活用と開発者の実践/Observability in healthcare SaaS electronic medical records - Speaker Deck",
+      "link": "https://speakerdeck.com/msksgm/observability-in-healthcare-saas-electronic-medical-records",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 電子カルテSaaSを支えるオブザーバビリティ活用と開発者の実践/Observability in healthcare SaaS electronic medical records",
+      "published": "15 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fa0e0fb13af1b253c72a3a16544b3a2",
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "summary": "Article URL: https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading Comments URL: http...",
+      "published": "Thu, 16 Jul 2026 12:02:11 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8df979c3e2233a569136d3eaa672dae3",
+      "title": "OnePlus halts operations in USA and Europe",
+      "link": "https://community.oneplus.com/thread/2170715118587871237",
+      "summary": "Article URL: https://community.oneplus.com/thread/2170715118587871237 Comments URL: https://news.ycombinator.com/item?id=48932539 Points: 192 # Commen...",
+      "published": "Thu, 16 Jul 2026 10:14:04 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4eac1a69e5febf11f28c5dfb0326808",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "link": "https://joinedanthropic.com",
+      "summary": "Article URL: https://joinedanthropic.com Comments URL: https://news.ycombinator.com/item?id=48931588 Points: 134 # Comments: 52",
+      "published": "Thu, 16 Jul 2026 08:03:35 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e173eccc8ed0552a64dee5f158ee6ee6",
+      "title": "Making 768 servers look like 1",
+      "link": "https://planetscale.com/blog/making-768-servers-look-like-1",
+      "summary": "Article URL: https://planetscale.com/blog/making-768-servers-look-like-1 Comments URL: https://news.ycombinator.com/item?id=48930075 Points: 111 # Com...",
+      "published": "Thu, 16 Jul 2026 03:36:42 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bedb6d7999a88a8f2e3e555ab98eab5",
+      "title": "1,300 Beautiful Wildlife Illustrations from the 19th Century Now Restored",
+      "link": "https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html",
+      "summary": "Article URL: https://www.openculture.com/2026/07/explore-1300-beautiful-wildlife-illustrations-from-the-19th-century.html Comments URL: https://news.y...",
+      "published": "Thu, 16 Jul 2026 03:12:47 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "594be30acb6aca767c43a1e28d3d3187",
+      "title": "We don't use AI in any of our design or production processes",
+      "link": "https://mass-driver.com/article/from-human-hands",
+      "summary": "Article URL: https://mass-driver.com/article/from-human-hands Comments URL: https://news.ycombinator.com/item?id=48927373 Points: 101 # Comments: 108",
+      "published": "Wed, 15 Jul 2026 21:36:49 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5a3dfd261b8b84695b05968b592cf3f",
+      "title": "AIで声優の声再現し別人の曲を歌唱「侵害に当たりうる」 無断利用めぐり法務省が「声も保護対象」と指針案 | NEWSjp",
+      "link": "https://news.jp/i/1449343202717745669?c=62479058578587648?c=62479058578587648",
+      "summary": "生成AIによる著名人の声などの無断利用を巡り、法務省は「声も保護対象」とする指針案を示しました。 生成AIの普及に伴い、著名人の画像や声が勝手に使われるトラブルが深刻化していることを受け、法務省の検討会は声優らへのヒアリングを重ねて議論を進めてきました。 13日に示された指針案では、これまで明確な定...",
+      "published": "2026-07-16T08:32:25Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "799d5f1d432deaf089dec51d30a121e4",
+      "title": "シリーズも第2世代へ。2万円台のハイコスパスピーカー「EDIFIER MR4 MKII」はどんな音？【小寺信良の週刊 Electric Zooma!】",
+      "link": "https://av.watch.impress.co.jp/docs/series/zooma/2125119.html",
+      "summary": "",
+      "published": "2026-07-16T00:29:28Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "347b8ff7a94a7b08d694773426f39d54",
+      "title": "サ終が大歓喜されるサービス！あの「LINE VOOM」がようやく消滅へ、なお新タブは「ショッピング」 - すまほん!!",
+      "link": "https://smhn.info/202607-line-voom-service-end-2026-september-30-shutdown",
+      "summary": "すまほん!! » テック » Webサービス » サ終が大歓喜されるサービス！あの「LINE VOOM」がようやく消滅へ、なお新タブは「ショッピング」 あの邪魔なタブ。 LINEヤフーは、ショート動画サービス「LINE VOOM」を2026年9月30日11時ごろに終了すると告知しました。 終了後はL...",
+      "published": "2026-07-15T18:03:21Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b00e0ac7a08ed81197aef395ecf09fb",
+      "title": "AWSで障害 PayPayやニコニコ生放送に影響か（ITmedia NEWS） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/c6f690e87471628506a9e82b3ae1954d0ce2efca",
+      "summary": "7月16日午後5時40分ごろから、AWSで障害が発生している。CDNサービス「Amazon CloudFront」が世界規模で不調という。日本ではPayPayやニコニコ生放送といったサービスが同じタイミングで利用しにくくなっている。 【詳細】AWS障害、影響は？ 関連するSNS投稿を見る ステータス...",
+      "published": "2026-07-16T09:41:03Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d105eed0bef1b7ffd000e4cf9c52f5d2",
+      "title": "ユナイテッド航空、機内でヘッドホン未使用の乗客は搭乗禁止も | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/100945",
+      "summary": "スマートフォンやタブレットを機内に持ち込むようになって以来、客室内には「何かを視聴するならヘッドホンを着用する」という緩やかな社会的暗黙の了解が存在していた。 しかし近ごろ、その期待は必ずしも守られていない。客室乗務員からは、飛行機の狭い客室内で、音を出したまま（時には大音量で）TikTokをスクロ...",
+      "published": "2026-07-16T00:44:05Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c11f3ab1354be69e58bb3b387f3129d",
+      "title": "検索の5年前と、今と、これから考えること",
+      "link": "https://zenn.dev/rejasupotaro/articles/c55722ca8aa2ca",
+      "summary": "2021年より前の記憶 振り返ると、2018年あたりは検索界隈にとっての大きな転換期だったような気がします。当時の僕はまだWord2VecやFastTextを使い、なんとかして検索を賢くできないかと試行錯誤をしていましたが、そこにBERTが発表され[1]、翌2019年にはAmazonがセマンティック...",
+      "published": "2026-07-16T00:04:55Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e8be03e3d4f6267c2040c858678e667",
+      "title": "Webサーバー「nginx」に3件の脆弱性 ～最大深刻度はCritical、DoSやコード実行の恐れ／「CVSS 4.0」の基本値は最高で10点満点中「9.2」。v1.30.4/v1.31.3への更新を",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125645.html",
+      "summary": "",
+      "published": "2026-07-16T08:39:39Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04df38b078ae878d9632c81f1f0e4fa8",
+      "title": "「PayPay」で障害か、アプリやWebサイト利用できず",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2125807.html",
+      "summary": "",
+      "published": "2026-07-16T09:09:18Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e6ea244e5e16638e2b457318b2db6e7",
+      "title": "競技プログラミング（ヒューリスティック部門）世界大会で優勝した私が人生を振り返る - Shun_PI’s blog",
+      "link": "https://shun-pi.hatenablog.com/entry/2026/07/16/195647",
+      "summary": "自己紹介 初めまして、しゅんぴー（Shun_PI）と申します。 自己紹介を兼ねて、主な経歴と実績を簡単に記載しておきます。 World Tour Finals 2026 Heuristic 優勝 （競技プログラミングの一分野である「ヒューリスティックコンテスト」の世界大会） Kaggle Grand...",
+      "published": "2026-07-16T12:02:25Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "846f0730f11afa51453d7ae1713b577c",
+      "title": "予定調整も情報収集もAIにお任せ、24時間働く「Gemini Spark」日本上陸",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125695.html",
+      "summary": "",
+      "published": "2026-07-16T06:03:38Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2630b0bac8387f65a626fd810aec6295",
+      "title": "石油連盟会長、ホルムズ海峡経由「当てにしない」 停戦の脆弱性懸念 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC153MB0V10C26A7000000/",
+      "summary": "石油連盟の木藤俊一会長（出光興産会長）は15日、ホルムズ海峡経由の原油調達について「現時点で当てにできない、当てにしない」と語った。当面、重要航路が使えないとの認識を示した。米イラン停戦「脆弱性が浮き彫り」同日開いた石油連盟の定例会見で語った。海峡経由の調達再開について「仮に海峡が航行可能と言われ....",
+      "published": "2026-07-16T00:34:49Z",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fcee45344acfa07eb2d38648268c63a",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 injanei…",
+      "link": "https://github.com/injaneity/pi-computer-use",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 injaneity / pi-computer-use ⭐ 1,345 (+103) 🗒 TypeScript Let Pi control your apps on MacOS & Windows",
+      "published": "16 Jul 2026 10:16 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7844e10c68226ed8fc96425ec4d10375",
+      "title": "Celebrate Terminator 2’s 35th with the T-1000 VFX BTS and DJ T-1000",
+      "link": "https://cdm.link/terminator-2-bts-and-dj-t-1000/",
+      "summary": "35 years later, the T-1000 is more relevant than ever. Terminator 2 debuted in the first weekend of July 1991. The groundbreaking mix of computer anim...",
+      "published": "Thu, 16 Jul 2026 09:59:40 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "cf8ab1df8c85ddf0c06c85beb76eac56",
+      "title": "Audio Spices shares new pitch-shifting reverb, Anise Glide",
+      "link": "https://musictech.com/news/gear/audio-spices-anise-glide/?utm_source=rss&utm_medium=rss&utm_campaign=audio-spices-anise-glide",
+      "summary": "This plugin “glides” into the chosen pitch to create intriguing sonic motion. The post Audio Spices shares new pitch-shifting reverb, Anise Glide appe...",
+      "published": "Thu, 16 Jul 2026 11:29:11 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "6e195c10184b426e69ca3885786d75c9",
+      "title": "Drag-and-drop mastering: Meet HyFi, the new platform from Musik Hack",
+      "link": "https://musictech.com/news/music/musik-hack-hyfi/?utm_source=rss&utm_medium=rss&utm_campaign=musik-hack-hyfi",
+      "summary": "Get 10 free mastering credits now upon signup. The post Drag-and-drop mastering: Meet HyFi, the new platform from Musik Hack appeared first on MusicTe...",
+      "published": "Thu, 16 Jul 2026 11:27:17 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "3b73910d06deeec5451c781cfc2fe2f0",
+      "title": "“I can’t talk about it, but it’s keeping me busy”: Tom Oberheim is working on a “little project” – could a new synth be on the way?",
+      "link": "https://musictech.com/news/gear/tom-oberheim-hints-at-little-project/?utm_source=rss&utm_medium=rss&utm_campaign=tom-oberheim-hints-at-little-project",
+      "summary": "Oberheim synths are among the most legendary on the planet. And the man behind them – now 90 years old – hints at what he has in pipeline in a new int...",
+      "published": "Thu, 16 Jul 2026 10:56:20 +0000",
+      "fetched_at": "2026-07-16T13:25:04.456211+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-16T10:09:55.738547+00:00"
+  "updated_at": "2026-07-16T13:25:04.456211+00:00"
 }

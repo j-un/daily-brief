@@ -209,7 +209,217 @@
       "fetched_at": "2026-07-15T22:51:27.957221+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "6d9c0b9fa4b162758bb6385ceef02972",
+      "title": "npm v12 Ships With Install Scripts Off by Default, Begins De...",
+      "link": "https://socket.dev/blog/npm-12",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 npm v12 Ships With Install Scripts Off by Default, Begins Deprecating 2FA-Bypass Tokens",
+      "published": "15 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c21754a83684fce4362a4d8614234810",
+      "title": "SQLite should have (Rust-style) editions",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "Article URL: https://mort.coffee/home/sqlite-editions/ Comments URL: https://news.ycombinator.com/item?id=48928135 Points: 114 # Comments: 44",
+      "published": "Wed, 15 Jul 2026 22:42:58 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fba7131fe4a2eb35a2ad528015da636",
+      "title": "Show HN: Firefox in WebAssembly",
+      "link": "https://developer.puter.com/labs/firefox-wasm/",
+      "summary": "This is the entire Firefox browser rendering to a element. Gecko, all UI components, and the Spidermonkey JS engine are all compiled and running in We...",
+      "published": "Wed, 15 Jul 2026 21:00:17 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "15bcc799b217a3c07891f1fbd3c743b3",
+      "title": "Ask HN: Is it just me, or is software buggier across the board?",
+      "link": "https://news.ycombinator.com/item?id=48920698",
+      "summary": "I feel like I’m going crazy, I’ve been hitting the strangest bugs across all my devices in the last 6 months. Is anyone else experiencing this too? Co...",
+      "published": "Wed, 15 Jul 2026 13:41:01 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e54ada4f36341ef4989167d9ed623c0b",
+      "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled",
+      "link": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+      "summary": "Article URL: https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing...",
+      "published": "Wed, 15 Jul 2026 13:11:01 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72d835eba381236b8f0c78b0ad985c79",
+      "title": "Amazon OpenSearch Service の書き込み可能なウォームストレージでコストと運用負荷を削減",
+      "link": "https://aws.amazon.com/jp/blogs/news/cut-costs-and-simplify-operations-with-writable-warm-storage-in-amazon-opensearch-service/",
+      "summary": "Amazon OpenSearch Service に、書き込み可能なウォームストレージ (writable warm) が加わりました。UltraWarm では履歴データの更新にホットとの往復が必要でしたが、writable warm ならウォームに直接書き込めます。インフラコストは最大 48% ...",
+      "published": "Thu, 16 Jul 2026 00:42:09 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "22cb271e1f0e3224efb703e80d549006",
+      "title": "【開催報告】AWS Summit Japan 2026 ― AI で加速する製品イノベーション 〜マルチエージェントで実現する製品開発",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-2026-product-innovation/",
+      "summary": "はじめに AWS Summit Japan 2026 の流通小売・消費財・飲食ブースにて、私たちは「AI で加 […]",
+      "published": "Thu, 16 Jul 2026 00:23:43 +0000",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "10f14ccd820eccde4f813e2a469d4695",
+      "title": "Amazon EC2 G7e instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now avail...",
+      "published": "Wed, 15 Jul 2026 18:04:00 GMT",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "81b0dd991ff6199a62aa60761711bdbd",
+      "title": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/",
+      "summary": "Amazon SageMaker Unified Studio now supports Terraform for provisioning. Customers can use the open-source terraform-aws-sagemaker-unified-studio modu...",
+      "published": "Thu, 02 Jul 2026 21:49:00 GMT",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "efd8ae69a82e82d70b97fd5e636cd8c4",
+      "title": "サイバー攻撃によるニチレイグループのシステム障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/16/022032",
+      "summary": "2026年7月13日、株式会社ニチレイは、同社グループのシステムが不正アクセスによる障害を受け、冷蔵倉庫の入出庫業務や冷凍食品の出荷業務に影響が生じていると公表しました。その後、同社のサーバーがサイバー攻撃を受けたことを確認したとして続報を公表し、障害の影響は取引先・関連組織の商品供給にも及んでいま...",
+      "published": "2026-07-15T21:45:30Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8e828e873824c2558915cdbbdac990c",
+      "title": "OpenAI、初のハードウェア「Codex Micro」を230ドルで発売 Apple提訴の渦中にある端末とは別物",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/16/news055.html",
+      "summary": "なお、これはOpenAIが買収したデザイン企業ioと共同開発中と明らかにしているAIデバイスとは別のものだ。同デバイスについてサム・アルトマンCEOは「あっと驚くほど素晴らしい」ものになると語り、年内の発売を予告している。ただ、このハードウェア開発を巡っては、米AppleがOpenAIおよびioを営...",
+      "published": "2026-07-15T22:40:47Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38776c11aec47958935b3fafcc24ee53",
+      "title": "住民税が高い自治体／安い自治体はどこ？ 地域差はいくら？【2026年版 最新ランキング 更新しました！】",
+      "link": "https://internet.watch.impress.co.jp/docs/update/2124755.html",
+      "summary": "",
+      "published": "2026-07-15T21:55:32Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eefdebcfffd52e8bdb2819767f1a29ac",
+      "title": "【やじうまミニレビュー】 干渉知らずの電源タップ、縦横挿し＆半口ずらし対応で実売4千円弱。使ってみた結果は？",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2125420.html",
+      "summary": "",
+      "published": "2026-07-15T21:24:29Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fefd2e652ad8f9844fc063472f91dfd9",
+      "title": "【調査】フィジカルAIのビジネスインパクトに約6割が期待、約4割は判断保留。最前線の20社超が、ソフト×ハード開発における「リアルな知見」を共有",
+      "link": "https://prtimes.jp/main/html/rd/p/000000251.000045379.html",
+      "summary": "【調査】フィジカルAIのビジネスインパクトに約6割が期待、約4割は判断保留。最前線の20社超が、ソフト×ハード開発における「リアルな知見」を共有～NVIDIA・日産自動車・MODE・スペースデータ等が登壇、「フィジカルAI開発Conference 2026」申込好評受付中～ エンジニアプラットフォー...",
+      "published": "2026-07-16T01:08:48Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2a2387e4aa1cf7135ab45006cd36d95",
+      "title": "トヨタ、NVIDIAとの提携を拡大 NVIDIA製半導体とOSを採用してレベル2＋＋自動運転車の実現へ",
+      "link": "https://car.watch.impress.co.jp/docs/news/2125545.html",
+      "summary": "",
+      "published": "2026-07-15T23:29:26Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f252978fd8be9f46b06d729378a9a40",
+      "title": "『探偵！ナイトスクープ』で思い出した、デブサミ誕生秘話ーなぜデブサミは5トラック同時開催になったのか？ - 希望log",
+      "link": "https://iwakiri.hatenablog.com/entry/2026/07/15/120206",
+      "summary": "7/10にABCテレビで放映された『探偵！ナイトスクープ「伝説のJavaリングを復活させて」』撮影協力スレに参加することになってから、1998年のJavaOneの風景が、ふとした時に自動再生されるようになりました。そして私は、「デブサミはなぜ5トラック同時開催になったのか」という、自分でも忘れかけて...",
+      "published": "2026-07-15T06:47:05Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c190c989222c14b2f70601aa3db5a8c5",
+      "title": "カーネルのバージョンアップによって特定のCPUコアを使うPodが不安定になった事例の紹介 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+      "link": "https://blog.cybozu.io/entry/2026/07/15/113000",
+      "summary": "この記事は、CYBOZU SUMMER BLOG FES '26の記事です。 こんにちは、クラウド基盤本部の三村です。 サイボウズでは、オンプレミスのKubernetes基盤「Neco」でサービスを運用しています。 この記事では、IRQ Affinityの設定によってCPU PinningされたPo...",
+      "published": "2026-07-15T11:19:30Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "378e07f9358d5f13e5e76089e8dbae4a",
+      "title": "【特集】 AMDのNPUでLLMが動く！音声認識や画像生成も使えるローカルAIツール「Lemonade Server」",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2125083.html",
+      "summary": "",
+      "published": "2026-07-15T21:08:32Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ad528d7b2d759ac05eaba20eab7dde2",
+      "title": "『Fate』を生んだゲームエンジン「吉里吉里」の設計思想【フォーカス】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_891/",
+      "summary": "ゲームエンジン「吉里吉里1～3」開発者 W.Dee ソフトウェアエンジニア。学生だった1999年、ゲームエンジン「吉里吉里」シリーズおよびスクリプト言語「TJS」、シナリオシステム「KAG」の開発を開始する。その後も、ソフトウェア系企業に一貫して在籍する。 X:@wdko GitHub:w-dee ...",
+      "published": "2026-07-16T00:36:55Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "659fa9b067cfce7abf74bf89da5c166e",
+      "title": "Zoom製品に複数の脆弱性 ～アカウント乗っ取りの恐れ、最大深刻度はCritical／全4件の脆弱性を発表。最新版へのアップデートを",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125520.html",
+      "summary": "",
+      "published": "2026-07-16T00:41:49Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "36f9c67c02279c72a9f4c59089e6716d",
+      "title": "「WordPress」のローカル開発ツール「WordPress Studio」がネイティブPHPで大幅に高速化、「Sonnet 5」にも対応／ターミナルで実行できる「Studio CLI」は依存関係フリーに",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2124838.html",
+      "summary": "",
+      "published": "2026-07-15T22:23:21Z",
+      "fetched_at": "2026-07-16T01:52:48.068386+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-15T22:51:27.957221+00:00"
+  "updated_at": "2026-07-16T01:52:48.068386+00:00"
 }

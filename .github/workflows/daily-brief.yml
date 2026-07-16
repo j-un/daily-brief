@@ -111,6 +111,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           uv run scripts/select_articles.py \
+            --config "${GITHUB_WORKSPACE}/main/config.yaml" \
             --articles "${GITHUB_WORKSPACE}/articles.json" \
             --output "${GITHUB_WORKSPACE}/selected.json"
 

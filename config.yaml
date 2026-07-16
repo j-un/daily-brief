@@ -99,3 +99,7 @@ interests:
 
 selection:
   max_per_domain: 3
+  # max_per_domain の制限対象外とするドメイン（www. 除去後の正規化ホストと完全一致）
+  max_per_domain_exempt:
+    - speakerdeck.com
+    - aws.amazon.com

@@ -108,11 +108,15 @@ def domain_of(link: str) -> str:
 
 
 def apply_domain_cap(
-    candidates: list[dict], max_per_domain: int | None
+    candidates: list[dict],
+    max_per_domain: int | None,
+    exempt_domains: frozenset[str] = frozenset(),
 ) -> tuple[list[dict], dict[str, int]]:
     """candidates は 'link' キーを持つ dict のリスト（優先順）。
     ドメイン（正規化済み）ごとに max_per_domain 件までを残し、超過分を落とす。
     link からドメインが取得できない場合は無条件で残す。
+    exempt_domains に含まれるドメイン（正規化済みホストとの完全一致）は
+    上限のカウント・ドロップ対象外とし、無条件で残す。
     """
     if max_per_domain is None:
         return candidates, {}
@@ -122,7 +126,7 @@ def apply_domain_cap(
     kept = []
     for c in candidates:
         domain = domain_of(c["link"])
-        if domain:
+        if domain and domain not in exempt_domains:
             if domain_count[domain] >= max_per_domain:
                 dropped_by_domain[domain] += 1
                 continue
@@ -157,6 +161,7 @@ def main() -> None:
     args = parser.parse_args()
 
     max_per_domain = None
+    max_per_domain_exempt: set[str] = set()
     if args.config:
         with open(args.config, encoding="utf-8") as f:
             config = yaml.safe_load(f) or {}
@@ -172,6 +177,23 @@ def main() -> None:
                 file=sys.stderr,
             )
             sys.exit(1)
+
+        exempt_raw = selection.get("max_per_domain_exempt")
+        if exempt_raw is not None and (
+            not isinstance(exempt_raw, list)
+            or not all(isinstance(d, str) for d in exempt_raw)
+        ):
+            print(
+                f"ERROR: selection.max_per_domain_exempt must be a list of strings, got {exempt_raw!r}",
+                file=sys.stderr,
+            )
+            sys.exit(1)
+        for d in exempt_raw or []:
+            d = d.strip().lower()
+            if d.startswith("www."):
+                d = d[4:]
+            if d:
+                max_per_domain_exempt.add(d)
 
     with open(args.articles, encoding="utf-8") as f:
         data = json.load(f)
@@ -255,7 +277,9 @@ def main() -> None:
             print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 
-    picked_out, dropped_by_domain = apply_domain_cap(candidates, max_per_domain)
+    picked_out, dropped_by_domain = apply_domain_cap(
+        candidates, max_per_domain, frozenset(max_per_domain_exempt)
+    )
     for c in picked_out:
         del c["link"]
 

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cfc68fc96c1cbae67bcb5efd826465c4",
-      "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？ － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
-      "published": "16 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-16T07:58:38.688990+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "59e2a2da554d97c06ac95d74d4974a23",
       "title": "PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
@@ -1159,7 +1149,137 @@
       "fetched_at": "2026-07-17T11:16:14.001332+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "0bebb1fc8ea88bf5be70fe4a92684d46",
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "summary": "Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423 Comments URL: https://news.ycombinator.com/item?id=489...",
+      "published": "Fri, 17 Jul 2026 11:30:00 +0000",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8d0b45bda82c49e955789096476f7b7",
+      "title": "Kimi K3 is now #1 in the Front end Code Arena with 1679 pts, surpassing Fable 5",
+      "link": "https://twitter.com/arena/status/2077824029126504525",
+      "summary": "Article URL: https://twitter.com/arena/status/2077824029126504525 Comments URL: https://news.ycombinator.com/item?id=48939019 Points: 104 # Comments: ...",
+      "published": "Thu, 16 Jul 2026 19:20:20 +0000",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b87e8780e0ceefa7615729ef584fe68",
+      "title": "【開催報告】AWS Summit Japan 2026 〜 Future of Agentic Commerce ブース",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-future-of-agentic-commerce/",
+      "summary": "AWS で実現する新しい E-Commerce の形 〜 Future of Agentic Commerce […]",
+      "published": "Fri, 17 Jul 2026 11:47:34 +0000",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "39dd86fecfa7f093b4dd2fc393b23f6d",
+      "title": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で｜FNNプライムオンライン",
+      "link": "https://www.fnn.jp/articles/-/1076813",
+      "summary": "戦場投入のロシア兵、生存時間はわずか20～30分か アメリカCIAが分析 ウクライナAIドローン進化で CIA（アメリカ中央情報局）は、ウクライナのAI搭載ドローンの進化により、戦場に投入されたロシア兵が生存できる時間はわずか20分から30分にすぎないとする分析結果を明らかにしました。 CIAのラト...",
+      "published": "2026-07-17T06:51:35Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49842a65588e3eb34cc93db76aab2e5e",
+      "title": "世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab",
+      "link": "https://tech-lab.sios.jp/archives/53462",
+      "summary": "こんにちは、サイオステクノロジー武井です。今回はasync/awaitの動きをOSカーネルのレイヤーから追うことで理解を深めようとしてみます。 1. async/awaitはむずい async/await、なかなかにとっつきにくい概念だと思います。 「非同期処理には async を付ける」「awai...",
+      "published": "2026-07-17T11:28:14Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b842ffb5562cc746c9ce012ae20d2388",
+      "title": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson - FabScene（ファブシーン）",
+      "link": "https://fabscene.com/new/pr/escalator-lidar-recomputer-jetson/",
+      "summary": "エスカレーターで歩く人を半分に減らしたAI──名古屋発、駅の見守りシステムを支えるLiDAR技術とreComputer Jetson 2026 7/17 エスカレーターの「片側空け」は、長年にわたって日本に定着してきた慣習だ。しかし近年、その慣習を見直す動きが各地で広がっている。2023年10月、名...",
+      "published": "2026-07-17T08:05:21Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd613ed608a9c6f1e557c662777c5cea",
+      "title": "30年前にこんなのあったんだ…… Microsoft、IRCをマンガにする「Comic Chat」をオープンソース化／「Comic Sans」フォントが知られるきっかけにもなったユニークな製品",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2126038.html",
+      "summary": "",
+      "published": "2026-07-17T06:56:27Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d34518d718a9ceb4f4aef348f15f7bb",
+      "title": "Amazon CloudFrontの障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/17/142812",
+      "summary": "2026年7月16日夕方、Amazon Web Services(AWS)のコンテンツ配信サービス「Amazon CloudFront」で障害が発生しました。PayPayなど、自社基盤への影響を確認・公表した事業者が国内外に見られたほか、ニコニコなど同じ時間帯に不具合が生じたサービスもありました。A...",
+      "published": "2026-07-17T07:47:19Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "198f29474ea05e7cf095681c95a22833",
+      "title": "リーナス・トーバルズが「LinuxはアンチAIではない」「気に入らないならフォークすればいい」などLinuxカーネル開発におけるAI利用について意見を述べる",
+      "link": "https://gigazine.net/news/20260717-linux-linus-torvalds-ai/",
+      "summary": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏が、「Linuxカーネル開発におけるAI利用」について語りました。 Re: Linking Patchwork with Sashiko? - Linus Torvalds https://lore.kernel.org/linux-media...",
+      "published": "2026-07-17T05:27:07Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30b4afea65f11d8eb327ba2784b25c29",
+      "title": "ハッキング被害に遭い「25年分のゲーム＆OneDriveが消し飛んだ」ユーザー、無事アカウント復旧。騒動受け、マイクロソフトが迅速サポート - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260717-455458/",
+      "summary": "マイクロソフトアカウントが乗っ取られ、アカウントが凍結されてしまったというあるユーザーのX投稿が話題となっていた。同ユーザーのアカウントには25年分のデータが存在していた。7月15日にXBOX Supportがこの投稿へ反応し、謝罪とともに復旧を進めている旨を報告。その後ユーザーからアカウントが復旧...",
+      "published": "2026-07-17T02:41:39Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23a3cc82d5ade5f4cc27b4792d54e477",
+      "title": "Playwright PR Agents | Libretto",
+      "link": "https://libretto.sh/debug-agents",
+      "summary": "// PLAYWRIGHT PR AGENTS --Automatically fix failing Playwright scriptsKeep the browser automations you already run. When one fails, Libretto investiga...",
+      "published": "2026-07-17T04:54:11Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b84723f0a12e8507fb919ca4e9a63db",
+      "title": "1Password、Claudeに「パスワードを見せず」目的のサイトにログインする新機能 生体認証→アクセス権限付与",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news088.html",
+      "summary": "パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは7月16日（現地時間）、米AnthropicのAI「Claude」がユーザーのパスワードを見ることなくWebサイトなどにログインできる連携機能「1Password for Claude」を発表した。Mac向けに提供を開始...",
+      "published": "2026-07-17T07:02:33Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85ba1bfa363b7dbf8c2c54f9dfbeab42",
+      "title": "人間には読めるのにAIには別の文字に見えてしまうフォント「Decoy Font」が登場",
+      "link": "https://gigazine.net/news/20260717-decoy-font/",
+      "summary": "人間には本来の文章が読める一方で、画像認識AIには別の文章として認識させるフォント「Decoy Font」をフォント開発サービスのMixfontが公開しました。一般的なTTF形式で配布されており、パソコンにインストールして通常のフォントと同じように利用できます。 Decoy Font: A TTF ...",
+      "published": "2026-07-17T08:51:12Z",
+      "fetched_at": "2026-07-17T13:09:52.058946+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-17T11:16:14.001332+00:00"
+  "updated_at": "2026-07-17T13:09:52.058946+00:00"
 }

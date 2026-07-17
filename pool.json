@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "66a2c3ca8e93c6259365b955dedff2c9",
-      "title": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/",
-      "summary": "Amazon Aurora DSQL change data capture (CDC) is now generally available, enabling you to stream real-time database changes to Amazon Kinesis Data Stre...",
-      "published": "Wed, 08 Jul 2026 18:00:00 GMT",
-      "fetched_at": "2026-07-15T20:51:11.214454+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "cfc68fc96c1cbae67bcb5efd826465c4",
       "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？ － Publickey",
       "link": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
@@ -179,7 +169,247 @@
       "fetched_at": "2026-07-16T22:50:54.810956+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "ac3856d530741e746ea7312c34edfbef",
+      "title": "OpenAI、フロンティアモデルGPT-5.6 Solを含むGPT-5.6シリーズを一般提供 ——Codexを統合し、ChatGPT Workと切り替えて使える新デスクトップアプリも利用可能に | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/gpt-5.6-ga",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenAI、フロンティアモデルGPT-5.6 Solを含むGPT-5.6シリーズを一般提供 ——Codexを統合し、ChatGPT Workと切り替えて使える新デスクトップアプリも利用可能に | gihyo.j...",
+      "published": "17 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c332eee25b85c81c9b6937697cb0742",
+      "title": "My car’s OTA update broke Android Auto",
+      "link": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+      "summary": "Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombin...",
+      "published": "Thu, 16 Jul 2026 22:29:44 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1467e2b536395dedd9a1e1076d71790",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "summary": "Article URL: https://lmstudio.ai/blog/introducing-lm-studio-bionic Comments URL: https://news.ycombinator.com/item?id=48939662 Points: 158 # Comments:...",
+      "published": "Thu, 16 Jul 2026 20:18:15 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1da6af3324e2cca113cead2f2f90eb70",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "summary": "Article URL: https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6 Comments URL: https://news.ycombinator.com/item?id=48939524 Points: 122...",
+      "published": "Thu, 16 Jul 2026 20:03:23 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76307da3fd8c3b12ccb84b2dfd789205",
+      "title": "Generative AI Is an Engineering Disaster",
+      "link": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/ Comments URL: https://news.ycombinator.com/item...",
+      "published": "Thu, 16 Jul 2026 13:12:24 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf1d3c4230796f581efb5080bdf3e67e",
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "link": "https://www.bbc.com/news/articles/c5y680w62wno",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c5y680w62wno Comments URL: https://news.ycombinator.com/item?id=48933371 Points: 104 # Comments: 189",
+      "published": "Thu, 16 Jul 2026 12:05:53 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "718b8f0fa9ce43e967f85f0eced8ca61",
+      "title": "歌謡曲の巨匠サウンドをアルゴリズムで。ローカル生成するブラウザアプリをClaude Fable 5で作ってみた（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/07/17/5305.html",
+      "summary": "これまで、ビートルズ（ポール・マッカートニー、ジョン・レノン、ジョージ・ハリスン）、ユーミン（荒井由実時代）の作風をアルゴリズムとして組み込んだブラウザアプリを作ってきましたが、次は歌謡曲にチャンレンジしてみます。ターゲットは大好きな作曲家である筒美京平先生。果たしてどの程度できるのか？",
+      "published": "Fri, 17 Jul 2026 09:15:36 +0900",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4df0d31e6aa37ec4dd2ef6705e25a1f",
+      "title": "「AIは動画をちゃんと見ない」問題を解決する「claude-real-video」、WebサイトにAI組み込める軽量ライブラリ「ternlight」など生成AI技術5つを解説（生成AIウィークリー）",
+      "link": "https://www.techno-edge.net/article/2026/07/17/5304.html",
+      "summary": "今回の「生成AIウィークリー」（第152回）は、テンセントの2950億パラメータAIモデル「Hy3」や、AIに“しっかり”視聴させるツール「claude-real-video」を取り上げます。",
+      "published": "Fri, 17 Jul 2026 07:51:53 +0900",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "993da53d4e2208febb6837cee506abd6",
+      "title": "音声 AI エージェントで実現するセントラルキッチンのハンズフリーオペレーション",
+      "link": "https://aws.amazon.com/jp/blogs/news/voice-ai-driven-hands-free-kitchen/",
+      "summary": "本ブログは、株式会社アドバンスト・メディア様と Amazon Web Services Japan が共同で執 […]",
+      "published": "Fri, 17 Jul 2026 00:57:21 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cf5fd3473b84adf51a458ebb023b067",
+      "title": "Amazon SQS が誕生 20 周年に: 大規模かつ信頼性の高いメッセージングを支えてきた 20 年間",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-sqs-turns-20-two-decades-of-reliable-messaging-at-scale/",
+      "summary": "2006 年 7 月 13 日、Amazon EC2 および Amazon S3 と共にお客様向けに提供される […]",
+      "published": "Fri, 17 Jul 2026 00:25:23 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a40a7ac2813bd3644434e4c6a29b03b6",
+      "title": "Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards",
+      "summary": "Today, AWS Billing and Cost Management (BCM) announces support for Cost Efficiency widget in BCM Dashboards. You can now view cost efficiency trends a...",
+      "published": "Thu, 16 Jul 2026 18:56:00 GMT",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "27a95b25b96bd8ab7ad36abe206f0ca3",
+      "title": "Amazon Aurora DSQL is now in scope for FedRAMP Moderate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-now-in-scope-for-fedramp-moderate/",
+      "summary": "Amazon Aurora DSQL is now in scope for FedRAMP Moderate in the US East (Ohio), US East (N. Virginia), and US West (Oregon) Regions. You can now use Au...",
+      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d0a7cdcddea6cef44a4f1d7a02c9168",
+      "title": "AWS Lambda announces self-managed code storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/",
+      "summary": "AWS Lambda now supports self-managed Amazon S3 buckets for code storage, enabling you to reference source code directly from your own S3 buckets witho...",
+      "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e0adeea95ae0901da1fa9167604d602",
+      "title": "緊急地震速報の音はなぜ「ギュイッ」と3回鳴る？眠っていても脳を覚醒させる1秒未満の音、その知られざる設計原理 環境音楽家・小久保隆氏に聞く | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/95949",
+      "summary": "ギュイッ・ギュイッ・ギュイッ、地震です──。地震がやってくるとき、誰もがスマホからこの音を聞く。緊急地震速報の音は2007年10月に本格的に運用されるようになったというが、「ギュイッ」の作曲家はどんな狙いを持って、制作に挑んだのか。1秒に満たない“あの音”が一発で人の脳に「地震だ」と思わせる原理とは...",
+      "published": "2026-07-16T03:28:34Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91efcd4045489a37aca868d67d051ffc",
+      "title": "GitHub - InterfaceX-co-jp/genshijin: genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。",
+      "link": "https://github.com/interfacex-co-jp/genshijin",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-07-16T15:34:13Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bda44e7dcb906472b7dbbf990e2b1876",
+      "title": "カプコン、データ分析基盤を「Snowflake」へ刷新--レポート作成時間を約80%削減",
+      "link": "https://japan.zdnet.com/article/35250636/",
+      "summary": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます カプコンは、AIデータプラットフォーム「Snowflake」を活用したデータ分析基盤の構築と、Salesforceのクラウド型BIプラットフォー...",
+      "published": "2026-07-16T12:34:16Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e7d872e6cd1605c0c6750cba4c9a54f",
+      "title": "0から始めるローカルAIエージェント（Win11 + Docker + LM Studio + Hermes Agent） - Qiita",
+      "link": "https://qiita.com/pocokhc/items/eef04a3d6104c0ee03db",
+      "summary": "はじめに LLMの進化がすごくてついていくだけで大変ですね。 最近は、ある程度まとまった仕事をする自律型AIエージェントが注目されるようになりました。 それをローカルで試してみたいなと思っていたところ Hermes Agent や OpenClaw という名前を見かけたので気になって使ってみました。...",
+      "published": "2026-07-12T02:13:11Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbf165a23f1a6ade7f217ee3cdffda59",
+      "title": "タイピング数で測れる生産性ってなんだろう｜星影｜Tech Hunter",
+      "link": "https://note.com/unsoluble_sugar/n/nffe14730013f",
+      "summary": "感染対策の緩和に伴い、2023年には週2日の在宅勤務推奨を廃止して原則出社へ戻したものの、計画的な在宅勤務の活用自体は可能としていた。その後も続いていた週1日の在宅勤務について、今回、グループとしての推奨を廃止した形だ。 社内ではタイピング数だけでなく、コミュニケーションや意思決定の速さなど、複数の...",
+      "published": "2026-07-16T01:46:25Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d07eec9a07b4ac15e48aec56c5372e04",
+      "title": "イーロン・マスクがX(旧Twitter)のソースコード全公開を告知",
+      "link": "https://gigazine.net/news/20260716-x-open-source/",
+      "summary": "イーロン・マスク氏がXのすべてのコードベースをオープンソース化することを告知しました。 Once we have completed our review for security vulnerabilities, we will make the entire codebase of 𝕏 open...",
+      "published": "2026-07-16T03:19:42Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c95431043815633c47e1dd5ff87fb11",
+      "title": "電気ゼロで貼った場所を冷やしてしまうフィルム。アッツい屋根が25.6℃も下がった | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/cool_spacecool_cool/",
+      "summary": "今年もまた、アッツい夏が来ています。とりあえずエアコン、なんですが……よく考えると、部屋を冷やすために動いた室外機は、その熱をぜんぶ外に吐き出しています。 みんなで涼もうとするほど、街ぜんたいは暑くなっていく…。 何か良い案はないものか、と探してみると面白い素材がありました。電気を1ワットも使わず、...",
+      "published": "2026-07-16T11:46:46Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2f9dc819cc94796ab42e891b064c019",
+      "title": "約1兆パラメーターで画像・音声の理解やコーディングに対応、用途別に調整できるオープンウェイトAIモデル「Inkling」登場",
+      "link": "https://gigazine.net/news/20260716-inkling/",
+      "summary": "AI企業のThinking Machines Labが、用途に合わせた追加学習を重視する新たなAIモデル「Inkling」を発表しました。モデルの重みが公開されるオープンウェイトモデルで、文章だけでなく画像や音声も扱えるほか、思考に使う計算量の調整も可能とのことです。 Inkling: Our op...",
+      "published": "2026-07-16T05:07:35Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c21754a83684fce4362a4d8614234810",
+      "title": "SQLite should have (Rust-style) editions - Mort's Ramblings",
+      "link": "https://mort.coffee/home/sqlite-editions/",
+      "summary": "Date: 2026-07-15 Git: https://gitlab.com/mort96/blog/blob/published/content/00000-home/00017-sqlite-editions.md SQLite is an amazing database engine. ...",
+      "published": "2026-07-15T23:09:52Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba77c074a18d76f5144a77b29288fd04",
+      "title": "AIエージェント「Grok Build」がオープンソース化される",
+      "link": "https://gigazine.net/news/20260716-grok-build-open-source/",
+      "summary": "日本時間の2026年7月16日、SpaceXAI(旧称：xAI)がAIエージェントアプリ「Grok Build」のオープンソース化を発表しました。 Open Source | SpaceXAI https://x.ai/open-source We've open-sourced Grok Buil...",
+      "published": "2026-07-16T03:29:43Z",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d98181abb043bcee16a47f649fc7ee3",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Pri…",
+      "link": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 PrismML-Eng / Bonsai-demo ⭐ 1,372 (+323) 🗒 Shell Bonsai Demo",
+      "published": "17 Jul 2026 01:16 +0000",
+      "fetched_at": "2026-07-17T01:56:42.984197+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-16T22:50:54.810956+00:00"
+  "updated_at": "2026-07-17T01:56:42.984197+00:00"
 }

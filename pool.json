@@ -409,7 +409,307 @@
       "fetched_at": "2026-07-17T01:56:42.984197+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "735f4d0d7b7129a01ced587dc59d4e99",
+      "title": "コード品質分析を活用して、コードを効率的にリファクタリングしよう【Findy Team+】 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/07/10/110000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コード品質分析を活用して、コードを効率的にリファクタリングしよう【Findy Team+】",
+      "published": "17 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c3390eaea9730de3f091a83b7e8220b",
+      "title": "Meta、エージェント型タスク向けモデル「Muse Spark 1.1」を発表 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/meta-muse-spark-1.1",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Meta、エージェント型タスク向けモデル「Muse Spark 1.1」を発表 | gihyo.jp",
+      "published": "17 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a59d113cd5345f7e7fbf7fda36fb0de2",
+      "title": "Mathematics of Data Science",
+      "link": "https://arxiv.org/abs/2607.11938",
+      "summary": "Article URL: https://arxiv.org/abs/2607.11938 Comments URL: https://news.ycombinator.com/item?id=48939896 Points: 122 # Comments: 3",
+      "published": "Thu, 16 Jul 2026 20:38:48 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6da4e5b1ae4180655aa86ac5a80fd508",
+      "title": "Photos of items from families in different countries with different incomes",
+      "link": "https://www.gapminder.org/dollar-street",
+      "summary": "Article URL: https://www.gapminder.org/dollar-street Comments URL: https://news.ycombinator.com/item?id=48936654 Points: 106 # Comments: 57",
+      "published": "Thu, 16 Jul 2026 16:24:33 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8183a5387ea7e4c12b53f7f05e6592c7",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "link": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "summary": "Article URL: https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model Comments URL: https://news.ycombinator.com/item?id=48935687 Points: 113 ...",
+      "published": "Thu, 16 Jul 2026 15:13:00 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "63f9b26eaa543477e7eec0560eddc9e3",
+      "title": "Amazon RDS for Db2 でセルフマネージド AD の Kerberos 認証を有効にする",
+      "link": "https://aws.amazon.com/jp/blogs/news/enable-self-managed-ad-kerberos-authentication-with-amazon-rds-for-db2/",
+      "summary": "Amazon RDS for Db2 は、お客様自身の Active Directory を利用した Kerberos 認証をサポートしており、データベースユーザーの認証を一元化してシングルサインオンを実現できます。本記事では、専用の OU とサービスアカウントの作成、必要な AD 権限の委任、KM...",
+      "published": "Fri, 17 Jul 2026 04:50:28 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "b71f5363a2c60d089ee7cfb3a31f34be",
+      "title": "ナレッジグラフと IoT データによる生産ラインのボトルネック分析 〜AI エージェントのための製造データの構造化〜",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-mfg-knowledge-graph-iot/",
+      "summary": "はじめに こんにちは、IoT Specialist ソリューションアーキテクトの新澤です。2026 年 6 月 […]",
+      "published": "Fri, 17 Jul 2026 04:45:46 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "640484da914328a47aa6ea16f29ba2c6",
+      "title": "Amazon RDS for Db2 でカスタムドメイン名を維持する",
+      "link": "https://aws.amazon.com/jp/blogs/news/preserving-custom-domain-names-for-amazon-rds-for-db2/",
+      "summary": "IBM Db2 ワークロードを Amazon RDS for Db2 へ移行する際、既存のアプリケーション接続文字列を書き換えずに済ませたいという要望はよくあります。本記事では、SNI ベースの TLS プロキシをデプロイするモジュール化された Terraform テンプレートを紹介します。エンドツ...",
+      "published": "Fri, 17 Jul 2026 04:32:40 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "179f9c83fa72fab348759b029800260c",
+      "title": "Terraform を使用した Amazon RDS for Db2 のデプロイ",
+      "link": "https://aws.amazon.com/jp/blogs/news/deploying-amazon-rds-for-db2-using-terraform/",
+      "summary": "IBM Db2 ワークロードを運用しているお客様向けに、Amazon RDS for Db2 を再現性が高く監査可能な方法でプロビジョニングするモジュール式の Terraform テンプレートを紹介します。空の AWS アカウントから、AWS License Manager で追跡される稼働中の R...",
+      "published": "Fri, 17 Jul 2026 04:09:04 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b5b62620e1903ed158a37188164cd97",
+      "title": "Amazon RDS for Oracle レプリカのレプリカ遅延を診断して解消する – Part 2",
+      "link": "https://aws.amazon.com/jp/blogs/news/diagnose-and-resolve-replica-lag-in-amazon-rds-for-oracle-replicas-part-2/",
+      "summary": "本記事は Amazon RDS for Oracle リードレプリカのレプリケーション遅延を減らす 2 回シリーズの後編です。CloudWatch メトリクスとデータベースビューによる遅延の監視、待機イベント分析による根本原因の特定、そして遅延を解消するための段階的なトラブルシューティング手法を、プ...",
+      "published": "Fri, 17 Jul 2026 03:42:10 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "63fee7a229ad178d045132d33e37c8b8",
+      "title": "【開催報告】AWS Summit Japan 2026 — 「AI ペルソナ達がビジネス課題解決を加速する」バーチャル AI エキスパート",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-summit-japan-2026-virtual-ai-expert/",
+      "summary": "AWS Summit Japan 2026 の流通小売・消費財・飲食ブースにて、私たちは「バーチャル AI エ […]",
+      "published": "Fri, 17 Jul 2026 03:23:49 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "890ab36a56febaf210f83c85e3a82190",
+      "title": "REDO 圧縮による Amazon RDS for Oracle レプリカのレプリケーションラグ最適化 – パート 1",
+      "link": "https://aws.amazon.com/jp/blogs/news/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1/",
+      "summary": "本記事では、Amazon RDS for Oracle のクロスリージョンレプリカにおけるレプリケーションラグを REDO 圧縮機能で最適化する方法を説明します。REDO 圧縮の仕組み、有効化手順、実際の負荷テストによる効果を SLOB ツールを用いて検証し、圧縮有効時にラグが大幅に削減されることを...",
+      "published": "Fri, 17 Jul 2026 03:17:40 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2904ea8831f4ccf70ea001839c3ee1b",
+      "title": "Amazon RDS for Oracle でのデータマスキング",
+      "link": "https://aws.amazon.com/jp/blogs/news/data-masking-in-amazon-rds-for-oracle/",
+      "summary": "Oracle Data Masking and Subsetting Pack を Amazon RDS for Oracle で使用する方法を説明します。Oracle Enterprise Manager (OEM) でのデータマスキングのセットアップから、マスキングスクリプトの生成と実行、Eve...",
+      "published": "Fri, 17 Jul 2026 02:00:55 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "79594e434cc56521f6c39b0a8eb66e87",
+      "title": "AWS Partner Central introduces Partner Lead Prospecting",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central-prospecting/",
+      "summary": "AWS Partner Central now offers Partner Lead Prospecting, an AI-powered capability that helps APN Customer Engagements (ACE)-eligible AWS Partners act ...",
+      "published": "Thu, 09 Jul 2026 16:30:00 GMT",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2292f650a9f622ff53f96533af4325c",
+      "title": "キオクシア株、一時ストップ安 上場来高値から半値以下に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news068.html",
+      "summary": "7月17日の東京株式市場で、キオクシアホールディングス（東証プライム）の株価が寄り付き直後に急落し、午前9時半すぎには前日比1万円安の5万2110円と値幅制限の下限（ストップ安）に達した。6月に付けた上場来高値（取引時間中11万2700円）から半値以下の水準となった。 その後は買い戻しが入っているが...",
+      "published": "2026-07-17T01:39:56Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa711a3a0ae88fe2c1dbe4ffdda25d6f",
+      "title": "なぜAI臭さを消したいのか？｜laiso",
+      "link": "https://sizu.me/laiso/posts/mcerekex7091",
+      "summary": "前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたこと...",
+      "published": "2026-07-16T22:33:19Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1810f181c364090fa9d52f365a83600f",
+      "title": "ローカルLLMが資料を自動作成「LM Studio Bionic」、無料のAIエージェント",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125939.html",
+      "summary": "",
+      "published": "2026-07-17T02:05:58Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "17090913b399fcfe59940b509ba7d591",
+      "title": "「NotebookLM」が「Gemini Notebook」へ改称 ～Gemini、Google 検索との連携強化／コードを記述・クラウドで実行できる新機能も",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125948.html",
+      "summary": "",
+      "published": "2026-07-17T01:56:16Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fee2aa713c7b020262fdaa966d73af33",
+      "title": "1Password for Claude: Give Claude access without giving up your credentials | 1Password",
+      "link": "https://1password.com/blog/1password-for-claude",
+      "summary": "AI agents are moving from helping people think to acting on their behalf in browsers, apps, and accounts. That changes the security model. Once an age...",
+      "published": "2026-07-16T16:08:11Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d72de88a672f5c69ba4ec0d8b34dddb",
+      "title": "GoogleのAIまとめサービス・NotebookLMが「Gemini Notebook」に改名、GoogleサービスやGeminiとの連携も強化",
+      "link": "https://gigazine.net/news/20260717-gemini-notebook/",
+      "summary": "文書や音声、動画をAIで分析し、内容を整理してまとめてくれるGoogleのツール「NotebookLM」が新たに「Gemini Notebook」に改名されました。同時に、これまで有料プランのユーザーにのみ公開されていた「Googleサービスとの連携強化」と「コード実行を伴う高度な分析機能」が追加・...",
+      "published": "2026-07-17T03:22:58Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcb668cb6225998b20fcd4fb1a0e4a2c",
+      "title": "Androidバックアップ、Googleアカウントの保存容量にカウントされるように",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125978.html",
+      "summary": "",
+      "published": "2026-07-17T03:39:56Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b9811cd387857e104935e968da778d0",
+      "title": "スマホアプリ不要で気温と湿度の変化をその場で確認できる電子ペーパー式データロガー「Weathergotchi」をエンジニアが自作",
+      "link": "https://gigazine.net/news/20260717-weathergotchi/",
+      "summary": "ソフトウェアエンジニアのマイケル・マニング氏が、気温と湿度を継続的に記録して電子ペーパーに表示する携帯型データロガー「Weathergotchi」を自作しました。回路図や基板レイアウト、ファームウェア、3Dプリント用ケースのCADデータはオープンソースで公開されています。 I Made the We...",
+      "published": "2026-07-16T23:23:08Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c79e6abe9a7ee59e99825408e7f9d901",
+      "title": "Netflix「今年配信の約300作品で生成AI活用」 制作は2倍速で制作費は半額の実例も",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news065.html",
+      "summary": "米Netflixは7月16日（現地時間）、第2四半期（4～6月期）の決算発表に合わせて公開した株主向け書簡で、コンテンツ制作におけるパートナーの生成AI活用が急速に拡大しており、2026年に生成AIワークフローを使用した作品は約300本に上ると明らかにした。最も活用が集中しているのはポストプロダクシ...",
+      "published": "2026-07-17T01:46:36Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae4b23907f0c851414fe14c9848d0423",
+      "title": "NVIDIAフアンCEO、日本について熱弁 一問一答（全文）",
+      "link": "https://japan.cnet.com/article/35250691/",
+      "summary": "日本の「国家AIインフラ」にNVIDIAが関与 FRONTiaは、ロボットや自動運転など、実世界で動くAI「フィジカルAI」の基盤モデルを国産で開発する経済産業省の「国家AIインフラ」プロジェクトだ。NVIDIAは、最新GPU「Rubin GPU」を2万7500基以上備えた大規模計算基盤「AIファク...",
+      "published": "2026-07-16T23:26:24Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "450d543b5130131790d4d9b33dcaf4bf",
+      "title": "\"いまさら再使用ロケット\"ではない JAXA「RV-X」の強みとは?",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2125727.html",
+      "summary": "",
+      "published": "2026-07-16T23:33:03Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6b86d3172c5480929f195b85fcf37a4",
+      "title": "SRE NEXT 2026で \"xREとの連携による「SREの一日」と組織的協業の実際\"というタイトルで発表しました！ - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/07/17/100000",
+      "summary": "こんにちは。 サービスプラットフォーム部 SRE チームの谷合です。普段はメガネ集めと、キャンプギア収集、毎日のビールを楽しみながら生きています。 2026年7月10日〜11日開催のSRE NEXT 2026 に登壇してきました。 「Inclusive SRE」のテーマの通り、様々なロールの方や経験...",
+      "published": "2026-07-17T01:01:02Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "561b9b1c362465eaf2e5850177cb5900",
+      "title": "海外「日本は資源大国になるぞ！」 日本がレアメタル技術に革命を起こしたと米Yahooニュースでも話題に",
+      "link": "http://pandora11.com/blog-entry-5798.html",
+      "summary": "JX金属サーキュラーソリューションズの敦賀工場は、 使用済みリチウムイオン電池から、 リチウムを90%以上という高効率で回収する、 新たなプロセスを確立することに成功しました。 従来、リチウムイオン電池のリサイクルにおいて、 リチウムの回収率は30%程度に留まっていました。 さらに発火のリスクを伴う...",
+      "published": "2026-07-16T14:19:07Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "805eb715d6501318c024de8296a0808e",
+      "title": "NVIDIA新GPUを2.7万基導入、国策AI基盤モデル開発「FRONTia」始動",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2125880.html",
+      "summary": "",
+      "published": "2026-07-16T23:59:59Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7621084e8dae20387008489e47bfbf86",
+      "title": "【アップデート】 Amazon CloudWatch Logs が Intelligent-Tiering に対応しました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-logs-intelligent-tiering/",
+      "summary": "",
+      "published": "2026-07-16T09:13:25Z",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "97c77c913c657c429ad696bf31eb951b",
+      "title": "📦 apache / ossie ⭐ 741 (+34) 🗒 Python Ap…",
+      "link": "https://github.com/apache/ossie",
+      "summary": "📦 apache / ossie ⭐ 741 (+34) 🗒 Python Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analyti...",
+      "published": "17 Jul 2026 04:16 +0000",
+      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-17T01:56:42.984197+00:00"
+  "updated_at": "2026-07-17T05:11:02.293467+00:00"
 }

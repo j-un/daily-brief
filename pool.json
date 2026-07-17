@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "59e2a2da554d97c06ac95d74d4974a23",
-      "title": "PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能",
-      "published": "16 Jul 2026 08:55 +0000",
-      "fetched_at": "2026-07-16T10:09:55.738547+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "172452065c0857cd4882ddd2fdc73019",
       "title": "Guide to data tools landscape for developers",
       "link": "https://sinja.io/blog/data-landscape-guide-for-developers",
@@ -1279,7 +1269,167 @@
       "fetched_at": "2026-07-17T13:09:52.058946+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "aa833b0a6cd139d6f0f52b4551bc9967",
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "summary": "Article URL: https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166 Comments URL: https://news.ycombinator.com/item?id=48946303 Points: 165 #...",
+      "published": "Fri, 17 Jul 2026 12:02:39 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b49cbc21304da5eb78932ec114c8fb13",
+      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
+      "link": "https://news.ycombinator.com/item?id=48945681",
+      "summary": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Ye...",
+      "published": "Fri, 17 Jul 2026 10:45:21 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86a0041dbb158f8ee6938d421eddf8ac",
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "link": "https://news.ycombinator.com/item?id=48945241",
+      "summary": "URL already posted: https://health.aws.amazon.com/health/statusI've got an estimated bill for $1.7 BILLION over this month. Normal usage is Obvs have ...",
+      "published": "Fri, 17 Jul 2026 09:42:05 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27746d8983a8413e6bdff054f7092d42",
+      "title": "Trump Media to sell instant access to 'market-moving' social posts",
+      "link": "https://www.bbc.com/news/articles/c79gw4lj89eo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c79gw4lj89eo Comments URL: https://news.ycombinator.com/item?id=48944487 Points: 115 # Comments: 79",
+      "published": "Fri, 17 Jul 2026 07:58:19 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a23fc54bacb0b54552a303631f8664f9",
+      "title": "'Likweli': A new monkey species discovered in the Congo Basin",
+      "link": "https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin",
+      "summary": "Article URL: https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Thu, 16 Jul 2026 22:00:00 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "316a804c17be60c516e2cec390c9582b",
+      "title": "中国AIも“ミュトス級”に到達か Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
+      "summary": "中国Moonshot AIは7月16日（現地時間）、大規模言語モデル「Kimi K3」を発表した。同日からチャットサービス「Kimi.com」やAPIなどで利用できる。パラメータ数は2.8兆で、オープンモデルとしては世界初の“3T（3兆）級”と位置付ける。 Kimi K3は、画像を扱えるネイティブな...",
+      "published": "2026-07-17T07:33:11Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "77b62fe6dd1afb0bcf703e840160ec79",
+      "title": "VS Code拡張機能「Draw.io Integration」、Markdownのプレビュー上で図をインライン編集する機能、プレリリース版で提供 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/vscode-drawio-extension-inline-editing",
+      "summary": "VS Code拡張機能「Draw.io Integration」⁠⁠、Markdownのプレビュー上で図をインライン編集する機能⁠⁠、プレリリース版で提供 draw.ioの公式Xアカウントは2026年7月9日、Visual Studio Code（VS Code）用の拡張機能「Draw.io Int...",
+      "published": "2026-07-17T11:38:53Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed16f22c20d22aa5a48a8d6d9cb94e29",
+      "title": "「1.5兆ドルの請求が来た」？ AWSでまたトラブル、誤ったコスト見積が表示される状態に",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news112.html",
+      "summary": "AWSのコスト管理画面で7月17日午後5時半ごろから世界規模の障害が発生している。コストの見積やその請求情報が誤って表示される状態といい、SNSでは「1.5兆ドルの請求が来た」「心臓発作を起こすかと思った」などの投稿が海外のアカウントを中心に散見される。",
+      "published": "2026-07-17T11:04:28Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d32486a0860dc56e31099987f015eca0",
+      "title": "中古iPhoneの注文増加 “新品は高すぎ” ――コレが消費者の本音か BelongとMM総研が分析",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2607/17/news096.html",
+      "summary": "BelongとMM総研は7月15日、中古スマートフォン市場の最新動向に関する勉強会をオンラインで共催した。勉強会に登壇したMM総研研究主任の原健輔氏は、2025年度の中古スマートフォン販売台数が前年比12.4％増の360万7000台となり過去最高を記録したと発表した。原氏は市場拡大の要因として、世界...",
+      "published": "2026-07-17T07:05:34Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "16b337601a7be47d9ee33c731c3d4db5",
+      "title": "「Google Earth Pro」デスクトップアプリ、2027年6月25日で新規ダウンロード終了へ／Web/モバイル版への移行を",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2125536.html",
+      "summary": "",
+      "published": "2026-07-17T11:35:26Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6be64dd20e68b55bf2137d4b04a742be",
+      "title": "なでるだけの丸いカミソリ、貝印からなぜ生まれた? 計画比3倍の人気 - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2126042.html",
+      "summary": "",
+      "published": "2026-07-17T06:18:25Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6d99919d80a9738a603769b52804d92",
+      "title": "AI駆動開発時代の品質保証",
+      "link": "https://speakerdeck.com/naonana777/aiqu-dong-kai-fa-shi-dai-pin-zhi-bao-zheng",
+      "summary": "KAG AI WEEK ummer Day4 ~KDDI DIGIAL GAEゲスト会！~ AI駆動開発時代品質保証 山本 直弥（Nao）/ 上田 瀟逸 (ハリネズミ) 2026年7月16日 (木)",
+      "published": "2026-07-16T14:50:14Z",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89a665d7fafbfdc7ce54aa3edce26278",
+      "title": "📦 protocolbuffers / protobuf ⭐ 71,510 (+…",
+      "link": "https://github.com/protocolbuffers/protobuf",
+      "summary": "📦 protocolbuffers / protobuf ⭐ 71,510 (+11) 🗒 C++ Protocol Buffers - Google's data interchange format",
+      "published": "17 Jul 2026 13:16 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c639db570c27e97e9922c900a91349b9",
+      "title": "NI after NI: which brand is where, and who owns whom",
+      "link": "https://cdm.link/ni-after-ni-which-brand-is-where-and-who-owns-whom/",
+      "summary": "Native Instruments, iZotope, Plugin Alliance, and Brainworx being part of inMusic? That was early May; now only NI remains at inMusic. 2026' mergers a...",
+      "published": "Fri, 17 Jul 2026 11:26:29 +0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "232abcb473111557cc98a6af3fa4ccb4",
+      "title": "Essential Releases, July 17, 2026",
+      "link": "https://daily.bandcamp.com/essential-releases/essential-releases-july-17-2026",
+      "summary": "Cosmic country, twee pop, death rock, and more. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 17 Jul 2026 13:30:54 -0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "815c12ac2097650963d79c9235dd2718",
+      "title": "Chuck Strangers, “Glory of the King’s Hand”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/chuck-strangers-glory-of-the-kings-hand-review",
+      "summary": "The latest from the New York rapper finds him at the height of his powers, his pen sharper than ever. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 17 Jul 2026 13:30:45 -0000",
+      "fetched_at": "2026-07-17T15:06:57.994107+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-17T13:09:52.058946+00:00"
+  "updated_at": "2026-07-17T15:06:57.994107+00:00"
 }

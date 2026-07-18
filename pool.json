@@ -49,7 +49,157 @@
       "fetched_at": "2026-07-17T22:40:37.526353+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a30f5e8284375033c0b266ccf0bdb5b8",
+      "title": "AWS Lambda Durable Functions を本番運用する - Python SDK のしくみと運用のポイント",
+      "link": "https://zenn.dev/ivry/articles/ff7d2e939b3e61",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Lambda Durable Functions を本番運用する - Python SDK のしくみと運用のポイント",
+      "published": "17 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cc3c6dc893f533c74942ebd77f0a75e",
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "summary": "Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-d...",
+      "published": "Fri, 17 Jul 2026 22:35:55 +0000",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cfc73e86dde639b771b0134d04de0a4",
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "summary": "Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comment...",
+      "published": "Fri, 17 Jul 2026 22:26:30 +0000",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e14e173ceb5294d4976f4840b7effc2",
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 114 # Com...",
+      "published": "Fri, 17 Jul 2026 21:22:53 +0000",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55b2821c9acf89934a5d76e82251949f",
+      "title": "More Bounce to the Ounce",
+      "link": "https://mceglowski.substack.com/p/more-bounce-to-the-ounce",
+      "summary": "Article URL: https://mceglowski.substack.com/p/more-bounce-to-the-ounce Comments URL: https://news.ycombinator.com/item?id=48947201 Points: 110 # Comm...",
+      "published": "Fri, 17 Jul 2026 13:32:11 +0000",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10f424b80f034aaf31ac149add9b102a",
+      "title": "ついに iPhoneも値上げ、Pro Maxは最安21万円超・廉価版17eも10万円台 AirPodsとApple Watchも (新旧価格表)",
+      "link": "https://www.techno-edge.net/article/2026/07/18/5307.html",
+      "summary": "Appleが7月18日、日本のApple StoreでiPhone、Apple Watch、AirPodsの販売価格を引き上げました。事前の告知はなく、オンラインストアの表示価格が同日付で改定される形で実施されています。対象は現行モデルに加え、前世代のiPhone 16シリーズにも及びます。",
+      "published": "Sat, 18 Jul 2026 07:49:19 +0900",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3256ed68110ce8831586d189d7fae52",
+      "title": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/",
+      "summary": "Amazon GameLift Streams now supports assigning an IAM role to a stream session, enabling your application to securely access resources in your AWS acc...",
+      "published": "Fri, 17 Jul 2026 17:29:00 GMT",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0a95d37f53afe6eac2012c696452293",
+      "title": "Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/",
+      "summary": "Amazon SageMaker HyperPod now supports network topology configuration at the partition level for Slurm orchestrated clusters. A single cluster can now...",
+      "published": "Fri, 17 Jul 2026 15:16:00 GMT",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b3195d15384118ccecbdbd1aa5e300c",
+      "title": "SQL MCP Server が GA したらしい",
+      "link": "https://zenn.dev/microsoft/articles/1113250e1e63dc",
+      "summary": "実際の使用では、Azure Container Apps にデプロイして使用する想定と思いますが、DAB コマンド ラインを使用してローカルで実行することもできます。ちょっと触ってみたいだけなので、今回はこのローカル実行で動きを確認しました。なので、RBAC の辺りなどは未確認です。 ツールの公開は...",
+      "published": "2026-07-17T05:49:42Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1ee24aa9a14e2d820849cc01bbfd85f",
+      "title": "「Apple Music」と「Apple One」、日本を含む世界で値上げ",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
+      "summary": "Apple MusicとApple Oneの値上げは2022年10月以来、約4年ぶりだ。当時も値上げの理由をライセンス料の高騰と説明し、さらに、この値上げで「アーティストやソングライターは、より多くの収入を得ることができるようになる」としていた。 関連記事 アップル、iPhoneを一斉値上げ Wat...",
+      "published": "2026-07-17T22:50:00Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd4dc8e3e31613d538e66a1d551434e0",
+      "title": "GPT-5.6がファイルを勝手に削除したという報告多数、OpenAIはサンドボックスなしのフルアクセスモードで発生することが最も多いと指摘",
+      "link": "https://gigazine.net/news/20260717-openai-gpt-5-6-sol-delete-file/",
+      "summary": "OpenAIの「GPT-5.6 Sol」を利用していたユーザーから、自身が扱うデータが削除されてしまったという報告が複数上がっています。 OpenAI's new flagship model deletes files on its own, people keep warning | TechC...",
+      "published": "2026-07-17T12:21:56Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ac6e8b189ce69aa24f291ca17d148a4",
+      "title": "アップル、iPhoneを一斉値上げ Watch・AirPodsも",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
+      "summary": "前シリーズの16／16 Plusも値上げされており、前者は11万4800円→12万4800円、後者は12万9800円→14万4800円。 また、Apple Watchのスタート価格は、Series 11が6万4800円→7万1800円、SE3が3万7800円→4万1800円、Ultra 3が12万9...",
+      "published": "2026-07-17T17:27:34Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5db3055e947893e26949ae74b2911d4c",
+      "title": "AIエージェントのためのDocker Sandboxes実践入門 - Qiita",
+      "link": "https://qiita.com/minamijoyo/items/854ce04da1490b43a848",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに AIエージェントのコーディング環...",
+      "published": "2026-07-17T12:24:37Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "602b7bf4217d108c9e8af8e98d137005",
+      "title": "従業員が在職中に無断で別会社を設立、勤め先と関係があるように見せかけ他社と契約 GMO系",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news116.html",
+      "summary": "GMOペイメントゲートウェイは7月16日、元従業員が在職中に無断で別会社を設立した上、その会社が同社と関係を有するかのような説明で他社と契約していたことが判明したと発表した。GMOペイメントゲートウェイは就業規則に基づき、従業員を懲戒解雇した。 元従業員が契約を結んでいたのは、パチンコ用プリペイドカ...",
+      "published": "2026-07-17T13:02:58Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f7f671c54cfcf5eb478cf7fa2bd5761",
+      "title": "「青黒 vs. 白金」ドレス論争、数学で解明か？ 人もAIも欺くあの写真、共通の“カラクリ”とは【研究紹介】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_895/",
+      "summary": "山下（Seamless） 2014年から幅広い分野の研究論文をピックアップして解説しているメディア「Seamless」を個人運営。 X（@shiropen2）でも更新情報を発信中。 @shiropen2 Seamless（シームレス） 著者記事一覧 米テキサス大学オースティン校などに所属する研究者ら...",
+      "published": "2026-07-17T00:41:57Z",
+      "fetched_at": "2026-07-18T01:46:40.704332+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-17T22:40:37.526353+00:00"
+  "updated_at": "2026-07-18T01:46:40.704332+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "735f4d0d7b7129a01ced587dc59d4e99",
-      "title": "コード品質分析を活用して、コードを効率的にリファクタリングしよう【Findy Team+】 - Findy Tech Blog",
-      "link": "https://tech.findy.co.jp/entry/2026/07/10/110000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コード品質分析を活用して、コードを効率的にリファクタリングしよう【Findy Team+】",
-      "published": "17 Jul 2026 03:55 +0000",
-      "fetched_at": "2026-07-17T05:11:02.293467+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1019820d1e916fe2eee036042734455f",
       "title": "Anthropic、Claude CodeでAIエージェントを活用するループ設計を紹介 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
@@ -429,7 +419,67 @@
       "fetched_at": "2026-07-18T07:29:24.896772+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "49c30171cf9db915c036cbd7913f6bbb",
+      "title": "【CPUは余っているのに処理が詰まる…】スループットを約2倍にした地道なパフォーマンスチューニングの話 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/how-we-doubled-throughput",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【CPUは余っているのに処理が詰まる…】スループットを約2倍にした地道なパフォーマンスチューニングの話",
+      "published": "18 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc49769c38be8c53c7accd03db9c2a01",
+      "title": "Open Book Touch: open-source e-reader",
+      "link": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "summary": "Article URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch Comments URL: https://news.ycombinator.com/item?id=48952135 Points: 11...",
+      "published": "Fri, 17 Jul 2026 20:47:57 +0000",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ab912c7d18158fdd1a09f575471f58f",
+      "title": "キース・エマーソンみたいに弾けないので、無限にシンセソロを弾き続けるアプリをClaude Fable 5に作ってもらった。（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/07/18/5311.html",
+      "summary": "Claude Fable 5を使い、シンセサイザーソロを無限に演奏してくれるプログラムを作りました。",
+      "published": "Sat, 18 Jul 2026 17:49:48 +0900",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "582a21907859e1fd020c468189901c10",
+      "title": "『攻殻機動隊展 Ghost and the Shell』関西巡回展が開幕 XREALの『電脳VISION』も提供、新作アニメ原画など新コンテンツ追加",
+      "link": "https://www.techno-edge.net/article/2026/07/18/5310.html",
+      "summary": "アニメ全シリーズを横断する大規模展として東京で好評を博した「攻殻機動隊展 Ghost and the Shell」が、7月17日から関西巡回展として神戸の兵庫県立美術館で始まりました。",
+      "published": "Sat, 18 Jul 2026 17:19:38 +0900",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccf761f9edee6e478f8ebeb3af373d2c",
+      "title": "Claude Fable 5が結局サブスク入り、ただしProは除く 初回限定100ドル分クレジット配布、Max・Team Premiumは使用量50%まで",
+      "link": "https://www.techno-edge.net/article/2026/07/18/5309.html",
+      "summary": "Anthropicは7月18日、公式Xアカウント（@claudeai）で、これまで特例のプロモーションとして提供してきた最上位モデル「Claude Fable 5」を7月20日からMaxプラン(5x / 20x)とTeam Premiumプランに組み込むと発表しました。",
+      "published": "Sat, 18 Jul 2026 16:30:31 +0900",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c48e19f262499f2cf7972612873b8b2",
+      "title": "佐川急便、約7万人分の個人情報漏えいか 「スマートクラブ」通知メールに別人の氏名など表示",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news021.html",
+      "summary": "佐川急便は7月18日、会員制Webサービス「スマートクラブ」でシステム不具合が発生し、配達予定通知メールの一部に本来とは異なる利用者の氏名やメールアドレスなどが表示される事象が起きたと発表した。約7万人の個人情報に影響が及んだ可能性があるという。 対象となる情報は氏名・メールアドレス・荷物の「お問い...",
+      "published": "2026-07-18T06:01:19Z",
+      "fetched_at": "2026-07-18T09:16:24.475433+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-18T07:29:24.896772+00:00"
+  "updated_at": "2026-07-18T09:16:24.475433+00:00"
 }

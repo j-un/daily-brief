@@ -799,7 +799,137 @@
       "fetched_at": "2026-07-19T14:47:59.870010+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "9de402fc6be15e97b38b5f644580cc7b",
+      "title": "文字化け対策のためのC/C++用ライブラリ。…",
+      "link": "https://github.com/zaerl/mojibake",
+      "summary": "文字化け対策のためのC/C++用ライブラリ。",
+      "published": "19 Jul 2026 15:55 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f90409023bd436e79804158dac119af2",
+      "title": "各ファイルのストレージ使用率をタイルで可視化するTUIアプリ。TUIでの実装は珍…",
+      "link": "https://github.com/patonw/leaves",
+      "summary": "各ファイルのストレージ使用率をタイルで可視化するTUIアプリ。TUIでの実装は珍しい。スクリーンショット見るとファイル数が多い場合にTUIの限界を感じる。",
+      "published": "19 Jul 2026 15:54 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d59c7ece9778b9b078ee9fc2761e3e8",
+      "title": "GoとKotlinとSwiftを掛け合わせたような.NET向けプログラミング言語…",
+      "link": "https://github.com/DavidObando/gsharp",
+      "summary": "GoとKotlinとSwiftを掛け合わせたような.NET向けプログラミング言語",
+      "published": "19 Jul 2026 15:50 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c36018304b8425fe6a7f3de3f1079afa",
+      "title": "llama.cppのWASM移植…",
+      "link": "https://github.com/ngxson/wllama",
+      "summary": "llama.cppのWASM移植",
+      "published": "19 Jul 2026 15:45 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc0e527f483ada8d8180dbc8bcbb06d4",
+      "title": "Asterisk向けのAI音声エージェント。おー。Asteriskを運用されてい…",
+      "link": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+      "summary": "Asterisk向けのAI音声エージェント。おー。Asteriskを運用されている皆様。",
+      "published": "19 Jul 2026 15:41 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b811141eebfd4c20c0776fca2724f8df",
+      "title": "AIが書いて人間がレビューすることを前提したプログラミング言語のコンセプト実証。…",
+      "link": "https://github.com/jbwinters/jacquard-lang",
+      "summary": "AIが書いて人間がレビューすることを前提したプログラミング言語のコンセプト実証。ほほう",
+      "published": "19 Jul 2026 15:37 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc4a8488f38dc7ffe63af52bf97e5256",
+      "title": "TFTP Honey pot Results - Information Camouflage",
+      "link": "https://bruceediger.com/posts/tftp-honeypot-results/",
+      "summary": "TFTPのハニーポットを1ヶ月運用してみたところ、悪意のある攻撃はあまりなく、大半がセキュリティ企業やShodanなどによるスキャンだったと。まぁTFTPが空いていることを期待する攻撃者はそうそういないと言われればそう。",
+      "published": "19 Jul 2026 15:32 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "605051643c8076e540312a7eaab43a6e",
+      "title": "AIエージェントをmacOS上のLinux VM上で動かすためのアプリ。VMはO…",
+      "link": "https://github.com/clawkwork/clawk",
+      "summary": "AIエージェントをmacOS上のLinux VM上で動かすためのアプリ。VMはOCIイメージが使える。devcontainerと違ってkernelを共有しないので安全、Limaなどの既存のVM実装と違ってマウント周りやアクセス許可制御が柔軟でAI向きと。",
+      "published": "19 Jul 2026 15:25 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b4fb7fdaa784fdbc0d5bc08c7f39809",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "summary": "Article URL: https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4 Comments URL: https://news.ycombinator.com/item?id=48967256 Points: 147...",
+      "published": "Sun, 19 Jul 2026 11:48:18 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca0f94d1e48baf3db924ffdbc00f68dd",
+      "title": "E2Eテストをユニットテスト並みの実行時間に — Playwright並列化とGitHub Actionsチューニングの実践",
+      "link": "https://zenn.dev/berry_blog/articles/39392e1da7ca71",
+      "summary": "私たちのチームでは、品質管理システム（QMS）SaaS「QMSmart」の開発で、約 100 spec / 140 テストケースの E2E テストを、PR ごとに CI で自動実行し、wall-clock 6〜8 分で完走させる運用が回っています。これはユニットテスト（Vitest）の CI とほぼ...",
+      "published": "2026-07-18T08:31:32Z",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac48013f7694d25dad3a77ae8a132474",
+      "title": "「間に合いませんでした」をスプリント最終日に言わないために - Cybozu Inside Out | サイボウズエンジニアのブログ",
+      "link": "https://blog.cybozu.io/entry/2026/07/16/113000",
+      "summary": "この記事は、CYBOZU SUMMER BLOG FES '26の記事です。 こんにちは。スクラムマスターのToshinari（@10shinari）です⚡️ 本記事では、スプリント最終日になってはじめて間に合わないと気づく、そんな状況を繰り返さないために、スプリント中にチームで計画と現実のズレへ気...",
+      "published": "2026-07-17T00:35:01Z",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee7d6f2f5cec7fb9144bf06168941bcb",
+      "title": "GitHub - ayghri/i-have-adhd: Claude Code skill to stop it from burying the answer. ADHD-friendly output.",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-07-19T07:54:35Z",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37910e4945c46cb92d647b4eb9ffdc07",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 PKUFlyi…",
+      "link": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 PKUFlyingPig / cs-self-learning ⭐ 74,057 (+128) 🗒 HTML 计算机自学指南",
+      "published": "19 Jul 2026 16:16 +0000",
+      "fetched_at": "2026-07-19T16:48:06.106222+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-19T14:47:59.870010+00:00"
+  "updated_at": "2026-07-19T16:48:06.106222+00:00"
 }

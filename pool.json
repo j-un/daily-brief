@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "86d06c9fe1a11ee0160ff7979f501ea7",
-      "title": "Google Cloud エミュレーター「floci-gcp」を試す - kakakakakku blog",
-      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/09/084739",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google Cloud エミュレーター「floci-gcp」を試す",
-      "published": "18 Jul 2026 01:55 +0000",
-      "fetched_at": "2026-07-18T04:41:27.885855+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2424e4f0c89b56dc7f72bd61c90bf82a",
       "title": "中国のAIエージェントQwen Codeで、Ryzen AI MaxのローカルLLM環境を構築する 【ニコ技深圳フィールドノート】｜TAKASU Masakazu",
       "link": "https://note.com/takasu/n/n572992ce17a8",
@@ -379,7 +369,177 @@
       "fetched_at": "2026-07-19T08:02:36.107536+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "51167e904d380453a6458f58a9a97fbb",
+      "title": "AIインターフェースデザイン - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401772/",
+      "summary": "2026年8月12日発売",
+      "published": "19 Jul 2026 10:56 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "001d56e10f0435704051e1e9053ae8b8",
+      "title": "Google CloudではじめるAI/ML入門 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401741/",
+      "summary": "2026年8月7日発売",
+      "published": "19 Jul 2026 10:20 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fb01a941db89d9fdb18993d6965ff86",
+      "title": "Software Design for Beginners④ UNIXシェルスクリプト入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15764-7",
+      "summary": "2026年7月27日発売",
+      "published": "19 Jul 2026 10:17 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d15ba2ce8b8e2a97c2a5281f1d9623e0",
+      "title": "aws-actions/configure-aws-credentials で AWS 認証情報の環境変数へのエクスポートを抑止する - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/15/193517",
+      "summary": "aws-actions/configure-aws-credentialsのoutput-credentials/output-env-credentialsオプション知らなかった。知見。",
+      "published": "19 Jul 2026 10:17 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "808b5eff649cc87295b910bf7fac0ca3",
+      "title": "GitHub Actionの静的解析ツール。Rust実装…",
+      "link": "https://github.com/zizmorcore/zizmor",
+      "summary": "GitHub Actionの静的解析ツール。Rust実装",
+      "published": "19 Jul 2026 08:48 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2c53f8af1a056c3f79b33231610d712",
+      "title": "zizmor: GitHub Actions ワークフローのセキュリティ課題を検出しよう - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/07/13/090310",
+      "summary": "actionlintと重複する部分もあるがactionlintで検出できない機能もあるので併用すると良いと。ほほうzizmorメモ",
+      "published": "19 Jul 2026 08:47 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac1a18f5cdc34e7ff8a6f6075a296c20",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://findy-code.io/media/articles/modoku-yusuktan-202607",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 “積読”を動画で崩す！システム・パフォーマンス読書シリーズと名門大学の無料講義 - Findy Media",
+      "published": "19 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "592f99afb3ede9580d5c3ecc4c08540a",
+      "title": "隔離モデルによる仮想環境の分類 - Apple Container で Claude Code をサンドボックス化するまで - 弁護士ドットコム株式会社 Creators’ blog",
+      "link": "https://creators.bengo4.com/entry/2026/07/09/084206",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 隔離モデルによる仮想環境の分類 - Apple Container で Claude Code をサンドボックス化するまで",
+      "published": "19 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8b4b3d83f24e14547f205aa47853dac",
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2078759124914098291 Comments URL: https://news.ycombinator.com/item?id=48966120 Points: 200 # Com...",
+      "published": "Sun, 19 Jul 2026 08:44:57 +0000",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b8879b451d12f1bc6906847ccf07d7f",
+      "title": "『GTA：サンアンドレアス』内で『GTA 3』と『GTA：バイスシティ』をプレイ可能にするMOD",
+      "link": "https://www.techno-edge.net/article/2026/07/19/5313.html",
+      "summary": "ゲームの改造モジュール（MOD）を製作するモッダーのDryxioGTAが『GTA：サンアンドレアス(GTA SA)』のゲーム内で『GTA 3』と『GTA：バイスシティ(GTA VC)』を動作させるMODを開発し、その動作する様子をYouTubeに公開しました。",
+      "published": "Sun, 19 Jul 2026 17:50:02 +0900",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "182f211d15dbf28d4713ecee59c2a2d9",
+      "title": "セキュリティの勉強になるサイト138選(2026年版) - Qiita",
+      "link": "https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00",
+      "summary": "セキュリティを独学するときに役立つサイトを、Webアプリ・クラウド・CTF・マルウェア解析・資格まで分野ごとにまとめました。ほとんどが無料で、ブラウザだけ、あるいはDockerで自分のマシンに立てればすぐ試せます。 全部で138本。リンクはすべて2026年7月17日に到達を確認しています。上から順に...",
+      "published": "2026-07-19T05:44:51Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "867ddf1acc8fa4473499dea8c2738d16",
+      "title": "穢れた技術選定について",
+      "link": "https://speakerdeck.com/watany/questionable-technical-choices",
+      "summary": "Developers Summit 2026 summerで話した内容です。 https://event.shoeisha.jp/devsumi/20260716/session/6900",
+      "published": "2026-07-17T08:51:01Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b174e40c2656f103de2f7b9ee0f0ae5",
+      "title": "ルールを書いて終わらせないハーネスエンジニアリング",
+      "link": "https://speakerdeck.com/yug1224/2026-07-18",
+      "summary": "Mujeres en SEO Summit 2026 - Greatest Disaster Hits en Web Performance",
+      "published": "2026-07-19T03:59:01Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "53c98d6902595ca754f15ae0a03f4c57",
+      "title": "スマホへのアクセスを制限する「Brick」を使ったら本当に依存が激減した話",
+      "link": "https://www.cnn.co.jp/tech/35250509.html",
+      "summary": "（CNN） 「Brick」はなんならその存在を知る前から、ずっと使ってみたくてたまらなかった。筆者は他のものではスマホ依存を抑えることができなかったからだ。iOSの「スクリーンタイム」やAndroidの「Digital Wellbeing」といった標準機能でアプリの使用を制限しようとしたこともあるが...",
+      "published": "2026-07-14T02:38:30Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "716efcb0380ac808b1294586f54f8ddf",
+      "title": "Claude Fable 5がサブスクで継続利用可能に。MaxとTeam Premiumで",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126298.html",
+      "summary": "",
+      "published": "2026-07-18T09:01:44Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f72fc94cf728372635068cbea777602",
+      "title": "関西Ruby会議09 #kanrk09 に運営スタッフ & #kyotorb 代表としてLT登壇してきました - おうさまのみみはロバのみみ",
+      "link": "https://luccafort.hatenablog.com/entry/2026/07/19/012048",
+      "summary": "TL;DR タイトルの通りです。 登壇スライドはこちらです。 忘れないように宣伝 まずは宣伝をさせてください。 関西Ruby会議09の開催日の翌週である7月25日（土）にKyoto.rbでコードリーディングをテーマとしたイベントを開催します。 もし、今回関西Ruby会議09でモチベが少しでもあがった...",
+      "published": "2026-07-18T23:57:58Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a00330771d10c588183f87b31f8d54d5",
+      "title": "人型ロボット教師＆AIアシスタントを教育現場に試験導入する学区が登場",
+      "link": "https://gigazine.net/news/20260717-humanoid-robot-teacher/",
+      "summary": "アメリカ・ニューヨーク州キャタラウガス郡サラマンカの学区が、2026年秋から人型ロボットを教育現場に導入すると発表しました。この人型ロボットは教師に取って代わるものではなく、生徒と教師の両方に学習支援を提供するものとなるそうです。 Rural NY School To Launch Humanoid...",
+      "published": "2026-07-17T12:21:55Z",
+      "fetched_at": "2026-07-19T11:05:23.030360+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-19T08:02:36.107536+00:00"
+  "updated_at": "2026-07-19T11:05:23.030360+00:00"
 }

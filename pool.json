@@ -539,7 +539,147 @@
       "fetched_at": "2026-07-19T11:05:23.030360+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "04c5b7e9b579b75edaff88311945cc2c",
+      "title": "レビューは人間がすべきか問題：Critの紹介 - インゲージ開発者ブログ",
+      "link": "https://blog.ingage.jp/entry/2026/07/17/135429",
+      "summary": "「エージェントが変更したコードやドキュメント、ローカルで動いているアプリなどを、ブラウザ上でハイライト・コメント付きでレビューできる」「GitHubのPRレビューのような感覚で、行ごとに指摘を入れられます」",
+      "published": "19 Jul 2026 12:58 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2ab04748e88a8c6179581325d702e7e",
+      "title": "WordPressの深刻度「緊急」脆弱性 wp2shell の概要と対応指針 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/wp2shell_wordpress",
+      "summary": "ソースコードをベースに丁寧に説明してくれてありがたい。そしてこのソースコードを見て「prepared statementを使わずSQLを文字列で組み立てるやべぇ実装」であることが知れ渡ると良いですね(ﾆｯｺﾘ",
+      "published": "19 Jul 2026 12:42 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fac10a4fdebcfcc6908a1584c234070",
+      "title": "古いiPhoneを理想的な子ども向け“ダムフォン”に変身させる、知られざる機能 | WIRED.jp",
+      "link": "https://wired.jp/article/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "summary": "設定→アクセシビリティ→アシスティブアクセス。iOS17以降。良さそう。Androidにも同様の機能はあるだろうか。",
+      "published": "19 Jul 2026 12:37 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9f05cb0d802f16309598c1ca323e57f",
+      "title": "Announcing v1 of OpenTelemetry Go Compile-Time Instrumentation | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
+      "summary": "Go向けOpenTelemetry自動計装のアナウンスはこちら",
+      "published": "19 Jul 2026 12:33 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8909331c8f7fb1e4dc850d22adb1d37f",
+      "title": "Go向けのOpenTelemetry自動計装、v1がついにリリースされたそうです…",
+      "link": "https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation",
+      "summary": "Go向けのOpenTelemetry自動計装、v1がついにリリースされたそうです。コンパイル時に自動計装を仕込める。otelc go buildとすればokと。",
+      "published": "19 Jul 2026 12:33 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e65d36e1949d59ce8b6e90f1c965700",
+      "title": "SRE依存からの脱却 運用を開 発チームへ移す、 フルサイ クル開 発体制の実践 - Speaker Deck",
+      "link": "https://speakerdeck.com/joooee0000/sreyi-cun-karanotuo-que-yun-yong-wokai-fa-timuheyi-su-hurusai-kurukai-fa-ti-zhi-noshi-jian",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SRE依存からの脱却 運用を開発チームへ移す、 フルサイクル開発体制の実践",
+      "published": "15 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a69cdbbe8c39ba8564588a956a3a51f4",
+      "title": "Claude Code uses Bun written in Rust now",
+      "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "summary": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48966569 Points: 117...",
+      "published": "Sun, 19 Jul 2026 10:03:23 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fa9f7716cc53a31ad43f8e3f0bf6de6",
+      "title": "Qwen 3.8 Max Preview",
+      "link": "https://www.qwencloud.com/pricing/token-plan",
+      "summary": "Article URL: https://www.qwencloud.com/pricing/token-plan Comments URL: https://news.ycombinator.com/item?id=48966190 Points: 125 # Comments: 68",
+      "published": "Sun, 19 Jul 2026 08:57:31 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc7b8b87f341b9b8019d46b36983fc80",
+      "title": "Raspberry Pi 4 で Home Assistant サーバを構築する - Qiita",
+      "link": "https://qiita.com/Noritama-Lab/items/2530068f6ab65dce1288",
+      "summary": "はじめに 以前の記事で、Raspberry Pi 4 を Node-RED サーバとして構築する方法を紹介しました。 今回はその環境をベースに、Home Assistant をインストールし、IoTデバイスやスマートホーム機器を一元管理できるサーバを構築します。 この記事では Home Assist...",
+      "published": "2026-07-19T00:14:12Z",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1600c94cdb55e21230012b46de0dc0e9",
+      "title": "イスラム教徒の女性が「私たちが祈ってる間、犬の吠え声を止めてください。」と言っているのはAIによる捏造動画だよ - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/07/19/150000",
+      "summary": "https://x.com/Tanakaseiji14/status/2077959039686934896 イスラム教徒の女性による、「祈ってる間に犬の吠え声を止めてください」という動画が拡散していた。簡潔に書くが外国のMAGA系アカウントが作成したAI動画である。 https://archive...",
+      "published": "2026-07-19T08:38:26Z",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc698842004319e154251b5dca98fabd",
+      "title": "欧州の古書店に入る不可解な大量発注─その裏に潜む「AI」の存在 | 本は喰われて、捨てられる…",
+      "link": "https://courrier.jp/news/archives/452714/",
+      "summary": "「古書の買い占めだ」──カナダ企業による不可解な中古本取引について、スイスの放送局「RTS」はそう断言している。 RTSは、スペインメディア「エル・ディアリオ」とドイツ紙「ターゲスツァイトゥング（TAZ）」の調査を掘り下げ、「中古書籍が買い取られ、デジタル化された後、人工知能（AI）の言語モデルを学...",
+      "published": "2026-07-19T03:34:57Z",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58ddf9522acb6df787207917b5b09290",
+      "title": "（本当の）「死んだ経済」理論 » p2ptk[.]org",
+      "link": "https://p2ptk.org/ai/5630",
+      "summary": "以下の文章は、コリイ・ドクトロウの「The (real) dead economy theory」という記事を翻訳したものである。 Pluralistic イーロン・マスクにまつわる愉快な事実を1つ。2020年、彼の（名目上の）純資産は200億ドルだった。それがいまや（名目上）1兆ドルに達している。...",
+      "published": "2026-07-18T19:06:16Z",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b80bb463de3ef3571bee8b699000ff9a",
+      "title": "マルチエージェントに関する論文を40本再実装してみて分かったこと - Qiita",
+      "link": "https://qiita.com/Koukyosyumei/items/e9ee8e26cfdc40a8c2f9",
+      "summary": "コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 最近暇なので、マルチエージェントLLMに関する40本の論文で提案されているワークフローを再実装してみました。論文で報告されているベンチマーク結果を再現するというよりは、それぞれの手法が、どのようなループを...",
+      "published": "2026-07-18T04:14:40Z",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc222d70acfeef9caf553f64c26c49d0",
+      "title": "📦 andrewrabert / jellium-desktop ⭐ 1,203…",
+      "link": "https://github.com/andrewrabert/jellium-desktop",
+      "summary": "📦 andrewrabert / jellium-desktop ⭐ 1,203 (+55) 🗒 Rust An unofficial desktop client for Jellyfin",
+      "published": "19 Jul 2026 12:16 +0000",
+      "fetched_at": "2026-07-19T12:58:36.756333+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-19T11:05:23.030360+00:00"
+  "updated_at": "2026-07-19T12:58:36.756333+00:00"
 }

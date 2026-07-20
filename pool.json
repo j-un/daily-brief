@@ -299,7 +299,257 @@
       "fetched_at": "2026-07-20T02:12:06.426656+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "5c5d7a1f365e26b0e619fc401b827945",
+      "title": "AIエージェントを使った脆弱性スキャンツールかな。…",
+      "link": "https://github.com/vercel-labs/deepsec",
+      "summary": "AIエージェントを使った脆弱性スキャンツールかな。",
+      "published": "20 Jul 2026 03:32 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62a14ffe87259db6e44344f36bc67cff",
+      "title": "アクセンチュアのセキュリティエンジニアに聞く！AI時代におけるサイバーセキュリティのリアル - connpass",
+      "link": "https://supporterz-seminar.connpass.com/event/400942/",
+      "summary": "オンライン開催",
+      "published": "20 Jul 2026 03:30 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a50f5c559dcf5544388719ef3e9da484",
+      "title": "AIエージェントキャッチアップ #85 - herdr - connpass",
+      "link": "https://generative-agents.connpass.com/event/400928/",
+      "summary": "オンライン開催",
+      "published": "20 Jul 2026 03:28 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f2821523f92b9afccee64ff114e3226",
+      "title": "オンライン開催：東京エリア・関西合同Debian勉強会（2026/7/23(木)20:45） - connpass",
+      "link": "https://debianjp.connpass.com/event/400733/",
+      "summary": "オンライン開催",
+      "published": "20 Jul 2026 03:27 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d14eca1635b32f1ab28751f7d3dbba0",
+      "title": "Songmuさんに聞く！ベテランエンジニアならではの自己アピール・強みの見つけ方 - connpass",
+      "link": "https://lapras.connpass.com/event/400016/",
+      "summary": "オンライン開催",
+      "published": "20 Jul 2026 03:26 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "abf43a2b81695efea719e834d18d7a8e",
+      "title": "AIエージェントのためのデータベース設計 - connpass",
+      "link": "https://jdmc.connpass.com/event/400197/",
+      "summary": "ナレッジグラフDB。オンライン開催",
+      "published": "20 Jul 2026 03:25 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffcfc420a04f60492509f07966e280ca",
+      "title": "Dependabotのuvエコシステムが pyproject.toml の下限バージョンを壊す問題と対策 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/dependabot-uv-versioning-pitfall/",
+      "summary": "boto3の1.43.49のバージョンは存在しないと書かれているが、うーん、あるけどな？どういうことだろう。自分よくわかってない。",
+      "published": "20 Jul 2026 03:23 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6217b261b086e5b4133273d8c64d7e75",
+      "title": "S3ライフサイクルでStandard-IAへの即時移行が可能に—Days=0を試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/s3-standard-ia-immediate-transition-days-0/",
+      "summary": "S3ライフサイクルでStandard-IAへの移行に必要だった「作成後30日以上」の制約が撤廃。わいわい",
+      "published": "20 Jul 2026 03:13 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f36843599626aebe6628ac7c5f307034",
+      "title": "CloudFront VPCオリジン障害をInter-Region VPCピアリングで迂回してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-vpc-origin-failure-inter-region-vpc-peering-bypass/",
+      "summary": "新たにALB、NLBを用意してカスタムオリジン経由で。なるほどねぇ。",
+      "published": "20 Jul 2026 03:12 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7621084e8dae20387008489e47bfbf86",
+      "title": "【アップデート】 Amazon CloudWatch Logs が Intelligent-Tiering に対応しました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-logs-intelligent-tiering/",
+      "summary": "「CloudWatch Logs にネイティブなまま低コスト化できる」なるほど。設定検討する。",
+      "published": "20 Jul 2026 03:11 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4552cd4e1098a417982f4fb4be100d2",
+      "title": "Amazon RDS のストレージ変更が24時間に最大4回まで可能になったので試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-rds-storage-4-modifications-24-hours/",
+      "summary": "6時間待機が不要に。なるほど。",
+      "published": "20 Jul 2026 03:08 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fbd235d6b8b3dc63e0fe609b426d9e7",
+      "title": "CDKのドリフト検出ツール「cdk-real-drift」を試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/cdk-real-drift-try/",
+      "summary": "cdkrd。ほほう",
+      "published": "20 Jul 2026 03:06 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e4ee71decfc0085c7b7210f3d3edf0b",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How we scale PgBouncer in ClickHouse Managed Postgres",
+      "published": "20 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0911910dd2ac2753eb5b9d176e13d11",
+      "title": "Bootstrap | mise-en-place",
+      "link": "https://mise.jdx.dev/bootstrap.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Bootstrap | mise-en-place",
+      "published": "20 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19b718f3e6162f66e33f7e71011ec2ef",
+      "title": "AWS Lambda MicroVMsでサーバレスにMinecraftを遊ぼう！",
+      "link": "https://zenn.dev/tosuri13/articles/78e93272fc2038",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Lambda MicroVMsでサーバレスにMinecraftを遊ぼう！",
+      "published": "20 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a03196a4774a2d7fedcb64b12781fdc",
+      "title": "「楽楽精算」AIエージェント実装で立ちはだかった3つの壁と突破の裏側 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260703/aiagent",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「楽楽精算」AIエージェント実装で立ちはだかった3つの壁と突破の裏側",
+      "published": "19 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7419db4888d9cb78ed9bed0917db07c1",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "summary": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566 Comments URL: https://news.ycombinator.com/item?id=48973869 Points: 245 # Comme...",
+      "published": "Mon, 20 Jul 2026 02:51:16 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d7f7bed44e04d2c6af48e3ae68183e1",
+      "title": "Orion Browser by Kagi",
+      "link": "https://orionbrowser.com/",
+      "summary": "Article URL: https://orionbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=48970894 Points: 149 # Comments: 94",
+      "published": "Sun, 19 Jul 2026 19:13:29 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b3ef0a649c3a0414abf997726ed59b5",
+      "title": "I burned all my tokens researching how to save tokens",
+      "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "summary": "Article URL: https://quesma.com/blog/custom-deep-research-pipeline/ Comments URL: https://news.ycombinator.com/item?id=48967355 Points: 119 # Comments...",
+      "published": "Sun, 19 Jul 2026 12:01:53 +0000",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3081d9bd2b8d1090b0b8d5295e8090f",
+      "title": "Figmaと実装の乖離は怠慢ではなく、構造の欠陥である｜Matz",
+      "link": "https://note.com/matz_tak/n/ne820719377e3",
+      "summary": "結論デザインと実装の乖離は、運用の頑張りでは解決しません。Figmaとコードはパラダイム（表現の仕組み）が違うため、どちらか一方を「正」にした時点で、乖離は構造的に発生するからです。 私の答えはこうです。正はFigmaにもコードにも置かず、Component Spec（コンポーネント仕様書） という...",
+      "published": "2026-07-19T08:18:17Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04c5b7e9b579b75edaff88311945cc2c",
+      "title": "レビューは人間がすべきか問題：Critの紹介 - インゲージ開発者ブログ",
+      "link": "https://blog.ingage.jp/entry/2026/07/17/135429",
+      "summary": "id:kizashi1122 です。 はじめに バイブコーディングが当たり前になってきて、プルリクエストは大量生産できるようになったのに、レビューがボトルネックになっているという話をよく聞きます。一方でレビューも AI に任せるという話や、いやそこは人間がすべきだろという議論もあります。 そもそもビ...",
+      "published": "2026-07-18T09:25:15Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73eebfa7b7dc0c9474bc1c6fec0c2a11",
+      "title": "【今すぐ読みたい！人気記事】古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順 - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2126277.html",
+      "summary": "",
+      "published": "2026-07-18T00:27:52Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f100ad791913564b219f06222e9a02a7",
+      "title": "AIの擬人化を防ぐための「言い換え案」とは | INODS UNVEIL",
+      "link": "https://inods.co.jp/topics/report-reviews/10081/",
+      "summary": "「AIエージェントという言葉は間違っている」 PUSM（Probabilistic Unverified Software Manipulator）という言葉をご存じだろうか。おそらく、知っている方はほとんどいないだろう。これは先日、言語学者のEmily M. Bender氏と、コペンハーゲンIT大...",
+      "published": "2026-07-19T14:28:56Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d5060e9a16eba1d618657433ad414c1",
+      "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/101067",
+      "summary": "デイジー・ホールマンは、Anthropic（アンソロピック）のClaude Codeチームで働いている。ロンドンで開催されたAnthropicの「Code with Claude」カンファレンスにおける彼女のセッションで、彼女は会場に集まったエンジニアたちに1つの指示を出した。 自分自身のコピー（分...",
+      "published": "2026-07-20T04:05:10Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9204d9ccb923c543d3915402e1a9b743",
+      "title": "無料でブラウザ・ShareX・iOSのショートカットなどから即座にファイルをアップロードして共有できる「Zipline」、オープンソースでセルフホスト可能",
+      "link": "https://gigazine.net/news/20260719-zipline/",
+      "summary": "ファイルを共有するには一般的に共有サーバーへアクセスしてからファイルのアップロード、その後に共有用URLのコピーという手順になりますが、短時間にいくつも作成されるファイルを共有するという場面では、何度も何度も同じ作業を繰り返すことになり手間がかかります。生成された共有URLをすぐに利用できる「Zip...",
+      "published": "2026-07-19T13:28:20Z",
+      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-20T02:12:06.426656+00:00"
+  "updated_at": "2026-07-20T06:38:56.178146+00:00"
 }

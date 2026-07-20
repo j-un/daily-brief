@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "58d5b78930ce7ac32bc2a43170473125",
-      "title": "自動で恐喝まで遂行するエージェント型ランサムの観測事例についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 自動で恐喝まで遂行するエージェント型ランサムの観測事例についてまとめてみた",
-      "published": "19 Jul 2026 01:55 +0000",
-      "fetched_at": "2026-07-19T05:16:04.866218+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1650e96234a9c91727461ee434fbc207",
       "title": "mailtoなどのURIスキーマに紐付けられたアプリを変更するためのmacOS向…",
       "link": "https://github.com/scriptingosx/utiluti",
@@ -549,7 +539,197 @@
       "fetched_at": "2026-07-20T06:38:56.178146+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "437ca632b71fd4ef8df32207b061bd11",
+      "title": "Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
+      "link": "https://zenn.dev/olibrauma/articles/tauri-library-for-cli-tool",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Tauri ライブラリの意外な使い道 — headless な CLI を作ってみた",
+      "published": "20 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "008953d8e32241fb86a2d8db7ef6a889",
+      "title": "サンプリングは統計学である: 数理的根拠に基づき、オブザーバビリティのコストと精度を両立する - Speaker Deck",
+      "link": "https://speakerdeck.com/ymotongpoo/sampling-is-statistics",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 サンプリングは統計学である: 数理的根拠に基づき、オブザーバビリティのコストと精度を両立する",
+      "published": "20 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c57a066ad3392bffd5acdef77ae3ed1",
+      "title": "Xiaomi-Robotics-1",
+      "link": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "summary": "Article URL: https://robotics.xiaomi.com/xiaomi-robotics-1.html Comments URL: https://news.ycombinator.com/item?id=48974454 Points: 231 # Comments: 16...",
+      "published": "Mon, 20 Jul 2026 04:45:15 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "287dc4b7b5d389d8e86b19300ce21b5c",
+      "title": "When can a power company take your land for data center infrastructure?",
+      "link": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+      "summary": "Article URL: https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061 Comments URL: https://news.ycom...",
+      "published": "Mon, 20 Jul 2026 04:19:22 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e8f8db374bb7e2863e758f513af1c5",
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "link": "https://github.com/hgaiser/moonshine",
+      "summary": "Article URL: https://github.com/hgaiser/moonshine Comments URL: https://news.ycombinator.com/item?id=48972970 Points: 191 # Comments: 83",
+      "published": "Mon, 20 Jul 2026 00:16:50 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "878a1eeb3fc1d5354edb3b1a8b4ece99",
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "link": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "summary": "Article URL: https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/ Comments URL: https://news.ycombinator....",
+      "published": "Sun, 19 Jul 2026 20:25:58 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e2bc6e71da83ad13726912509b486b1",
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "link": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "summary": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router Comments URL: https://news.ycombinator.com/item?id=48970772 Points: 127 # Comments: 10...",
+      "published": "Sun, 19 Jul 2026 18:57:01 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80036635f90e9f0281b24e7ba4c9645c",
+      "title": "22社51名の参加者が2時間で業務アプリを自作し発表 ！Claude ・Kiro実践ワークショップの記録",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-coding-workshop20260608/",
+      "summary": "このワークショップで起きたこと みなさん、こんにちは。AWS アカウントマネージャーの岩上です。 2026年6 […]",
+      "published": "Mon, 20 Jul 2026 09:01:54 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c250aff6a6718a6c92dd1ae5999d2258",
+      "title": "AIがBlenderを勝手に操作 3D制作のハードルが一気に下がった (1/4)",
+      "link": "https://ascii.jp/elem/000/004/420/4420739/",
+      "summary": "Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いと...",
+      "published": "2026-07-20T01:21:48Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65fcf914495c74bea992e90c85b3868f",
+      "title": "Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る",
+      "link": "https://zenn.dev/uhyo/articles/async-react-action-queue",
+      "summary": "useActionStateは、React 19で導入された新しいフックです。 その挙動を見ると、非同期版useReducerと言えるような挙動をします。 ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そ...",
+      "published": "2026-07-20T05:52:33Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b756f85fb4f0db62f807bb77e58c49ac",
+      "title": "Google Search Console APIを使ってSEO改善を自動化する",
+      "link": "https://zenn.dev/asoventure/articles/2026-07-19-gsc-api-seo-automation",
+      "summary": "はじめに Futuristic Imagination LLC 代表の佐藤です。AI技術を実事業に注ぎ込み、圧倒的な開発・検証スピードと**徹底した自動化・省力化（仕組み化）**を武器に日々プロダクト開発に励んでいます。自社ではAIオウンドメディアを11サイト運営しており、Next.jsとGemin...",
+      "published": "2026-07-19T19:43:02Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc5fa4630bd3463b7e3bc003c25a4ec2",
+      "title": "Hugging FaceにAI主導のサイバー攻撃 防御もAIで対抗するも、商用モデルは解析拒否で「GLM」採用",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
+      "summary": "米AIプラットフォームのHugging Faceは7月16日（現地時間）、本番インフラの一部が自律型AIエージェントによるサイバー攻撃を受けたと発表した。侵入の検知と解析にAIを活用したが、商用のフロンティアモデルはガードレールによって解析作業を受け付けなかったため、最終的に中国Z.aiのオープンウ...",
+      "published": "2026-07-20T04:35:44Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5541d9a88dfa4d745b1e3c6a4270b3ec",
+      "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+      "link": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+      "summary": "はじめに 2026年3月31日、Caltech 発のスタートアップ PrismML が 1-bit LLM ファミリー Bonsai を発表しました。8B クラスのモデルがわずか 1.15GB、必要メモリ約 1.5GB で動作し、GPU なしの普通の PC でも実用的な速度で推論できるとして大きな話...",
+      "published": "2026-07-20T00:10:35Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c240632675c29b34db3a781e1e8f69ee",
+      "title": "X（旧Twitter）で検索結果が全く表示されなくなる",
+      "link": "https://anond.hatelabo.jp/20260720075748",
+      "summary": "話題のポストも最新もダメ 普通のWebサービスなら治るまで気長に待とうとなるが、イーロン・マスクのXの場合、このまま一生治らないままってこともあり得るので最悪 みんなBlueskyや他のサービスに移行しようぜ",
+      "published": "2026-07-19T22:58:50Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07a9214c693b875bfc209839e93c8532",
+      "title": "Security incident disclosure — July 2026",
+      "link": "https://huggingface.co/blog/security-incident-july-2026",
+      "summary": "Earlier this week, we detected and responded to an intrusion into part of our production infrastructure. This one was different from anything we had h...",
+      "published": "2026-07-19T18:38:33Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13c39deb03ddf593709837e5b490430a",
+      "title": "中国ムーンショットAI、利用急増で新規利用停止 「計算資源不足」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM200KF0Q6A720C2000000/",
+      "summary": "【広州=藤野逸郎】中国の人工知能（AI）新興、月之暗面（ムーンショットAI）は19日夜、新規利用の受付を停止すると発表した。同社は米国の最先端AIモデルに迫る性能を実現したと発表し、世界的に注目を集めた。利用が急増し、処理に必要な計算リソースが不足しているという。同社は「過去48時間でユーザーの利用...",
+      "published": "2026-07-20T04:06:25Z",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "313b74388a5581e1d37a0beb824916ab",
+      "title": "Sinevibes update puts every effect on every ‘logue KORG",
+      "link": "https://cdm.link/sinevibes-update-puts-every-effect-on-every-logue-korg/",
+      "summary": "Sinevibes has been cheering on KORG gear as much as KORG themselves. Now they're bringing the entire range of 20+ effects to prologue, minilogue xd, N...",
+      "published": "Mon, 20 Jul 2026 08:33:48 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "d62e05f35c9ebd8a2a919e5359ea162d",
+      "title": "EastWest DrumX could be the only drum machine plugin you’ll ever need",
+      "link": "https://musictech.com/reviews/plug-ins/eastwest-drumx-review/?utm_source=rss&utm_medium=rss&utm_campaign=eastwest-drumx-review",
+      "summary": "DrumX features 31GB of deeply sampled drum machines and top-drawer grooves from platinum producer Jimmy Jam The post EastWest DrumX could be the only ...",
+      "published": "Mon, 20 Jul 2026 08:00:09 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "e5e4489ee4715b25fe979a65e7d9694c",
+      "title": "“Those are my weapon”: Inside Audeze and Manny Marroquin’s MM-520 headphones",
+      "link": "https://musictech.com/features/interviews/audeze-mm-520/?utm_source=rss&utm_medium=rss&utm_campaign=audeze-mm-520",
+      "summary": "The Grammy-winning mix engineer behind hits for Charli XCX and Post Malone distrusted headphones for years. Then he got the opportunity to create his ...",
+      "published": "Mon, 20 Jul 2026 07:30:47 +0000",
+      "fetched_at": "2026-07-20T10:43:12.310659+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-20T06:38:56.178146+00:00"
+  "updated_at": "2026-07-20T10:43:12.310659+00:00"
 }

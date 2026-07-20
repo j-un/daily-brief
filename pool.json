@@ -9,7 +9,297 @@
       "fetched_at": "2026-07-19T05:16:04.866218+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "1650e96234a9c91727461ee434fbc207",
+      "title": "mailtoなどのURIスキーマに紐付けられたアプリを変更するためのmacOS向…",
+      "link": "https://github.com/scriptingosx/utiluti",
+      "summary": "mailtoなどのURIスキーマに紐付けられたアプリを変更するためのmacOS向けCLIツール。brew install utiluti",
+      "published": "20 Jul 2026 02:03 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "83e4bcbedb654a70d40757726c148eea",
+      "title": "ArcBox — The fully open-sourced, blazing-fast Docker Desktop Alternative for Apple Silicon",
+      "link": "https://arcbox.dev/",
+      "summary": "macOS向けDocker Desktop代替。コンテナとVMの両方に対応。Firecrackerベースらしい。brew install --cask arcbox",
+      "published": "20 Jul 2026 01:38 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3872a7da0fe24f9962f084e1a6b20321",
+      "title": "Honeypot Live Stream",
+      "link": "https://honeypotlive.cc/",
+      "summary": "ハニーポットで発生したイベントをリアルタイムにストリーム出力しているサイト。いいね、これ。",
+      "published": "20 Jul 2026 01:03 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "103a73e3144ffa4c25430442a233ab9e",
+      "title": "CloudFront Functions の新機能「logCustomData」で任意のデータをアクセスログに記録してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-functions-logcustomdata-access-logs/",
+      "summary": "ほー便利。CloudFront Functionsを利用するときは是非とも活用したい",
+      "published": "20 Jul 2026 00:56 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eb831dbd1cc918e202307049fc55804",
+      "title": "AWSのAZ間レイテンシをsockperfでpercentile分布まで測ってみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/tokyo-osaka-az-latency/",
+      "summary": "sockperf初耳だったが、2009年頃からあるツールらしい。",
+      "published": "20 Jul 2026 00:54 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65e8030043387abebb75fbec0d577030",
+      "title": "The Wado Programming Language",
+      "link": "https://wado-lang.org/",
+      "summary": "「Type-safe like Rust, familiar like TypeScript, compiled to clean Wasm」わいわい",
+      "published": "20 Jul 2026 00:48 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "29bf3282631d67437c119d205f6bea29",
+      "title": "【やじうまミニレビュー】3千円台で買える「Kobo Remote」、実はKindleアプリと相性抜群？ - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2124461.html",
+      "summary": "Android/iOSともにKindleアプリで使えると。これ寝ながらタブレットを操作するのに良さそう。",
+      "published": "20 Jul 2026 00:43 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47a9ee8804b88a3f25e672e375270514",
+      "title": "ttyrecをベースに色々拡張したfork実装。macOSはbrew insta…",
+      "link": "https://github.com/ovh/ovh-ttyrec",
+      "summary": "ttyrecをベースに色々拡張したfork実装。macOSはbrew install ovh-ttyrecでインストールできる。",
+      "published": "20 Jul 2026 00:40 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bddb8fe521b8d46d7bcf0cc8c3b194ee",
+      "title": "Grafanaに対して操作やクエリー実行ができる公式CLI。AIによる操作にも対…",
+      "link": "https://github.com/grafana/gcx",
+      "summary": "Grafanaに対して操作やクエリー実行ができる公式CLI。AIによる操作にも対応。brew install gcx",
+      "published": "20 Jul 2026 00:08 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "749a43c3abcf9f0f9702136d9a984ea6",
+      "title": "tmuxでpane上の文字列を素早くコピーできるtmuxプラグイン。vimper…",
+      "link": "https://github.com/Morantron/tmux-fingers",
+      "summary": "tmuxでpane上の文字列を素早くコピーできるtmuxプラグイン。vimperator風にコピーする文字列を指定できる。おー面白いなこれ。コピーしそうな特徴的な部分を抽出するように実装されている模様。",
+      "published": "20 Jul 2026 00:01 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "310448c8bd1fab3bf11132f0e88a27d2",
+      "title": "readline代替のBashプラグイン。コマンドの引数入力時に候補リストを表示…",
+      "link": "https://github.com/HalFrgrd/flyline",
+      "summary": "readline代替のBashプラグイン。コマンドの引数入力時に候補リストを表示したりできる。シンタックスハイライトは\"\"の閉じ忘れ防止などで地味に便利かも。実装言語はRust。",
+      "published": "19 Jul 2026 23:52 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f658a886f4ef334bd12fa937e074d8c",
+      "title": "AIエージェントを使った脆弱性スキャンツール。対象リポジトリのURLを渡したらス…",
+      "link": "https://github.com/alpha-omega-security/scrutineer",
+      "summary": "AIエージェントを使った脆弱性スキャンツール。対象リポジトリのURLを渡したらスキャン、解析、報告まで自動でやってくれるSKILLを用意してる模様。claude code, codex, opencodeに対応。",
+      "published": "19 Jul 2026 23:46 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18b46426f4959248a5d03e7bd4e87c75",
+      "title": "docker compose up だけでシークレットを注入する docker-valsの紹介",
+      "link": "https://zenn.dev/estie/articles/df0fd5f0326f9a",
+      "summary": "「docker compose up するだけで、AWS SSM や 1Password といったシークレットストアから値を引いてきてコンテナに環境変数として注入してくれる docker-vals という Docker CLI プラグイン」",
+      "published": "19 Jul 2026 23:16 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "60317f94f8f332c7f25a52b4b52388c5",
+      "title": "コミット履歴は`git log --graph --oneline --decorate --all`で十分 — 読み方のポイントを解説する",
+      "link": "https://zenn.dev/ma_sa_shi/articles/9b140537cadd7e",
+      "summary": "aliasを設定すると良さそう。 git config --global alias.lg \"log --graph --oneline --decorate --all\"",
+      "published": "19 Jul 2026 23:08 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2469749a39b78369ed517b5eb044d09",
+      "title": "macOS向けシステムモニター。あとからリプレイできる録画機能がアツイな。bre…",
+      "link": "https://github.com/kennss/SiliconScope",
+      "summary": "macOS向けシステムモニター。あとからリプレイできる録画機能がアツイな。brew install --cask siliconscope",
+      "published": "19 Jul 2026 22:57 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b66db9609a1a862c9bb6beafbf6fd24c",
+      "title": "macOSのメニューバーに常駐して様々な機能を提供するアプリ。リソース使用状況か…",
+      "link": "https://github.com/vorssaint/vorssaint-utils",
+      "summary": "macOSのメニューバーに常駐して様々な機能を提供するアプリ。リソース使用状況からDock拡張、ウィンドウ制御、スリープ防止、クリップボード履歴など幅広い。ライセンスはGPL-3.0。brew install --cask vorssaint",
+      "published": "19 Jul 2026 22:46 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ade936771d24963c59ca6969f44b87e",
+      "title": "AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用 / ai-agent-saas-virtualization - Speaker Deck",
+      "link": "https://speakerdeck.com/flatt_security/ai-agent-saas-virtualization",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI Agent SaaS を支える自社仮想化基盤への挑戦と実運用 / ai-agent-saas-virtualization",
+      "published": "20 Jul 2026 01:55 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4198e549e4a89819efb98ccb6ad2d313",
+      "title": "ビジネススキルとしての「マーケ脳」のつくりかた 相手のニーズを的確に読み取り、数字に基づく「最適な解」を導く仕事術（理央 周）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798193250",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ビジネススキルとしての「マーケ脳」のつくりかた 相手のニーズを的確に読み取り、数字に基づく「最適な解」を導く仕事術 | 翔泳社",
+      "published": "19 Jul 2026 23:55 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1a22ce241ad9968bf74e4338aa19e76",
+      "title": "We want Texans to know their rights",
+      "link": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion Comments URL: https:...",
+      "published": "Sun, 19 Jul 2026 22:03:11 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcb8915650a0a06e13c472b1aa10695e",
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "Article URL: https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Sun, 19 Jul 2026 21:18:10 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f75bd0924d973d13a2071ec5a06a1944",
+      "title": "Ollama: All Aboard Open Models",
+      "link": "https://ollama.com/blog/all-aboard-open-models",
+      "summary": "Article URL: https://ollama.com/blog/all-aboard-open-models Comments URL: https://news.ycombinator.com/item?id=48965880 Points: 107 # Comments: 45",
+      "published": "Sun, 19 Jul 2026 07:59:44 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49ee01d09d309b673619f9d5c14f84ca",
+      "title": "僕はブルースギターを弾けない。だからギターソロ自動演奏プログラム「SLOWHAND ∞」をClaude Fable 5に作ってもらった（CloseBox）",
+      "link": "https://www.techno-edge.net/article/2026/07/20/5314.html",
+      "summary": "レノン=マッカートニー＝ハリスン作曲マシン、ユーミン、筒美京平の楽曲手法を真似るソフト、ELPのキース・エマーソン風モーグソロを無限生成する「EMERSON MOOG INFINITY」と、ブラウザ上で音楽家をシミュレートするシリーズを続けてきましたが、今回はギターです。それもエリック・クラプトン。",
+      "published": "Mon, 20 Jul 2026 09:09:02 +0900",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba96ef4384d66d93edd6486abe7b62de",
+      "title": "「アルゴリズム」が大っ嫌い？ ならRSSを使いなさいよ » p2ptk[.]org",
+      "link": "https://p2ptk.org/digital-rights/5632",
+      "summary": "以下の文章は、電子フロンティア財団の「Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For」という記事を翻訳したものである。 Electronic Frontier Foundation オンラインのソーシャルネッ...",
+      "published": "2026-07-19T19:43:13Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd78d5138e715f6d97a344a282e89050",
+      "title": "ループエンジニアリングの次は本当に「グラフ」なのか考えてみた",
+      "link": "https://zenn.dev/jodycraft/articles/dfe38e73e1ef8a",
+      "summary": "📋 この記事の前提 前回記事「ループエンジニアリングをGitHub Copilotで組めるか調べてみた」を読んでいると話が早い 「ハーネスエンジニアリング」「ループエンジニアリング」という言葉を見聞きしたことがある この記事は2026年7月18日時点、生まれて1日も経っていない議論を扱っている。数日...",
+      "published": "2026-07-19T11:46:19Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eed81784ed1de1ada6b47b511c32d2e8",
+      "title": "AIサーバー部品数は車の40倍 デジタル革命の主役、市場はスマホ逆転 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/",
+      "summary": "人工知能（AI）向けデータセンターがスマートフォンをしのぐ巨大な経済圏となり始めた。最先端のAIサーバーは部品数が車の40倍超にのぼり、関連業種は多岐にわたる。産業史上、類のない巨額投資でビジネスの常識が塗り替わる「データセンターエコノミー」の新時代が到来した。7月上旬、川崎市にあるオフィスビルの会...",
+      "published": "2026-07-19T18:10:51Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57bfb14349d3cf2fd469e6247a5d65f4",
+      "title": "「仕事を辞めるとボケる」は本当なのか？ ベトナム高齢者2000人超を早大などが分析",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news082.html",
+      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が...",
+      "published": "2026-07-19T23:16:01Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c94368b71e4c05d04d5a2c40c0f6955",
+      "title": "ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか",
+      "link": "https://zenn.dev/r_kaga/articles/a27a3879dd3ce4",
+      "summary": "ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。 ただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ? 一方で最近は、Software Factoryという言...",
+      "published": "2026-07-19T09:09:27Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "602754d822b51f54aaa700e4906558f3",
+      "title": "米テック5社AI投資、｢見えざる債務｣268兆円 注記のみ記載に危うさ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN265UU0W6A620C2000000/",
+      "summary": "【シリコンバレー=山田航平】メタなど米ビッグテックで、バランスシート（貸借対照表）上では見えない人工知能（AI）関連投資の将来の債務が膨らんでいる。試算では主要5社合計で1兆6500億ドル（約268兆円）と約4年で8倍になり、実際の債務を上回った。リスク検証が一段と難しくなっている。グーグルを傘下に...",
+      "published": "2026-07-19T22:30:27Z",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b07d60e58753a646ba85aa60601adbd8",
+      "title": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 boji…",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 bojieli / ai-agent-book ⭐ 5,307 (+1,734) 🗒 Python 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "published": "19 Jul 2026 23:16 +0000",
+      "fetched_at": "2026-07-20T02:12:06.426656+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-19T22:42:31.759569+00:00"
+  "updated_at": "2026-07-20T02:12:06.426656+00:00"
 }

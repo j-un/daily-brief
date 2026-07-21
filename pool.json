@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f36843599626aebe6628ac7c5f307034",
-      "title": "CloudFront VPCオリジン障害をInter-Region VPCピアリングで迂回してみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/cloudfront-vpc-origin-failure-inter-region-vpc-peering-bypass/",
-      "summary": "新たにALB、NLBを用意してカスタムオリジン経由で。なるほどねぇ。",
-      "published": "20 Jul 2026 03:12 +0000",
-      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7e4ee71decfc0085c7b7210f3d3edf0b",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How we scale PgBouncer in ClickHouse Managed Postgres",
-      "published": "20 Jul 2026 05:55 +0000",
-      "fetched_at": "2026-07-20T06:38:56.178146+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "008953d8e32241fb86a2d8db7ef6a889",
       "title": "サンプリングは統計学である: 数理的根拠に基づき、オブザーバビリティのコストと精度を両立する - Speaker Deck",
       "link": "https://speakerdeck.com/ymotongpoo/sampling-is-statistics",
@@ -549,7 +529,177 @@
       "fetched_at": "2026-07-21T08:11:12.496296+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "3145c36fe3a32fcce95e95b1547f921c",
+      "title": "「テスト＝QA」を卒業する日",
+      "link": "https://zenn.dev/bitkey_dev/articles/test-equals-qa",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「テスト＝QA」を卒業する日",
+      "published": "21 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b8770d619f101825fdd749f9967c0be",
+      "title": "The zero-cost fallacy: Open source software in the agentic era | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The zero-cost fallacy: Open source software in the agentic era",
+      "published": "21 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c279174d0ee5883b38e03adcd24ed586",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0 Comments URL: https://news.ycombinator.com/item?id=48989701 Points: 161 # Comments: 84",
+      "published": "Tue, 21 Jul 2026 08:44:23 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e600f36c1a0a563da191afe1876a953",
+      "title": "The Power of Awareness: Overcoming Surveillance Capitalism",
+      "link": "https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/",
+      "summary": "Article URL: https://www.scottrlarson.com/presentations/overcoming-surveillance-capitalism-with-awareness/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Mon, 20 Jul 2026 20:08:45 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6fe283bc8b46c96b6de5bf2ffd6b67e",
+      "title": "Cross sectioning insects in an electron microscope with a femtosecond laser [video]",
+      "link": "https://www.youtube.com/watch?v=NwhVJ7cv9B4",
+      "summary": "Article URL: https://www.youtube.com/watch?v=NwhVJ7cv9B4 Comments URL: https://news.ycombinator.com/item?id=48980404 Points: 105 # Comments: 5",
+      "published": "Mon, 20 Jul 2026 15:40:03 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ea10af55fa8ee81bb586fc1d54b89e9",
+      "title": "週刊AWS – 2026/7/13週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260713/",
+      "summary": "Amazon SageMaker HyperPod が Slurm クラスターでカスタム AMI をサポート、Voxtral-Mini-4B-Realtime をリアルタイム音声文字起こし向けに Amazon SageMaker JumpStart で提供開始、OpenAI GPT-5.6 Sol,...",
+      "published": "Tue, 21 Jul 2026 09:03:14 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7ceeb34015bc5c2667dbc0bcc559c5b",
+      "title": "「リポスト直後のポスト」を一括で表示するサービスを始めました！｜Togetter（トゥギャッター ）",
+      "link": "https://note.com/togetter/n/n1b911f1524e4",
+      "summary": "当社が契約しているX社のEnterpriseAPIを利用してデータを収集するので、安全＆確実なポスト収集が可能です。バズって数百・数千リポストされているポストに対しても高速に収集処理を実施できる点が強みです。 ↓サンプルページ：実際に @twilog_official のポストの反応を集めてみたやつ...",
+      "published": "2026-07-21T03:01:07Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef18a8182fdeb7c67099a4c1056b058b",
+      "title": "Claude Code Web の Routine で日々の開発を自動化する",
+      "link": "https://zenn.dev/mizchi/scraps/4e5d72496e2bfc",
+      "summary": "自分が気に入ってる Claude Code Web を使った開発の(一部)自動化の手法を紹介します。 周りにあまり使ってる人がいないのですが、作者のボリスを参考に自分も開発の一部を自動化するのにある程度成功しています。 Claude Code Web Claude Code は Web 上のダッシュ...",
+      "published": "2026-07-21T08:10:33Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5736f079bfda62f2b797ab56096078f0",
+      "title": "本体は約200機種を網羅！FM TOWNSの本体/ソフトの情報を網羅した冊子発売",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126526.html",
+      "summary": "",
+      "published": "2026-07-21T05:01:06Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac504726e875a32988e47d9d2d1588c4",
+      "title": "LLM の「脳内」をハッキングする技術 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+      "link": "https://joisino.hatenablog.com/entry/hack",
+      "summary": "LLM の内部状態やパラメータ、いわばLLM の「脳内」を局所的に書き換えることで、LLM の動作に介入する手法が発展を遂げています。 まずは最も基本的な操舵ベクトルについてみていきましょう。 操舵ベクトル LLM の内部状態を特定の方向に動かすことで動作を操作できます。このときに用いるベクトルのこ...",
+      "published": "2026-07-21T09:10:55Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c3b360b6ae7742ad675cd44b3441e28",
+      "title": "FeliCaの一部ICチップの脆弱性をJVNが発表、ソニーは「引き続き安心してご利用ください」",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2126514.html",
+      "summary": "",
+      "published": "2026-07-21T07:54:17Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c82754104d287e4d187e442cffb8bc5",
+      "title": "Z世代のおよそ3分の1、相手のスマホの待ち受け画面で人を判断していることが調査で明らかに【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2126445.html",
+      "summary": "",
+      "published": "2026-07-21T02:57:25Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc7594a69e8a4a5cd92dfb32e81038d5",
+      "title": "AI「Claude Fable 5」が87年来の難問「ヤコビアン予想」を覆す反例を生成したとAnthropic研究者が報告",
+      "link": "https://gigazine.net/news/20260721-claude-fable-5-jacobian-conjecture/",
+      "summary": "Anthropicに所属する数学者レベント・アルポゲ氏が、AIモデル「Claude Fable 5」を使って87年間未解決だったヤコビアン予想の反例を発見したと報告しました。 hello there the jacobian conjecture is false thanx to my close...",
+      "published": "2026-07-21T05:48:39Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "234983d69b85ff2cf23582ad87d9076c",
+      "title": "AppleのApp Store上に「ブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリ」が60個以上あることが調査で発覚",
+      "link": "https://gigazine.net/news/20260721-disguised-gambling-apps-app-store-brazil/",
+      "summary": "ブラジルのApp Storeには数十種類の偽装ギャンブルアプリが規制されないまま配信されていることが、Apple関連メディア・9to5Macの調査により明らかになりました。 Investigation reveals dozens of disguised gambling apps on the ...",
+      "published": "2026-07-21T08:24:49Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da816a234e71fa048e810ac578470efa",
+      "title": "疲弊する新卒採用の現場 「生成AIの書いた作文」を読まされる担当者",
+      "link": "https://business.nikkei.com/atcl/gen/19/00087/071600512/",
+      "summary": "",
+      "published": "2026-07-21T02:34:22Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bd612e309c562905f53f60db75053a6",
+      "title": "安い動画用デバイスや“通信帯域を共有して収益”サービスなどで機器を乗っ取る「レジデンシャルプロキシ」問題を、警察庁・総務省が警告 対策組織「レジデンシャルプロキシ対策アライアンス」も設立",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2126581.html",
+      "summary": "",
+      "published": "2026-07-21T07:05:14Z",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f32799cbc5a3dc7385f43b36aa3c6c68",
+      "title": "Can Jamstik finally make MIDI guitar stick?",
+      "link": "https://musictech.com/features/interviews/jamstik-interview-midi-guitar/?utm_source=rss&utm_medium=rss&utm_campaign=jamstik-interview-midi-guitar",
+      "summary": "With full-size instruments, onboard tracking, MPE, and growing OEM ambitions, Jamstik thinks MIDI guitar’s next chapter starts by feeling less like te...",
+      "published": "Tue, 21 Jul 2026 08:16:34 +0000",
+      "fetched_at": "2026-07-21T11:42:37.596792+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-21T08:11:12.496296+00:00"
+  "updated_at": "2026-07-21T11:42:37.596792+00:00"
 }

@@ -719,7 +719,197 @@
       "fetched_at": "2026-07-22T08:11:25.980790+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "fdcc8ba6267124105efee2c24747354d",
+      "title": "自作 macOS IME Akaza がスリープ復帰後に死ぬ問題を数週間追いかけたら、犯人は IME じゃなかった - tokuhirom's blog",
+      "link": "https://blog.64p.org/entry/2026/07/13/044753",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 自作 macOS IME Akaza がスリープ復帰後に死ぬ問題を数週間追いかけたら、犯人は IME じゃなかった - tokuhirom's blog",
+      "published": "22 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ed70f428976fa3843ace680ba87c63c",
+      "title": "It's a shame what's happened to radio",
+      "link": "https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/",
+      "summary": "Article URL: https://blog.jimgrey.net/2026/07/21/its-a-shame-whats-happened-to-radio-3/ Comments URL: https://news.ycombinator.com/item?id=48999825 Po...",
+      "published": "Tue, 21 Jul 2026 23:33:31 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d19410f0fa0624ded535ab4d053dd92",
+      "title": "「新しいかたち」発表のGalaxy Unpackedは今夜22時、事前登録で30%オフクーポン配布 テクノエッジ アルファで同時視聴もやります",
+      "link": "https://www.techno-edge.net/article/2026/07/22/5321.html",
+      "summary": "サムスンは新製品発表イベント「Galaxy Unpacked」を日本時間で本日7月22日22時からライブ配信します。",
+      "published": "Wed, 22 Jul 2026 18:54:30 +0900",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcaa4b80ed1e15db0f01bb45ad743b61",
+      "title": "今月の AWS オブザーバビリティ – 2026年6月",
+      "link": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-june-2026/",
+      "summary": "「This Month in AWS Observability」最新号へようこそ。今回は、この6月に Amazon CloudWatch と AI 駆動型オペレーション全般で発表された新機能をご紹介します。CloudWatch でネイティブな OpenTelemetry メトリクスと PromQL...",
+      "published": "Wed, 22 Jul 2026 11:39:13 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab90b0e12ba81606d88016630e8e25bb",
+      "title": "「第二の脳」とやらについて",
+      "link": "https://anond.hatelabo.jp/20260722172402",
+      "summary": "ClaudeとObsidianを使って「第二の脳」を作る、という話を読んだ。 （これ↓） https://x.com/chizevsm5/status/2079513704870142428 ふーん。 まず最初にいっておくと、便利なんだろうとは思う。 自分が読んだ文章だの、仕事で調べたことだの、ふと...",
+      "published": "2026-07-22T08:27:31Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7582be808215551a58ca707b971ceb53",
+      "title": "データベースmigration機構が無かったアプリケーションにsqldefを導入しました - タイムリープ テックブログ",
+      "link": "https://techblog.timeleap.co.jp/entry/sqldef_is_coming_to_town",
+      "summary": "こんにちは。タイムリープ株式会社でエンジニアをやっております id:moznion です。 タイムリープには有史以来、データベースmigration機構が無いままに運用されているサーバーサイドアプリケーションがあり、エンジニアが気を付けてDDLを手で発行するという運用が為されていました。もちろんここ...",
+      "published": "2026-07-22T00:52:26Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e145de5537a1acbb01265f0ff60424a",
+      "title": "グーグル、Androidアプリによる「Wi-Fi・Bluetooth自動ON」廃止へ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2126835.html",
+      "summary": "",
+      "published": "2026-07-22T04:10:33Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a16e90cfb91cf1af4de1c072e9d786d5",
+      "title": "OpenAIのAIモデルがゼロデイ悪用、Hugging Faceに侵入する異例の事態",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126816.html",
+      "summary": "",
+      "published": "2026-07-22T04:07:23Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "827a970ce80b3ce1056b9de34fdb8b3b",
+      "title": "米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015182641000",
+      "summary": "生成AIの「ChatGPT」を手がけるアメリカの「オープンAI」は21日、開発中のAIモデルが、意図しない形で他社にサイバー攻撃をしかける事故が起きたと発表しました。会社は「前例のない事案だ」と危機感…",
+      "published": "2026-07-22T06:23:37Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "059c254759b54e74eca483dc9e5e4cfe",
+      "title": "NVIDIA、「DLSS 5」を今秋投入。クリエイターの意図はそのまま、生成AIでよりリアルに",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126936.html",
+      "summary": "",
+      "published": "2026-07-22T06:49:41Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ba44bdd703cbb8e5c601694149b1b18",
+      "title": "1年前に騒がれたFeliCaの脆弱性、JVNがようやく公表 深刻度は「高」",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news103.html",
+      "summary": "IPAとJPCERT/CCが共同で運営する脆弱性対策情報ポータルサイト「Japan Vulnerability Notes」（JVN）は7月21日、ソニーの非接触ICカード技術「FeliCa」の一部ICチップに、深刻度「高」の脆弱性（CVE-2026-59776）が見つかったと公表した。 2025年...",
+      "published": "2026-07-22T08:44:13Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4633b1a0f1edb8da681ac24a4c8cca17",
+      "title": "NVIDIA、エージェント型AI時代のCPUコア「Olympus」の詳細",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2126940.html",
+      "summary": "",
+      "published": "2026-07-22T08:58:14Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b53492a111755d35133f3c2cc307cc4b",
+      "title": "韓国外交官「ほぼ全員」の情報流出か 国立外交院への不正アクセスで最大1万件 現地報道",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news108.html",
+      "summary": "東亜日報や聯合ニュースなど韓国メディアは7月21日（現地時間）、韓国の外交官ほぼ全員分に当たる最大1万件の個人情報が流出した恐れがあると報じた。韓国外務省傘下の国立外交院が運営するオンライン教育システムがサイバー攻撃を受けた。報道によると韓国外務省は20日、何者かが2025年4～5月にシステムのサー...",
+      "published": "2026-07-22T09:33:53Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "325fd3afa589985b325ce524a56801cc",
+      "title": "JVN#40509781: 非接触型ICカード技術FeliCaの一部のICチップにおける脆弱性",
+      "link": "https://jvn.jp/jp/JVN40509781/",
+      "summary": "ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を行うことにより、本来のセキュリティ強度が低下する事象が発生します。 ソニー株式会社より2017年以前に出荷された一部のFeliCa ICチップでは、暗号処理プロセスにおいて特定の操作を...",
+      "published": "2026-07-21T09:26:56Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fb68bf59ac246281fbd4df415fd2c5c",
+      "title": "KFC、全店舗で通常営業を再開 ニチレイへの不正アクセスから9日で 「詫びクーポン」も配布",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news069.html",
+      "summary": "日本ケンタッキー・フライド・チキンは7月22日、KFC全店舗で通常営業を再開したと発表した。 食材配送の委託先であるニチレイ（東京都中央区）への不正アクセスに起因するシステム障害の影響で、14日から一部商品の品切れや販売メニューの制限、営業時間の短縮などが発生していたが、委託先の業務が正常化し、全店...",
+      "published": "2026-07-22T02:07:29Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ea1b00c212f833d7b15beee57854f03",
+      "title": "［Enter］キーで“うっかり送信”……を防止するブラウザー拡張機能「Kanary Enter Guard」、SNSやAIチャットを便利に／［Enter］で改行、送信は［Ctrl］＋［Enter］で【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2125538.html",
+      "summary": "",
+      "published": "2026-07-22T04:10:00Z",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d88387d2004520eed7086d92420a63",
+      "title": "teenage engineering、ほぼすべての製品を30％OFFで販売する大型プロモをスタート…… OP-1 fieldやOP-XYはもちろん、新製品のEP-136 K.O.-SIDEKICKも対象",
+      "link": "https://icon.jp/archives/27875",
+      "summary": "teenage engineeringが、“シークレット・セール”と題した夏の大型プロモーションをスタート。人気のEP-136 K.O.-SIDEKICKをはじめ、ほぼ全製品が30％OFFという大幅ディスカウント価格で販 […]",
+      "published": "Wed, 22 Jul 2026 09:00:00 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "77b9bdce2edbc03db1ff1abfebc0d8f3",
+      "title": "Splice confirms staff layoffs and “strategic restructuring”: “These changes will help us move with greater focus and agility”",
+      "link": "https://musictech.com/news/music/splice-confirms-staff-layoffs-and-restructuring/?utm_source=rss&utm_medium=rss&utm_campaign=splice-confirms-staff-layoffs-and-restructuring",
+      "summary": "“Our mission remains unchanged: to help every creator bring their music to life.” The post Splice confirms staff layoffs and “strategic restructuring”...",
+      "published": "Wed, 22 Jul 2026 11:35:29 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "5fa9faceaa3da958abb463c4857f1a2d",
+      "title": "Sony is suing Udio again…",
+      "link": "https://musictech.com/news/industry/udio-is-suing-sony-again/?utm_source=rss&utm_medium=rss&utm_campaign=udio-is-suing-sony-again",
+      "summary": "After a judge denied Sony’s motion to include over 30,000 recordings in the first lawsuit, the major label has filed a second lawsuit specifically per...",
+      "published": "Wed, 22 Jul 2026 08:30:34 +0000",
+      "fetched_at": "2026-07-22T11:42:37.971181+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-22T08:11:25.980790+00:00"
+  "updated_at": "2026-07-22T11:42:37.971181+00:00"
 }

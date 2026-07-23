@@ -1309,7 +1309,97 @@
       "fetched_at": "2026-07-23T19:02:05.382623+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "d475976aa2aee8d44a8c918e02de58fa",
+      "title": "The arguments against open source AI are bad",
+      "link": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "summary": "Article URL: https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/ Comments URL: https://news.ycombinator.com/item?id=49024643 Points: 1...",
+      "published": "Thu, 23 Jul 2026 16:49:57 +0000",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ff27c8ad9969a65adc0cc45f7931826",
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "summary": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md Comments URL: https://news.ycombinator.com...",
+      "published": "Thu, 23 Jul 2026 15:18:48 +0000",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc744205c493c965a8a24cc38b8e65cb",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "summary": "Article URL: https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16 Comments URL: https://news.ycombinator.com/item?id=49021597 Poi...",
+      "published": "Thu, 23 Jul 2026 13:51:36 +0000",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8750b077374289e75dcc02b4c97a940e",
+      "title": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/",
+      "summary": "Amazon RDS for MySQL now supports version community MySQL 9.7 in the Amazon RDS Database Preview Environment, allowing you to evaluate the latest Rele...",
+      "published": "Thu, 23 Jul 2026 18:05:00 GMT",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef21bd92c256612a694642aab2fee564",
+      "title": "Amazon EVS is now available in additional Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/",
+      "summary": "Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Seoul), Europe (Zurich), and Europe (Sto...",
+      "published": "Thu, 23 Jul 2026 16:24:00 GMT",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca989a7a16004c7588a4b7a5c74a9d1a",
+      "title": "「惜しいデザイン」 を生み出さないための AIレビューループ",
+      "link": "https://speakerdeck.com/0b1tk/xi-siidezain-wosheng-michu-sanaitameno-airebiyurupu",
+      "summary": "2026年7月22日 「AIで変わる設計と判断——デザイン × フロントエンド、複数社が語る失敗と工夫」 登壇資料",
+      "published": "2026-07-22T21:56:47Z",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb722801eda0f3368057fc01d469bb6c",
+      "title": "クラウドにOSSを「持っていかれる」問題：Elastic、Redis、HashiCorpから考えるAGPL - Convergence Lab.",
+      "link": "https://www.convergence-lab.com/blog/2026-07-23-open-core-agpl/",
+      "summary": "「ソースコードを公開すれば、利用者が増え、改善が返ってきて、みんなが得をする」 OSSにはそんな理想があります。しかし、実際にプロジェクトが成功すると、別の光景が現れることがあります。巨大クラウド事業者がOSSをマネージドサービスとして提供し、運用の手軽さと販売網を武器に大きな売上を得る。一方、最初...",
+      "published": "2026-07-23T02:17:28Z",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1453dffa17db6184f37c5a5461715fd",
+      "title": "アンソロピック「Claude Opus 5」明日にも発表か、GPT-5.6や中国AIに対抗 焦点は？",
+      "link": "https://www.sbbit.jp/article/cont1/186222",
+      "summary": "米アンソロピックが、次世代の最上位AIモデル「Claude Opus 5」を日本時間24日早朝にも発表するとの観測が強まっている。性能を高めながら安定性を高め、運用コストを抑えるモデルになるとの期待があり、OpenAIのGPT-5.6や低価格な中国勢との競争を左右しそうだ。 米アンソロピックが、次期...",
+      "published": "2026-07-23T09:04:03Z",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca9ac28bb8fe54e43f9edea175cac322",
+      "title": "ランサムウェアの身代金の支払い、法律で禁止すべき？ 海外メディアによる賛否両論まとめ【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2127168.html",
+      "summary": "",
+      "published": "2026-07-23T03:31:03Z",
+      "fetched_at": "2026-07-23T20:53:04.347282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-23T19:02:05.382623+00:00"
+  "updated_at": "2026-07-23T20:53:04.347282+00:00"
 }

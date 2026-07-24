@@ -819,7 +819,137 @@
       "fetched_at": "2026-07-24T11:37:04.604220+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "50134b1cfaeaf4bea51de962e2d4c12f",
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "link": "https://bfl.ai/blog/flux-3-mimic",
+      "summary": "Article URL: https://bfl.ai/blog/flux-3-mimic Comments URL: https://news.ycombinator.com/item?id=49033127 Points: 178 # Comments: 24",
+      "published": "Fri, 24 Jul 2026 09:31:48 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b528757361295552b642dc5a5a51ee58",
+      "title": "The day Steve Jobs dissed me in a keynote (2010)",
+      "link": "https://sive.rs/itunes",
+      "summary": "Article URL: https://sive.rs/itunes Comments URL: https://news.ycombinator.com/item?id=49033001 Points: 134 # Comments: 34",
+      "published": "Fri, 24 Jul 2026 09:07:44 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2860b2cfbaecccb219d147e2690faa71",
+      "title": "Claude Cookbook",
+      "link": "https://platform.claude.com/cookbook/",
+      "summary": "Article URL: https://platform.claude.com/cookbook/ Comments URL: https://news.ycombinator.com/item?id=49031409 Points: 151 # Comments: 75",
+      "published": "Fri, 24 Jul 2026 05:09:15 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bcff4843506a62be3059567bbe0039c",
+      "title": "The Visual 6502",
+      "link": "http://visual6502.org/JSSim/index.html",
+      "summary": "Article URL: http://visual6502.org/JSSim/index.html Comments URL: https://news.ycombinator.com/item?id=49029538 Points: 102 # Comments: 23",
+      "published": "Thu, 23 Jul 2026 23:36:42 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82c7a7fd510bc8168be0e2d65ec8cd27",
+      "title": "JEP 540: Simple JSON API (Now in Incubator)",
+      "link": "https://openjdk.org/jeps/540",
+      "summary": "Article URL: https://openjdk.org/jeps/540 Comments URL: https://news.ycombinator.com/item?id=49023809 Points: 100 # Comments: 75",
+      "published": "Thu, 23 Jul 2026 16:01:02 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f30aa76ae7fba91c1c221fb2ebf8db5",
+      "title": "自宅でローカルなテレビ局を開局してみた 【地上デジタル放送の仕組みに迫る】 - Qiita",
+      "link": "https://qiita.com/Rabbit_Program/items/7c3b004ff56ec4cc6b06",
+      "summary": "はじめに 地上デジタル放送のテレビ局が送出しているものは、突き詰めると「MPEG-TS ストリーム」と「その中に埋め込まれた PSI/SI テーブル」の2つに集約される。 であれば、同じ構造のストリームを自前で組み立てれば、市販のテレビ録画ソフトがそれを \"本物のチャンネル\" として認識するのではな...",
+      "published": "2026-07-24T09:47:05Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65e1378caa97ab0a31e9a91a4ca0b0b5",
+      "title": "「X」（Twitter）プロフィールでポスト・リポストが分離……以前の仕様を再現したい！／リスト機能を活用した冴えたやり方【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2127313.html",
+      "summary": "",
+      "published": "2026-07-24T04:08:23Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "48dea6e0c34ec56e1a5263fa729d1371",
+      "title": "ChatGPT、会話しつつPC操作や複数AIエージェント同時指揮が可能に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2127493.html",
+      "summary": "",
+      "published": "2026-07-23T23:58:26Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6d0f3f7b94febf3b07b6a7a132c73cc",
+      "title": "Claude の利用状況を OpenTelemetry Collector で BigQuery に流し込んで可視化できるようにした - VISASQ Dev Blog",
+      "link": "https://tech.visasq.com/claude-otel-bigquery",
+      "summary": "🤖 AI執筆について この記事は AI（Claude）が執筆し、筆者が修正・加筆を行なっています。 はじめに こんにちは！インフラチームの高畑です。 最近あまりにも暑すぎますね、まだ 7 月ですよ？この調子で気温が上がっていったら 8 月には溶けて無くなりそうな予感がしています。 皆さんも溶けてしま...",
+      "published": "2026-07-22T02:59:56Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa81421703792243d478a14168d7bb6a",
+      "title": "クラウドを使う側から、作る側へ / 大吉祥寺.pm 2026前夜祭",
+      "link": "https://speakerdeck.com/fujiwara3/da-ji-xiang-si-dot-pm-2026qian-ye-ji",
+      "summary": "大吉祥寺.pm 2026 前夜祭 https://fortee.jp/dai-kichijojipm-2026 Links: - https://github.com/kayac/ecspresso - https://github.com/fujiwara/lambroll - ht…",
+      "published": "2026-07-24T10:53:11Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b85022bf0889e37bf25cea32ef407dbb",
+      "title": "AMD、最大256コア・L3キャッシュ1GB超の第6世代「EPYC 9006」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2127459.html",
+      "summary": "",
+      "published": "2026-07-24T00:12:46Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb12be6ac5d935b52c4695585199983e",
+      "title": "【Playwright 】Claude Code × Playwright MCPでPageObjectの自動生成を試してみた",
+      "link": "https://zenn.dev/beeeegle/articles/81372cf577d805",
+      "summary": "冒頭には自分に起きた時事ネタを書くことが多いです。 実は・・・ついにClaudeに課金しました（笑 なので、元を取る使い倒すという意味で、ここからの記事はClaudeを使用したものが多くなりそうです。 と雑談？はこのあたりにして、方向修正をしましょう（笑 さて、Playwrightは優秀です。 Pl...",
+      "published": "2026-07-23T22:26:30Z",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "348a5ab08e75414cc2c9b70e4652dc54",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 yor…",
+      "link": "https://github.com/yorukot/superfile",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 yorukot / superfile ⭐ 19,126 (+312) 🗒 Go Pretty fancy and modern terminal file manager",
+      "published": "24 Jul 2026 12:16 +0000",
+      "fetched_at": "2026-07-24T13:20:53.997780+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-24T11:37:04.604220+00:00"
+  "updated_at": "2026-07-24T13:20:53.997780+00:00"
 }

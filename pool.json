@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9cd2b6b3babbccd0ec325608692c59a2",
-      "title": "Amazon CloudWatch announces coding agent insights",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/",
-      "summary": "Amazon CloudWatch announces the launch of coding agent insights, giving engineering leaders visibility into how AI coding tools are driving value acro...",
-      "published": "Mon, 20 Jul 2026 09:51:00 GMT",
-      "fetched_at": "2026-07-23T22:48:30.513141+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "c190c989222c14b2f70601aa3db5a8c5",
       "title": "カーネルのバージョンアップによって特定のCPUコアを使うPodが不安定になった事例の紹介 - Cybozu Inside Out | サイボウズエンジニアのブログ",
       "link": "https://blog.cybozu.io/entry/2026/07/15/113000",
@@ -219,7 +209,107 @@
       "fetched_at": "2026-07-25T01:56:41.023325+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "c3b189811edb4c5ec46146db9fd7fe27",
+      "title": "閉域構成のOracleDB運用支援LLMを作り、RAGでハルシネーションがどこまで減るか18問で実測してみた #oracle - Qiita",
+      "link": "https://qiita.com/asahide/items/2549dbde8e76ae86db8c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 閉域構成のOracleDB運用支援LLMを作り、RAGでハルシネーションがどこまで減るか18問で実測してみた",
+      "published": "25 Jul 2026 03:55 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e4e28774774221a716ef1c1065d045c",
+      "title": "https://sre.google/resources/practices-and-processes/ai-engineering-reliable-operations/",
+      "link": "https://sre.google/resources/practices-and-processes/ai-engineering-reliable-operations/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI in SRE: How Google is Engineering the Future of Reliable Operations",
+      "published": "25 Jul 2026 02:55 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2278e29626138a0cf3552ced8fd49f4",
+      "title": "プライベートクラウド「MShip3」の仮想ネットワーク性能を3倍に改善した話｜KDDI Tech note",
+      "link": "https://tech-note.kddi.com/n/n74ad198da05c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プライベートクラウド「MShip3」の仮想ネットワーク性能を3倍に改善した話",
+      "published": "22 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07521dea9f1f5697dba7320f18854c50",
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "summary": "Article URL: https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc Comments URL: https://news.ycombinator.com/item?id=49044074...",
+      "published": "Sat, 25 Jul 2026 02:54:36 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "725d2eda99d2135f74bb6cb3987de12e",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "link": "https://www.spacex.com/launches/starship-flight-13",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-13 Comments URL: https://news.ycombinator.com/item?id=49042528 Points: 106 # Comments: 13...",
+      "published": "Fri, 24 Jul 2026 22:44:38 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08fc004f24d26ec635b404a850feb78c",
+      "title": "I got into YC Startup School by hacking it",
+      "link": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+      "summary": "Article URL: https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html Comments URL: https://news.ycombinator.com/item?id=49039448 Poi...",
+      "published": "Fri, 24 Jul 2026 18:03:22 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b99bdc29b9b23a834a6c6391ede28149",
+      "title": "Unitree As2-W",
+      "link": "https://www.unitree.com/As2-W/",
+      "summary": "Article URL: https://www.unitree.com/As2-W/ Comments URL: https://news.ycombinator.com/item?id=49038045 Points: 111 # Comments: 44",
+      "published": "Fri, 24 Jul 2026 16:32:52 +0000",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b97121a9102f0ad953a48ee753cb83b4",
+      "title": "Building verification loops in Claude Code with skills | Claude by Anthropic",
+      "link": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "summary": "Most agentic coding sessions follow a loop: you ask for a change, Claude gathers context, takes action, verifies the results, and if needed, loops bac...",
+      "published": "2026-07-24T09:44:24Z",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58dcea717602478b237de4e12c137081",
+      "title": "騒がしくなってきたステーブルコインの“標準”争い Open USDの登場【鈴木淳也のPay Attention】",
+      "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2126249.html",
+      "summary": "",
+      "published": "2026-07-23T23:59:23Z",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa079b8e49cf1d6ca26bdf0640b56e4b",
+      "title": "「君の知らない物語」を見つける技術 - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/2026/07/24/201658",
+      "summary": "このエントリは『TSKaigi Mashup Kansai #2 TSKaigi 2026を振り返ろう！』での登壇資料です。 当日の資料はこちらです。 slide.inorinrinrin.com このエントリは『TSKaigi Mashup Kansai #2 TSKaigi 2026を振り返ろう...",
+      "published": "2026-07-24T11:21:01Z",
+      "fetched_at": "2026-07-25T05:11:42.513633+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-25T01:56:41.023325+00:00"
+  "updated_at": "2026-07-25T05:11:42.513633+00:00"
 }

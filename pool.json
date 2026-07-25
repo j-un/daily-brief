@@ -309,7 +309,77 @@
       "fetched_at": "2026-07-25T05:11:42.513633+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "decce1f8905cf0303bce380165e78a05",
+      "title": "k8s CronJob の応急的な停止 | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1079803",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 k8s CronJob の応急的な停止 | Wantedly Engineer Blog",
+      "published": "25 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49f5585f2860e47b0ccc3ce92e2b069c",
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "link": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "summary": "Article URL: https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize Comments URL: https://news.ycombinator.com/item?id=4904372...",
+      "published": "Sat, 25 Jul 2026 01:44:12 +0000",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebf28c732a53b87ca3433dc3801cac72",
+      "title": "結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温..",
+      "link": "https://anond.hatelabo.jp/20260724173950",
+      "summary": "検証して ChatGPT5.6 Sol PRO 結論 この文章には、 「直近5～6年は特に暑い」 「都市化も東京の高温化に影響している」 という正しい部分があります。 しかし、中心的な主張である、 長期的には言うほど変わっていない 「昔はもっと涼しかった」はマジで嘘 は、気象庁の長期統計と矛盾します...",
+      "published": "2026-07-24T17:11:06Z",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75c1e320271a6bbf2c66fe87cf58a3b4",
+      "title": "キーボードと一体化した「Raspberry Pi 400」が10,800円！日本語版の未使用品セール",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2127800.html",
+      "summary": "",
+      "published": "2026-07-24T20:12:03Z",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c8a4c63d58b8f1b139f354bb1c9c159",
+      "title": "【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った",
+      "link": "https://zenn.dev/peishim/articles/a10faeabae7c09",
+      "summary": "はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、Obsidianと...",
+      "published": "2026-07-22T04:25:27Z",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42b52d5ee029c9e3ad1800055f4819a3",
+      "title": "MicrosoftやNVIDIA、AI｢オープン型｣規制に反対声明 技術革新の妨げに - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN24BQB0U6A720C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトや米エヌビディアなどは24日、技術を外部に公開する「オープン型」の人工知能（AI）開発を規制しないよう米政府に求める声明を公開した。中国企業のオープン型が米国勢の最先端AIの性能に迫っているが、政府が過度に介入すれば技術革新を妨げかねないと一部企業が声を...",
+      "published": "2026-07-24T21:42:38Z",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54508a4ed46d75f10e73de5d8747ef0b",
+      "title": "Claude CodeのInput Tokenが増える原因を、利用ログから調べてみた",
+      "link": "https://zenn.dev/flinters_blog/articles/c1f6e286dc3a40",
+      "summary": "はじめに こんにちは。FLINTERSでエンジニアをしている佐藤です。 Claude Codeを使っていると、入力した文章は短いにもかかわらず、Input Tokenだけが大量に消費されていることがありました。 当初は、自分が入力しているプロンプトが長すぎるのだと思い、文章を短くしたり、言い回しを削...",
+      "published": "2026-07-25T02:11:04Z",
+      "fetched_at": "2026-07-25T07:52:31.560788+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-25T05:11:42.513633+00:00"
+  "updated_at": "2026-07-25T07:52:31.560788+00:00"
 }

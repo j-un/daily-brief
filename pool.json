@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1b17adb17dbb623b8bcb475b40b6cd79",
-      "title": "OpenTelemetryのConsistent Probability Samplingを理解する",
-      "link": "https://zenn.dev/ymotongpoo/articles/20260717-cps",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetryのConsistent Probability Samplingを理解する",
-      "published": "25 Jul 2026 10:55 +0000",
-      "fetched_at": "2026-07-25T11:02:34.053813+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "099f1c0cd2141bdb9731795949e076f3",
       "title": "A 77-year-old Republican man is staging a solo protest against Flock cameras",
       "link": "https://www.cltampa.com/news/a-77-year-old-republican-man-is-staging-a-solo-protest-against-st-petes-flock-cameras/",
@@ -649,7 +639,327 @@
       "fetched_at": "2026-07-26T14:57:18.454049+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "7f1bfb154a3012eb5653e57cafd66e00",
+      "title": "[アップデート] AWS CLI に aws update コマンドが追加されました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-cli-aws-update-command/",
+      "summary": "セルフアップデート機能か。ただしWindows環境では正しく動かず。",
+      "published": "26 Jul 2026 16:29 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c21afd3a6721899d7894472295305d2e",
+      "title": "「AIに身体と実在感を与える、新しいかたちのターミナル」ほう…",
+      "link": "https://github.com/sktkkoo/Yorishiro",
+      "summary": "「AIに身体と実在感を与える、新しいかたちのターミナル」ほう",
+      "published": "26 Jul 2026 16:27 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02232e38e9ed78243fbc64206af9e611",
+      "title": "Everyone Should Know SIMD – Mitchell Hashimoto",
+      "link": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "summary": "よかった。読んで少し理解した気になれた。",
+      "published": "26 Jul 2026 16:18 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77a3daa1bfc9a4a1a6c6fd6f6621badd",
+      "title": "単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ - GIGAZINE",
+      "link": "https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/",
+      "summary": "UIも日本語化されてる。MITライセンスでソースコードもGitHubにあると。",
+      "published": "26 Jul 2026 16:16 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b218c965193042e1a8b08a98d6ae9743",
+      "title": "AI⇔人間 がdiff上にコメントを書き合える「hunk」がすごい #Git - Qiita",
+      "link": "https://qiita.com/kuma_3838/items/14df505c7023f665c585",
+      "summary": "AIとの対話に使えるのは確かに良さそうではある。",
+      "published": "26 Jul 2026 16:13 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aae9c6916fa2e445c5a1ba555fbf2c8f",
+      "title": "AIエージェントのためのプログラミング言語らしい。TypeScriptのような見…",
+      "link": "https://github.com/boundaryml/baml",
+      "summary": "AIエージェントのためのプログラミング言語らしい。TypeScriptのような見た目だが、Rustのような型システムを備えており、Goよりも高速にコンパイルできる、と。",
+      "published": "26 Jul 2026 16:11 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8d84fd45e381caaeddd1e4649bb57c9",
+      "title": "AIエージェント用コード探索CLI「AST-Digger」を作ってトークン消費を激減させた話",
+      "link": "https://zenn.dev/snaga/articles/2026-07-25-ast-digger-agent-native-cli",
+      "summary": "tree-sitter をベースにした高速な構文解析・コード抽出 CLI ツール。ほほう",
+      "published": "26 Jul 2026 16:08 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3873344068c6b9064be9711cce6f820",
+      "title": "macOS向けディスク使用量可視化ツール。…",
+      "link": "https://github.com/tkslucas/Neodisk",
+      "summary": "macOS向けディスク使用量可視化ツール。",
+      "published": "26 Jul 2026 16:06 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8bf98dd2b3a189523d2c124eceec100a",
+      "title": "音声で文字入力するためのmacOS向けアプリ。声。Setup WizardでPr…",
+      "link": "https://github.com/missuo/koe",
+      "summary": "音声で文字入力するためのmacOS向けアプリ。声。Setup WizardでProviderとしてApple Speechを選んでJapaneseを選択すれば日本語入力もいけた。homebrew本家に登録されたので brew install --cask koe でインストール可。",
+      "published": "26 Jul 2026 16:05 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8ff9722d25bf73be79ce041e37ef481",
+      "title": "Amazon ECSの新機能「Action Logs」でデプロイの状態遷移ログを確認してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/amazon-ecs-action-logs-deployment-visibility/",
+      "summary": "早速。わいわい",
+      "published": "26 Jul 2026 15:57 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c4702ff561604742ce3efd1627f0555",
+      "title": "Amazon ECS が、デプロイとオーケストレーションの可視性を高める Action Logs を提供開始 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/07/amazon-ecs-action-logs/",
+      "summary": "ほう。要注目",
+      "published": "26 Jul 2026 15:57 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aedf50b99d2627aedea5142ecc5d5d2b",
+      "title": "Hekireki というツールを作りました",
+      "link": "https://zenn.dev/mini_bg_pro_n/articles/d2c5d965ac068a",
+      "summary": "「Prismaのスキーマから、ZodやValibotなどのバリデーションスキーマ、Drizzle ORMのテーブル定義、そしてMermaidのER図まで生成するツール」",
+      "published": "26 Jul 2026 15:50 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a81fd547b9ebfa3f6799e2e1e102e59",
+      "title": "GitのmacOS向けGUIクライアント。大胆な名前だ。homebrewに追加さ…",
+      "link": "https://github.com/maoyama/Changes",
+      "summary": "GitのmacOS向けGUIクライアント。大胆な名前だ。homebrewに追加されてた。brew install --cask changes",
+      "published": "26 Jul 2026 15:48 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "835ef638c925e84022102fda0a47d1bf",
+      "title": "ランサムウェア攻撃対策マニュアル | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15834-7",
+      "summary": "2026年8月10日発売",
+      "published": "26 Jul 2026 15:46 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "162ccab780f2055d1a00414040f4e12a",
+      "title": "さまざまなインフラ上でWebアプリケーションを構築、デプロイ、運用できるオープンソースのデプロイ基盤「OpenShip」リリース | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/openship",
+      "summary": "アプリのデプロイにとどまらず、データベース、ドメイン、CDN、SSL、メールサーバ、バックアップなどのインフラのケアもやってくれるということか。",
+      "published": "26 Jul 2026 15:45 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acf553632cac7945848edeeb2f4919b0",
+      "title": "GoのOpenTelemetryゼロコード計装、コンパイル時方式が安定版(v1)になったので動かしてみた #fukuokago",
+      "link": "https://zenn.dev/quiver/articles/d7bdf991d562e5",
+      "summary": "お、早速。わいわい。",
+      "published": "26 Jul 2026 15:42 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5657e1b2e29df13274a3c594e4f068b9",
+      "title": "実践dbt入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15786-9",
+      "summary": "2026年8月12日発売",
+      "published": "26 Jul 2026 15:41 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cdf4bed83f3e63f5bbeda1d1f7c14fd",
+      "title": "エンジニアのAI壁打ち実践術 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15819-4",
+      "summary": "2026年9月10日発売",
+      "published": "26 Jul 2026 15:40 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f18a73cdf1cb62d4483e544229e0dd0",
+      "title": "超高速を謳う重複ファイル検知ツール。Downloadsとかマイドキュメント配下な…",
+      "link": "https://github.com/jdefrancesco/dskDitto",
+      "summary": "超高速を謳う重複ファイル検知ツール。Downloadsとかマイドキュメント配下などを対象として整理するのに良いと。CLI/TUI/GUIを用意。Go実装。",
+      "published": "26 Jul 2026 15:37 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f17046c868ed830d2104a769877ee5b",
+      "title": "高速を謳うLinux向けリンカー。moldよりも高速と。実装言語はRust…",
+      "link": "https://github.com/wild-linker/wild",
+      "summary": "高速を謳うLinux向けリンカー。moldよりも高速と。実装言語はRust",
+      "published": "26 Jul 2026 15:34 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66b6edeb3b73603a85eeb1a32814f8a0",
+      "title": "DockerfileのLinter。実装言語はRust…",
+      "link": "https://github.com/immanuwell/dockerfile-roast",
+      "summary": "DockerfileのLinter。実装言語はRust",
+      "published": "26 Jul 2026 15:32 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0038d1a74c3d0bf2bd7f6d6212caaf1",
+      "title": "GitのTUIクライアント。lazygitよりも軽量かつ高速を謳う。実装言語はZ…",
+      "link": "https://github.com/simoarpe/ziggity",
+      "summary": "GitのTUIクライアント。lazygitよりも軽量かつ高速を謳う。実装言語はZig",
+      "published": "26 Jul 2026 15:29 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcaa4b80ed1e15db0f01bb45ad743b61",
+      "title": "今月の AWS オブザーバビリティ – 2026年6月 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-june-2026/",
+      "summary": "「今月の AWS オブザーバビリティ」シリーズが始まったのか。",
+      "published": "26 Jul 2026 15:25 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3c0c114feb9b553ac19d5622b745793",
+      "title": "AWS CloudFormation Express モードを使用してインフラストラクチャのデプロイを最大 4 倍高速化 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-infrastructure-deployments-by-up-to-4x-with-aws-cloudformation-express-mode/",
+      "summary": "このResourceはExpressモードには対応していません、とかあるとやだな。",
+      "published": "26 Jul 2026 15:16 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "154c23d2e1f2da4b4ea64f57d40dc468",
+      "title": "Vercel Security Checkpoint",
+      "link": "https://www.hashicorp.com/ja/blog/introducing-tfpolicy-a-declarative-policy-workflow-built-for-terraform",
+      "summary": "tfpolicyでPolicy as Code。ほほう",
+      "published": "26 Jul 2026 15:13 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dc5ecae935f9cd2505585f1d10af244",
+      "title": "LLMアプリケーション評価駆動開発 継続的に改善し運用していくための実践知（上野 彰大 大嶋 勇樹）｜翔泳社の本",
+      "link": "https://www.shoeisha.co.jp/book/detail/9784798190723",
+      "summary": "2026年9月24日発売予定",
+      "published": "26 Jul 2026 15:10 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6114f0f5bd84cfef85f3d0465aa9f1a7",
+      "title": "MySQL Community Server 26.7 Early Access Release | mysql",
+      "link": "https://blogs.oracle.com/mysql/mysql-community-server-26-7-early-access-release",
+      "summary": "MySQL 9.7 LTSの次は MySQL 26.7の予定。 yy.mmのCalendar Versioning(CalVer)になると。",
+      "published": "26 Jul 2026 15:03 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc927b6f892f7772ea5b39e20735873d",
+      "title": "プロセスマイニングの教科書─基礎理論からイベントログ分析、プロセス可視化、組織定着まで - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1126101031",
+      "summary": "2026年10月16日発売予定",
+      "published": "26 Jul 2026 14:59 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d8d00f54b8e28d8cc530bdf6cc8e3e",
+      "title": "Park by Robot at London Gatwick Airport",
+      "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "summary": "Article URL: https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Sun, 26 Jul 2026 14:40:27 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c683c4e30ec3be67dcb286726387b09c",
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "link": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "summary": "Article URL: https://pkg.go.dev/golang.org/x/tools/go/analysis Comments URL: https://news.ycombinator.com/item?id=49057398 Points: 107 # Comments: 6",
+      "published": "Sun, 26 Jul 2026 12:21:26 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c44b01824f66063e2eeed32d6f1c2fc",
+      "title": "Kill The Cookie Banner",
+      "link": "https://killthecookiebanner.eu/",
+      "summary": "Article URL: https://killthecookiebanner.eu/ Comments URL: https://news.ycombinator.com/item?id=49057175 Points: 148 # Comments: 77",
+      "published": "Sun, 26 Jul 2026 11:53:17 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "874577557ff0ace1db30a614251c2e4d",
+      "title": "📦 jenkinsci / jenkins ⭐ 25,628 (+8) 🗒 Ja…",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "summary": "📦 jenkinsci / jenkins ⭐ 25,628 (+8) 🗒 Java Jenkins automation server",
+      "published": "26 Jul 2026 16:16 +0000",
+      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-26T14:57:18.454049+00:00"
+  "updated_at": "2026-07-26T16:50:51.113198+00:00"
 }

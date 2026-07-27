@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "162ccab780f2055d1a00414040f4e12a",
-      "title": "さまざまなインフラ上でWebアプリケーションを構築、デプロイ、運用できるオープンソースのデプロイ基盤「OpenShip」リリース | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/07/openship",
-      "summary": "アプリのデプロイにとどまらず、データベース、ドメイン、CDN、SSL、メールサーバ、バックアップなどのインフラのケアもやってくれるということか。",
-      "published": "26 Jul 2026 15:45 +0000",
-      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "dcaa4b80ed1e15db0f01bb45ad743b61",
-      "title": "今月の AWS オブザーバビリティ – 2026年6月 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-june-2026/",
-      "summary": "「今月の AWS オブザーバビリティ」シリーズが始まったのか。",
-      "published": "26 Jul 2026 15:25 +0000",
-      "fetched_at": "2026-07-26T16:50:51.113198+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "a95fea463103bbef0651da9efa12bceb",
       "title": "Using ThinkPad T480 as a mobile phone",
       "link": "https://grego.site/blog/thinkphone",
@@ -1369,7 +1349,87 @@
       "fetched_at": "2026-07-27T19:15:03.168987+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "f3f934b72bde70719e518877c21b6590",
+      "title": "Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped",
+      "link": "https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/",
+      "summary": "Article URL: https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/ Comments URL: https://news.ycombi...",
+      "published": "Mon, 27 Jul 2026 18:15:35 +0000",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2b5bab6f8e3a6b30ececf32ec662c0c",
+      "title": "Paged Out #9 [pdf]",
+      "link": "https://pagedout.institute/download/PagedOut_009.pdf",
+      "summary": "Article URL: https://pagedout.institute/download/PagedOut_009.pdf Comments URL: https://news.ycombinator.com/item?id=49070138 Points: 121 # Comments: ...",
+      "published": "Mon, 27 Jul 2026 14:22:34 +0000",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5edb5377e8374c67c0b314a53d003cc4",
+      "title": "Fonts In Use – Find out where a font is used",
+      "link": "https://fontsinuse.com/",
+      "summary": "Article URL: https://fontsinuse.com/ Comments URL: https://news.ycombinator.com/item?id=49063523 Points: 102 # Comments: 12",
+      "published": "Sun, 26 Jul 2026 23:45:09 +0000",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca311f1bd234c94d53905663175aeebf",
+      "title": "エージェンティック AI と AWS Transform でメインフレームアプリケーションを再構想 (reimagine) する",
+      "link": "https://aws.amazon.com/jp/blogs/news/reimagine-your-mainframe-applications-with-agentic-ai-and-aws-transform/",
+      "summary": "本ブログでは、reimagine パターンによってメインフレームのレガシーアプリケーションをモダナイズする AWS のアプローチの概要を説明し、組織がレガシー COBOL アプリケーションをモダンなクラウドネイティブアーキテクチャに変換する方法を紹介します。",
+      "published": "Mon, 27 Jul 2026 20:21:44 +0000",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "995cb4bb127936d92e30b9f4ad5566fb",
+      "title": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/",
+      "summary": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution, giving you greater control over the streaming experience across diver...",
+      "published": "Mon, 27 Jul 2026 18:58:00 GMT",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdf265f46560654d410622c9913fe070",
+      "title": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/",
+      "summary": "AWS announces the preview of the AWS Security Hub MCP App, a local Model Context Protocol (MCP) server that brings your Security Hub exposure findings...",
+      "published": "Mon, 27 Jul 2026 17:00:00 GMT",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a87d227f0859d5a2259a69da3a6d9f17",
+      "title": "AWS Clean Rooms supports larger worker types up to 32 vCPUs for SQL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql",
+      "summary": "AWS Clean Rooms now supports larger worker types of 32 vCPUs with 244 GB of memory for SQL analyses, allowing you to run more compute and memory-inten...",
+      "published": "Fri, 24 Jul 2026 12:00:00 GMT",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f11f26a49a080575ffcae22d5b067243",
+      "title": "📦 vudovn / ag-kit ⭐ 7,848 (+5) 🗒 TypeScr…",
+      "link": "https://github.com/vudovn/ag-kit",
+      "summary": "📦 vudovn / ag-kit ⭐ 7,848 (+5) 🗒 TypeScript",
+      "published": "27 Jul 2026 19:16 +0000",
+      "fetched_at": "2026-07-27T21:03:19.153331+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-27T19:15:03.168987+00:00"
+  "updated_at": "2026-07-27T21:03:19.153331+00:00"
 }

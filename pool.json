@@ -1509,7 +1509,117 @@
       "fetched_at": "2026-07-28T19:10:57.088943+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "dc2769b09323825dd748a8cf13284752",
+      "title": "Donate to GrapheneOS",
+      "link": "https://grapheneos.org/donate",
+      "summary": "Article URL: https://grapheneos.org/donate Comments URL: https://news.ycombinator.com/item?id=49088451 Points: 194 # Comments: 50",
+      "published": "Tue, 28 Jul 2026 19:06:10 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05d41f4a76fda947a5a2a2e0273689ce",
+      "title": "Deflock Casa Grande",
+      "link": "https://deflockcg.com/",
+      "summary": "Article URL: https://deflockcg.com/ Comments URL: https://news.ycombinator.com/item?id=49088148 Points: 234 # Comments: 82",
+      "published": "Tue, 28 Jul 2026 18:41:48 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef07e8349eed522cca2bccad31f2609c",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "summary": "Article URL: https://www.anthropic.com/research/discovering-cryptographic-weaknesses Comments URL: https://news.ycombinator.com/item?id=49087091 Point...",
+      "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4136a28fa8a8af27d01a4992fd441032",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "link": "https://sbcl.org/all-news.html?2.6.7",
+      "summary": "Article URL: https://sbcl.org/all-news.html?2.6.7 Comments URL: https://news.ycombinator.com/item?id=49086971 Points: 134 # Comments: 43",
+      "published": "Tue, 28 Jul 2026 17:11:54 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de2fd5acd51b05547ddeeebf3aac3d36",
+      "title": "Substack writers, you need a website",
+      "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "summary": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/ Comments URL: https://news.ycombinator.com/item?id=49086788 Poin...",
+      "published": "Tue, 28 Jul 2026 16:58:31 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b35cb58aed09884fa5d0d8e69632db22",
+      "title": "Anthropeum – Where in the world, and when, does this human artifact belong?",
+      "link": "https://anthropeum.com/",
+      "summary": "Article URL: https://anthropeum.com/ Comments URL: https://news.ycombinator.com/item?id=49084989 Points: 114 # Comments: 32",
+      "published": "Tue, 28 Jul 2026 15:01:15 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9878a7988504866c50dfb211b541503",
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "summary": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemente...",
+      "published": "Tue, 28 Jul 2026 13:07:14 +0000",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6291e4990d6d61bb053bd50681d75cc",
+      "title": "Amazon EKS Provisioned Control Plane now delivers faster pod autoscaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-provisioned-control/",
+      "summary": "Amazon EKS now delivers faster pod autoscaling across all Provisioned Control Plane clusters by increasing Horizontal Pod Autoscaler (HPA) sync concur...",
+      "published": "Tue, 28 Jul 2026 17:18:00 GMT",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "dacb4c203f0dcf6a7ba35cef2c2aee59",
+      "title": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/",
+      "summary": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre as source or destination locations. AWS DataSync is a secure, high-speed ...",
+      "published": "Tue, 28 Jul 2026 10:00:00 GMT",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3351898aba252516d4d99b7e25413025",
+      "title": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports AWS PrivateLink for the cluster OIDC discovery and JWKS endpoint. You can now reach the en...",
+      "published": "Mon, 27 Jul 2026 18:00:00 GMT",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0dd2de398e5d35974685e47abe7da4f",
+      "title": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri/",
+      "summary": "Amazon Redshift announces the availability of All Upfront payment option for 3-year Serverless Reservations, providing up to 50% savings over on-deman...",
+      "published": "Fri, 24 Jul 2026 15:00:00 GMT",
+      "fetched_at": "2026-07-28T21:00:24.180712+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-28T19:10:57.088943+00:00"
+  "updated_at": "2026-07-28T21:00:24.180712+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d9f05cb0d802f16309598c1ca323e57f",
-      "title": "Announcing v1 of OpenTelemetry Go Compile-Time Instrumentation | OpenTelemetry",
-      "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Announcing v1 of OpenTelemetry Go Compile-Time Instrumentation",
-      "published": "27 Jul 2026 06:55 +0000",
-      "fetched_at": "2026-07-27T06:56:01.828793+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "32a1dc91457bd0b8fc64d80b54283449",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://findy-code.io/media/articles/chotto-wakaru-python",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 最近、なぜみんなuvを使っているんですか？ Pythonパッケージ管理の変遷と現在地 - Findy Media",
-      "published": "27 Jul 2026 03:55 +0000",
-      "fetched_at": "2026-07-27T06:56:01.828793+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2dfce8db0dbc7a275af40be708194a43",
       "title": "Our position on open-weights models",
       "link": "https://www.anthropic.com/news/position-open-weights-models",
@@ -709,7 +689,297 @@
       "fetched_at": "2026-07-28T08:19:09.052820+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "4d9b88d64629a6560fe3e2be93fc0136",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://openai.com/ja-JP/index/hugging-face-model-evaluation-security-incident/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenAI と Hugging Face、モデル評価中のセキュリティインシデント対応で連携 | OpenAI",
+      "published": "28 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c35089799b52b24d3ca9b5ae8bfa261",
+      "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition - Speaker Deck",
+      "link": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition",
+      "published": "28 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "667a0989a1eeac761952c5f814d9da81",
+      "title": "7.1 Earthquake in Japan",
+      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "summary": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528⟨=en Comments URL: https://news.ycombinator.com/item?id=49...",
+      "published": "Tue, 28 Jul 2026 07:44:24 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5da4137898742d1700060da608e0d5ea",
+      "title": "An Uncomplicated Man – A review of The Odyssey, directed by Christopher Nolan",
+      "link": "https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man",
+      "summary": "Article URL: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man Comments URL: https://news.ycombinator.com/item?id=49078575 Poi...",
+      "published": "Tue, 28 Jul 2026 02:35:28 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "edfdcd70d7f99d68a94e6078b2d9e611",
+      "title": "Vehicle Motion Cues",
+      "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "summary": "Article URL: https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios Comments URL: https://news.ycombinator.com/it...",
+      "published": "Tue, 28 Jul 2026 01:13:26 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "53979f52175c70e8c8672cab86a231af",
+      "title": "DConf 2026 in London",
+      "link": "https://dconf.org/2026/index.html",
+      "summary": "Article URL: https://dconf.org/2026/index.html Comments URL: https://news.ycombinator.com/item?id=49076840 Points: 102 # Comments: 44",
+      "published": "Mon, 27 Jul 2026 23:14:19 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7516d904f71a1fbbb1ff00a0465bd563",
+      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+      "link": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "summary": "Article URL: https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html Comments URL: https://news.ycombin...",
+      "published": "Mon, 27 Jul 2026 19:46:05 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5bc49a73e8a6be73b9fdbaae89840a89",
+      "title": "ベルキン、Switch 2を最大2.5倍遊べる充電グリップ ＆ プロコン2台も入るSwitch 2トラベルバッグ発売 10000mAhバッテリーをマグネット装着",
+      "link": "https://www.techno-edge.net/article/2026/07/28/5341.html",
+      "summary": "Nintendo Switch 2アクセサリに注力するベルキンが、新作「Gaming Switch 2 モバイルバッテリー付充電グリップ」と「Gaming Switch 2 トラベルバッグ」を発売しました。",
+      "published": "Tue, 28 Jul 2026 20:49:43 +0900",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd23fa1fed24ac4d5376bcd898e9cd81",
+      "title": "GMO、浅田真央さん旧ドメイン問題後に表記修正 優良中古ドメインは「AIが選定」",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000230/",
+      "summary": "GMOインターネットは、ドメイン登録サービス「お名前.com」の中古ドメイン販売ページで、おすすめドメインをランキング表示している部分に、「掲載リストはAIによって選定されています」との注記を、7月下旬までに追加した。 また従来、「SEO対策に最適」「アフィリエイトサイトに」「新規サービス・商品サイ...",
+      "published": "2026-07-28T07:15:53Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e7401f15225bdb4056d5cf75a6a9ffd",
+      "title": "セブン、店内で焼き上げる「ピザ」発売 1人分のハンディサイズ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2128399.html",
+      "summary": "",
+      "published": "2026-07-28T04:37:07Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3faead3131e5ee124ca046d63ffb5e8d",
+      "title": "中国製高性能AI「Kimi-K3」が予定通りオープンモデル化される、2.8兆パラメーターでClaude Fable 5やGPT-5.6 Solに迫る性能",
+      "link": "https://gigazine.net/news/20260728-kimi-k3-open/",
+      "summary": "中国企業のMoonshot AIが自社製AIモデル「Kimi K3」をオープンモデルとして公開しました。 Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model: a...",
+      "published": "2026-07-28T02:32:32Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4841ca8536094185afe157eab7650b7",
+      "title": "Microsoftがセキュリティ特化AI「MAI-Cyber-1-Flash」を発表、GPT-5.4と組み合わせてClaude Mythos 5超えのセキュリティ能力を低コストで発揮",
+      "link": "https://gigazine.net/news/20260728-microsoft-mai-cyber-1-flash/",
+      "summary": "MicrosoftがAIセキュリティシステム「MDASH」に、セキュリティ用AIモデル「MAI-Cyber-1-Flash」を組み込んだことを発表しました。これにより、主要モデルと比べて半分のコストで世界トップクラスのパフォーマンスが発揮できるとのことです。 Introducing MAI-Cybe...",
+      "published": "2026-07-28T06:35:38Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af097ed2168aa78305d0fc4d3b2c93db",
+      "title": "イーロン・マスクが決済サービス「X Money」の正式サービスをスタート",
+      "link": "https://gigazine.net/news/20260728-x-money/",
+      "summary": "X(旧Twitter)が決済サービスの「X Money」を、招待制のベータ版から正式サービスへと移行しました。Apple Wallet対応で、記事作成時点ではアメリカでのみ利用可能です。 X Money — Every dollar works harder on X https://money.x...",
+      "published": "2026-07-28T03:06:15Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35fd634f8ccb18b99d12e1515194ccfd",
+      "title": "マイナアプリ、8月25日提供開始 マイナポータルとデジタル認証アプリを統合",
+      "link": "https://www.watch.impress.co.jp/docs/news/2128522.html",
+      "summary": "",
+      "published": "2026-07-28T06:12:35Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "610de170d1b92cd91c350d3f2cc740f7",
+      "title": "警視庁が警鐘、「詐欺ではない」「儲かった」…あらかじめ偽の評判を拡散しておく投資詐欺の新たな手口【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2128375.html",
+      "summary": "",
+      "published": "2026-07-28T03:17:53Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "643522171da4218b47e97e9cd9a312fb",
+      "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル",
+      "link": "https://gigazine.net/news/20260728-amd-instella-moe/",
+      "summary": "AMDが自社製GPUや自社製ソフトウェアを用いて開発したAIモデル「Instella-MoE」を公開しました。Instella-MoEは事前学習済みモデルや中間学習済みモデルなど多様なバリエーションが無料公開されているほか、学習に使用したコードやフレームワークも公開されています。 Introduci...",
+      "published": "2026-07-28T04:11:00Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b6d079a11c7eec336fc2c1b5ab278e9",
+      "title": "自分の顔をAIにレンタルする行為が中国で流行",
+      "link": "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
+      "summary": "顔を無断で使用した動画が権利関係の問題で削除される事例が中国で相次いでいます。こうした状況を逆手に取り、最初から顔の使用権を販売しようとするビジネスモデルが成立していることが伝えられました。 In China, people are renting out their faces to AI htt...",
+      "published": "2026-07-28T06:20:16Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "24e50f4abe5c8cfc4c43800e31e6b61a",
+      "title": "AIのトークン価格を10分の1にできる「プロンプトキャッシュ」の仕組みとは？",
+      "link": "https://gigazine.net/news/20260727-prompt-caching/",
+      "summary": "OpenAIのGPTシリーズやAnthropicのClaudeなどの大規模言語モデル(LLM)では、同じプロンプトを繰り返し利用する場合に入力トークンの処理を再利用する「プロンプトキャッシュ」が導入されており、通常の入力トークンと比べて約10分の1の料金で利用できる場合があります。開発者向けサービス...",
+      "published": "2026-07-27T23:13:56Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd0016204910d21f6159da1a581e81e9",
+      "title": "DGX Sparkと同じAI性能を激安で!?独自プロセッサで100BのLLMを走らせられるミニPC",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2128607.html",
+      "summary": "",
+      "published": "2026-07-28T10:33:51Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64a873744dbe91e9fe0e31622231e7e5",
+      "title": "「Windows Live Writer」をオープンソース化した「Open Live Writer」に9年ぶりの動き、Mac版が登場／オープンソースの無償ブログ投稿ソフト",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2128322.html",
+      "summary": "",
+      "published": "2026-07-28T07:46:19Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f35a8286dbda1be030cc4cec394827a1",
+      "title": "150コンテンツの「信頼性の高い」情報を一括検索 KDDIが新AIサービス「Buffmee」提供、1年間は無制限で利用可能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2607/28/news070.html",
+      "summary": "KDDIは2025年10月に、グーグル・クラウド・ジャパンとAIサービスの提供を目的とした戦略的協業契約を締結した。この協業により、Google Cloudのプラットフォームを活用してBuffmeeを開発した。 約150メディアから提供される信頼性の高いコンテンツを情報源に Buffmeeは、メディ...",
+      "published": "2026-07-28T03:02:52Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d89e9e2ba762691108bdc94cf22dc10e",
+      "title": "Apple、「iOS 26.6」「iPadOS 26.6」を公開 ～「iOS 27」に備え「Spotlight」索引を最適化／脆弱性の修正件数は、CVE番号ベースで計87件",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2128314.html",
+      "summary": "",
+      "published": "2026-07-27T23:05:40Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "52e508a5ec44124d6a570eaa797bce57",
+      "title": "NVIDIAの革ジャンCEOと同じメニューを東京の居酒屋で食べてきたよレポート、時価総額世界一のCEOは一体何を食べたのか？",
+      "link": "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
+      "summary": "2026年7月15日にNVIDIAのジェンスン・フアンCEOが来日し、東京の居酒屋「やきとん三吉 神田北口店」で食事しました。その際のメニューがそのまま「ご来店記念コース」としてコースメニュー化していたので、実際に予約して食べてきました。時価総額世界一の企業のCEOが一体どんなものを食べたのか、詳し...",
+      "published": "2026-07-28T00:42:34Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b0af450ac829115c609fb4d42cf465e",
+      "title": "いまさら聞けない、NTTが推進する「IOWN」って何？",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2128073.html",
+      "summary": "",
+      "published": "2026-07-27T23:27:54Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34aff9fd0a4782d57dedfdfa675b229a",
+      "title": "「Simple Made Easy」の観点から、UI/UXはどうあるべきか",
+      "link": "https://zenn.dev/pksha/articles/6cdf19e5fe8065",
+      "summary": "決定的な違いは、Simple は「モノの構造」の話、Easy は「人との親近性」の話だということです。あるツールが Easy かどうかは「あなたが慣れているか」で変わります。一方、Simple かどうかは「内部が絡み合っているか」だけで決まります。 Complect と Compose Hickey...",
+      "published": "2026-07-27T22:44:19Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d50a39e17c80d7ebb36759121789f33",
+      "title": "「SIer丸投げ」からどう脱却する？ “非ITエンジニア9割”でシステム刷新に挑んだJFEスチールに学ぶ",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/28/news016.html",
+      "summary": "1. 過去に一度は断念、「非ITエンジニア9割」でやり切ったJFEスチール 最初に取り上げるのは、システム刷新の主導権を自社で握ったJFEスチールの事例（「なぜ、JFEスチールは『非ITエンジニア9割』でシステムモダナイズに挑んだのか？ 刷新成功の舞台裏」）です。同社は過去、システム刷新を断念した経...",
+      "published": "2026-07-28T00:07:55Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bef235a73995255b402dcb802f9384d",
+      "title": "AnthropicがAI学習のために数百万冊の紙の本を裁断してデジタル化しまくるため希少本が失われると懸念の声、イーロン・マスクは「SpaceXAIはそんなことしない」とアピール",
+      "link": "https://gigazine.net/news/20260728-anthropic-books/",
+      "summary": "AnthropicはAI・Claudeを開発するために海賊版書籍を使ったとして作家グループに訴えられていましたが、2026年7月27日にAnthropicと原告の和解案が承認されました。しかし、その裁判資料からAnthropicが「数百万冊もの印刷された書籍を製本から裁断してスキャンした後、AIのト...",
+      "published": "2026-07-28T07:07:28Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2eb00764e6aefd5efe27429bf216940",
+      "title": "「オープンウェイト禁止は求めていない」Anthropicが反論",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2128329.html",
+      "summary": "",
+      "published": "2026-07-28T01:16:00Z",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aaf351d00a154fda28a6489b39551744",
+      "title": "The MusicTech Magazine July/August 2026 issue is coming: here’s how to get your copy",
+      "link": "https://musictech.com/news/magazine/musictech-magazine-july-august-2026-issue-how-to-buy/?utm_source=rss&utm_medium=rss&utm_campaign=musictech-magazine-july-august-2026-issue-how-to-buy",
+      "summary": "It’s on sale this week, and comes bundled with NME Magazine. The post The MusicTech Magazine July/August 2026 issue is coming: here’s how to get your ...",
+      "published": "Tue, 28 Jul 2026 11:00:43 +0000",
+      "fetched_at": "2026-07-28T11:51:17.530233+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-28T08:19:09.052820+00:00"
+  "updated_at": "2026-07-28T11:51:17.530233+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1f8cb12b4347d0985089da61ea3944b0",
-      "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
-      "published": "26 Jul 2026 23:55 +0000",
-      "fetched_at": "2026-07-27T02:08:20.585839+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1445d8a42c014bb8e5da7a5cd3add94b",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "summary": "Claude Opus 5 is available today. It’s a thoughtful and proactive model that comes close to the frontier intelligence of Claude Fable 5 at half the pr...",
-      "published": "2026-07-15T00:43:40Z",
-      "fetched_at": "2026-07-27T02:08:20.585839+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "d9f05cb0d802f16309598c1ca323e57f",
       "title": "Announcing v1 of OpenTelemetry Go Compile-Time Instrumentation | OpenTelemetry",
       "link": "https://opentelemetry.io/blog/2026/go-compile-time-instrumentation-v1/",
@@ -579,7 +559,157 @@
       "fetched_at": "2026-07-28T04:56:48.241511+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "d9b724ad257e23d9be9c2fbe7390c8ac",
+      "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
+      "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
+      "published": "28 Jul 2026 06:55 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7edfcd0d1f11438ac8f3c0a1cfe9e1db",
+      "title": "やると言ったら結末を見せる、実行力と突破力の身につけ方 - 941::blog",
+      "link": "https://blog.kushii.net/archives/2026/07/23/092230",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 やると言ったら結末を見せる、実行力と突破力の身につけ方",
+      "published": "28 Jul 2026 05:55 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a68cce06573276d812f7538d13a8698",
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "link": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "Article URL: https://fermisense.com/when-machines-take-the-wheel/ Comments URL: https://news.ycombinator.com/item?id=49078454 Points: 148 # Comments: ...",
+      "published": "Tue, 28 Jul 2026 02:18:53 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbae4bb343c5397249b4b462333f6167",
+      "title": "EngineLab AI: スタジオとクリエイターのための AWS 上のプロダクション環境対応 AI",
+      "link": "https://aws.amazon.com/jp/blogs/news/jp-mne-enginelab-ai-production-ready-ai-for-studios-and-creators-on-aws-2/",
+      "summary": "スタジオは難しいジレンマに直面しています。AI ツールは制作ワークフローの効率化を約束する一方で、導入にあたってはセキュリティ、知的財産 (IP) の保護、制作の安定性に関する現実的な懸念と向き合わなければなりません。本記事では、このトレードオフを解消するソリューションを紹介します。AI コンテンツ...",
+      "published": "Tue, 28 Jul 2026 06:07:43 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e2e4f7c71c501a673603a2608890d4e",
+      "title": "Outpost VFX が ビジュアルエフェクト向けに AI モデルのトレーニングを AWS で加速した方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/jp-mne-how-outpost-vfx-uses-aws-to-accelerate-ai-model-training-for-visual-effects-2/",
+      "summary": "本記事では、Outpost VFX が AWS インフラを活用してトレーニング速度を 8 倍に向上させ、顔置換ワークフローを刷新した方法、単一 GPU の限界を克服するために実装した技術アーキテクチャ、そして AWS マルチ GPU トレーニングで得られた具体的な成果について紹介します。",
+      "published": "Tue, 28 Jul 2026 05:59:01 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f845fe3bafbcccef6efab8116c6a15f",
+      "title": "全従業員の行動変容を目指すAstemo が自己破壊を経て見つけたAI駆動開発の実効性",
+      "link": "https://aws.amazon.com/jp/blogs/news/astemo-ai-dlc/",
+      "summary": "2026年6月10日〜12日、AWS Japan オフィスにて「AI-DLC UnicornGym」を開催しま […]",
+      "published": "Tue, 28 Jul 2026 05:15:00 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dbd695b13d97f84663ea79df9401c52",
+      "title": "We Stopped Using RSC on TanStack.com | TanStack Blog",
+      "link": "https://tanstack.com/blog/we-stopped-using-rsc-on-tanstack-com",
+      "summary": "Earlier this year, tanstack.com became one of my favorite examples for React Server Components. Our content-heavy pages were shipping a giant markdown...",
+      "published": "2026-07-25T05:06:44Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b0488977bd9380bb55d173d6bd90587",
+      "title": "先端GPUを支える電力供給と冷却技術（後編） | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/computex2026-2",
+      "summary": "前編ではおもに冷却関連の展示を紹介しました。本稿では冷却と対をなす電力供給について、COMPUTEX会場の展示とセッションについて、前編同様に写真を中心に見ていきましょう。 200kWラック NVIDIAのVera Rubin NVL72 ラック（写真1）の消費電力は200kW台と言われています。 ...",
+      "published": "2026-07-28T02:42:41Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8377b345fc810e37f2a063d34b247384",
+      "title": "説明可能AI(XAI)の現状と展望",
+      "link": "https://kaityo256.github.io/explainable-ai-review",
+      "summary": "はじめに 研究室ミーティングで以下のような話をしました。 What is XAI? @ Speakerdeck 最近、うちの研究室では説明可能AI(eXplainable Artificial Intelligence, XAI)の研究を進めています。ただ、XAIの概念は定義が曖昧であり、また研究の...",
+      "published": "2026-07-26T00:54:26Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dbb36aa34af8150cdb1c7a2659746eb",
+      "title": "Mac mini（M4 Pro / 48GB）で「完全ローカル」のLLM + RAG環境を構築してみた - Qiita",
+      "link": "https://qiita.com/y-okayama-tb/items/0127a7c5203f44507474",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "published": "2026-07-27T23:37:08Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d21be27d80d304effb7ce9ac3ec22087",
+      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/",
+      "summary": "「痺れるほどにミスを繰り返す」「おバカさん」――米Googleが7月21日（現地時間）に一般提供を始めたAIモデル「Gemini 3.6 Flash」を巡って、リリース直後から回答の精度を疑問視する声がXで相次いだ。初歩的な数値比較を間違えたり、実在しない魚についてもっともらしい解説を始めたりと、思...",
+      "published": "2026-07-28T07:33:40Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "50d52ac149778dfc7938326a8be29d71",
+      "title": "哲学者「杉尾一」と対談：「量子論を巡る争いの中で、ボーアとアインシュタインは何を考えていたの？」-実在をめぐって",
+      "link": "https://innovatopia.jp/tech-social/tech-social-news/114083/",
+      "summary": "「実在する」とは、そもそもどのようなことなのでしょうか。私たちはNMRやIRといった分光測定を通じて、目には見えない「分子の形」を理解し、やがて原子や分子の存在を自然に受け入れるようになってきました。けれども、そもそも直接見ることのできないものを「ある」と言ってよいのでしょうか。 さらに考えを進めれ...",
+      "published": "2026-07-27T04:16:47Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3580f3fd0eeb09dc5e92df0b68c1b500",
+      "title": "Envoyをサーキットブレーカーに加えて、Outlier Detectionも使ってサービスを守る - Tabelog Tech Blog",
+      "link": "https://tech-blog.tabelog.com/entry/envoy-circuit-breaker-outlier-detection",
+      "summary": "こんにちは！食べログ開発本部技術部SREチームの浅野 @atpons です。食べログでは、各種サービス間の通信において、Envoyの導入を進めています。今回はその中でもOutlier Detection機能について検証と導入を進めた話をします。 Envoyを導入した経緯 食べログにおいて、システムの...",
+      "published": "2026-07-28T05:20:12Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6c4c7a5bbcdb59f14a00fc863b3fccb",
+      "title": "今週のはてなブックマーク数ランキング（2026年7月第4週） - はてなブックマーク開発ブログ",
+      "link": "https://bookmark.hatenastaff.com/entry/2026/07/28/120053",
+      "summary": "はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。7月20日（月）～7月26日（日）〔2026年7月第4週〕のトップ30です*1。 順位 タイトル 1位 高市首相「0～3時間睡眠が常態化」 Xで多忙ぶりアピール | 毎日新聞 2位 [PDF]株式会社はてな...",
+      "published": "2026-07-28T03:02:30Z",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10152f0dc735aec5fcf709a9b6de3917",
+      "title": "Thingstone Track8’s tape-style workflow is almost the perfect DAWless recording solution",
+      "link": "https://musictech.com/reviews/studio-recording-gear/thingstone-track8-review/?utm_source=rss&utm_medium=rss&utm_campaign=thingstone-track8-review",
+      "summary": "Tactile and immediate, Track8 revitalises classic eight-track workflows with a little modern muscle – but is its retro charm enough to overcome its li...",
+      "published": "Tue, 28 Jul 2026 08:00:27 +0000",
+      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-28T04:56:48.241511+00:00"
+  "updated_at": "2026-07-28T08:19:09.052820+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "34c8304ec16e62f775b07e338013e8a1",
-      "title": "Amazon SageMaker Unified Studio adds custom visual transforms",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio",
-      "summary": "With Amazon SageMaker Unified Studio, you can now create, share, and reuse custom visual transforms in visual ETL flows. This capability enables data ...",
-      "published": "Fri, 17 Jul 2026 21:40:00 GMT",
-      "fetched_at": "2026-07-28T04:56:48.241511+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "d9b724ad257e23d9be9c2fbe7390c8ac",
       "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
       "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
@@ -749,7 +739,157 @@
       "fetched_at": "2026-07-29T08:24:52.315162+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "617211c7bddee3d1ef00af70b56601aa",
+      "title": "How I Came to Embrace the Code Review Bottleneck",
+      "link": "https://www.honeycomb.io/blog/embracing-code-review-bottleneck",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Embracing the Code Review Bottleneck",
+      "published": "29 Jul 2026 10:55 +0000",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80f990d1b667d09b9aa1fd63c4b78b07",
+      "title": "I made a policy engine think it was in production | CNCF",
+      "link": "https://www.cncf.io/blog/2026/07/22/i-made-a-policy-engine-think-it-was-in-production/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 I made a policy engine think it was in production",
+      "published": "29 Jul 2026 08:55 +0000",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a670dfad45968e3da942420a6b28d0cc",
+      "title": "売り切れ必至、XREALが公式リユースセール開催 最上位XREAL One Proが3万円オフ・最新モデルXREAL 1Sも格安の整備品",
+      "link": "https://www.techno-edge.net/article/2026/07/29/5345.html",
+      "summary": "XREALがARグラスを割安で購入できる「公式リユース販売」を実施中です。対象は「XREAL One」、最上位モデル「XREAL One Pro」（M/Lサイズ）、最新の標準モデル「XREAL 1S」の3機種、台数は先着300台。",
+      "published": "Wed, 29 Jul 2026 18:49:53 +0900",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7cbd6a651c8ab67ccf110e3bbebac5f",
+      "title": "AWS Weekly Roundup: アテネのローカルゾーン、AWS 上の Claude Opus 5、.NET 用の Lambda 永続実行など (2026 年 7 月 27 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-july-27-2026/",
+      "summary": "2026 年 7 月 20 日週、私はサンパウロで中南米各地のテクニカルビルダーと 3 日間過ごす機会に恵まれ […]",
+      "published": "Wed, 29 Jul 2026 08:27:25 +0000",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0882dc1a5896942a3eb652a6774d9ad",
+      "title": "ヨドバシ.com、領収書の「商品同梱」「メール送信」終了",
+      "link": "https://www.watch.impress.co.jp/docs/news/2128868.html",
+      "summary": "",
+      "published": "2026-07-29T04:58:34Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ef34a2f0b8a567a9364a5939ca878a2",
+      "title": "世界を席巻する中国の人型ロボット、米国が輸入を禁止 「容認できない」安保リスク",
+      "link": "https://www.cnn.co.jp/business/35251078.html",
+      "summary": "生産施設で製造ラインから出荷された人型ロボット「EngineAI T800」＝7月24日、中国・鄭州/VCG/Getty Images （CNN） 米政府が外国テクノロジー依存の低減に動く中、世界の人型ロボット（ヒューマノイド）の大部分を供給する中国が突然、最大の輸出市場から締め出された。 トランプ...",
+      "published": "2026-07-29T08:36:08Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e901c5ccf0b3822bde5cb686a30784b5",
+      "title": "デジタル庁、AI基盤「源内」を被災自治体などに緊急提供 「平時をはるかに超える業務」対応のため",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/29/2000000268/",
+      "summary": "デジタル庁は7月29日、政府職員向けの生成AI利用環境「ガバメントAI 源内」（以下、源内）を、「令和8年熊本地震」の被災自治体や関係自治体、災害対策機関などに緊急提供すると発表した。災害情報の集約や整理、共有に利用される。 デジタル庁は今回の提供目的について、災害情報の処理で「平時をはるかに超える...",
+      "published": "2026-07-29T04:19:30Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed7bb8bf824c4c36458315e9072f6239",
+      "title": "PFN、防衛装備庁の 「生成AI等を用いた作戦環境情報分析支援実現に関する実証」を受託 - 株式会社Preferred Networks",
+      "link": "https://www.preferred.jp/ja/news/pr20260729",
+      "summary": "PFN、防衛装備庁の 「生成AI等を用いた作戦環境情報分析支援実現に関する実証」を受託国産AI技術により、安全保障・防災分野における指揮統制支援の高度化に貢献 株式会社Preferred Networks（本社：東京都千代田区、代表取締役社長：岡野原 大輔、以下、PFN）は、防衛装備庁 新世代装備研...",
+      "published": "2026-07-29T04:23:07Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fb40dd91fdf6c34ace627e4eaea01b1",
+      "title": "超小型な多言語ベクトル検索モデル Bekko Embedding を公開 - A Day in the Life",
+      "link": "https://secon.dev/entry/2026/07/29/080000-bekko-embedding/",
+      "summary": "インストールせずに試すこともできます。bekko-embedding-web のデモはモデルをブラウザに読み込み、そのままブラウザ上で実行します。 小型モデルを作った理由 コーディング・AIエージェントの台頭により、PCの使い方が変わりました。LLMの推論はAPIの先にあるフロンティアモデルが行うた...",
+      "published": "2026-07-29T05:40:02Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae67113315bf32de0c292bc50cfe98d8",
+      "title": "GPT-5.6とBlender MCPで、多少マシな3Dモデリングをさせるまで",
+      "link": "https://zenn.dev/test_myname/articles/gpt-5-6-blender-mcp-modeling",
+      "summary": "Vtuberの「ぷらむらいす」です。 GPT-5.6とBlender MCPを使い、1枚の見本画像から「銀装飾の黒いアンティーク鍵」を3Dモデリングさせました。 単純に「この画像を参考に作ってください」と頼むだけでは、キューブ、円柱、球などを並べた積み木のようなモデルになります。そこで今回は、Ble...",
+      "published": "2026-07-29T04:57:30Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3953da9baec6d1db85c04ceb39022ff6",
+      "title": "Claudeと「最強タッグ」の低価格LLMは？「高品質＆低コスト」併用法を60回のガチ検証",
+      "link": "https://www.sbbit.jp/article/cont1/186249",
+      "summary": "高機能なLLMモデルの進化が著しい一方、利用にあたっては高額なコストや利用上限が課題となっている。しかし、単純タスクまですべてを高価なAIに任せるのは利用コストやトークン消費などの観点から“大損”だ。品質を落とさずコストを抑えるために有効なのが、高額で高機能なLLMと低価格LLMを組み合わせる手法で...",
+      "published": "2026-07-28T22:11:10Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "584fda1daf63b5dbb0ee54a6f0ffa1e4",
+      "title": "日本通信が新ブランド「blue mobile」を発表 ネオキャリアで自由な通信環境へ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2607/29/news049.html",
+      "summary": "日本通信は7月28日開催のFPoS Developers Conference 2026で、ネオキャリアのブランドである「blue mobile」と同ブランドのロゴを発表した。同社はNTTドコモの音声通信網およびSMS網との相互接続に基づき、11月24日にネオキャリアとしての新サービスを開始する予定...",
+      "published": "2026-07-29T02:21:41Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "699c23dd9b959375de97d7d5e3dd2663",
+      "title": "TSMC熊本工場、段階的に通常操業へ 熊本の地震で一時中断、従業員の無事確認 台湾報道",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000266/",
+      "summary": "半導体受託製造大手の台湾TSMCは7月28日夜、同日午後に熊本県で発生した最大震度7の地震の影響で操業を一時中断していた子会社JASM（熊本県菊陽町）について、段階的に通常操業に戻りつつあると回答した。台湾紙・経済日報が、TSMCへの取材を基に報じた。 JASMが立地する菊陽町では最大震度5強を観測...",
+      "published": "2026-07-29T03:02:53Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7418674292a6bb6ab29182bf4cebcc7",
+      "title": "Gemini Spark、日本でもProプランで利用可能に 24時間働く「AIパートナー」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2128877.html",
+      "summary": "",
+      "published": "2026-07-29T07:43:37Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e6384fb8f7bd13b1b9cb9cc31f59f0",
+      "title": "【やじうまミニレビュー】 手のひらに収まるページめくりデバイス「BOOX Tappy」。スマホでも使えるか？",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2128697.html",
+      "summary": "",
+      "published": "2026-07-28T22:49:04Z",
+      "fetched_at": "2026-07-29T11:55:18.209569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-29T08:24:52.315162+00:00"
+  "updated_at": "2026-07-29T11:55:18.209569+00:00"
 }

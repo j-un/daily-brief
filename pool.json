@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d9b724ad257e23d9be9c2fbe7390c8ac",
-      "title": "フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
-      "link": "https://zenn.dev/cybozu_frontend/articles/opentelemetry-browser-frontend",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 フロントエンドに広がりつつある OpenTelemetry：Browser SDK の現在地",
-      "published": "28 Jul 2026 06:55 +0000",
-      "fetched_at": "2026-07-28T08:19:09.052820+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1c35089799b52b24d3ca9b5ae8bfa261",
       "title": "2026年のソフトウェア開発を考える（2026/07版） / Agentic Software Engineering 2026-07 Findy Edition - Speaker Deck",
       "link": "https://speakerdeck.com/twada/agentic-software-engineering-2026-07-findy-edition",
@@ -889,7 +879,157 @@
       "fetched_at": "2026-07-29T11:55:18.209569+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "541819487db05511d2dac20cb8a67a2e",
+      "title": "French musician Kavinsky found dead",
+      "link": "https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home",
+      "summary": "Article URL: https://www.euronews.com/culture/2026/07/29/dj-kavinsky-known-for-his-track-nightcall-found-dead-at-his-paris-home Comments URL: https://...",
+      "published": "Wed, 29 Jul 2026 11:54:37 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "747a822282fbf78ea44427d0e1d9d449",
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "summary": "Article URL: https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/ Comments URL: https://news.ycombinator.com/item?id=49096188...",
+      "published": "Wed, 29 Jul 2026 11:44:33 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "549630efb5b39c3cf6b0ddfb674c82fe",
+      "title": "KOReader",
+      "link": "https://koreader.rocks/",
+      "summary": "Article URL: https://koreader.rocks/ Comments URL: https://news.ycombinator.com/item?id=49095865 Points: 214 # Comments: 79",
+      "published": "Wed, 29 Jul 2026 11:05:08 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a99ff38362efe3d9ce3952731631f2ef",
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "link": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+      "summary": "Article URL: https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers Comments URL...",
+      "published": "Wed, 29 Jul 2026 07:18:24 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dfe4e882cbee99ddebcf1cd68ca0bd0",
+      "title": "膝も支える外骨格パワードスーツDnsys BOOSTSUIT X1 / Z1国内先行販売まもなく終了、最大35%オフ",
+      "link": "https://www.techno-edge.net/article/2026/07/29/5346.html",
+      "summary": "香港のDnsys Innovation Limitedが開発する外骨格パワードスーツ「Dnsys BOOSTSUIT」を最大35%オフで入手できる国内クラファンが、まもなく7月30日(木)22:00に終了します。",
+      "published": "Wed, 29 Jul 2026 21:05:14 +0900",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "44085304052d70f9f950026ce0fe902e",
+      "title": "[石川温の「スマホ業界 Watch」] iPhone Airがアマゾンで異例の大幅値引き、叩き売りとなった理由とは",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2129015.html",
+      "summary": "",
+      "published": "2026-07-29T09:31:17Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "653e7506bb62713f340267c03bffa502",
+      "title": "Microsoft、JavaScriptからWinRT APIを直接呼び出せる仕組みをパブリックプレビュー／Electron/Node.jsアプリからローカルAIや通知を利用。動的な生成で従来の不便を解消",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2128639.html",
+      "summary": "",
+      "published": "2026-07-29T01:51:36Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b560581f65a0e01d7eb2fec46ac633f9",
+      "title": "OpenAI、脆弱性の発見・検証・修正を行う「Codex Security CLI」をオープンソース公開／CI/CDへ組み込むことも可能",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2128824.html",
+      "summary": "",
+      "published": "2026-07-29T10:34:06Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1832649f4b090ed87429c409e1305f42",
+      "title": "これはめちゃ便利！ WindowsからiPhoneに、macOSからAndroidに、異なるOS・デバイス間でファイルを転送できる無料アプリ -LocalSend",
+      "link": "https://coliss.com/articles/build-websites/operation/work/securely-share-files-with-nearby-devices-over-a-local-network.html",
+      "summary": "iPhoneやMac間でファイルを転送できるAirDropが、WindowwsやAndroidでも使えたらなと思っている人もいると思います。 WindowsでもAndroidでも、さらにはmacOSとiOSの異なるOS、異なるデバイス間でファイルを高速に転送できる無料アプリを紹介します。 Local...",
+      "published": "2026-07-29T01:08:43Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92831af0cb77f1f9a35c852e6d13d490",
+      "title": "https://pc.watch.impress.co.jp/docs/news/2128990.html",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2128990.html",
+      "summary": "",
+      "published": "2026-07-29T09:10:57Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9044ebdc0eda5bdf7e450237a253f3fa",
+      "title": "第921回 Canonical Workshopでコーディングエージェントの実行環境を作る | gihyo.jp",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0921",
+      "summary": "Claude CodeやCodexのようなコーディングエージェントは便利ですが、ホームディレクトリを破壊したりといった怖い話も聞きますよね。今回はCanonicalがリリースしたWorkshopというツールでサンドボックス環境を構築し、ホスト環境を守りながらコーディングエージェントを動作させる方法を...",
+      "published": "2026-07-29T02:56:09Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5f9fb5192948c895d541174d003c0bf",
+      "title": "エンジニアとの1on1で、何を聞けばいいのか｜かわまた／コミュニケーションドラフト代表",
+      "link": "https://note.com/r_kawamata/n/n1069305684cb",
+      "summary": "こんにちは、コミュニケーションドラフト代表の河又です。 前回の「非エンジニアの技術広報は、技術をどこまで学べばいいのか」には多くの反響をいただきました。ありがとうございます。 まだ読んでないよ、という方はぜひ、一度読んでみていただけると嬉しいです。 さて、その前回の記事では「最高のイマージョンの場は...",
+      "published": "2026-07-28T05:12:27Z",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c86d2ef64618dca7e087ba91ad9da3e",
+      "title": "📦 different-ai / openwork ⭐ 17,436 (+58)…",
+      "link": "https://github.com/different-ai/openwork",
+      "summary": "📦 different-ai / openwork ⭐ 17,436 (+58) 🗒 TypeScript The open-source alternative to Claude Cowork (powered by opencode)",
+      "published": "29 Jul 2026 13:16 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69643613bb119cbcdbb5a89a35013da6",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Moo…",
+      "link": "https://github.com/MoonshotAI/FlashKDA",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 MoonshotAI / FlashKDA ⭐ 893 (+216) 🗒 Cuda FlashKDA: high-performance Kimi Delta Attention kernels",
+      "published": "29 Jul 2026 12:16 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "60b990dd4dd96066272f4b7fb58ec1aa",
+      "title": "You can run Doom on a modular synth – who knew?",
+      "link": "https://musictech.com/news/gear/you-can-run-doom-on-a-modular-synth/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-run-doom-on-a-modular-synth",
+      "summary": "One engineer has built a website that makes your Workshop Computer module Doom-compatible. The post You can run Doom on a modular synth – who knew? ap...",
+      "published": "Wed, 29 Jul 2026 12:22:27 +0000",
+      "fetched_at": "2026-07-29T13:50:18.246462+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-07-29T11:55:18.209569+00:00"
+  "updated_at": "2026-07-29T13:50:18.246462+00:00"
 }

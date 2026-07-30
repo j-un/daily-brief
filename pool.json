@@ -9,7 +9,97 @@
       "fetched_at": "2026-07-30T11:46:01.699645+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "dc77fa3dd7f3c4501ac80e03da774284",
+      "title": "So you want to use plants to reduce CO₂",
+      "link": "https://dynomight.net/plants/",
+      "summary": "Article URL: https://dynomight.net/plants/ Comments URL: https://news.ycombinator.com/item?id=49113801 Points: 101 # Comments: 81",
+      "published": "Thu, 30 Jul 2026 18:31:02 +0000",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dba5a92f23d0cce01e7ee8f1b7d80552",
+      "title": "CodePen 2.0",
+      "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "summary": "Article URL: https://chriscoyier.net/2026/07/30/codepen-2-0/ Comments URL: https://news.ycombinator.com/item?id=49113338 Points: 104 # Comments: 26",
+      "published": "Thu, 30 Jul 2026 17:52:51 +0000",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "59c69ed156278315ee01a73de09a8157",
+      "title": "Windows版タスクマネージャーの生みの親、Mac移植版を開発中。「Macのアクティビティモニターは使い物にならない」",
+      "link": "https://www.techno-edge.net/article/2026/07/31/5354.html",
+      "summary": "Windowsのシステム監視アプリ「タスクマネージャー」を生み出した開発者Dave W. Plummer氏が、Mac向けに同アプリの移植作業を行っていることを明らかにしました。同氏はXに、開発中のMac版タスクマネージャーのスクリーンショットを公開し、もうすぐベータ版を公開する予定だと述べています。",
+      "published": "Fri, 31 Jul 2026 07:00:03 +0900",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "techno-edge",
+      "category": "main"
+    },
+    {
+      "entry_id": "b15594eb1abb75ce8109eb16353bfe8b",
+      "title": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/",
+      "summary": "AWS Direct Connect now provides Border Gateway Protocol (BGP) route visibility, allowing you to view the routes exchanged between AWS and your on-prem...",
+      "published": "Thu, 30 Jul 2026 20:21:00 GMT",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "65fb6d5024ad545306b6663801de6951",
+      "title": "Amazon Redshift RG large and 12xlarge instances now available on the trailing track",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track",
+      "summary": "Amazon Redshift now supports Graviton-based RG instances on the trailing track. Starting today, rg.large and rg.12xlarge instance types are available ...",
+      "published": "Thu, 30 Jul 2026 20:02:00 GMT",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b03cd2a2ef8a55beace4482e7585ffc",
+      "title": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/",
+      "summary": "AWS Identity and Access Management (IAM) announces a major update to IAM Policy Simulator, the tool you use to test and validate the permissions your ...",
+      "published": "Thu, 30 Jul 2026 17:43:00 GMT",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "41dd6d5fcbc180c92661971fca93857f",
+      "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+      "link": "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
+      "summary": "OpenAIは2026年7月9日にGPT-5.6シリーズをリリースしました。このGPT-5.6シリーズについて、GPT-5.6自身を用いて計算コストの削減やGPU使用効率の改善を実施したことをOpenAIが明かしています。 How GPT-5.6 fuses frontier intelligenc...",
+      "published": "2026-07-30T08:40:38Z",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "134dbd050aaf6a4789f9430e468292ae",
+      "title": "NotebookLMとは？仕事で即使える活用術8選 | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/07/29/52991",
+      "summary": "※本記事で紹介している「NotebookLM」は、現在「Gemini Notebook」に名称が変更されました。本文では登壇当時の名称・仕様に基づき記述しています。 「どうやら『Google NotebookLM（ノートブック・エルエム）』は、『ChatGPT』や『Gemini』といった一般的なチャ...",
+      "published": "2026-07-28T23:58:48Z",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "750b405ab34024510a5beb32711e007e",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 aga…",
+      "link": "https://github.com/agavra/tuicr",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 agavra / tuicr ⭐ 1,689 (+338) 🗒 Rust a code review TUI with vim keybindings",
+      "published": "30 Jul 2026 22:16 +0000",
+      "fetched_at": "2026-07-30T22:57:13.739962+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-07-30T21:58:56.464590+00:00"
+  "updated_at": "2026-07-30T22:57:13.739962+00:00"
 }

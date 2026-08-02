@@ -19,7 +19,127 @@
       "fetched_at": "2026-08-01T22:45:39.231706+00:00",
       "feed_name": "Hacker News (100pts+)",
       "category": "main"
+    },
+    {
+      "entry_id": "4dde25f6617076bcde952be630ee1cc7",
+      "title": "How is the Bun Rewrite in Rust Going? | Tom Lockwood - Developer",
+      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "summary": "BunのPull Request一覧を眺めてみたけど、Claudeがひっきりなしに起票してて地獄味がある。区切りがないので次のバージョンをリリースできないのでは。もし仮にAnthropicが手放したら生きていけなさそう。",
+      "published": "02 Aug 2026 01:35 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "361581cecb8f7e243b355db8b0f59752",
+      "title": "Cycloud 新基盤の全貌 第六回: LB 編 | CyberAgent Developers Blog",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/64711/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cycloud 新基盤の全貌 第六回: LB 編 | CyberAgent Developers Blog",
+      "published": "02 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2af7715e9dc023efec9b1170410efd13",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions Comments URL: h...",
+      "published": "Sat, 01 Aug 2026 22:25:12 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1746f99df19d101bb8451c98256ac161",
+      "title": "Seedance 2.5",
+      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "summary": "Article URL: https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5 Comments URL: https://news.ycombinator...",
+      "published": "Sat, 01 Aug 2026 20:45:12 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dbc532b9ee90b10614adf7a56fe75e0",
+      "title": "Diátaxis",
+      "link": "https://diataxis.fr/",
+      "summary": "Article URL: https://diataxis.fr/ Comments URL: https://news.ycombinator.com/item?id=49138188 Points: 193 # Comments: 29",
+      "published": "Sat, 01 Aug 2026 20:33:27 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4e5f3b9e7d18f7c99dac4f7a6b9c941",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "summary": "Article URL: https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/ Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Sat, 01 Aug 2026 18:32:20 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd6624b85d48b03e8f7041a22766dbcc",
+      "title": "GPT‑5.6 アップデート: Terra と Luna のクレジット倍率を引き下げ",
+      "link": "https://aws.amazon.com/jp/blogs/news/gpt-5-6-pricing/",
+      "summary": "OpenAI が GPT‑5.6 Terra および Luna の価格を引き下げたため、その値下げ分を Kiro のお客様に還元します。OpenAI の新価格を反映した最新のクレジット倍率が、現在すでに適用されています。",
+      "published": "Sat, 01 Aug 2026 23:11:39 +0000",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1467fa3a8864324d931320728e3050a",
+      "title": "CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ",
+      "link": "https://note.com/o_ob/n/nd19cba8e11d7",
+      "summary": "Claude CodeやCodexのようなコーディングエージェントを使い続けていると、いつの間にかCLAUDE.mdやAGENTS.mdが巨大化していきます。 最初は数十行だったはずなのに、注意事項を追加し、作業手順を書き足し、引き継ぎ事項を残し、過去のトラブルを記録しているうちに、数百行の「何でも...",
+      "published": "2026-08-01T13:32:46Z",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea91ecc376b59e8726a0e76afc00411b",
+      "title": "セキュリティの仕事は、社内に落ちている──情シス・インフラが最初に拾うべき5つ",
+      "link": "https://zenn.dev/gangy/articles/7ae64ac2a9e435",
+      "summary": "この記事について 「セキュリティをやりたいけど、転職しないと無理だと思っている」——情シスやインフラ運用をしている人から、わりとよく聞く話です。 でも実際にやってみて思うのは、セキュリティの仕事は、たいてい社内に落ちているということです。誰の担当でもないまま放置されているタスクが必ずあって、それを拾...",
+      "published": "2026-08-01T06:32:51Z",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6480a4e5a7819761abd9871ceeee502a",
+      "title": "［論説］生食ジャガイモの輸入 拙速な解禁は許されぬ / 日本農業新聞公式ウェブサイト",
+      "link": "https://www.agrinews.co.jp/opinion/index/381216",
+      "summary": "米国政府が、生食用ジャガイモの輸入解禁を日本に求めている。米国は３月末、解禁に向けた協議が進展しているとの報告書を公表。日本の産地は、病害虫のまん延防止に神経をとがらせている最中だけに、拙速な解禁に踏み切らないよう、日本政府には毅然とした対応を求めたい。 米国産の生鮮ジャガイモは、大幅な減収をもた....",
+      "published": "2026-05-20T01:32:21Z",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e7213d92422ba9fd9b06fc738f7a022",
+      "title": "新しい SLO が良い感じにハマっている話",
+      "link": "https://speakerdeck.com/z63d/about-how-the-new-slo-is-fitting-in-nicely",
+      "summary": "もう一度考えるSRE #1 https://topotal.connpass.com/event/399194/",
+      "published": "2026-08-01T01:00:01Z",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f35881f3a5174fc51af0ceda59caefda",
+      "title": "OpenAIがGPT-5.6 Lunaを80%値下げしたから、今日からCodex派になりました。｜tatsuki",
+      "link": "https://note.com/nobel/n/n92fb2ecf10f4",
+      "summary": "この記事は数日間全文無料で読めます。 AIのモデルを追っていると、価格と性能の地図が毎週のように書き換わります。 少し前まで、ClaudeのFable 5はすごいと言われていた。そこへ、Fable 5に近い性能を半額で出すOpus 5が登場した。Kimi K3やGLM系は、評価項目によってはさらに安...",
+      "published": "2026-08-01T00:41:48Z",
+      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-01T22:45:39.231706+00:00"
+  "updated_at": "2026-08-02T01:59:42.740017+00:00"
 }

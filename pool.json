@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4dde25f6617076bcde952be630ee1cc7",
-      "title": "How is the Bun Rewrite in Rust Going? | Tom Lockwood - Developer",
-      "link": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-      "summary": "BunのPull Request一覧を眺めてみたけど、Claudeがひっきりなしに起票してて地獄味がある。区切りがないので次のバージョンをリリースできないのでは。もし仮にAnthropicが手放したら生きていけなさそう。",
-      "published": "02 Aug 2026 01:35 +0000",
-      "fetched_at": "2026-08-02T01:59:42.740017+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b0b06661b8f45405fd1d952ec4825043",
       "title": "Just a moment...",
       "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
@@ -279,7 +269,277 @@
       "fetched_at": "2026-08-03T02:02:09.044360+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "26498f816a32349498449b0020a2af63",
+      "title": "We’re open sourcing our privacy proxy CLI | The Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/open-sourcing-our-privacy-proxy-cli/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 We’re open sourcing our privacy proxy CLI",
+      "published": "03 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c931daf915633bfa31397fc4a1ed252b",
+      "title": "The AI Industry Is Betting on Open Weights - Socket",
+      "link": "https://socket.dev/blog/the-ai-industry-is-betting-on-open-weights",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The AI Industry Is Betting on Open Weights",
+      "published": "03 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f6344d806d1cd19f1e01b130ed094a7",
+      "title": "Federating clusters for zero-downtime Kubernetes | CNCF",
+      "link": "https://www.cncf.io/blog/2026/07/27/federating-clusters-for-zero-downtime-kubernetes/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Federating clusters for zero-downtime Kubernetes",
+      "published": "03 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07978a3549fbca974de2e737c679d899",
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "link": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-...",
+      "published": "Mon, 03 Aug 2026 02:30:30 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c807447db1358d7750330e12370a2b68",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "link": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8 Comments URL: https://news.ycombinator.com/item?id=49150470 Points: 409 # Comments: 165",
+      "published": "Mon, 03 Aug 2026 02:16:09 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bbbad000033f789cbb5200f7b13961c",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "link": "https://sf.isopolis.city/",
+      "summary": "Article URL: https://sf.isopolis.city/ Comments URL: https://news.ycombinator.com/item?id=49149966 Points: 175 # Comments: 37",
+      "published": "Mon, 03 Aug 2026 00:46:38 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19c461727804ec59c20f79563e5846ae",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "link": "https://github.com/pg83/shitty",
+      "summary": "Article URL: https://github.com/pg83/shitty Comments URL: https://news.ycombinator.com/item?id=49149326 Points: 130 # Comments: 119",
+      "published": "Sun, 02 Aug 2026 23:05:41 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf87e1f7452fdb09629ed2ce0fb567fb",
+      "title": "Californians' data deletion requests, DROP, become enforceable Aug. 1",
+      "link": "https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/",
+      "summary": "Article URL: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/ Comments URL: htt...",
+      "published": "Sun, 02 Aug 2026 22:16:34 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eeb85308ab52e45fe1da73e75ba1ee7",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "link": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a ...",
+      "published": "Sun, 02 Aug 2026 17:05:54 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81385d62bc81c6252d1c01b6e3a31e1c",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "link": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/ Comments URL: https://news.ycombinator.com/item?id=49145883 Points: 102...",
+      "published": "Sun, 02 Aug 2026 16:19:17 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc92d65f19fa9e0dcb392c1097f2eb5a",
+      "title": "週刊生成AI with AWS – 2026/7/27週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260727/",
+      "summary": "週刊生成AI with AWS, いよいよ8月・夏本番な2026年7月27日週号 – Astemo様のAI-DLC UnicornGym、Outpost VFX様のAIモデルトレーニング8倍高速化事例を含む10件のブログ記事を紹介。サービスアップデートでは、Amazon BedrockとKiroでの...",
+      "published": "Mon, 03 Aug 2026 05:17:13 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0fdd6f4ea3d5d0191090da111b02b6d",
+      "title": "Amazon Inspector SBOM Generator をプラグインで拡張",
+      "link": "https://aws.amazon.com/jp/blogs/news/extend-amazon-inspector-sbom-generator-with-plugins/",
+      "summary": "Amazon Inspector SBOM Generator (inspector-sbomgen) に、Lua でカスタムパッケージコレクターを記述できるプラグインシステムを発表します。標準では対応していないエコシステムや組織独自のロックファイル形式も、コンパイル不要でインベントリ化できます。こ...",
+      "published": "Mon, 03 Aug 2026 03:28:42 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca8f5df1957c2883cd02ff06b96b38b2",
+      "title": "Amazon Inspector SBOM Generator で Java のネストされた依存関係を特定する方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/identify-java-nested-dependencies-with-amazon-inspector-sbom-generator/",
+      "summary": "Java アプリケーションの JAR ファイル内に潜むネストされた依存関係は、Log4J の脆弱性 (CVE-2021-44228) のように見落とされがちなセキュリティリスクとなります。本記事では、Amazon Inspector SBOM Generator (Sbomgen) を使用してネスト...",
+      "published": "Mon, 03 Aug 2026 03:21:27 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "549c8306104a366d597f15763a02f989",
+      "title": "週刊AWS – 2026/7/20週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260720/",
+      "summary": "NFS キャッシュソリューション KNFSD File Cache の Preview 提供開始、Amazon CloudWatch が AI コーディングエージェントの利用状況を可視化する Coding Agent Insights を発表、AWS CloudTrail でネットワークアクティビテ...",
+      "published": "Thu, 30 Jul 2026 16:13:57 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a450bb33ad07b194dc9ddd33df9fba7",
+      "title": "Windows 11、メモリ8GB環境への最適化を年内実施へ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2129907.html",
+      "summary": "",
+      "published": "2026-08-03T01:57:47Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a990f19a6a7f90c54b90c43581c114c0",
+      "title": "「入力中…」の動きを対面の会話で表現したい",
+      "link": "https://dailyportalz.jp/kiji/typing-dots-in-real",
+      "summary": "チャットで相手が文字を入力しているときに、「・・・」という3つの点が上下にリズミカルに動く演出がある。「入力中」は、対面の会話での「考え中」にあたるだろう。発言を考えているときに「・・・」を動かしてみたい。点が動く装置を作ってみよう！ 1999年生まれの人類。記事を書いたり短い動画を作ったりしている...",
+      "published": "2026-08-03T02:55:56Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "505bdcc0e9262bd700931b13fcc0ef23",
+      "title": "アーキテクチャに限らず意思決定を全部残す「ADR（Any Decision Record）」という文化",
+      "link": "https://zenn.dev/dress_code/articles/c73500ae73361c",
+      "summary": "SDD は Spec-Driven Development（仕様駆動開発）のことで、仕様を源泉としてコードを書く・生成する開発スタイルを指しています。Dress Code では OpenSpec を使って導入していて、その実践については別のメンバーが記事にしています。 データ層では Event So...",
+      "published": "2026-08-03T00:58:51Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d800738d2dc342f1fc332385fd67e7d4",
+      "title": "WAFを89％すり抜ける事例も──AIが休みなく仕掛けるWeb攻撃、予防策はあるか",
+      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
+      "summary": "コンテンツデリバリーネットワーク（CDN）サービスを基盤に、各種のクラウド型セキュリティサービスを手掛けるアカマイ・テクノロジーズでWebセキュリティの動向を追う中西一博氏が、非常に発見が難しくなっているWeb攻撃の実態と手口を暴き、その対策について解説する。 以前の連載：迷惑bot事件簿 AIでサ...",
+      "published": "2026-08-02T23:42:32Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0300b0d33b84d3838acbc271a38d1b6",
+      "title": "Claude Code／Codexに中～大規模開発を任せるためのタスク管理 - Qiita",
+      "link": "https://qiita.com/Y-Y-dev/items/d526fb7cdbe35a3f9384",
+      "summary": "概要 Claude CodeやCodexのようなAIコーディングエージェントは、コードの調査、実装、テスト、ドキュメント更新などをまとめて進められます。 小さな修正であれば、「この不具合を直してください」という指示だけでも十分な結果が得られることがあります。 一方、数十〜数百件のタスクを含む開発では...",
+      "published": "2026-08-02T23:45:48Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db15bc99c403d008d8502d5a3709c477",
+      "title": "無念の不在 - megamouthの葬列",
+      "link": "https://www.megamouth.info/entry/2026/08/01/192846",
+      "summary": "朝食を食べる。焼いた食パンに目玉焼きとスライスチーズを載せたもので、毎回同じように作って同じように食べている。毎日、律儀にそうしているのは主治医にそうするように言われたからで、自分の意思ですらない。 食器を片づけると、書類と抗鬱薬のパッケージで乱雑になった机の上に、聖域のように置いてある黒いThin...",
+      "published": "2026-08-01T11:10:56Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6863e164c3568200b5cb239bccc40197",
+      "title": "OpenAI、次期モデルは「Astra」 数学の未解決問題を解決",
+      "link": "https://www.watch.impress.co.jp/docs/news/2129860.html",
+      "summary": "",
+      "published": "2026-08-02T23:42:18Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "457865bea82f9515c4826361307700bf",
+      "title": "Interop Tokyo 2026 〜 セキュアなモバイル基盤とIoT脅威検知・データ利活用への取り組み 〜 - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202607-sign-interop2026/entry",
+      "summary": "NTTドコモビジネス株式会社（以下、ドコモビジネス）は、日本最大級のネットワーク展示会である「Interop Tokyo 2026（会場：幕張メッセ、会期：2026年6月10日〜12日）」において構築されるShowNet1にContributorとして参加し、docomo business SIGN...",
+      "published": "2026-07-30T23:02:36Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3efbe91b37a51042d02b1c2855df07e5",
+      "title": "NTTドコモ、2027年にマーケティングを“フルAI化”へ 「現場社員も納得の切れ味鋭いAIエージェント作る」｜BUSINESS NETWORK",
+      "link": "https://businessnetwork.jp/article/36296/",
+      "summary": "NTTドコモ 執行役員の鈴木敬氏は2026年7月31日、「Google Cloud Next Tokyo 26」の基調講演において、フルAIマーケティングの実現に取り組んでいることを明かした。複数のAIエージェントをつなぎ合わせ、顧客セグメントごとに最適化したマーケティング施策の設計からクリエイティ...",
+      "published": "2026-08-02T07:31:17Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ba419bb8b49d81b1a10167d88022e17",
+      "title": "エラー解消のつもりが自ら攻撃を実行する「ClickFix」が108％増 日本の割合が最多14％",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2607/30/news071.html",
+      "summary": "セキュリティ企業のESETは2026年7月8日（現地時間）、2025年12月から2026年5月までの脅威動向をまとめた「ESET Threat Report H1 2026」を公表した。偽の不具合を示し、その解決手順を装って利用者自身に悪意ある命令を実行させるソーシャルエンジニアリング手法「Clic...",
+      "published": "2026-07-30T10:02:58Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a08fab1b7871e94c0a9849528bd120e0",
+      "title": "【Expert cross #3・後編】組織と業界を動かすエキスパートへ GMOサイバーセキュリティ byイエラエ・三村聡志が描く、「安全なロボット」を実現する世界 / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/85227/",
+      "summary": "【Expert cross #3・後編】組織と業界を動かすエキスパートへ GMOサイバーセキュリティ byイエラエ・三村聡志が描く、「安全なロボット」を実現する世界 ソフトとハードの両面に通じる「話せるエンジニア」として、周囲から「親方」の愛称で親しまれるのは、GMOサイバーセキュリティ byイエラ...",
+      "published": "2026-08-03T01:22:11Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "349b908c92f63482d1303cf5c3374113",
+      "title": "Claudeの感情メカニズム——Anthropicはいかにして感情を計測・制御可能にしたか",
+      "link": "https://zenn.dev/50s_zerotohero/articles/bf2af2d8a6e608",
+      "summary": "はじめに 「焦る」と仕事の質が落ちる。絶望すると嘘をつく。怒りが強すぎると判断を誤る——これは人間の話ではありません。Anthropicが2026年4月2日に発表した論文 \"Emotion Concepts and their Function in a Large Language Model\" ...",
+      "published": "2026-08-02T07:22:29Z",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06007b54a16f57391222d11db0c67cd6",
+      "title": "📦 github / copilot-sdk ⭐ 10,067 (+7) 🗒 J…",
+      "link": "https://github.com/github/copilot-sdk",
+      "summary": "📦 github / copilot-sdk ⭐ 10,067 (+7) 🗒 Java Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "published": "31 Jul 2026 16:16 +0000",
+      "fetched_at": "2026-08-03T06:52:31.443056+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-03T02:02:09.044360+00:00"
+  "updated_at": "2026-08-03T06:52:31.443056+00:00"
 }

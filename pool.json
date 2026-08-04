@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "15faaed5406779846beb05b1846ea3fb",
-      "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
-      "published": "03 Aug 2026 01:55 +0000",
-      "fetched_at": "2026-08-03T02:02:09.044360+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "da3bf1346233c8ab59166eeb14169c58",
-      "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
-      "published": "02 Aug 2026 23:55 +0000",
-      "fetched_at": "2026-08-03T02:02:09.044360+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8c698391e507e41cfca074680e5bd4ab",
       "title": "LLMs reward expertise",
       "link": "https://www.seangoedecke.com/llms-reward-expertise/",
@@ -679,7 +659,177 @@
       "fetched_at": "2026-08-04T04:56:22.582502+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "c941d9df1b53aa7ee063016e61160288",
+      "title": "【続】Repro のポストモーテム運用 ── 目的の再定義と作成基準の整理 - Repro Tech Blog",
+      "link": "https://tech.repro.io/entry/2026/07/postmortem-retrospective",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【続】Repro のポストモーテム運用 ── 目的の再定義と作成基準の整理",
+      "published": "04 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5f00e9a5e08ccf830d99ff5d12b49cc",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://techblog.lycorp.co.jp/en/applying-e2ee-to-apache-kafka-in-line-app",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 1M messages per second: Applying E2EE to Apache Kafka in the LINE app",
+      "published": "04 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f919626e2922f0ec36c60b29d8af64b",
+      "title": "Apple is getting this wrong",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "summary": "Article URL: https://openai.com/index/apple-is-getting-this-wrong/ Comments URL: https://news.ycombinator.com/item?id=49164649 Points: 152 # Comments:...",
+      "published": "Tue, 04 Aug 2026 05:32:13 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0e5f8b0c348ac1e29ea95fc9554c2bc",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "Article URL: https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf Comments URL: https://news.ycombinator.com/item?id=49162653 Points: 137 # Com...",
+      "published": "Mon, 03 Aug 2026 23:24:53 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c75a733e6777ddecff54f3ca84b9247f",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "link": "https://github.com/leonickson1/Swiftlet",
+      "summary": "Article URL: https://github.com/leonickson1/Swiftlet Comments URL: https://news.ycombinator.com/item?id=49158333 Points: 151 # Comments: 59",
+      "published": "Mon, 03 Aug 2026 16:54:15 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "be179ad7bade6fa2772ed8ede65bb976",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "link": "https://news.ycombinator.com/item?id=49156682",
+      "summary": "Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Ple...",
+      "published": "Mon, 03 Aug 2026 15:00:54 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "533b3dfc59be36feca4ed8ad9f8e41a0",
+      "title": "dSPACE と AWS で実現する自動運転 AI 開発の効率化 ～MLOps によるデータ駆動型開発の実践～",
+      "link": "https://aws.amazon.com/jp/blogs/news/dspace-aws-mlops-autonomous-driving/",
+      "summary": "本ブログは dSPACE Japan 様と アマゾン ウェブ サービス ジャパン合同会社が共同で執筆いたしまし […]",
+      "published": "Tue, 04 Aug 2026 06:44:06 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "53bf9a03c8dcbe0a3e9d47390efc79cd",
+      "title": "2枚のピザを囲んで語る業務変革 — 35社62名が参加した大阪開催 Claude・Kiro実践ワークショップの記録",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-coding-workshop20260702/",
+      "summary": "大阪開催の経緯 みなさん、こんにちは。AWS アカウントマネージャーの岩上です。 2026年7月2日、AWS […]",
+      "published": "Tue, 04 Aug 2026 06:22:22 +0000",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca567d83380244118319fddc4aec3833",
+      "title": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/",
+      "summary": "Two new models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. Claude Opus 4.8 is the most intelligent Opus model, delive...",
+      "published": "Fri, 24 Jul 2026 14:00:00 GMT",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8484e88872c0148996165c803d613caf",
+      "title": "アメリカでは10％以上のデスクトップPCでLinuxが採用されている",
+      "link": "https://gigazine.net/news/20260804-linux-os-share/",
+      "summary": "オンライン分析サービスのStatcounterはOSなどの利用シェアをまとめたStatcounter Global Statsを定期的に更新しています。2026年7月にはアメリカのデスクトップPCにおいてLinuxのシェアが10％を超えたことが明らかになりました。 Desktop Operating...",
+      "published": "2026-08-04T02:00:38Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fbaada2a3ef352f3d82c757f5602aa3",
+      "title": "Genspark、オープンソースAIオフィス「GenOffice」を無料公開",
+      "link": "https://www.watch.impress.co.jp/docs/news/2130320.html",
+      "summary": "",
+      "published": "2026-08-04T04:59:10Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec39ed286136ee04c9b43da6ddd328f4",
+      "title": "pの中にdivを入れられないのはなぜか - Legalscapeテックブログ",
+      "link": "https://tech.legalscape.co.jp/entry/2026/08/04/111358",
+      "summary": "こんにちは、 Legalscape (採用情報) で法情報をいい感じに収集・運用しているあざらし🦭です。 一次情報・二次情報に関わらず、形式や公開方法が多岐にわたる法情報を正確に分析あるいは表示するためには構造化という処理が必要になります。弊社ではこの構造化処理フローと構造化モデルについて日々議論を...",
+      "published": "2026-08-04T07:24:05Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f611f50ebb318e018a73fa8993cee33a",
+      "title": "【大河原克行の「パソコン業界、東奔西走」】 自分で組み立てたレッツノートは最高！30周年の神戸工場で子どもたちが大奮闘",
+      "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2130211.html",
+      "summary": "",
+      "published": "2026-08-04T01:08:23Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "120a0a82d31c90fea412e3f8d1f4c8a6",
+      "title": "宮本佳林限界ヲタク「佳林ちゃんがAIで拡張しているのは技術ではない。ファン体験だ」｜ふしみキモヲタ",
+      "link": "https://note.com/debukimowota/n/n38ff653dc899",
+      "summary": "佳林ちゃんがAIでバズった！2026年7月31日、5枚目のシングル「HANAKIN／シャニカマー」の発売週に、宮本佳林ちゃんが朝8時から10時間のYouTube生配信を実施した。 CDの購入報告やハッシュタグ投稿に応じてゲージがたまり、達成状況に合わせて衣装やアイテムが解禁されていく。そんなファン参...",
+      "published": "2026-08-04T01:25:41Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6da4bc8561f020e15f9fd3a77dd5b68",
+      "title": "妻との雑談で生まれたぬい活SNSに4万人 いいねもフォロワー数も競わないのになぜ人気 「ぬい日和」開発秘話",
+      "link": "https://www.itmedia.co.jp/news/article/2608/03/2000000358/",
+      "summary": "ぬいぐるみと過ごす時間を写真で記録・共有する「ぬい活」向けのSNSアプリ「ぬい日和」が、7月下旬にかけて急速に利用者を増やした。他の人のぬいぐるみを画面越しに「なでなで」できる機能や、いいね数を隠せる設定など、既存のSNSとは違う作りが支持を集め、ユーザー数は約4万人に到達。開発者のShinさんに、...",
+      "published": "2026-08-03T10:10:03Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0e7aceb1963e8c6a077e5e87a6aa3c2",
+      "title": "吉野家、ラーメン店の新ブランド「鶏吉」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2130177.html",
+      "summary": "",
+      "published": "2026-08-03T10:05:04Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e7e5b05a8c84f8efb529207f9df55d2",
+      "title": "Herdr で止まらず、精度の高い開発を進める工夫 ─ intent-cli で意図をもとに開発する",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/intent-cli-herdr-orchestration",
+      "summary": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 AIエージェントを4体、止まりを見つけて再開させながら回して開発を進める、ということを日常的にやっています。設計・オーケストレーション・実装・レビューの4スレッドが、GitHub の Issue と PR を通じて協調する仕組みで...",
+      "published": "2026-08-03T10:40:41Z",
+      "fetched_at": "2026-08-04T08:24:18.963430+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-04T04:56:22.582502+00:00"
+  "updated_at": "2026-08-04T08:24:18.963430+00:00"
 }

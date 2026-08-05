@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "0b0488977bd9380bb55d173d6bd90587",
-      "title": "先端GPUを支える電力供給と冷却技術（後編） | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/07/computex2026-2",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 先端GPUを支える電力供給と冷却技術（後編） | gihyo.jp",
-      "published": "04 Aug 2026 02:55 +0000",
-      "fetched_at": "2026-08-04T04:56:22.582502+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e2e8a751aa4cd7a32dc1e6878683125e",
       "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
       "link": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
@@ -799,7 +789,207 @@
       "fetched_at": "2026-08-05T08:21:50.399537+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "fa398419ab4f7b317190e5abb3e6442c",
+      "title": "Just a moment...",
+      "link": "https://medium.com/google-cloud/kubernetes-networking-101-on-gke-quick-reference-guide-27f0de84039e",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Kubernetes networking 101 on GKE: Quick Reference Guide",
+      "published": "05 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57c17f143c5ff1c59f9e4c49e6ec3773",
+      "title": "Just a moment...",
+      "link": "https://medium.com/google-cloud/why-kubernetes-rolling-updates-arent-as-safe-as-you-think-and-how-to-fix-them-de7a5dd2a1fd",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why Kubernetes Rolling Updates Aren’t as Safe as You Think (and How to Fix Them)",
+      "published": "05 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5e7be3536976d115b306f0dee3a8064",
+      "title": "Helsinki Hacker News Meetup",
+      "link": "https://calpaterson.com/helsinki-hn.html",
+      "summary": "Article URL: https://calpaterson.com/helsinki-hn.html Comments URL: https://news.ycombinator.com/item?id=49180407 Points: 106 # Comments: 59",
+      "published": "Wed, 05 Aug 2026 09:15:33 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "120fa8d4846f981eb8abff1685390e4a",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "summary": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Point...",
+      "published": "Tue, 04 Aug 2026 23:31:46 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed218b9fc9ec18edf30d74eeb4cbc2a0",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "link": "https://techascent.com/blog/just-ducking-around.html",
+      "summary": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 118 # Comments: ...",
+      "published": "Tue, 04 Aug 2026 22:09:43 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eff6e1ef4074686c47008e196b6b7fc",
+      "title": "The Warp Agent CLI",
+      "link": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "summary": "Article URL: https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent Comments URL: https://news.ycombinator.com/item?id=49171766 Points:...",
+      "published": "Tue, 04 Aug 2026 17:08:41 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cea5bc29d71a414f91cc6d4a25e35ab",
+      "title": "AWS Weekly のまとめ: Bedrock の GPT モデルの値下げ、Prometheus メトリクス向けの CloudWatch マネージドコレクターなど (2026年8月3日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-price-reduction-of-gpt-models-in-bedrock-cloudwatch-managed-collectors-for-prometheus-metrics-and-more-august-3-2026/",
+      "summary": "2026 年 7 月 27 日週、7 歳の息子と一緒に Amazon の「子供を仕事に連れて行く日」に参加でき […]",
+      "published": "Wed, 05 Aug 2026 08:33:35 +0000",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d477f871239deef532fc4bddce84eae3",
+      "title": "【やじうまPC Watch】 ジェンスン・フアン氏の聖地「やきとん三吉 神田北口店」で「ご来店記念コース」を娘と堪能 ～コース名を変更したのはNVIDIAに怒られたからではない",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html",
+      "summary": "",
+      "published": "2026-08-05T07:37:58Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e69059a77970d5df31b0019034a0abd",
+      "title": "元グループ会社が「ドコモの銀行」になった不満を吸収？ SBI新生銀行が「SBIの銀行」として最大5.2万円のキャッシュバックキャンペーンを開催",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/05/news084.html",
+      "summary": "キャンペーンの概要 キャンペーンの第1弾は、9月30日までにSBIハイパー預金の口座を開設した上で、同日までに特設サイトからエントリーを行い、同日23時59分時点でSBIハイパー預金の残高が少なくとも30万円であれば対象となる。贈呈される金額は以下の通りで、12月中に入金される。 残高30万円以上：...",
+      "published": "2026-08-05T07:07:40Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "567a0c442b5175cbb5036ff2f28c547f",
+      "title": "今こそ聞きたいソフトウェア設計 ドメイン駆動設計再入門",
+      "link": "https://speakerdeck.com/masuda220/jin-kosowen-kitaisohutoueashe-ji-domeinqu-dong-she-ji-zai-ru-men",
+      "summary": "①ソフトウェア開発の基本課題 ②AI技術をソフトウェア開発に活用するアプローチ ③これからのソフトウェア開発にどう取り組むか ④ドメイン駆動設計 再入門",
+      "published": "2026-08-05T09:20:11Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29484990a33530560797dc79804f2e06",
+      "title": "高評価ADV『シュレディンガーズ・コール』の感想、胸にそっと秘められがち問題。でも開発者は感想を発信してほしい、ネタバレなしインタビュー - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/schrcall-20260805-458276/",
+      "summary": "集英社ゲームズが5月28日に発売した『シュレディンガーズ・コール』は、世界最後の話し相手としてさまよう魂たちの心残りに応える、ノベルアドベンチャーゲームである。対応プラットフォームはNintendo Switch/PC（Steam）。Metacriticでは「Must-Play」に選出され、「202...",
+      "published": "2026-08-05T05:32:33Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bbaab4d791a0da07f634b23d7666a08",
+      "title": "ローソン、店内調理で「焼きそば」 “炒めロボ”導入拡大",
+      "link": "https://www.watch.impress.co.jp/docs/news/2130707.html",
+      "summary": "",
+      "published": "2026-08-05T04:48:54Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18f5b4d4e82edc87fe1a82a29eb5f1af",
+      "title": "[スタパ齋藤のApple野郎] Apple Watchの汗対策に、通気性「網戸レベル」の激安バンドを試してみた",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2130529.html",
+      "summary": "",
+      "published": "2026-08-05T00:40:20Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35b92c3138c78589bb9fedf5a585e7a9",
+      "title": "AIエージェント「Hermes Agent」の大規模アップデート「The Herald Release」が公開／自然な対話でタスクを依頼、デスクトップアプリ・CLIも大きく強化",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2130787.html",
+      "summary": "",
+      "published": "2026-08-05T08:39:53Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08a7fe744010c75b2439cbb8b3c3b2d9",
+      "title": "事業価値と Engineering 2026年度版",
+      "link": "https://speakerdeck.com/recruitengineers/fy2026_bootcamp_kuroda",
+      "summary": "2026年度リクルート エンジニアコース新人研修の講義資料です。",
+      "published": "2026-08-05T04:50:49Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "885dae2a012833c2c2ebc48b07b8d5d8",
+      "title": "Mistral AIが小型モデレーションAI「Shieldstral」を公開、文章や画像を自然言語のルールで判定可能",
+      "link": "https://gigazine.net/news/20260805-mistral-shieldstral/",
+      "summary": "フランスのAI企業Mistral AIが2026年8月4日、文章や画像が指定した安全基準に当てはまるかを判定するAIモデル「Shieldstral 1.0 3B」を公開しました。パラメーター数は30億で、サービスごとの安全基準を自然な文章で指定できる点が特徴です。 Introducing Shiel...",
+      "published": "2026-08-05T08:08:28Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9489910e36c0eb6147a31d27df237531",
+      "title": "情シス騒然、マイクロソフトが「印刷管理」刷新…ついに古いWindows管理は消えるのか",
+      "link": "https://www.sbbit.jp/article/cont1/186246",
+      "summary": "「今さら印刷？」情シスが騒然となったワケ 米マイクロソフトが2026年7月31日に公開したWindows 11 Insider Experimental Preview Build 26300.9032で、新しい「Print Management」アプリが確認された。プリンタの設定画面ではなく、企業...",
+      "published": "2026-08-04T23:55:50Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4121284ddc202fdeafd72ebcb3f01e9",
+      "title": "シニアエンジニア目線をAIレビューへ 〜 判断を移植した社内エージェント「Makasetaro」の設計 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/08/05/090000",
+      "summary": "はじめに ここ最近で、AIの急速な進歩を背景にAIコーディングツールの利用は一気に広がりました。MonotaROでもClaude Code、Cursor、Codex、Devinといったツールを日々の開発に取り入れて積極的に活用しています。 ただ、コードを書くことにおいて開発者一人あたりの生産性が向上...",
+      "published": "2026-08-05T00:03:33Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bfc6eec12913ffe53e340260fc1b511",
+      "title": "ストレージがメモリの延長になる。NVIDIA、cuFile APIをオープンソース化",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2130757.html",
+      "summary": "",
+      "published": "2026-08-05T08:08:36Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7baec41b14544412e64492e4870cb06",
+      "title": "「Xであなたをブロックした人が分かる」サイト拡散 ソースコードを見たら、IDとパスワード外部送信",
+      "link": "https://www.itmedia.co.jp/news/article/2608/05/2000000403/",
+      "summary": "X上で「あなたをブロックしている人の状況を確認できる」とうたうWebサービスが拡散している。XのIDとパスワードの入力を求める作りだが、ITmedia NEWS編集部がページのソースコードを見てみたところ、入力した情報をそのまま外部のサーバへ送っていた。画面に出る人数もランダムな数値で、認証情報を盗...",
+      "published": "2026-08-05T10:57:44Z",
+      "fetched_at": "2026-08-05T11:51:52.030403+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-05T08:21:50.399537+00:00"
+  "updated_at": "2026-08-05T11:51:52.030403+00:00"
 }

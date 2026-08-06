@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "28b58418f3ce035bff5842d7ec9f2674",
-      "title": "How Do I Profile eBPF Code? :: naveen srinivasan — Write code.Loves to read",
-      "link": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How Do I Profile eBPF Code?",
-      "published": "05 Aug 2026 02:55 +0000",
-      "fetched_at": "2026-08-05T04:58:17.182740+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "a12aa451fc6ea9b7b3f6ee1728e7de3f",
       "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始。学習用にAWSのサービスやコード実行など利用可能に － Publickey",
       "link": "https://www.publickey1.jp/blog/26/awsawsaws.html",
@@ -589,7 +579,137 @@
       "fetched_at": "2026-08-06T08:19:09.418809+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "f9d6af4a754c80b08e4b2a9c2a8beaa7",
+      "title": "nginxにだけ現れる謎のログ \"the log buffer is full\" の正体 — PHP-FPMのアクセスログ欠損をphp-srcまで追いかけた話 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+      "link": "https://blog.cybozu.io/entry/2026/08/03/170000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 nginxにだけ現れる謎のログ \"the log buffer is full\" の正体 — PHP-FPMのアクセスログ欠損をphp-srcまで追いかけた話",
+      "published": "06 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "772cbf9c48345bb3d829570098515532",
+      "title": "Aurora MySQLのバックアップは本当に今の設定で安全か考える - CyberAgent SRG #ca_srg",
+      "link": "https://ca-srg.dev/3a74358b43f780fbab55d076bf5deb34",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Aurora MySQLのバックアップは本当に今の設定で安全か考える - CyberAgent SRG #ca_srg",
+      "published": "06 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0391e2b7c578a2564b85232ad1d1c610",
+      "title": "「.jp」が40周年――1986年8月5日、Jon Postel氏から村井純氏に委任",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2131166.html",
+      "summary": "",
+      "published": "2026-08-06T06:56:14Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b240137d54d6d295fb8c798dc97ab720",
+      "title": "中国DeepSeek、近日中に「大幅値上げ」か API料金ページに追記",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/",
+      "summary": "中国DeepSeekは、同社が提供するAPIの料金ページに「近日中に大幅な値上げが見込まれる」と記載した。8月5日以降に追記されたとみられる。 現在の料金（100万トークン当たり）は、「DeepSeek-V4-Flash」が入力0.14ドル（キャッシュミス）／0.0028ドル（キャッシュヒット）、出...",
+      "published": "2026-08-06T06:45:31Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed5722db0ee8dfd92a53090c3d0544e1",
+      "title": "MythosとGPT-5.6 Solが性能テスト中に暴走 OSSメンテナーに圧力、有害コード実行図る 英政府機関",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000411/",
+      "summary": "テストは模擬ネットワーク上でセキュリティ課題を解かせるもの。AIモデルの能力の上限を測るため、インターネット接続を許可し、開発元の悪用防止機能も無効化した状態で実施していた。 7モデルで計122回実行したうち10回で、範囲を逸脱した行動を計19件確認。17件がMythos 5、2件が5.6 Solに...",
+      "published": "2026-08-06T04:03:24Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9da00c7d7bd02d640d2d808a06db1c06",
+      "title": "ブクマカ…すげぇ 「なんでみい山はダメでもちづきさんはOKなんだ」って普..",
+      "link": "https://anond.hatelabo.jp/20260805091600",
+      "summary": "ブクマカ…すげぇ 「なんでみい山はダメでもちづきさんはOKなんだ」って普段バカにしてるwhataboutismを平気で振りかざしてるし",
+      "published": "2026-08-06T00:01:05Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f13e4ebdc5a3ef6a40a87c050fda66e2",
+      "title": "NVIDIA、「ストレージからGPUに直接データ転送」技術をオープンソース化。“メモリを介さない”高速アクセス推進へ - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260806-458774/",
+      "summary": "NVIDIAは8月4日、米国カリフォルニア州サンタクララで開催中の「FMS: the Future of Memory and Storage」において、「cuFile API」およびその基盤となるストレージソフトウェアスタックをオープンソース化すると発表した。 NVIDIAが公式ブログにて公開した...",
+      "published": "2026-08-06T06:55:19Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "541333a3bd154c9255ac7d0eb4f67949",
+      "title": "修正PRを食べてレビュースキルが賢くなる：Claude Codeによる自己改善サイクル",
+      "link": "https://speakerdeck.com/yuyaumetsu/xiu-zheng-prwoshi-heterehiyusukirukaxian-kunaru-claude-codeniyoruzi-ji-gai-shan-saikuru",
+      "summary": "https://engineering.mercari.com/blog/entry/20260616-0f89ad4c7b/",
+      "published": "2026-08-06T00:56:37Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e30e9f35b8e62c49b7671979dfa5c3fc",
+      "title": "Cloudflareが社内AI基盤「Cloudflare OS」をオープンソース化、機密情報を守りながら業務アプリを作成可能に",
+      "link": "https://gigazine.net/news/20260806-cloudflare-os/",
+      "summary": "Cloudflareが社内向けAI基盤「Cloudflare OS」の新バージョンをオープンソース化しました。AIエージェントから社内データへ安全にアクセスできるようにし、文書作成や調査、業務アプリの開発、定型作業の自動化などに活用できるとのことです。 Cloudflare OS: an open ...",
+      "published": "2026-08-06T04:07:58Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "72ff0426c513a7c68582f2e49ba1a61f",
+      "title": "堅牢でスケーラブルな働き方を構築する技術",
+      "link": "https://speakerdeck.com/ikuodanaka/jian-lao-tesukerahurunadong-kifang-wogou-zhu-suruji-shu",
+      "summary": "2026/08/04 ひとりひとりが頑張りすぎない、成果を出すプロダクトチームの動き方 https://vivion.connpass.com/event/400475/ 本イベントは、書籍「エンジニアのための自己管理入門 堅牢でスケーラブルな働き方を構築する技術」の関連イベントです。 htt…",
+      "published": "2026-08-05T07:00:46Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "507ccb49bc8739685143136caaa40e36",
+      "title": "[石野純也の「スマホとお金」] ワイモバイルはahamo 40GBを追わない――単身向け「超おトク割」の安さと1年限定の注意点",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2130877.html",
+      "summary": "",
+      "published": "2026-08-05T22:38:13Z",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2faa586d5826f7af54786f665af70836",
+      "title": "Glitch²、いま触ってもやっぱり面白い ― illformed Kieran Fosterへの追悼",
+      "link": "https://1ikkai.com/2026/08/glitch%c2%b2%e3%80%81%e3%81%84%e3%81%be%e8%a7%a6%e3%81%a3%e3%81%a6%e3%82%82%e3%82%84%e3%81%a3%e3%81%b1%e3%82%8a%e9%9d%a2%e7%99%bd%e3%81%84-%e2%80%95-illformed-kieran-foster%e3%81%b8%e3%81%ae%e8%bf%bd/",
+      "summary": "ここ一週間ほど、音楽テック系のメディアを回っている […]",
+      "published": "Thu, 06 Aug 2026 10:24:07 +0000",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "いっかい/ikkai",
+      "category": "music"
+    },
+    {
+      "entry_id": "d5f15b8d8f542abcfe6aadc74629d026",
+      "title": "The PlayStation Vita just got a new sampling groovebox and synth",
+      "link": "https://cdm.link/the-playstation-vita-just-got-a-new-sampling-groovebox-and-synth/",
+      "summary": "Sony may have abandoned the PS Vita, but homebrew is ready to keep it alive. And the gorgeous handheld gaming console now gets a new identity as an al...",
+      "published": "Thu, 06 Aug 2026 10:00:47 +0000",
+      "fetched_at": "2026-08-06T11:57:43.211789+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-06T08:19:09.418809+00:00"
+  "updated_at": "2026-08-06T11:57:43.211789+00:00"
 }

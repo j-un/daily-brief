@@ -179,7 +179,207 @@
       "fetched_at": "2026-08-06T23:51:23.460903+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "a1a486aef051a2d671cd8e0470438488",
+      "title": "Debian、AI/LLM利用に関する5つの提案を検討中 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/07/daily-linux-260731",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Debian、AI/LLM利用に関する5つの提案を検討中 | gihyo.jp",
+      "published": "07 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fefdcf0e7f1685cc01958cc7617aedb6",
+      "title": "How We Cut GPU Inference Cost by ~75%: Async, Autoscaled Diffusion on GKE - Gaudiy Tech Blog",
+      "link": "https://techblog.gaudiy.com/entry/2026/07/31/203039",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How We Cut GPU Inference Cost by ~75%: Async, Autoscaled Diffusion on GKE",
+      "published": "06 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c15e8706d5d52cad2b65a42d45ff43b",
+      "title": "どの AI ツールをどの FinOps ユースケースに使うか？",
+      "link": "https://aws.amazon.com/jp/blogs/news/which-ai-tool-for-which-finops-use-case/",
+      "summary": "現在、FinOps プラクティショナーは増え続ける AI ツール群を利用できるようになりました。しかし、それぞ […]",
+      "published": "Fri, 07 Aug 2026 02:12:27 +0000",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbce7996074482a4f28ae2d0088b504c",
+      "title": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports fractional GPU scheduling with Amazon EC2 G6f instances, enabling you to run your workloads...",
+      "published": "Thu, 06 Aug 2026 22:00:00 GMT",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1ace30f6674bc2be89b1d3510f337cd",
+      "title": "AWS Lambda console extends console-to-IDE integration to Kiro and Cursor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/",
+      "summary": "AWS Lambda console now extends its console-to-IDE integration to support Kiro and Cursor IDEs. This expansion builds on the existing console-to-IDE tr...",
+      "published": "Thu, 06 Aug 2026 21:53:00 GMT",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9420087ceb66f475ecfa812af68a576d",
+      "title": "AgentCore runtime instances are now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/",
+      "summary": "Today, AWS announces runtime instances, a new feature in Amazon Bedrock AgentCore that lets you run agents on your own Amazon EC2 instances without ma...",
+      "published": "Thu, 06 Aug 2026 20:00:00 GMT",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "421ddec257a7216a87b7fb8f408f0fcf",
+      "title": "Amazon SES now helps identify automated open and click events in event notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
+      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent fi...",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f183b47d63fb0619ee93c1f56175a33b",
+      "title": "AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/",
+      "summary": "AWS Lambda now supports a maximum of 10,000 event pollers for Provisioned Mode for Amazon SQS event source mappings (ESMs), a 5x increase from the pre...",
+      "published": "Mon, 03 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ce6e152ec1ac202c96542f3325d90b3",
+      "title": "「うんこ移植」でピーナツアレルギー改善、15人中6人が数粒食べられるように ヒトの実証は初 Science系列誌掲載",
+      "link": "https://www.itmedia.co.jp/news/article/2608/07/2000000426/",
+      "summary": "試験対象は、ごく微量のピーナツにも反応する成人15人（抗菌薬前処置なし10人＋あり5人）。健康な腸内細菌叢を持つドナーの便から作った凍結カプセル36個を、数時間かけて服用してもらった。 その結果、4カ月後に調査で、10人中3人がピーナツを数粒食べられるまでに改善していた。 続く段階では、移植前に抗菌...",
+      "published": "2026-08-06T22:05:53Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89ec6b9fa30f6f965ad67ab8b8168939",
+      "title": "LLM Wikiパターンの標準化 OKF(Open Knowledge Format)",
+      "link": "https://zenn.dev/finatext/articles/2ea88e4b1c2e5b",
+      "summary": "Open Knowledge Format（OKF）— LLM Wikiパターンの標準化 ナウキャストで長期LLMインターンをしている北川です。LLM系のタスクのキャッチアップをする中で、最近「OKF」という技術を耳にする機会が増えました。 OKFはまだ登場したばかりの仕様で、その概念を理解するには...",
+      "published": "2026-08-06T22:30:23Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "660680e9684eec47e2854292cd831abb",
+      "title": "仕事で成果を出すには「図々しさ」が必要そう - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/gianism-for-working",
+      "summary": "ソフトウェア開発者として芸歴10年を超え、それなりに仕事が出来るようになったと自負している。ふと自身の成長を振り返ってみると若手の頃と比べて「図々しさ」のようなもののレベルがかなり上がったように感じている。それについて言語化してみる。 相手の都合に遠慮しない 「相手が忙しくて返事が来ない」「依頼した...",
+      "published": "2026-08-05T00:42:26Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "436315164f52dcb6b6c04e21f08b7a3a",
+      "title": "Cloudflareが「自社で使っている社内AIワークスペース」をオープンソース公開 — ゼロトラスト・マルチモデル対応、構築コストを省いてそのまま使える",
+      "link": "https://techfeed.io/entries/6a73c39e4ddb25dd629d5070",
+      "summary": "",
+      "published": "2026-08-06T23:03:35Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "243348e9d7029822f43ef77fee9dc18e",
+      "title": "Rustプロジェクトの5チーム、rust-lang/rustへの貢献ではLLMによる分析や確認を許可、作成は厳しく制限 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/rust-lang-rust-llm-policy",
+      "summary": "Rustプロジェクトの5チーム⁠⁠、rust-lang/rustへの貢献ではLLMによる分析や確認を許可⁠⁠、作成は厳しく制限 Rustプロジェクトは2026年8月5日、コンパイラや標準ライブラリなどを管理する5チームがrust-lang/rustモノレポジトリへの貢献に関する大規模言語モデル（LL...",
+      "published": "2026-08-06T09:31:49Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "315c6c41776ed47ac5c2adeb344e1e65",
+      "title": "タイガー、魔法瓶の技術を応用した断熱材をデータセンターに提供、東急グループの実証実験で 「ステンレス密封真空断熱パネル TIVIP」",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2131252.html",
+      "summary": "",
+      "published": "2026-08-06T09:48:57Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f3a043a7a47a12c677bad07b07c3b40",
+      "title": "Claude が書く長いコメントは、Claude 自身の役に立っていなかった",
+      "link": "https://zenn.dev/uzu_tech/articles/86a2ef05a7d649",
+      "summary": "はじめに 株式会社Sally 所属エンジニアの @wellPicker です。 弊社では、スマホやパソコンでマダミスを遊べるアプリであるウズや、マダミス情報・予約管理サイトマダミス.jp、マダミス開発ツールウズスタジオを開発しています。 マダミスについてはこちらをご覧ください。 Claude Cod...",
+      "published": "2026-08-06T22:38:43Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b996b27c1be2c238ac8c941409cab812",
+      "title": "モノリス Rails でも日中に rails db:migrate を走らせたい！ / Daytime rails db:migrate on Monolithic Rails!",
+      "link": "https://speakerdeck.com/euglena1215/daytime-rails-db-migrate-on-monolithic-rails",
+      "summary": "Omotesando.rb #124 × Roppongi.rb #45 の発表資料です。 https://roppongirb.connpass.com/event/400169/ スライドで紹介した記事はこちら https://tech.timee.co.jp/entry/2026/07/…",
+      "published": "2026-08-06T12:31:22Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31066eff61379ac8a30513f133189c61",
+      "title": "AI検索はGoogle検索を置き換えるのではなく新たな顧客を呼び込んでいるとShopifyが報告",
+      "link": "https://gigazine.net/news/20260806-shopify-ai-search/",
+      "summary": "ブラウザ検索をする代わりにチャットAIに尋ねることで知りたいことの解説や必要な情報を得られることから、「Google検索からウェブサイトへの流入が減少する」という懸念が広がっています。一方で、eコマースプラットフォームを運営するShopifyは、「AI検索はGoogle検索を置き換えるものではなく、...",
+      "published": "2026-08-06T11:30:06Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "220491d56c753883f5a5f344fdfcc892",
+      "title": "Storybookとは？ UIコンポーネントを効率よく開発・確認するウェブのツール - ICS MEDIA",
+      "link": "https://ics.media/entry/260806/",
+      "summary": "Reactなどで作るコンポーネントは、渡すデータによって見た目が変わります。たとえば次のようなパターンは、普段の開発用データでは確認できないことがあります。 一覧が0件のとき スクロールが必要なほど件数が多いとき カードなどで文言が極端に長いとき 画面遷移やデータの準備をしてから各パターンを見に行く...",
+      "published": "2026-08-06T07:50:09Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06092c14f23213477a7c27b0ceb7d39b",
+      "title": "Cloudflare、組織の業務知識やシステム、アプリをエージェントが活用できるAIワークスペース「Cloudflare OS」をオープンソースとしてリリース | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/cloudflare-os",
+      "summary": "Cloudflare⁠⁠、組織の業務知識やシステム⁠⁠、アプリをエージェントが活用できるAIワークスペース「Cloudflare OS」をオープンソースとしてリリース Cloudflareは2026年8月5日、組織内で活用可能なAIエージェントワークスペース「Cloudflare OS」をリリース、...",
+      "published": "2026-08-06T09:08:31Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f253458bdf4780ebdedeaa524c046f9",
+      "title": "見た目は既視感ありまくりなレトロデザイン、でもビデオ通話にも対応した日本発のチャットアプリが登場【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2131030.html",
+      "summary": "",
+      "published": "2026-08-06T07:16:03Z",
+      "fetched_at": "2026-08-07T02:13:04.193151+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-06T23:51:23.460903+00:00"
+  "updated_at": "2026-08-07T02:13:04.193151+00:00"
 }

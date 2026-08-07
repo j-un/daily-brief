@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5acbebe46d97d213dfad0a932d7e9823",
-      "title": "The Economic Benefit of Refactoring",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The Economic Benefit of Refactoring",
-      "published": "06 Aug 2026 01:55 +0000",
-      "fetched_at": "2026-08-06T04:58:54.317319+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "6eb7db8f963df5c64c7273657a49d543",
       "title": "Aurora MySQL バージョン3系でリーダーインスタンスからテーブルが見えなくなるバグの旅路 - CyberAgent SRG #ca_srg",
       "link": "https://ca-srg.dev/3b14358b43f78039b312da13a56065bf",
@@ -809,7 +799,117 @@
       "fetched_at": "2026-08-07T08:48:04.829233+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "9044ebdc0eda5bdf7e450237a253f3fa",
+      "title": "第921回 Canonical Workshopでコーディングエージェントの実行環境を作る | gihyo.jp",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0921",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 第921回 Canonical Workshopでコーディングエージェントの実行環境を作る | gihyo.jp",
+      "published": "07 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35945fd7a82cd89f1217158135cca97a",
+      "title": "エージェンティックエンタープライズを AWS for SAP MCP Server on Amazon Bedrock AgentCore で実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/building-agentic-enterprises-on-aws-using-aws-for-sap-mcp-server-on-amazon-bedrock-agentcore/",
+      "summary": "AWS for SAP MCP Server は、SAP ERP のビジネスデータとビジネスプロセスをファーストクラスの MCP ツールへと変換します。Amazon Quick、Strands SDK、SAP Joule Studio でエージェントを構築する場合でも、A2A を使用してマルチエージ...",
+      "published": "Fri, 07 Aug 2026 09:26:35 +0000",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba380bc8808158f0f9c0a49c7610611a",
+      "title": "ランタイムインスタンス: Amazon Bedrock AgentCore 上の本番環境の AI エージェント用のパーシステントコンピューティング",
+      "link": "https://aws.amazon.com/jp/blogs/news/runtime-instances-persistent-compute-for-production-ai-agents-on-amazon-bedrock-agentcore/",
+      "summary": "AI エージェントをプロトタイプから本番環境に移行すると、インフラストラクチャの課題は倍増します。エージェント […]",
+      "published": "Fri, 07 Aug 2026 08:54:58 +0000",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "512f459a6a301def8eb19cd45f7efd06",
+      "title": "KDDI、楽天へのローミングを9月末で終了",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2131649.html",
+      "summary": "",
+      "published": "2026-08-07T08:59:02Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d476d4b2f33bcbb2ae394b9ea7fc7939",
+      "title": "ChatGPTからアドビツールを使用し創作可能な「Adobe for ChatGPT」をリリース",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2131431.html",
+      "summary": "",
+      "published": "2026-08-07T03:26:17Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e76aac2f2e5941caab9c675727132399",
+      "title": "HBMの速さとSSDの大容量を兼ね備えた「HBF」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2131478.html",
+      "summary": "",
+      "published": "2026-08-07T05:42:57Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce6149a64999a67c8002dbb8f7d79d74",
+      "title": "「Chrome」で「Firefox」が動く……!? WebAssemblyで実装された「Gecko」エンジン／意味があるかどうかはともかくロマンたっぷり【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2131534.html",
+      "summary": "",
+      "published": "2026-08-07T09:07:37Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba8cc409453a8ea287f7eca6a95c1a2a",
+      "title": "AWSがAnthropicとOpenAIと組んでコード脆弱性検出ツール「AWS Continuum」を発表 — コードを書きながらセキュリティ修正まで完結する世界へ",
+      "link": "https://techfeed.io/entries/6a73c3fc4ddb25dd629d50d1",
+      "summary": "",
+      "published": "2026-08-06T23:31:42Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f970859696e780f91efc6b076aa5a6a",
+      "title": "Apple、攻撃者が有効な認証情報なしでネットワーク上のMacの画面共有を認証できる脆弱性1件を修正した「macOS Tahoe 26.6.1」や「macOS Sequoia 15.7.9/Sonoma 14.8.9」をリリース。",
+      "link": "https://applech2.com/archives/20260807-apple-fixed-screen-sharing-vulnerability-macos-tahoe-26-6-1.html",
+      "summary": "Appleが攻撃者が認証なしにネットワーク上のMacの画面共有機能を利用できる脆弱性1件を修正した「macOS Tahoe 26.6.1」や「macOS Sequoia 15.7.9」などをリリースしています。詳細は以下から。 Appleは現地時間2026年07月27日、150件以上の脆弱性を修正し...",
+      "published": "2026-08-07T04:22:23Z",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3efdee7b625936d99eb25c8f5058068b",
+      "title": "「AudioRoute 0.5」でPC音声をDAWに取り込む、設定不要のサンプリング環境",
+      "link": "https://1ikkai.com/2026/08/%e3%80%8caudioroute-0-5%e3%80%8d%e3%81%a7pc%e9%9f%b3%e5%a3%b0%e3%82%92daw%e3%81%ab%e5%8f%96%e3%82%8a%e8%be%bc%e3%82%80%e3%80%81%e8%a8%ad%e5%ae%9a%e4%b8%8d%e8%a6%81%e3%81%ae%e3%82%b5%e3%83%b3%e3%83%97/",
+      "summary": "YouTubeの音源やブラウザで鳴らしたサウンドを […]",
+      "published": "Fri, 07 Aug 2026 08:58:12 +0000",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "いっかい/ikkai",
+      "category": "music"
+    },
+    {
+      "entry_id": "6043158d1cc23ff1e73dcf6a228c9ad9",
+      "title": "Sylvan Esso’s Amelia Meath says it’s “terrifying” how streaming has changed the way we consume music: “No one knows who they’re listening to now”",
+      "link": "https://musictech.com/news/music/sylvan-esso-streaming-terrifying/?utm_source=rss&utm_medium=rss&utm_campaign=sylvan-esso-streaming-terrifying",
+      "summary": "“A song is something they listen to for a week, then it is gone.” The post Sylvan Esso’s Amelia Meath says it’s “terrifying” how streaming has changed...",
+      "published": "Fri, 07 Aug 2026 08:53:18 +0000",
+      "fetched_at": "2026-08-07T10:43:28.110706+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-07T08:48:04.829233+00:00"
+  "updated_at": "2026-08-07T10:43:28.110706+00:00"
 }

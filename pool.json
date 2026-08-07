@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6eb7db8f963df5c64c7273657a49d543",
-      "title": "Aurora MySQL バージョン3系でリーダーインスタンスからテーブルが見えなくなるバグの旅路 - CyberAgent SRG #ca_srg",
-      "link": "https://ca-srg.dev/3b14358b43f78039b312da13a56065bf",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Aurora MySQL バージョン3系でリーダーインスタンスからテーブルが見えなくなるバグの旅路 - CyberAgent SRG #ca_srg",
-      "published": "06 Aug 2026 06:55 +0000",
-      "fetched_at": "2026-08-06T08:19:09.418809+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "dc4fd5ffb0569f79bc8e2934b1aa5632",
       "title": "Herdr is joining Y Combinator. The runtime stays open",
       "link": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
@@ -909,7 +899,127 @@
       "fetched_at": "2026-08-07T10:43:28.110706+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "8d616c28c695a1efd1e9715d34c7eca3",
+      "title": "基礎と実践が1冊で学べる！ DNSマスターブック | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15805-7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 基礎と実践が1冊で学べる！ DNSマスターブック | 技術評論社",
+      "published": "07 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b84ccf55918106bf8dbedbb643668f35",
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o Comments URL: https://news.ycombinator.com/item?id=49208314 Points: 296 # Comments: 258",
+      "published": "Fri, 07 Aug 2026 10:28:55 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "761667e1aa84a0f2405d842874492c25",
+      "title": "Framework discloses data breach via Metabase 0-day",
+      "link": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "summary": "Article URL: https://community.frame.work/t/framework-data-breach-discussion/83939 Comments URL: https://news.ycombinator.com/item?id=49206130 Points:...",
+      "published": "Fri, 07 Aug 2026 05:17:57 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "302ed5df2ce241a39e73aadb9770f93f",
+      "title": "A handful of cities have replaced Flock with Axon",
+      "link": "https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/",
+      "summary": "Article URL: https://www.404media.co/cities-are-ditching-flock-immediately-replacing-it-with-axon-license-plate-readers/ Comments URL: https://news.yc...",
+      "published": "Thu, 06 Aug 2026 16:58:39 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a550aa0793a12fd55b60d1d16386e9f",
+      "title": "テストが増えすぎてもう限界だったので、PRで全テストを回すのをやめた話 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/08/07/164910",
+      "summary": "はじめに こんにちは、タイミーのプラットフォームエンジニアリングチームに所属している徳富(@yannKazu1)です。 この記事では、スキマバイトサービス「タイミー」のバックエンド（Rails API）に Datadog Test Impact Analysis（TIA） を導入し、PRごとのCIフ...",
+      "published": "2026-08-07T09:53:34Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c7a871d32fdba5dd232339672e38a36",
+      "title": "40代ITエンジニアだが俺達の世代のプライドの高さを許してやってくれ",
+      "link": "https://anond.hatelabo.jp/20260807171120",
+      "summary": "https://anond.hatelabo.jp/20260804180722 この間、酒を片手にこういう記事を書いていたら 思いのほか反応があったが、シラフに戻るとやっぱりなんか恥ずかしいので消してしまったのだが ブコメを見ていると、やっぱり俺達の世代って、プライド高すぎて救われないなって思って...",
+      "published": "2026-08-07T08:18:00Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04986805ff1be403313827fa1e032e06",
+      "title": "Formisch・Honox・Cloudflare Workersではじめる超ミニマルなSchema駆動開発 - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/b80576e5-1efc-2c1a-bf81-ee838b66db06",
+      "summary": "Cloudflare Workers Tech Talks in Osaka #3での登壇資料です。オリジナルの資料はこちらです。 このエントリはCloudflare Workers Tech Talks in Osaka #3でお話しした内容を文字起こししているものです。 はじめに 最近Type ...",
+      "published": "2026-08-07T08:05:45Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab62c2fd7b623e987fcd666aaa233c05",
+      "title": "良かれと思って無駄な仕事が増えていく｜柴田史郎",
+      "link": "https://note.com/4bata/n/n49e021b13bb0",
+      "summary": "ほぼ日の「クソどうでもいい仕事」の記事を読んだ。面白い図があったので自分なりに解釈して書いてみる。 例：「見積を出して申込書をもらう」の工程が3.5倍になるまでこのような流れがあったとする。ここにいろんな確認フローがはいって業務が増えていく。 業務プロセスは3.5倍になっている！ 個別の業務にはやる...",
+      "published": "2022-08-17T10:22:30Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ce5c38f818f13d93c58c7ffde87307e",
+      "title": "Claude Fable 5、格下モデルに回される不満が85%減。生物学の質問で",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2131483.html",
+      "summary": "",
+      "published": "2026-08-07T05:14:20Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82fa9741fa8571be3ec75d52d2c45fdf",
+      "title": "東映の歴代オープニング映像がカプセルトイに。全5種で8月下旬発売",
+      "link": "https://av.watch.impress.co.jp/docs/news/2131564.html",
+      "summary": "",
+      "published": "2026-08-07T06:31:30Z",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b86631926e7e6f347994876e506fb91",
+      "title": "📦 K2SOsint / Legendary_OSINT ⭐ 1,144 (+6…",
+      "link": "https://github.com/K2SOsint/Legendary_OSINT",
+      "summary": "📦 K2SOsint / Legendary_OSINT ⭐ 1,144 (+64) A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "published": "07 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0de3d327a60203c7fbb8a64070b0fd0b",
+      "title": "Score up to 30% off Teenage Engineering gear – plus more studio hardware deals you can’t miss this week",
+      "link": "https://musictech.com/news/gear/best-studio-hardware-deals/?utm_source=rss&utm_medium=rss&utm_campaign=best-studio-hardware-deals",
+      "summary": "Here’s what’s worth adding to your cart while the discounts last. The post Score up to 30% off Teenage Engineering gear – plus more studio hardware de...",
+      "published": "Fri, 07 Aug 2026 11:20:18 +0000",
+      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-07T10:43:28.110706+00:00"
+  "updated_at": "2026-08-07T12:43:10.400446+00:00"
 }

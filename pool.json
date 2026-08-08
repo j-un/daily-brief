@@ -429,7 +429,177 @@
       "fetched_at": "2026-08-08T03:17:11.270881+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b6b8bc0301260c10d42800fb3e97c4f1",
+      "title": "第276回 EXPLAIN FOR CONNECTIONを使用して実行中のクエリの実行計画を取得する | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/mysql-rcn0276",
+      "summary": "「EXPLAIN FOR CONNECTIONを利用すると、実行中のセッションに対して、そのSQLの実行計画を別セッションから取得できます」うおー。MySQL 5.7から利用可能と。",
+      "published": "08 Aug 2026 04:41 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07e269b3e0ec859e383672bf615be333",
+      "title": "rsyncのTUIクライアント。lazygitのrsync版だな。rsyncの実…",
+      "link": "https://github.com/westpoint-io/lazyrsync",
+      "summary": "rsyncのTUIクライアント。lazygitのrsync版だな。rsyncの実行をインタラクティブにメニューポチポチから実行可能。",
+      "published": "08 Aug 2026 04:37 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "618b8cb06177b16bc12c1c1300ef8b22",
+      "title": "h1 がでかくなる TUI markdown viewer - mdroll を開発した - tokuhirom's blog",
+      "link": "https://blog.64p.org/entry/2026/08/04/054031",
+      "summary": "わいわい",
+      "published": "08 Aug 2026 04:33 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04bfc952132810c78416b8c5d47d3fdd",
+      "title": "クラウドネイティブ教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
+      "link": "https://linuc.org/textbooks/cloudnative/",
+      "summary": "「クラウドネイティブの構造と原理を理解し、実践を通して学習することを目的」「Kubernetesやコンテナの操作手順を覚えることではなく、なぜその設計が必要になったのかを構造として捉えることを重視」",
+      "published": "08 Aug 2026 04:32 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2bd6fa3f519633ca8c37e947c0f88f1",
+      "title": "Don't be a meat proxy",
+      "link": "https://gruhn.me/blog/2026-08-03/",
+      "summary": "AIが出力した内容をそのまま回答とするmeat proxyになってませんか。なかなかエゲツないネーミングではある。",
+      "published": "08 Aug 2026 04:28 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19c461727804ec59c20f79563e5846ae",
+      "title": "高速を謳うターミナル実装。イカれた名前だぜ…",
+      "link": "https://github.com/pg83/shitty",
+      "summary": "高速を謳うターミナル実装。イカれた名前だぜ",
+      "published": "08 Aug 2026 04:25 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca521f3f866bf01fa2dcb81bec0bccc4",
+      "title": "次期WSGIサーバー選定 - methaneのブログ",
+      "link": "https://methane.hatenablog.jp/entry/2026/08/03/%E6%AC%A1%E6%9C%9FWSGI%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E9%81%B8%E5%AE%9A",
+      "summary": "uWSGIは開発終了してメンテモード。granian知らなかった。ほほう",
+      "published": "08 Aug 2026 04:21 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1957f18bde6ac5ec74582580eca7af5",
+      "title": "メタデータ管理入門 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401765/",
+      "summary": "2026年8月26日発売",
+      "published": "08 Aug 2026 04:17 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16972dfbed916810784862830282b73c",
+      "title": "macOSのCLIアプリをLinux上で動かせるツール。メインターゲットはCI用…",
+      "link": "https://github.com/wie-project/kakehashi",
+      "summary": "macOSのCLIアプリをLinux上で動かせるツール。メインターゲットはCI用途で、macOS runnerを動かすよりもコスト面や縛りの関係でメリットが大きいと。なるほど。",
+      "published": "08 Aug 2026 04:09 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a8dd7e7021696d41284c02a8d1dbeb7",
+      "title": "Linuxデスクトップ端末の一括ポリシー管理ツール。パッケージ管理やソフトウェア…",
+      "link": "https://github.com/VuteTech/bor",
+      "summary": "Linuxデスクトップ端末の一括ポリシー管理ツール。パッケージ管理やソフトウェアの設定ファイルなどの一元管理が可能。ActiveDirectory連携機能もある。",
+      "published": "08 Aug 2026 04:00 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "130dbb39105abd04bc11ff125906f3b3",
+      "title": "Go 1.27 interactive tour",
+      "link": "https://victoriametrics.com/blog/go-1-27/",
+      "summary": "新バージョンがリリースされるたびに出てたinteractive tourをVictoriaMetricsが引き継いだそう。いいね。わいわい",
+      "published": "08 Aug 2026 03:49 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ec23fe29faecf5459a8105b6815c237",
+      "title": "ターミナルで動作するIDE。マウス操作も可。tmuxの中でも動作する。終了はct…",
+      "link": "https://github.com/paradise-runner/toast",
+      "summary": "ターミナルで動作するIDE。マウス操作も可。tmuxの中でも動作する。終了はctrl+qです。Go実装",
+      "published": "08 Aug 2026 03:36 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "daab7884d282f3cb88719512340e0479",
+      "title": "AI時代のビジュアライゼーション用言語。バックエンドとしてVega-Lite,…",
+      "link": "https://github.com/microsoft/flint-chart",
+      "summary": "AI時代のビジュアライゼーション用言語。バックエンドとしてVega-Lite, ECharts, Chart.js, Plotly, Excelなどを利用可能。MCPも搭載。提供元はMicrosoft",
+      "published": "08 Aug 2026 03:30 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18ac95b9b65f256363a2c6a6a41eca35",
+      "title": "10 チーム同時のハッカソンを支えた Kubernetes + Argo CD の GitOps プレビュー環境「3A」の紹介 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/ai-workforce-gitops-for-hackathon2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 10 チーム同時のハッカソンを支えた Kubernetes + Argo CD の GitOps プレビュー環境「3A」の紹介",
+      "published": "08 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cc1efe255ee4cc4f20feb55765ff5d5",
+      "title": "本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/08/5373.html",
+      "summary": "エリック・サティ様式の自動生成機関を作りました。",
+      "published": "2026-08-07T23:18:57Z",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "796635d12b27805f0f196777eb95b402",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans | Claude by Anthropic",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "summary": "We're making auto mode the default in Claude Code. Starting on August 14, new sessions on Pro, Max, and Team plans will run in auto mode. If you've al...",
+      "published": "2026-08-07T23:44:42Z",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0faec98f86e4fde0f792a68e2ecbc6c",
+      "title": "GitHub - cathrynlavery/diagram-design: Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "Editorial diagrams your designer won't hate. 14 types. One Claude Code skill. Your brand in 60 seconds — the skill reads your website and maps colors ...",
+      "published": "2026-04-18T11:08:08Z",
+      "fetched_at": "2026-08-08T04:47:32.549664+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-08T03:17:11.270881+00:00"
+  "updated_at": "2026-08-08T04:47:32.549664+00:00"
 }

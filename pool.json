@@ -809,7 +809,367 @@
       "fetched_at": "2026-08-08T10:22:37.107140+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "83b112149e1cc1da86be767872171444",
+      "title": "TUIベースのkubernetesクラスタ管理ツール。Go実装。macOSならb…",
+      "link": "https://github.com/janosmiko/lfk",
+      "summary": "TUIベースのkubernetesクラスタ管理ツール。Go実装。macOSならbrew install lfkでインストール可",
+      "published": "08 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed4d800115fc217ff4dd321807b1cf92",
+      "title": "MicrosoftからだがWindowsのみならずmacOSやUbuntuでも動…",
+      "link": "https://github.com/microsoft/skill-recorder",
+      "summary": "MicrosoftからだがWindowsのみならずmacOSやUbuntuでも動作するよう作られてる。さらに言えば「macOS is the primary target」マジか。",
+      "published": "08 Aug 2026 12:08 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df764f9a3885c03210ad8c8b8665347b",
+      "title": "https://blog.clamav.net/2026/08/clamav-154-and-146-security-patch.html",
+      "link": "https://blog.clamav.net/2026/08/clamav-154-and-146-security-patch.html",
+      "summary": "ClamAVに脆弱性対応パッチきてます。アップデートしましょう。",
+      "published": "08 Aug 2026 11:46 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df076c0c6fa09fbd33a88b93d6535c66",
+      "title": "Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+      "summary": "公式による「アフターサービス用の技術支援ツール」との説明はちょっと苦しい言い訳のように見える。",
+      "published": "08 Aug 2026 11:46 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d465f4b45da1040a35ee8f468b5983c5",
+      "title": "PostgreSQLをRustで再実装するプロジェクト。すでにテストは一通りpa…",
+      "link": "https://github.com/malisper/pgrust",
+      "summary": "PostgreSQLをRustで再実装するプロジェクト。すでにテストは一通りpassしているらしい。ブラウザで動作するデモあり。試してみたが \\z は効かなかったりした。",
+      "published": "08 Aug 2026 11:38 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c0bfdacfc3b69a13a5a193ab05152d6",
+      "title": "第9回 Okta勉強会 by JOUG - connpass",
+      "link": "https://okta.connpass.com/event/402050/",
+      "summary": "現地/オンライン",
+      "published": "08 Aug 2026 11:29 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20ccc14f4bbcdd735cfaa0eb89b0895d",
+      "title": "Fastly Tech Meetup vol.1: QUIC, 103 Early Hints - connpass",
+      "link": "https://fastly-japan.connpass.com/event/386450/",
+      "summary": "現地開催",
+      "published": "08 Aug 2026 11:27 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "313713bfbd31550ea6ed71fea6b07fe8",
+      "title": "老舗のマウスユーティリティ「チューチューマウス」がAIの力を借りて15年ぶりに復活 - 窓の杜",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2131497.html",
+      "summary": "うおおおおお。懐かしいな。FMV-DESKPOWER Cで動いてたわ。",
+      "published": "08 Aug 2026 11:24 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e8d778552de6ce10ecc73800c8cc2b2",
+      "title": "実践 プラットフォームエンジニアリング | マイナビブックス",
+      "link": "https://book.mynavi.jp/ec/products/detail/id=151794",
+      "summary": "2026年8月24日発売",
+      "published": "08 Aug 2026 11:20 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce90c53d6e7a576528be9eb650ed00fb",
+      "title": "これだな。localで動かす場合はlocahost:7777で確認が可能。New…",
+      "link": "https://github.com/newrelic-experimental/preflight",
+      "summary": "これだな。localで動かす場合はlocahost:7777で確認が可能。New Relicアカウント不要。",
+      "published": "08 Aug 2026 11:19 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd2715efdf6e3ac27aeaab8d0b422db2",
+      "title": "New Relic、AIコーディングアシスタントに可視性とガバナンスをもたらす新機能「New Relic Preflight」を発表 | New Relic",
+      "link": "https://newrelic.com/jp/press-release/20260730-1",
+      "summary": "AIエージェントのオブザーバビリティを実現できるOSSツールか。New Relicに送信することもできるが、New Relicを利用せずローカルでダッシュボード確認も可能と。",
+      "published": "08 Aug 2026 11:18 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03a29a2d558e0bf7884a3dee308fb2d3",
+      "title": "Metric cardinality limits in OpenTelemetry: a practical guide | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry/",
+      "summary": "OpenTelemtryで集めたメトリクスが高カーディナリティの場合はoverflowとしてまとめられてしまう場合がある。otel_metric_overflow=\"true\"を監視しましょうと。OpenTelemetryをご利用の皆様。",
+      "published": "08 Aug 2026 11:14 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "039f4dd45b0f0134b16e58738f39e08f",
+      "title": "MCPの教科書［上巻⁠］⁠～MCPで成果を出すAI導入戦略 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15850-7",
+      "summary": "2026年8月26日発売。下巻も同時発売。",
+      "published": "08 Aug 2026 11:08 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "29a0879a89e189c331ec9ebcf87bbb20",
+      "title": "AIエージェントに関するリスク等を検出するためのCLIセキュリティスキャナーかな…",
+      "link": "https://github.com/asamassekou10/ship-safe",
+      "summary": "AIエージェントに関するリスク等を検出するためのCLIセキュリティスキャナーかな。プロンプトインジェクションや強すぎるTools権限などを検出できるらしい。",
+      "published": "08 Aug 2026 10:57 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ab654e456c4775329dec06dbb66871e",
+      "title": "セルフホストが可能なCloudflare Workers + Durable O…",
+      "link": "https://github.com/denoland/celld",
+      "summary": "セルフホストが可能なCloudflare Workers + Durable Objectsらしい。",
+      "published": "08 Aug 2026 10:49 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e83053ea3d1458b051a5d3f8ae676ca0",
+      "title": "TSON (Typed Schema Object Notation)",
+      "link": "https://tson.io/",
+      "summary": "型付きJSON亜種か。",
+      "published": "08 Aug 2026 10:45 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c95b175414a4ee74be065ba22bc6223",
+      "title": "Amazon DynamoDB が、あらゆる規模でリアルタイムのベクトル検索をサポートするようになりました | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-dynamodb-now-supports-real-time-vector-search-at-any-scale/",
+      "summary": "「あらゆる規模で」",
+      "published": "08 Aug 2026 10:43 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d04b1527030ba34b638b1ece70624767",
+      "title": "USBデバイスの接続状況を可視化するTUIツール。USBハブの接続状況や通信状況…",
+      "link": "https://github.com/gnomeria/usbtree",
+      "summary": "USBデバイスの接続状況を可視化するTUIツール。USBハブの接続状況や通信状況も表示可。Linux, macOS, Windowsに対応。Rust実装",
+      "published": "08 Aug 2026 10:42 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09594ec4dc67ff0dc9d2e98e6ddb3886",
+      "title": "Windows 11が劇的に速くなる？PCが重い原因をAIが解説してくれる時代に | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/windows11-ai-diagnostics/",
+      "summary": "「ETW MCPは一般ユーザー向けではなく、 Windowsを開発・検証する側の人々に向けたツール」とのことだが、一般向けにも用意されるべきツールだと思う。",
+      "published": "08 Aug 2026 10:37 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed096530b6d496dbe08ba4f66e120b23",
+      "title": "Cloudflare Walletsを発表：エージェント型インターネットのためのプログラム可能なウォレット | Cloudflare ブログ",
+      "link": "https://blog.cloudflare.com/ja-jp/wallets/",
+      "summary": "取り急ぎ自分のアカウントの​Cloudflare Walletハンドルを確保しました。",
+      "published": "08 Aug 2026 10:35 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca96333f643f2150781a8760bdb0e96a",
+      "title": "BurpSuiteとAIエージェントを橋渡しするためのBurp Suite拡張…",
+      "link": "https://github.com/six2dez/burp-ai-agent",
+      "summary": "BurpSuiteとAIエージェントを橋渡しするためのBurp Suite拡張",
+      "published": "08 Aug 2026 10:32 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fc4577beeac63e30b0f47908bd7a55e",
+      "title": "gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術",
+      "link": "https://zenn.dev/microsoft/articles/agent-framework-ultra-soul",
+      "summary": "「Ultra(think)」「Sol」「High」こうですか",
+      "published": "08 Aug 2026 10:29 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "324d0db8b0c0a4dbb0d83f239f1b9b8b",
+      "title": "PowerShellのプロンプトを固定名にして、プロンプトのマスキングを不要にする | Webシステム開発／教育ソリューションのタイムインターメディア",
+      "link": "https://www.timedia.co.jp/tech/20260806-tech/",
+      "summary": "おー知らなかった。カレントディレクトリ名だけ表示するよう設定しとこ。",
+      "published": "08 Aug 2026 10:26 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef73b78727feadc35a7e53582c4b4990",
+      "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+      "summary": "「脆弱性データベースであるOSVなどを参照して不正なmanifestやマルウェアなど、現時点で27万5000以上のパッケージを排除」。偽脆弱性情報で依存関係をぶっ壊されることがないといいが。xkcd 927にならないことを祈る。",
+      "published": "08 Aug 2026 10:23 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27d8c473fef8dc173ec06a61501a4bd0",
+      "title": "大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/02/165033",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 大阪・関西万博関連ドメインの一部で起きているドロップキャッチについてまとめてみた",
+      "published": "08 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "797094e78234ab7f6c9a65ea6b9a91a8",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 161 # Comments: 51",
+      "published": "Sat, 08 Aug 2026 07:04:51 +0000",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a07a308036390024945f2d2bde4f5db",
+      "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/na-k10015200151000",
+      "summary": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー…",
+      "published": "2026-08-08T06:31:30Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "281ffbf50f64bb9913b90a702fee83d3",
+      "title": "有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」",
+      "link": "https://gigazine.net/news/20260808-unpaywall/",
+      "summary": "「Unpaywall」は探している学術論文がオープンアクセスで提供されているかどうかをデータベース検索によりチェックし、無料で購読可能であればリンクボタンを表示してくれるブラウザ拡張機能です。 Browser Extension | Unpaywall https://unpaywall.org/p...",
+      "published": "2026-08-08T04:04:39Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71b09fb38a1e2a0f30681673708cc99c",
+      "title": "防衛装備庁からの公表事項について",
+      "link": "https://ricsec.co.jp/news/notice-of-bidding-suspension",
+      "summary": "拝啓 時下ますますご清栄のこととお喜び申し上げます。 平素より格別のご高配を賜り、厚く御礼申し上げます。 このたび、弊社が防衛装備庁より受託しておりました開発業務に関する請求内容について確認が行われた結果、指名停止の措置を受けるに至りましたことをご報告申し上げます。 弊社といたしましては、本件を厳粛...",
+      "published": "2026-08-07T21:35:00Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec949bc29d70ae61e0709639de134c6e",
+      "title": "ペンで文字を書くように操作できるサンワサプライの「ペン型マウス」を使ってみた",
+      "link": "https://gigazine.net/news/20260808-pen-mouth-sanwa/",
+      "summary": "サンワサプライの「ペン型マウス(400-MAWB231)」は太いペンの形をしたマウスで、胸ポケットに入れてスマートに持ち運びながら、小さいスペースでも文字を書くようにマウスを操作することができます。サンワサプライからペン型マウスを提供してもらったので、どんな操作感なのか実際に使ってみました。 400...",
+      "published": "2026-08-08T08:01:51Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bff559e935393a730e6172cc715132e8",
+      "title": "AI音楽生成サービス「Suno」がAI生成楽曲に音声透かしを導入すると発表",
+      "link": "https://gigazine.net/news/20260808-suno-start-watermarking-songs/",
+      "summary": "AI音楽生成サービスの「Suno」が、プラットフォーム上で作成された楽曲を識別し、ダウンロードを制限し、模倣楽曲を防止するためのコミュニティガイドラインを更新するための新ツールを発表しました。 How We're Building the Future of Music Responsibly · ...",
+      "published": "2026-08-08T00:15:37Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2852df6250a9557a541a048a0f20b673",
+      "title": "From Japanese to a Japanese。日本語話者が日本人を標的として展開するスミッシング（SMSフィッシング）｜__aloha__",
+      "link": "https://note.com/hiro_shi_note/n/nf8e3910436e1",
+      "summary": "From Japanese to a Japanese。日本語話者が日本人を標的として展開するスミッシング（SMSフィッシング） こんにちは皆さん。今回は日本語を話す攻撃者が日本人をターゲットにしたフィッシング攻撃について調査しました。同じアクターの基盤や検体の分析は、「\"Canis C2 Expo...",
+      "published": "2026-08-08T03:25:42Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d4fbf7b036fa76e33b44e779b0893da",
+      "title": "OpenAI、GitHubのプルリクエストをセキュリティ面から詳しく調べる「Codex Security Review」を研究プレビューで提供 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/codex-security-review",
+      "summary": "OpenAI⁠⁠、GitHubのプルリクエストをセキュリティ面から詳しく調べる「Codex Security Review」を研究プレビューで提供 OpenAIは2026年8月6日、GitHubのプルリクエストをセキュリティ面から詳しく調べる「Codex Security Review」を研究プレビ...",
+      "published": "2026-08-07T20:44:32Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbc49ee172d3b61c7ac5ea3276d49a5b",
+      "title": "【コラム】AI駆動開発は本当に効率的なのか？最新の実証研究から考える｜makoto | 組込開発×AI自動化",
+      "link": "https://note.com/dx_ai_report/n/n05a86ff4fde1",
+      "summary": "こんばんは。Makotoです。 最近、ソフトウェア開発の現場では、AIを使うことがかなり当たり前になってきましたね。 GitHub Copilotのようなコード補完だけでなく、Cursor、Claude Code、Codexなどを使い、AIに既存のソースコードを読ませ、複数ファイルを変更させ、テスト...",
+      "published": "2026-08-08T04:00:49Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79bc7cba4443e8b59809b599eddcfd19",
+      "title": "主要10デザインシステムに見るAIへの向き合い方とそのトレンド｜金 成奎",
+      "link": "https://note.com/seikei_kin/n/n726ab396c481",
+      "summary": "最近、各社のデザインシステムを見てみると、着々とAI関連のアップデートが盛り込まれていることに気づきます。本記事ではその観点から各デザインシステムを調査して見えてきた、デザインシステムにおけるAIへの向き合い方とそのトレンドについて、考察してみます。 事例Fluent 2 / Microsoft デ...",
+      "published": "2026-08-07T13:20:02Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55c25c24b0e4d0582200cfbc4f65f29d",
+      "title": "GitHub - Wyzer-Lang/wyzer: The Wyzer Programming Language",
+      "link": "https://github.com/Wyzer-Lang/wyzer",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-08-07T14:34:02Z",
+      "fetched_at": "2026-08-08T12:30:39.993335+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-08T10:22:37.107140+00:00"
+  "updated_at": "2026-08-08T12:30:39.993335+00:00"
 }

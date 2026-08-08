@@ -239,7 +239,197 @@
       "fetched_at": "2026-08-08T01:01:01.094815+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "802e89f1d588bb4347267a708c681170",
+      "title": "Spring Bootのメトリクス情報をさっと視覚化できるGo実装アプリ。Pro…",
+      "link": "https://github.com/PVRLabs/statlite",
+      "summary": "Spring Bootのメトリクス情報をさっと視覚化できるGo実装アプリ。PrometheusやGrafanaなどなしにワンバイナリで動作するので小規模な環境で手軽に利用できると。",
+      "published": "08 Aug 2026 02:34 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c6a9ca5a1fcd63f6bc6a81dd396a2f2",
+      "title": "大量のプロットでも高速を謳うPython向けグラフ描画ライブラリ…",
+      "link": "https://github.com/reflex-dev/xy",
+      "summary": "大量のプロットでも高速を謳うPython向けグラフ描画ライブラリ",
+      "published": "08 Aug 2026 02:07 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f93bdaf6e1d1cc3c2a45d8203bf1405",
+      "title": "生ログを食わせるとパターン化してサマリーや統計情報などを表示してくれるCLIツー…",
+      "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "summary": "生ログを食わせるとパターン化してサマリーや統計情報などを表示してくれるCLIツール。LLMにログを食わせるための前処理ツールとしても良さそう。",
+      "published": "08 Aug 2026 02:02 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21066e96d072f7cd11e176633ce74f15",
+      "title": "Residential Proxies Are a National Security Threat | Jake Gold",
+      "link": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
+      "summary": "一般家庭のインターネット接続を踏み台として利用されるレジデンシャルプロキシ、無料VPNサービスの利用などが原因と言われているが、スマートTVやスマホ上で動く無料ゲームにも仕込まれてる場合があると。",
+      "published": "08 Aug 2026 01:56 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b0afcbed3a22b242a2716222ef9bff2",
+      "title": "AIファーストでセルフホスト可能なチケット管理システム。Wiki機能もついてる。…",
+      "link": "https://github.com/TAJD/projektor",
+      "summary": "AIファーストでセルフホスト可能なチケット管理システム。Wiki機能もついてる。",
+      "published": "08 Aug 2026 01:45 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb2848bca10e086fdb374f9f5e6f372f",
+      "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起 AI要約も餌食に - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2607/27/1260727076/",
+      "summary": "AIに「詐欺ではありません」と言わせるのは巧妙。AIがそういうならと信じる人も普通にいそう。",
+      "published": "08 Aug 2026 01:33 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87f5e0d98aa03bbdc688d5f9b3faaf04",
+      "title": "Claude の Web Fetch ツールが最新情報を返すとは限らない話 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/claude-web-fetch-cache/",
+      "summary": "「Anthropicの公式ドキュメントを確認すると、Web Fetchツールは取得したページの内容を自動的にキャッシュしており、返される内容が必ずしも URL 上の最新版と一致するとは限らない」罠。最新情報取得したと思っちゃうよね",
+      "published": "08 Aug 2026 01:27 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba89354eb72626beaa516bc2f0e0421d",
+      "title": "TSUBAMEレポート Overflow（2026年4～6月） - JPCERT/CC Eyes | JPCERTコーディネーションセンター公式ブログ",
+      "link": "https://blogs.jpcert.or.jp/ja/2026/07/tsubame-overflow20260406.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TSUBAMEレポート Overflow（2026年4～6月） - JPCERT/CC Eyes",
+      "published": "08 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f090b2be112929c8a1e061c2b1ca4148",
+      "title": "Slack・Jira・サポートサイトを横断する CS エージェントを Agent Search + Google ADK で作った - ITANDI Engineer Blog",
+      "link": "https://tech.itandi.co.jp/entry/2026/07/28/123149",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Slack・Jira・サポートサイトを横断する CS エージェントを Agent Search + Google ADK で作った",
+      "published": "08 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2aa9443d7b257dfa26230e4f7e79d97",
+      "title": "The Nixpkgs core team has disbanded",
+      "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Point...",
+      "published": "Sat, 08 Aug 2026 01:12:45 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cef76c4fc3c51b2e485ee55182377dc",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "link": "https://genesisopenmodels.anl.gov/",
+      "summary": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 121 # Comments: 46",
+      "published": "Fri, 07 Aug 2026 22:24:27 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d03222a9858b3d718ab46812e1df88f1",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "link": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "summary": "Article URL: https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice Comments URL: https://news.ycombinat...",
+      "published": "Fri, 07 Aug 2026 12:45:08 +0000",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccd203491da3d42cbab995a2125e8c7e",
+      "title": "Amazon SageMaker Studio notebooks now support G7 instance types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g7-new-launch-sagemaker-studio-notebooks/",
+      "summary": "Amazon G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, deliver up to 4.6x AI inference performance compared to previous-ge...",
+      "published": "Mon, 03 Aug 2026 20:24:00 GMT",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa2ba818417cfe3c603acf0e3580cc9d",
+      "title": "社内MCPをCloudflare AccessとCloudflare Workersでつくる",
+      "link": "https://zenn.dev/pipipipipi/articles/661b28da670728",
+      "summary": "業務で社内MCPを作成する機会がありました。 Cloudflare AccessのManaged OAuthを使うことで簡単に実装できたので備忘録もかねてZennに投稿することにしまいた。 要件 社内メンバーのみが利用できること MCPから行えるのは読み取り操作だけであること 簡単がいい！すぐ作りた...",
+      "published": "2026-08-07T23:19:00Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5d5c594abbcf0a826bceade0043ecaa",
+      "title": "AIコーディングの次。コードレビューと理解負荷を解消して組織の開発生産性を高める",
+      "link": "https://speakerdeck.com/moongift/aikoteinkunoci-kotorehiyutoli-jie-fu-he-wojie-xiao-sitezu-zhi-nokai-fa-sheng-chan-xing-wogao-meru",
+      "summary": "第1回 AI駆動開発勉強会 札幌支部 https://aid.connpass.com/event/399546/ の発表資料です。",
+      "published": "2026-08-07T20:02:12Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea1f54decce01fa252527c745ae55554",
+      "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実 | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/96336",
+      "summary": "先月、本連載において、OpenAIのフロンティア（最先端）AIモデルがAIプラットフォーム大手のHugging Faceに不正アクセスした事件を取り上げた。この件に関して、2026年8月にラスベガスで開かれたサイバーセキュリティに関するイベント「Black Hat USA」の壇上で、OpenAIの研...",
+      "published": "2026-08-07T21:59:23Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1934139ca8f19a8f1e977b43085a1103",
+      "title": "世界に衝撃与えたリズムマシンTR-808 開発者は「当初は酷評」：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV8723PZV87UCVL05TM.html",
+      "summary": "1980年に発売されて販売不振などで2年間で生産が終わったのに、今も世界のミュージシャンを魅了している日本製の電子楽器がある。ローランドが生産した、ドラムや手拍子、カウベルなど16種類の音が鳴らせる…",
+      "published": "2026-08-08T00:47:01Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6843ff6db3e8905b1abe0e860912ed6",
+      "title": "The End of No Code - exe.dev blog",
+      "link": "https://blog.exe.dev/the-end-of-no-code",
+      "summary": "You may have heard the news: Bending Spoons acquired Airtable for $1.28 billion. Rome didn’t fall in a day, but this is as good a point as any to mark...",
+      "published": "2026-08-07T00:14:14Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3a5f0c6f894136cb21e78e2897e9e4d",
+      "title": "生きた菌糸で作られた「自ら傷を修復するドレス」が登場、汚れをはじき色やUV保護機能も追加可能",
+      "link": "https://gigazine.net/news/20260807-dress-made-of-living-mycelium/",
+      "summary": "中国科学院深圳先進技術研究院などの研究チームが、生きた菌糸を利用し、表面の再生や損傷の修復が可能な「生きた布」を開発しました。異なる微生物を組み合わせることで着色や紫外線保護といった機能も追加でき、実際にこの素材を使ったドレスも試作されています。 A programmable fungal plat...",
+      "published": "2026-08-07T07:47:20Z",
+      "fetched_at": "2026-08-08T03:17:11.270881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-08T01:01:01.094815+00:00"
+  "updated_at": "2026-08-08T03:17:11.270881+00:00"
 }

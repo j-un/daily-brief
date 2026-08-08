@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8d616c28c695a1efd1e9715d34c7eca3",
-      "title": "基礎と実践が1冊で学べる！ DNSマスターブック | 技術評論社",
-      "link": "https://gihyo.jp/book/2026/978-4-297-15805-7",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 基礎と実践が1冊で学べる！ DNSマスターブック | 技術評論社",
-      "published": "07 Aug 2026 10:55 +0000",
-      "fetched_at": "2026-08-07T12:43:10.400446+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "341c56830f9d5e1895be981d7167f901",
       "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
@@ -1419,7 +1409,67 @@
       "fetched_at": "2026-08-08T16:22:37.170485+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "a8577abe401ab7b44b8819bb46130a85",
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "link": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "summary": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779 Comments URL: https://news.ycombinator.com/item?id=49221864 Points: 104 # Com...",
+      "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8aff8aa9cfdefa9af20c2e62cac2559",
+      "title": "US Military's cyber command unit grapples with cluster of deaths by suicide",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "summary": "https://archive.ph/W2tpE Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 126 # Comments: 173",
+      "published": "Sat, 08 Aug 2026 10:04:25 +0000",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c3c4edc3b6e341b559aed8dddffaa61",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "link": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805 Comments URL: https://news.ycombinator.com/item?id=49215786 Points: 103 # Comme...",
+      "published": "Fri, 07 Aug 2026 20:25:04 +0000",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d783c9d96b6e5d464175281cbf3f128d",
+      "title": "「AIを全員に配った組織」の生産性が落ちるとき - 🐴 (馬)",
+      "link": "https://blog.takaumada.com/entry/ai-organization-flow",
+      "summary": "「ブライスのパラドックス」と呼ばれる現象があります。混雑するネットワークに新しい道を加えたのに、各人が自分にとって最短の経路を選んだ結果、全員の移動時間が逆に長くなることがある、という交通工学のパラドックスです。 逆に「道をなくす」ことで、移動時間が短縮されることもあります。2005年に完成したソウ...",
+      "published": "2026-08-08T12:08:46Z",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d2473ade91f7cc889380566c836e9ae",
+      "title": "従来型テストの限界があらわに 3915件のOSSを解析して判明した「99.4％未報告」の実態",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/07/news026.html",
+      "summary": "Palo Alto Networksが自律型AIシステム「NOVA」による調査結果を発表した。3915件のOSSを解析して1万4090件の脆弱性を検出し、99.4％が未報告と判明。従来のテスト手法では見抜けなかった欠陥が9割超を占める実態が浮き彫りとなった。 Palo Alto Networksは2...",
+      "published": "2026-08-07T00:27:24Z",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afdace39e7492d8a97f67bee65617c80",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 TauricR…",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 TauricResearch / TradingAgents ⭐ 96,140 (+126) 🗒 Python TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "published": "08 Aug 2026 17:16 +0000",
+      "fetched_at": "2026-08-08T18:24:21.535655+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-08T16:22:37.170485+00:00"
+  "updated_at": "2026-08-08T18:24:21.535655+00:00"
 }

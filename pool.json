@@ -29,7 +29,217 @@
       "fetched_at": "2026-08-07T22:26:08.925823+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "4cbe0f19ff802d48fb04320e59f6298e",
+      "title": "DockerがGitHub Actions向けにOpenID Connectをサ…",
+      "link": "https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/",
+      "summary": "DockerがGitHub Actions向けにOpenID Connectをサポート。OAuth Access TokenやPersonal Access Tokenを不要にできると。ただしOrganizationsのみっぽいな。PersonalアカウントではOIDC Connectionが選択肢...",
+      "published": "08 Aug 2026 00:52 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a34a3f4f723356acfae64e3e0dc740d7",
+      "title": "図解即戦力 ITガバナンスのしくみと導入がこれ1冊でしっかりわかる教科書 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15741-8",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 図解即戦力ITガバナンスのしくみと導入がこれ1冊でしっかりわかる教科書 | 技術評論社",
+      "published": "07 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6261db6c664affc6a109907ce3428da3",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-ir...",
+      "published": "Fri, 07 Aug 2026 21:19:57 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8c1504d1e356d0c77fffb11c161f634",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "link": "https://ancientlibrary.net/",
+      "summary": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 138 # Comments: 47",
+      "published": "Fri, 07 Aug 2026 18:51:14 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d588100b339e731d9999840dedb0f563",
+      "title": "Amazon Connect Customer adds one-click drill-down on real-time metrics dashboards",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-drill-down-metrics/",
+      "summary": "Amazon Connect Customer dashboards now support drilling down into real-time queue and routing profile performance. With a single click, supervisors ca...",
+      "published": "Thu, 06 Aug 2026 17:00:00 GMT",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b95c43415a5a96e93c48b6ae33844885",
+      "title": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/",
+      "summary": "AWS DataSync Enhanced mode now supports agent-based data transfers with Hadoop Distributed File Systems (HDFS), Microsoft Azure Blob Storage, and self...",
+      "published": "Tue, 28 Jul 2026 10:00:00 GMT",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9620f3172ea06da9ed40c72b86aa459c",
+      "title": "USBメモリからPC-9801環境を起動! Mirai98が登場 - RetroPC NEWS",
+      "link": "https://retropcnews.com/archives/7492",
+      "summary": "PC-9801環境を手軽に持ち運べるMirai98がGitHubで公開されました。 Mirai98の最大の特徴は、USBメモリからLinuxを起動し、そのLinux上でQEMUによるPC-9801エミュレーション環境まで自動的に立ち上がることです。普段使用しているPCへインストールする必要がなく、U...",
+      "published": "2026-08-07T10:07:09Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59dc23ed7597fd8633894b485da32cd4",
+      "title": "AI時代、アーキテクトやテックリードは死ぬ",
+      "link": "https://zenn.dev/neko3cs/articles/architect-and-techlead-is-dead-in-the-ai-era",
+      "summary": "はじめに 私は、アーキテクトやテックリードといった職種は、将来的になくなると考えています。それはなぜか、今後求められる人材はどのようなものか、私なりの考えを整理してみたいと思います。 AIの進化は早い 米国の実業家であるElon Musk氏は「今年の終わりまでには人はコーディングをしなくなる」と言っ...",
+      "published": "2026-08-07T15:22:34Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e276d24a55cbd98792b46e1313d885b5",
+      "title": "Web API設計の現在地2026 - Qiita",
+      "link": "https://qiita.com/tatsuya582/items/a800739c02eadff68c70",
+      "summary": "Web API設計の現在地 2026、いま従うべき標準とデファクトの一覧 Web API設計を調べると、検索上位に出てくる記事が2015〜2019年あたりで止まっていることが多いです。その間にエラーレスポンスの標準ができ、OAuthのグラントタイプは選択基準が変わり、APIの廃止告知にまでRFCが生...",
+      "published": "2026-08-07T08:18:49Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "717d7f21d5534afbd07f5a0cf19bcd10",
+      "title": "AWSからCloudflareへ移して わかった「サーバを所有しない」こと",
+      "link": "https://docs.google.com/presentation/d/1MVF6nWVXKlFVjLMnUoCtjkQ8pJBh4knmBcv5kFJn_eY/mobilepresent?slide=id.out_s01",
+      "summary": "今日は、AWSからCloudflare Workersへ移行して、API基盤のコストが下がった話をします。ただし主題は料金比較ではありません。移行したことで、コードに埋まっていた「自分たちのサーバがある」という前提が見えるようになりました。その前提をどう手放したかを、実際の失敗も含めて紹介します。 ...",
+      "published": "2026-08-07T12:58:55Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adfb911c0ff5869833065a1f07a37636",
+      "title": "比較優位のデザイン｜Aki",
+      "link": "https://note.com/ak_iii/n/n337dec0687c6",
+      "summary": "AI時代、もうできることを増やす競争は意味がなくなっています。 私たちは「人より上手くできることを増やせ」と教えられて育ってきました。経済学の言葉を少し乱暴に借りれば、絶対優位を増やすキャリア観です。誰よりも速く走る、テストで人より高い点を取る、偏差値の高い学校に入る、資格を取る、就職したら専門性を...",
+      "published": "2026-08-07T13:27:29Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b9595418e359abe6723a583069b0dfb",
+      "title": "動くデモサイトを作る",
+      "link": "https://slides.yusu.ke/cf-demos",
+      "summary": "動くデモサイトを作る Yusuke Wada Workers Tech Talks in Osaka #3 Yusuke Wada Cloudflare Senior Developer Advocate Creator of Hono ::right:: 今日話すこと Cloudflareの製品を...",
+      "published": "2026-08-07T11:28:56Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aea7a5084d133db74ec34930e6119f2a",
+      "title": "【マジクラ】 Geminiに「@Workspace」と送るだけ。\"勝手に育つ仕事ログ\"をつくる方法 【NotebookLM】｜まじん",
+      "link": "https://note.com/majin_108/n/nefdf3f29af93",
+      "summary": "【マジクラ】 Geminiに「@Workspace」と送るだけ。\"勝手に育つ仕事ログ\"をつくる方法 【NotebookLM】 こんにちは、まじんです。 最近、NotebookLMの名称が「Gemini Notebook」に変わりました。 NotebookLMという名前に親しみがあったのですが、今後は...",
+      "published": "2026-08-06T23:33:48Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "02930ee8639314a67d0f1b1984f93ec1",
+      "title": "遺伝子配列を学習したAIが自然界で確認されていないウイルスを設計、細菌に感染する16種類が実際に機能",
+      "link": "https://gigazine.net/news/20260807-ai-designs-bacteriophages-genome/",
+      "summary": "スタンフォード大学などの研究チームがDNA配列を学習したAIモデルを使い、細菌に感染するウイルス「バクテリオファージ」の全ゲノムを生成しました。実験ではAIが設計した候補のうち16種類が実際に機能し、複数を混ぜたカクテルによって、天然のファージに耐性を持つ大腸菌を抑えられることも確認されています。 ...",
+      "published": "2026-08-07T07:48:25Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "030dbf9a2d57f7389384eb8cf2c3daf0",
+      "title": "法務省：肖像、声等の無断利用による民事責任の在り方に関する検討会",
+      "link": "https://www.moj.go.jp/MINJI/minji07_00400.html",
+      "summary": "生成ＡＩの普及等による肖像、声等の無断利用の事案が深刻化している等との指摘があることに鑑み、パブリシティ権等の権利の侵害に関する不法行為法の解釈適用等について、現行法及び判例法理を踏まえた法的整理の検討を行い、その結果を取りまとめる。",
+      "published": "2026-07-27T23:38:45Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fb6983cee18810802f821ded6ef0073",
+      "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず",
+      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000459/",
+      "summary": "米OpenAIは8月7日（現地時間）、次期モデル「Astra」の社内評価について、自社の安全指針「Preparedness Framework」が定める最上位の「Critical」（重大）に当たるサイバー能力に達している可能性を否定できないと発表した。直近数日の内部評価でエージェント的なコーディング...",
+      "published": "2026-08-07T22:25:09Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d922c1707e4d38449aaaf994c55d7f9",
+      "title": "スマホの「エアコン冷却」がダメなワケ 猛暑日にやりがちな“水没”の危険性と正しい冷やし方",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/06/news080.html",
+      "summary": "地域にもよりますが、厳しい暑さが続いています。気象庁は2026年から、気温が40度以上になった日を「酷暑日」と呼ぶようになりましたが、幾つかの自治体では既に酷暑日を記録しています。 →最高気温が40℃以上の日の名称を「酷暑日」に決定（気象庁） 気温が高い日は、スマートフォンも熱くなります。自身の故障...",
+      "published": "2026-08-06T08:37:26Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "efd17cab647ac78a33dc836519c163c1",
+      "title": "楽楽精算AIエージェントを支える、LLMOpsとインフラの選択肢 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260805/aicon_summer",
+      "summary": "こんにちは、ラクス技術広報です。 2026年7月15日に開催した主催イベント、「RAKUS AI Conference 2026 Summer」の5本のセッションのうち3本目に登壇したのが、AIエージェント開発課の竹田舜さんです。 テーマは「PoCから本番へ―楽楽精算AIエージェントを支える、LLM...",
+      "published": "2026-08-05T06:04:17Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82cac595886397cda94ba8b6c7831c3b",
+      "title": "Geminiとの連携でGoogle マップの検索体験が広がる「マップに相談」",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2131533.html",
+      "summary": "",
+      "published": "2026-08-07T08:28:16Z",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "babd5456309a43a6d79070513a2eb88c",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 jdx…",
+      "link": "https://github.com/jdx/mise",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 jdx / mise ⭐ 31,964 (+258) 🗒 Rust dev tools, env vars, task runner",
+      "published": "08 Aug 2026 00:16 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd5ece9fb4227a5ec6f80f2efd0d4398",
+      "title": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Prim…",
+      "link": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 PrimeIntellect-ai / prime-agent ⭐ 5,120 (+2,271) 🗒 TypeScript A self-improving RLM agent for coding workflows and ...",
+      "published": "07 Aug 2026 23:16 +0000",
+      "fetched_at": "2026-08-08T01:01:01.094815+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-07T22:39:34.812085+00:00"
+  "updated_at": "2026-08-08T01:01:01.094815+00:00"
 }

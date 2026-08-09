@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "086967f84a183f335fb79fadd268e204",
-      "title": "Oracle Just Halved Its Always Free ARM Limits — Here's Exactly What to Do Before August 18, 2026 | CNELECAR",
-      "link": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-      "summary": "Oracle Cloud、4vCPU/24GBメモリーまで無料だったVM.Standard.A1.Flexが、2026年8月18日に2vCPU/12GBメモリーまでに制限。新上限を超えて使用している場合はVM強制停止が発生。Free Tierを利用されている皆様。",
-      "published": "08 Aug 2026 04:52 +0000",
-      "fetched_at": "2026-08-08T06:37:25.274268+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "3ba9247af9440a510b849fbfb2a3e944",
       "title": "Kiro Crew の紹介 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-crew/",
@@ -949,7 +939,57 @@
       "fetched_at": "2026-08-09T10:24:22.165879+00:00",
       "feed_name": "Hacker News (100pts+)",
       "category": "main"
+    },
+    {
+      "entry_id": "517a5c4e467b46349c115d87718ec94d",
+      "title": "AI研修(Day1)【MIXI 26新卒技術研修】",
+      "link": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day1",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day1)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+      "published": "2026-07-28T01:14:06Z",
+      "fetched_at": "2026-08-09T12:32:56.412632+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "769ee61d2c1a867b9d38401285539d96",
+      "title": "AI絵が嫌なのは、「AIだから」ではない｜k.a.256",
+      "link": "https://note.com/kurage0/n/naea06d39ff7c",
+      "summary": "反証不能なことについて、断定が集まっている。 ある絵がAIによるものかどうかは、完成した画像だけからは確かめられない。工程の記録や元ファイルが出てくれば別だが、流れてくるのは一枚の画像だ。にもかかわらず確信は集まり、集まった確信は攻撃になり、描いた人が筆を折るところまで行く。確かめられないことを根拠...",
+      "published": "2026-08-09T00:44:10Z",
+      "fetched_at": "2026-08-09T12:32:56.412632+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "881ae2256ba37eddc8c95678c11c9f43",
+      "title": "第25回【アメリカ映画】ソーシャル・ネットワーク「つながりを作った男の孤独」｜Facebook誕生の裏側に学ぶ、才能と代償の物語",
+      "link": "https://logilate.com/social-network/4143/",
+      "summary": "レビュー※この記事はストーリーの流れや重要な展開への言及を含みます。まっさらな状態で観たい方は、鑑賞後にお読みください。 「世界中の人をつなげるサービス」を作った男が、いちばん孤独だった——これほど皮肉な物語があるでしょうか。 『ソーシャル・ネットワーク』は、Facebook創業者マーク・ザッカーバ...",
+      "published": "2026-08-09T08:34:44Z",
+      "fetched_at": "2026-08-09T12:32:56.412632+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c02fcae8c545f0499628cdd32c55b53",
+      "title": "国産迎撃ドローン開発へ、プロドローンと東芝が技術連携を始めた ニュースイッチ by 日刊工業新聞社",
+      "link": "https://newswitch.jp/p/49912",
+      "summary": "プロドローン（名古屋市天白区、戸谷俊介社長）は東芝と、防衛分野における国産迎撃ドローンの技術連携を開始した。防衛・民生の両分野で無人機を活用した技術は急速に進展しており、東芝の持つ防衛分野の知見とプロドローンの先進技術や開発力を融合する。両社の強みを生かして迅速な開発体制を構築するとともに、民生.....",
+      "published": "2026-08-08T03:50:11Z",
+      "fetched_at": "2026-08-09T12:32:56.412632+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ff7dbefc87c596374ba263f4b6884ff",
+      "title": "日本の万歩計から生まれた「1日1万歩」という目標には科学的な根拠があるのか？",
+      "link": "https://gigazine.net/news/20260808-10000-steps-health-goal/",
+      "summary": "スマートウォッチや健康管理アプリでは「1日1万歩」が毎日の目標として示されることがあり、これまでには「毎日よく歩く人ほど死亡リスクが低い」という研究結果も出ています。オーストラリアのアデレード大学で運動科学を研究するハンター・ベネット氏が、医学的な基準のように定着した1万歩という数字の由来と、健康の...",
+      "published": "2026-08-08T14:39:54Z",
+      "fetched_at": "2026-08-09T12:32:56.412632+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-09T10:24:22.165879+00:00"
+  "updated_at": "2026-08-09T12:32:56.412632+00:00"
 }

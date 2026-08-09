@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "341c56830f9d5e1895be981d7167f901",
-      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling",
-      "summary": "Amazon Aurora serverless now delivers higher initial capacity during scale-up events, reaching up to 12 ACUs within a second and continuing to scale u...",
-      "published": "Wed, 05 Aug 2026 15:00:00 GMT",
-      "fetched_at": "2026-08-07T22:26:08.925823+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "ccd203491da3d42cbab995a2125e8c7e",
       "title": "Amazon SageMaker Studio notebooks now support G7 instance types",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/03/g7-new-launch-sagemaker-studio-notebooks/",
@@ -659,7 +649,77 @@
       "fetched_at": "2026-08-09T01:04:49.978587+00:00",
       "feed_name": "CyberAgent SRG",
       "category": "main"
+    },
+    {
+      "entry_id": "9a71860fa0449e2fc5f1d4621b8ac3ee",
+      "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明 - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+      "summary": "人間の行動履歴を学習して模倣してるのだから人間臭くなるのはさもありなんではある。OpenAIの運用管理がずぼらに見えてしまうし、行動を観察するためあえて放置したのではと思ってしまうがどうでしょうね。",
+      "published": "09 Aug 2026 01:08 +0000",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe94bbd8603db39b14ca83e3720af5ae",
+      "title": "SmartHRの信頼性を支える —— 人事マスタエリアのQAエンジニアが今取り組んでいること - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/03/163424",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SmartHRの信頼性を支える──人事マスタエリアのQAエンジニアが今取り組んでいること",
+      "published": "09 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b404c9ed4ad645bed48e5546fcfbf2f3",
+      "title": "購入/決済のACIDを守るための冪等性のお話",
+      "link": "https://zenn.dev/team_soda/articles/26f39f5e3b09f3",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 購入/決済のACIDを守るための冪等性のお話",
+      "published": "09 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd5ce005f61d5f2b6425b68cd1a59172",
+      "title": "My server is a phone now",
+      "link": "https://seg6.space/posts/phone-server/",
+      "summary": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 141 # Comments: 59",
+      "published": "Sat, 08 Aug 2026 22:49:23 +0000",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e85fee14f97ea24fad758741b4bd306",
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "link": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "summary": "Article URL: https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/ Comments URL: https://news.ycombinator.com/item?id=49221220 Points: 10...",
+      "published": "Sat, 08 Aug 2026 12:31:11 +0000",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10acbde5049cdacda05e8aacf2911f4d",
+      "title": "オリジナルのキーボードを3Dプリンタで作った - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/08/07/110000",
+      "summary": "【Unit4 ブログリレー3日目】 Unit4 (m3.com 開発グループ) の永山です。 2日目は井本による「LINEとスプレッドシートで作る、ゼロ円運用の家計簿ボット」でした。 www.m3tech.blog 普段、3Dプリンタで作成したオリジナルキーボードで仕事をしています。 キーボードの自...",
+      "published": "2026-08-07T06:02:19Z",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "549fc2d3328d22b17ca03047b5935bfe",
+      "title": "1台で10ポートを備えたクランプ固定式電源タップ「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」レビュー",
+      "link": "https://gigazine.net/news/20260808-anker-nano-power-strip-10-in-1/",
+      "summary": "「Anker Nano Power Strip (10-in-1, 70W, クランプ式)」は最大10台の同時充電が可能なクランプ式の電源タップです。実際に使ってみました。 Anker Nano Power Strip (10-in-1, 70W, クランプ式) | 電源タップの製品情報 | Ank...",
+      "published": "2026-08-08T00:14:59Z",
+      "fetched_at": "2026-08-09T03:25:31.491977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-09T01:04:49.978587+00:00"
+  "updated_at": "2026-08-09T03:25:31.491977+00:00"
 }

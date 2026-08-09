@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "3ba9247af9440a510b849fbfb2a3e944",
-      "title": "Kiro Crew の紹介 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/introducing-kiro-crew/",
-      "summary": "早速homebrewに追加されていることを確認。brew install --cask kirocrew",
-      "published": "08 Aug 2026 10:17 +0000",
-      "fetched_at": "2026-08-08T10:22:37.107140+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e51e07e1e36c953e6dfa2b1a5feed5a7",
-      "title": "AnthropicのAIモデルが評価中に不正アクセスしていた事案についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/31/214935",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AnthropicのAIモデルが評価中に不正アクセスしていた事案についてまとめてみた",
-      "published": "08 Aug 2026 08:55 +0000",
-      "fetched_at": "2026-08-08T10:22:37.107140+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "ed4d800115fc217ff4dd321807b1cf92",
       "title": "MicrosoftからだがWindowsのみならずmacOSやUbuntuでも動…",
       "link": "https://github.com/microsoft/skill-recorder",
@@ -989,7 +969,77 @@
       "fetched_at": "2026-08-09T12:32:56.412632+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "b2996abe5e1d8bf74cf8c27bf0cb792e",
+      "title": "There Are Magic Hexagons of Every Order",
+      "link": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "summary": "Article URL: https://gukov.dev/math/2026/08/02/new-magic-hexagons.html Comments URL: https://news.ycombinator.com/item?id=49229174 Points: 106 # Comme...",
+      "published": "Sun, 09 Aug 2026 07:19:58 +0000",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3b34f99407716b41378c2634e8450b6",
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "link": "https://github.com/jmarshall23/msword",
+      "summary": "Article URL: https://github.com/jmarshall23/msword Comments URL: https://news.ycombinator.com/item?id=49228663 Points: 111 # Comments: 50",
+      "published": "Sun, 09 Aug 2026 05:23:41 +0000",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66a6b408b2393a6fb8dfc96b52fd9321",
+      "title": "Cloudflareの学習教材",
+      "link": "https://cloudflare-study.komiyamma.net/",
+      "summary": "第1章 CloudflareとはCloudflareの基本理念、グローバルネットワークの仕組み、そして提供される主要なサービス群の概要について学びます。",
+      "published": "2026-08-05T09:45:12Z",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cc042ed7ef691ae2d45093b334c2052",
+      "title": "最近のはてブ",
+      "link": "https://anond.hatelabo.jp/20260809214857",
+      "summary": "アイコン設定してないやつが多いのなんで？ 匿名2ちゃん(5ちゃん)ねらーに見える",
+      "published": "2026-08-09T12:58:00Z",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb8c60b7605d858b14df5a1df0eace8a",
+      "title": "iPadにMacの画面を映しセカンドモニターとして利用できるようにするアプリ「OpenDisplay」がApple Pencilの筆圧とチルト、ホバーに対応。",
+      "link": "https://applech2.com/archives/20260809-opendisplay-support-apple-pencil-pressure.html",
+      "summary": "iPhoneやiPadにMacの画面を映しセカンドモニターとして利用できるようにするアプリ「OpenDisplay」がApple Pencilでの筆圧とチルト、ホバーに対応しています。詳細は以下から。 OpenDisplayはドイツのPhilip Poloczekさんがオープンソースで開発しているA...",
+      "published": "2026-08-09T02:36:18Z",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01a2e8e99c3354ff4494acab263f8ade",
+      "title": "Claude Codeの新機能「クロスセッションメッセージング機能」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-cross-session-messaging/",
+      "summary": "Claude Code v2.1.224でデフォルト有効になったクロスセッションメッセージングを試した。送受信・hold/refuse・権限モードのデフォルト挙動・Bedrock非対応まで、手元検証の結果を整理する。",
+      "published": "Sun, 09 Aug 2026 14:21:14 GMT",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "53bf5e2a3effef8910caf450d5039e76",
+      "title": "Node.jsのfetch()がOSへI/Oを依頼するところをstraceで覗いてみた",
+      "link": "https://dev.classmethod.jp/articles/nodejs-fetch-strace/",
+      "summary": "Node.jsの`fetch()`がOSと通信する仕組みを、`strace`でシステムコールレベルから追いかけてみました。DNS問い合わせからTLS通信まで、低レイヤーで何が起きているのかを具体的に見ていきます。",
+      "published": "Sun, 09 Aug 2026 13:35:08 GMT",
+      "fetched_at": "2026-08-09T14:25:42.729572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-09T12:32:56.412632+00:00"
+  "updated_at": "2026-08-09T14:25:42.729572+00:00"
 }

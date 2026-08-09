@@ -1039,7 +1039,97 @@
       "fetched_at": "2026-08-09T14:25:42.729572+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "b8833e2e23524bdcf8844f3c102f2fba",
+      "title": "Mea Culpa – Dark Hours",
+      "link": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "summary": "Article URL: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html Comments URL: https://news.ycombinator.com/item?id=49231154 Points: 245...",
+      "published": "Sun, 09 Aug 2026 13:20:43 +0000",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ed5f8ef55bcda887471e9c220a3bf53",
+      "title": "Everything You Do Is Being Recorded",
+      "link": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "summary": "Article URL: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/ Comments URL: https://news.ycombinator.co...",
+      "published": "Sun, 09 Aug 2026 11:30:48 +0000",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9e3ba0042cd56227019fc10b7ce0a37",
+      "title": "「CPUをダメにする」研究者が見つけた最も遅い1命令の正体と暴かれたリスク | XenoSpectrum",
+      "link": "https://xenospectrum.com/cpu-deoptimization-hall-of-shame-198-billion-cycles/",
+      "summary": "セキュリティ研究者が「最も遅いx86命令」を競うリーダーボードを公開。fxrstor64をPCIe MMIOに向けて他コアでバスを飽和させる手法で、通常150サイクルの命令を1980億サイクル（62秒）まで引き延ばした。この「遅さ」はSMMの排他性仮説を崩し、100件超の休眠CVEを再点火しうる。",
+      "published": "2026-08-09T05:47:42Z",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8ae3b6d898376fc0bfcf2aa7f7755f8",
+      "title": "Shellブランドの激安充電器を買ってみた",
+      "link": "https://komameblog.jp/log/shell-charger/",
+      "summary": "7月に行なわれたAmazonのプライムデーで、「Shell（シェル）」ブランドの充電器が安くなっていたのでポチりました。かつてガソリンスタンドでよく見かけた貝のマークは、他社との経営統合によって街中から消え去りました。しかしそのブランドは残っており、いまでは充電器で見かけることができるというわけです...",
+      "published": "2026-08-09T10:21:34Z",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9df15693a325a4df8db5b4642b9513b4",
+      "title": "📦 vitali87 / code-graph-rag ⭐ 2,676 (+59…",
+      "link": "https://github.com/vitali87/code-graph-rag",
+      "summary": "📦 vitali87 / code-graph-rag ⭐ 2,676 (+59) 🗒 Python The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the p...",
+      "published": "09 Aug 2026 16:16 +0000",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66a888d64e31ffe44cc6d225e43fc4a2",
+      "title": "Kiro Crew の Agent Worlds が可愛いから見てほしい",
+      "link": "https://dev.classmethod.jp/articles/kiro-crew-agent-worlds/",
+      "summary": "Kiro Crew に新しく追加された「Agent Worlds」というアプリを有効化して試してみました。実行中のセッションをピクセルアートのキャラクターとして表示し、複数のエージェントの状態を直感的に管理できるツールです。",
+      "published": "Sun, 09 Aug 2026 15:38:17 GMT",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff3ab483f0cf45ae8c4c01c9137c6b04",
+      "title": "AWS DevOps Agent のインシデント調査結果を AWS CLI で取得してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-investigation-result-cli/",
+      "summary": "AWS DevOps Agent のインシデントレスポンス調査結果を AWS CLI で取得する方法を紹介します。",
+      "published": "Sun, 09 Aug 2026 15:37:44 GMT",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba0220d043037da7d90ff00b9e6ab2a7",
+      "title": "【夏休みの自由研究リレー】 ゲーミングPCをサーバにする 〜ずっと逃げていたゲームサーバのオンプレ公開〜",
+      "link": "https://dev.classmethod.jp/articles/summer-project-2026-gaming-pc-server/",
+      "summary": "ずっと避けていたゲームサーバのオンプレ公開に向き合ってみました。ゲーミングPCをMinecraftサーバとして立ち上げ、Tailscaleを使ってセキュアに外部ユーザからアクセスできるようにする方法をご紹介します。",
+      "published": "Sun, 09 Aug 2026 14:33:35 GMT",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5268f9bf8083456cf7be0df0be74194d",
+      "title": "Strange, wonderful #808day creations from Japan — and a DIY D-Beam!",
+      "link": "https://cdm.link/808day-creations-from-japan-and-a-diy-d-beam/",
+      "summary": "Our friends in the TR-808's native country, Japan, never cease to honor the drum machine's holiday in creative ways. So here's this year's haul from 8...",
+      "published": "Sun, 09 Aug 2026 15:30:32 +0000",
+      "fetched_at": "2026-08-09T16:24:31.309845+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-09T14:25:42.729572+00:00"
+  "updated_at": "2026-08-09T16:24:31.309845+00:00"
 }

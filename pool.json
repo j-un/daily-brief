@@ -79,7 +79,587 @@
       "fetched_at": "2026-08-08T14:23:44.376778+00:00",
       "feed_name": "@matsuu (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "f2ef0b882fdda526d699e4d4e9aa3a7f",
+      "title": "ネットワークに関するトラブルシューティングを行うためのTUIツール。win, m…",
+      "link": "https://github.com/heymaikol/network-doctor",
+      "summary": "ネットワークに関するトラブルシューティングを行うためのTUIツール。win, macOS, Linuxに対応。Go実装。",
+      "published": "09 Aug 2026 00:37 +0000",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e45f74364f79fec87012046f6dd12578",
+      "title": "はてなで起きた不正送金による資金流出についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/07/30/075612",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 はてなで起きた不正送金による資金流出についてまとめてみた",
+      "published": "08 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c44d7474cb9bb77a86f118453973861",
+      "title": "AI研修(Day2)【MIXI 26新卒技術研修】",
+      "link": "https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2",
+      "summary": "本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day2)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…",
+      "published": "2026-07-28T01:14:20Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "746da2e3399e129ae27dcbd3628514d9",
+      "title": "Claude Code で「ループエンジニアリング」を実践してみた",
+      "link": "https://zenn.dev/tetsu_don/articles/e40b95dfc726ac",
+      "summary": "Claude Code で「ループエンジニアリング」を実践し、Maker-Checker構成で本物のバグを検出できた話 はじめに てつどんです。データエンジニアとして 日々業務をこなしております。 最近、バズワードのように、いろんなところで「ループエンジニアリング」というのを聞くことが多くなりました...",
+      "published": "2026-08-08T21:17:01Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a37e88716eab7011cf51263b7a54f6b",
+      "title": "熊本県の「トラック通れた道マップ」、日野コンピューターシステムが公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
+      "summary": "日野コンピューターシステム（HCS）が、熊本県近辺においてトラックが通行できた道を可視化する「トラック通れた道マップ」を公開している。 日野自動車製の大型トラックから取得したデータに基づいて掲載する。7日時点では7月29日の午前0時から8月6日の午後11時59分までのデータとなっている。 同マップは...",
+      "published": "2026-08-08T00:38:58Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "039f4dd45b0f0134b16e58738f39e08f",
+      "title": "MCPの教科書［上巻］～MCPで成果を出すAI導入戦略 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15850-7",
+      "summary": "概要 AIを導入したのに何も変わらない、PoCから先に進めない――そんな状況に陥っていませんか？ 日本企業の生成AI利用率が高まる一方で、十分な効果があったと実感できた企業は少ないという調査結果もあります。足りないのは技術力ではなく、組織としてどう活かすかという戦略です。そして、この課題を打破する鍵...",
+      "published": "2026-08-06T03:52:42Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bc3c3fa2d4513937a4ff9f9f7743613",
+      "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
+      "link": "https://gigazine.net/news/20260808-sandboxd/",
+      "summary": "アプリやシステムの開発環境を隔離して他のプロジェクトへの影響を防ぎながらコードを実行する仕組みをサンドボックスと言います。Docker・Traefik・SQLiteを利用し、なおかつAIエージェントによる開発に特化したサンドボックス基盤を簡単に構築できる「sandboxd」が公開されています。 Se...",
+      "published": "2026-08-08T10:31:07Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afcae0f31d306b90398903d24f36ef06",
+      "title": "Secure Enclave で git commit の署名鍵を管理する - mizdra's blog",
+      "link": "https://www.mizdra.net/entry/2026/08/07/101542",
+      "summary": "id:mizdra は Git の commit 署名をしていて、その署名鍵を 1Password で管理している。commit をする度に 1Password による生体認証を求められるが、その分安全に署名鍵を扱える。 今まではそれで不満は無かったのだけど、Coding Agent を使うようにな...",
+      "published": "2026-08-07T03:26:37Z",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94d8ae6d9ea2f7dc501433611e22e060",
+      "title": "定番の「MQTT + AWS IoT Core + Timestream for InfluxDB + Grafana」を、実運用目線でひと工夫 ― hot/coldデータの組み合わせと、スケール可能なデバイスモックで仮想1000台×30日分を検証する",
+      "link": "https://dev.classmethod.jp/articles/iot-timestream-influxdb-grafana-1000-devices/",
+      "summary": "IoT データ可視化の定番構成（MQTT + AWS IoT Core + Timestream for InfluxDB + Grafana）を、仮想デバイス1000台と生成データで実装し、過去と直近のデータをシームレスに表示する方法を紹介します。",
+      "published": "Sat, 08 Aug 2026 23:25:54 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "473d03bba887fb675cbf1837b688eb29",
+      "title": "[アップデート] AWS Lambda コンソールの「IDE で開く」機能が Kiro と Cursor にも対応しました",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-ide-kiro-cursor/",
+      "summary": "AWS Lambda コンソールの console-to-IDE 機能が Kiro と Cursor に対応したので、実際に試してみました。コンソールからワンクリックで各 IDE を開けるようになっています。",
+      "published": "Sat, 08 Aug 2026 22:23:30 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "14e4ade83ae4d9e97cb6386802b83fcc",
+      "title": "[アップデート] Amazon Quick Sight のマルチデータセットトピックで 4 つのデータセットの自然言語問合せを試してみた",
+      "link": "https://dev.classmethod.jp/articles/20260809-amazon-quick-mds/",
+      "summary": "Amazon QuickSightのトピックが複数データセットのランタイム結合に対応しました。事前にデータを結合する手間が不要になり、スタースキーマのまま複数テーブルをまたぐ分析ができるようになったので、実際にマネジメントコンソールで試してみました。",
+      "published": "Sat, 08 Aug 2026 18:25:18 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1dce3af712d9b24b15704c7e9cc3430",
+      "title": "AgentCore Runtime Instances がリリースされました！",
+      "link": "https://dev.classmethod.jp/articles/agentcore-runtime-instances/",
+      "summary": "Amazon Bedrock AgentCore Runtime のInstances機能がリリースされました！",
+      "published": "Sat, 08 Aug 2026 15:14:59 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e9ebea8691ba0df56c2df7547d55d1d",
+      "title": "AWS IAMのAWS管理ポリシーを全種類捕まえてみた",
+      "link": "https://dev.classmethod.jp/articles/summer-project-2026-iam-aws-managed-policies-get-daze/",
+      "summary": "夏なので、AWS管理ポリシー（AWS Managed Policy）をたくさん捕まえました。AWS管理ポリシーって長くて呼びづらいので、マネポリと呼びますね。マネポリをゲットしました。1,564匹もいるのでどの子をパーティに入れるか迷ってしまいますね。",
+      "published": "Sat, 08 Aug 2026 14:59:00 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4655860f9c8748d0932291550294594f",
+      "title": "Amazon Cognito 向け aws-auth スキルでパスキー認証アプリを試してみた",
+      "link": "https://dev.classmethod.jp/articles/agent-toolkit-aws-auth-skill-cognito-passkey/",
+      "summary": "Agent Toolkit for AWS に aws-auth スキルが追加されました。Cognito 認証に関する9つのリファレンスをまとめたスキルです。これを使い、GPT-5.6 Luna で Cognito パスキー認証のデモアプリを実装しました。",
+      "published": "Sat, 08 Aug 2026 14:08:51 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc126f4bcb706a7d26f68ca3de4b0de0",
+      "title": "Google Apps Script を clasp でローカル開発する環境構築手順",
+      "link": "https://dev.classmethod.jp/articles/gas-clasp-local-development-setup/",
+      "summary": "Google Apps Script を clasp でローカル開発する環境構築手順です。PC の初期状態から、nvm による Node.js の導入、clasp のインストールと認証までを macOS と Windows の両方でまとめました。認証情報を 1Password で管理する方法も紹介し...",
+      "published": "Sat, 08 Aug 2026 13:24:11 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d21dcf4a86ef1d57dfd6f6cdbefec639",
+      "title": "Amazon SageMaker HyperPod の Slurm クラスターで非対応のはずのマネージメントコンソールからの AMI 更新を試してみた",
+      "link": "https://dev.classmethod.jp/articles/sagemaker-hyperpod-slurm-ami-update-console/",
+      "summary": "Amazon SageMaker HyperPod の Slurm クラスターで、公式ドキュメントでは非対応とされているマネージメントコンソールからの AMI 更新を実際に試してみました。ルートボリューム置換の動作や所要時間など、検証結果を紹介します。",
+      "published": "Sat, 08 Aug 2026 12:58:10 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2f5254c1ef1c00d4c62258b940187d8",
+      "title": "Snowflake DCM Projectsが一般提供！Preview時との差分を整理してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-dcm-projects-ga/",
+      "summary": "SnowflakeネイティブなIaC「DCM Projects」がGA化しました。Preview時から対応範囲が広がった一方で、Storage IntegrationやPolicy Attachmentなど、まだ管理できないものも多くあります。GA化後の変更点と実務上の注意点を整理します。",
+      "published": "Sat, 08 Aug 2026 12:43:06 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "932f9d8107994ce0a4b7c96a1f1e580b",
+      "title": "Aurora MySQL の変更データを AWS DMS の Full Load + CDC で S3（Parquet）に出力し Athena でクエリしてみた",
+      "link": "https://dev.classmethod.jp/articles/dms-full-load-cdc-aurora-mysql-to-s3-parquet/",
+      "summary": "AWS DMS で Aurora MySQL のデータ変更をリアルタイムに S3 へ連携し、Athena で分析する方法を、実装手順と動作確認まで含めてご紹介します。",
+      "published": "Sat, 08 Aug 2026 11:25:09 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6c32c3b74b010d31d72c6ce288bdc40",
+      "title": "Claude Code v2.1.225〜v2.1.226 の主要アップデート - SendMessage の他マシン発信対応と認証まわりの修正",
+      "link": "https://dev.classmethod.jp/articles/20260808-cc-updates-v2-1-226/",
+      "summary": "Claude Code v2.1.225〜v2.1.226の主要アップデートをまとめました。SendMessageが他マシンのセッションに発信できるようになったほか、認証やセッション周りの重要な修正が多数含まれています。本日は「SendMessage の他マシン発信」を試してみました。",
+      "published": "Sat, 08 Aug 2026 10:52:00 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "750956de85c1788590e397421f9b871b",
+      "title": "[アップデート] CloudWatch managed Prometheus collectorsでPrometheusメトリクスをCloudWatchへ直接送れるようになりました",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-managed-prometheus-collector/",
+      "summary": "Amazon CloudWatchに追加されたManaged Prometheus collectorを使ってみました。従来の自前ADOT Collector構成との違いや、実装時の手順、メトリクス収集結果を比較していきます。",
+      "published": "Sat, 08 Aug 2026 06:57:30 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a5b1efa678133e917c43a85b69356f3",
+      "title": "AWS Batch に優先順位を自分で決められる配分戦略が追加されたので図解で整理してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-batch-ordered-allocation-strategies/",
+      "summary": "AWS Batch に追加された 2 つの新しい配分戦略について、オンデマンド向けと スポット向けの違いを図解を交えて整理しました。インスタンスタイプの優先順位を自分で指定したいときの使い分けをまとめます。",
+      "published": "Sat, 08 Aug 2026 06:10:19 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "89cdfc6f877260b04804b174f40c0505",
+      "title": "[新機能]Snowflake CoWork の Automations でレポートの定期実行・メール配信ができるようになりました",
+      "link": "https://dev.classmethod.jp/articles/snowflake-cowork-automations-pupr-try/",
+      "summary": "Snowflake CoWorkの新機能「Automations」がパブリックプレビューとなったので、会話形式での設定から定期実行、メール配信までを実際に試してみました。",
+      "published": "Sat, 08 Aug 2026 05:33:39 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b816b6e4c9075bc8ffc9b97603ef0b8",
+      "title": "[アップデート] Kiro IDE の Powers が Agent Plugins 仕様に対応し、他ツール向けプラグインをそのままインストールできるようになりました",
+      "link": "https://dev.classmethod.jp/articles/kiro-powers-supports-plugins/",
+      "summary": "Kiro IDE が Agent Plugins 1.0.0 仕様に対応しました。これまで独自フォーマットでしか使えなかった Powers が、Claude Code や Cursor などと共通の仕様で利用できるようになったので、実際にインストールして試してみました。",
+      "published": "Sat, 08 Aug 2026 03:34:53 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d7cd60fc2e971098e72f71e80348b4f",
+      "title": "【非エンジニアのためのClaude/Claude Codeシリーズ】 Claudeを紹介するデモをClaudeに作らせてみた",
+      "link": "https://dev.classmethod.jp/articles/demo_tsukuru/",
+      "summary": "営業向けClaudeの活用方法を紹介します。PDFの分析からダッシュボード作成まで、営業が30分で作れるデモの作り方を実例とともにご紹介します。",
+      "published": "Sat, 08 Aug 2026 02:51:53 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "331d15e38d0145c55155a336cfcaadd0",
+      "title": "【PostgreSQL】max_connections の上限に達した際のエラー \"too many clients already\" を再現してみた",
+      "link": "https://dev.classmethod.jp/articles/postgresql-too-many-clients-already-reproduce/",
+      "summary": "PostgreSQL の同時接続数上限「max_connections」に達した際のエラー挙動を実際に再現し、pg_stat_activity での状況確認と pg_terminate_backend による対処方法を検証してみました。",
+      "published": "Sat, 08 Aug 2026 02:11:33 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "93733ce8fd68ad38673e520433d2f0c8",
+      "title": "オープンウェイトモデルで開発からビジネス利用まで回すチーム AI 環境",
+      "link": "https://dev.classmethod.jp/articles/open-weight-team-ai-environment/",
+      "summary": "AI コーディングエージェントのコストとデータ漏洩という 2 つの課題を、オープンウェイトモデルの自動ルーティングと厳密なプライバシー設定で解決するチーム環境の構築事例を紹介します。実装・検証・運用のすべてをカバーした、実践的な設計記録です。",
+      "published": "Sat, 08 Aug 2026 01:56:07 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9545102a068dd6f34a5da9e8a7bc0087",
+      "title": "お店の成長とともに、AWS環境はどう拡大していくのか考えてみた",
+      "link": "https://dev.classmethod.jp/articles/summer-project-2026-aws-shop-growth-koty-mousa/",
+      "summary": "架空のお店の成長を通じて、AWS環境がどのように拡大していくのか考えてみました",
+      "published": "Fri, 07 Aug 2026 17:24:19 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "03be8839cc8271b4679c36083f1a1385",
+      "title": "社内合宿でAI BPRを取り組んでみた",
+      "link": "https://dev.classmethod.jp/articles/ai-bpr-workshop-internal-camp/",
+      "summary": "先日、部内でAI BPRを活用したBPR勉強会を実施しました。案件対応中心のエンジニアがSales業務を「お客様」として体験することで、技術的な学びだけでなく同僚への理解と共感が生まれた、その経験を共有します。",
+      "published": "Fri, 07 Aug 2026 15:18:51 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bddc1b9d4a415f3dd7a2e23f67c605d1",
+      "title": "Run Command で SSM Agent をダウングレードする手順を検証してみた",
+      "link": "https://dev.classmethod.jp/articles/ssm-agent-downdrade-kensho/",
+      "summary": "SSM Agentを古いバージョンへダウングレードしようとしたら想定外の挙動に直面しました。その原因と解決方法、そしてマニフェストを活用した手順について紹介します。",
+      "published": "Fri, 07 Aug 2026 15:04:51 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e75a264f34450f4dda30a81455e6f593",
+      "title": "SnowflakeのコストをOmniで日次監視する仕組みを、OmniのAgent機能だけでサクッと作ってみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-cost-monitoring-with-omni/",
+      "summary": "Snowflakeのコスト増加に悩む社内検証環境の課題解決に向け、BIツール「Omni」のAgent機能だけを使い、要件定義からSemantic Layer作成、Routine設定まで一気通貫で構築できるか試してみました。",
+      "published": "Fri, 07 Aug 2026 13:58:54 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "319ec06a3b500ccc3395b2a4543b4643",
+      "title": "Beads でタスク進行管理はどこまで自動化できるか確かめた",
+      "link": "https://dev.classmethod.jp/articles/beads-agent-state-management-automation-scope/",
+      "summary": "AI コーディングエージェントの引き継ぎドキュメントをやめ、課題管理ツール Beads へ状態を移しました。セッション開始時の状態の復元は自動化できましたが、状態の更新は自動では行われず、人が補う必要が残りました。",
+      "published": "Fri, 07 Aug 2026 12:43:26 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8bb719c2eb34f92800bd2978f5b33105",
+      "title": "SQLiteからRDS for PostgreSQLへの移行をpgloaderで検証してみた",
+      "link": "https://dev.classmethod.jp/articles/myan-aws-sqlite-rds-verify/",
+      "summary": "SQLiteからAmazon RDS for PostgreSQLへの移行をpgloaderで実装しました。検証環境の構築から実際の移行手順、ハマりやすいSSL設定、そして移行後に必要な作業まで、実務的な知見をまとめて紹介します。",
+      "published": "Fri, 07 Aug 2026 12:36:24 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "61066dc730d66c0c586e4bb05f8166bf",
+      "title": "Claude Code v2.1.224 の主要アップデート - セルフホスト環境とセッション間メッセージング",
+      "link": "https://dev.classmethod.jp/articles/20260807-cc-updates-v2-1-224/",
+      "summary": "Claude Code v2.1.224 がリリースされました。セルフホスト環境の構築やセッション間のメッセージング、サンドボックス拒否設定の修正など、31 件の変更が入った今回のアップデート内容を解説します。新機能である 「セッションをまたぐ SendMessage と ListAgents」を試...",
+      "published": "Fri, 07 Aug 2026 12:28:18 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "46d26e1313adcbab61827f52891c7feb",
+      "title": "DynamoDBに追加されたベクトル検索を、Streamsでベクトル化してStrands Agentsから使ってみた",
+      "link": "https://dev.classmethod.jp/articles/dynamo-vector-strands/",
+      "summary": "DynamoDBに新しく追加されたネイティブベクトル検索機能をStrands Agentsから試してみました！",
+      "published": "Fri, 07 Aug 2026 11:27:41 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3261df75c667c25dadda7d119c6ff602",
+      "title": "[アップデート]Kiro WebのIAM Role設定で信頼ポリシーが更新されていたので動作確認してみた",
+      "link": "https://dev.classmethod.jp/articles/update-kiro-web-iam-role-trusted-policy/",
+      "summary": "Kiro WebとIAM Roleの連携が新しい信頼ポリシーに対応しました。旧方式との違いや実際の設定方法、CloudTrailログでの動作確認を試してみました",
+      "published": "Fri, 07 Aug 2026 11:06:44 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0089ff8e8af549900acd4781af45f0c0",
+      "title": "AWS Backup for S3 の新機能「バックアップアクセスポイント」でバックアップデータの直接アクセスを試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-backup-s3-backup-access-point/",
+      "summary": "AWS Backup for S3 にバックアップアクセスポイント機能が追加されました。従来はバックアップから1ファイルを取り出すにもリストアジョブが必要でしたが、アクセスポイント経由なら S3 標準 API で直接取得できます。AWS CLI で実際に検証してみました。",
+      "published": "Fri, 07 Aug 2026 10:02:57 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7965724315e0e25ad81f65387837a316",
+      "title": "Cloudflareで配信している特定のウェブサイトのアナリティクスをオフにする",
+      "link": "https://dev.classmethod.jp/articles/make-specific-sub-domain-disable-web-analytics/",
+      "summary": "VPSで動かしているウェブアプリの表示が遅かった原因は、VPS性能ではなくCloudflare Web Analyticsだったんです。無効化する方法に少し苦労したので、特定のサブドメインでWeb Analyticsを無効化するやり方をシェアします。",
+      "published": "Fri, 07 Aug 2026 09:55:47 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8be60dada66286c5619c466fdec6f1c1",
+      "title": "AWS WAF を使った Web アプリケーション防御のワークショップをやってみた",
+      "link": "https://dev.classmethod.jp/articles/waf-web-application-workshop/",
+      "summary": "CloudFrontを保護する保護パックの作成から、XSS・SQLインジェクション対策、ボットコントロール、レート制限、API保護まで、7つのステップでセキュリティ対策を実装する手順を紹介します。",
+      "published": "Fri, 07 Aug 2026 09:40:12 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eb7db8f963df5c64c7273657a49d543",
+      "title": "Aurora MySQL バージョン3系でリーダーインスタンスからテーブルが見えなくなるバグの旅路",
+      "link": "https://ca-srg.dev/3b14358b43f78039b312da13a56065bf",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Mon, 03 Aug 2026 00:00:25 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b44d0696cb39e17320677b1fde4a129",
+      "title": "tfpolicy を使った Terraform のセキュリティ対策",
+      "link": "https://ca-srg.dev/3a94358b43f7806ebc55f323d3568d29",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
+      "published": "Sun, 26 Jul 2026 12:33:32 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "772cbf9c48345bb3d829570098515532",
+      "title": "Aurora MySQLのバックアップは本当に今の設定で安全か考える",
+      "link": "https://ca-srg.dev/3a74358b43f780fbab55d076bf5deb34",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海 雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです...",
+      "published": "Fri, 24 Jul 2026 04:51:32 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb0a0e7b145642222c491e0b8d5c634a",
+      "title": "AWS DevOps Agentの新機能カスタムエージェントで週次SREレポートをつくる",
+      "link": "https://ca-srg.dev/38d4358b43f78005837cfc19c3a9862e",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Sun, 28 Jun 2026 10:20:46 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b5e9968adc50dcefae76ffb8b2aefd9",
+      "title": "Claude Managed Agents を利用して Linear/GitHub Issue で PR 作成からレビューループまで回す方法",
+      "link": "https://ca-srg.dev/37d4358b43f781338772ef7b5a1e1693",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rairureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグル...",
+      "published": "Fri, 12 Jun 2026 16:11:38 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "713cf063c6e59b311b9da23550ba7487",
+      "title": "新メジャーバージョン Aurora MySQL 8.4が登場しました！",
+      "link": "https://ca-srg.dev/3684358b43f78056b5fef33bbd31bfbd",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Fri, 22 May 2026 02:08:30 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f75013ab73c330ad5bd7708631fc8f8",
+      "title": "【追記あり】DevOps AgentからAurora MySQLを安全に調査できるようにした話 〜 AgentCore Gateway + Lambda構成 〜",
+      "link": "https://ca-srg.dev/3504358b43f780b3ab4ad5af638cf03d",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Tue, 28 Apr 2026 12:20:35 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "f89e17b15e5290d45afa1f9a72e44652",
+      "title": "Aurora MySQLの負荷は高騰していないのにエラーレートが悪化した原因がPerformance Schemaだった話",
+      "link": "https://ca-srg.dev/3354358b43f780758296fd51b761968f",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Wed, 01 Apr 2026 23:35:04 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "1de8b66f77711e4843783a43b46633cd",
+      "title": "Ameba Platform のインターンで、Istio / Karpenter/AWS LBC の監視整備に取り組んだ話",
+      "link": "https://ca-srg.dev/3324358b43f780d09076c03926d21002",
+      "summary": "はじめまして。 慶應義塾大学商学部3年の利根川颯汰と申します。 私は、3月4日~3月30日の1ヶ月間、サイバーエージェントの「CA Tech JOB」というインターン制度でメディア統括本部 サービスリライアビリティグループ（SRG）にお世話になりました。 #SRG（Service Reliabili...",
+      "published": "Sun, 29 Mar 2026 10:29:47 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "6655e9f6750df80744f4778c88528a94",
+      "title": "スキル・コマンドの用途に応じてモデルを”””自動”””で切り替える方法",
+      "link": "https://ca-srg.dev/31e4358b43f7802db499c49bbb74a08c",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
+      "published": "Mon, 09 Mar 2026 08:04:46 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "65efcc55fd63068ff3233a8fff56a0de",
+      "title": "我々はどのオープンウェイトモデルを選択したら良いのか。MoE?Q4?",
+      "link": "https://ca-srg.dev/3174358b43f7805d8149e1c86b5bbf92",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
+      "published": "Mon, 02 Mar 2026 10:21:25 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5163aae1f1710d9df31ded99bbe7b35",
+      "title": "Datadog MCPが使えなくても大丈夫！agent-skills × pup でAIによるインシデント調査を実現する",
+      "link": "https://ca-srg.dev/3174358b43f780259df2e634e575b12b",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Mon, 02 Mar 2026 07:06:41 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b1a982c5556dd5649361731b851c7b1",
+      "title": "CloudWatch Database Insightsのメトリクスで最小粒度の秒数が確認できない話",
+      "link": "https://ca-srg.dev/30d4358b43f780688a85d3a4f1be4b78",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
+      "published": "Fri, 20 Feb 2026 01:35:37 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e7f0b2bb14e41317ecc3c7df405fa61",
+      "title": "RDS Blue/Green Deployments機能の切り替えダウンタイムが5秒未満になりました",
+      "link": "https://ca-srg.dev/2fb4358b43f78047869ef37a8c03ea19",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。 本...",
+      "published": "Mon, 02 Feb 2026 00:24:14 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d19453e3f7289d5e70d0b7a99c67ae7",
+      "title": "色んなデータソースに対応した RAG システム「RAGent」の紹介",
+      "link": "https://ca-srg.dev/2f04358b43f7816c9de4e239eba91072",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
+      "published": "Thu, 22 Jan 2026 10:21:38 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c582d228dd53c483899ac0d1a4e6ab",
+      "title": "一度使うと戻れない OpenCode の良さ",
+      "link": "https://ca-srg.dev/2e84358b43f781d69484e61e3592d1e9",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川 拓也（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行って...",
+      "published": "Wed, 14 Jan 2026 10:06:17 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d634b7cff389a3cc34c3bbd97d675cc",
+      "title": "AWS ElastiCache & RDSのIAM認証詳解",
+      "link": "https://ca-srg.dev/2d54358b43f7819587c6ec94beb1c677",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の石川雲（@ishikawa_kumo）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っている...",
+      "published": "Fri, 26 Dec 2025 04:44:44 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "73edb3100fcac0f41563f2209ef9d2c9",
+      "title": "Codex CLI / Gemini CLI をClaude Codeの使用感に寄せる",
+      "link": "https://ca-srg.dev/2cd4358b43f7819d89fbd0c2aad5e1ab",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の小原（@No_oLimits）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループ...",
+      "published": "Thu, 18 Dec 2025 12:54:52 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0fb908ac7443189bb10e2baf9e48c6c",
+      "title": "Spanner活用サービスローンチ前の必須作業 Pre-splittingで急増トラフィックに備える",
+      "link": "https://ca-srg.dev/2cb4358b43f781f3b532cf36d7cb10ec",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の松田正也（@mm_matsuda816）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行ってい...",
+      "published": "Tue, 16 Dec 2025 09:04:13 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aba1ed32c942c636a4434f1334ec25a",
+      "title": "アラートの Description を動的な Runbook として活用する自動復旧ワークフロー",
+      "link": "https://ca-srg.dev/2ca4358b43f781ecaff6e469560333e4",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
+      "published": "Mon, 15 Dec 2025 12:41:36 GMT",
+      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-08T22:41:39.887009+00:00"
+  "updated_at": "2026-08-09T01:04:49.978587+00:00"
 }

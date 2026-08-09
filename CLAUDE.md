@@ -34,13 +34,13 @@ render_brief.py → docs/brief-YYYY-MM-DD.md    # Markdown 描画（Claude 不�
 
 記事の分類カテゴリは以下の固定リストを使用する（`select_articles.py` と `render_brief.py` で共有）。
 
-| enum 値 | 見出し |
-|---|---|
-| `tech_ai` | 🤖 Tech / AI |
-| `business` | 💼 ビジネス / スタートアップ |
-| `dev_tools` | 🔧 開発・ツール |
-| `music_culture` | 🎵 音楽 / 機材 / カルチャー |
-| `book_science` | 📚 読書・サイエンス |
-| `other` | 🗂 その他 |
+| enum 値         | 見出し                       |
+| --------------- | ---------------------------- |
+| `tech`          | 🤖 Tech                      |
+| `business`      | 💼 ビジネス / スタートアップ |
+| `dev_tools`     | 🔧 開発・ツール              |
+| `music_culture` | 🎵 音楽 / 機材 / カルチャー  |
+| `book_science`  | 📚 読書・サイエンス          |
+| `other`         | 🗂 その他                    |
 
 新カテゴリを追加する場合は `select_articles.py:CATEGORY_ENUM` と `render_brief.py:CATEGORY_ORDER/CATEGORY_LABELS` を更新すること。

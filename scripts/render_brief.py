@@ -14,10 +14,17 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
-CATEGORY_ORDER = ["tech_ai", "business", "dev_tools", "music_culture", "book_science", "other"]
+CATEGORY_ORDER = [
+    "tech",
+    "business",
+    "dev_tools",
+    "music_culture",
+    "book_science",
+    "other",
+]
 
 CATEGORY_LABELS = {
-    "tech_ai": "🤖 Tech / AI",
+    "tech": "🤖 Tech全般",
     "business": "💼 ビジネス / スタートアップ",
     "dev_tools": "🔧 開発・ツール",
     "music_culture": "🎵 音楽 / 機材 / カルチャー",
@@ -30,6 +37,7 @@ JST = timezone(timedelta(hours=9))
 
 def escape_pipes_in_links(markdown: str) -> str:
     """Markdownリンクのテキスト部分にある | を \\| にエスケープする（Jekyll対策）"""
+
     def replace_link(m: re.Match) -> str:
         text = re.sub(r"(?<!\\)\|", r"\\|", m.group(1))
         return f"[{text}]({m.group(2)})"
@@ -53,7 +61,9 @@ def build_item(title: str, link: str, summary: str) -> str:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="selected.json + summaries.json → Markdown")
+    parser = argparse.ArgumentParser(
+        description="selected.json + summaries.json → Markdown"
+    )
     parser.add_argument("--articles", required=True, help="articles.json のパス")
     parser.add_argument("--selected", required=True, help="selected.json のパス")
     parser.add_argument("--summaries", required=True, help="summaries.json のパス")
@@ -104,7 +114,10 @@ def main() -> None:
                 continue
             title = a["title"]
             if not title or title == "(no title)":
-                print(f"WARNING: skip article with empty title: {p['entry_id']}", file=sys.stderr)
+                print(
+                    f"WARNING: skip article with empty title: {p['entry_id']}",
+                    file=sys.stderr,
+                )
                 continue
             summary = summaries.get(p["entry_id"], "")
             lines.append(build_item(title, a["link"], summary))
@@ -138,7 +151,10 @@ def main() -> None:
                 continue
             title = a["title"]
             if not title or title == "(no title)":
-                print(f"WARNING: skip article with empty title: {p['entry_id']}", file=sys.stderr)
+                print(
+                    f"WARNING: skip article with empty title: {p['entry_id']}",
+                    file=sys.stderr,
+                )
                 continue
             summary = summaries.get(p["entry_id"], "")
             lines.append(build_item(title, a["link"], summary))

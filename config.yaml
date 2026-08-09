@@ -12,10 +12,6 @@ feeds:
     url: "https://hnrss.org/newest?points=100"
     category: "main"
 
-  - name: "techno-edge"
-    url: "https://www.techno-edge.net/rss20/index.rdf"
-    category: "main"
-
   - name: "Amazon Web Services ブログ"
     url: "https://aws.amazon.com/jp/blogs/news/feed/"
     category: "main"
@@ -32,11 +28,18 @@ feeds:
     url: "https://bsky.app/profile/github-trending.bsky.social/rss"
     category: "main"
 
-  - name: "O'Reilly Japan - 新刊・近刊"
-    url: "https://www.oreilly.co.jp/catalog/soon.xml"
+  - name: "DevelopersIO"
+    url: "https://dev.classmethod.jp/feed/"
+    category: "main"
+
+  - name: "CyberAgent SRG"
+    url: "https://ca-srg.dev/feed.xml"
     category: "main"
 
   # --- book ---
+  - name: "O'Reilly Japan - 新刊・近刊"
+    url: "https://www.oreilly.co.jp/catalog/soon.xml"
+    category: "book"
 
   # --- music ---
   - name: "ICON"
@@ -77,12 +80,10 @@ feeds:
 
 interests:
   themes:
-    - "生成AIの最新動向と実用事例"
-    - "AIを活用したシステム開発やシステム運用"
     - "SREやDevOpsのノウハウ"
     - "開発者ツール・DXの改善"
+    - "AIを活用したシステム開発やシステム運用"
     - "テック企業の戦略"
-    - "AWSの新サービス・アップデート"
     - "クラウドインフラとアーキテクチャ設計"
     - "デスク周り・物理的な作業環境"
     - "電子音楽・シンセサイザー・音楽制作ツール"

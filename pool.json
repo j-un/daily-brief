@@ -579,7 +579,147 @@
       "fetched_at": "2026-08-10T07:15:05.419650+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "0ae3e9fd2f370ba2f09b92e201838a0c",
+      "title": "Synapse開発日記: LLM 切り替えで露呈する社内 AI エージェントのモデル依存性 - カンム テックブログ",
+      "link": "https://tech.kanmu.co.jp/entry/2026/07/29/102627",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Synapse 開発日記: LLM 切り替えで露呈する社内 AI エージェントのモデル依存性",
+      "published": "10 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51e3d9e70ee95a79fc677a5101134e3a",
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "link": "https://www.docker.com/products/docker-sandboxes/",
+      "summary": "Article URL: https://www.docker.com/products/docker-sandboxes/ Comments URL: https://news.ycombinator.com/item?id=49239751 Points: 161 # Comments: 108",
+      "published": "Mon, 10 Aug 2026 06:02:38 +0000",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "91cb0f32f943a8222af20d9e67267487",
+      "title": "AWS DevOps Agent と Kiro CLI によるインシデント修正の自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/automated-incident-remediation-with-aws-devops-agent-and-kiro-cli/",
+      "summary": "本記事では、AWS DevOps Agent の修正計画の出力を、AWS CodeBuild 上でヘッドレスモードで動作する Kiro CLI と統合して、修正のループをエンドツーエンドで完結させる方法を紹介します。AWS DevOps Agent が修正分析を完了すると、イベント駆動型のパイプライ...",
+      "published": "Mon, 10 Aug 2026 07:58:43 +0000",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab79eb0301ef5c8379e168ba8343e0f8",
+      "title": "週刊AWS – 2026/8/3週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260803/",
+      "summary": "Amazon DynamoDB がリアルタイムベクトル検索をサポート、OpenAI GPT-5.6 Sol/Terra/Luna が Amazon Bedrock で 100 万トークンコンテキストウィンドウに対応、Amazon Bedrock が OpenAI GPT モデル向け Web Sear...",
+      "published": "Mon, 10 Aug 2026 07:19:45 +0000",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd7efec94c690b3979d3eede49ce4251",
+      "title": "クボタが来春投入、国産初「遠隔監視型無人自動運転トラクター」の機能 ニュースイッチ by 日刊工業新聞社",
+      "link": "https://newswitch.jp/p/49957",
+      "summary": "クボタは６日、国産初となる遠隔監視による無人自動運転を実現したトラクター「新型アグリロボトラクタ ＭＲシリーズ」を、２０２７年４月に発売すると発表した。作業現場から遠く離れた場所で、使用者が別作業や高付加価値な業務を行える。人手不足に悩む農業現場の課題に応える。有人仕様型も含め、初年度に１００台.....",
+      "published": "2026-08-09T21:36:10Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93c717df233f228545a7ad0168ffb0c6",
+      "title": "防いだはずのSpectre v2が再燃？割り込み注入で最新対策がすり抜けた",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2131904.html",
+      "summary": "",
+      "published": "2026-08-10T04:08:12Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "72de75a74857d2cb64c5f98d7a57a56b",
+      "title": "GitHub - nilbuild/slim: Give your localhost a local or public URL",
+      "link": "https://github.com/nilbuild/slim",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-08-10T00:26:53Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2682107806f7ddbe570e64cdcce6ee21",
+      "title": "依存パッケージなしのTypeScript製スプレッドシートエンジン「hucre」v1.0.0が公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/hucre",
+      "summary": "依存パッケージなしのTypeScript製スプレッドシートエンジン「hucre」v1.0.0が公開 オープンソース開発者のWind氏は8月4日、スプレッドシートエンジン「hucre」v1.0.0を公開した。XLSX、CSV、ODS、JSON、NDJSON、XMLの読み書きに対応するTypeScrip...",
+      "published": "2026-08-06T05:00:15Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08f32b86fc59a2b808c56ef8f93ff872",
+      "title": "「AnduinOS」レビュー--「Windows」と「Android」のアプリを簡単に使える「Linux」ディストロ",
+      "link": "https://japan.zdnet.com/article/35251401/",
+      "summary": "「Linux」ディストリビューションは無数に存在するため、ユーザーのタイプや用途に関係なく、最適なものを見つけられる。開発者やゲーマー、一般ユーザー、システム管理者、クリエーター、あるいは、複数のユーザータイプに当てはまる人であっても、自分のニーズにぴったりのディストリビューションが見つかるはずだ。...",
+      "published": "2026-08-09T23:52:33Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd94114e1e0a73475ebf7e0284e408ba",
+      "title": "How I use LLMs to learn complex topics · Laurentiu Raducu",
+      "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "summary": "Many engineers I know use generative AI for many functions, like building PoCs, internal tools or dashboards, or even learning new stuff. I personally...",
+      "published": "2026-08-09T22:46:31Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c14c6a6a49bc5e0a85a427a8ee3f0f3c",
+      "title": "科学技術振興機構、メール情報約1.6万件漏えいの可能性 外部から指摘受け発覚",
+      "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000480/",
+      "summary": "科学技術振興機構（JST）は8月7日、第三者による不正アクセスにより、役職員12人のメールボックスに保管されていたメール情報の一部・約1万6000件が外部に漏えいした可能性があると発表した。外部のメールアドレス約1300件、JST役職員のメールアドレス約1000件が含まれていたという。",
+      "published": "2026-08-10T03:49:34Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c77ce24ce71f68a56e9eee29c633caf6",
+      "title": "GitHub - gastownhall/beads: Beads - A memory upgrade for your coding agent",
+      "link": "https://github.com/gastownhall/beads",
+      "summary": "# Install beads CLI (system-wide - don't clone this repo into your project) curl -fsSL https://raw.githubusercontent.com/gastownhall/beads/main/script...",
+      "published": "2025-10-22T19:56:35Z",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4afda47ce4778583136d7e09b03b9254",
+      "title": "[アップデート] AWS Glue Data Quality の新しい FIXED モードによる異常検知を試してみました",
+      "link": "https://dev.classmethod.jp/articles/20260810-aws-glue-dq-anomaly-detection/",
+      "summary": "AWS Glue Data Qualityの異常検知が追加料金なしで利用できるようになり、誤検知を減らす新しいFIXEDモードが追加されました。実際にマネジメントコンソールから試してみた結果をご紹介します。",
+      "published": "Mon, 10 Aug 2026 08:10:52 GMT",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a64de0cf36efb2f7db7fd086a7f4e7ec",
+      "title": "[アップデート]AWS IAM Identity CenterによるAWSアカウントのアクセス管理がオプションとなり、アプリケーションへのアクセス専用で使えるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aws-iam-identity-center-aws-account-access-management-has-become-option/",
+      "summary": "AWS IAM Identity Centerの最新アップデートで、AWSアカウントへのアクセス管理を無効化して作成にできるようになりました。これによりAWSアカウントの権限管理は不要でAWSマネージドアプリケーション外部とのSAML連携のみに利用したい場合にシンプルな設定で活用できるようになりまし...",
+      "published": "Mon, 10 Aug 2026 07:37:51 GMT",
+      "fetched_at": "2026-08-10T09:09:25.724334+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-10T07:15:05.419650+00:00"
+  "updated_at": "2026-08-10T09:09:25.724334+00:00"
 }

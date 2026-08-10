@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6eb7db8f963df5c64c7273657a49d543",
-      "title": "Aurora MySQL バージョン3系でリーダーインスタンスからテーブルが見えなくなるバグの旅路",
-      "link": "https://ca-srg.dev/3b14358b43f78039b312da13a56065bf",
-      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです。...",
-      "published": "Mon, 03 Aug 2026 00:00:25 GMT",
-      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
-      "feed_name": "CyberAgent SRG",
-      "category": "main"
-    },
-    {
-      "entry_id": "3b44d0696cb39e17320677b1fde4a129",
-      "title": "tfpolicy を使った Terraform のセキュリティ対策",
-      "link": "https://ca-srg.dev/3a94358b43f7806ebc55f323d3568d29",
-      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグ...",
-      "published": "Sun, 26 Jul 2026 12:33:32 GMT",
-      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
-      "feed_name": "CyberAgent SRG",
-      "category": "main"
-    },
-    {
-      "entry_id": "772cbf9c48345bb3d829570098515532",
-      "title": "Aurora MySQLのバックアップは本当に今の設定で安全か考える",
-      "link": "https://ca-srg.dev/3a74358b43f780fbab55d076bf5deb34",
-      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の鬼海 雄太（@fat47）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラ周りを横断的にサポートしており、既存サービスの改善や新規立ち上げ、OSS貢献などを行っているグループです...",
-      "published": "Fri, 24 Jul 2026 04:51:32 GMT",
-      "fetched_at": "2026-08-09T01:04:49.978587+00:00",
-      "feed_name": "CyberAgent SRG",
-      "category": "main"
-    },
-    {
       "entry_id": "21c11cef306552fb0516aaaf0f119468",
       "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど － Publickey",
       "link": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
@@ -329,7 +299,127 @@
       "fetched_at": "2026-08-10T03:45:09.261385+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "32128147d3e66bbcc5fab97b14a73dbf",
+      "title": "AIエージェントのハーネスを専用ツールへの置き換えで補完する - kubell Creator's Note",
+      "link": "https://creators-note.chatwork.com/entry/2026/08/04/120000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェントのハーネスを専用ツールへの置き換えで補完する",
+      "published": "10 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "654273d093b087f35dcc0b3aade70135",
+      "title": "What Happened to HackerOne?",
+      "link": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "summary": "Article URL: https://blog.teknogeek.io/posts/what-happened-to-hackerone/ Comments URL: https://news.ycombinator.com/item?id=49238561 Points: 121 # Com...",
+      "published": "Mon, 10 Aug 2026 02:23:17 +0000",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "421d00239c36ae904dfc3634f6b47b23",
+      "title": "【大河原克行の「パソコン業界、東奔西走」】 クラファン7,491万円達成の富士通「FMV Keyboard X」、極限の静音化を追求",
+      "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2131797.html",
+      "summary": "",
+      "published": "2026-08-10T00:19:28Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0247dff2cba3ed8f0ae6a438cf1df4ac",
+      "title": "「サクラエディタ」に約3年8カ月ぶりの更新、ダークモード/EditorConfig/IVSなどに対応／複数の脆弱性に対処したセキュリティアップデート",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2131791.html",
+      "summary": "",
+      "published": "2026-08-10T00:57:21Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b598625c2ace2aa9daa28ce40a1d3d67",
+      "title": "「購入済みの着せかえアイコン消えた」 LINEのiOS 26対応版に「金返せ」と不満",
+      "link": "https://www.itmedia.co.jp/news/article/2608/10/2000000476/",
+      "summary": "有料で購入した「着せかえ」のメニューアイコンが8月上旬以降、デフォルトのデザインに戻ってしまう事象が一部のiOSユーザーで起き、「アイコンが消えた。金返せ」「着せ替え買った意味がなくなった」など不満の声が相次いでいる。 iOS 26の新デザイン仕様に対応するため、着せかえの提供元にコンテンツのアップ...",
+      "published": "2026-08-10T03:03:12Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd065ab4c82da09c6c8d11f280652c5a",
+      "title": "コマンド - Claude Code Docs",
+      "link": "https://code.claude.com/docs/ja/commands",
+      "summary": "コマンドはセッション内から Claude Code を制御します。モデルの切り替え、権限の管理、コンテキストのクリア、ワークフローの実行など、様々な操作を素早く行うことができます。 / と入力すると、利用可能なすべてのコマンドが表示されます。または / の後に文字を入力してフィルタリングできます。 ...",
+      "published": "2026-07-16T07:00:28Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a3a2c197f434192f21e64d0c74552b7",
+      "title": "アフィリエイターがこぞって勧めるShellの充電器は買うなという話｜techK",
+      "link": "https://note.com/techk/n/nc885bdbe1764",
+      "summary": "2025年12月、経産省が製品安全4法における連絡不通事業者リストを公開しました。 Shellの充電器は、筆者としてはOEM元が信用できないため「積極的に勧めたい製品ではない」程度の認識でしたが、今回経産省が発表した資料により、絶対に購入を避けるべき製品になったと判断したため、情報共有すべきと考えこ...",
+      "published": "2026-02-08T00:00:13Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56af37a2bcc607961e9628fa75f0c35f",
+      "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
+      "link": "https://shopify.engineering/scaling-inventory-reservations",
+      "summary": "We replaced Redis with MySQL for inventory reservations—and it scaledHow we used SKIP LOCKED, composite primary keys, and connection visibility to hit...",
+      "published": "2026-05-22T04:42:00Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c12324c757515a8ab06b3e9f7861b756",
+      "title": "無料で画像・動画・音声・データ・ドキュメントなどあらゆるファイルを自分のローカルPC内で変換できるオープンソースのセルフホスト型ファイルコンバーター「Transmute」、ファイルサイズ制限や透かしの追加など一切なしでユーザー作成も可能",
+      "link": "https://gigazine.net/news/20260809-transmute/",
+      "summary": "画像や動画・音声・文書などのファイル形式を変換するオンラインサービスは手軽に利用できますが、容量制限が設けられていたり機密性のあるファイルを外部サーバーへ送信しなければならなかったりします。「Transmute」なら自分のPCや管理下のサーバー内で幅広いファイル形式を変換・圧縮できるオープンソースの...",
+      "published": "2026-08-09T09:54:08Z",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "425aca06c4e9095b5c9dd64764dcbe3f",
+      "title": "【Security Hub修復手順】[ECS.16] ECS タスクセットはパブリック IP アドレスを自動的に割り当てないでください。",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-ecs-16/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Mon, 10 Aug 2026 04:43:41 GMT",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f88fb74045dd05161d4ef72ae9709b56",
+      "title": "ロボタクシー「Zoox」がラスベガスで商用利用開始。昨年 re:Invent で無人の公道走行を体験したときを振り返ってみる",
+      "link": "https://dev.classmethod.jp/articles/zoox-paid-robotaxi-las-vegas/",
+      "summary": "ハンドルもペダルも無い Zoox のロボタクシーが、ラスベガスで商用利用を開始しました。鍵は FMVSS への適合ではなく NHTSA Part 555 の適用除外です。官報の原典を読みながら、昨年の乗車体験と併せて整理します。",
+      "published": "Mon, 10 Aug 2026 04:12:00 GMT",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "deee05fe019823d08175ccaf42f56705",
+      "title": "AWS Well-Architected Framework 入門：パフォーマンス効率の柱を S3 + CloudFront でハンズオンしてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-05/",
+      "summary": "AWS Well-Architected Framework を学ぶシリーズ第 5 回で、今回はパフォーマンス効率の柱を扱います。S3 の静的サイトを CloudFront でキャッシュ配信し、応答速度の変化を実際に計測することで体感します。",
+      "published": "Mon, 10 Aug 2026 04:06:21 GMT",
+      "fetched_at": "2026-08-10T05:17:51.115647+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-10T03:45:09.261385+00:00"
+  "updated_at": "2026-08-10T05:17:51.115647+00:00"
 }

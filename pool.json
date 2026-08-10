@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "21c11cef306552fb0516aaaf0f119468",
-      "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
-      "published": "09 Aug 2026 06:55 +0000",
-      "fetched_at": "2026-08-09T08:32:08.813444+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "867334e3c92f31df357615176679c2c4",
       "title": "Saying No",
       "link": "https://rozumem.xyz/posts/19",
@@ -869,7 +859,127 @@
       "fetched_at": "2026-08-10T10:59:56.101548+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "3f4b51b0e9d786678d3dcdb4facc5da9",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model Comments URL: https://news.ycombinator.com/item?id=49241679 Poi...",
+      "published": "Mon, 10 Aug 2026 10:10:02 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12ff5d29113f9c5e1a913808744dcc19",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "link": "https://github.com/shinyquagsire23/Klepton",
+      "summary": "Article URL: https://github.com/shinyquagsire23/Klepton Comments URL: https://news.ycombinator.com/item?id=49238818 Points: 112 # Comments: 16",
+      "published": "Mon, 10 Aug 2026 03:12:48 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "505fb262895ec4bfa7accc18931cdb1d",
+      "title": "How We Pushed CDC into Postgres",
+      "link": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Mon, 10 Aug 2026 01:01:34 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43d33bd8c9070bac23eb2bffa1c6ef7e",
+      "title": "AWS が Agent Plugins をサポート: ポータブルなエージェント拡張のためのオープン標準",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-supports-agent-plugins-an-open-standard-for-portable-agent-extensions/",
+      "summary": "AWS は Cursor、Microsoft、OpenAI、Vercel とともに Agent Plugins Technical Steering Committee の設立メンバーとして参画します。Agent Plugins 1.0.0 は AI エージェント拡張のためのオープンかつベンダーニュ...",
+      "published": "Mon, 10 Aug 2026 12:31:46 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c5dc6c15d2d7697b88bf7b98f394e78",
+      "title": "AIインフラの最新技術動向2026 (OCP China)",
+      "link": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+      "summary": "技術動向説明会（日本語）",
+      "published": "2026-08-10T06:15:12Z",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01eb569db7473adc523054f6fbc17c4f",
+      "title": "毎日の“フォルダー移動”を劇的に省力化できるツール「Quick Access Popup」（QAP）／エクスプローラーはもちろん、ダイアログやコンソールでも。「Folders Popup」の後継【レビュー】",
+      "link": "https://forest.watch.impress.co.jp/docs/review/2131992.html",
+      "summary": "",
+      "published": "2026-08-10T08:57:57Z",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83531a2a16b4b57a95a05556223b05ad",
+      "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
+      "link": "https://gigazine.net/news/20260810-cloudflare-kitesurf/",
+      "summary": "インターネットインフラ企業のCloudflareが、AIエージェントによるウェブ操作に特化した新しいブラウザ「Kitesurf」を発表しました。人間向けブラウザで一般的なタブやテーマ、拡張機能などは省き、AIエージェントがウェブページを読み取ったり操作したりする際のCPU・メモリ消費やスケーラビリテ...",
+      "published": "2026-08-10T04:17:00Z",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e90f2026929bd3b13094bd54ee1cb0df",
+      "title": "ニチレイのサイバー攻撃、ハッカー集団が盗難データ公開 社内情報など - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC101ZU0Q6A810C2000000/",
+      "summary": "ニチレイがサイバー攻撃を受けた問題で、「RansomHouse（ランサムハウス）」と名乗るハッカー集団が同社から盗んだと主張するデータをインターネット上に公開したことが10日分かった。データには社内総務・人事・経理や取引先とみられる情報が含まれている。身代金の有無や交渉期限などの言及は確認されていな...",
+      "published": "2026-08-10T06:42:17Z",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd4985beb94ebb46754a40d1887d0dae",
+      "title": "OpenAIが開発中の次期主力AIモデル「Astra」について「強力すぎる」ことを理由にサイバーリスク重大に指定して安全措置を開発中",
+      "link": "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
+      "summary": "OpenAIは次期主力AIモデルとして「Astra」を準備しており、2026年8月1日には、Astraの内部バージョンが10件の数学・理論計算機科学の課題で新成果を上げたことを発表しています。しかし8月7日には、Astraに関する最新の社内評価でエージェントコーディングとサイバーセキュリティにおいて...",
+      "published": "2026-08-10T07:00:54Z",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51b764739fb918126b2a2d9de46a49a8",
+      "title": "📦 opa334 / Dopamine ⭐ 5,908 (+95) 🗒 C Do…",
+      "link": "https://github.com/opa334/Dopamine",
+      "summary": "📦 opa334 / Dopamine ⭐ 5,908 (+95) 🗒 C Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "published": "10 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7939d09ccce2c2c6b33f0eb24bec0155",
+      "title": "There’s a major security hole in CDJs, Rekordbox; here’s what’s affected",
+      "link": "https://cdm.link/theres-a-major-security-hole-in-cdjs-rekordbox-heres-whats-affected/",
+      "summary": "AlphaTheta, the company the entire world still knows as \"Pioneer,\" has announced a major \"security vulnerability\" in many CDJ and XDJ models and all R...",
+      "published": "Mon, 10 Aug 2026 11:03:06 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "832b20c5bf99d3631ad393e81b2df279",
+      "title": "Wilkinson: “Buy one decent controller and synth, and learn them inside out…The producers I admire know their tools incredibly well.”",
+      "link": "https://musictech.com/features/interviews/wilkinson-nirva-infinity-novation/?utm_source=rss&utm_medium=rss&utm_campaign=wilkinson-nirva-infinity-novation",
+      "summary": "The esteemed d’n’b producer shares crucial lessons for producers, recommends his favourite Novation gear, and debunks a tired myth in music production...",
+      "published": "Mon, 10 Aug 2026 11:29:46 +0000",
+      "fetched_at": "2026-08-10T12:50:29.361075+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-10T10:59:56.101548+00:00"
+  "updated_at": "2026-08-10T12:50:29.361075+00:00"
 }

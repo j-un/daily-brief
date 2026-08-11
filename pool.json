@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "91e957f5a30b2ac09d95600caffddc8b",
-      "title": "SmartHR最大のRailsアプリケーションにコネクションプーラーを導入しました！── 2年前の障害対応から学んだスケーラビリティと運用のリアル - SmartHR Tech Blog",
-      "link": "https://tech.smarthr.jp/entry/2026/08/04/091858",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SmartHR最大のRailsアプリケーションにコネクションプーラーを導入しました！── 2年前の障害対応から学んだスケーラビリティと運用のリアル",
-      "published": "10 Aug 2026 06:55 +0000",
-      "fetched_at": "2026-08-10T07:15:05.419650+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "796635d12b27805f0f196777eb95b402",
-      "title": "Auto mode is now the default in Claude Code",
-      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "Article URL: https://claude.com/blog/auto-mode-default-in-claude-code Comments URL: https://news.ycombinator.com/item?id=49239021 Points: 147 # Commen...",
-      "published": "Mon, 10 Aug 2026 03:50:00 +0000",
-      "fetched_at": "2026-08-10T07:15:05.419650+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
       "entry_id": "8f8cca34fc522fb37c69e809dea369f0",
       "title": "Humanising LLM Outputs Is Dumb",
       "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
@@ -729,7 +709,77 @@
       "fetched_at": "2026-08-11T10:42:48.048982+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "7298406c46316ba0c936ec893accd5f4",
+      "title": "Just a moment...",
+      "link": "https://cafe-dc.com/politics/virginia-state-senators-call-for-review-into-data-center-groundwater-strain-and-potential-state-wide-moratorium/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 バージニア州上院議員ら、データセンターによる地下水負荷と州全域でのデータセンターの利用停止措置の可能性を要請 | Data Center Café",
+      "published": "11 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7f95b3e9395c6f83f4511b3f84fcc33",
+      "title": "AIに書かせた文はバレる時代へ。EU AI法にClaudeも対応、編集しても残る見えないテキスト透かしを導入 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/11/5382.html",
+      "summary": "Anthropicが、AIモデル Claudeが生成する文章に電子透かしを導入する計画を明らかにしました。",
+      "published": "2026-08-11T08:52:44Z",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e926576a8fa705e8d409c8858a2f4e7",
+      "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入",
+      "link": "https://www.itmedia.co.jp/news/article/2608/11/2000000496/",
+      "summary": "米OpenAIは8月10日（現地時間）、サイバーセキュリティの防御者向けの取り組み「Daybreak」を拡張し、承認ユーザーに向けて「Daybreak Blue」「Daybreak Red」という2つのアクセス階層を設けると発表した。あわせて、サイバーセキュリティに特化した新モデル「GPT-5.6-...",
+      "published": "2026-08-11T02:57:03Z",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c5bd24f63767e1758390252418b9e2f",
+      "title": "ドメインモデル図がすぐ古くなるので、Storybookっぽくコードと関連付けて見れるようにしてみた",
+      "link": "https://zenn.dev/dress_code/articles/34f18afe1464e8",
+      "summary": "はじめに ドメインモデリングの手法として、SUDOモデリングを個人的によく使っています。チームで正式に採用しているわけではないですが、手軽にドメインを整理できるので気に入っている、くらいの温度感で5年ほど使ってきました。ただ、その中の「ドメインモデル図」と「オブジェクト図」の運用にはずっとモヤモヤし...",
+      "published": "2026-08-10T16:35:11Z",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc5116c07164322c72a9067c90036a70",
+      "title": "1日500コミットを日常にするツールを作りました ── これを使えばだれでも余裕です",
+      "link": "https://zenn.dev/singularity/articles/ever-better-pm2",
+      "summary": "AI にどんどん書かせて、コードレビューはしない。 それで1日500コミットを、毎日出しています。 無茶に聞こえると思いますが、条件が1つだけあります。「読まなくても壊れない足回り」が先に入っていること。 前に書いたとおり、レビューをやめられたのではなく、レビューを機械に移しただけなので。 その足回...",
+      "published": "2026-08-11T07:38:41Z",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2e3cda3fa2e6709a11204bdb52d7725",
+      "title": "📦 nvm-sh / nvm ⭐ 94,412 (+18) 🗒 Shell No…",
+      "link": "https://github.com/nvm-sh/nvm",
+      "summary": "📦 nvm-sh / nvm ⭐ 94,412 (+18) 🗒 Shell Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "published": "11 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0cbd290afbced7ae2e674f53eafbe21",
+      "title": "Why Daniel Caesar’s executive producers, Matthew Burnett and Jordan Evans, are his “rational minds”",
+      "link": "https://musictech.com/features/interviews/matthew-burnett-jordan-evans-interview-daniel-caesar/?utm_source=rss&utm_medium=rss&utm_campaign=matthew-burnett-jordan-evans-interview-daniel-caesar",
+      "summary": "From self-funded EPs to sold-out arenas, Burnett and Evans reveal what it actually takes to champion an artist The post Why Daniel Caesar’s executive ...",
+      "published": "Tue, 11 Aug 2026 11:47:15 +0000",
+      "fetched_at": "2026-08-11T12:44:05.014049+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-11T10:42:48.048982+00:00"
+  "updated_at": "2026-08-11T12:44:05.014049+00:00"
 }

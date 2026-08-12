@@ -1609,7 +1609,117 @@
       "fetched_at": "2026-08-12T18:51:20.135760+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "e5b265718d984b5c369889109238b013",
+      "title": "Zed: Delta",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "summary": "Article URL: https://zed.dev/blog/introducing-delta Comments URL: https://news.ycombinator.com/item?id=49276574 Points: 168 # Comments: 66",
+      "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37ecb6344cfb1d1b3e750a4495dd3488",
+      "title": "5th Heat Dome Expands Across Europe: 40°C+ Target Western and Central Europe",
+      "link": "https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/",
+      "summary": "Article URL: https://www.severe-weather.eu/global-weather/excessive-heat-dome-heatwave-western-europe-mid-august-2026-mk/ Comments URL: https://news.y...",
+      "published": "Wed, 12 Aug 2026 11:42:17 +0000",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e31484820e1e7c02fe1fecd0051b125",
+      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, co...",
+      "published": "Wed, 12 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e29b6c70c6900471fe138f32f2bde644",
+      "title": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/",
+      "summary": "Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the op...",
+      "published": "Wed, 12 Aug 2026 17:15:00 GMT",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3fded2fdc01652ad4d34af05aecd222",
+      "title": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access",
+      "summary": "AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Glue ...",
+      "published": "Tue, 11 Aug 2026 14:57:00 GMT",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1af63fb8dfaaaf8b97c5ee49b947cb70",
+      "title": "AWS Marketplace now supports category-based notification subscriptions and multi-channel delivery for buyers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-managed-buyer-notifications/",
+      "summary": "AWS Marketplace buyers can now configure category-based notifications and multi-channel delivery through AWS User Notifications. Previously, buyer ema...",
+      "published": "Mon, 10 Aug 2026 21:00:12 GMT",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4a73824b92d9f8693c50e976b9b8b30",
+      "title": "TopcoatでRustフルスタック開発 - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/08/12/163644",
+      "summary": "はじめに Topcoatは、HTMLをサーバーで生成しながら、ブラウザ上の状態更新やサーバー処理もRustで記述するフルスタックフレームワークです。フロントエンド用のディレクトリやnpmを用意せず、1つのRustファイルから動きます。2026年7月に発表された0.5.0を検証しました。 サーバーサイ...",
+      "published": "2026-08-12T09:07:33Z",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "316289be046a9a18cdd114cfe4f56f13",
+      "title": "オントロジーと知識グラフ入門：URI から RDF、RDFS、OWL、推論、SPARQL まで整理して学ぶ - Qiita",
+      "link": "https://qiita.com/haystacker/items/376d86bcbeefc3885183",
+      "summary": "これを下から順番に理解していくと、「今どの話をしているのか」「何がどの上に乗っているのか」が見えやすくなります。 この記事で扱う題材 扱う概念は次の 5 つです。 Animal（動物） Mammal（哺乳類） Cat（猫） Dog（犬） hasLegCount（足の本数） そして、基本となる知識は次...",
+      "published": "2026-08-12T13:22:57Z",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "875a57f63b41db8230f37be4a137be14",
+      "title": "ループとグラフは別物じゃない — 「検証の積み木」でエージェント設計を整理してみた - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260812/ai",
+      "summary": "はじめに 先に用語を固定します 結論から：これは「検証の積み木モデル」です 第1層：LLM単発推論 — 検証がない世界 第2層：ReAct — 「できたか」を自分で確認する 第3層：ループエンジニアリング — 合否判定を、作った本人の外に出す これ、人間がやってた作業ですよね ただし、1つの成果物の...",
+      "published": "2026-08-12T06:20:28Z",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ed63ee3845a5446d63eecd34c34907a",
+      "title": "認証がプロダクトの足かせにならない世界へ —— 認証・認可基盤ユニットの発足と挑戦 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/12/102806",
+      "summary": "こんにちは。SmartHRでプロダクトエンジニアをしているbmf_sanです。プロダクト基盤開発本部の認証・認可基盤ユニットで、チーフを担当しています。 2026年2月、SmartHRに「認証・認可基盤ユニット」という新しいチームが発足しました。その名の通り、SmartHRの認証・認可領域を専任で担...",
+      "published": "2026-08-12T02:15:21Z",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e413ca598b2e8b5935c321c9bb94226a",
+      "title": "📦 ZuodaoTech / everyone-can-use-english…",
+      "link": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "summary": "📦 ZuodaoTech / everyone-can-use-english ⭐ 35,935 (+53) 🗒 TypeScript 人人都能用英语",
+      "published": "12 Aug 2026 19:16 +0000",
+      "fetched_at": "2026-08-12T20:34:34.999615+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-12T18:51:20.135760+00:00"
+  "updated_at": "2026-08-12T20:34:34.999615+00:00"
 }

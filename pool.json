@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8927f2eb73f2506f9db09d91fab5f12c",
-      "title": "403",
-      "link": "https://engineering.mercari.com/blog/entry/20260731-bd36d55a0c/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 メルカリのCoreDBをMySQLからTiDBへ移行した振り返り",
-      "published": "11 Aug 2026 06:55 +0000",
-      "fetched_at": "2026-08-11T08:44:23.979223+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "7c8d2aabd0a5e024104a7bf6148bb552",
       "title": "AWS Backup for Amazon S3 now supports direct access to backup data",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/",
@@ -1009,7 +999,137 @@
       "fetched_at": "2026-08-12T10:53:38.469974+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "51ff01d7d7ea5ed8a6362309ef5ba5c6",
+      "title": "GitLab Self-Hostedで実現するコンフィデンシャルAI",
+      "link": "https://about.gitlab.com/ja-jp/blog/confidential-ai-for-gitlab-self-hosted/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitLab Self-Hostedで実現するコンフィデンシャルAI",
+      "published": "12 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a42327c6569f5774e88bb042cdcdc57a",
+      "title": "What sort of maths are LLMs good at?",
+      "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "summary": "Article URL: https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/ Comments URL: https://news.ycombinator.com/item?id=49270022 ...",
+      "published": "Wed, 12 Aug 2026 10:04:25 +0000",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d143cacde4fb1fe9f5cbb15f8d09245",
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "summary": "Article URL: https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696 Comments URL: https://news.ycombi...",
+      "published": "Wed, 12 Aug 2026 09:35:30 +0000",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd84ddaf577054fa68169f78bf120d0f",
+      "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
+      "link": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
+      "summary": "Article URL: https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland Comments URL: https://new...",
+      "published": "Wed, 12 Aug 2026 09:30:47 +0000",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "74701ef9e65ca2675b9338937cf6a37a",
+      "title": "やる夫で学ぶディジタル信号処理 (PDF版) 暫定配布所 - swk's log はてな別館",
+      "link": "https://swkagami.hatenablog.com/entry/yaruodsp_00pdf",
+      "summary": "「やる夫で学ぶディジタル信号処理」という講義資料を異動前の研究室のサイトにを置きっぱなしにさせて頂いているのですが，諸事情でアクセス不可の状態が続いています．取り急ぎPDF版だけこちらからアクセス可能にしておきます．",
+      "published": "2026-08-03T03:47:52Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "deb64fda18ce38d9ed80ef2c8258ffd2",
+      "title": "Microphone Test",
+      "link": "https://vaaaaanquish.github.io/MicrophoneTest/",
+      "summary": "Free online microphone test. Record a few seconds of speech and get a literature-based quality score: noise (SNR), reverb, level, clipping, bandwidth,...",
+      "published": "2026-08-12T00:54:56Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f9061df322d6c6785d52dbe50179943c",
+      "title": "Cloudflare OS：エージェント、アプリ、作業のためのオープンプラットフォーム",
+      "link": "https://blog.cloudflare.com/ja-jp/cloudflare-os/",
+      "summary": "2026年8月10日Cloudflare OS：エージェント、アプリ、作業のためのオープンプラットフォーム すべての組織には、目標とする使命と存在理由がありますが、社員に代々受け継がれている、組織特有の用語、業務手順、システム、ルール、仕事の進め方などもあります。従業員は、会社が持つこうした背景や知...",
+      "published": "2026-08-12T07:39:12Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a83411bf5693aa88dd1b4a56be7867f",
+      "title": "「ウェザーニュース for business」にAIエージェントを搭載",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2132067.html",
+      "summary": "",
+      "published": "2026-08-11T07:51:15Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3be3ebfdaa00d8420a2ae915d026eec5",
+      "title": "[FT]中国系「AI人材」母国に帰国 米「頭脳囲い込み」に試練 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCB101PJ0Q6A810C2000000/",
+      "summary": "2019年、後に中国の人工知能（AI）新興、月之暗面（ムーンショットAI）を創業する楊植麟氏は、米カーネギーメロン大学（CMU）の博士課程を通常より2年短い4年間で修了した。米アップルからは入社を請われた。米グーグルと米メタではインターンとして働いた経験があった。米スタンフォード大やマサチューセッツ...",
+      "published": "2026-08-11T08:40:41Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a486098a85fcd4203eb31041ce64813",
+      "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+      "summary": "中国発のAIエージェント「Manus」を提供するManus社は8月11日（現地時間）、米Metaから分離し、独立企業としての運営を間もなく再開すると発表した。Metaは2025年12月にManusを約20億ドル（約3000億円）規模で買収したと報じられていたが、AIの発展を国策に掲げる中国政府が反発...",
+      "published": "2026-08-12T06:54:48Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9e0c43a921ef662595a5121571de97c",
+      "title": "AIテストプロセスの信頼度を測り、改善を回す【前編】── 品質メトリクスの設計と運用 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/08/06/100000",
+      "summary": "こんにちは、QAチームの草場です。 Claude Codeに代表されるAIエージェントの登場で、ソフトウェアテストの現場も大きく変わりつつあります。私のチームでも、テスト分析からテスト実行まで、テストプロセスの各工程をAIエージェントに任せる取り組みを続けてきました。大量の情報収集が短時間でできる、...",
+      "published": "2026-08-07T19:55:44Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "875d6d950a05110792e241ddf70c909e",
+      "title": "Claudeが生成した文章に「電子透かし」、全世界で導入へ",
+      "link": "https://japan.cnet.com/article/35251494/",
+      "summary": "文章やファイルを作ったのが人間なのか、それともAIモデル「Claude」なのか、近いうちに確実に見分けられるようになるかもしれない。Anthropicは今週、Claudeが生成するテキストに、AI生成物だと分かるよう電子透かしを入れると発表した。AI利用の透明性を定めた欧州連合（EU）の規則に対応す...",
+      "published": "2026-08-12T00:14:47Z",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "214dba85e9ac75f401e340000ad07007",
+      "title": "Claude Code セルフホスト環境機能が登場。EC2インスタンスを実行環境にしてみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-self-hosted-runner/",
+      "summary": "別にセルフホストしたくないですが、選択肢があるというのは良いことです",
+      "published": "Wed, 12 Aug 2026 11:12:20 GMT",
+      "fetched_at": "2026-08-12T12:50:47.819236+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-12T10:53:38.469974+00:00"
+  "updated_at": "2026-08-12T12:50:47.819236+00:00"
 }

@@ -919,7 +919,97 @@
       "fetched_at": "2026-08-12T09:03:50.656213+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "6249b54a4d3015f22fc7c5d749b4589f",
+      "title": "The Human Is the Loop",
+      "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+      "summary": "Article URL: https://brentfitzgerald.com/posts/the-human-is-the-loop/ Comments URL: https://news.ycombinator.com/item?id=49267108 Points: 116 # Commen...",
+      "published": "Wed, 12 Aug 2026 02:15:01 +0000",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a3482dba49dce551b103906bceb85e2",
+      "title": "【全統計学博士号泣】ガウス過程、撃沈。高度で柔軟なモデルがボロ負けする惨劇をどうぞ - Qiita",
+      "link": "https://qiita.com/Gotoubun_taiwan/items/9a2d123e796f447b882d",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに こんにちは、事業会社で働いている...",
+      "published": "2026-08-11T15:31:33Z",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01a844c6ac577b92c91280d1a618759b",
+      "title": "WebX68k - X68000 Emulator",
+      "link": "https://uraraworks.github.io/WebX68k/",
+      "summary": "設定 BIOS ファイル(IPLROM.DAT / CGROM.DAT)とマシン構成を設定します。設定はブラウザに保存され、次回起動時から反映されます。 BIOS 設定",
+      "published": "2026-08-05T22:40:05Z",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2b13f24cc7cf7053075176182def032",
+      "title": "LINEの「ミュートメッセージ」有料化へ 相手のスマホを鳴らさずに送れる便利機能",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/10/news075.html",
+      "summary": "LINEヤフーは8月7日、コミュニケーションアプリ「LINE」で利用できる「ミュートメッセージ」の無料提供を、26日をもって終了すると発表した。今後は「LYPプレミアム スタンダードプラン」（月額508円から）の特典として提供する。 ミュートメッセージは、送信先のスマートフォンの通知音を鳴らしたり、...",
+      "published": "2026-08-10T04:04:08Z",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64dae6fd4c21a8e8dfcd16946930bc57",
+      "title": "MCPを繋ぐだけで使えるCode Interpreter環境をAgentCore Runtimeで作ってみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-code-interpreter-mcp-server/",
+      "summary": "AWS AgentCore RuntimeとMCPプロトコルを組み合わせ、複数のLLMから共有できるCode Interpreterサーバーをゼロから構築する方法を紹介します。CSVの投入からpptx作成まで、実際の動作確認も交えて解説しました。",
+      "published": "Wed, 12 Aug 2026 10:23:10 GMT",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "536e9e30e7b1b5ef22581390fbaba533",
+      "title": "【Amazon Connect】フローログをトラブルシュートに活用してみた (初心者向け)",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-flow-logs-enable-troubleshooting/",
+      "summary": "Amazon Connectのフローログ設定方法からトラブルシュートでの活用例までご紹介します。",
+      "published": "Wed, 12 Aug 2026 10:10:04 GMT",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b02b01fc4338ab6074253b46ee2c67e",
+      "title": "Amazon Quickの「データセットQ&A」を使いこなす｜実際に触ってみて分かった活用ポイント",
+      "link": "https://dev.classmethod.jp/articles/QS_datasetQA_try/",
+      "summary": "Amazon QuickのデータセットQ&A機能について、実際に触ってみた結果をご紹介します。ダッシュボードを都度作らずその場で数値確認できる、自然言語でのデータ分析を試してみました。",
+      "published": "Wed, 12 Aug 2026 09:59:27 GMT",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ea66f45467324a1df431d4c030ae5b3",
+      "title": "NVIDIA Nemotron 3.5 Lightning の 3 種類の投機的デコーディング（DSpark / DFlash / MTP）を DGX Spark で比較してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-nemotron-3-5-lightning-dspark-dflash-mtp-dgx-spark/",
+      "summary": "NVIDIA の新オープンモデル Nemotron 3.5 Lightning に同梱された 3 種類の投機的デコーディング手法を、DGX Spark で実際に比較してみました。",
+      "published": "Wed, 12 Aug 2026 09:49:08 GMT",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "90d8ed3e97659c73ada42eade114fcb9",
+      "title": "How we remixed Duran Duran and Nile Rodgers: Tips and tricks from Harrison, Trixie Mattel, and Alissia",
+      "link": "https://musictech.com/features/interviews/how-we-remixed-duran-duran-and-nile-rodgers-free-to-love-tips-and-tricks-from-harrison-trixie-mattel-and-alissia/?utm_source=rss&utm_medium=rss&utm_campaign=how-we-remixed-duran-duran-and-nile-rodgers-free-to-love-tips-and-tricks-from-harrison-trixie-mattel-and-alissia",
+      "summary": "All three of these artists put their spin on the new upbeat Pride anthem, ‘Free To Love’ The post How we remixed Duran Duran and Nile Rodgers: Tips an...",
+      "published": "Wed, 12 Aug 2026 09:40:18 +0000",
+      "fetched_at": "2026-08-12T10:53:38.469974+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-12T09:03:50.656213+00:00"
+  "updated_at": "2026-08-12T10:53:38.469974+00:00"
 }

@@ -659,7 +659,137 @@
       "fetched_at": "2026-08-12T05:36:26.516731+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "0c5dc6c15d2d7697b88bf7b98f394e78",
+      "title": "AIインフラの最新技術動向2026 (OCP China) - Speaker Deck",
+      "link": "https://speakerdeck.com/markunet/aiinhuranozui-xin-ji-shu-dong-xiang-2026-ocp-china",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIインフラの最新技術動向2026 (OCP China)",
+      "published": "12 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "59ab591759376a23debc4959b8fee169",
+      "title": "A guide to cost visibility and control in Claude | Claude by Anthropic",
+      "link": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 A guide to cost visibility and control in Claude",
+      "published": "12 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03a29a2d558e0bf7884a3dee308fb2d3",
+      "title": "Metric cardinality limits in OpenTelemetry: a practical guide | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Metric cardinality limits in OpenTelemetry: a practical guide",
+      "published": "12 Aug 2026 05:56 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51ee1740beac089c11f1793b395befa6",
+      "title": "Running auto mode in production | Claude by Anthropic",
+      "link": "https://claude.com/blog/auto-mode-in-production",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Running auto mode in production",
+      "published": "12 Aug 2026 05:56 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78100cfee8ce110f6ce88a5ccb91f821",
+      "title": "llama.cpp",
+      "link": "https://llama.app",
+      "summary": "Article URL: https://llama.app Comments URL: https://news.ycombinator.com/item?id=49267928 Points: 113 # Comments: 49",
+      "published": "Wed, 12 Aug 2026 04:51:59 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80888882cc13dc2c38b808b408e1346d",
+      "title": "CSS properties you should know for better text designs",
+      "link": "https://master.dev/blog/typographic-css-tricks/",
+      "summary": "Article URL: https://master.dev/blog/typographic-css-tricks/ Comments URL: https://news.ycombinator.com/item?id=49261417 Points: 106 # Comments: 15",
+      "published": "Tue, 11 Aug 2026 17:16:06 +0000",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7baa2aa842ccd528549e95ebbf76177",
+      "title": "レガシーインタフェースが“抜け道”に ―懸念が現実となったLinuxカーネル ロックダウンモードのバグ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260810",
+      "summary": "カーネルがロックダウンモードにあるにもかかわらず、アクセス可能なレガシーI/Oインタフェースが放置されている ―8月4日、カーネルメンテナーのひとりであるKrzysztof Wilczyńskiが提出したパッチが承認され、約10年前から存在するレガシーI/Oインターフェースが、ロックダウンの保護対象...",
+      "published": "2026-08-10T12:12:25Z",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bea2550f5b536f02553f42caca0cfd5d",
+      "title": "中古サーバ用GPUでローカルLLM環境を作る試算（MI50 / P40 / P100 / V100 / CMP 170HX）",
+      "link": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm",
+      "summary": "追記：2026年8月11日 MI50とP40の情報を加えました。表では触れていますが本文ではあまり触れられていません。 データセンターやマイニングで役目を終えた GPU が中古市場に流れている。Tesla P100 (16GB)は 2万円、Tesla V100 （32GB）は 12万円、CMP 17...",
+      "published": "2026-08-11T12:00:57Z",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "400a0b01a20b6b3d914a80742d63415b",
+      "title": "【なつやつみの自由研究】NECの「AI部署」についてまる一日真剣に考えてみた",
+      "link": "https://dev.classmethod.jp/articles/nec-ai-workforce-management-strategy/",
+      "summary": "NECが発表した「AI自律型組織」の仕組みを、自分の実務経験から読み解いてみます。AI社員という人格ではなく、複数のAIツールを企業グループのように管理し、継続責任を持つOwnerに限定する運営モデルについて、考察をまとめました。",
+      "published": "Wed, 12 Aug 2026 07:01:39 GMT",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49c32bbd3dae526af94e1ec35941476",
+      "title": "Amazon Connect AI エージェントでヒアリングした値を使って、Retrieve ツールのタグフィルタを動的に指定してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-ai-agent-dynamic-retrieve-tag-filter/",
+      "summary": "Amazon Connect AI エージェントで会話中にヒアリングした値をセッションデータに保存し、その値を検索フィルタに動的に指定する方法を検証しました。製品番号を例に、フローモジュールと Lambda を活用してタグベースのナレッジ絞り込みを実装する構成を紹介します。",
+      "published": "Wed, 12 Aug 2026 06:55:55 GMT",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0498acf2b350ee9643190bc14f0d48b",
+      "title": "機械論的解釈可能性(Mechanistic interpretability)とは何か ── Claudeを「橋」に変えた研究の話",
+      "link": "https://dev.classmethod.jp/articles/mechanistic-interpretability/",
+      "summary": "機械論的解釈可能性（mech interp）という分野がいま注目されている理由、そして実際にAIモデルの内部を覗くと何が見えるのかについて紹介します。ブラックボックスを外から測るだけの従来のXAIとは異なり、モデルの中の「回路」そのものを追いかける新しいアプローチについて、Anthropicの具体例...",
+      "published": "Wed, 12 Aug 2026 06:46:48 GMT",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea741fbc219245db6ad14c9231fac67a",
+      "title": "VPC を手作業で組み立てて、ウィザードと比べてみた",
+      "link": "https://dev.classmethod.jp/articles/vpc-build-manually-vs-wizard/",
+      "summary": "AWS VPC をウィザードを使わず手作業で一から組み立ててみました。ルートテーブル、インターネットゲートウェイ、ルーティング設定など、各リソースがどのように連携しているかを確認しながら構築。その後、ウィザードで同じ構成を作って比較し、自動化の中身を明らかにします。",
+      "published": "Wed, 12 Aug 2026 05:54:30 GMT",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "656f5bf5aab9e42c17931dea96ca41ce",
+      "title": "NVIDIA Nemotron 3.5 Lightning 30B-A3B-NVFP4 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-lightning-first-touch/",
+      "summary": "NVIDIA が公開した Nemotron 3.5 Lightning を DGX Spark で動かし、速度・日本語・コード生成・ツール呼び出しを実測しました。投機デコード込みで単独 115.75 tok/s、8 本同時なら合計 421.85 tok/s。前世代比 27% 高速ですが、使い方には前...",
+      "published": "Wed, 12 Aug 2026 05:50:03 GMT",
+      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-12T05:36:26.516731+00:00"
+  "updated_at": "2026-08-12T07:11:44.866801+00:00"
 }

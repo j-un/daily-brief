@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5469d64f252ed244a49b5495aabeaf4e",
-      "title": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/",
-      "summary": "AWS IAM Identity Center now lets you decide whether to enable management of AWS account access when you create a new organization instance. This allow...",
-      "published": "Wed, 05 Aug 2026 15:12:00 GMT",
-      "fetched_at": "2026-08-11T22:33:08.335025+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "df364637724309b1b20b7b11a2b88b5c",
       "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast - The GitHub Blog",
       "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
@@ -259,7 +249,247 @@
       "fetched_at": "2026-08-13T01:15:20.971469+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "d221b385a35c7dca9463e65603cd844e",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/claude-code-auto-mode/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+      "published": "13 Aug 2026 03:56 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c59bf134db96621150e8856c79a19edb",
+      "title": "Chrome lands on arm64 | Calibre",
+      "link": "https://calibreapp.com/blog/chrome-for-linux-arm64",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Chrome lands on arm64",
+      "published": "13 Aug 2026 02:56 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67d23ab881d5877c4efd8d92202aa4a3",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://www.percona.com/blog/the-duckdb-mysql-engine-at-500-gb/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The DuckDB MySQL engine at 500 GB",
+      "published": "13 Aug 2026 01:56 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9875770e59f3601f0983e5d9e70a9ef",
+      "title": "Glaciers on the Climate Dashboard",
+      "link": "https://climate.metoffice.cloud/glaciers.html",
+      "summary": "Article URL: https://climate.metoffice.cloud/glaciers.html Comments URL: https://news.ycombinator.com/item?id=49275132 Points: 101 # Comments: 19",
+      "published": "Wed, 12 Aug 2026 16:38:25 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50ec8df1f2d70de44a5a782f922cfb6d",
+      "title": "Lovable raises $400M Series C",
+      "link": "https://lovable.dev/blog/series-c",
+      "summary": "Article URL: https://lovable.dev/blog/series-c Comments URL: https://news.ycombinator.com/item?id=49274858 Points: 103 # Comments: 101",
+      "published": "Wed, 12 Aug 2026 16:20:34 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "274d76682a5e9ec5705db3a3e48e9168",
+      "title": "Pixel Watch 5",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/ Comments URL: https://news.ycombinator.com/item?id=49274757 Point...",
+      "published": "Wed, 12 Aug 2026 16:14:37 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27e2e27d3f2b2db53d1fdab620f0cca6",
+      "title": "Pixel 11 Pro Fold",
+      "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+      "summary": "Article URL: https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/ Comments URL: https://news.ycombinator.com/item?id=49273330 P...",
+      "published": "Wed, 12 Aug 2026 14:52:27 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bcad390814d14aa5bf63a2a54556080",
+      "title": "【開催報告】ISV SaaS 事業者向け 8 社合同 AI-DLC Unicorn Gym",
+      "link": "https://aws.amazon.com/jp/blogs/news/joint-ai-dlc-unicorn-gym-isv-202607/",
+      "summary": "2026 年 7 月 16 日（木）、 17 日（金）の 2 日間、東京・麻布台ヒルズにて、ISV SaaS 事業者向けの 8 社合同 AI-DLC Unicorn Gym を開催しました。株式会社サイバーセキュリティクラウド、freee 株式会社、株式会社いえらぶ GROUP、モビルス株式会社、エ...",
+      "published": "Thu, 13 Aug 2026 02:58:30 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "edbfe1c16937c30f0b3114ae44d4f323",
+      "title": "AWS ウィークリーまとめ:AWS ヒーローズサミット、Amazon Bedrock、Dogwood、Kiro Crew のウェブサーチなど (2026年8月10 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-heroes-summit-web-search-on-amazon-bedrock-dogwood-kiro-crew-and-more-august-10-2026/",
+      "summary": "2026 年 8 月 3 日週、私たちは世界中から集まった AWS ヒーローたちを集め、つながり、協力し、AW […]",
+      "published": "Thu, 13 Aug 2026 01:26:32 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fec90a80c2fff6cecf32a866d6edf25",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.com/news/articles/cwymw4434v7o",
+      "summary": "Studies show that Japanese firms are dragging their feet when it comes to using AI Facing acute labour shortages, ageing demographics and chronic prod...",
+      "published": "2026-08-12T23:21:03Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5b265718d984b5c369889109238b013",
+      "title": "Introducing Delta - Zed Blog",
+      "link": "https://zed.dev/blog/introducing-delta",
+      "summary": "Today we're introducing Delta, a multiplayer environment for coding with agents and reviewing what they build, and we're inviting the first users into...",
+      "published": "2026-08-12T18:25:00Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc1f856e9a4a53eb853a8f0ee4d53fe8",
+      "title": "How Tailscale helped find the SQLite WAL-Reset bug",
+      "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "summary": "At the end of last year, our uptime was pretty shaky. You can see this trend on our status page, and that instability continued into the new year. Man...",
+      "published": "2026-08-12T17:59:25Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ab4ede8387e64e2da19529926092a81",
+      "title": "Agent Browserを使って動作確認しよう｜noteエンジニアチームの技術記事",
+      "link": "https://engineerteam.note.jp/n/n25f4fb782c81",
+      "summary": "この記事は、note社で隔週開催している社内LT大会「Multi-week Tech Meetup（MTM）」での発表をもとにした連載シリーズです。 今回はフロントエンドエンジニアのirieさんのLTをお届けします。 今回お話しするのは、確認用の環境（検証環境）にコードを反映させたあとの動作確認を、...",
+      "published": "2026-08-12T09:00:32Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49f564e603e527aad86ea6670d0e0f34",
+      "title": "LLM生成によるとみられる多数の虚偽CVE登録についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/13/073841",
+      "summary": "GitHubアカウントprogrammervulnが投稿した虚偽の脆弱性アドバイザリのうち、SQLiteを対象とする複数件が2026年7月27日にCVEレコードとして公開され、NVDやGitHub Advisory Databaseなどが取り込みました。セキュリティ企業は、これらが技術的に成立しない...",
+      "published": "2026-08-12T22:58:38Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3397f0f309808c69d3c75f741fa650ec",
+      "title": "ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化",
+      "link": "https://zenn.dev/knowledgework/articles/2114d46c201da3",
+      "summary": "はじめに ナレッジワークのQAエンジニアのtettanです。ナレッジワークでは、マネージャーではなく、いちQAエンジニアという立場で、プロダクトのQA業務や品質施策の横断的な活動を行っています。 2026年8月5日に開催された「QA Test Talk Vol.8」で、「ナレッジワークにおけるAI活...",
+      "published": "2026-08-12T18:58:02Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "812851299fdb19dc8a4c696fa9b6a973",
+      "title": "え?DB側から外部サイトにアクセスさせるSQL Injection?ラボで見てみる攻撃のパターン",
+      "link": "https://zenn.dev/knowledgework/articles/29b2b09ac70350",
+      "summary": "こんにちは。特撮熱が爆上がり中のbun913と申します。 2026年8月より株式会社ナレッジワークでQAエンジニアとして働き始めました。 早速ですが、皆さんは SQL Injection について理解は深いですか？特定の職種でない限り実際に SQL Injection について、非常に深い知識を持っ...",
+      "published": "2026-08-11T12:00:01Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "526b5ce5c1e796a2c5845154defdaebd",
+      "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132417.html",
+      "summary": "",
+      "published": "2026-08-12T14:01:53Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73c21748b7617db06c8ac2fffd530492",
+      "title": "【西川和久の不定期コラム】 Sora 2超えでSeedance 2.0に迫る！動画AI「MiniMax H3」が凄まじいクオリティだった",
+      "link": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html",
+      "summary": "",
+      "published": "2026-08-12T21:47:01Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec8e8daa2189ac05a779682bf2379149",
+      "title": "Word・Excel・PDFなどの文書をAIが読みやすいMarkdownに爆速変換する「anydoc」がオープンソース公開（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/12/5385.html",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、WordやPDFといった多様な文書をMarkdown（GitHub-Flavored Markdown）に高速変換...",
+      "published": "2026-08-12T01:45:08Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2e50487e03a2572cf98479bb6c913cd",
+      "title": "Google、フラッシュ部が光って通知する6.3型スマホ「Google Pixel 11 Pro」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132347.html",
+      "summary": "",
+      "published": "2026-08-12T14:04:23Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95d69425f48e3e4b72d70f06a0d1404d",
+      "title": "CPUとカメラが大幅に進化！6.3型スマホ「Google Pixel 11」誕生。13万6,800円から",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132345.html",
+      "summary": "",
+      "published": "2026-08-12T14:03:43Z",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7078bd140381c8035c849f745753f89",
+      "title": "📦 infiniflow / ragflow ⭐ 87,371 (+85) 🗒…",
+      "link": "https://github.com/infiniflow/ragflow",
+      "summary": "📦 infiniflow / ragflow ⭐ 87,371 (+85) 🗒 Go RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG wi...",
+      "published": "13 Aug 2026 03:16 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "88adb36d994a0627fe372b2158890ba9",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 cac…",
+      "link": "https://github.com/cactus-compute/needle",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 cactus-compute / needle ⭐ 3,871 (+248) 🗒 Python 14MB foundation model for tiny devices; phones, wearables, smart ...",
+      "published": "13 Aug 2026 01:16 +0000",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "834e351cfa3ead2f5a7efe8be51a2a85",
+      "title": "AWS サポート 4 つのプランを、初学者向けに比較してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-support-plan-comparison/",
+      "summary": "AWS 学習を進める中で迷ったサポートプランの選択について、初学者目線で 4 つのプランの違いをわかりやすくまとめてみました。料金・対応速度・機能を比較しながら、自分たちに合ったプランを見つけるためのポイントを紹介します。",
+      "published": "Thu, 13 Aug 2026 03:00:43 GMT",
+      "fetched_at": "2026-08-13T04:02:11.401745+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-13T01:15:20.971469+00:00"
+  "updated_at": "2026-08-13T04:02:11.401745+00:00"
 }

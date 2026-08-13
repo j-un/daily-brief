@@ -1,4 +1,75 @@
 {
-  "articles": [],
-  "updated_at": "2026-08-13T21:52:14.793046+00:00"
+  "articles": [
+    {
+      "entry_id": "233a7f03f4908fb220d0f2425477ac04",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "link": "https://github.com/systemd/systemd/issues/40262",
+      "summary": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 109 # Comments: 57",
+      "published": "Thu, 13 Aug 2026 18:41:01 +0000",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4649e4cd5626f2c705d86d9f00d6c440",
+      "title": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+      "summary": "AWS Client VPN introduces a rebuilt AWS VPN Client v6.0.x which offers new features like command-line interface (CLI) support, enterprise administrati...",
+      "published": "Thu, 13 Aug 2026 20:49:00 GMT",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "92e60b1ba6a1eebe8ea5b3db00636200",
+      "title": "AWS Certificate Manager supports switching from e-mail to DNS validation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch",
+      "summary": "AWS Certificate Manager (ACM) now enables you to change the domain validation method on your existing ACM issued public TLS certificates from e-mail t...",
+      "published": "Thu, 13 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "490fc3e84b6cff001414d0f33b9574e2",
+      "title": "Amazon Quick now supports approval policies for sharing",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/",
+      "summary": "Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approv...",
+      "published": "Wed, 12 Aug 2026 22:22:00 GMT",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "70daa70ad518c3639ee74e27a24717b8",
+      "title": "Amazon Quick now supports per-user resource limits",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/",
+      "summary": "Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs. W...",
+      "published": "Wed, 12 Aug 2026 22:17:00 GMT",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2477b023e9e4ad05b4cd6c2fb8455212",
+      "title": "Claude文章で｢AI製｣バレる? コピペでも残る電子透かしにネット反発 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN139SY0T10C26A8000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）「クロード」が生成した文章をAI製だと判別できるようにすると発表した。AI編集の証拠を残す「電子透かし」と呼ぶ手法だが、AIをどう使ったのか正確に検知するのは難しく、一部のユーザーの反発を招いている。8月以降に世界で導入、EUの規制...",
+      "published": "2026-08-13T21:42:37Z",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98ea8541e5a64bc01cb6101ec4a97690",
+      "title": "Claude Codeに「違反できないコード」を書かせる：ガイドとセンサーの設計 - Qiita",
+      "link": "https://qiita.com/shun123/items/7aa06b6982dfd1730af0",
+      "summary": "はじめに AIにコードを書かせるようになって、人間の作業は「コードを書く」から「コードが規約を守る仕組みを作る」へ移りつつあります。 この記事は、その仕組みづくりを実際に手を動かして体験するための学習ガイドです。題材として、Hono + TypeScript でオニオンアーキテクチャのタスク管理AP...",
+      "published": "2026-08-13T09:06:11Z",
+      "fetched_at": "2026-08-13T22:32:27.913273+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-08-13T22:32:27.913273+00:00"
 }

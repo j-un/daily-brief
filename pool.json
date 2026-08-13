@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4cbe0f19ff802d48fb04320e59f6298e",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Docker OIDC connections for GitHub Actions available for Docker Orgs | Docker",
-      "published": "12 Aug 2026 02:56 +0000",
-      "fetched_at": "2026-08-12T03:57:51.736560+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3a550aa0793a12fd55b60d1d16386e9f",
-      "title": "テストが増えすぎてもう限界だったので、PRで全テストを回すのをやめた話 - Timee Product Team Blog",
-      "link": "https://tech.timee.co.jp/entry/2026/08/07/164910",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 テストが増えすぎてもう限界だったので、PRで全テストを回すのをやめた話",
-      "published": "12 Aug 2026 02:56 +0000",
-      "fetched_at": "2026-08-12T03:57:51.736560+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "03a29a2d558e0bf7884a3dee308fb2d3",
       "title": "Metric cardinality limits in OpenTelemetry: a practical guide | OpenTelemetry",
       "link": "https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry/",
@@ -719,7 +699,127 @@
       "fetched_at": "2026-08-13T07:14:34.582727+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "954700971542c935168899159e215be6",
+      "title": "Migrating and Modernizing Oracle Databases to PostgreSQL on AWS – Part 2: Assessment | Migration & Modernization",
+      "link": "https://aws.amazon.com/jp/blogs/migration-and-modernization/migrating-and-modernizing-oracle-databases-to-postgresql-on-aws-part-2-assessment/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Migrating and Modernizing Oracle Databases to PostgreSQL on AWS – Part 2: Assessment | Amazon Web Services",
+      "published": "13 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41a5b9e3740fa84a87e6fbbfc8431863",
+      "title": "Breaking the WAL",
+      "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+      "summary": "Article URL: https://antithesis.com/blog/2026/wal-reset-bug/ Comments URL: https://news.ycombinator.com/item?id=49277799 Points: 102 # Comments: 42",
+      "published": "Wed, 12 Aug 2026 20:00:16 +0000",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d5e22055dc75b3acb0fff340702b0e6",
+      "title": "MGI、Sentieon、AWS で強化するゲノムデータストレージとワークフロー",
+      "link": "https://aws.amazon.com/jp/blogs/news/enhanced-genomic-data-storage-and-workflows-with-mgi-sentieon-and-aws/",
+      "summary": "MGI、Sentieon、AWS の協業により、ゲノミクスラボは大規模なシーケンシングデータを効率的に管理・解析できます。ベルリンの MGI 欧州本社では、3 台の DNBSEQ-T7 シーケンサーが週あたり合計で最大 63 テラベース生成するゲノムデータを AWS HealthOmics Sequ...",
+      "published": "Thu, 13 Aug 2026 07:17:16 +0000",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ecbebf6defbd8882a8b020be4d2321",
+      "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
+      "summary": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。 AIを前提として、ITシステムや業務プロセスをどのように再構築するかという議論が続く中、OpenAIが、AIの利用によっ...",
+      "published": "2026-08-13T03:04:29Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "470e173d4bc7d7f727177c429a71e705",
+      "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ",
+      "link": "https://gigazine.net/news/20260813-claude-ai-watermark-mad/",
+      "summary": "EUで施行される法律に基づき、AnthropicはAIが生成するコンテンツに「透かし(ウォーターマーク)」を入れることを決定しました。この決定に、一部のAIユーザーが反発しています。 Some Claude users are mad that Anthropic's new watermarks ...",
+      "published": "2026-08-13T06:26:36Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ef5d358c7d4746017e98e03ac70caed",
+      "title": "証明付きバイブコーディングで証明支援系を作った - Qiita",
+      "link": "https://qiita.com/mrkbc/items/3545af61b8f2e256c750",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? この記事は株式会社proof ninjaの...",
+      "published": "2026-08-13T02:46:45Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "236ad7a63af25282b9b94e22d1c060e3",
+      "title": "Twitchが、配信コンテンツを「Amazonの生成AIモデルに学習させる」設定を追加して波紋広がる。デフォルトでは「オン」 - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260813-459971/",
+      "summary": "Twitchにて日本時間8月13日、ユーザー設定に「生成AIのトレーニング」に関する項目を新たに追加。ユーザーのチャンネルのコンテンツを生成AIの学習データとして利用されることを望まない場合に、いわゆるオプトアウトが可能な設定となっている。 今回Twitchでは、ユーザー設定の「セキュリティとプライ...",
+      "published": "2026-08-13T02:09:29Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "092c4600e856acb1b72f497afadb75b8",
+      "title": "Googleが落とし物トラッカーの「Pixel Tag」を発表、1個5010円",
+      "link": "https://gigazine.net/news/20260813-pixel-tag/",
+      "summary": "Google初の落とし物トラッカー「Pixel Tag」が登場しました。防水性あり、電池交換可能で、Appleの「AirTag」の対抗馬となります。 Google Pixel Tagは、あなたの日常の持ち物を追跡します https://blog.google/intl/ja-jp/products/...",
+      "published": "2026-08-13T04:47:16Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73177ecaf4fd1101684eebf376551f6b",
+      "title": "Google Pixel Watch 5が登場、Geminiと話せるAI機能を強化",
+      "link": "https://gigazine.net/news/20260813-google-pixel-watch-5/",
+      "summary": "現地時間の2026年8月12日、Googleがスマートウォッチの「Google Pixel Watch 5」を発表しました。Google Pixel Watch 5はGemini IntelligenceとGoogle Health向けに設計されており、プロアクティブな提案と高度なヘルストラッキング...",
+      "published": "2026-08-13T03:45:08Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebac092af4f35022f8526cf7666f3d3b",
+      "title": "ソフトウェアファクトリーとは何か｜こぎそ",
+      "link": "https://note.com/kgsi/n/n408408bd18ab",
+      "summary": "AIがコードを書き、画面も作れるようになり、個人の生産性は確かに上がりました。ところが、組織の成果はそれほど伸びていません。 作る速度が上がった分だけレビューは詰まる。品質のばらつきは広がる。誰も全体を理解していないコードが増えていく。速く作れることと、良いものを出し続けられることのあいだには、まだ...",
+      "published": "2026-08-13T00:18:33Z",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fde6763d3942ecf1790c76f696a5f8ba",
+      "title": "なぜベテランの暗黙知は、文書化しても継承できないのか",
+      "link": "https://dev.classmethod.jp/articles/why-tacit-knowledge-cannot-be-documented/",
+      "summary": "ベテランの判断を若手に引き継ごうとマニュアル化しても、肝心の部分は毎回こぼれ落ちます。理由はシンプルで、本人が「言語化できていない・そもそも言語化すべきだと気づいていない」判断こそが価値の中心だからです。この記事では、なぜ暗黙知の継承が長年うまくいかなかったのか、その構造と、いまLLMで何が変わりつ...",
+      "published": "Thu, 13 Aug 2026 08:29:39 GMT",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd336846212a37369aa33d52e417e8c8",
+      "title": "IAM Access Analyzer で最小権限のポリシーを洗い出す",
+      "link": "https://dev.classmethod.jp/articles/access-analyzer-minimum-policy/",
+      "summary": "AWS 上でユーザーの誤操作を防ぐため、最小権限の IAM ポリシーを構成することが重要です。本記事では、IAM Access Analyzer のポリシー生成機能を使用して、CloudTrail の操作ログから自動でポリシーを作成する方法を紹介します。",
+      "published": "Thu, 13 Aug 2026 08:16:35 GMT",
+      "fetched_at": "2026-08-13T09:03:50.327505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-13T07:14:34.582727+00:00"
+  "updated_at": "2026-08-13T09:03:50.327505+00:00"
 }

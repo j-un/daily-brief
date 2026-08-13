@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "03a29a2d558e0bf7884a3dee308fb2d3",
-      "title": "Metric cardinality limits in OpenTelemetry: a practical guide | OpenTelemetry",
-      "link": "https://opentelemetry.io/blog/2026/cardinality-limits-in-opentelemetry/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Metric cardinality limits in OpenTelemetry: a practical guide",
-      "published": "12 Aug 2026 05:56 +0000",
-      "fetched_at": "2026-08-12T07:11:44.866801+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "16661ccc8ea1ffc9af3c58c3162942dd",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
@@ -939,7 +929,117 @@
       "fetched_at": "2026-08-13T10:54:55.848198+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "d96a4864d172494f5be40777fed5dedd",
+      "title": "Migrating and Modernizing Oracle Databases to PostgreSQL on AWS – Part 1: Discovery | Migration & Modernization",
+      "link": "https://aws.amazon.com/jp/blogs/migration-and-modernization/migrating-and-modernizing-oracle-databases-to-postgresql-on-aws-part-1-discovery/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Migrating and Modernizing Oracle Databases to PostgreSQL on AWS – Part 1: Discovery | Amazon Web Services",
+      "published": "13 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c32b0023fddfeb5489db173afa4fa57a",
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "link": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "summary": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 103 # Comments: 41",
+      "published": "Wed, 12 Aug 2026 23:50:33 +0000",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "abb3fdc67a96a4929c4c00e05833b8d9",
+      "title": "「Zed」開発チームが「Delta」を発表 ～コードに意図をのせてチーム共有できる新しいエージェント開発環境／プライベートベータを開始",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2132442.html",
+      "summary": "",
+      "published": "2026-08-13T02:45:37Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1106a98401c6b74d461b397292b97e28",
+      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか — 公開鍵暗号方式で理解する新しい認証 - Qiita",
+      "link": "https://qiita.com/gts/items/8d3c14dabff88d8f1901",
+      "summary": "パスワードを使い回している自覚はある。それでも「まあ自分は大丈夫だろう」と思いながら、今日もどこかのサービスに8文字のパスワードを打ち込んでいる。そういう人は、案外多いのではないだろうか。 最近、GoogleやApple、主要なECサービスなどで「パスキーでログイン」という選択肢を見かけるようになっ...",
+      "published": "2026-08-13T00:54:14Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f29314539aaff4d74ada5d784ad4ee0",
+      "title": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+      "summary": "米Googleの共同創業者セルゲイ・ブリン氏が過去数カ月間、同社のAI部門の主要従業員に対してAIモデル「Gemini」に全力を注ぐように促していたことが分かった。事情に詳しい2人の関係者がロイターに明らかにした。 ブリン氏は4月に数百人の従業員に演説した際、Google傘下のAI開発企業Googl...",
+      "published": "2026-08-13T06:21:46Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73e27ed9222d7634d9af6a337b386117",
+      "title": "AIで変化したテックブログの価値と継続のための再整理｜かわまた／コミュニケーションドラフト代表",
+      "link": "https://note.com/r_kawamata/n/n5b0a0681a2b2",
+      "summary": "こんにちは。コミュニケーションドラフトの河又です。 皆さんの会社ではテックブログやってますか？ テックブログをやってる会社は決して少なくないですし、特にこのnoteをご覧いただいている様な技術広報に興味がある会社ではやっている方が多数派なのではないかなと思案しております。 しかし、ここ最近、テックブ...",
+      "published": "2026-08-12T01:37:21Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b236c9907eb22b3de13e32ce37f554e6",
+      "title": "実質4万円台から 新型「Google Pixel 11」をお得に買う方法、完全攻略",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/13/news055.html",
+      "summary": "最新の「Google Pixel 11」シリーズを最も安く購入する一番の近道を完全攻略。2026年9月4日までにGoogleストアで注文を完了させ、手持ちのスマホを下取りに出してストアポイントを獲得することや、本体価格13万6800円から下取り（最大4万9100円）とストアポイント（3万7900円分...",
+      "published": "2026-08-13T03:10:37Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03a7f7a053b7e1e7018a18056d317ad1",
+      "title": "表参道に「Google Store」オープン、米国外初の展開に日本が選ばれた理由",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2132070.html",
+      "summary": "",
+      "published": "2026-08-13T02:58:21Z",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f252ba96214e1ce3869cfee46a3542ae",
+      "title": "📦 lightningpixel / modly ⭐ 5,143 (+70) 🗒…",
+      "link": "https://github.com/lightningpixel/modly",
+      "summary": "📦 lightningpixel / modly ⭐ 5,143 (+70) 🗒 TypeScript Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+      "published": "13 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b721818b10f2b9479f885352adb7883",
+      "title": "Amazon RDS for MariaDB 12.3 が正式リリース(GA)されたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/rds-mariadb-12-3-ga/",
+      "summary": "MariaDB 12.3 は長期サポート（LTS）版です。Amazon RDS で新規作成した 12.3.2 環境と、11.8.8 から 12.3.2 へインプレースアップグレードした環境で、予約語による既存 SQL への影響と、パラメータグループで設定できる値の差を確認しました。",
+      "published": "Thu, 13 Aug 2026 12:00:01 GMT",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bba7db73d63a8d6b8d785a49f0b7cf27",
+      "title": "Amazon Bedrock Managed Knowledge Base に Amazon Quick から日本語で自然言語問合せしてみた",
+      "link": "https://dev.classmethod.jp/articles/20260813-amazon-mkb-with-quick/",
+      "summary": "Amazon Bedrock の Managed Knowledge Base を Amazon Quick に接続し、日本語のドキュメントで自然言語問い合わせを試してみました。ベクトルストア不要の RAG 基盤で、複数文書をまたぐ質問にも対応できた実装例を紹介します。",
+      "published": "Thu, 13 Aug 2026 11:22:45 GMT",
+      "fetched_at": "2026-08-13T12:51:44.494105+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-13T10:54:55.848198+00:00"
+  "updated_at": "2026-08-13T12:51:44.494105+00:00"
 }

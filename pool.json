@@ -59,7 +59,207 @@
       "fetched_at": "2026-08-12T22:31:45.029971+00:00",
       "feed_name": "Hacker News (100pts+)",
       "category": "main"
+    },
+    {
+      "entry_id": "dc8d05698aa9fa270d1a28e9a316ce16",
+      "title": "AMA: More Answers From the Observability Engineering Authors",
+      "link": "https://www.honeycomb.io/blog/ama-recap-observability-engineering-authors-more-answers",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AMA Recap: More Answers From the Observability Engineering Authors",
+      "published": "12 Aug 2026 23:56 +0000",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c85ff546c0138d51a5929bc55d7e0df1",
+      "title": "Oracle AI Database@AWS で Oracle Exadata on Exascale が利用可能に",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws/",
+      "summary": "Oracle AI Database@AWS 向けに Oracle Exadata Database Service on Exascale Infrastructure (ExaDB-XS) が一般提供開始となりました。専用インフラストラクチャを事前に用意することなく、8 ECPU、ストレージ 3...",
+      "published": "Thu, 13 Aug 2026 01:06:23 +0000",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cfb141c715b3f5c64da0cfedd9db751",
+      "title": "AWS Advanced JDBC Wrapper のコネクションプーリングを設定アシスタントで構成する",
+      "link": "https://aws.amazon.com/jp/blogs/news/configure-aws-advanced-jdbc-wrapper-connection-pooling-with-the-assistant/",
+      "summary": "本記事では、Amazon Aurora および Amazon RDS 上で AWS Advanced JDBC Wrapper のコネクションプーリングを設定する方法を紹介します。外部プーリングと内部プーリングの違い、ワークロードに応じた選択基準、生成 AI ベースの JDBC-WRAPPER-CO...",
+      "published": "Wed, 12 Aug 2026 02:31:48 +0000",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7351f0c626b62454e1d4ff683c01880",
+      "title": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/",
+      "summary": "Today, AWS announces the addition of an interactive map view to AWS Global View in the AWS Management Console, providing a visual way to explore AWS G...",
+      "published": "Wed, 12 Aug 2026 22:00:00 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "36d490881ba574a4e3594e5b3e6dbfb0",
+      "title": "AWS IAM now provides role manager to set up IAM roles automatically",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager",
+      "summary": "Today, AWS announces the general availability of role manager, a capability in AWS Identity and Access Management (IAM) that automatically sets up the...",
+      "published": "Wed, 12 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e70ab6dce431666aef72dd64f1db2bb",
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/",
+      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach u...",
+      "published": "Wed, 12 Aug 2026 17:15:00 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "43f49f15e83ac126fec7c38f42ab2f0a",
+      "title": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "link": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/",
+      "summary": "Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to...",
+      "published": "Wed, 12 Aug 2026 17:09:00 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "43c09a295c1bb7727c0cdfef08b9f8c9",
+      "title": "AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita",
+      "link": "https://qiita.com/y0us91/items/2feffd2cc6c672717973",
+      "summary": "はじめに Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。 少し前までAIによる開発支援といえば、 コード補完 コード生成 リファクタリング テストコード生成 など、「人間が主体で、AIが支援する」使い方が中心でした。 しかし現在のCoding Agentは、...",
+      "published": "2026-08-12T14:26:01Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c968da44544364fab9466849131f54bc",
+      "title": "Google版“AirTag”こと「Pixel Tag」登場 10億台のAndroidネットワークで居場所を探知",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
+      "summary": "米Googleは8月12日、紛失防止タグ「Google Pixel Tag」を発表した。鍵や財布、スーツケースなどに取り付け、持ち物の位置を「Find Hub」アプリで確認できる。日本では単品5010円、4個セットが1万6940円で、11月に発売予定だ。 Bluetoothの通信範囲内なら、タグのス...",
+      "published": "2026-08-12T14:56:27Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95f153865ff511bb2e870eb735fe1530",
+      "title": "「Linux」デスクトップの平日利用率は22％に急増--各種データで鮮明な人気ぶり",
+      "link": "https://japan.zdnet.com/article/35251503/",
+      "summary": "ウェブトラフィック分析サイトのStatCounterが発表したデータによると、北米のデスクトップ市場における「Linux」のシェアが過去最高の10.65％に達した。多くの人々やLinuxファンでさえ、これをフェイクニュースだと受け流した。しかし、筆者が2025年に数値を確認した際、StatCount...",
+      "published": "2026-08-12T20:53:06Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "610b4bdef751ee0c287d9637a75a1d28",
+      "title": "楽天モバイル、10月以降もKDDIのローミング一部継続を強調",
+      "link": "https://www.watch.impress.co.jp/docs/news/2132370.html",
+      "summary": "",
+      "published": "2026-08-12T08:41:40Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38ff763463a1a22951a56731de2f4dae",
+      "title": "Cloudflareは16年間ずっと同じことをしている。「通り道を支配する」という設計思想を知る",
+      "link": "https://zenn.dev/akari1106/articles/9d2abbc63a4abb",
+      "summary": "はじめに Cloudflare OSの話を3本書きました。ローカルLLMで三目並べに5ラウンドかけた奮闘記、モデル間の受け渡し設計の話、セキュリティとガバナンスの話。 3本目でこう書きました。「思想さえ理解すれば、この環境は怖くない」と。 ……で、その思想って結局なんやねん、という。 自分で書いてお...",
+      "published": "2026-08-12T01:20:38Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cf797b4d519a13ba1f22e9b22f4b42a",
+      "title": "最新鋭のiPhoneを買って喜んでいたが",
+      "link": "https://anond.hatelabo.jp/20260813095445",
+      "summary": "一番使っているアプリが、初期装備の天気予報だった。 猫に小判、宝の持ち腐れとはこういう現象のことだったのだな。 いやiPhoneの天気予報って、意外と予報が当たるし、使いやすいのよ。 「あと〇分で雨が降り始めます」とか、リアルタイムで伝えてくれるのがいい。",
+      "published": "2026-08-13T00:55:39Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "692c0339583a4bc00e6b6a09636c5a24",
+      "title": "Introducing Grok 4.6",
+      "link": "https://x.ai/news/grok-4-6",
+      "summary": "0204060AA Intelligence Index62Fable 5 Max61Grok 4.661GPT-5.6 Sol Max56Grok 4.5 HighCompetitor figures are drawn from the respective developers’ publis...",
+      "published": "2026-08-12T15:39:02Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5fe1e71dc487314addf208d30958cc2",
+      "title": "Rails is done",
+      "link": "https://lucas.dohmen.io/posts/2026/08/09/rails-is-done/",
+      "summary": "If you need more context on why Rails needs a new leadership, here is David Celis summing it up a year ago, Paul Battley a few weeks ago, and—even tho...",
+      "published": "2026-08-12T15:52:46Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fe1236e68238a1729b494fc4df6f0f8",
+      "title": "Google、折りたたみスマホ「Pixel 11 Pro Fold」発表 10％軽く、1mm薄くしつつ耐久性強化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000517/",
+      "summary": "米Googleは8月12日、折りたたみ型スマートフォン「Pixel 11 Pro Fold」を国内発表した。前モデルの「Pixel 10 Pro Fold」より約10％軽く、厚さも約1mm薄くなった。Googleストアでの価格は256GBモデルが27万9900円、512GBモデルが29万9900円。...",
+      "published": "2026-08-12T14:11:05Z",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54a5976c22984a7b59001c444eb764f0",
+      "title": "📦 embabel / embabel-agent ⭐ 4,165 (+29)…",
+      "link": "https://github.com/embabel/embabel-agent",
+      "summary": "📦 embabel / embabel-agent ⭐ 4,165 (+29) 🗒 Kotlin Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "published": "12 Aug 2026 23:16 +0000",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac262d1edc10c99a0190542abc09b794",
+      "title": "【Security Hub修復手順】[NetworkFirewall.5] Network Firewall ポリシーのデフォルトのステートレスアクションは、断片化されたパケットに対してドロップまたは転送される必要があります。",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-networkfirewall-5/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Thu, 13 Aug 2026 01:03:43 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "447b519326f39cf5a35b9712ff0364e1",
+      "title": "WAFにアタッチされたルール別の Count, Block, Allow を表にする(Cloudfront)",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-waf-rule-count-block-allow-report/",
+      "summary": "CloudFrontのWAFルール変更時に1週間分の統計データを遡って確認するため、Bash・jq・DuckDBを組み合わせた日別レポート生成スクリプトを作成しました。このツールの実装と使い方をご紹介します。",
+      "published": "Thu, 13 Aug 2026 00:30:14 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "54b72a29b752a44aa655dc0bd48c5c99",
+      "title": "[アップデート] IAM Identity Center のユーザーに既存の IAM ロールを直接割り当てられる Account Access Manager がリリースされたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-iam-aam/",
+      "summary": "AWS IAM Identity Center で既存の IAM ロールを直接マッピングできる新機能「Account Access Manager」がリリースされたので、実際にセットアップして試してみました。セットアップ時のハマりポイントも紹介します。",
+      "published": "Wed, 12 Aug 2026 23:47:06 GMT",
+      "fetched_at": "2026-08-13T01:15:20.971469+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-12T22:31:45.029971+00:00"
+  "updated_at": "2026-08-13T01:15:20.971469+00:00"
 }

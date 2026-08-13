@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "df364637724309b1b20b7b11a2b88b5c",
-      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast - The GitHub Blog",
-      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-      "published": "11 Aug 2026 23:56 +0000",
-      "fetched_at": "2026-08-12T01:13:26.607212+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4cbe0f19ff802d48fb04320e59f6298e",
       "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
       "link": "https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/",
@@ -489,7 +479,247 @@
       "fetched_at": "2026-08-13T04:02:11.401745+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "ee25b678507e018afd92b161ed41fc68",
+      "title": "Principia Mathematica is modern and insightful",
+      "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "summary": "Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html Comments URL: https://news.ycombinator.com/item?id=49279928 Point...",
+      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b04cc95567989beb5518c001b3ef1fe4",
+      "title": "Thanks to social media, canned sardines are a scarcity on the supermarket shelf",
+      "link": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
+      "summary": "Article URL: https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/ Comments URL: https://news.ycombinator.com/item?id=49279013 Poi...",
+      "published": "Wed, 12 Aug 2026 21:45:29 +0000",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "720b57323fe933b08d2147feb99e9029",
+      "title": "My Agent Setup",
+      "link": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "summary": "Article URL: https://chad.cm/posts/2026-8-11-my-agent-setup Comments URL: https://news.ycombinator.com/item?id=49272484 Points: 106 # Comments: 52",
+      "published": "Wed, 12 Aug 2026 13:56:05 +0000",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c912fd29de9c7a1db37349133568274a",
+      "title": "AWS HealthOmics ワークフローで PacBio 全ゲノムシーケンシングのバリアント解析パイプラインをベンチマークする",
+      "link": "https://aws.amazon.com/jp/blogs/news/publicsector-benchmarking-pacbio-whole-genome-sequencing-variant-pipeline-analysis-with-aws-healthomics-workflows/",
+      "summary": "PacBio HiFi の全ゲノムシーケンシング (WGS) バリアント解析パイプラインを AWS HealthOmics 上に実装し、大規模運用に向けてベンチマークしました。DeepVariant を GPU (NVIDIA Tesla A10G / omics.g5.2xlarge) で実行する...",
+      "published": "Thu, 13 Aug 2026 06:19:52 +0000",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "de890066e83bf75c2d238db7de536ed6",
+      "title": "Kiro でライフサイエンス研究を加速する: 100 以上のオープンソースデータベースへの統合 AI インターフェース",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerating-life-sciences-research-with-kiro-a-unified-ai-interface-to-100-open-source-databases/",
+      "summary": "ライフサイエンス研究者は、遺伝子、バリアント、構造、薬剤、疾患を調べるたびに、API や認証、データ形式が異なる何十ものデータベースを行き来する必要があります。本記事では、Kiro を 24 分野・100 以上のデータベースを横断する統合研究インターフェースへと拡張する Kiro power パッケ...",
+      "published": "Thu, 13 Aug 2026 06:19:49 +0000",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "234d6694fcc50bdb99dbed0c73fb60d2",
+      "title": "HDDが容量2桁台でもがいている間、SSDは512TBに到達した",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132491.html",
+      "summary": "",
+      "published": "2026-08-13T03:16:58Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa87bc63747b9f5de3503499d040abc6",
+      "title": "個人開発のAIデザインツール「Rikyū」 “幾何学的なデザイン”機能が秀逸と話題に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000514/",
+      "summary": "円や直線を使って幾何学的にロゴをデザインできる──そんなサービスを日本の個人開発者が作り、Xで話題となっている。この機能を紹介した投稿の表示回数は500万件を超えた。 サービス名は「Rikyū」。作りたいものを指示することで、ロゴやWebサイト、ポスターなどさまざまなデザインを作成できるという。MC...",
+      "published": "2026-08-13T01:52:26Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e0853b4f7e7d4756ab56025dd5abfe",
+      "title": "豪州にあるグーグル★2.6評価のパン屋が別な意味でやばかった件について",
+      "link": "https://ysd.theletter.jp/posts/9e2baae7-642f-47b4-aca0-c8227f217037",
+      "summary": "オーストラリアの首都キャンベラは人工都市で、繁華街と呼べる場所はほとんどありません。あるのはキャンベラセンターというショッピングモールくらい。食品も書籍も土産物も揃いますが、逆に言えばここ以外ではなかなか買えなさそうです。選択肢がすくなすぎる。 到着した夜、このモール内のスーパーcolesに行ってみ...",
+      "published": "2026-08-12T09:31:17Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b0d822f881c6fb4de0217eb1ee6ad42",
+      "title": "2年かけてたどり着いた1on1の形 —— メンバーと一緒に1on1の最適解を探る - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/13/080000",
+      "summary": "SmartHRの人給基幹プロダクト開発本部で、チーフ(プレイングマネージャー)をしている山下です。 私は2024年からチーフになり、現在2年が経ちました。 SmartHRでは制度上、評価者と被評価者が隔週で1on1（定期的に行う1対1の対話）を実施するよう決められています。 チーフになりたての頃、メ...",
+      "published": "2026-08-13T02:44:36Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5332d4c6a25a29e8bda00124f58ef368",
+      "title": "AI agentを活用した開発プロセスと人間の認知限界 - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/ai-dev-and-cogsci",
+      "summary": "AI agentを使った開発が日常的になり、モデルの性能向上や自動化の仕組みの構築などによって、開発のスピードが上がってきています。あるいは、現時点ではまだ目立った向上が見えていないところでも、近い将来に開発スピードが加速していく未来は、多少見えてきていると言って良いでしょう。 では、この開発スピー...",
+      "published": "2026-08-13T04:00:10Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a5a5cc56bdcc56bd59512c82470a141",
+      "title": "最上位Max級「Qwen3.8-2.4T-A95B」公開。Fable 5やGPT-5.6 Solなど商用トップ級に匹敵",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132436.html",
+      "summary": "",
+      "published": "2026-08-13T02:54:49Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dcfe54ee84a398e2efee12c017e0e75",
+      "title": "Androidの「自由」が終わる。2027年、野良アプリが入れられなくなる | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2509android-is-making-it-more-difficult-to-sideload-apps-pai/",
+      "summary": "AndroidとiOS、それぞれに長所と短所があるのはご存知の通り。 これまでAndroidがAppleのプラットフォームに対して持っていた最大の利点の一つは、その「オープンさ」でした。GoogleのPlayストアからアプリをダウンロードできるだけでなく、インターネットから直接アプリをダウンロードす...",
+      "published": "2026-08-13T01:27:35Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d2fb94756920c6c363398f7348342e9",
+      "title": "「植物工場」研究拠点開設相次ぐ 最先端技術で食料生産効率化 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260812de43521",
+      "summary": "最先端技術を使って食料の生産を効率化する、「植物工場」の研究拠点が相次いで開設されています。植物工場は、気候変動や担い手不足などへの対応として注目される一方、費用が膨らむといった課題も残されています。…",
+      "published": "2026-08-12T23:53:17Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e01955063e33d153b03843c179a9211",
+      "title": "PR同士の関係を可視化するgh pr-graphコマンドを作った - orangain flavor",
+      "link": "https://orangain.hatenablog.com/entry/gh-pr-graph",
+      "summary": "GitHubには、作成したりレビュー依頼を受けたりしたPull Request（以下PR）の一覧を表示するページがあります。業務では、Slackでリアルタイムの通知を受けつつ、これらのページを行き来して対応漏れがないようにしてきました。 AIを利用した開発でPRの作成量が増え、PRのネストも一般的に...",
+      "published": "2026-08-13T00:17:51Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcedce03244b302eb0f04e9bd8a2bb38",
+      "title": "はじめに - N4: TCP/IPプロトコルスタック自作入門",
+      "link": "https://pandax381.github.io/seccamp2026/",
+      "summary": "Press ← or → to navigate between chapters Press S or / to search in the book Press ? to show this help Press Esc to hide this help N4: TCP/IPプロトコルスタック...",
+      "published": "2026-08-12T12:03:22Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdd2480b314382020039105c28ce5aae",
+      "title": "EM選考プロセスを公開します 〜面接で何を見ているか、なぜそう設計したか〜 - ROXX開発者ブログ",
+      "link": "https://techblog.roxx.co.jp/entry/2026/08/05/085248",
+      "summary": "EM選考プロセスを公開します 〜面接で何を見ているか、なぜそう設計したか〜 面接で何を聞かれるのか分からないまま選考に進むのは、けっこうしんどい。自分が転職活動をしていた頃にそう思っていたので、ROXXのEM選考は質問の中身まで含めて公開することにしました。 こんにちは、ROXXでEM（エンジニアリ...",
+      "published": "2026-08-11T14:27:00Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "637d8667343208aa7f46865e3183b19a",
+      "title": "全社員がAIを使う組織へ、ウォンテッドリーの全社AI活用の実現まで | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1085453",
+      "summary": "こんにちは、ウォンテッドリー株式会社 執行役員 VPoE の要（@nory_kaname）です。 いまやどの企業・組織もAI活用を推進する時代となりました。当社においても数年前から ChatGPT や Devin など各種AIツールを開発用途で導入していましたが、この1年の進化は非常に凄まじいものが...",
+      "published": "2026-08-12T09:08:39Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8dbc0dac4da893159518e8f334fce28",
+      "title": "トランスフォーマーに限界、 次世代LLMを担う 4つの最新アプローチ",
+      "link": "https://www.technologyreview.jp/s/387263/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "summary": "These startups are chasing the next big thing in LLMs トランスフォーマーに限界、 次世代LLMを担う 4つの最新アプローチ 2017年に登場したトランスフォーマーは、今や市場のすべての主要な大規模言語モデル（LLM）を動かす基盤技術になっている。...",
+      "published": "2026-08-12T10:17:23Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbf0434c08cb387edca33ec874a95837",
+      "title": "マーク・ザッカーバーグが異様にポジティブなAI未来論を展開、スーパーインテリジェンスで雇用も増えると超楽観的予測",
+      "link": "https://gigazine.net/news/20260812-meta-zuck-the-future-is-for-everyone/",
+      "summary": "Metaのマーク・ザッカーバーグCEOが2026年8月10日、「The Future is for Everyone」と題するコラムを公開し、超知能を一部の企業や政府に集中させるのではなく、個人が利用できる「パーソナルスーパーインテリジェンス」として広く普及させるべきだという考えを示しました。ザッカ...",
+      "published": "2026-08-12T08:11:35Z",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "996cfbb97b03effcb4daab647f76b1b7",
+      "title": "Claude Code v2.1.228〜v2.1.229 の主要アップデート - クラッシュ修正の集中投入と /commit-push-pr の安全化",
+      "link": "https://dev.classmethod.jp/articles/20260813-cc-updates-v2-1-228/",
+      "summary": "Claude Code の v2.1.228 と v2.1.229 がリリースされました。v2.1.228については静観していたのですが、2 日続けて関連したアップデートのリリースで、破壊的変更や自動化フローに影響しうる変更も含まれているため、アップデート前に目を通しておきたい内容です。",
+      "published": "Thu, 13 Aug 2026 07:08:07 GMT",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f0071c77b6a7ebb92650ef37a078c19",
+      "title": "[Claude] LLMの電子透かし：仕組みと限界",
+      "link": "https://dev.classmethod.jp/articles/claude-digital-watermark-technology/",
+      "summary": "Anthropic が Claude の出力に電子透かしを入れると発表しました。テキストに透かしを入れるとはどういうことか、なぜコピペしても残るのかを、代表的な統計的透かしを実装して確かめます。また、LLMの電子すかしにおける懸念や問題についても。",
+      "published": "Thu, 13 Aug 2026 06:49:27 GMT",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "56ab829a5f12cdb265d634868c7ef550",
+      "title": "【Amazon Connect】不在着信があった際に顧客名をメール通知してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-missed-call-email-sfn/",
+      "summary": "Amazon Connect の不在着信時に、発信者番号と DB から取得した顧客名をメール通知する仕組みを実装してみました。Step Functions と EventBridge を使った実装方法をご紹介します。",
+      "published": "Thu, 13 Aug 2026 05:59:24 GMT",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "695d709b16b9cfdecc276881c9ea342b",
+      "title": "AgentCore Gatewayに追加されたレート制限機能を試してみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-gateway-rate-limit/",
+      "summary": "Amazon Bedrock AgentCore Gatewayに追加されたレート制限機能を試してみました！",
+      "published": "Thu, 13 Aug 2026 05:57:48 GMT",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d85aa1d42e4be65ffe0a878dbc6d47e",
+      "title": "[アップデート] IAMロールを自動的に設定するロールマネージャーを提供するようになりました",
+      "link": "https://dev.classmethod.jp/articles/iam-role-manager-ga/",
+      "summary": "AWSの新機能「role manager」を試してみました。IAMロール作成の手間を自動化するこの機能の仕組みから実装方法、運用時のポイントまで、実際の画面を交えながら紹介します。",
+      "published": "Thu, 13 Aug 2026 04:33:03 GMT",
+      "fetched_at": "2026-08-13T07:14:34.582727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-13T04:02:11.401745+00:00"
+  "updated_at": "2026-08-13T07:14:34.582727+00:00"
 }

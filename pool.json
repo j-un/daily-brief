@@ -1129,7 +1129,107 @@
       "fetched_at": "2026-08-14T10:50:28.257578+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "9fdee4f13aa34792f3f682ce00812760",
+      "title": "ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/08/disaster-recovery-automation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "published": "14 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6da520a93cb1d9e2d3e9a58ed4168ee5",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "summary": "Article URL: https://mun-logadan.github.io/why-does-opus-5-feel-worse/ Comments URL: https://news.ycombinator.com/item?id=49296740 Points: 154 # Comme...",
+      "published": "Fri, 14 Aug 2026 10:12:48 +0000",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d8304f560c6ce6a974ac09e21842494",
+      "title": "豪雨に備える防災アプリ・サービスまとめ 雨雲レーダーからハザードマップ、通れた道まで",
+      "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000549/",
+      "summary": "豪雨による被害が各地で相次いでいる。 千葉県では8月13日午後から14日未明にかけて記録的な大雨となり、道路の冠水や家屋の浸水など深刻な被害が出た。 集中豪雨や台風による被害は各地で相次いでおり、備えの重要性が増している。防災に使えるアプリやサービスをまとめる。 備える：災害情報のプッシュ通知をアプ...",
+      "published": "2026-08-14T09:13:00Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09c1dc2570a59c46bda34d2505d4a79b",
+      "title": "The 37signals Manager Playbook",
+      "link": "https://basecamp.com/managers",
+      "summary": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience. sidebar#close mou...",
+      "published": "2026-08-14T06:04:57Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf82109200ee0cbf74680edd6cc7e5a5",
+      "title": "Engineering managers who build are pulling ahead",
+      "link": "https://leaddev.com/management/engineering-managers-who-build-are-pulling-ahead",
+      "summary": "You have 1 article left to read this month before you need to register a free LeadDev.com account. Estimated reading time: 5 minutes Key takeaways: En...",
+      "published": "2026-08-14T04:04:11Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5b0f66202dcee76ae1f3afa8d8960ca",
+      "title": "ローカル環境でシークレットを管理できる docker pass コマンド - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/08/13/193046",
+      "summary": "はじめに docker pass コマンドを使うとローカル環境でシークレットを管理できる．macOS だとデフォルトでは「キーチェーン」にシークレットが保存されて，Docker コンテナや Docker Compose に se:// というスキームでシークレットの参照を渡せるようになる．.env ...",
+      "published": "2026-08-14T03:40:11Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "128ff228ce3ff99d79093c14ffd941c5",
+      "title": "シャドーAIは「禁止」ではなく運用設計で向き合う - Qiita",
+      "link": "https://qiita.com/mhamadajp/items/7b159e09813f4c99a513",
+      "summary": "生成AIの利用が広がるほど、情報システム部門やセキュリティ部門が承認していないAIを、従業員が業務で使う「シャドーAI」は増えます。 個人アカウントの生成AIへ会議録を貼る。部門が独自にAIエージェントを作る。開発者が個人契約のコーディングAIに業務コードを読ませる。私物端末でローカルLLMを試す。...",
+      "published": "2026-08-14T04:20:24Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "321264406cbcce3f84bc2456037e6f63",
+      "title": "東京断面図 — Tokyo in Cross-Section",
+      "link": "https://tokyo-danmenzu.pages.dev/?view=3d&aux=1&lbl=1&lang=ja",
+      "summary": "このマップについて東京の地下鉄13路線の地下深さ・ルートを、建設図面（建設史）の縦断面図等をもとに可視化したマップです。路線と駅は不透明が地上区間、半透明が地下区間を表します。地表線も表示でき、台地・低地・谷と地下鉄の位置関係が分かります。 標高・断面図について海抜は建設史の縦断面図に基づく、TP（...",
+      "published": "2026-06-22T22:12:57Z",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c995f4d60cff763eae1cff185abecf03",
+      "title": "CloudFormation StackSetsでSSMドキュメントのパブリック共有をブロックしてSecurity Hub CSPMのSSM.7に全アカウントで対応する",
+      "link": "https://dev.classmethod.jp/articles/ssm7-block-public-sharing-cfn-stacksets/",
+      "summary": "Security Hub CSPM コントロール SSM.7 を全アカウント・全リージョンで一括設定したいですよね。本記事では、CloudFormation StackSets とカスタムリソースを組み合わせて、SSMドキュメントのパブリック共有ブロック設定を自動展開する方法を紹介します。",
+      "published": "Fri, 14 Aug 2026 11:08:18 GMT",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c634d18552d5d9b820ba3d99e4bfbf2",
+      "title": "otophon is a plug-in to play tones inside your head",
+      "link": "https://cdm.link/otophon-is-a-plug-in-to-play-tones-inside-your-head/",
+      "summary": "This one's for the heads, literally. Otoacoustic emissions (OAEs) are sounds produced by your ear, ghostly tones emitted from inside the cochlea itsel...",
+      "published": "Fri, 14 Aug 2026 11:52:05 +0000",
+      "fetched_at": "2026-08-14T12:45:45.573537+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-14T10:50:28.257578+00:00"
+  "updated_at": "2026-08-14T12:45:45.573537+00:00"
 }

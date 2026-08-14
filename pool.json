@@ -69,7 +69,217 @@
       "fetched_at": "2026-08-13T22:32:27.913273+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "f92f3651f9537f39d18b83941d40b858",
+      "title": "Accelerate CloudFormation development with the IaC MCP Server | AWS DevOps & Developer Productivity Blog",
+      "link": "https://aws.amazon.com/jp/blogs/devops/accelerate-cloudformation-development-with-the-iac-mcp-server/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Accelerate CloudFormation development with the IaC MCP Server | Amazon Web Services",
+      "published": "13 Aug 2026 23:56 +0000",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbd07f0f76eb40055cba30dfdcaa4bf2",
+      "title": "NP-Overrated",
+      "link": "https://gruhn.me/blog/2026-08-13/",
+      "summary": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 139 # Comments: 86",
+      "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b0a1ff759abe040cd36c9a237a76ad6",
+      "title": "Understanding is the new bottleneck",
+      "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "summary": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 P...",
+      "published": "Thu, 13 Aug 2026 18:47:19 +0000",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7617f6c4c608ead69072e252ead0e1ea",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "link": "https://0.mk/blog/link-rot",
+      "summary": "Article URL: https://0.mk/blog/link-rot Comments URL: https://news.ycombinator.com/item?id=49289532 Points: 127 # Comments: 103",
+      "published": "Thu, 13 Aug 2026 17:49:18 +0000",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ad95faa303e3d9f70812debd21f331c",
+      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+      "summary": "AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change ...",
+      "published": "Thu, 13 Aug 2026 18:23:00 GMT",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "50b47947416c603cd2c9d49981d3a715",
+      "title": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules",
+      "summary": "AWS Clean Rooms now supports minimum aggregation thresholds for the Custom analysis rule type. Minimum aggregation helps protect the privacy of indivi...",
+      "published": "Thu, 13 Aug 2026 12:00:00 GMT",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "71305eee5191a7bb0fc7fed7602c046e",
+      "title": "国内ITシステム11社、30年にAI主導の開発に転換 生産性は最大1.5倍 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/",
+      "summary": "ITシステムの国内各社が主要な開発工程の担い手を人から人工知能（AI）に切り替える。大手11社の全てが2030年までに設計やプログラミングをAIが主導する体制にする。人手をかける労働集約型から付加価値で稼ぐモデルへの転換を急ぐ。大手11社にシステム開発でのAIの活用の状況や計画について6月に聞き取っ...",
+      "published": "2026-08-13T18:45:43Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f9a7911952736346b20fd1f2a10dbbb",
+      "title": "⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に｜デジタル庁",
+      "link": "https://digital-gov.note.jp/n/n56aaf580bfb6",
+      "summary": "はじめにデジタル庁プロダクトマネージャーの土岐竜一です。事業者向けシステムや自治体窓口DX SaaS等を担当しています。 本記事では、デジタル庁が公表する行政手続等の調査（令和6年度悉皆調査）の結果データ約75,000件を対象に、対話形式で自然言語による分析を行える、技術検証目的の簡易的な実装を紹介...",
+      "published": "2026-08-13T15:34:30Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4b202ac50c2a47d1dad339276b23244",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all ...",
+      "published": "2026-08-13T17:38:25Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cfda32fdb159e0cb1bccd7a7c86f589",
+      "title": "「仕事でAI利用」男性46%女性32% 「格差」巡りIT各社が支援 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC247YV0U6A620C2000000/",
+      "summary": "男女間で人工知能（AI）を活用するスキルの「格差」が顕在化し始めている。男性に比べ女性は先端技術に触れる機会が少なくなりがちで、AIの利用頻度も低い。IT各社は性差に関係なくAIを使いこなせる環境の整備を急ぐ。「テクノロジー弱者になってしまうのではという恐怖があった」。関西の通信関連企業で通信回線の...",
+      "published": "2026-08-12T03:43:37Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "097d6cd340b491feb61bbc5dc2dba2bb",
+      "title": "How we built our multi-agent research system",
+      "link": "https://www.anthropic.com/engineering/multi-agent-research-system",
+      "summary": "Published Jun 13, 2025 Our Research feature uses multiple Claude agents to explore complex topics more effectively. We share the engineering challenge...",
+      "published": "2025-09-21T15:39:11Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55b6ec3b0b213ddf5b44a3033f66cfd6",
+      "title": "AIコーディングの一番安いプランでスマホアプリを作る！非エンジニアによるケチりAI駆動開発のすべて - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/12/164154",
+      "summary": "最近デイリーポータルZの西村さんがWebサービスを作っていたり、一緒にPodcastをやっている岡田悠さんがDokokaというアプリを作って大ヒットしていたり、周りのエンジニアでない人たちがAIを使ってアプリケーションを作ることが増えてきました。 へー面白そう、とは思いつつも特に作りたいものがなかっ...",
+      "published": "2026-08-12T13:43:24Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "034da0fe91e8e5cd0aa5d9ac46baf7bf",
+      "title": "AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/",
+      "summary": "生成AIの「Chat（チャット）GPT」や「Gemini（ジェミニ）」を使うコストは――。生成AIサービスを使う人も使わない人も同じく、データセンターを支える電力網の整備費は電気料金の一部として支払う。その負担が膨張する見通しだ。大量の計算をするAIサービス基盤となる大規模データセンターは多くの電力...",
+      "published": "2026-08-13T22:15:45Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "725c4cf6741ec16b68bcdab8035dded3",
+      "title": "ソニーとTSMCが合弁会社設立へ。次世代イメージセンサー量産",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2132492.html",
+      "summary": "",
+      "published": "2026-08-13T05:48:26Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cc44930a5d652469cd40cad9d834409",
+      "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
+      "link": "https://gigazine.net/news/20260813-traffic-bot-percent/",
+      "summary": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ...",
+      "published": "2026-08-13T14:27:31Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f157c5813a66441b976571476b52113b",
+      "title": "中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
+      "summary": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常の2倍となるピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。 通常時の100万トークン当たりの料金は、AIモデル「DeepSeek-V4-Flash」で、入力0.007ドル（キ...",
+      "published": "2026-08-13T14:45:26Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ace33e77db41c5c6b5bb07d7d7eed4cc",
+      "title": "ソニーとTSMCが熊本県合志市にスマホ向けイメージセンサー開発・製造のための合弁会社を設立",
+      "link": "https://gigazine.net/news/20260812-sony-semicon-tsmc-joint-venture/",
+      "summary": "ソニーセミコンダクタソリューションズとTSMC(台湾積体電路製造)が、熊本県合志市に拠点を置く合弁会社「Advanced Vision Semiconductor Manufacturing株式会社」を設立する契約を締結しました。この合弁会社では、スマートフォン向けのイメージセンサーの開発・製造が行...",
+      "published": "2026-08-12T07:16:09Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7cd663731bc9bbde59817c5f51a16d6",
+      "title": "スマホで動く視覚言語モデル「LFM2.5-VL-3B」が登場、日本語対応でUI認識やOCRに活用できる",
+      "link": "https://gigazine.net/news/20260813-lfm2-5-vl-3b/",
+      "summary": "アメリカに拠点を置くAI企業のLiquid AIが視覚言語モデル「LFM2.5-VL-3B」を発表しました。LFM2.5-VL-3Bはスマートフォンでも動作することが確認されている軽量VLMで、文書のOCRやUIの認識などが可能。オープンモデルとして公開されており、無償でダウンロード可能です。 LF...",
+      "published": "2026-08-13T08:43:14Z",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe60d0705f9d38fa18c1aada9fe81ba8",
+      "title": "Running Qwen3-Coder 30B on a Rented GPU with NVIDIA Brev",
+      "link": "https://dev.classmethod.jp/articles/open-weight-ai-model-qwen-nvidia-brev/",
+      "summary": "This guide introduces an easy way to run large-scale models like Qwen3-Coder-30B—which are too heavy to run on a standard laptop—on cloud GPUs. This i...",
+      "published": "Fri, 14 Aug 2026 00:57:50 GMT",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8576d48eb4d7dbb81e208a78c8c6442",
+      "title": "WorkSpaces から外部環境へ接続する際の送信元グローバル IP アドレスの確認方法について",
+      "link": "https://dev.classmethod.jp/articles/tsnote-aws-workspaces-sourceip-address-external-connection/",
+      "summary": "WorkSpacesから外部のSFTPサーバーへ接続する際、取引先に提示するグローバルIPアドレスがどれになるのか、ルートテーブルの確認方法と共に解説します。",
+      "published": "Fri, 14 Aug 2026 00:30:18 GMT",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d91e1188c98e9b764a746a76724276",
+      "title": "[アップデート] S3 で「どのポリシーに拒否されたか」がエラーメッセージだけで特定できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/s3-additional-policy-details-access-denied-error-messages/",
+      "summary": "Amazon S3 のアクセス拒否エラーメッセージが、先日のアップデートで原因となったポリシーの具体的な ARN を表示するようになりました。従来はポリシータイプまでしか判別できませんでしたが、今回はどのポリシーが拒否を引き起こしたのかが一目瞭然に。実際の検証結果を紹介します。",
+      "published": "Thu, 13 Aug 2026 23:09:50 GMT",
+      "fetched_at": "2026-08-14T01:14:16.863661+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-13T22:32:27.913273+00:00"
+  "updated_at": "2026-08-14T01:14:16.863661+00:00"
 }

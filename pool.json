@@ -369,7 +369,87 @@
       "fetched_at": "2026-08-15T06:22:29.176815+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "e4121284ddc202fdeafd72ebcb3f01e9",
+      "title": "シニアエンジニア目線をAIレビューへ 〜 判断を移植した社内エージェント「Makasetaro」の設計 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/08/05/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 シニアエンジニア目線をAIレビューへ 〜 判断を移植した社内エージェント「Makasetaro」の設計",
+      "published": "15 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f62b5e5b4081642d15ff64525dc305d",
+      "title": "DynamoDBのベクトル検索で簡単にRAGができるようになったぞ！",
+      "link": "https://zenn.dev/tosuri13/articles/567f25a4f3e9b5",
+      "summary": "こんにちは👋 2026年8月5日、AWSからDynamoDBのリアルタイムベクトル検索が一般提供(GA)されました。 元々、DynamoDBのデータを活用してRAGアプリケーションを作成する場合は、ベクトル検索の機能を別のサービスに外出しして、メタデータのID(PK)などで紐づける二重管理の構成が必...",
+      "published": "2026-08-12T21:37:29Z",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69edfada06f9daf1e2ea5367bcb862d5",
+      "title": "「生成AIはどこまで言葉を理解している？」「外国語の学習はまだ必要？」――「ゆる言語学ラジオ」×認知言語学者の鼎談で見えた、AI時代の“言語学”の役割《サムソナイト・ブラックレーベル銀座店で開催》 | 文春オンライン",
+      "link": "https://bunshun.jp/articles/-/90784",
+      "summary": "人生という旅における最高のパートナーとなるビジネスバッグ・トラベルケースを中心に製造・販売しているサムソナイト。そのプレミアムブランドであるサムソナイト・ブラックレーベルの銀座店が1周年を迎えたことを記念し、変化の激しい現代を生きるビジネスパーソンへのヒントになるような特別イベントが開催された。 ....",
+      "published": "2026-08-14T16:07:50Z",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "68fd90c0adde7fd0deb9c778c3662197",
+      "title": "【ミニレビュー】撮ってすぐ印刷「KODAK Memo Shot ERA」 感熱式で気軽に使える",
+      "link": "https://www.watch.impress.co.jp/docs/review/minireview/2132118.html",
+      "summary": "",
+      "published": "2026-08-15T00:32:22Z",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "747e7c2ddf58d8a687c0debff0baf7e0",
+      "title": "【特集】 PC Watch「懐パーツ」、これまで書いたものを全部まとめてみた ～なお、連載が終了したわけではないのでまだ続く",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2132861.html",
+      "summary": "",
+      "published": "2026-08-14T22:33:20Z",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "739a508966508c628ccfa8d0f9d49868",
+      "title": "【2026年版】 AWS Managed Microsoft AD と Entra Connect Sync v2をつかってEntra IDへID同期(パススルー認証)する方法",
+      "link": "https://dev.classmethod.jp/articles/using-aws-managed-microsoft-ad-with-entra-connect-sync-v2-2026/",
+      "summary": "AWS Managed Microsoft ADとEntra Connect Sync v2の連携設定について4年ぶりに最新の手順をまとめました。OSバージョンやドメイン機能レベルの更新、Entraのリブランドなど環境変化を踏まえながら実際の構築手順を詳しく解説していきます。",
+      "published": "Sat, 15 Aug 2026 07:48:41 GMT",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d8e2d0664629743bf4e9f171643b3eb",
+      "title": "VPC Reachability Analyzer で Transit Gateway のルート分岐を検証してみた",
+      "link": "https://dev.classmethod.jp/articles/vpc-reachability-analyzer-transitgateway-route-branch/",
+      "summary": "VPC Reachability Analyzer の `--filter-at-source` オプションを使い、Transit Gateway のルートテーブルで宛先 IP に応じた経路分岐が正しく機能しているかを、実トラフィックを流さずに検証する方法を紹介します。",
+      "published": "Sat, 15 Aug 2026 06:44:06 GMT",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "17123c65caa756e5718607f6b76613a7",
+      "title": "【Security Hub修復手順】[EFS.7] EFS ファイルシステムでは、自動バックアップが有効になっている必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-efs-7/",
+      "summary": "AWS Security HubのEFS.7コントロールに対応するための自動バックアップ有効化手順をご紹介します。本番環境でのデータ保護要件に基づき、EFSファイルシステムのバックアップポリシーを有効にする方法を解説します。",
+      "published": "Sat, 15 Aug 2026 06:44:05 GMT",
+      "fetched_at": "2026-08-15T08:17:24.367728+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T06:22:29.176815+00:00"
+  "updated_at": "2026-08-15T08:17:24.367728+00:00"
 }

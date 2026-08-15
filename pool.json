@@ -829,7 +829,127 @@
       "fetched_at": "2026-08-15T12:20:38.750268+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "b61248cd01ce963b0384f1c1934e178e",
+      "title": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗 - ITmedia AI＋",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+      "summary": "Muse Code、早速homebrewにきてた。brew install --cask muse-code。実行コマンドはmuse",
+      "published": "15 Aug 2026 14:07 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f919842cce99426990bd0bd84e7d91d0",
+      "title": "Ruby, PHP, JavaScript, Python, COBOL, Ty…",
+      "link": "https://github.com/commandprompt/plx",
+      "summary": "Ruby, PHP, JavaScript, Python, COBOL, TypeScript, Goなどさまざまな言語風にストアドプロシージャを書けるPostgreSQL拡張。書いたのはPL/pgSQLにトランスパイルされる模様。各言語風だな。",
+      "published": "15 Aug 2026 13:57 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ac8249f93b875ee462f5525efba85d3",
+      "title": "PostgreSQLのパフォーマンスを主眼にしたWebダッシュボード実装。fro…",
+      "link": "https://github.com/dbulashev/dasha",
+      "summary": "PostgreSQLのパフォーマンスを主眼にしたWebダッシュボード実装。frontendはVue、backendはGo。",
+      "published": "15 Aug 2026 13:50 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f7a6013c8db55a681d772b6d1bbe285",
+      "title": "RDBMSへ接続してSQL実行などが可能なTUIツール。操作体系はviライク。M…",
+      "link": "https://github.com/kopecmaciej/vi-sql",
+      "summary": "RDBMSへ接続してSQL実行などが可能なTUIツール。操作体系はviライク。MCPサーバ機能あり。Go実装",
+      "published": "15 Aug 2026 13:05 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1416beda04b16d7b8428edc043102942",
+      "title": "kata カタ - kata カタ",
+      "link": "https://katatracker.com/",
+      "summary": "人間とAIエージェントのための課題管理ツール。課題はSQLiteに保存。TUIだけでなくブラウザでも確認可能。macOS, Linux, Windows対応。Go実装。何故カタ。",
+      "published": "15 Aug 2026 12:22 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34b6bf6082ec10a37ac9a490f26377d8",
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "link": "https://sankalp.bearblog.dev/autoresearch/",
+      "summary": "Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 111 # Comments: 37",
+      "published": "Sat, 15 Aug 2026 11:00:02 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8013bc3518f2bb2224290bd36d76ff2",
+      "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+      "link": "https://gigazine.net/news/20260815-thermodynamic-computing/",
+      "summary": "熱によって原子や電子が不規則に動くことで、回路の電圧や電流には小さな揺らぎが生じます。こうしたランダムな揺らぎは「熱雑音」と呼ばれ、通常のコンピューターでは計算を乱す原因となるため抑え込まれていますが、その熱雑音を逆に計算へ利用する「熱力学コンピューティング」の研究が進んでいます。AIや科学計算に....",
+      "published": "2026-08-15T11:32:07Z",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc22753fa6a5cc54219e57d55e195640",
+      "title": "ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.a..",
+      "link": "https://anond.hatelabo.jp/20260815212139",
+      "summary": "ブックマーカー図鑑 4025 人収録 収録予定 https://bookmarker-encyclopedia.netlify.app/queue.md EXPERIMENTAL: 全ユーザーをExcelのように一覧できるテーブルをWASM+Rustで実装、デスクトップでのみ表示可能 https:/...",
+      "published": "2026-08-15T12:22:52Z",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee9230eedacdb997ea5271e666d961c6",
+      "title": "AIに投げた。間違いは知らん。 昔はネットコンテンツが今ほど溢れていなか..",
+      "link": "https://anond.hatelabo.jp/20260815210651",
+      "summary": "AIに投げた。間違いは知らん。 昔はネットコンテンツが今ほど溢れていなかったから、暇人は四六時中テレビ番組を観ていて、みんな似たり寄ったりなコンテンツを消費してたよね。 1. 気になっていた「滑り台型のクイズ番組」 番組名：『バリキン7 賢者の戦略』（TBS系列 / 1996年〜1997年） 解説：...",
+      "published": "2026-08-15T13:08:35Z",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d78e565a4975b6ba1bdec18620031916",
+      "title": "unsloth/Qwen3.8-27B-GGUF · Hugging Face",
+      "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "' }}\\n {%- elif 'video' in item or item.type == 'video' %}\\n {%- if is_system_content %}\\n {{- raise_exception('System message cannot contain videos.'...",
+      "published": "2026-08-14T23:02:10Z",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e72aa6b8ee79266a61f5d7aed0b0a3d3",
+      "title": "カシオ、Bluetooth搭載のベーシックなデジタルウォッチ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2132074.html",
+      "summary": "",
+      "published": "2026-08-14T01:40:52Z",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af4602932aef745ac8b335f4acad8369",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 cord…",
+      "link": "https://github.com/cordiverse/cordis",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 cordiverse / cordis ⭐ 3,708 (+616) 🗒 TypeScript Meta-Framework of Spatiotemporal Composability",
+      "published": "15 Aug 2026 13:16 +0000",
+      "fetched_at": "2026-08-15T14:14:16.878481+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T12:20:38.750268+00:00"
+  "updated_at": "2026-08-15T14:14:16.878481+00:00"
 }

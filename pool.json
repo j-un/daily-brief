@@ -989,7 +989,137 @@
       "fetched_at": "2026-08-15T16:13:53.356943+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "7831e285151721ab8b6c2f2482df1e25",
+      "title": "Tamachi.sre#6 - connpass",
+      "link": "https://tamachi-sre.connpass.com/event/402227/",
+      "summary": "現地開催",
+      "published": "15 Aug 2026 16:38 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "798eae91ade84691835f123f4593a08e",
+      "title": "#color_study - connpass",
+      "link": "https://web-study.connpass.com/event/403483/",
+      "summary": "「Web における「色」について真剣に議論する」現地開催",
+      "published": "15 Aug 2026 16:37 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6541d9bd09a91047fd7626b3bb44b32e",
+      "title": "CA/Bフォーラムの決定に基づきAWS Certificate ManagerでのEメール検証によるパブリック証明書の発行・更新が廃止の方針となるようです | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-certificate-manager-eos-mail-verification/",
+      "summary": "あらまぁ。DNSレコードベースに切り替えましょうと。",
+      "published": "15 Aug 2026 16:35 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a93c2ce0dbf805518c52301ed90a29b",
+      "title": "[アップデート] AWS のアクセス拒否メッセージにどのポリシータイプによる拒否なのかが含まれるようになりました（まだ一部サービス限定、追って追加対応予定！） | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-identity-access-management-efficient-troubleshoot-error/",
+      "summary": "嬉しい",
+      "published": "15 Aug 2026 16:34 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8f298f594529e6d4c87dd3242a199f4",
+      "title": "Amazon EC2 がアプリケーションステータスチェックを導入 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks/",
+      "summary": "ざっと読む限り、ALBなどがなくてもAutoScalingの中で自立的にliveness checkができる感じかな。",
+      "published": "15 Aug 2026 16:30 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23efa96eff6eb4acad13465956fe1ea3",
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "summary": "Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 1...",
+      "published": "Sat, 15 Aug 2026 15:58:53 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb4dce5f84f170011dd576f1aec64ba7",
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "summary": "Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comme...",
+      "published": "Sat, 15 Aug 2026 14:04:49 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "283274f263f4f60a6204449edeb59fbb",
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "summary": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: ...",
+      "published": "Sat, 15 Aug 2026 10:39:41 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "edaa61240491b33b9edf63acd652a1cd",
+      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
+      "link": "https://luacad.ad-si.com",
+      "summary": "LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`).It ships with a CLI and a...",
+      "published": "Fri, 14 Aug 2026 16:43:22 +0000",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3818816f61e80477556d3be92c865ba2",
+      "title": "裁判書類にAIへの隠し命令。米国初のプロンプトインジェクション制裁",
+      "link": "https://joho-todai.com/news-prompt-injection-court-documents-ai-sanctions/",
+      "summary": "裁判を有利に進めるために、AIを操ろうとした人物がいる。しかも裁判所への正式な提出書類で。見えない文字で仕掛けられた工作は、人の目が見破った。 白い紙に、白い命令コネティカット州の裁判所に提出された書類に、人には見えない命令が埋め込まれていた。 マシュー・エリオット（Matthew Elliott）...",
+      "published": "2026-08-15T10:57:48Z",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e31de8702ebabb255ab600d70706272f",
+      "title": "SQL & noSQL database manager - DbGate",
+      "link": "https://www.dbgate.io/ja/",
+      "summary": "最もスマートな SQL & NOSQL データベースマネージャー MySQL、PostgreSQL、Oracle、SQL Server、SQLite、MongoDB、Redis など、さらに多くの データベースに対応した、強力で使いやすい (no)SQL データベースクライアント。",
+      "published": "2026-08-15T11:37:41Z",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73ebd48c740742ffaf58d183c50b8fe9",
+      "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
+      "link": "https://gigazine.net/news/20260814-gpt-5-6-sol-ultrafast/",
+      "summary": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 Previewing Ultrafast mod...",
+      "published": "2026-08-14T03:11:25Z",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "159ceb7cc95667a4125aa0b42ac5f7df",
+      "title": "ドコモ、スターリンクを使った音声・高速通信対応へ 28年度開始",
+      "link": "https://www.watch.impress.co.jp/docs/news/2132905.html",
+      "summary": "",
+      "published": "2026-08-14T23:33:43Z",
+      "fetched_at": "2026-08-15T18:16:32.756419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T16:13:53.356943+00:00"
+  "updated_at": "2026-08-15T18:16:32.756419+00:00"
 }

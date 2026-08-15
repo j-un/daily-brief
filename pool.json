@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "51ff01d7d7ea5ed8a6362309ef5ba5c6",
-      "title": "GitLab Self-Hostedで実現するコンフィデンシャルAI",
-      "link": "https://about.gitlab.com/ja-jp/blog/confidential-ai-for-gitlab-self-hosted/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitLab Self-Hostedで実現するコンフィデンシャルAI",
-      "published": "12 Aug 2026 10:56 +0000",
-      "fetched_at": "2026-08-14T16:42:03.110405+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4cbe0f19ff802d48fb04320e59f6298e",
       "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
       "link": "https://www.docker.com/blog/docker-oidc-connections-for-github-actions-available-for-docker-orgs/",
@@ -89,7 +79,107 @@
       "fetched_at": "2026-08-15T20:13:25.752351+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "83b9abb3f804b229895177c7838a2fa1",
+      "title": "A Spectre Is Haunting Unicode",
+      "link": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 131 # Comments: 38",
+      "published": "Sat, 15 Aug 2026 14:34:04 +0000",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f605b4afbe118f6b6e5f885a81dcdc9b",
+      "title": "Cloudflare's AI Psychosis",
+      "link": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "summary": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/ Comments URL: https://news.ycombinator.com/item?id=49310719 Points: 102 # Comments: 81",
+      "published": "Sat, 15 Aug 2026 14:08:40 +0000",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "74fd95cc80f7985eff194be2d64351e0",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "link": "https://chenxiachan.github.io/thoughtdag/",
+      "summary": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 105 # Comments: 48",
+      "published": "Sat, 15 Aug 2026 04:42:07 +0000",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee7e271fa5399d54239f6b5e396bbad2",
+      "title": "寄稿：Claude Code on AWSで創薬研究・業務を加速する – ＪＣＲファーマのAIエージェント活用事例",
+      "link": "https://aws.amazon.com/jp/blogs/news/jcrpharm-claude-code-on-aws/",
+      "summary": "本稿は、ＪＣＲファーマ株式会社による、Amazon BedrockでClaude Codeを導入した約2ヶ月間の取り組みについて、蘆田 勇平様、服部 将太様、東本 伸一様、前田 善貴様、倉本 航佑様より寄稿いただきました。",
+      "published": "Sat, 15 Aug 2026 21:56:11 +0000",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "68afc0fd6df3216a8160c2e2a8875250",
+      "title": "開発サーバーにHTTPSドメインでアクセスできるslimが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202608152/",
+      "summary": "ローカル開発サーバーにHTTPSのドメインを割り当て、外への公開もできるCLIツールslimの紹介です。 Slim maps localhost to pretty .test domains with automatic HTTPS, SSL certificates, WebSocket & H...",
+      "published": "2026-08-15T20:36:32Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "138c77b3d07ab400d86635a9c6779078",
+      "title": "セールス主導開発の滑りやすい坂道 - ともにかける",
+      "link": "https://paper2.hatenablog.com/entry/2026/08/15/170823",
+      "summary": "本記事は、Rich Mironov 氏の The Slippery Slope of Sales-Led Development（2018-11-02）の日本語訳です。直訳ではなく、論点と口調が残るようにAIで意訳しています。公式訳ではありません。誤訳・ニュアンスのずれがあれば訳者の責任です。著者か...",
+      "published": "2026-08-15T13:55:39Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38dbfec13f1effe7aefd42acef33978d",
+      "title": "AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果",
+      "link": "https://gigazine.net/news/20260815-ai-advice-suppresses-people-willingness-idk/",
+      "summary": "生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 [2607.13562] AI advice suppresses people'...",
+      "published": "2026-08-15T02:33:53Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5d7d1af83c5e4d28a5ed7c2c29ec5db",
+      "title": "キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD",
+      "link": "https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/",
+      "summary": "キオクシアの個人向けSSD「EXCERIA G3 SSDシリーズ」の4TB版が2026年6月16日に登場しました。PCIe 5.0に対応しており、仕様上のシーケンシャル読込速度は10GB/s、シーケンシャル書込速度は9.6GB/sです。実物を試す機会を得られたので、実際にPCに組み込んで性能を検証し...",
+      "published": "2026-08-15T11:00:28Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "daedc2d4b07c8b3bf48809e33e9220a4",
+      "title": "sqlc のすすめ：SQL から型安全な Go コードを生成する",
+      "link": "https://zenn.dev/norman6464/articles/sqlc-introduction",
+      "summary": "こんにちは、tekuteku です。今回は Go の SQL コード生成ツール sqlc を、仕組み・使い方・利点の順で整理します。 sqlc とは sqlc は、SQL を書くと、それを実行するための型安全な Go コードを生成してくれるツールです。 入力はふつうの SQL ファイルです。CREA...",
+      "published": "2026-08-04T00:19:25Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b61248cd01ce963b0384f1c1934e178e",
+      "title": "Meta、コーディングエージェント「Muse Code」リリース 「Claude Code」や「Codex」に対抗",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
+      "summary": "米Metaは8月5日（現地時間）、ターミナル上で動作するコーディングエージェント「Muse Code」をベータ版として公開した。同時に、コーディング性能を強化した新モデル「Muse Spark 1.2」も発表した。 Muse CodeはmacOSとLinuxに対応し、1行のコマンドでインストールでき...",
+      "published": "2026-08-06T02:05:38Z",
+      "fetched_at": "2026-08-15T22:11:55.549615+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T20:13:25.752351+00:00"
+  "updated_at": "2026-08-15T22:11:55.549615+00:00"
 }

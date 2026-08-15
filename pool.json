@@ -549,7 +549,287 @@
       "fetched_at": "2026-08-15T10:14:08.538235+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "7bef44fe38fe8fdc91e030466554d0c3",
+      "title": "tmuxのセッション状態を保存してセッションの続きから再開できるツール。layo…",
+      "link": "https://github.com/alchemmist/lazy-tmux",
+      "summary": "tmuxのセッション状態を保存してセッションの続きから再開できるツール。layoutもhistoryも残ってるすごい。tmux内で起動していたコマンドは再実行してくれる模様。Go実装。macOSならbrew install lazy-tmuxでインストール可",
+      "published": "15 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43f4b15ab14c31c599515da1e2a502b7",
+      "title": "Docker Desktop v4.86から新しいDocker VMMを利用可能…",
+      "link": "https://www.docker.com/blog/docker-vmm-public-beta/",
+      "summary": "Docker Desktop v4.86から新しいDocker VMMを利用可能に。パフォーマンスが向上する模様。Settings→General→Virtual Machine OptionsでDocker VMMが選択されていればokっぽい。",
+      "published": "15 Aug 2026 11:12 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b639de30ae86eb0e011641db4f99fd6c",
+      "title": "QAエンジニア入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15832-3",
+      "summary": "2026年8月27日発売",
+      "published": "15 Aug 2026 11:00 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7ea75bd7944f5b25e3a4db53425ca55",
+      "title": "Going Back to Our Roots: A Little Piece of Let's Encrypt History - Let's Encrypt",
+      "link": "https://letsencrypt.org/2026/08/11/root-shirt.html",
+      "summary": "Let's Encryptを提供するISRGへ75ドル以上寄付をするとTシャツがもらえるキャンペーン開催中。皆様。",
+      "published": "15 Aug 2026 10:57 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bb71418fe458165a63ca61578cff911",
+      "title": "Intelligent Terminal 0.2 is here with local model support - Windows Command Line",
+      "link": "https://devblogs.microsoft.com/commandline/intelligent-terminal-0-2-is-here-with-local-model-support/",
+      "summary": "Microsoftが絶賛開発中のIntelligent Terminalがバージョン0.2でOpenCode対応、ローカルLLMと組み合わせて動作するようになったと。AgentとしてもGitHub CopilotだけでなくClaude, Codex, Geminiなどにも対応と。",
+      "published": "15 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08bc74582236c3e53ac757c55c2e15b8",
+      "title": "エージェンティックメッシュ - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401758/",
+      "summary": "2026年9月2日発売",
+      "published": "15 Aug 2026 10:44 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6078f8b8faba2de847a4530eb4f6f410",
+      "title": "Agent Plugins 1.0.0 は何を標準化し、何を標準化しなかったのか",
+      "link": "https://zenn.dev/aws_japan/articles/agent-plugins-1-0-deep-dive",
+      "summary": "おおよそ理解した",
+      "published": "15 Aug 2026 10:43 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a459ba4dc1f27603c1fcfd57732ba1c",
+      "title": "Instant Space Switching for macOS | Space Rabbit",
+      "link": "https://space-rabbit.app/",
+      "summary": "macOSのスペース間移動時のアニメーションをなくして高速切り替えを実現するアプリ。brew install --cask space-rabbit",
+      "published": "15 Aug 2026 10:31 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b53c57f0181a973f1925d04b11f4b18",
+      "title": "OpenTelemetryではじめるテレメトリーサンプリング | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15813-2",
+      "summary": "2026年8月31日発売。わいわい",
+      "published": "15 Aug 2026 10:29 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7320e2add56e0ad2f78c09330061105",
+      "title": "SVGファイルのLinterやminifyや加工などが可能なCLIツール。Rus…",
+      "link": "https://github.com/noahbald/oxvg",
+      "summary": "SVGファイルのLinterやminifyや加工などが可能なCLIツール。Rust実装。",
+      "published": "15 Aug 2026 10:22 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df076c0c6fa09fbd33a88b93d6535c66",
+      "title": "Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/08/020650",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Zbtlink製ルータに出荷時組み込まれていたバックドアについてまとめてみた",
+      "published": "15 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61d7b59378810af09cae2443d3223374",
+      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
+      "link": "https://arxiv.org/abs/1811.03459",
+      "summary": "Article URL: https://arxiv.org/abs/1811.03459 Comments URL: https://news.ycombinator.com/item?id=49306196 Points: 102 # Comments: 53",
+      "published": "Sat, 15 Aug 2026 00:15:23 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92dad73018a6fbf2c2af4ca400390a7b",
+      "title": "Racket v9.3",
+      "link": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "summary": "Article URL: https://blog.racket-lang.org/2026/08/racket-v9-3.html Comments URL: https://news.ycombinator.com/item?id=49302562 Points: 105 # Comments:...",
+      "published": "Fri, 14 Aug 2026 18:14:48 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fab9cdae72f8e86669f2e1c7a9ff6936",
+      "title": "年収1億円プレイヤーが200ペタフロップスの推論エンジンになった話",
+      "link": "https://anond.hatelabo.jp/20260815173709",
+      "summary": "39歳です。 先月まで外資系コンサルティング会社で働いていました。 年収は1億円です。 「1億円ほど」と書こうと思いましたが、源泉徴収票にきっちり100,000,000円と書いてあったので、ほどではありません。 会社からは「1億円プレイヤー」と呼ばれていました。 野球はできません。 キャッチボールを...",
+      "published": "2026-08-15T08:42:45Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "169a4e53bcde4b2b2fbbe86d3a1d67c7",
+      "title": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+      "summary": "中国Alibaba傘下のAlibaba Cloudは8月15日（日本時間）、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米...",
+      "published": "2026-08-14T23:55:28Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b334bce30e4957d042b517603744b1f",
+      "title": "How Claude's text watermarking works",
+      "link": "https://www.anthropic.com/news/claude-text-watermark",
+      "summary": "Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude was involved in writing the...",
+      "published": "2026-08-14T23:19:30Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30a19e54e45ce7eb344aaeec5abf9ab2",
+      "title": "人混み「コミケ108」に挑む3キャリア ドコモ、KDDI、ソフトバンクがネットワーク対策公開",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/15/news019.html",
+      "summary": "東京ビッグサイトで開催されるコミックマーケット108（コミケ108）に向け、NTTドコモ、KDDI、ソフトバンクの携帯3キャリアは大規模な電波対策を実施する。1日に十数万人が来場するコミケでは、SNS投稿や動画視聴・アップロード、電子決済などにより通信トラフィックが極度に集中しやすい。各社は移動基地...",
+      "published": "2026-08-15T05:09:52Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4762b0e42fc6c6a808f82d40ed66cb2",
+      "title": "TSKaigi Mashup Kansai #2 で「Flow の今」について話しました - mizdra's blog",
+      "link": "https://www.mizdra.net/entry/2026/08/14/144520",
+      "summary": "少し前の出来事になるのですが、2026/07/24 に TSKaigi Mashup Kansai #2 というイベントに参加してきました。アウトプットの仕方や姿勢の話、Effect の話、TSKaigi のイベント運営の裏話といった発表がありました。どれも興味深い話で面白かったです。 かくいう僕も...",
+      "published": "2026-08-14T07:21:40Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e8c91d4aa58c68f4ef0e167842daa1a",
+      "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
+      "link": "https://gigazine.net/news/20260815-dbgate/",
+      "summary": "MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。 SQL...",
+      "published": "2026-08-15T11:16:37Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4525662d2be31126eb558fa4220470dd",
+      "title": "同じ Sonnet 5 でも Claude Code と GitHub Copilot では使い方が違った（オトナの自由研究 #35）",
+      "link": "https://zenn.dev/nnakapa/articles/lab-35-claude-copilot-sonnet5-qcd",
+      "summary": "3つの発見 1. 今回の範囲では Claude Code × Sonnet 5 × xhigh の組み合わせが一番良い 2. 同じ Sonnet 5 を使っても Claude Code と GitHub Copilot では effort level の使い方が違う 3. OpenTelemetry...",
+      "published": "2026-08-15T01:34:39Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bb47d68d42d7aba0c7b772c807a7a90",
+      "title": "storybook - Storybook",
+      "link": "https://design.digital.go.jp/dads/react/?path=/docs/documents-%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB--docs",
+      "summary": "",
+      "published": "2025-10-15T06:28:29Z",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b75109ba01b015dc9e18f207e14c89e",
+      "title": "CLI-Anything Hub - Agent-Friendly CLI Registry",
+      "link": "https://clianything.cc/",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 HKUDS / CLI-Anything ⭐ 47,149 (+100) 🗒 Python \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:  https://g...",
+      "published": "15 Aug 2026 12:16 +0000",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed92a334ad93411f2b560faa0546ffc2",
+      "title": "Cisco C841M で 家庭内LAN と AWS を Site-to-Site VPN接続する(BGP)",
+      "link": "https://dev.classmethod.jp/articles/c841m-aws-site-to-site-vpn-bgp/",
+      "summary": "Cisco C841MをCustomer Gatewayにして、家庭内LANとAWSをBGPのSite-to-Site VPNで接続します。Transit Gatewayへの構成変更、特定宛先だけを許可する経路広報、ASパスプリペンドによる経路制御までを実機で検証します。",
+      "published": "Sat, 15 Aug 2026 12:12:57 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c92a5686047a2119f2ffc38c776cadac",
+      "title": "YAMAHA RTX1200 で VLAN 間ルーティング（router on a stick）を構成してみた",
+      "link": "https://dev.classmethod.jp/articles/rtx1200-inter-vlan-routing/",
+      "summary": "YAMAHA RTX1200をスマートスイッチとトランク接続し、VLAN間ルーティング（router on a stick）を構成します。論理インターフェースとDHCPの設定、経路表の読み方、VLANをまたいだ疎通確認までを実機で確認します。",
+      "published": "Sat, 15 Aug 2026 12:12:23 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "797b8e2a12400d97f9f5e86cd219b638",
+      "title": "TL-SG108E で家庭内に VLAN を作って 802.1Q タグを目視してみた",
+      "link": "https://dev.classmethod.jp/articles/tl-sg108e-home-vlan-802-1q/",
+      "summary": "TP-LinkのスマートスイッチTL-SG108Eで家庭内LANに802.1Q VLANを構成します。アクセスポート・トランクポート・PVIDの役割を設定しながら整理し、tcpdumpでVLANタグの実物を目視するところまで実機で確認します。",
+      "published": "Sat, 15 Aug 2026 12:12:03 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdb1a6f60b7fc01d54012c26fdfda775",
+      "title": "Claude Code v2.1.233 の主要アップデート - Todo ツールの既定無効化",
+      "link": "https://dev.classmethod.jp/articles/20260815-cc-updates-v2-1-233/",
+      "summary": "Claude Code v2.1.233がリリースされました。GitLabのマージリクエスト対応、Linux のメモリ制限設定、複数の重要な不具合修正が含まれています。特にWindows・Linux ユーザーとGitLab利用者は確認おすすめです。",
+      "published": "Sat, 15 Aug 2026 11:55:54 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c776a129aa7cd7847267f24f3dd840a0",
+      "title": "DevOps Agentの権限ガードレールがReadOnlyAccessポリシーに対応しました",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-readonlyaccess-permission-guardrail/",
+      "summary": "DevOps Agentの権限ガードレールが8月5日にReadOnlyAccessに対応し、エージェントが実行できる範囲が大きく拡大しました。新しい権限体系がもたらす影響をまとめます。",
+      "published": "Sat, 15 Aug 2026 10:55:32 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "86b89a587d369f88c0738a383128fdbf",
+      "title": "Twilio ConversationRelay の WebSocket 通信の署名検証で詰まった話",
+      "link": "https://dev.classmethod.jp/articles/twilio-conversationrelay-websocket-signature-verification/",
+      "summary": "Twilio ConversationRelay の WebSocket 接続に自前で署名検証を実装したところ、Upgrade リクエストの検証だけが通らず、通話が繰り返しエラーで切断されました。原因は、TwiML に指定した wss のスキームのまま署名対象 URL を計算する必要があったことでし...",
+      "published": "Sat, 15 Aug 2026 10:50:36 GMT",
+      "fetched_at": "2026-08-15T12:20:38.750268+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T10:14:08.538235+00:00"
+  "updated_at": "2026-08-15T12:20:38.750268+00:00"
 }

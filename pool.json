@@ -89,7 +89,127 @@
       "fetched_at": "2026-08-15T00:46:27.000213+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "06092c14f23213477a7c27b0ceb7d39b",
+      "title": "Cloudflare、組織の業務知識やシステム、アプリをエージェントが活用できるAIワークスペース「Cloudflare OS」をオープンソースとしてリリース | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/cloudflare-os",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare、組織の業務知識やシステム、アプリをエージェントが活用できるAIワークスペース「Cloudflare OS」をオープンソースとしてリリース | gihyo.jp",
+      "published": "15 Aug 2026 01:56 +0000",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae3c495b09171f57bb0b08cb89e2e2e2",
+      "title": "RISC-V: They should have known better",
+      "link": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "summary": "Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV Comments URL: https://news.ycombinator.com/item?id=49305492 Points: 136 # Comments: 106",
+      "published": "Fri, 14 Aug 2026 22:38:34 +0000",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "148d5c255088232ec2fbd0df6758d4f8",
+      "title": "概念設計が、その後のコードの命運を左右する",
+      "link": "https://zenn.dev/takeshi_teshima/articles/bae79b2f0f97be",
+      "summary": "最近、ソフトウェア開発における概念設計の威力と重要さについて人に伝えたい機会が何度かあった。[1] しかし、概念の整理がなぜどのように重要なのか、という一点を取り上げて書かれたものは少ないようで、人に渡すのにちょうどよい文章や書籍が見つからなかったので、このたび私なりに咀嚼して書いてみたい。 そのア...",
+      "published": "2026-08-14T19:21:13Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63fea77348cb8bdc1e0d98806e060ab9",
+      "title": "クラウドベンダーが突然消滅、PBS系列局が70年分・50TBの放送アーカイブにアクセス不能に — バックアップなしで法廷闘争へ",
+      "link": "https://techfeed.io/entries/6a7e3a5aec7a075ad3292ac1",
+      "summary": "8月13日、Jowi Moralesが「PBS broadcaster loses access to 50TB of data comprising 70 years of TV history after contracted cloud storage vendor goes defunct」...",
+      "published": "2026-08-14T15:26:09Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8f663e321be84a0cd5e62f3adbefe56",
+      "title": "千葉の「豪雨でスマホが水没」――SNS上に困り感 ぬれた場合に絶対にやってはいけないこと",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/14/news081.html",
+      "summary": "8月13日夕方から、千葉県を中心に記録的な豪雨が発生した。千葉市では観測史上1位となる1時間雨量115.0mmの猛烈な雨を記録し、一時レベル5の大雨特別警報や土砂災害特別警報が発表されるほどの深刻な状況となった。 この大雨は、首都圏の公共交通機関に極めて大きな影響を与えている。JR東日本によれば、大...",
+      "published": "2026-08-14T10:09:57Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d46c23b23021983f27010d7a41e5e787",
+      "title": "なぜTDDでは、わざわざテストを失敗させるのか？",
+      "link": "https://zenn.dev/henyo245/articles/47e0a4d108553f",
+      "summary": "はじめに 社内でTDD（テスト駆動開発）の勉強会を開催することになり、事前説明用の資料を作成していました。 TDDの基本サイクルは次の3ステップです。 Red（失敗するテストを書く） Green（最小限の実装でテストを通す） Refactor（コードを整理する） 私自身、これまでTDDを実践する中で...",
+      "published": "2026-08-14T07:46:44Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1214e160e3fa49c5d6cde73d630e7f2",
+      "title": "我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか",
+      "link": "https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming",
+      "summary": "Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れ...",
+      "published": "2026-08-15T01:37:14Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46bca2e22bae0f5c93fccb994f7eb858",
+      "title": "第64回 LinuxカーネルのPSI機能（1） | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/linux_containers-0064",
+      "summary": "PSIの算出 PSIはファイルから取得します。PSIの値が格納されたファイルの内容は次のようなフォーマットです。 some avg10=0.00 avg60=0.00 avg300=0.00 total=0 full avg10=0.00 avg60=0.00 avg300=0.00 total=0...",
+      "published": "2026-08-14T12:37:12Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a83ac6d80f7462eefa31bc4e1b537d41",
+      "title": "Gemini 3.7 Flash を発表",
+      "link": "https://blog.google/intl/ja-jp/company-news/technology/gemini-37-flash/",
+      "summary": "広くご活用いただいている Flash シリーズの進化をさらに進め、コーディングやエージェント機能においてこれまでで最も高性能な主力モデル Gemini 3.7 Flash を本日より公開します。 今回の公開は Gemini 3.6 Flash からわずか 3 週間で実現しました。これは開発者の皆さま...",
+      "published": "2026-08-13T22:29:29Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec4a8c867876c18a65ef42418e94128e",
+      "title": "競馬の機械学習分析を試してみた結果｜yuckey",
+      "link": "https://note.com/like_hyssop8403/n/nc82bcc6446b6",
+      "summary": "競馬について知識ゼロの状態からAIを使った機械学習によって収益化できないか検討しました。2週間ほどデータ分析をして一定の手応えはあったものの収益化はまだ難しそうです。 これまで得た知見の整理を含めて記録として一旦まとめをしています。 対象：JRA単勝市場の8年35万走データ 手法：LightGBMに...",
+      "published": "2026-08-14T10:48:35Z",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad3cb352655879fc7af42168d2b6cce3",
+      "title": "Perforce 公式 VS Code 拡張機能の接続設定と排他ロック時の挙動を確認した",
+      "link": "https://dev.classmethod.jp/articles/perforce-p4vscode-connection-lock-behavior/",
+      "summary": "Perforce 公式の VS Code 拡張機能 P4VSCode は、接続設定に P4CONFIG ファイル方式と VS Code 設定 UI 方式があり、いずれか一方を選んで使う仕組みになっています。また、排他ロック中のファイルへの編集は正しく拒否されますが、その結果を確認するには VS Co...",
+      "published": "Sat, 15 Aug 2026 02:22:04 GMT",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad7dc960031231441b2524f200404dd0",
+      "title": "Node.jsを仮想デバイスとしてAWS IoT Coreにつないでみた",
+      "link": "https://dev.classmethod.jp/articles/aws-iot-nodejs-virtual-device/",
+      "summary": "AWS IoT Coreを学習したくて、Node.jsを仮想デバイスにしてMQTT通信を試してみました。物理デバイスがなくても、手元のPCでスクリプトを動かすだけでテレメトリ送受信を確認できます。",
+      "published": "Sat, 15 Aug 2026 01:55:58 GMT",
+      "fetched_at": "2026-08-15T02:44:25.600687+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-15T00:46:27.000213+00:00"
+  "updated_at": "2026-08-15T02:44:25.600687+00:00"
 }

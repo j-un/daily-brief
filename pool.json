@@ -339,7 +339,97 @@
       "fetched_at": "2026-08-16T02:53:03.992620+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "46165ace5e85bd27aa8923426a590864",
+      "title": "画面を暖色寄りにするナイトモードでも見やすさを意識したカラーパレット。theme…",
+      "link": "https://github.com/carpdiem/ember",
+      "summary": "画面を暖色寄りにするナイトモードでも見やすさを意識したカラーパレット。themes/terminal配下にiTerm2/Alacritty/Windows Terminal用のテーマは用意されてるが、RGBの記載があるので他アプリのテーマにも適用しやすいと思います。",
+      "published": "16 Aug 2026 04:20 +0000",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c35c670e3d7f92011ede7494edc772f",
+      "title": "楽観ロックの実装でおさえたいポイントと、よくあるしくじり",
+      "link": "https://zenn.dev/levtech/articles/how-to-concrete-optimistic-lock",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 楽観ロックの実装でおさえたいポイントと、よくあるしくじり",
+      "published": "16 Aug 2026 03:56 +0000",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95f5244c575ee79f4ab45dd5f70de87c",
+      "title": "Go 1.27の構造体リテラルのキー拡張で、埋め込みフィールドの初期化が楽になった | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260805a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Go 1.27の構造体リテラルのキー拡張で、埋め込みフィールドの初期化が楽になった | フューチャー技術ブログ",
+      "published": "16 Aug 2026 02:56 +0000",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fdee4f13aa34792f3f682ce00812760",
+      "title": "ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/08/disaster-recovery-automation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "published": "14 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb4eabc8c3f7bac34b0ed4aa4877339d",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 114 # Comments: 28",
+      "published": "Sat, 15 Aug 2026 20:54:11 +0000",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "123be247aa6e863d9cad1dd2b4bae53d",
+      "title": "なぜ、ITの職場において低スキル者を排除することが成功のために重要だと誰も言わないのか？",
+      "link": "https://zenn.dev/pdfractal/articles/c7af0a168c0552",
+      "summary": "はじめに ITの職場では、低スキル者を重要な仕事から排除することが、実はかなり重要な職場づくりの条件の一つです。ここでいう排除とは、要件定義、設計、顧客折衝、品質判断、技術的意思決定、レビュー承認のような高い認知負荷を伴う仕事に、適性を満たさない人を置かないという配置上の判断を指します。人格の否定や...",
+      "published": "2026-08-16T03:25:37Z",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4391bae17da544f98b4286ee52c2c8e8",
+      "title": "64p.org/CLAUDE.md at master · tokuhirom/64p.org",
+      "link": "https://github.com/tokuhirom/64p.org/blob/master/CLAUDE.md",
+      "summary": "/notes/ は Andy Matuschak の「エバーグリーンノート」の考え方を実践する場（詳細は notes/src/evergreen-notes.md 参照）。tokuhirom個人が、ちょっと調べたことやAIの調査結果を書き残す場所（Obsidian Publish風のデザイン）。ちゃ...",
+      "published": "2026-08-16T00:21:50Z",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ee6a54e4ee851cc8428effde17b05f4",
+      "title": "Nemotron 3.5 Lightning を LoRA 事後学習で LLM ルーターの判定役に仕立ててみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-nemotron-lightning-switchyard-classifier-finetune/",
+      "summary": "Nemotron 3.5 Lightning を LLM ルーターの「判定役」に仕立て直しました。284B のモデルを 21GB に置き換えつつ、蒸留元の精度を超える実測結果までまとめます。",
+      "published": "Sun, 16 Aug 2026 03:48:34 GMT",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc20e345137e9659708ef290c85ac220",
+      "title": "Terraform Provider Plugin Cache を使ってください。",
+      "link": "https://dev.classmethod.jp/articles/terraform-provider-plugin-cache-must-use/",
+      "summary": "Terraformの.terraformフォルダが81GBまで肥大化していたので、Provider Plugin Cacheを使ってディスク容量を節約する方法を検証してみました。環境変数と設定ファイルの両方の設定方法と、実際の効果を紹介します。",
+      "published": "Sun, 16 Aug 2026 03:25:58 GMT",
+      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-16T02:53:03.992620+00:00"
+  "updated_at": "2026-08-16T04:27:26.451513+00:00"
 }

@@ -599,7 +599,77 @@
       "fetched_at": "2026-08-16T06:25:28.507564+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "2fcd348c5f4011f4fdb4ec19bab3b4d2",
+      "title": "Security check",
+      "link": "https://codezine.jp/article/detail/29119",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜAIで速く作れても成果は増えないのか──及川卓也氏が説く、AIネイティブ時代に人間が手放してはいけない2つの仕事",
+      "published": "16 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "977a7932169a5bea5a7047b959dbeb8d",
+      "title": "Software Engineering fundamentals matter more",
+      "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "summary": "Article URL: https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sat, 15 Aug 2026 22:31:09 +0000",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfb37dc57dbb088748849915708ed0ff",
+      "title": "「用水路で洗濯物をする在日ベトナム人」に関するメモ - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/08/16/130000",
+      "summary": "用水路で洗濯物をする在日ベトナム人 田んぼに洗剤などが入りこみ、稲の根が傷んだり、土壌の環境が悪化するが、彼らには関係ない https://x.com/roaneatan2/status/2085381657205539254 「ロアネア」という何処からか動画を見つけて来て自身が動画の出展元であるこ...",
+      "published": "2026-08-16T04:21:23Z",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddfcafa2e104a6aebc1311d0c33d44ec",
+      "title": "戦没者追悼式辞の31年を計測する｜下地理則（九州大学人文科学研究院 教授）",
+      "link": "https://note.com/lingfieldwork/n/n22666b7bf96b",
+      "summary": "このコラムは、News Picksに向けて公開した同名コラムを転載したものです。 式辞という実験室全国戦没者追悼式の式辞は、政治の言葉の中でも特異な文書である。第一に、場が固定されている。毎年同じ8月15日、同じ日本武道館、同じ式次第。第二に、型が固定されている。戦没者への追悼、遺族への言葉、平和へ...",
+      "published": "2026-08-16T05:11:01Z",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "701a11531ae62e4027927cec9df1c926",
+      "title": "GitHub - garrytan/gbrain: Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "link": "https://github.com/garrytan/gbrain",
+      "summary": "Your AI agent is smart but forgetful. GBrain gives it a brain. Built by the President and CEO of Y Combinator to run his actual AI agents. The product...",
+      "published": "2026-04-11T04:56:42Z",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a971f732ec45b39ca0e15ef2fed7aadf",
+      "title": "42日でバックエンドエンジニアの基礎を完全に理解する #8 - インデックスと検索高速化",
+      "link": "https://zenn.dev/kipcop/articles/b42-go-08-index",
+      "summary": "この記事で学ぶこと データが増えると検索が遅くなります。それを解決するのがインデックスです。 ただし「とりあえず貼れば速くなる」ものではありません。貼っても効かないケースがあり、貼りすぎると逆に遅くなります。この記事では原理から判断基準まで扱います。 この記事を終えると以下ができるようになります。 ...",
+      "published": "2026-08-16T01:47:12Z",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa9d34f9ee6f58ee8690f6ae8748ba3f",
+      "title": "Intel MacBook ProのGPU電力を8割削った48Hz、Appleが最初から用意していたモード - となりずむ",
+      "link": "https://www.apple-hacks.com/entry/macbook-pro-bootcamp-48hz-gpu-idle-power",
+      "summary": "✅この記事では、Windowsを入れた2019年のIntel製MacBook Proが、48Hzという設定ひとつで冷えた話を整理します。 要点まとめ：14Wが3Wになった1台で起きていたこと Windowsに入れたときだけ熱くなるのは、Radeonが休まないから 12Hz下げただけで8割落ちる理由は...",
+      "published": "2026-08-16T02:25:10Z",
+      "fetched_at": "2026-08-16T08:18:30.472427+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-16T06:25:28.507564+00:00"
+  "updated_at": "2026-08-16T08:18:30.472427+00:00"
 }

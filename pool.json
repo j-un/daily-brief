@@ -1549,7 +1549,97 @@
       "fetched_at": "2026-08-17T16:17:40.911316+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "64d3338b4aed0757db9d008aae28b949",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "summary": "Article URL: https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug Comments URL: https://news.ycombinator.com/item?id=49331423 Points: 186 # Co...",
+      "published": "Mon, 17 Aug 2026 14:18:38 +0000",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8893a476984436dc1a6ec0ec473fa36d",
+      "title": "How to disable or avoid intrusive AI",
+      "link": "https://www.librarian.net/notoai/",
+      "summary": "Article URL: https://www.librarian.net/notoai/ Comments URL: https://news.ycombinator.com/item?id=49331220 Points: 139 # Comments: 56",
+      "published": "Mon, 17 Aug 2026 14:07:56 +0000",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7984058cac01f7f2ad61d0e09cf37228",
+      "title": "People are worried about America's solvency",
+      "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "summary": "Article URL: https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e Comments URL: https://news.ycombinator.com/item?id=49329347 Points: 108 #...",
+      "published": "Mon, 17 Aug 2026 11:45:12 +0000",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b092bb80f36b5b8a8e5c9ce0e242c96f",
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "link": "https://desktopcolors.com",
+      "summary": "Hi HN, in my last vacation, I built desktopcolors.com as a place to collect iconic solid background colors. Let me know what you think. Comments URL: ...",
+      "published": "Mon, 17 Aug 2026 07:51:22 +0000",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09e33e5e8a7d12297a30e4ffb39830cb",
+      "title": "AWS CloudShell now includes a built-in visual file editor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/",
+      "summary": "AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup...",
+      "published": "Mon, 17 Aug 2026 13:00:00 GMT",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "87b960caee84b0b3b1ff4c3fa6a90813",
+      "title": "AWS Deadline Cloud Now Supports EBS Persistent Volume Cost Tracking",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-now-supports-ebs-persistent-volume-cost-tracking/",
+      "summary": "AWS Deadline Cloud now surfaces costs related to Amazon Elastic Block Store (Amazon EBS) persistent volumes in the Usage Explorer in the Deadline Clou...",
+      "published": "Wed, 12 Aug 2026 16:00:00 GMT",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d983ac26ad64e04ad450069201388037",
+      "title": "Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上",
+      "link": "https://gigazine.net/news/20260817-z-ai-glm-5-3/",
+      "summary": "中国のAI企業・Z.ai(北京智譜華章科技)が、コーディング能力に優れ、サイバーセキュリティタスクでは「これまでで最も有能なモデル」だというAIモデル「GLM-5.3」をリリースしました。 GLM-5.3: Frontier Coding with Emergent Cyber Capabiliti...",
+      "published": "2026-08-17T03:23:06Z",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "568bef1152e818211779772352e0f771",
+      "title": "エラーレスポンス設計の現在地2026 - Qiita",
+      "link": "https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea",
+      "summary": "上2層はHTTPの汎用インフラが機械的に解釈する領域、ボディはアプリケーションが解釈する領域です。この分担を理解しておくと、後で出てくる「エラーを200で返してはいけない」「エラーコードとステータスコードは別物」がすべて同じ原理の言い換えだと分かります。 第1層 ステータスコード、正典は RFC 9...",
+      "published": "2026-08-15T12:01:16Z",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11c54c36e8d45bd01a03c1b25a3c5bf2",
+      "title": "GitHub - jitpass/jit: Find the plaintext secrets on your Mac and move them behind Touch ID, injected just in time without breaking the tools that read them. Free and local-first.",
+      "link": "https://github.com/jitpass/jit",
+      "summary": "Your secrets live in plaintext all over your machine: .env files, ~/.aws/credentials, ~/.zshrc exports, .npmrc tokens, MCP configs. Anything running a...",
+      "published": "2026-08-16T07:55:15Z",
+      "fetched_at": "2026-08-17T18:26:07.591012+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-17T16:17:40.911316+00:00"
+  "updated_at": "2026-08-17T18:26:07.591012+00:00"
 }

@@ -1779,7 +1779,87 @@
       "fetched_at": "2026-08-17T20:16:52.264564+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "3755ef99592d6e02a52a44962fa29bd1",
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.y...",
+      "published": "Mon, 17 Aug 2026 19:06:11 +0000",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35cea24ccbb53c580e51baa83565df67",
+      "title": "Sun Clock",
+      "link": "https://sunclock.net/",
+      "summary": "Article URL: https://sunclock.net/ Comments URL: https://news.ycombinator.com/item?id=49333824 Points: 111 # Comments: 38",
+      "published": "Mon, 17 Aug 2026 16:37:54 +0000",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9babc91320af91142a6862d4f53c6486",
+      "title": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/",
+      "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models (Sol, Terra, and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse...",
+      "published": "Mon, 17 Aug 2026 20:29:00 GMT",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ad95faa303e3d9f70812debd21f331c",
+      "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
+      "summary": "AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change ...",
+      "published": "Thu, 13 Aug 2026 18:23:00 GMT",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6fb73d981ef9d3802bc4e1ceea6ebcd",
+      "title": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/",
+      "summary": "Redis's langcache-embed-v3-small, JetBrains' Mellum2-12B-A2.5B-Thinking, and LightOn's LightOnOCR-2-1B models are now available on Amazon SageMaker Ju...",
+      "published": "Mon, 10 Aug 2026 23:05:00 GMT",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "14000753b936b0d229e22cdd607fdc73",
+      "title": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/",
+      "summary": "Amazon Cognito is now available as a core skill (aws-auth) in the Agent Toolkit for AWS. AI coding agents using the toolkit can now set up, configure,...",
+      "published": "Fri, 07 Aug 2026 18:00:48 GMT",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b27a645a36374b8826131878444ae16",
+      "title": "コードの構造をざっと外観するzatが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202608172/",
+      "summary": "CLI code outline viewer. Contribute to bglgwyng/zat development by creating an account on GitHub. 機能 zatはRust製のコードアウトラインビューアです。エクスポートされたシンボルとその行番号を一覧し...",
+      "published": "2026-08-17T12:15:14Z",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "649264987f799a22959c2d23b1a7577d",
+      "title": "in-process GraphQL のすすめ #ginzajs",
+      "link": "https://speakerdeck.com/izumin5210/in-process-graphql-ginzajs-11",
+      "summary": "Sponsored · SiteGround - Reliable hosting with speed, security, and support you can count on. →",
+      "published": "2026-08-17T15:29:50Z",
+      "fetched_at": "2026-08-17T21:07:52.018511+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-17T20:16:52.264564+00:00"
+  "updated_at": "2026-08-17T21:07:52.018511+00:00"
 }

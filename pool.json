@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "efd17cab647ac78a33dc836519c163c1",
-      "title": "楽楽精算AIエージェントを支える、LLMOpsとインフラの選択肢 - RAKUS Developers Blog | ラクス エンジニアブログ",
-      "link": "https://tech-blog.rakus.co.jp/entry/20260805/aicon_summer",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 楽楽精算AIエージェントを支える、LLMOpsとインフラの選択肢",
-      "published": "15 Aug 2026 23:56 +0000",
-      "fetched_at": "2026-08-16T00:49:21.829856+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "9fdee4f13aa34792f3f682ce00812760",
       "title": "ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
       "link": "https://engineering.dena.com/blog/2026/08/disaster-recovery-automation/",
@@ -559,7 +549,107 @@
       "fetched_at": "2026-08-17T04:32:54.121816+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "4d1f2dd2f0beacaa384f200684bd09ab",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/speakeasy-enterprise-agent-skills/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI skills start on laptops. Enterprises inherit the mess.",
+      "published": "17 Aug 2026 05:56 +0000",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7430ad56634d75f96ac27c8711820bbd",
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "Article URL: https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/ Comments URL: https://news.ycombin...",
+      "published": "Sun, 16 Aug 2026 20:31:16 +0000",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8854ccbda27aa41b8e6d5c4dcd72fca2",
+      "title": "文章中のAIの透かしを教えてください。",
+      "link": "https://anond.hatelabo.jp/20260816200439",
+      "summary": "文章中のAIの透かしを教えてください。",
+      "published": "2026-08-16T11:06:42Z",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7e9a6f8480d5e41ced3e08bf3a69682",
+      "title": "Python数値計算",
+      "link": "https://www1.doshisha.ac.jp/~hdeguchi/python_p2p3.html",
+      "summary": "目次 数値解析 演習 Taylor 展開 数値微分 数値積分 関数の零点 ニュートン法 ベッセル関数 常微分方程式 ラゲルの多項式 高速フーリエ変換 フレネル積分 誤差関数 電気磁気学 数値計算 点電荷による電気力線 多数の点電荷による電位，電界 直線電荷による電気力線 多数の直線電荷による電位，電...",
+      "published": "2026-08-16T05:04:31Z",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eafb96552c860c27af91cca0f95cb148",
+      "title": "登場から1年持たず……Microsoft、Copilotのゆるキャラ「Mico」の“左遷”を決定【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2133026.html",
+      "summary": "",
+      "published": "2026-08-17T02:50:35Z",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "024ecbde3c4991d01724a697a7aec878",
+      "title": "なぜ、AI時代においてC#は最適な言語の1つなのか？ - Qiita",
+      "link": "https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403",
+      "summary": "はじめに AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。 その問いに対して、私は C# をとても強く推したいです。 理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜き、なおかつ安全に運用できる...",
+      "published": "2026-08-15T09:55:12Z",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51cdf89aee3a1aac69d954ff8e486e3c",
+      "title": "Codex のコンテキストウィンドウを ChatGPT プランでも 1M に広げてみた",
+      "link": "https://dev.classmethod.jp/articles/codex-context-window-1m-chatgpt-plan/",
+      "summary": "Codex の config.toml に model_context_window を書くと、ChatGPT のサブスクプランでもコンテキストウィンドウを 258K から広げられます。ただし表示は指定値の 95%、872,000 超は 828K で頭打ち。ロングコンテキストによる追加課金はありませ...",
+      "published": "Mon, 17 Aug 2026 05:54:50 GMT",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bba8f6300e318badf87563dc4c1dfee4",
+      "title": "Amazon Quickのプラン(Professional/Enterprise)とユーザー招待画面の6ロールを整理してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-professional-enterprise-role-mapping/",
+      "summary": "Amazon Quickのユーザー招待時に表示される6つのロールが、実は2つの異なる料金体系に分かれていることをご存知ですか？「プロ」の有無で何が変わるのか、料金ページだけではわかりにくいAmazon Quickのロール体系を、実際のログイン画面で検証しながら整理してみました。",
+      "published": "Mon, 17 Aug 2026 05:10:12 GMT",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "aafc464e3c4b17a9e30988058f8462d3",
+      "title": "Amazon Connect の統合で Amazon Bedrock AgentCore Gateway を設定したが、Amazon Connect 側にツールが反映されなかったのでその原因を特定してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-agentcore-gateway-tools-not-displayed/",
+      "summary": "Amazon Connect の統合で Amazon Bedrock AgentCore Gateway を設定しても Amazon Connect 側にツールが表示されませんでした。今回の場合、Gateway のログや CloudTrail のデータイベントから Unsupported proto...",
+      "published": "Mon, 17 Aug 2026 04:32:41 GMT",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "627848edc96abf1ab2b3d7173b4c4441",
+      "title": "【GKE再入門】GKE Autopilotクラスタ上にNginxをデプロイしてGlobal external Application Load Balancer経由で外部からアクセスしてみた",
+      "link": "https://dev.classmethod.jp/articles/gke-deploy-nginx-on-autopilot-cluster-and-access-via-global-external-application-load-balancer/",
+      "summary": "GKE Autopilotクラスタ上にNginxをデプロイし、Gateway APIとGlobal ALBで外部公開してGKEへ再入門してみました。",
+      "published": "Mon, 17 Aug 2026 04:30:58 GMT",
+      "fetched_at": "2026-08-17T06:36:53.885848+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-17T04:32:54.121816+00:00"
+  "updated_at": "2026-08-17T06:36:53.885848+00:00"
 }

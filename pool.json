@@ -39,7 +39,97 @@
       "fetched_at": "2026-08-17T21:07:52.018511+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "fb1d9c246a9f2420fe704953eaaa1ecf",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "link": "https://arxiv.org/abs/2608.13759",
+      "summary": "Article URL: https://arxiv.org/abs/2608.13759 Comments URL: https://news.ycombinator.com/item?id=49334991 Points: 111 # Comments: 23",
+      "published": "Mon, 17 Aug 2026 17:54:59 +0000",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f3e2dbb460cb0a5659bf68550654dfd",
+      "title": "Cursor launches Origin, GitHub alternative",
+      "link": "https://cursor.com/changelog/origin-code-hosting",
+      "summary": "Article URL: https://cursor.com/changelog/origin-code-hosting Comments URL: https://news.ycombinator.com/item?id=49334209 Points: 101 # Comments: 55",
+      "published": "Mon, 17 Aug 2026 17:02:44 +0000",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f74e6b715274c6ee5ba1a75b46e0611",
+      "title": "Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/",
+      "summary": "Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies enabling supervisors to monitor and optimize how con...",
+      "published": "Mon, 17 Aug 2026 17:23:00 GMT",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b883d06bba0351270658ede8f2e2bf2f",
+      "title": "AWS Network Firewall Now Supports Stateful Rule Hit Counts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/",
+      "summary": "AWS Network Firewall now provides rule hit counts for stateful rules, giving network administrators and security engineers visibility into how often e...",
+      "published": "Mon, 17 Aug 2026 16:30:00 GMT",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "556dc8c4399cfc85658d8ea6b11ea524",
+      "title": "Amazon Quick now supports customizable no data messages for visuals",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quick-custom-no-data-message/",
+      "summary": "Amazon Quick announces support for no data message customization, enabling authors to replace the default \"No data to display\" message with a tailored...",
+      "published": "Fri, 14 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a883936b953ee63d2a52c957cb974b04",
+      "title": "Amazon CloudWatch Alarms now supports wall clock evaluation windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-alarms-wallclock-evaluation",
+      "summary": "Today, Amazon CloudWatch announces wall clock evaluation windows for metric alarms, enabling customers to align alarm evaluations to fixed calendar bo...",
+      "published": "Fri, 07 Aug 2026 08:00:00 GMT",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5109e78a5eefc8617c355e827bb89773",
+      "title": "QwenはGemmaの倍近く――Hugging Face統計にみる、中国製AIの台頭",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133080.html",
+      "summary": "",
+      "published": "2026-08-17T08:20:27Z",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dff43811983ce80d2008ac6e6bfc045",
+      "title": "Bedrockのエンドポイント/APIはどれを選べばいいの？（2026/8） - Qiita",
+      "link": "https://qiita.com/moritalous/items/b023919af9f9e3e205c5",
+      "summary": "最近、Bedrockのドキュメントにこのような記載が追加されました。 Whenever possible, we recommend using the bedrock-runtime endpoint for new applications. See Endpoints supported by...",
+      "published": "2026-08-17T13:04:27Z",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f47307223920fb6fe5e245b96e35c4e4",
+      "title": "[アップデート] Amazon Quick でユーザーごとにエージェント時間とストレージの使用上限を設定できるようになったので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-per-user-resource-limits/",
+      "summary": "Amazon Quickに新しく追加された「制限プロファイル」機能で、ユーザーごとのリソース消費上限を設定できるようになりました。インデックスストレージとエージェント時間の管理方法について、実際の操作画面を交えながら紹介します。",
+      "published": "Mon, 17 Aug 2026 21:47:01 GMT",
+      "fetched_at": "2026-08-17T22:15:48.664667+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-17T21:07:52.018511+00:00"
+  "updated_at": "2026-08-17T22:15:48.664667+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9fdee4f13aa34792f3f682ce00812760",
-      "title": "ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "link": "https://engineering.dena.com/blog/2026/08/disaster-recovery-automation/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ARC Region Switch で実現する 10 分以内の自動リージョン切り替え [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "published": "14 Aug 2026 10:56 +0000",
-      "fetched_at": "2026-08-16T04:27:26.451513+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "be4e526686893400531f92063a4fdbdb",
       "title": "はじめての精密工学 第5巻【委託】 - 達人出版会",
       "link": "https://tatsu-zine.com/books/introduction-to-precision-engineering-vol5",
@@ -649,7 +639,177 @@
       "fetched_at": "2026-08-17T06:36:53.885848+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "56af37a2bcc607961e9628fa75f0c35f",
+      "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
+      "link": "https://shopify.engineering/scaling-inventory-reservations",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
+      "published": "17 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9bdd949ee47aba72ebaa1d0430c0bfe",
+      "title": "GIMP Development Update",
+      "link": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "summary": "Article URL: https://www.gimp.org/news/2026/08/16/dev-update-august-2026/ Comments URL: https://news.ycombinator.com/item?id=49326156 Points: 103 # Co...",
+      "published": "Mon, 17 Aug 2026 03:08:47 +0000",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "efe959478e30a23a3029f59eff9a8ea3",
+      "title": "Reticulum – Decentralized Mesh Network",
+      "link": "https://reticulum.network/",
+      "summary": "Article URL: https://reticulum.network/ Comments URL: https://news.ycombinator.com/item?id=49325061 Points: 110 # Comments: 26",
+      "published": "Sun, 16 Aug 2026 23:59:10 +0000",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "74a31ab17223116538e03e32e79eac46",
+      "title": "月刊 AWS 製造 2026 年 8 月号",
+      "link": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202608/",
+      "summary": "みなさん、こんにちは。ソリューションアーキテクトの松永です。8 月に入り各地で猛暑が続いていますね。工場の現場 […]",
+      "published": "Mon, 17 Aug 2026 06:45:33 +0000",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0979c6a44e1dc9ffef8b9d8f5f8d5a7",
+      "title": "GitHub - coji/natural-japanese: 仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。",
+      "link": "https://github.com/coji/natural-japanese",
+      "summary": "仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成といった仕事の文書から、note・ブログ・エッセイまで。AIと文書を作るとき毎回プロンプトに書いている指示——結論から書いて、論旨を明確に、見出しは端的に...",
+      "published": "2026-07-14T07:56:39Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74c50ebcf32332d3a9ad36146d84fb2a",
+      "title": "とまり木 — 各地のカメラから、日本のいま。",
+      "link": "https://tomarigi.me/",
+      "summary": "日本各地のYouTubeライブカメラを地図から探して、その場で視聴できるサービス「とまり木」。",
+      "published": "2026-08-17T06:22:27Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a45b10a5a348c1bf4a21ad589d38159",
+      "title": "Canonical幹部が明かす。WSL上のUbuntuがネイティブを超える",
+      "link": "https://joho-todai.com/news-canonical-exec-wsl-ubuntu-beats-native/",
+      "summary": "Windowsの中でLinuxを使う開発者が、LinuxマシンでLinuxを使う開発者より速く増えている。Ubuntuの開発元がそう認めた。数か月以内に逆転する見込みだという。 「数か月以内に逆転する」Canonical（Ubuntuの開発元）でエンジニアリング担当副社長を務めるジョン・シーガー（J...",
+      "published": "2026-08-17T00:41:38Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e48df1d18cfb83f37b3df98eaa54f3b",
+      "title": "なぜ、日本のSIerが生き残るために必要な内容の9割は「リストラ」なのか？",
+      "link": "https://zenn.dev/pdfractal/articles/6f1033a968e4bd",
+      "summary": "はじめに 日本のSIer各社は、DXという言葉の勢いが弱まるにつれて、生成AI、AIエージェント、ソブリンAI、フィジカルAIと、次々に新しい言葉を掲げるようになりました。そこでは、AIを新たな成長市場として取り込み、自社も時代の最先端を走り続けるという物語が語られています。 しかし、日本のSIer...",
+      "published": "2026-08-16T22:56:01Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "429a290532ef150c5e7cad335531dbda",
+      "title": "【資料公開】数字を使う技術",
+      "link": "https://www.ryuzee.com/contents/blog/14624",
+      "summary": "みなさんこんにちは。@ryuzeeです。 8月26日(水)〜28日(金)に、ぼくがメイン講師を務めるScrum Alliance認定スクラムマスター（CSM）研修をオンラインで開催します。チームに興味がありそうな方がいたらぜひご紹介ください。詳しくはこちらです。 プロダクト開発をしていると、色んな数...",
+      "published": "2026-08-17T00:55:47Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aedafec48a1f9608bf8a1283f5157a93",
+      "title": "Patterns and problems in multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "summary": "Models are improving and AI agents are taking on more tasks in shared codebases, markets, and other social systems. As a result, an increase in real-w...",
+      "published": "2026-08-14T00:02:38Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d463a6867108e5e61c94ceb5826a588e",
+      "title": "AI駆動開発におけるループエンジニアリングとはなにか",
+      "link": "https://thinktwice.tech/posts/662369a094f89445d573c995c4f094fd/",
+      "summary": "AIコーディングエージェントに毎回指示するのではなく、目的・状態・検証・停止条件を持つ反復ワークフローを設計する、ループエンジニアリングの考え方を整理します。 ループエンジニアリングとは AI駆動開発では、AIにコードを書かせること自体は、少しずつ特別な作業ではなくなってきています。難しくなっている...",
+      "published": "2026-08-17T06:18:28Z",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e00fb27db9b27f9df27aa2520faa4941",
+      "title": "ghoostで\"あの人の判断\"を業務に呼び出す──分身AIで会議・商談・壁打ちを自動化してみた",
+      "link": "https://dev.classmethod.jp/articles/summon-expert-judgment-into-daily-work/",
+      "summary": "AIに商談ブリーフを作らせる、くらいなら珍しくありません。面白いのはその先です。\"あの人の判断\"を分身（ghoost）としていつでも呼び出せるようになると、会議前のすり合わせも、メンバーの壁打ちも、日々の相談も変わります。今回は、MCPでブリーフを自動生成する実装を入口に、分身が日常業務にどう溶ける...",
+      "published": "Mon, 17 Aug 2026 08:14:26 GMT",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "59ee12c721300ff585061fd7891be4dd",
+      "title": "【Amazon Connect】オペレーション時間機能を活用し、営業時間外の処理を分岐してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-operation-hours-routing/",
+      "summary": "Amazon Connectのオペレーション時間機能を使って、営業時間外の処理を分岐してみました。設定から実装まで、実際の動作確認を含めて解説します。",
+      "published": "Mon, 17 Aug 2026 08:05:24 GMT",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "82a627bb0a2b07927b4a2c2d19776b57",
+      "title": "WSL2 から 1Password の SSH エージェントを使ってローカルの秘密鍵ファイルをなくす",
+      "link": "https://dev.classmethod.jp/articles/wsl2-1password-ssh-agent/",
+      "summary": "WSL2で1PasswordのSSHエージェントを使うため、npiperelay.exeとsocatでWindowsと Linux間を中継する設定に挑戦しました。過去の失敗を乗り越え、秘密鍵ファイルの削除とGitHub PAT の廃止に成功した記録です。",
+      "published": "Mon, 17 Aug 2026 07:40:27 GMT",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d37280aacd0284eb1fb55c9ddc6343e",
+      "title": "Amazon Connect Customerの料金プラン名がConnect CustomerとCustomer Basicに変わっていました",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-pricing-name-change/",
+      "summary": "Amazon Connect Customerの料金プラン名が「無制限のAI」から「Connect Customer」、「個々の機能」から「Customer Basic」に変更されていました。料金体系の考え方は変わっていませんが、最新の料金ページとの対応を整理します。",
+      "published": "Mon, 17 Aug 2026 07:38:25 GMT",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "84f3df87e216ee22fb5c122481721dca",
+      "title": "AWS Organizations の Inspector ポリシーは、自動アクティブ化設定が無効と表示されていても新規メンバーアカウントに適用されます",
+      "link": "https://dev.classmethod.jp/articles/aws-organizations-inspector-policy-auto-activation/",
+      "summary": "AWS Organizations で Inspector ポリシーを Root にアタッチしている場合、委任管理者アカウントのコンソール上で自動アクティブ化が無効と表示されていても、ポリシーは新規メンバーアカウントに継承されます。ポリシーの実際の動作と、コンソール表示の関係を整理しました。",
+      "published": "Mon, 17 Aug 2026 07:06:10 GMT",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a54f35fe8587968ead8bdc5bcd5915e",
+      "title": "Reintroducing Dahi: “As a producer, you’re servicing other artists and helping uplift their ideas. This was the time for me to do that myself”",
+      "link": "https://musictech.com/features/interviews/dahi/?utm_source=rss&utm_medium=rss&utm_campaign=dahi",
+      "summary": "After years of culture-defining collabs with the likes of Kendrick Lamar, 21 Savage and Drake, the producer is making his own artistic statement with ...",
+      "published": "Mon, 17 Aug 2026 07:30:01 +0000",
+      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-17T06:36:53.885848+00:00"
+  "updated_at": "2026-08-17T08:33:24.220413+00:00"
 }

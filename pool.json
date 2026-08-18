@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "56af37a2bcc607961e9628fa75f0c35f",
-      "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
-      "link": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
-      "published": "17 Aug 2026 06:56 +0000",
-      "fetched_at": "2026-08-17T08:33:24.220413+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "afcae0f31d306b90398903d24f36ef06",
-      "title": "Secure Enclave で git commit の署名鍵を管理する - mizdra's blog",
-      "link": "https://www.mizdra.net/entry/2026/08/07/101542",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Secure Enclave で git commit の署名鍵を管理する",
-      "published": "17 Aug 2026 08:56 +0000",
-      "fetched_at": "2026-08-17T10:23:39.135717+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1ad95faa303e3d9f70812debd21f331c",
       "title": "Claude Opus 5 is now available in AWS GovCloud (US)",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/",
@@ -1379,7 +1359,127 @@
       "fetched_at": "2026-08-18T12:28:10.035156+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "d805c6dd5048ea0d2dec864f19acb674",
+      "title": "Using the railway network as a flatbed scanner",
+      "link": "https://philo.gay/linecam/",
+      "summary": "Article URL: https://philo.gay/linecam/ Comments URL: https://news.ycombinator.com/item?id=49344825 Points: 103 # Comments: 19",
+      "published": "Tue, 18 Aug 2026 12:43:54 +0000",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fd4baae5003df59a12f99c49560559d",
+      "title": "マイクロソフト幹部、路上で銃殺 親権めぐる対立で元妻らが契約殺人",
+      "link": "https://www.cnn.co.jp/usa/35251656.html",
+      "summary": "（CNN） 米マイクロソフトの若手幹部ジャレッド・ブライドガン氏（当時33）は2022年、冬の終わりの暖かな日にフロリダ州ジャクソンビルビーチにある元妻の自宅まで双子を送り届けたところだった。 夕暮れ時に2歳の娘を後部座席に乗せて自宅へ向かい始めたところ、道路の真ん中にタイヤが置かれているのに気がつ...",
+      "published": "2026-08-18T10:42:27Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0124b81e39045e80ba984f8985600272",
+      "title": "Googleドライブを使いこなす10のコツ | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/260810-hacks-every-google-drive-user-should-know/",
+      "summary": "Googleドキュメントやスプレッドシートからちょっとしたメモまで、そのほとんどが「Googleドライブ」に集まってきます。 それだけに、ドライブが散らかっていると、必要なファイルを探すだけで時間を取られてしまうことも。 そこで今回は、ドライブをすっきり整理し、共有・共同編集の機能を使いこなすための...",
+      "published": "2026-08-18T08:25:52Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e42106729740f00639cc6d1158a1557",
+      "title": "タイガー、「アルゴン断熱」採用の樹脂ボトル プラスチックでも長時間保冷",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133422.html",
+      "summary": "",
+      "published": "2026-08-18T03:57:59Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a0b3e48d08731b82f54943372023977",
+      "title": "AIが作ったHTMLの社内共有、みんな一回自作するやつをちゃんと作った",
+      "link": "https://zenn.dev/coji/articles/artifact-share-release",
+      "summary": "「最新版どれですか」が戻ってきた Claude Code に調査レポートや比較表を頼むと、きれいな HTML を吐いてくれますよね。それを Slack に添付して送る。修正が入る。また添付する。数日後、チャンネルには comparison_final_v2.html と comparison_fin...",
+      "published": "2026-08-18T01:14:58Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "003c58195e3aeea06f53f85c6db54fe0",
+      "title": "ついにUber Eatsがドローン配送開始、全米展開を目指し2029年には1日100万件の配送を達成する計画",
+      "link": "https://gigazine.net/news/20260818-uber-eats-zipline-drone/",
+      "summary": "Uberとドローン配送企業のZiplineが提携し、Uber EatsでZiplineの自律飛行ドローンを使った配送サービスを2026年内にアメリカで開始すると発表しました。両社はサービスを数十都市へ拡大し、2029年末までに1日100万件のドローン配送を実現することを目指しています。 Uber T...",
+      "published": "2026-08-18T04:10:35Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "559e573792773391c04ac2af538772bc",
+      "title": "パイオニアのカーナビアプリ「COCCHi」終了へ 開始から約3年、累計150万ダウンロード",
+      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000594/",
+      "summary": "パイオニアは8月18日、スマートフォン向けカーナビアプリ「COCCHi」（コッチ）を11月30日に終了すると発表した。累計ダウンロード数は150万を突破したが、開始から約3年で終了することになる。「事業およびサービス提供体制の見直しに伴い」終了するという。 COCCHiは2023年9月にスタート。カ...",
+      "published": "2026-08-18T07:03:06Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d65baf96001472b2dcbb3c02dfca1680",
+      "title": "JAXAが火星衛星探査計画(MMX)の機体を報道公開、細部の工夫などをチェック!",
+      "link": "https://news.mynavi.jp/techplus/article/20260813-4814923/",
+      "summary": "宇宙航空研究開発機構(JAXA)は8月13日、種子島宇宙センターにおいて、火星衛星探査計画(MMX)の機体を公開した。開発が完了したMMX探査機が報道向けに公開されるのは、これが初めて。打ち上げ時期はまだ発表されていないものの、火星に行くのに都合の良いウィンドウは10月〜11月ころで、このタイミング...",
+      "published": "2026-08-17T03:48:34Z",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25b6d2f432b5af9bd4b6a55a58ac0c42",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 genl…",
+      "link": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 genlayerlabs / genlayer-project-boilerplate ⭐ 15,724 (+543) 🗒 TypeScript",
+      "published": "18 Aug 2026 14:17 +0000",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c611600453f2b1d1ebc14cc6bbc43727",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 cha…",
+      "link": "https://github.com/chaitanyagiri/munder-difflin",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 chaitanyagiri / munder-difflin ⭐ 1,654 (+256) 🗒 TypeScript local multi-agent harness",
+      "published": "18 Aug 2026 13:17 +0000",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2246e5e3029cd6f2cd1a53cfbd313a12",
+      "title": "How Colectivo Casa Amarela Grew Beyond Its Island Origins",
+      "link": "https://daily.bandcamp.com/label-profile/colectivo-casa-amarela-label-profile",
+      "summary": "The label is building a new experimental music ecosystem in Portugal and beyond. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 18 Aug 2026 13:45:02 -0000",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "d16b1183839394ed0cc799b467f385fa",
+      "title": "Michael Christmas, Chris Crack & Girl Talk, “Don’t Come To My House Sharing Your Location”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/michael-christmas-chris-crack-girl-talk-dont-come-to-my-house-sharing-your-location-review",
+      "summary": "A crew of internet pranksters join forces on a slamming new EP. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 18 Aug 2026 13:44:59 -0000",
+      "fetched_at": "2026-08-18T14:24:09.074988+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-18T12:28:10.035156+00:00"
+  "updated_at": "2026-08-18T14:24:09.074988+00:00"
 }

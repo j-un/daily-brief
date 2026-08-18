@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "825426491b3b2e2557e644923bc40771",
-      "title": "本当にあった怖い話: コンテナを再起動したら無関係なプロセスが死んだ件｜KDDI Tech note",
-      "link": "https://tech-note.kddi.com/n/n9a255525c6b8",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 本当にあった怖い話: コンテナを再起動したら無関係なプロセスが死んだ件",
-      "published": "15 Aug 2026 05:56 +0000",
-      "fetched_at": "2026-08-17T04:32:54.121816+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "56af37a2bcc607961e9628fa75f0c35f",
       "title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
       "link": "https://shopify.engineering/scaling-inventory-reservations",
@@ -1089,7 +1079,177 @@
       "fetched_at": "2026-08-18T08:25:34.980821+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "f7baa2aa842ccd528549e95ebbf76177",
+      "title": "レガシーインタフェースが“抜け道”に ―懸念が現実となったLinuxカーネル ロックダウンモードのバグ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260810",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 レガシーインタフェースが“抜け道”に ―懸念が現実となったLinuxカーネル ロックダウンモードのバグ | gihyo.jp",
+      "published": "18 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ff7d6e30ec64d5375e11b9ebf3cb597",
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "summary": "Article URL: https://pixelcluster.dev/VRAM-Overcommit/ Comments URL: https://news.ycombinator.com/item?id=49342719 Points: 108 # Comments: 11",
+      "published": "Tue, 18 Aug 2026 07:51:50 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "318c357d9b61a193c5e8877b259a8ce4",
+      "title": "I don't enjoy the Internet any more",
+      "link": "https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/",
+      "summary": "Article URL: https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49341551 Points: 101 # Co...",
+      "published": "Tue, 18 Aug 2026 05:17:14 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ecc9fdf1040db449a620da4019daa0c",
+      "title": "The Benchmarkpocalypse",
+      "link": "https://danluu.com/benchpocalypse/",
+      "summary": "Article URL: https://danluu.com/benchpocalypse/ Comments URL: https://news.ycombinator.com/item?id=49340299 Points: 106 # Comments: 27",
+      "published": "Tue, 18 Aug 2026 02:11:02 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "764cf2b4bcf1b6f720834dfd815aedf3",
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "link": "https://www.repaircafe.org/",
+      "summary": "Article URL: https://www.repaircafe.org/ Comments URL: https://news.ycombinator.com/item?id=49339097 Points: 111 # Comments: 18",
+      "published": "Mon, 17 Aug 2026 23:28:28 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9899a1cff8d2c16b91e43f69d4809eb9",
+      "title": "エクスプローラーの右クリックメニュー、パフォーマンスとカスタマイズ性が劇的改善へ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2133440.html",
+      "summary": "",
+      "published": "2026-08-18T05:51:17Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b27a645a36374b8826131878444ae16",
+      "title": "コードの構造をざっと概観するzatが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202608172/",
+      "summary": "CLI code outline viewer. Contribute to bglgwyng/zat development by creating an account on GitHub. 機能 zatはRust製のコードアウトラインビューアです。エクスポートされたシンボルとその行番号を一覧し...",
+      "published": "2026-08-17T12:15:14Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85812f07c4dc06277f2c03e2ef31b7f0",
+      "title": "ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/chat_gpt_consultation/",
+      "summary": "Lifehacker 2026年7月26日掲載の記事より転載 無機質な善意に気をつけて。 以前、『「ネガティブ思考」をやめたいから、ChatGPTに3カ月ずっと相談し続けてみた（その結果！）』という記事を書いたところ、たくさんの方に読んでいただけて、私の周りからも色々な反応をもらいました。 Chat...",
+      "published": "2026-08-18T07:11:23Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae39d708b1fe2d61839469468be222f4",
+      "title": "なぜRubyでは「'👨‍👩‍👧‍👦'.size」が「7」とカウントされるんですか？ 文字コードの深淵をとみたまさひろさんが語る - Findy Media",
+      "link": "https://findy-code.io/media/articles/chotto-wakaru-mojibake",
+      "summary": "世の中には、あらゆる技術領域の専門家が存在します。実用的な知識もあれば、極めてニッチな知識もあるでしょう。どんな領域であっても「飽くなき探究心を注げるテーマ」があることは、エンジニアとしての人生を豊かなものにしてくれます。 今回お話を伺ったのは、エンジニアコミュニティで「文字コードや文字化けの専門....",
+      "published": "2026-08-17T23:48:15Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93717b3b43d76cee1e1ae24f5653512d",
+      "title": "Appleからスパイウェア攻撃に関する「脅威の通知」を受け取ったAppleユーザーの数が「前例のない数に達した」という報告",
+      "link": "https://gigazine.net/news/20260818-unprecedented-number-apple-users-received-spyware-alert/",
+      "summary": "Appleは危険なスパイウェアの標的になった疑いのあるユーザーに対してAppleから送られる「脅威の通知」を受け取ったユーザーの数が、2026年8月は「前例のない数」だったことが明らかになりました。 ‘Unprecedented’ number of Apple users received rec...",
+      "published": "2026-08-18T03:12:08Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d048a6a6b92d83a0cfdb942cc2ceb011",
+      "title": "Googleが倒産したスピリット航空のメール1億件・Teamsチャット5億件を約16億円で購入へ、AIモデルの学習などに利用",
+      "link": "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/",
+      "summary": "Googleが経営破綻した格安航空会社スピリット航空の社内データを1000万ドル(約16億円)で取得する見通しであることが分かりました。購入対象には約1億件のメールや約5億件のMicrosoft Teamsのチャットなどが含まれており、Googleは製品開発やAIモデルの改善に利用する方針です。 N...",
+      "published": "2026-08-18T03:32:41Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6a3322cca82c38bf180b6a9bd73d5bb",
+      "title": "「受託脳」から「提案脳」へ〜「一緒に悩んで、いいものつくる」を目指して",
+      "link": "https://speakerdeck.com/kuranuki/from-order-taking-brain-to-proposal-brain",
+      "summary": "2026年7月に行った企業向け講演のスライドです。 言われたものを言われた通りに作る「受託脳」から、相手の先を見て一緒に考える「提案脳」へ。大手SIerのエンジニアだった私が、構造の壁にぶつかりながら「納品のない受託開発」というビジネスモデルに至るまでの物語とあわせて、提案できる人がどう育つのかを…",
+      "published": "2026-08-17T10:26:16Z",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82db5f5c96547c620f68f2f4e470024e",
+      "title": "Snowflake Openflow Connector for PostgreSQL を SPCS で動かし、RDS for PostgreSQLに接続してみた",
+      "link": "https://dev.classmethod.jp/articles/tried-running-snowflake-openflow-connector-for-postgresql-on-spcs-and-connected-to-rds/",
+      "summary": "SnowflakeのOpenflow Connector for PostgreSQLを使って、RDS for PostgreSQLからSnowflakeへCDCデータ転送を試してみました。前回はAWS上にデプロイしてデプロイして動作するBYOCを試しましたが、今回はSPCSで試してみました。",
+      "published": "Tue, 18 Aug 2026 10:11:47 GMT",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8beebe0c72a0d1b2a55bb9a2e9f1ce7",
+      "title": "NVIDIA の新エージェントフレームワーク NOOA を DGX Spark のローカル LLM で試してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-nooa-local-llm-capability/",
+      "summary": "NVIDIA が公開したエージェント構築フレームワーク「NOOA」をDGX Sparkのローカル LLM で動かし、公開されている capability test を追試してみました。ハーネス設計でモデルの性能が大きく変わるという仮説が、手元の量子化モデルでも成り立つのか、実測値から検証します。",
+      "published": "Tue, 18 Aug 2026 09:49:25 GMT",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1839c5367e5454788080f00e3dd9106a",
+      "title": "npm代替を目指すパッケージマネージャvltを触ってみた",
+      "link": "https://dev.classmethod.jp/articles/vlt-replacing-npm-js-package-manager/",
+      "summary": "npm互換で高速なパッケージマネージャ「vlt」がv1.0をリリースしたので、実際に使ってみました。セットアップからプロジェクト作成、そして詳しく計測したインストール速度まで、vltの実力を検証します。",
+      "published": "Tue, 18 Aug 2026 09:30:13 GMT",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e31ad89eab57f65edb10c1a90d1187e9",
+      "title": "Cradle State Machine Alt Textures relies heavily on its epic sounds",
+      "link": "https://musictech.com/reviews/software-instruments/cradle-state-machine-alt-textures-review/?utm_source=rss&utm_medium=rss&utm_campaign=cradle-state-machine-alt-textures-review",
+      "summary": "Alt Textures is a new sound collection for Cradle’s sample-based synth instrument with a dark and heavy aesthetic The post Cradle State Machine Alt Te...",
+      "published": "Tue, 18 Aug 2026 08:32:52 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7ca5be751188df45859b23c51b33261d",
+      "title": "Jordan Fish doesn’t want you to sweat about the details when you’re making music",
+      "link": "https://musictech.com/features/interviews/jordan-fish-interview-production-cradle-audio-alt-textures/?utm_source=rss&utm_medium=rss&utm_campaign=jordan-fish-interview-production-cradle-audio-alt-textures",
+      "summary": "Metalcore’s premier producer has released his first plugin collaboration with Cradle. He tells us about sample library curation, how to catch lightnin...",
+      "published": "Tue, 18 Aug 2026 08:28:03 +0000",
+      "fetched_at": "2026-08-18T10:19:32.257279+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-18T08:25:34.980821+00:00"
+  "updated_at": "2026-08-18T10:19:32.257279+00:00"
 }

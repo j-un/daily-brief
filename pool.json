@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8b53c57f0181a973f1925d04b11f4b18",
-      "title": "OpenTelemetryではじめるテレメトリーサンプリング | 技術評論社",
-      "link": "https://gihyo.jp/book/2026/978-4-297-15813-2",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetryではじめるテレメトリーサンプリング | 技術評論社",
-      "published": "18 Aug 2026 10:56 +0000",
-      "fetched_at": "2026-08-18T12:28:10.035156+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "605a29232b3ffdbd07269f43e3585ba1",
       "title": "Oracle Database@AWS 移行に向けてアプリケーションの SQL*Net レイテンシーを把握する",
       "link": "https://aws.amazon.com/jp/blogs/news/characterizing-sqlnet-latency-in-your-application-for-oracle-databaseaws-migrations/",
@@ -1669,7 +1659,97 @@
       "fetched_at": "2026-08-19T16:21:11.353289+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "29876e0f1e201b7a00be6b1bb49240e5",
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
+      "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2013/11/civic-hygiene/ Comments URL: https://news.ycombinator.com/item?id=49363433 Points: 341 # Comments: 228",
+      "published": "Wed, 19 Aug 2026 16:07:14 +0000",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecb080af9ed3359f994a64c7d8374447",
+      "title": "Remote workers report the highest well-being in study of 7,700 employees",
+      "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
+      "summary": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees Comments URL: https://news.ycombi...",
+      "published": "Wed, 19 Aug 2026 15:32:08 +0000",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5784de24be7838f4144ec97986a6d84",
+      "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+      "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "summary": "Article URL: https://www.casio.com/uk/watches/casio/product.F-B100W-1A/ Comments URL: https://news.ycombinator.com/item?id=49362887 Points: 137 # Comm...",
+      "published": "Wed, 19 Aug 2026 15:28:01 +0000",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b6387b03545b2809283f524fcd2a3fa",
+      "title": "Amazon Quick adds deny by default for custom permissions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/",
+      "summary": "Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach u...",
+      "published": "Wed, 19 Aug 2026 15:36:00 GMT",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9acf76b091c7ad32e754a2f0a87c17e",
+      "title": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/",
+      "summary": "Amazon EC2 High Memory U7i-6TB instances (u7i-6tb.112xlarge) are now available in AWS Europe (Zurich) region. U7i instances are part of the AWS 7th ge...",
+      "published": "Tue, 18 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e575f7ea710fc109bf5ea54f19709bdf",
+      "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+      "link": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+      "summary": "Docker社は独自開発したコンテナ向けの高性能な新ハイパーバイザ「Docker VMM」をパブリックベータとして公開しました。WindowsとmacOSに対応した最新の「Docker Desktop v4.86」で利用可能です。 Today we're announcing the public ...",
+      "published": "2026-08-19T15:24:54Z",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd3bc93a58807cb5d5adcddaa4f105f6",
+      "title": "LLMC、332億パラメータの日本語LLM「LLM-jp-4 33B」を公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2133929.html",
+      "summary": "",
+      "published": "2026-08-19T08:30:41Z",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3257d531a3c4d8943e81b60e8f94a95",
+      "title": "GitHub - obra/superpowers: An agentic skills framework & software development methodology that works. · GitHub",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 obra / superpowers ⭐ 274,023 (+514) 🗒 Shell An agentic skills framework & software development methodology that wo...",
+      "published": "19 Aug 2026 17:17 +0000",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "964c5fe181c31d08440589396c56afbb",
+      "title": "Lucid slices, stretches, and scrubs sound like no other granular FX",
+      "link": "https://cdm.link/lucid-slices-stretches-and-scrubs-sound-like-no-other-granular-fx/",
+      "summary": "Talking granular effects is like talking ice cream -- it's all about the different flavors. So look at what Minimal Audio has given us: Lucid is a pul...",
+      "published": "Wed, 19 Aug 2026 16:25:03 +0000",
+      "fetched_at": "2026-08-19T18:21:32.205954+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-19T16:21:11.353289+00:00"
+  "updated_at": "2026-08-19T18:21:32.205954+00:00"
 }

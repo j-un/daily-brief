@@ -1869,7 +1869,107 @@
       "fetched_at": "2026-08-19T20:17:32.653673+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bde94133bc0310ca823d59551e54a8a2",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 124 # Comments: 32",
+      "published": "Wed, 19 Aug 2026 18:36:45 +0000",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe82b57a4326b9bc4c87d32d9dcd2f5a",
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023 Comments URL: https://news.ycombinator.com/item?id=49364745 Points: 156 # Commen...",
+      "published": "Wed, 19 Aug 2026 17:47:29 +0000",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe6980025c1d63be4310c6ec1a9400a4",
+      "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+      "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+      "summary": "Article URL: https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/ Comments URL: https://...",
+      "published": "Wed, 19 Aug 2026 07:35:59 +0000",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b04f4912b8c862a59e5197602a9eb57",
+      "title": "Amazon SageMaker notebooks now support trusted identity propagation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/",
+      "summary": "Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling per...",
+      "published": "Wed, 19 Aug 2026 20:25:00 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa4c4d94023b89cb2565222cea5db345",
+      "title": "AWS announces a new Availability Zone in the Europe (London) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/",
+      "summary": "AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cloud...",
+      "published": "Wed, 19 Aug 2026 17:00:00 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "45a99c3b08e0ddacb2390b4654be102e",
+      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/",
+      "summary": "AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Tape Gateway and Volume Gateway. Previously, FIPS endpoints w...",
+      "published": "Wed, 19 Aug 2026 10:00:00 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1af2688c42542a26b35894b857eaade8",
+      "title": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/",
+      "summary": "Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative fr...",
+      "published": "Thu, 13 Aug 2026 16:12:00 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "421ddec257a7216a87b7fb8f408f0fcf",
+      "title": "Amazon SES now helps identify automated open and click events in event notifications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/",
+      "summary": "Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent fi...",
+      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "33d62b7ba3f23c0ce78c06d8a5f1b742",
+      "title": "React でアクセシブルな Tree View を実装する",
+      "link": "https://azukiazusa.dev/blog/react-accessible-tree-view/",
+      "summary": "Tree View は階層構造を効率よく操作できる一方、ARIA ロールを付けるだけではアクセシブルになりません。WAI-ARIA APG を参考に、roving tabindex、矢印キー、選択、文字検索を備えた単一選択の Tree View を React で実装する方法を紹介します Tree ...",
+      "published": "2026-08-19T03:42:26Z",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d99798405a77db356da0ebf1c34b5bfc",
+      "title": "[アップデート] Kiro IDE の Agent Focus モードでセッションのピン留めと Cloud Sessions が使えるようになったので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-agentfocus-pinning-cloudsession/",
+      "summary": "Kiro IDEのAgent Focus モードに追加された「セッションのピン留め機能」と「Cloud Sessions プレビュー」について試してみました。複数プロジェクトを並列実行する際、重要なセッションを見失わないようにする工夫と、IDE からクラウドセッションも管理できるようになった改善をご...",
+      "published": "Wed, 19 Aug 2026 21:43:30 GMT",
+      "fetched_at": "2026-08-19T22:15:54.999273+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-19T20:17:32.653673+00:00"
+  "updated_at": "2026-08-19T22:15:54.999273+00:00"
 }

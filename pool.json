@@ -979,7 +979,167 @@
       "fetched_at": "2026-08-19T08:26:26.049431+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "8e9cb92357f694a2a8a6ecd4940760b9",
+      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale | Claude by Anthropic",
+      "link": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "published": "19 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68dc144c80d1aa0344812e07bb8d07f3",
+      "title": "What can you do with OpenTelemetry entity events? | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/consuming-opentelemetry-entity-events/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 What can you do with OpenTelemetry entity events?",
+      "published": "19 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "981edf90797fb3be73424eaea1e8fdfe",
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Wed, 19 Aug 2026 02:41:50 +0000",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ee71affe270863caf2e57ed4da7bfb8",
+      "title": "時相論理の形式仕様の Quint を使って、denoland/celld の二重 writer バグを見つけた",
+      "link": "https://zenn.dev/mizchi/articles/quint-application-modeling",
+      "summary": "本記事は、AIに分散システムのバグを探させて、そのレポートを自分が理解できるように整形させたものです。 実際に見つかったバグは以下の Issues で、現在修正済みです。 これをどうやって見つけたのか、それを解説します。 ただし、形式仕様によるバグ検査は2026/08現在 Claude/ChatGP...",
+      "published": "2026-08-19T08:27:36Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e6df9f8b0db1a112baaaafa1dee6c2b",
+      "title": "オードリー・タンが警鐘 AIを「親友」にしてはいけない",
+      "link": "https://business.nikkei.com/atcl/gen/19/00711/081300039/",
+      "summary": "",
+      "published": "2026-08-18T22:12:24Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73dda7aa8a2d45e3b986405b6d62e7df",
+      "title": "ヤマハ、保育園の「お散歩カー」を電動アシスト化",
+      "link": "https://www.watch.impress.co.jp/docs/news/2133795.html",
+      "summary": "",
+      "published": "2026-08-19T03:51:57Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33bd85afaf6e1d661bc73b4198538250",
+      "title": "Claude Codeに見せない技術: AIに入力できないデータを分析する",
+      "link": "https://zenn.dev/green_tea/articles/a994964786cb4f",
+      "summary": "Claude Codeは更新が速く、設定キーやフックの仕様は変わり得ます。導入時は公式ドキュメントで最新仕様を確認し、記事後半の「すり抜けテスト」で動作検証をしてから運用してください。本記事の記述は2026年8月時点のドキュメントに基づいています。 要点 状況設定: AIを使って分析コードは書きたい...",
+      "published": "2026-08-19T05:47:59Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "71ad77292eeb8acab26be764f25f6160",
+      "title": "AI研究者が警告する「人類滅亡」 SFと笑えない、予測超えた現実：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASV8L3GYQV8LUHBI00TM.html",
+      "summary": "AI（人工知能）が急激に賢さを増している。 このままいくと、自ら進化を繰り返す「知能爆発」が起き、人類の制御を超えた「超知能」が誕生するとされる。 待っているのはどんな未来か。 それは今から数年の間…",
+      "published": "2026-08-19T03:11:35Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f9be2c2e4b767ce060f490692e2db36f",
+      "title": "氏名・住所など16万人分漏えい 学生向けPC販売サイト、不正アクセスの影響判明 明大・帝京など利用",
+      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000625/",
+      "summary": "加賀ソルネット（東京都中央区）は8月17日、同社が運営する学生向けPC販売サイト「アカデミコナビ」が不正アクセスを受けた問題で、16万5587人分の情報漏えいを確認したと発表した。7月の初報では最大約17万件に漏えいの可能性があるとしており、外部専門機関による調査で対象範囲が確定した。 漏えいしたの...",
+      "published": "2026-08-19T07:08:17Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "891f433e9dd8e3b5be25a2f1f88359c2",
+      "title": "Git at any scale · Cursor",
+      "link": "https://cursor.com/blog/git-at-any-scale",
+      "summary": "Hosting Git repositories at scale is a nightmare. When Linus Torvalds designed the first version of the information manager from hell (that's actually...",
+      "published": "2026-08-18T17:42:29Z",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a728c1865cb6c08ed88246caffe530f",
+      "title": "Amazon Bedrockで利用可能になったxAIのGrok 4.6を試してみた",
+      "link": "https://dev.classmethod.jp/articles/grok-4-6-amazon-bedrock-mantle-iam/",
+      "summary": "Amazon BedrockでxAIのGrok 4.6が利用可能になりました。本記事ではIAM認証で短期Bearer Tokenを取得し、bedrock-mantleエンドポイント経由でOpenAI互換のChat CompletionsとResponses、および画像入力を試しました。",
+      "published": "Wed, 19 Aug 2026 10:03:33 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "13b9e278793210c0d3fe1663cc726130",
+      "title": "【Amazon Connect】エラー時の発信者番号をメール通知してみた（シンプル版）",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-error-notification-system-simple/",
+      "summary": "Amazon Connectのエラー発生時に、発信者番号などのコンタクト属性をメール通知する方法をご紹介します。EventBridgeとSNSを組み合わせたシンプルな実装方法を試してみました。",
+      "published": "Wed, 19 Aug 2026 09:49:51 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d72200ea667f3b2505b1b2eab1619004",
+      "title": "生成AI（Claude）で作る、顧客体験にこだわったLINEチャットボットの設計",
+      "link": "https://dev.classmethod.jp/articles/customer-experience-line-chatbot-claude/",
+      "summary": "顧客体験にこだわったLINEチャットボットを設計しデモを実装したので動くデモで紹介します。生成AIのモデルにはClaude Sonnet5を利用しています。",
+      "published": "Wed, 19 Aug 2026 09:45:05 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "21df4714529d3fcf7c279593a1e2db7c",
+      "title": "GitHub ActionsとDiscord Webhookで定期通知システムを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/github-actions-discord-webhook-notification/",
+      "summary": "GitHub ActionsとDiscord Webhookを組み合わせて、サーバーレスで定期通知システムを作ってみました。",
+      "published": "Wed, 19 Aug 2026 09:32:05 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "40ae1464c7ac9665bb2e95896b13904a",
+      "title": "Zendesk による API トークン認証の廃止予告について - 影響範囲の調べ方と OAuth 移行を試してみた",
+      "link": "https://dev.classmethod.jp/articles/zendesk-api-token-eol-oauth-migration/",
+      "summary": "Zendesk が API トークンによる API 認証を廃止し、2027 年 4 月 30 日にすべての API トークンが停止します。自社が影響を受けるかの調べ方と、クライアントクレデンシャルフローで OAuth へ移行する手順を検証環境で確かめました。",
+      "published": "Wed, 19 Aug 2026 08:54:12 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c440fbaa8e0ccf614502534e6c0cbf9",
+      "title": "【Amazon Connect】Check queue status と Transfer to Queue ブロックの Capacity の挙動について",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-capacity-queue-status/",
+      "summary": "`Check queue status`と`Transfer to Queue`の`Capacity`ロジックの違いを理解して、待機顧客数に応じた処理分岐の実装方法をご紹介します。",
+      "published": "Wed, 19 Aug 2026 08:43:25 GMT",
+      "fetched_at": "2026-08-19T10:20:02.633068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-19T08:26:26.049431+00:00"
+  "updated_at": "2026-08-19T10:20:02.633068+00:00"
 }

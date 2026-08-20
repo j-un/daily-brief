@@ -1,316 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "81314cfb93cbef9d53710ce4eb79945d",
-      "title": "Amazon CloudWatch Alarms now supports wall clock evaluation windows - AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-alarms-wallclock-evaluation/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon CloudWatch Alarms now supports wall clock evaluation windows",
-      "published": "19 Aug 2026 05:56 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4f28017f1be535644c5e485ba5d39f81",
-      "title": "TDD inside the agent loop - theater or actual value?",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TDD inside the agent loop - theater or actual value?",
-      "published": "18 Aug 2026 02:56 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "45a03afc6e974b34b3cb94b80ba275cc",
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "summary": "Article URL: https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco Comments URL: https://news.ycombinat...",
-      "published": "Wed, 19 Aug 2026 02:24:34 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a9b1033216276b8093a2633ca7420ccb",
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "link": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c1l1r1zne1ro Comments URL: https://news.ycombinator.com/item?id=49355105 Points: 131 # Comments: 79",
-      "published": "Wed, 19 Aug 2026 00:48:23 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "0973141d0be23e951bcd5fb14aa833ad",
-      "title": "Solo – a .so loader for static Linux binaries",
-      "link": "https://github.com/pg83/solo",
-      "summary": "Article URL: https://github.com/pg83/solo Comments URL: https://news.ycombinator.com/item?id=49354613 Points: 102 # Comments: 85",
-      "published": "Tue, 18 Aug 2026 23:51:49 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "02feece02355937678d48c4314d966c8",
-      "title": "AWS Certificate Manager の ACME サポートで証明書の発行と更新を自動化",
-      "link": "https://aws.amazon.com/jp/blogs/news/automate-certificates-with-acme-support-in-aws-certificate-manager/",
-      "summary": "AWS Certificate Manager (ACM) の ACME プロトコルサポートについて紹介します。CA/Browser Forum の方針により証明書の有効期間が段階的に短縮される中、certbot や cert-manager などの使い慣れた ACME クライアントで、オンプレミス...",
-      "published": "Wed, 19 Aug 2026 05:34:37 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "e7aa2399402e972228040c595a4b3dab",
-      "title": "Security Hub Extended が 10 番目のカテゴリとしてサプライチェーンセキュリティを追加",
-      "link": "https://aws.amazon.com/jp/blogs/news/security-hub-extended-adds-supply-chain-security-as-its-tenth-category/",
-      "summary": "AWS Security Hub Extended に 10 番目のカテゴリとしてサプライチェーンセキュリティが加わりました。厳選されたパートナーである Chainguard と Socket により、オープンソースの依存関係の来歴検証と悪意あるパッケージのブロックを実現します。検出結果は OCSF...",
-      "published": "Wed, 19 Aug 2026 05:31:52 +0000",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "d9c2e82f979492159e035ac8ac8cb693",
-      "title": "Amazon Bedrock now supports SpaceXAI Grok 4.6",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/",
-      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.6, SpaceXAI's latest flagship model built for long-running agents and ambitious interactive and visual wor...",
-      "published": "Wed, 19 Aug 2026 05:18:00 GMT",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "0538900928d15e9d2dc6ee456b9a729d",
-      "title": "フードデリバリーサービス「menu」の提供終了およびmenu株式会社の解散・清算について | KDDI ニュースルーム",
-      "link": "https://newsroom.kddi.com/news/detail/kddi_nr_s-75_4679.html",
-      "summary": "KDDI株式会社 KDDIは、子会社であるmenu株式会社（以下 menu）が提供するフードデリバリーサービス「menu」の提供を終了し、menuを解散および清算することを決定しました。 サービス終了に伴う関係の皆さまへの対応や各種手続につきましては、影響を十分に考慮しながら順次進めていきます。 K...",
-      "published": "2026-08-19T04:08:09Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "eb27cfb07899c9f6314abc7267d9e8d8",
-      "title": "Claude Codeを作る会社に入った男は、筑波大を2留していた｜Zun-Beho",
-      "link": "https://note.com/akikito/n/n11c101e30968",
-      "summary": "サンフランシスコにあるJavaScriptランタイム企業のオフィスの入口に、ピカチュウが立っている。 2025年8月、そのオフィスに数日間滞在した日本人エンジニアが、自分のブログに写真を上げている。キャプションはたった一行だ。 Bunのオフィスの入り口、ピカチュウもいる 同じ日、社員のひとりがXに投...",
-      "published": "2026-08-19T04:02:32Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "69e4706524edca586b6967fe5ef26284",
-      "title": "ヤマハ発動機系、保育園向け「電動アシストお散歩カー」開発 保育士「従来の10％の力で動かせた」",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000609/",
-      "summary": "ヤマハ発動機は、グループ会社ヤマハモーターエンジニアリング（YEC）が、保育園向けお散歩カーの最大手・五十畑工業と共同で、保育園で複数の園児を乗せるための電動カート「避難車兼用電動アシストお散歩カー“てくてくスワニー”」を開発したと8月18日に発表した。 消防業界向けに培った電動アシスト技術を保育分...",
-      "published": "2026-08-19T01:27:17Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "ccce5b4bb5a99b79bd6852b7a960cde4",
-      "title": "フードデリバリー「menu」サービス終了 会社は解散",
-      "link": "https://www.watch.impress.co.jp/docs/news/2133835.html",
-      "summary": "",
-      "published": "2026-08-19T04:58:42Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "10973fd2a5753a948cfc3155b31a31bd",
-      "title": "株式会社フーディソン",
-      "link": "https://www.ruby.or.jp/ja/showcase/case99",
-      "summary": "鮮魚流通のDXで生鮮流通に新しい循環を。 複雑な水産ドメインとハードウェア制御を支えるRubyの柔軟性と生産性 株式会社フーディソンは、「生鮮流通に新しい循環を」をビジョンに掲げ、飲食店向け生鮮品仕入れECサービス『魚ポチ』を展開するIT企業だ。 創業以来、電話やFAXを中心としたアナログな商習慣が...",
-      "published": "2026-08-19T01:05:56Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bb0224d52f1fe756da776896a221ef3e",
-      "title": "Incident with GitHub.com",
-      "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "summary": "Aug 17, 21:15 UTC Resolved - On August 17, 2026, from 13:28–21:15 UTC (7h 47m), GitHub.com experienced elevated errors and latency across Issues, Pull...",
-      "published": "2026-08-18T23:12:16Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "c9138ca063e84f2b775c2e97fd43e7fc",
-      "title": "BingeBrowse — your streaming services, restocked as a video store",
-      "link": "https://bingebrowse.net/",
-      "summary": "BingeBrowse, formerly BingeBuster, turns your streaming subscriptions into a walkable 3D video store. Browse real covers by genre, inspect a case, wat...",
-      "published": "2026-08-16T04:18:58Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bd4efb65cc41d31c17780cc769821b6c",
-      "title": "claude-cookbooks/cost_optimization/cost_optimization.ipynb at main · anthropics/claude-cookbooks",
-      "link": "https://github.com/anthropics/claude-cookbooks/blob/main/cost_optimization/cost_optimization.ipynb",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
-      "published": "2026-08-18T20:51:13Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "c42f71c0525ca45b00e0c851a8611789",
-      "title": "エミン・ユルマズ氏「AIバブルが『リーマン型崩壊』に至る懸念」 - 日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUB178SR0X10C26A8000000/",
-      "summary": "Q : キオクシアホールディングスの株価は、6月下旬の11万円台から7月下旬には一時4万円割れまで急落しました。人工知能（AI）関連株の今後をどう見ますか。韓国総合株価指数（KOSPI）も6月の9000ポイント台から、わずか1カ月で一時5000ポイント台まで急落しました。メモリー価格高騰を材料とした...",
-      "published": "2026-08-18T20:57:14Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "7c65ebdd40704845ec7b6ed73a34a4dd",
-      "title": "フードデリバリー「menu」終了へ 「持続的なサービス提供が困難」 9月末まで",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000620/",
-      "summary": "menu社（東京都新宿区）は8月19日、フードデリバリー・テイクアウトサービス「menu」を9月30日に終了すると発表した。事業環境の変化に伴い「今後の持続的なサービス提供が困難であると判断し終了を決断した」（menu社）という。",
-      "published": "2026-08-19T05:04:29Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "ec91293bec15ce674da4e7b4106fb325",
-      "title": "東京・環七地下の巨大河川、ポンプ使わずサイホン方式で東京湾へ放流",
-      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00529/",
-      "summary": "東京都建設局は環状7号などの地下に整備する延長約30kmの巨大河川について、洪水時にポンプを使わず、サイホンの原理で東京湾に雨水を放流する方式とする方針を固めた。内径12.5mの圧力管を敷設し、最大で1秒当たり570m3放流する考えだ。今後、水理模型実験や数値シミュレーションを実施し、具体的な計画を...",
-      "published": "2026-08-19T04:27:38Z",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "20324b10ea2c992356b1f4b6247341d7",
-      "title": "Auto Scaling グループのスタンバイを利用した EC2 停止→起動の手順を確認してみた",
-      "link": "https://dev.classmethod.jp/articles/asg-standby/",
-      "summary": "Auto Scaling グループのインスタンスをスタンバイから復旧する際、操作の順序を誤ると意図しない新規インスタンスが起動されてしまう場合があります。今回、この挙動を実際に検証し、正しい復旧手順をご紹介します。",
-      "published": "Wed, 19 Aug 2026 06:04:29 GMT",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "da7f74bdcf9644a2d3785cfd7df7277b",
-      "title": "Claude Code v2.1.235 の主要アップデート - spellcheck 設定の追加と許可まわりのセキュリティ修正",
-      "link": "https://dev.classmethod.jp/articles/20260819-cc-updates-v2-1-235/",
-      "summary": "Claude Code v2.1.235のリリースでは、セキュリティ修正と足回りの改善が中心になりました。許可プロンプト周りの問題解決や、バックグラウンド実行時のリソース改善など、実用性に直結するアップデート内容を紹介します。許可プロンプトの Shift+Tab の挙動を確かめました。",
-      "published": "Wed, 19 Aug 2026 05:56:57 GMT",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "11ba1e4dacc0b00b161463369863ed70",
-      "title": "Amazon Connect Customerでコンタクトセンターの運用状況を自然言語で確認できるマネージャー支援機能がプレビュー提供されました",
-      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-ai-manager-assistance-preview/",
-      "summary": "Amazon Connect Customerの新機能「Connect アシスタント」がプレビューリリースされました。AI活用したマネージャー支援機能の実際の動作を、管理画面での検証をもとに紹介します。",
-      "published": "Wed, 19 Aug 2026 05:39:09 GMT",
-      "fetched_at": "2026-08-19T06:29:15.741669+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "21c30130dd1e81d470e7230ee7331800",
-      "title": "How well do job retraining programs work? \\ Anthropic",
-      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How well do job retraining programs work?",
-      "published": "19 Aug 2026 06:56 +0000",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3b95f2f52721393653ec94082e59d8f4",
-      "title": "AI usage patterns in software teams",
-      "link": "https://linear.app/data",
-      "summary": "Article URL: https://linear.app/data Comments URL: https://news.ycombinator.com/item?id=49353432 Points: 130 # Comments: 66",
-      "published": "Tue, 18 Aug 2026 22:08:07 +0000",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4d4ce8ff4bf756b5228a22501914582f",
-      "title": "当社システムへの不正アクセスに関するお知らせ（第二報） | さくらインターネット",
-      "link": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/19/1968225633/",
-      "summary": "2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」に関して、調査を継続しておりましたところ、新たに判明した事項がありますのでお知らせいたします。 このたびは、お客さま、お取引先、パートナー企業その他関係者の皆さまに、多大なるご心配とご迷惑をおかけし...",
-      "published": "2026-08-19T06:43:19Z",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "81355814f8972eab8a85ac11395ff391",
-      "title": "道徳問う「トロッコ問題」、AIの反論で3割が判断覆す 神戸大が実験 - 日本経済新聞",
-      "link": "https://www.nikkei.com/article/DGXZQOUF184C90Y6A810C2000000/",
-      "summary": "神戸大学の研究グループは明確な正解がない道徳問題に生成AI（人工知能）がどの程度人間の心理に影響するか調べる実験をした。回答した後に生成AIが反論すると3割以上の人が判断を覆していた。研究を実施した神戸大の増本康平教授は「生成AIの反論が人の道徳的判断に無視できない影響を及ぼしうることが示された」と...",
-      "published": "2026-08-19T06:47:32Z",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "018e0d1d047d6622163b04ee568643d4",
-      "title": "AIエージェントによるジム予約システムの不具合利用についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/19/101739",
-      "summary": "豪州のAI企業に勤務する技術者は、AIエージェントにジムのクラス予約を任せたところ、エージェントが予約システムのAPIに認可の不備を発見し、他の利用者の予約を無断で取り消して自身の待機順位を繰り上げていたことが、2026年8月10日の報道で明らかになりました。豪州信号局(ASD)は本事案を名指しした...",
-      "published": "2026-08-19T01:50:06Z",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "3dc3190f8be3292155eedeba1c9b7ce0",
-      "title": "Strands Agents と Bedrock Guardrails を連携してAIエージェントにガードレールを適用する - Taste of Tech Topics",
-      "link": "https://acro-engineer.hatenablog.com/entry/2026/08/19/120000",
-      "summary": "こんにちは。大橋です。 先週は、お盆休みを活かして、4年前に家族旅行で訪れて以来、久しぶりに思い入れのある鎌倉に行ってきました！ 思ったほど暑くはなく、海沿いを歩きながら、心地よい潮風を感じてきました。 さて、生成AIを利用したアプリケーションでは、ユーザーから不適切な内容が入力されたり、モデルが意...",
-      "published": "2026-08-19T04:17:54Z",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "661aa19bb439c65e48ef82d70032380e",
-      "title": "「Ｘ＜Ｙ」になる、 「Ｘの次に大きいＹ」の用例 - メモ 2013.10.10～",
-      "link": "https://kumiyama-memo.hatenablog.com/entry/2019/07/27/223800",
-      "summary": "３か月近く前のことになりますが (2019年５月７日) 、ツイッターに投稿された、あるアンケートが大きな話題になりました。身長の異なるＡ～Ｅの５人がいるという想定のもとで、「Ｃの次に背が高い人」が誰になるかを尋ねたものです (上図参照) 。 https://twitter.com/hedalu244...",
-      "published": "2020-11-01T15:00:44Z",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5e8bde08d127db034a8440d2bb7b17ba",
-      "title": "Claude 팀 및 엔터프라이즈 플랜에서 멤버 초대의 주의점에 대해 알아보자!",
-      "link": "https://dev.classmethod.jp/articles/keum-claude-member-invite/",
-      "summary": "Claude 팀 및 엔터프라이즈 플랜에서 멤버 초대의 주의점",
-      "published": "Wed, 19 Aug 2026 08:01:53 GMT",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "b6b7000c3d77a77c8d2efddc06be57df",
-      "title": "Native Instruments’ SuperStarSaw is A. G. Cook’s way of showing you the power of a simple saw wave",
-      "link": "https://musictech.com/reviews/software-instruments/native-instruments-superstarsaw-review/?utm_source=rss&utm_medium=rss&utm_campaign=native-instruments-superstarsaw-review",
-      "summary": "“Each time I load it up, I end up with a patch worth building a track around within minutes. For many, that creative spark is worth the £90 asking pri...",
-      "published": "Wed, 19 Aug 2026 08:05:28 +0000",
-      "fetched_at": "2026-08-19T08:26:26.049431+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
       "entry_id": "8e9cb92357f694a2a8a6ecd4940760b9",
       "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale | Claude by Anthropic",
       "link": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
@@ -2389,7 +2079,117 @@
       "fetched_at": "2026-08-20T10:20:58.250353+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "6b18ab132e0529cb2fdad18414c8be8f",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/anthropic-claude-text-watermark/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Anthropic’s watermark survives copy-paste, but not the real dev workflow",
+      "published": "20 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "936a2e559e7cd27a746e7a9cd6c043a0",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps - The GitHub Blog",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How to bring your software delivery workflow into GitHub with agent apps",
+      "published": "20 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d38f47f0c0db0464e41c57d6c1e48bf",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "summary": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html Comments URL: https://news.ycombinator.com/item?id=4937258...",
+      "published": "Thu, 20 Aug 2026 10:08:52 +0000",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c025ff40a8b3c02abbf31969a09fee90",
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "link": "https://os8088.com/spotlight/",
+      "summary": "Article URL: https://os8088.com/spotlight/ Comments URL: https://news.ycombinator.com/item?id=49367256 Points: 101 # Comments: 46",
+      "published": "Wed, 19 Aug 2026 21:11:31 +0000",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a03a975440f3757299790fb122c6adc",
+      "title": "総メモリ748GB、AI性能20PFLOPS！ デルがGB300搭載のワークステーション「Dell Pro Max with GB300」を発売",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/20/news088.html",
+      "summary": "デル・テクノロジーズは8月20日、NVIDIA GB300 Grace Blackwell Ultra Superchip（NVIDIA GB300）を搭載するデスクトップワークステーション「Dell Pro Max with GB300」を発売した。記事掲載時点では、同社のECサイトでは売り切れ状...",
+      "published": "2026-08-20T08:27:19Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f73ff87847e5f97c82eea5632d5269ae",
+      "title": "GitHub - yjs/yjs: Shared data types for building collaborative software",
+      "link": "https://github.com/yjs/yjs",
+      "summary": "Support Contract with the Maintainer - By contributing financially to the open-source Yjs project, you can receive professional support directly from ...",
+      "published": "2017-11-19T23:59:46Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a08fc3fc1e1e04dd9cad36f1fca1e5b0",
+      "title": "中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから",
+      "link": "https://www.itmedia.co.jp/news/article/2608/20/2000000643/",
+      "summary": "中国の動画共有サービス「bilibili」は8月19日、グローバル版アプリの提供を開始したと公式Xアカウントで発表した。配信しているのはAndroid版のみで、日本のGoogle Playからもダウンロードできる。iOS版は近日中に提供する予定だ。",
+      "published": "2026-08-20T04:10:54Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "66c9397359460d6959fbc17d7539f980",
+      "title": "[石野純也の「スマホとお金」] Pixel 11シリーズ全4モデルの日本価格はなぜ安い――実質値下げと価格設定から見るグーグルの狙い",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2133873.html",
+      "summary": "",
+      "published": "2026-08-19T15:24:41Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6e63ebeeb042ca7eb258acc679bb461",
+      "title": "エイベックス松浦会長、noteの“バズり記事”を「ほぼAI」で作成 「僕の60年分のデータを入れた」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/",
+      "summary": "エイベックス（東京都港区）の松浦勝人会長は8月20日、13日から「note」に投稿している記事について、ほとんどAIで作成していたと自身のXアカウント（@maxmatsuuratwit）で明かした。「僕がやったのは、パスワードを入力したことくらい」と説明している。 松浦会長は、13日から「松浦勝人の...",
+      "published": "2026-08-20T05:45:03Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64eb9d9e70e0498b3558d1af9cfcb9c8",
+      "title": "「AIネイティブ」の先を見据えるメルカリ 安心・安全強化と金融の未来【鈴木淳也のPay Attention】",
+      "link": "https://www.watch.impress.co.jp/docs/series/suzukij/2133126.html",
+      "summary": "",
+      "published": "2026-08-20T02:30:48Z",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e28f622f9f7537cb933cd47bc804665b",
+      "title": "“Always in key, in time, and under your control”: Meet Lucid, a new granular effect powerhouse from Minimal Audio",
+      "link": "https://musictech.com/news/gear/minimal-audio-lucid/?utm_source=rss&utm_medium=rss&utm_campaign=minimal-audio-lucid",
+      "summary": "Add it to any audio source to rebuild it grain by grain into complex textures and soundscapes. The post “Always in key, in time, and under your contro...",
+      "published": "Thu, 20 Aug 2026 12:00:52 +0000",
+      "fetched_at": "2026-08-20T12:30:41.422636+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-20T10:20:58.250353+00:00"
+  "updated_at": "2026-08-20T12:30:41.422636+00:00"
 }

@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "605a29232b3ffdbd07269f43e3585ba1",
-      "title": "Oracle Database@AWS 移行に向けてアプリケーションの SQL*Net レイテンシーを把握する",
-      "link": "https://aws.amazon.com/jp/blogs/news/characterizing-sqlnet-latency-in-your-application-for-oracle-databaseaws-migrations/",
-      "summary": "Oracle Database@AWS への移行では、ワークロードが SQL*Net レイテンシーの増加に敏感かどうかの見極めが重要です。本記事では AWR、Active Session History、SQL Trace を使い、3 つのフェーズで感度を段階的に絞り込む CRET 手法を紹介します...",
-      "published": "Tue, 18 Aug 2026 21:54:07 +0000",
-      "fetched_at": "2026-08-18T22:13:51.729440+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "42c739a3e1a99ac680a71044b9a83ba1",
-      "title": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/",
-      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered by ...",
-      "published": "Tue, 18 Aug 2026 17:24:00 GMT",
-      "fetched_at": "2026-08-18T22:13:51.729440+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "f6c81c4a2927457790b6122a3b4c4d42",
-      "title": "エアコン「2027年問題」にらみ、中国勢が価格攻勢 8万円切る水準、日本勢も対応急ぐ",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000593/",
-      "summary": "来年4月から家庭用エアコンの省エネ基準が厳しくなり、価格アップなどが予想される「エアコン2027年問題」をにらみ、中国メーカーが日本市場に安価な製品で攻勢を強めている。新基準を満たす6畳用の機種では、TCLが8万円を切る水準で投入し、国内メーカーの標準機より数万円安い。猛暑で生活必需品となったエアコ...",
-      "published": "2026-08-18T07:03:18Z",
-      "fetched_at": "2026-08-18T22:13:51.729440+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "471c7f45e7568861b79e7a4f5ec64836",
-      "title": "[アップデート] Amazon Quick のカスタムアクセス許可管理が刷新されてプロファイル割り当てまでコンソールで完結するようになっていた",
-      "link": "https://dev.classmethod.jp/articles/quick-new-custom-permission-console/",
-      "summary": "Amazon Quickのカスタムアクセス許可管理画面が刷新されました。以前はCLIが必要だったプロファイルの割り当てがコンソール上で完結するようになり、スコープ別の優先順位も可視化されています。今回の更新内容を詳しく紹介します。",
-      "published": "Tue, 18 Aug 2026 21:49:03 GMT",
-      "fetched_at": "2026-08-18T22:13:51.729440+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
       "entry_id": "f960653b37b6553b80e5f280a8c0bf36",
       "title": "仕事の近況2026 - かみぽわーる",
       "link": "https://blog.kamipo.net/entry/2026/08/10/205129",
@@ -2239,7 +2199,177 @@
       "fetched_at": "2026-08-20T00:45:05.017801+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "e1516675ef58c40bdb29c3a9a5955788",
+      "title": "Secure all your internal vibe-coded applications — in one click | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/workers-protected-by-access/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Secure all your internal vibe-coded applications — in one click",
+      "published": "20 Aug 2026 01:56 +0000",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "002f2564aebd136aab87ed75567a2203",
+      "title": "Good apps aren’t born, they’re guided: Building observable policy as code | CNCF",
+      "link": "https://www.cncf.io/blog/2026/08/12/good-apps-arent-born-theyre-guided-building-observable-policy-as-code/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Good apps aren’t born, they’re guided: Building observable policy as code",
+      "published": "20 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee80afa7e4bd8faabc0d1ca84d6c289e",
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "link": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "summary": "Article URL: https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724 Comments URL: https://news.ycombinator.c...",
+      "published": "Wed, 19 Aug 2026 23:38:22 +0000",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aad24771d9eb1980b9c6c91093808a3b",
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "summary": "Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web so...",
+      "published": "Wed, 19 Aug 2026 22:55:00 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9beaea79c4deef0534ecafcf229aac5",
+      "title": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions",
+      "summary": "AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Fran...",
+      "published": "Wed, 19 Aug 2026 16:14:00 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e31484820e1e7c02fe1fecd0051b125",
+      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, co...",
+      "published": "Wed, 12 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf53cb23e1d1a03d4036ffba1fa73411",
+      "title": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/",
+      "summary": "Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and...",
+      "published": "Mon, 10 Aug 2026 21:15:00 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbe9121f60fe7cf8cc67e368186d43aa",
+      "title": "Amazon GameLift Servers now supports 21 new EC2 instance types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/",
+      "summary": "Amazon GameLift Servers now supports 21 additional Amazon EC2 instance types for managed EC2 fleets and managed container fleets. Amazon GameLift Serv...",
+      "published": "Fri, 07 Aug 2026 08:00:00 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "808769316ddcedfda6b00e3b6c085bbd",
+      "title": "8年前のiPad Proがサクサク！最新OSアップデート後の重さを解消した「3つの設定」 | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2608-i-turned-off-3-ipad-settings-and-my-8-year-old-ipad-pro-finally-stopped-lagging/",
+      "summary": "なぜ今、この設定変更が重要なのか2018年リリースのiPad Proは最新OSにもサポートし、非常に優秀な端末です。 しかし、新しいOSはより新しいGPUや大容量のRAMに最適化されている可能性が高く、A12Xチップにはそこまでの余力が残されていません。実際、マルチタスクで作業しようとしているときに...",
+      "published": "2026-08-19T20:35:25Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7823d063d0545bf66a9aa4e7a8a6fce",
+      "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_910/",
+      "summary": "株式会社Preferred Networks LLM開発事業本部 本部長 田中大輔 2015年、株式会社Preferred Networks入社。自社IoT製品の研究開発や企業導入支援、深層学習 コンパイラ開発に従事。エンジニアリングマネージャーを経て、2022年に機械学習基盤担当 VPに就任（当時...",
+      "published": "2026-08-20T01:35:33Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b918c3f65b4fe582d1cedef49164c6ad",
+      "title": "「Claude Code」の週の制限、50％増プロモーションが8月31日まで延長／恒久化にも意欲",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2133698.html",
+      "summary": "",
+      "published": "2026-08-19T01:58:19Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c03aa330d87f3187a65a90e261f8fe7",
+      "title": "数学をやめたはずが、AIと論文を書いていた。",
+      "link": "https://haruhisa-enomoto.github.io/quotient-submodule-equidistribution-essay/ja.html",
+      "summary": "榎本悠久English version ポスドクの期限が切れた2024年3月に数学のアカデミアを離れてから、だいたい2年半ぐらい経つ。もう数学の論文を書くことはないと思っていたが、結局なぜか先日、論文をarXivへ投稿した。 この論文はいま流行りのAIと私との共同研究（？）であり、論文の本文もほぼA...",
+      "published": "2026-08-19T23:53:51Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "540b292c08cf8dfd245343fa2cfe573b",
+      "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+      "link": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+      "summary": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対...",
+      "published": "2026-08-19T21:04:00Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "193635e9551e92959b72a8d934fa68d9",
+      "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+      "link": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+      "summary": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明 Pythonライクな新言語「Mojo」の開発元であるModular社は、Mojoをオープンソースとして公開したことを、同社主催のイベント「ModCon 2026」で発表しました...",
+      "published": "2026-08-19T23:12:35Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0305aea3fd58503de1025093c73a568c",
+      "title": "Headed for the Exit: the Great Engineering Leader Career Break",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-great-engineering-leader-career-break",
+      "summary": "In my ~20 years in this industry, I’ve not seen as many capable engineering leaders opting out or taking prolonged breaks as now, with some high-ranki...",
+      "published": "2026-08-19T13:33:52Z",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb08810259ec0066606b25711a7783aa",
+      "title": "AIに任せたレガシーシステムのモダナイズで、仕様の移行漏れに気づけないのはなぜか",
+      "link": "https://dev.classmethod.jp/articles/legacy-modernization-ai-spec-gap/",
+      "summary": "AIにレガシーシステムのモダナイズを任せると、成果物は完成品に見えるのに現行にあった機能が抜けていることがあります。なぜそんなことが起きるのか、実際の移行プロジェクトで得た知見をお話しします。",
+      "published": "Thu, 20 Aug 2026 02:15:49 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3eb2ece8eb0303307732f10d636edda",
+      "title": "Amazon Connect Customerで会話から任意の情報を生成AIで自動抽出し、ACW中に確認できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-generative-ai-information-extraction/",
+      "summary": "Amazon Connect Customerの新しい情報抽出機能について、音声通話から顧客の解約理由を抽出する設定方法と実運用での活用方法を紹介します。",
+      "published": "Thu, 20 Aug 2026 01:35:41 GMT",
+      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-20T00:45:05.017801+00:00"
+  "updated_at": "2026-08-20T02:49:56.402851+00:00"
 }

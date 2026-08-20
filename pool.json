@@ -1,236 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cfd55727f9dbfce448bc36ee32b82070",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://levtech.jp/media/detail_905/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プログラミングのハードルが下がった今、SNSと「技術者倫理」という言葉について考えてみる【フォーカス】",
-      "published": "19 Aug 2026 01:56 +0000",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3afa8d27114c50e8bc20ff4481e6c876",
-      "title": "Mozillaでの10年、最短ではないキャリアと「実はすごい」Web（@yusuktan） - Findy Media | IT/Webエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出",
-      "link": "https://findy-code.io/media/articles/modoku-yusuktan-202608",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Mozillaでの10年、最短ではないキャリアと「実はすごい」Web（@yusuktan） - Findy Media",
-      "published": "19 Aug 2026 01:56 +0000",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5e540063ca9f1aa1b19424cb3776107c",
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "link": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "summary": "Article URL: https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf Comments URL: https://news.ycombinator.com/item?id=49355142 Poi...",
-      "published": "Wed, 19 Aug 2026 00:53:51 +0000",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d3ba7cf613cd310eb97498ad2d14c20d",
-      "title": "株式会社セガ、グローバル展開タイトル『ソニックランブル パーティ』を少人数チームで支える Amazon DynamoDB / Amazon ElastiCache Serverless for Valkey 活用事例",
-      "link": "https://aws.amazon.com/jp/blogs/news/sonic-rumble-party-dynamodb-elasticache/",
-      "summary": "株式会社セガが開発・運用する『ソニックランブル パーティ』のバックエンドに Amazon DynamoDB と Amazon ElastiCache Serverless for Valkey を採用した経緯・技術的な工夫・得られた効果を、開発チームの声を交えて紹介します。",
-      "published": "Wed, 19 Aug 2026 02:46:26 +0000",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "c3766d1a21cd5c3a03829f39f75d0606",
-      "title": "株式会社セガ、グローバル展開タイトル『ソニックランブル パーティ』を少人数チームで支える Amazon EKS Auto Mode × Agones 活用事例",
-      "link": "https://aws.amazon.com/jp/blogs/news/sonic-rumble-party-eks-automode-agones/",
-      "summary": "本記事では、株式会社セガが開発・運用する『ソニックランブル パーティ』の専用ゲームサーバー基盤で、ゲームサーバーのオーケストレーションに Agones を用い、その基盤に Amazon EKS (Elastic Kubernetes Service) Auto Mode を採用した経緯と効果を、お客...",
-      "published": "Wed, 19 Aug 2026 02:45:10 +0000",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "be530ba68874fdbdbaa4c9525a90e3d6",
-      "title": "CI 23分 → 11分。8.6万行のテストコードを消すまでにやったこと - 出前館 Tech Blog",
-      "link": "https://techblog.demae-can.co.jp/entry/ci-23-to-11",
-      "summary": "1. はじめに — 「テストは全部 結合テスト」だったプロジェクト 出前館で商品ドメインを扱うマイクロサービスの開発を担当している左官です。 今回は、そのマイクロサービスのチームで取り組んだ「結合テストに偏りきったテストコードを、単体テストへ移し替える」という改善についてお話しします。 CI は23...",
-      "published": "2026-08-18T15:46:17Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "c8232bd759063c808472f06f0e45c05a",
-      "title": "CTO室を解散したい - OPENLOGI TECH BLOG",
-      "link": "https://openlogi.hatenablog.com/entry/cancel-cto-office",
-      "summary": "おはこんばんちは!!尾藤 a.k.a. BTO です。私は今オープンロジで執行役員CTOをしています。 いきなり変なことを言うようですが、私は自分たちで作ったCTO室を、いつか解散したいと思っています。もちろんCTO室を解散したいのには理由がありますが、まずはこのチームがなぜ生まれて何をやっているの...",
-      "published": "2026-08-19T00:20:17Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "31fc47b53594ceef0e9a4f8bcf7aee97",
-      "title": "KDDIローミング「終了」で楽天モバイルが迎える正念場【石野純也のモバイル通信SE】",
-      "link": "https://www.watch.impress.co.jp/docs/series/ishino/2133301.html",
-      "summary": "",
-      "published": "2026-08-19T01:12:36Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "cdde254e2e69c6dd1c00d15efb7bce6c",
-      "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
-      "summary": "「対応が面倒だし、AIで営業電話をかけてくる相手と仕事したくない。手抜きをされているように感じる。印象がとても悪い」──関東圏内のアパレル事業者で働くCさん（仮名）は、勤め先にかかってくる“AI営業電話”とみられる架電にこうぼやく。 Cさんの勤め先には週に数回、人材派遣サービスやAI画像生成サービス...",
-      "published": "2026-08-18T23:38:57Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "795e6916b122e82a7db2adf5b9a7d1fa",
-      "title": "コーディングエージェントが実装するUIの品質を上げるためにやったこと",
-      "link": "https://zenn.dev/moshjp/articles/39972d023f0440",
-      "summary": "実装とデザインの乖離 Angularで構築されたフロントエンドの構成からReactへ移行する際にshadcn/uiをそのまま使うという選択をしました。 これはAngularの実装を踏襲しない(デザイン含む)という意思決定と、そのタイミングではまだリデザインが進行していなかったため、実装が先行したとい...",
-      "published": "2026-08-18T01:25:42Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "b7e88dfdfc054dcab71940bf80d56c51",
-      "title": "OSSにコントリビュートするということ 〜Rubyエコシステム開発入門ワークショップ 参加レポート〜 - giftee Tech Blog",
-      "link": "https://tech.giftee.co.jp/entry/2026/08/17/085921",
-      "summary": "はじめに こんにちは、ギフティでエンジニアをしている shimizu です。法人向け eギフトサービス giftee for Business のプロダクト開発をしています。 2026年8月5日（水）に開催された Ruby エコシステム開発入門ワークショップに参加してきました。 rubyassoci...",
-      "published": "2026-08-18T07:24:50Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "9b55d0e48b6f1a76598aa73f16d98a60",
-      "title": "「作って終わり」のAIエージェントは死ぬ - Qiita",
-      "link": "https://qiita.com/ta-ito0611/items/674a5246577f47b972d2",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに こんにちは！KDDIアイレットの...",
-      "published": "2026-08-18T01:42:56Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "b5e54ae5c506906884d0e3f62119d394",
-      "title": "生成AIで巧妙化するデマ──熊本地震で露見した「10年前にはなかった新たな手法」 識者に聞く",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000600/",
-      "summary": "2016年の熊本地震から10年という節目に同じ熊本県で発生した「令和8年熊本地震」。SNSでは発災直後から多くのデマやフェイク情報が拡散し、中には10年前には考えられなかった動きや傾向もみられた。熊本地震に関するデマ・フェイク情報リポートを発行したスペクティ（東京都千代田区）の根来諭COOに詳しい話...",
-      "published": "2026-08-18T10:04:33Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "c46b97b3a4bdd27939e229a7adbc3f66",
-      "title": "React Compiler Support",
-      "link": "https://oxc.rs/blog/2026-08-18-react-compiler-support",
-      "summary": "We are excited to announce React Compiler support in Oxlint and Oxc Transform. Oxlint now includes 22 React Compiler-powered rules that use the compil...",
-      "published": "2026-08-18T16:27:35Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "7d16f7750ada17c54f36abe221823785",
-      "title": "「Gemini」で生成した画像、動画、音楽のAI生成を示す透かし表示をON/OFF可能に／見えない電子透かしは常に有効",
-      "link": "https://forest.watch.impress.co.jp/docs/news/2133216.html",
-      "summary": "",
-      "published": "2026-08-18T22:53:39Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5747962c2636bd4c47dfe005683bac53",
-      "title": "話題の職種「FDE」、実際何をやってるの？ OpenAIの現役2人に聞いた",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000560/",
-      "summary": "「社内では『Tip of the spear』とよく言われる」――米OpenAIのForward Deployed Engineer（FDE）である齊藤初雲（さいとう しょうん）氏は、自身の役割についてこのように説明する。 Tip of the spearは、日本語の「一番槍」に似た言葉だ。戦いにお...",
-      "published": "2026-08-19T00:55:29Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "f28c5e8990f25fef452c530d41d397db",
-      "title": "ドコモ・バイクシェア障害、なぜ起きた？ 同社が原因と再発防止策を公表 返金は9月末までに",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000601/",
-      "summary": "ドコモ・バイクシェアは8月18日、同社のシェアサイクルサービスで7月末から続いたシステム障害について、原因や返金対応をまとめた報告書を公開した。障害の原因は、新システムへの移行後に利用が集中し、システムの処理能力が不足したことと説明。対象期間の利用料金は8月下旬から順次返金し、9月末までに完了する予...",
-      "published": "2026-08-18T09:51:35Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "99644e82e73686a5295258468ef6be64",
-      "title": "完全オフライン翻訳機の作り方、Googleの中の人が無料公開 | ギズモード・ジャパン",
-      "link": "https://www.gizmodo.jp/article/gemma_translator_offline_diy_translation/",
-      "summary": "自由研究、まだ手つかずだったりしません？ これで一発逆転だ。 Googleの社内クリエイティブ部門「Google Creative Lab」の3人が、Raspberry Pi 5の上でAIを丸ごと動かす音声翻訳機をつくり、その一式をGitHubに公開しました。 ネットにつながっていなくても翻訳できて...",
-      "published": "2026-08-18T03:50:16Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "671b5d29488a0b5eff205127a71c1f04",
-      "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
-      "link": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
-      "summary": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供 AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しまし...",
-      "published": "2026-08-18T14:08:49Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "6424b20d3364576f98f77296dee602f3",
-      "title": "「arrows Alpha2」はメモリー高騰下で9.4万円～、「手が届くハイエンド」を実現できた理由",
-      "link": "https://k-tai.watch.impress.co.jp/docs/news/2133662.html",
-      "summary": "",
-      "published": "2026-08-18T11:41:38Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "a210d2bb0a3dcaddc1cd4dec39d1d2ae",
-      "title": "期限切れドメインのドロップキャッチを悪用した攻撃インフラの調査についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/18/145716",
-      "summary": "Infoblox Threat Intelは2026年8月13日、期限切れドメインの再登録(ドロップキャッチ)を悪用した攻撃インフラに関する3部作のレポートを公開しました。*1 ここでは関連する情報をまとめます。 調査の概要 Infobloxの観測によれば、2026年上半期において、gTLDのみでも...",
-      "published": "2026-08-18T12:43:43Z",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5132fbec5eacd8f348b4b776416846ab",
-      "title": "【PostgreSQL】superuser_reserved_connections による一般ユーザーとスーパーユーザーの接続数上限の違いを検証してみた",
-      "link": "https://dev.classmethod.jp/articles/postgresql-superuser-reserved-connections-limit/",
-      "summary": "PostgreSQL の `superuser_reserved_connections` パラメータについて、実際に一般ユーザーと superuser で接続を埋めて、接続数の制限がどのように機能するのか確認してみました。",
-      "published": "Wed, 19 Aug 2026 01:18:49 GMT",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "a998cfcc87216465fa4c48e0d70f442a",
-      "title": "Amazon Connect Customer AIエージェントの手動検索からフローモジュールを呼び出し、Lambda で予約情報を検索してみた",
-      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-ai-agent-flow-module-lambda-reservation/",
-      "summary": "Amazon Connect Customer AIエージェントのフローモジュールツールを使い、オペレーターが顧客情報からLambda関数経由で予約情報を確認する構成を試しました。セキュリティプロファイルの設定ポイントも含めて紹介します。",
-      "published": "Wed, 19 Aug 2026 01:01:17 GMT",
-      "fetched_at": "2026-08-19T02:50:10.875588+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
       "entry_id": "f52174f948cf1e89f13b3cf7edee917e",
       "title": "AWS Certificate Manager supports switching from e-mail to DNS validation - AWS",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch/",
@@ -2539,7 +2309,167 @@
       "fetched_at": "2026-08-20T06:30:51.739391+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "b93e7e1955e8beacf26572a14ddd86f7",
+      "title": "How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To | Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To",
+      "published": "20 Aug 2026 06:56 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a1a6c3f2e2ff54e7c7736876c8ff844",
+      "title": "Vercel Security Checkpoint",
+      "link": "https://www.hashicorp.com/ja/blog/packer-v1160-brings-verifiable-provenance-to-machine-images",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Packer v1.16.0 brings verifiable provenance to machine images",
+      "published": "20 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b79ff28b087a3fde7f2c54bd4884180",
+      "title": "Windows brings out the Rorschach test in everyone",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803 Comments URL: https://news.ycombinator.com/item?id=49371006 Points: 105 #...",
+      "published": "Thu, 20 Aug 2026 06:16:40 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4511733c95cefc231e9d64b41a02d762",
+      "title": "PKUTECH が Amazon Bedrock を活用して実現した AI-CSPM「Egeria-Security」のセキュアな設計",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-pkutech/",
+      "summary": "本ブログは 株式会社 PKUTECH と Amazon Web Services Japan 合同会社が共同で […]",
+      "published": "Thu, 20 Aug 2026 08:27:24 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f097e0be2294054ed4d992f939f9f2e",
+      "title": "開発中: ベルリン、ハイデラバード、サンパウロの AWS Builder Lofts",
+      "link": "https://aws.amazon.com/jp/blogs/news/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/",
+      "summary": "クラウドコンピューティングの初期の頃、AWS は世界中の都市で AWS Pop-up Lofts と呼ばれる物 […]",
+      "published": "Thu, 20 Aug 2026 08:24:55 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6baebe7ce34f3b939be86f2630e4ad0f",
+      "title": "AWS Weekly Roundup: EC2 アプリケーションステータスチェック、IAM ロールマネージャー、OpenAI Daybreak on Bedrock など (2026 年 8 月 17 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/",
+      "summary": "2026 年8 月 10 日週、OpenSearch と Valkey のチームはソウルを訪問し、Open S […]",
+      "published": "Thu, 20 Aug 2026 07:56:31 +0000",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c4a037ce6db0a550fee433b9ceb9192",
+      "title": "Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/",
+      "summary": "Amazon CloudWatch pipelines now includes three new processors that parse and enrich log data as it's ingested: an Amazon RDS log parser, an XML parser...",
+      "published": "Wed, 19 Aug 2026 20:13:00 GMT",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "04a202f8ac9fec620cb6f80f765c7416",
+      "title": "はてな、創業25周年を迎えた節目に新サービス「はてなパークス」を正式リリース - プレスリリース - 株式会社はてな",
+      "link": "https://hatena.co.jp/press/release/entry/2026/08/20/163000",
+      "summary": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、本日2026年8月20日、ディスカッションフォーラム「はてなパークス」を正式リリースしました。2026年5月26日より事前登録ユーザーを対象に提供していたクローズドベータを経て、本日よりはてなIDをお持ちのすべてのユーザーにご利...",
+      "published": "2026-08-20T07:33:11Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e94b881ee98535b9d5f64133fd8d8dbd",
+      "title": "はてなパークス",
+      "link": "https://p.hatena.ne.jp/",
+      "summary": "はてなパークスは只今メンテナンス中です。 ご迷惑をおかけしますが、しばらくお待ちください。 メンテナンス終了は 2026年8月20日 16:00 ごろを予定しています。",
+      "published": "2026-08-18T07:43:27Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b826c807fd0e0175449632e013a01958",
+      "title": "ディスカッションフォーラム「はてなパークス」を公開しました - はてなパークス開発ブログ",
+      "link": "https://hatenaparks.hatenastaff.com/entry/release",
+      "summary": "本日、ディスカッションフォーラム「はてなパークス」を公開しました。 マンガ・アニメ・小説・ゲーム・音楽・スポーツ・旅行などの趣味/カルチャーから、技術・生活・仕事・経済などにまつわる自身の体験について、意見を共有・交換するディスカッションフォーラムです。5月下旬よりクローズドベータサービスとして提供...",
+      "published": "2026-08-20T07:28:01Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b600233a2944383a2840b1f93d09d241",
+      "title": "社会問題に声を上げると「他責思考だ」と非難される現象について - にげにげ日記",
+      "link": "https://nigenige110.hatenablog.jp/entry/2026/08/20/122011",
+      "summary": "LINEマンガのコメント欄のスクリーンショット。「あなたの言動は他責思考です。自分は優しくされるべきで、寝ているだけでお金をたくさんもらうべきで、差別する社会が悪いのです。働かずども生きていける日本社会に感謝してみたら、体調良くなるのでは？」と書かれている。 精神障害やLGBTQなどをテーマに描いて...",
+      "published": "2026-08-20T04:29:38Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6d58ddc2d017268fe49d1cc7429f263",
+      "title": "はてなパークス開発ブログ",
+      "link": "https://hatenaparks.hatenastaff.com/",
+      "summary": "本日、ディスカッションフォーラム「はてなパークス」を公開しました。 マンガ・アニメ・小説・ゲーム・音楽・スポーツ・旅行などの趣味/カルチャーから、技術・生活・仕事・経済などにまつわる自身の体験について、意見を共有・交換するディスカッションフォーラムです。5月下旬よりクローズドベータサービスとして提供...",
+      "published": "2026-08-20T07:27:50Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f944033bd1972fcd85df99b672ab5e4",
+      "title": "AIっぽい営業コンテンツで半数が離脱 受容と拒否の境界線 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/103028",
+      "summary": "営業用の動画や読み物媒体をAIで作った場合、どれだけの効果が見込めるのだろうか。いやその前に、AIに作らせたコンテンツは、はたしてどれほど受け入れられるのか。ある調査から、意外なことがわかった。 エンジニアプラットフォーム事業などを展開するTWOSTONE&Sons（ツーストーンアンドサンズ）は、B...",
+      "published": "2026-08-20T02:55:41Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf4f3bd82f8413ab7dd516a86e3a5174",
+      "title": "インディーゲーム開発者にお金は出して口は出さない、支援集団COREBLAZERが日本の開発者パートナーを探しているらしい。何が狙い？どういうリスクがある？訊いた - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/coreb-20260820-461301/",
+      "summary": "『アークナイツ』が多くの方に受け入れてもらえた大きな理由のひとつは、やはりコンテンツそのものの力だと思います。自分自身が良いコンテンツによって成長してきたからこそ、ゲーム業界で長期的な価値を生むのは最終的に作品とそれを作り続ける人たちだと信じています。……なのでCOREBLAZERを単純に投資会社と...",
+      "published": "2026-08-20T05:17:38Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1372407951078e9c3fcc36944570093",
+      "title": "Rebuilding Linear’s delta sync read path",
+      "link": "https://linear.app/now/rebuilding-delta-sync-read-path",
+      "summary": "Linear is a local-first application. Each client maintains a local database so that creating an issue, changing its status, or navigating a workspace ...",
+      "published": "2026-08-18T17:41:38Z",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b79e45b8738d942b7fa123c86699aed2",
+      "title": "DGX Spark に NemoHermes を常駐させて Slack から呼べるチームアシスタントを作る",
+      "link": "https://dev.classmethod.jp/articles/reona-01-dgx-spark-nemohermes-slack-agent/",
+      "summary": "Slack から呼び出せる常駐 AI エージェントを DGX Spark に構築しました。NemoClaw と NemoHermes を使って、セキュアな sandbox 環境でエージェントを動かし、ネットワークポリシーで細かく制御するところまでを試してみます。",
+      "published": "Thu, 20 Aug 2026 08:04:52 GMT",
+      "fetched_at": "2026-08-20T08:27:53.234191+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-20T06:30:51.739391+00:00"
+  "updated_at": "2026-08-20T08:27:53.234191+00:00"
 }

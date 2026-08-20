@@ -1,386 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ebb415ea6b464087a7e4f7a7a9c4697f",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://cloud.google.com/blog/products/identity-security/pqc-in-plaintext-google-clouds-post-quantum-cryptography-roadmap/?hl=en",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PQC in Plaintext: Google Cloud’s post-quantum cryptography roadmap",
-      "published": "19 Aug 2026 10:56 +0000",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3efdd3b405e640ba81e9104b8468e6e2",
-      "title": "Maximizing the value of your Claude Code sessions | Claude by Anthropic",
-      "link": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Maximizing the value of your Claude Code sessions",
-      "published": "19 Aug 2026 10:56 +0000",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "d6e05a3773a37737e0f0b626427fbdc3",
-      "title": "Agentic AI でつなぐモノ・サービスの改善サイクル 〜 蓄積する運用フェーズのデータを Amazon Quick で次の開発に活用する方法を学ぼう",
-      "link": "https://aws.amazon.com/jp/blogs/news/smart-products-ai-sdlc-operation/",
-      "summary": "モノやサービスが生まれる現場では、開発から運用に至るさまざまなフェーズで、日々多くのデータが生まれています。か […]",
-      "published": "Wed, 19 Aug 2026 12:03:50 +0000",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "Amazon Web Services ブログ",
-      "category": "main"
-    },
-    {
-      "entry_id": "f8a9d1d57692abe0b06dd7fbcdf14b8f",
-      "title": "さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性",
-      "link": "https://internet.watch.impress.co.jp/docs/news/2133984.html",
-      "summary": "",
-      "published": "2026-08-19T08:47:25Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "883893aeb46df7a9094c32e6619d065b",
-      "title": "CRE だけど「SREの知識地図」を読んだ - えいのうにっき",
-      "link": "https://blog.a-know.me/entry/2026/08/19/174450",
-      "summary": "発売されて間もなくくらいに買うだけ買っておいて積ん読状態になっていた「SREの知識地図」を、今更ながらに読みました。 SREの知識地図——基礎知識から現場での実践まで 作者:北野 勝久,近藤 健司,小林 良太郎,渡部 龍一,齊藤 拓朗,柘植 翔太,横山 達男技術評論社Amazon 僕は普段は CRE...",
-      "published": "2026-08-19T09:22:59Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "db27689148339f2ffee01ddd64ff1a42",
-      "title": "AWS の新ポリシー言語 Dogwood を試す",
-      "link": "https://zenn.dev/exwzd/articles/20260813-dogwood-agent-policy",
-      "summary": "先端技術開発グループ（WAND）の伊賀です。 2026年8月、AWS が Dogwood というオープンソースのポリシー言語を発表しました（Introducing Dogwood: runtime verification for AI agents）。 AI エージェントのツール呼び出しを制御する...",
-      "published": "2026-08-18T23:15:14Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "acdc43ab2865480bf5a858a4d629ffea",
-      "title": "P2Pはなぜ繋がる？ ホールパンチングを実装する",
-      "link": "https://blog.asial.co.jp/7022/",
-      "summary": "こんにちは、藤村と申します。 突然ですが、自宅のPCでWebサーバーを立てて、外のネットワークからアクセスしようとして繋がらなかった経験はありませんか。 自宅のPCには、原則として外から接続できません。 ところが世の中を見渡すと、ビデオ通話やオンラインゲームの中には、通信データをサーバーで中継せず、...",
-      "published": "2026-08-19T01:48:24Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "764f0d9b257bd1bfa0fdded778302e0b",
-      "title": "【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報 | NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20260819de45042",
-      "summary": "夜も気温が25度を下回らない 「熱帯夜」 の日数はどのくらい増えているのか？ NHKが全国47都道府県の県庁所在地などについて過去50年分のデータで分析したところ、すべての地点で熱帯夜が増加し、年間…",
-      "published": "2026-08-19T11:26:05Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "481be20edd9191efab7d457ec7472600",
-      "title": "色相・彩度・明度のスライダーを調整してサンプルに近い色を生成するゲームが登場し、人気【やじうまWatch】",
-      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2133735.html",
-      "summary": "",
-      "published": "2026-08-19T03:11:25Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "79a94036df7e5991a66dccb675fff1f3",
-      "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
-      "summary": "米OpenAIは8月18日（現地時間）、13～17歳のユーザー向けの利用環境「ChatGPT for Teens」を発表した。年齢推定システムが18歳未満と判断した場合、あるいはユーザーが13～17歳と申告した場合、自動的にこの利用環境が適用される。学習を支援する「Study Mode」などの機能を...",
-      "published": "2026-08-19T03:00:33Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bda226af3685b8405f627d419d701032",
-      "title": "Claudeを解約するユーザーが出始めた…「AIウォーターマーク」自動埋め込み機能に「仕事に支障が出る」と反発 | Business Insider Japan",
-      "link": "https://www.businessinsider.jp/article/2608-claude-users-cancel-subscriptions-citing-anthropic-new-ai-watermark/",
-      "summary": "アンソロピックCEO、ダリオ・アモデイ（Dario Amodei）。Bloomberg/Getty Images アンソロピックは、自社のAIモデル「Claude」が生成したテキストにAIウォーターマーク（透かし）を埋め込み始めた。このAIウォーターマークは編集を加えても消えない可能性があるという。...",
-      "published": "2026-08-18T05:41:51Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "1819ed680373f99dc3e58f5c27d3bbef",
-      "title": "povo、新幹線eチケット予約で3時間データ使い放題",
-      "link": "https://www.watch.impress.co.jp/docs/news/2133590.html",
-      "summary": "",
-      "published": "2026-08-18T09:10:17Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "cef043dc97e99d4d7aa10a4716bba32d",
-      "title": "[スタパ齋藤のApple野郎] iPhoneに財布を合体!! MagSafeカードケースがサイクリングでチョー便利だった!!!",
-      "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2131903.html",
-      "summary": "",
-      "published": "2026-08-19T00:17:34Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "f421b656073d88020ddacaedfb34600b",
-      "title": "導入から約1年3カ月、Windows 11のドロップトレイ、ドラッグトレイが削除",
-      "link": "https://forest.watch.impress.co.jp/docs/news/insiderpre/2133696.html",
-      "summary": "",
-      "published": "2026-08-19T05:32:22Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "8fde36aaa4177028cafcc69736b04a04",
-      "title": "LINE Creditに業務改善命令、システム不備で貸金業法違反 一部顧客に過剰貸付けも 東京都",
-      "link": "https://www.itmedia.co.jp/news/article/2608/18/2000000603/",
-      "summary": "個人向けローンサービス「LINEポケットマネー」を運営するLINE Credit（東京都品川区）は8月18日、東京都から業務改善命令の行政処分を受けたと発表した。システムの不備により、貸金業法が定める返済能力の調査義務や過剰貸付けの禁止などに違反していたという。同社は「多大なご迷惑とご心配をお掛けす...",
-      "published": "2026-08-18T11:05:04Z",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "59f5b382d7be3dd501a5fb7de97bb752",
-      "title": "AWS DevOps Agentのセカンダリリソース登録のステータス遷移を検証してみた",
-      "link": "https://dev.classmethod.jp/articles/devops-agent-secondary-resource-status-transition/",
-      "summary": "AWS DevOps Agentでセカンダリリソース登録の順序を逆にしても大丈夫か検証してみました。ロール展開前の登録、保留中のステータス遷移、そしてエージェントからの見え方について、公式ドキュメントに記載されていない挙動を発見したので共有します。",
-      "published": "Wed, 19 Aug 2026 12:04:48 GMT",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "ab8b38ce8a58eb4bbb8ccee6377d7524",
-      "title": "AWS DevOps Agentの料金体系とコストの抑え方を実機で確認してみた",
-      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-evaluation-cost/",
-      "summary": "AWS DevOps Agentの料金体系(Investigation/Evaluation/On-demand)を整理し、コストを抑えるポイントとエンタープライズサポート契約時に実質無料になり得る条件を試算した紹介記事。",
-      "published": "Wed, 19 Aug 2026 11:56:47 GMT",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "68f0745b58b28e7756663b7be786e0bd",
-      "title": "Amazon OpenSearch Service と Microsoft Entra ID を SAML 連携し、複数アプリロールでテナント切り替えを実現してみた",
-      "link": "https://dev.classmethod.jp/articles/opensearch-entra-id-saml-tenant-switching/",
-      "summary": "Microsoft Entra ID と SAML 連携することで、Amazon OpenSearch Service のロール設計を簡素化する方法を紹介します。複数テナント環境での管理を効率化したいとお考えの方は、ぜひご覧ください。",
-      "published": "Wed, 19 Aug 2026 11:11:12 GMT",
-      "fetched_at": "2026-08-19T12:28:30.047930+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "e6b61519a86857aee20ea17fb7ac171f",
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "link": "https://yassa9.github.io/osint/gralhix-004/",
-      "summary": "Article URL: https://yassa9.github.io/osint/gralhix-004/ Comments URL: https://news.ycombinator.com/item?id=49360545 Points: 104 # Comments: 23",
-      "published": "Wed, 19 Aug 2026 12:19:52 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "8ad277908ec21047f4b38c0f979c3994",
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730 Comments URL: https://news.ycombinator.com/item?id=49360242 Points: 264 # Commen...",
-      "published": "Wed, 19 Aug 2026 11:46:58 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "70d55977476c3c5ed0913aba9cad7c70",
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "link": "https://theremin.bizibah.com/",
-      "summary": "Article URL: https://theremin.bizibah.com/ Comments URL: https://news.ycombinator.com/item?id=49359425 Points: 114 # Comments: 54",
-      "published": "Wed, 19 Aug 2026 10:15:00 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "b116bae8accf79e92d8aafd07ffa69ce",
-      "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-      "link": "https://www.modular.com/blog/modcon-announcements",
-      "summary": "Article URL: https://www.modular.com/blog/modcon-announcements Comments URL: https://news.ycombinator.com/item?id=49358327 Points: 141 # Comments: 54",
-      "published": "Wed, 19 Aug 2026 07:47:19 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "604d7bd1549dddea58bfbb315a407d6a",
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "link": "https://github.com/katiahayati/lucasartsifier/",
-      "summary": "Hi HN, I've become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situati...",
-      "published": "Wed, 19 Aug 2026 01:58:33 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "6b3b061e5a87024d7e5a3b9d9239cd8e",
-      "title": "fx :Tiny, open, native coding agent.",
-      "link": "https://fx.sh",
-      "summary": "Article URL: https://fx.sh Comments URL: https://news.ycombinator.com/item?id=49353339 Points: 101 # Comments: 57",
-      "published": "Tue, 18 Aug 2026 22:00:21 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c8f40324ac382e3add26d19c72562501",
-      "title": "架空の女性に成り済まし政治投稿 立憲民主党栃木県連の党員男性、生成AIで画像作成か",
-      "link": "https://www.sankei.com/article/20260819-H5N5Y6FDMVMCXGEIUQL7AZZ2UQ/",
-      "summary": "立憲民主党の栃木県連に党員として登録している男性が、架空の女性に成り済ましてX（旧ツイッター）に選挙や政治活動の投稿をしていたことが19日、県連への取材で分かった。県連によると、投稿にある女性の画像は生成人工知能（AI）で作成したとみられる。 県連の大貫毅代表は同日、「発信の内容や表現から、あたかも...",
-      "published": "2026-08-19T09:57:48Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d1137ec4dd9b9a3c093f284cf7767314",
-      "title": "「REALFORCE」ロゴ入りで「ATMと同じ打鍵感」 東プレ製テンキー、セブン銀がプレゼント",
-      "link": "https://www.itmedia.co.jp/news/article/2608/19/2000000630/",
-      "summary": "セブン銀行は8月19日、同社ATMの入力キーを模した東プレ製のテンキー限定10台を、抽選でプレゼントすると発表した。 REALFORCEのロゴ入りで、セブン銀行ATMと同じ静電容量無接点方式を採用。あの打鍵感を味わえる。設立25周年記念プレゼントキャンペーンの第二弾で、8月21日正午に開始予定。 第...",
-      "published": "2026-08-19T09:49:09Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bbab4c1b69d5374b4fe4e906b55bcb4c",
-      "title": "AIに細かく指示するほど、逆に下手になるかも？という話｜けんすう",
-      "link": "https://kensuu.com/n/n490abc44dae6",
-      "summary": "[AD] ・・・Amazonアソシエイトを使っているので、上記リンクから購入した場合、アル社に収益が入る場合がございます！いつもありがとうございます！ で、収録が終わってから、話した内容をずっと反芻していたんですが、たぶん今日の話は最終的に「AIには、細かく指示を書き込むより、ざっくり違和感を伝えた...",
-      "published": "2026-08-18T15:56:08Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5c163ef69f7d1e988c17837c45f84c27",
-      "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
-      "summary": "国立情報学研究所（NII）は8月18日、オープンな国産大規模言語モデル（LLM）「LLM-jp-4 33B」シリーズを公開した。モデルの重みは約332億パラメータで、事後学習済みモデルは各種ベンチマークで従来モデルを上回るスコアを記録したという。 公開したのは、事前学習と中間学習まで行ったベースモデ...",
-      "published": "2026-08-19T07:26:54Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "440f5ed711ebca0e8355774dce1ad694",
-      "title": "OpenAIが「安全のためにAIの強化学習を2週間停止した」と自社の安全対策をアピール",
-      "link": "https://gigazine.net/news/20260819-openai-pacing-model/",
-      "summary": "OpenAIはテスト中モデルで他社サーバーに攻撃を仕掛けてしまうセキュリティインシデントを起こしたり、開発中の次期主力モデルであるAstraをサイバーリスク重大に指定したりと高性能AIによるセキュリティ上の問題に相次いで直面しています。この状況の中、安全対策を強化するために開発中モデルの強化学習を一...",
-      "published": "2026-08-19T05:29:08Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "86650f24ca78ffaf15137024b6c8dd72",
-      "title": "オントロジー駆動でGraphRAGを構築してみた - Insight Edge Tech Blog",
-      "link": "https://techblog.insightedge.jp/entry/ontology-graph-rag",
-      "summary": "こんにちは、Insight Edgeの齊藤です。 Google Trendsにおける「ontology」の検索関心の推移（日本、2004年以降） AIエージェントの実用化が進むなかで、オントロジーが再び注目を集めています。国内の検索動向でも、2026年に入ってから「ontology」への関心が大きく...",
-      "published": "2026-08-17T00:02:23Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e07b60f61d452e69a92d0fed1ed4388c",
-      "title": "Seasonic、ATX電源ユニットで初めて最上位認証の「80PLUS Ruby」を取得 - エルミタージュ秋葉原",
-      "link": "https://www.gdm.or.jp/pressrelease/2026/0819/648649",
-      "summary": "Seasonic、ATX電源ユニットで初めて最上位認証の「80PLUS Ruby」を取得 2026.08.19 16:50 更新 2026.08.18 配信 「PRIME RX-1600」がTITANIUMを上回る最上位認証を取得 Sea Sonic Electronics（本社：台湾）は2026年...",
-      "published": "2026-08-19T08:29:26Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "b8c5bcc0bca22eb7de437f9c3275f565",
-      "title": "ARグラス+Apple Watch+Qwen3.8によるライフログ&思考サポート環境Artemis｜shi3z",
-      "link": "https://note.com/shi3zblog/n/n0a01b59dcb05",
-      "summary": "これまでにApple Vision Proや、もっと大昔には片目用ディスプレイなど、いろいろと頭につけるデバイスを試してきたが、最近流行りの何度目かのARグラスブームに居てもたってもいられず、ついにRokid Glassを買った。 Rokid スマートAIグラス 最新AIモデル搭載 超軽量49g A...",
-      "published": "2026-08-19T02:16:09Z",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "f453f701f04178214bcb699beb016467",
-      "title": "📦 marceloprates / prettymaps ⭐ 12,825 (+…",
-      "link": "https://github.com/marceloprates/prettymaps",
-      "summary": "📦 marceloprates / prettymaps ⭐ 12,825 (+58) 🗒 Python Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
-      "published": "19 Aug 2026 14:17 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "272c0ee8f2a29238c2308ec22f070b8c",
-      "title": "[アップデート] IAM Policy AutopilotがTerraformのplanファイルをサポートするようになりました",
-      "link": "https://dev.classmethod.jp/articles/iam-policy-autopilot-supports-terraform-plan-files/",
-      "summary": "Terraformの実行権限、実質Admin権限になっていませんか？そんな悩みを解決してくれるIAM Policy Autopilotが、Terraform planファイルに対応しました。本記事では、planから必要なIAMポリシーを自動生成する方法を実際に試してみます。",
-      "published": "Wed, 19 Aug 2026 14:10:46 GMT",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "f630b6e8e7e0e9af7dd508b9b309c5f8",
-      "title": "[2026年8月19日号]個人的に気になったModern Data Stack情報まとめ",
-      "link": "https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20260819/",
-      "summary": "さがらです。Modern Data Stack界隈の日々の情報発信から、この2週間ほどの間で私が気になった関連情報を、**独断と偏見**でまとめてみました。",
-      "published": "Wed, 19 Aug 2026 13:56:13 GMT",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "a8f6a7cd601940da85eaa2b3de9f340b",
-      "title": "“I’ve seen artists with less talent outwork everybody else and become stars”: Studio 1501’s Carl Crawford just wants you to have a strong work ethic",
-      "link": "https://musictech.com/features/interviews/studio-1501-carl-crawford/?utm_source=rss&utm_medium=rss&utm_campaign=studio-1501-carl-crawford",
-      "summary": "A starfield ceiling, custom-made Augspurger speakers, and reclining leather seats make Studio 1501 look and feel glamorous. Crawford tells us that it'...",
-      "published": "Wed, 19 Aug 2026 13:31:00 +0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "a2e65a885aa0e15a581b23fab428fcad",
-      "title": "Open Mike Eagle & Kenny Segal, “DOOMED!”",
-      "link": "https://daily.bandcamp.com/album-of-the-day/open-mike-eagle-kenny-segal-doomed-review",
-      "summary": "A grim chronicle of post-divorce life on the riveting new record from Open Mike Eagle and Kenny Segal. Read full story on the Bandcamp Daily.",
-      "published": "Wed, 19 Aug 2026 13:56:00 -0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
-      "entry_id": "48b784f735147ce0e70a1607e88b8709",
-      "title": "The Queer Country Revolution Rolls On",
-      "link": "https://daily.bandcamp.com/lists/queer-country-album-guide",
-      "summary": "The legacy of Lavender Country lives on in a new generation of queer country artists. Read full story on the Bandcamp Daily.",
-      "published": "Wed, 19 Aug 2026 13:55:51 -0000",
-      "fetched_at": "2026-08-19T14:24:09.087768+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
       "entry_id": "ef16317710ac727815b9f5d2119dd5f4",
       "title": "TenkaCloud #0｜TenkaCloudを触ってみようの会 - connpass",
       "link": "https://tenkacloudug.connpass.com/event/398462/",
@@ -2289,7 +1909,137 @@
       "fetched_at": "2026-08-20T16:24:19.131029+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "6aad6153b20ca2b47b3afddf90b11bb6",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "link": "https://github.com/zachahn/vomit",
+      "summary": "Article URL: https://github.com/zachahn/vomit Comments URL: https://news.ycombinator.com/item?id=49375996 Points: 105 # Comments: 102",
+      "published": "Thu, 20 Aug 2026 15:26:02 +0000",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "251f70af43af374c0fb70129f06e48ff",
+      "title": "DiffusionGemma Technical Report",
+      "link": "https://arxiv.org/abs/2608.00146",
+      "summary": "Article URL: https://arxiv.org/abs/2608.00146 Comments URL: https://news.ycombinator.com/item?id=49374287 Points: 104 # Comments: 20",
+      "published": "Thu, 20 Aug 2026 13:24:32 +0000",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c6ed3492e467ed0afcab26bd8d5702e",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "link": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "summary": "https://archive.is/JfB5V Comments URL: https://news.ycombinator.com/item?id=49368886 Points: 194 # Comments: 101",
+      "published": "Thu, 20 Aug 2026 00:15:01 +0000",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "638ef7c88d5067bce646d214269f20ad",
+      "title": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio",
+      "summary": "Amazon SageMaker AI now offers Generative AI Inference Recommendations in SageMaker AI Studio, giving customers a guided, low-code, no-code path to fi...",
+      "published": "Thu, 20 Aug 2026 17:25:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9ab0b39058bc5d2a8f22caab1208096",
+      "title": "AWS Direct Connect introduces inbound prefix controls and higher prefix scale",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls",
+      "summary": "Today, AWS Direct Connect announced inbound prefix controls, a new capability that lets you allocate and manage inbound route-prefix allocations for y...",
+      "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbdced04ea44aac20e7ea118083dd476",
+      "title": "Amazon EC2 enables AMI creation with local snapshots from instances on Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost",
+      "summary": "Amazon EC2 now supports creating Amazon Machine Images (AMIs) with local snapshots from instances running on AWS Outposts. This capability makes it ea...",
+      "published": "Wed, 19 Aug 2026 21:30:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "43a8d224dcb89e28a3ec887f449763a3",
+      "title": "AWS Elemental MediaConnect Router now supports configurable recovery latency modes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes/",
+      "summary": "AWS Elemental MediaConnect Router now enables customers to configure latency settings, providing control over the internal connection latency between ...",
+      "published": "Wed, 19 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "181a1b9c3fafc00a7610f7150b259bc0",
+      "title": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/",
+      "summary": "AWS Identity and Access Management (IAM) now enables AWS workloads in the AWS European Sovereign Cloud (Germany) Region to securely authenticate with ...",
+      "published": "Tue, 18 Aug 2026 22:30:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ec3e126c848597e1b5ab168ee7857a4",
+      "title": "Amazon Location Service now supports POI category and density filtering in map styles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-location-service/amazon-location-poi-categorization-density-map-styles",
+      "summary": "Today, Amazon Location Service adds per-category and density-based Point of Interest (POI) filtering to its maps. Developers gain server-side control ...",
+      "published": "Mon, 17 Aug 2026 14:25:00 GMT",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5265a02451cd267c3014cd906a5e20f4",
+      "title": "エムスリー QAチームのこれから2026 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/qa2026",
+      "summary": "エンジニアリンググループ GM の窪田です。 生成AIの急速な進化により、ソフトウェア開発のあり方は大きく変わりつつあります。開発の生産性が飛躍的に向上する一方で、コードレビューやテスト工程などレビュー・テストの必要なコードやドキュメントの量はどんどん増えています。量が増えたにも関わらず求められる品...",
+      "published": "2026-08-20T11:25:58Z",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8c856c5fc550c4ead3be1cade03982f",
+      "title": "macOS向けの無料オープンソース音声入力アプリ「Talkify」を試す | ソフトウェア | Mac OTAKARA",
+      "link": "https://www.macotakara.jp/software/entry-51653.html",
+      "summary": "Talkify macOS向けの無料オープンソース音声入力アプリ「Talkify」を試して見ました。 処理はすべてMac上で行われ、すべてのデータはGitHubで公開されています。 監査すべきテレメトリデータも、信頼すべきサーバーも、隠蔽されているものも一切ありません。 macOS 26が搭載してい...",
+      "published": "2026-08-19T08:42:10Z",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddc27c6e440e841cb2bef2ed91f294f2",
+      "title": "ドコモ・バイクシェアのシステム障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/20/113237",
+      "summary": "2026年8月4日、株式会社ドコモ・バイクシェアは、8月1日の新システムへの切替後に生じた不具合により、安定したサービス提供の見通しが立たないとして全国でサービス提供を一時停止したと公表しました。同社は8月13日までに全国全エリアでサービスを順次再開し、8月18日には障害の原因と再発防止策、返金対応...",
+      "published": "2026-08-20T03:56:09Z",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bf9ea194ea41b0791c2f4d010070e34",
+      "title": "GitHub - Tencent/AI-Infra-Guard: A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. · GitHub",
+      "link": "https://github.com/Tencent/AI-Infra-Guard",
+      "summary": "📦 Tencent / AI-Infra-Guard ⭐ 4,760 (+28) 🗒 Python A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, A...",
+      "published": "20 Aug 2026 17:17 +0000",
+      "fetched_at": "2026-08-20T18:26:23.959593+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-20T16:24:19.131029+00:00"
+  "updated_at": "2026-08-20T18:26:23.959593+00:00"
 }

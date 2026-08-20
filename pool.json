@@ -2159,7 +2159,137 @@
       "fetched_at": "2026-08-20T14:27:02.488936+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "777c360a8fcd8334f92d064e97e9d296",
+      "title": "Bun 1.4",
+      "link": "https://bun.com/blog/bun-v1.4",
+      "summary": "Article URL: https://bun.com/blog/bun-v1.4 Comments URL: https://news.ycombinator.com/item?id=49374797 Points: 120 # Comments: 55",
+      "published": "Thu, 20 Aug 2026 14:10:12 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a7c0cb58b80b66bdaa2e2f7bdd0e659",
+      "title": "Stwipe Acquires OpenWouter",
+      "link": "https://stwipe.com/",
+      "summary": "Article URL: https://stwipe.com/ Comments URL: https://news.ycombinator.com/item?id=49374738 Points: 157 # Comments: 21",
+      "published": "Thu, 20 Aug 2026 14:04:46 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20dcbe89b3fb3a87ee09a957682bf547",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "summary": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on...https://github.com/rustsec/advisory-db/issues/3161 Comments URL: https://news.ycombinat...",
+      "published": "Thu, 20 Aug 2026 13:23:12 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25078fe95eff68fd9d23543f09e053c4",
+      "title": "AWS Marketplace now supports category-based notifications and multi-channel delivery for partners",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/",
+      "summary": "AWS partners can now configure category-based notifications and multi-channel delivery for AWS Marketplace notifications through AWS User Notification...",
+      "published": "Thu, 20 Aug 2026 00:06:00 GMT",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2a83527e55b28aa24aff65a33ed8aff",
+      "title": "AIを入れても、なぜ業務量は思ったほど減らないのか",
+      "link": "https://techblog.lycorp.co.jp/ja/20260819a",
+      "summary": "本記事は、Tech-Verse 2026で発表したセッション「AIを入れても、なぜ業務量は思ったほど減らないのか――Human-in-the-loopの限界とAI-Readyな業務設計」の内容を、LINEヤフー Tech Blog向けに加筆・再構成したものです。 私たちはここ数年、Yahoo!オーク...",
+      "published": "2026-08-20T05:08:43Z",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9f1d60ff5ad5dd941af48238022e075",
+      "title": "パスキーはなぜ「盗まれても意味がない」と言えるのか - 真価を発揮する使い方 - Qiita",
+      "link": "https://qiita.com/harupython/items/1fba6abe5e2eac105edd",
+      "summary": "パスワードを入力せず、顔・指紋・端末のPINなどでログインできる「パスキー」。 便利なのは分かりますが、仕組みを調べるともっと気になる特徴があります。 サービス側の認証情報が盗まれても、それだけではログインに使えない。 パスワードなら、漏洩した文字列がそのまま不正ログインに使われることがあります。 ...",
+      "published": "2026-08-19T06:28:12Z",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b06e10bdc033d2aff37391c5632d568c",
+      "title": "Go 1.27 の標準パッケージに uuid が入った！のでいろいろ喋る / go_127_std_go_uuid",
+      "link": "https://speakerdeck.com/convto/go-127-std-go-uuid",
+      "summary": "go 1.27 release party で発表した内容です https://gocon.connpass.com/event/401603/",
+      "published": "2026-08-19T02:26:58Z",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "254789dd84e277f59672a546d49462c3",
+      "title": "理系にも分かる人権――「最適化」してはいけないものは何か：「制約条件としての人権」論の系譜と数理｜Reading Monkey",
+      "link": "https://note.com/reading_monkey/n/n06681eed6c19",
+      "summary": "要旨「人権は科学的に証明できない。ゆえに虚構であり、守る根拠がない」という懐疑論に対し、本稿は二段階で応答する。第一に、この懐疑論が依拠する推論――「物理法則から導出できない」から「無根拠である」への移行――は、事実と規範の論理的区別（ヒュームの法則）を懐疑論者自身の立場にも等しく適用すれば自壊する...",
+      "published": "2026-08-18T22:55:05Z",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65d0cb405a9eb49f1b398a9e8f5f0537",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 mahl…",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 mahlernim / google-timeline-visualizer ⭐ 955 (+575) 🗒 Kotlin Visualize your year in travel using your Google Locat...",
+      "published": "20 Aug 2026 16:17 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3adab56acaa31031f85a0c0a0ef40862",
+      "title": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Apri…",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 AprilNEA / OpenLogi ⭐ 11,093 (+1,225) 🗒 Rust ⚡️A native, local-first alternative to Logitech Options+, written in ...",
+      "published": "20 Aug 2026 15:17 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26961bffdfb4f76c2853f2c22b5fcd93",
+      "title": "[アップデート] Amazon Corretto の初回 CSPU（月次セキュリティパッチ）がリリースされたのでアップデートして差分を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-corretto-august-2026-security-updates/",
+      "summary": "Java のセキュリティアップデートが四半期ごとから月次へ移行し、8月に初回の CSPU がリリースされました。Amazon Corretto 21 にアップデートして、セキュリティ設定の変更内容を確認してみます。",
+      "published": "Thu, 20 Aug 2026 16:01:35 GMT",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "911a9d435fdfdf0ac141d7db911582cc",
+      "title": "セキュリティサービスの検知メールの本文に担当者情報などをいい感じに入れる",
+      "link": "https://dev.classmethod.jp/articles/security-alert-email-account-owner-enrichment/",
+      "summary": "マルチアカウント環境でセキュリティ検知をメール通知する際、アカウントIDだけでは担当者が分かりません。 EventBridgeとStep Functionsで担当者情報を本文に自動差し込みする3つのパターンをご紹介します。",
+      "published": "Thu, 20 Aug 2026 14:58:58 GMT",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "81c482f4375ff040b796914c35e9cfeb",
+      "title": "Behringer’s BCR32 is finally available to pre-order after five years: here’s everything you need to know",
+      "link": "https://musictech.com/news/gear/behringer-bcr32-available-to-pre-order-features/?utm_source=rss&utm_medium=rss&utm_campaign=behringer-bcr32-available-to-pre-order-features",
+      "summary": "With a little help from ZAQ Audio, the BCR2000 has been reborn... The post Behringer’s BCR32 is finally available to pre-order after five years: here’...",
+      "published": "Thu, 20 Aug 2026 14:29:32 +0000",
+      "fetched_at": "2026-08-20T16:24:19.131029+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-20T14:27:02.488936+00:00"
+  "updated_at": "2026-08-20T16:24:19.131029+00:00"
 }

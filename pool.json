@@ -1569,7 +1569,117 @@
       "fetched_at": "2026-08-21T20:16:11.843328+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "874758b55ba55bf0eabc6b76a1607692",
+      "title": "Scientists release biggest 2D map of the universe",
+      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org Comments URL: https://news.ycombinator.com/item?id=49392200 Points: 100 # Com...",
+      "published": "Fri, 21 Aug 2026 18:36:34 +0000",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f5db41e3483f31d2df6894e9483f361",
+      "title": "c100",
+      "link": "https://caligra.com/c100/",
+      "summary": "Article URL: https://caligra.com/c100/ Comments URL: https://news.ycombinator.com/item?id=49389392 Points: 104 # Comments: 83",
+      "published": "Fri, 21 Aug 2026 15:14:07 +0000",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8623490271d3d7ac9073cbe636838e4",
+      "title": "Amazon Connect Customer now lets managers chat with their data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics",
+      "summary": "Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in seco...",
+      "published": "Fri, 21 Aug 2026 20:00:00 GMT",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "22157956aafdab2eff0efe366e84426b",
+      "title": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/",
+      "summary": "Amazon Aurora DSQL now features a new Amazon CloudWatch Database Insights metric that delivers per-statement, cluster-level performance monitoring det...",
+      "published": "Thu, 20 Aug 2026 16:00:00 GMT",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "09e33e5e8a7d12297a30e4ffb39830cb",
+      "title": "AWS CloudShell now includes a built-in visual file editor",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/",
+      "summary": "AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup...",
+      "published": "Mon, 17 Aug 2026 13:00:00 GMT",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e15e2f8879c10fedb8bcbd9a0bb05a7",
+      "title": "「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ",
+      "link": "https://www.sbbit.jp/article/cont1/186558",
+      "summary": "「バイブコーディング」の次に来るAI開発の形が、早くも見え始めている。いま筆者の開発作業では、直したい点や作りたい機能を短い文章で伝え、自作の自動運転コマンドを起動するだけだ。その後は放っておけば、設計書の作成から実装、テスト、本番への反映まで自動で進み、筆者は途中で上がってくる報告に目を通すだけ....",
+      "published": "2026-08-21T14:12:46Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb405990ea37b3eea44eb2b40cd970a8",
+      "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
+      "link": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
+      "summary": "「すぐには理解できないが、正しいことを言っているのだと思う」 週次の報告会で、上司がそう言った。 私はAIで作ったスライドとHTMLレポートを画面に映していた。上司は内容を否定しなかった。むしろ、正しいと言ってくれた。理解はできないけれど、正しいのだと思う、と。 そのときの私は、それを好意的な反応と...",
+      "published": "2026-08-21T04:55:59Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f34919af3f9d712b9dbe4b6bcb51594f",
+      "title": "React 19.3 browser() APIの使いみち～FUNSTACK Routerの場合～",
+      "link": "https://zenn.dev/uhyo/articles/react-use-browser-usage",
+      "summary": "皆さんこんにちは。最近、React公式ドキュメントにbrowser() APIの記事が追加されました。この記事公開時点ではまだ正式版のReactでは使用できませんが、次バージョンのReact 19.3で利用可能になると見込まれています。 この記事では、筆者が開発しているOSS FUNSTACK Ro...",
+      "published": "2026-08-21T15:04:07Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8da003a738525d285888b146ee79d6fc",
+      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2134644.html",
+      "summary": "",
+      "published": "2026-08-21T08:55:23Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7b54b570a8835799247f37fd6e5c5aa",
+      "title": "Bun、バージョン1.4をリリース ——初のRust実装版 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/bun-1.4",
+      "summary": "Bunチームは2026年8月20日、JavaScript／TypeScript向けランタイム兼ツールキット「Bun」のバージョン1.4をリリースした。Bun本体をZigからRustへ書き直した初のリリースで、Node.jsとの互換性を高めたほか、CPU・メモリ使用量を削減し、起動を高速化した。また、...",
+      "published": "2026-08-21T12:50:12Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0b85dbf444b9ba3493123097a35d084",
+      "title": "claude のメモリを棚卸しする",
+      "link": "https://zenn.dev/cureapp/articles/c1e963064d05fd",
+      "summary": "このツイート見て「やべ、なんも意識してなかった」となったのがきっかけ よしなにやってくれてるんだろうくらいだったので、この際ちゃんと調べて棚卸しした そもそも claude のメモリとは 理解しているつもりだったけどちゃんと調べてなかったので調べた プロジェクトごとに保存（~/.claude/pro...",
+      "published": "2026-08-21T07:25:52Z",
+      "fetched_at": "2026-08-21T22:14:48.106435+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-21T20:16:11.843328+00:00"
+  "updated_at": "2026-08-21T22:14:48.106435+00:00"
 }

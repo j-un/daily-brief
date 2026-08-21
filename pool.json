@@ -539,7 +539,167 @@
       "fetched_at": "2026-08-21T04:29:53.597446+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "book"
+    },
+    {
+      "entry_id": "b4f52b8f8e45921b8cb56bb3f98451e1",
+      "title": "CodeDeployからECS Native Blue/Greenへの移行を検証してみた話 - ASKUL Engineering BLOG",
+      "link": "https://tech.askul.co.jp/entry/2026/08/14/160350",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 CodeDeployからECS Native Blue/Greenへの移行を検証してみた話",
+      "published": "21 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47d2f290b16d5152e7aaccd1dad9f550",
+      "title": "Reading the signals: Helping your AI-built payment integration understand business intent | Stripe Dot Dev Blog",
+      "link": "https://stripe.dev/blog/helping-ai-built-payment-integration-understand-business-intent",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Reading the signals: Helping your AI-built payment integration understand business intent",
+      "published": "20 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfbe224e44632f1c0894e190897fe9a4",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "summary": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequen...",
+      "published": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf42e71f17cb944b918af237986d0c31",
+      "title": "OpenAI と AWS によるサイバー防御の加速: Daybreak Red と Daybreak Blue を Amazon Bedrock で対象のお客様に提供開始",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+      "summary": "OpenAI の Daybreak Red と Daybreak Blue を、対象のお客様向けに Amazon Bedrock で提供開始しました。サイバーセキュリティ専用にトレーニングされた GPT-5.6 Cyber と、防御業務向けの GPT-5.6 Sol により、脆弱性の発見からレッドチ...",
+      "published": "Fri, 21 Aug 2026 06:13:37 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f2910c263f23317ea5d96bf4dc6b822",
+      "title": "サンリオのエンジニア 6 名が 2 日間で体感した AI 駆動開発の可能性 — AI-DLC Unicorn Gym 座談会",
+      "link": "https://aws.amazon.com/jp/blogs/news/sanrio-ai-dlc-unicorn-gym-2026/",
+      "summary": "AWS では、AI を活用した新しいソフトウェア開発手法「AI-DLC（AI-Driven Developme […]",
+      "published": "Fri, 21 Aug 2026 06:06:32 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd61b87dfffa09e113eb70066654e2e3",
+      "title": "Amazon S3 Tables による Amazon Redshift システムテーブルの長期保持",
+      "link": "https://aws.amazon.com/jp/blogs/news/long-term-system-tables-retention-in-amazon-redshift-with-amazon-s3-tables/",
+      "summary": "Amazon Redshift システムテーブルと Amazon S3 Tables の統合により、システムテーブルのログデータを Apache Iceberg 形式で自動的に保存し、7 日間の上限を超えて保持期間を設定できます。独自の ETL パイプラインやクラスターリソースを使わずに、長期的なコ...",
+      "published": "Fri, 21 Aug 2026 05:02:07 +0000",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cdfe7de3e6e16dacbfebba18f18788f",
+      "title": "ニートしてる内蔵GPUを働かせたら、ゲーム中のYouTube視聴が快適になった話｜さあもん",
+      "link": "https://note.com/saamon_note/n/nf2624bde20d6",
+      "summary": "はじめにゲームしながらサブモニタでYouTube、やってる人多いと思います。 私もFF14をやりながら攻略動画や作業用BGMを流してるんですが、あるときからゲーム中だけYouTubeの再生がカクついてしまうようになりました。 調べてみると「ブラウザのハードウェア アクセラレーションをオフにする」とい...",
+      "published": "2026-08-21T04:57:19Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dabb5035a66e926b595b0ce5b38a58f0",
+      "title": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス",
+      "link": "https://www.value-press.com/pressrelease/379051",
+      "summary": "成人向けAIコンテンツ創作プラットフォーム「FANZAスタジオ」の先行体験を開始創作したAIコンテンツを公開しファンとつながれる新サービス ネットサービス 株式会社デジタルコマース（東京都港区、代表取締役社長 島崎 啓之、以下デジタルコマース）は、成人向けエンタメプラットフォーム「FANZA」上で、...",
+      "published": "2026-08-20T15:22:58Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79e9d4da0eb03c1e1f2b1c3bbf305f43",
+      "title": "はてなブログで遭遇したPerlの正規表現のパフォーマンス問題について - Hatena Developer Blog",
+      "link": "https://developer.hatenastaff.com/entry/2026/08/21/114446",
+      "summary": "こんにちは。はてなブログチームの id:Furutsuki です。 はてなブログはPerlで書かれています。内部で利用しているPerlのバージョンを、今年、Perl 5.42.0 に更新しました。その際、Perlの正規表現の内部処理の変更に伴うパフォーマンス問題に遭遇しました。この記事では、どういう...",
+      "published": "2026-08-21T03:07:14Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "96aea3452bd92b26c1c69b9f508687bb",
+      "title": "ChatGPTがチャット中に図を描いてくれる機能がテスト中。味のありすぎるイラストも描ける - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/21/132849",
+      "summary": "工作をするのでよくChatGPTに機構の相談をするんですけど、ChatGPTって謎のAAを出してくるんですよね。 これ、がんばって描いてる感じがあってかなり好きなんですけど、好きではあるんですけど、いかんせん意味が分からないのが難点です。難点というか相談の回答としては致命的です。 画像生成してもらっ...",
+      "published": "2026-08-21T04:29:27Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc4a67304300c666f3696d774428f32c",
+      "title": "なぜAnthropicなどAI企業は、古書を買い集め裁断し処分しているのか | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "link": "https://forbesjapan.com/articles/detail/103075",
+      "summary": "作家、アーキビスト（文書や記録資料の保存を担う専門職）、歴史家、そして愛書家たちが、大手テック企業やAI開発企業に対してネット上で総攻撃を展開している。きっかけは、これらの企業が稀覯本や古書を大量に買い集め、大規模言語モデルに読み込ませていることを示す証拠が、次々と積み上がってきたことだ。しかもそ....",
+      "published": "2026-08-20T07:24:35Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c3a05828c4f9073a05b2fc8d009e9a7",
+      "title": "AI絵の「元ネタ探し」はほぼ不可能だった――データを消してもAIは同じ絵を描く - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/198871",
+      "summary": "アメリカのマサチューセッツ工科大学(MIT)で行われた研究によって、AIが生成した画像の多くは、「どの学習データから生まれたのか」をたどれなくなっていることが明らかになりました。 学習データが大きくなるほどこの傾向は強まり、特定の絵1枚どころか、学習データからあるアーティストの作品を丸ごと消しても、...",
+      "published": "2026-08-20T17:21:47Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34a268b66162e8aa38c7132b297073c4",
+      "title": "Codex as a platform: build on the open agent harness | OpenAI Developers",
+      "link": "https://developers.openai.com/blog/codex-as-a-platform",
+      "summary": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.",
+      "published": "2026-08-20T22:33:18Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df36bb4b23e77731d4f4d1e136422813",
+      "title": "国産AI開発ノエトラ・丹波社長の焦燥 「失敗したら、もう後がない」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC041FJ0U6A800C2000000/",
+      "summary": "ソフトバンクやNEC、ソニーグループ、ホンダなど国内44社が出資し、経済産業省などが総額1兆円規模を支援する人工知能（AI）開発企業「Noetra（ノエトラ）」。自動運転やロボットをはじめとする実世界で動くAI、いわゆる「フィジカルAI」の頭脳となる国産基盤モデルの開発を担う中核企業だ。「これがラス...",
+      "published": "2026-08-21T00:08:30Z",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cac9c116efc28196b7050a98f27fc4ea",
+      "title": "Claude Enterprise 組織設定「インライン可視化」の有効化・無効化時の挙動を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/myan-claude-ent-inline-visualize/",
+      "summary": "Claude Enterpriseの「インライン可視化」機能について、実際に有効・無効にして挙動の違いを確認してみました。パラメータ説明だけではわかりにくい機能の実体を、具体例とともに紹介します。",
+      "published": "Fri, 21 Aug 2026 06:00:08 GMT",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "99ac20e3525e064c0d06d05c3f0c4103",
+      "title": "PHPアプリケーションを想定したECS FargateのEFSマウントやRDS接続を検証してみた",
+      "link": "https://dev.classmethod.jp/articles/myan-ecs-fargate-php-verify/",
+      "summary": "ECS on FargateでEFSをマウントし、Secrets Managerを使用してRDS接続を検証してみました。実際にコンテナに接続して、複数タスク間でのファイル共有やDB操作が正常に動作することを確認しています。",
+      "published": "Fri, 21 Aug 2026 04:29:35 GMT",
+      "fetched_at": "2026-08-21T06:32:00.129363+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-21T04:29:53.597446+00:00"
+  "updated_at": "2026-08-21T06:32:00.129363+00:00"
 }

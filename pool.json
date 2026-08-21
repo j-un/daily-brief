@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5e3c183395712bb839a75332cb31d08d",
-      "title": "Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/08/muse-glimmer",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表 | gihyo.jp",
-      "published": "18 Aug 2026 06:56 +0000",
-      "fetched_at": "2026-08-20T06:30:51.739391+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e547fa3181c08c87fa91a452166e5f67",
       "title": "Anti-AI fonts are useless and harmful",
       "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
@@ -989,7 +979,167 @@
       "fetched_at": "2026-08-21T10:21:07.352572+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "0541a1b4a8412298b9aa899e7b194cc1",
+      "title": "AIがあればコンサルはいらない？ 実際にやって残った「人の仕事」 | CloudNative BLOGs",
+      "link": "https://blog.cloudnative.co.jp/articles/ai-wont-replace-consultants/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIがあればコンサルはいらない？ 実際にやって残った「人の仕事」",
+      "published": "21 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "237fce0ade9c5a44166dac27e3974d13",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "link": "https://api-docs.deepseek.com/guides/vision/",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/vision/ Comments URL: https://news.ycombinator.com/item?id=49386163 Points: 152 # Comments: 35",
+      "published": "Fri, 21 Aug 2026 10:33:56 +0000",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a888b0ccd2fb8d157d3ca773ff2aa11",
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "summary": "Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/ Comments URL: https://news.ycombinator.com/item?id=49384896 Poin...",
+      "published": "Fri, 21 Aug 2026 07:23:27 +0000",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "863f5a525cd837a85de3a4ea3d9fcfda",
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "link": "https://encore.dev/blog/firecracker-apple-silicon",
+      "summary": "Article URL: https://encore.dev/blog/firecracker-apple-silicon Comments URL: https://news.ycombinator.com/item?id=49384716 Points: 108 # Comments: 52",
+      "published": "Fri, 21 Aug 2026 06:59:40 +0000",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c44baa14da22ce83f2d0833bc7a9d748",
+      "title": "SpacetimeDB: a short technical review",
+      "link": "https://strn.cat/posts/spacetime/",
+      "summary": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 104 # Comments: 22",
+      "published": "Thu, 20 Aug 2026 19:19:53 +0000",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef39352d1a7d1302cb33a3fbb26ffc1a",
+      "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+      "link": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+      "summary": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。 I've been doin...",
+      "published": "2026-08-21T10:19:28Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "780f05197508a5d41cbb3bf7ca9ad498",
+      "title": "NO MORE $OPENAI_API_KEY - Workload Identity Federation 🤝 AWS IAM Outbound Identity Federation - Retty Tech Blog",
+      "link": "https://engineer.retty.me/entry/openai-aws-identity-federation",
+      "summary": "先日 Retty アプリ向けに公開したAI投稿サポート機能ですが、皆様使っていただけましたでしょうか。 社内では「投稿のハードルが大幅に下がった」との評価をいただいており、実際にこれまで投稿のなかった新規ユーザー様から、長い間下書き保存したままになっていた記事を整形して投稿してくださったベテランユー...",
+      "published": "2026-08-20T23:27:36Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb9a33c3ecc16aea741bdfc389be3c90",
+      "title": "【レビュー】そろそろ「折りたたみスマホ」を使おう 「Pixel 11 Pro Fold」の\"最新”が楽しい",
+      "link": "https://www.watch.impress.co.jp/docs/review/review/2134376.html",
+      "summary": "",
+      "published": "2026-08-21T00:41:26Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22cb2abcecf4e4913c053e4d0001938a",
+      "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+      "link": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+      "summary": "こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこ...",
+      "published": "2026-06-30T08:09:53Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a64d60bebe4cadd907a12f7072bea424",
+      "title": "Claude Academy",
+      "link": "https://academy.claude.com/ja",
+      "summary": "",
+      "published": "2026-08-20T23:08:33Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fac86e0ecc551b7c3f7fa09ff76b55a",
+      "title": "着るエアコンの次は「着る氷まくら」!? コンビニでも買えるロックアイスで体もドリンクも冷やすトレラン用バックパックの裏ワザ【ぼっち・ざ・ろーど！その15】【空いた時間でなにしてる？】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2134305.html",
+      "summary": "",
+      "published": "2026-08-21T05:17:12Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b62a49ffe4f0ebf1571cfca9440d127e",
+      "title": "【Hothotレビュー】 え、14型ThinkPadが977gに！？「ThinkPad X1 Carbon Gen 14 Aura Edition」を試す",
+      "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2134302.html",
+      "summary": "",
+      "published": "2026-08-20T22:35:55Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f20cf33f7a7622f81192b576bc87f89",
+      "title": "オリジナルAIアニメ『大人になっちゃう素敵な魔法』",
+      "link": "https://www.youtube.com/watch?v=T1WjB4TFHZY",
+      "summary": "▍クレジット ニンゲイター ▍AI CREATIVE CONTEST コロテック-ファイナリスト作品 2026年7月30日に授賞式が開催された賞金総額1,000万円のAIクリエイティブコンテスト「コロテック（COLOTEK）」。「次の100年愛されるアニメを。」をテーマに、AIを使った15分以内のア...",
+      "published": "2026-08-20T14:11:54Z",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ee31144799a735e842d58d034605153",
+      "title": "なぜFAQボットを導入しても、電話の問い合わせは減らないのか 〜生成AIチャットボットで問い合わせ削減を実現する3分類の考え方〜",
+      "link": "https://dev.classmethod.jp/articles/faq-bot-triage/",
+      "summary": "FAQボットを導入しても電話の問い合わせが減らないのはなぜか。その理由と、問い合わせを3つに分類して最適な対応策を設計する考え方を紹介します。",
+      "published": "Fri, 21 Aug 2026 12:06:19 GMT",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f036340c0e96c9f42789c789e364a0c",
+      "title": "aws login利用時にデフォルトプロファイルにcredential_processをつけるとログインできない事象と回避方法",
+      "link": "https://dev.classmethod.jp/articles/aws-login-default-profile-credential-process-error/",
+      "summary": "Terraformでaws loginを使う際、デフォルトプロファイルにcredential_processを設定するとエラーが発生する問題と、その原因・回避方法を紹介します。",
+      "published": "Fri, 21 Aug 2026 11:41:35 GMT",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "44d2aa0a53ca36026f1af430dac1a0fa",
+      "title": "S3への書き込み権限なしでAWS DevOps AgentにAthenaを使って調査をお願いしてみた",
+      "link": "https://dev.classmethod.jp/articles/athena-devops-agent-verification/",
+      "summary": "AWS DevOps AgentでAthenaのクエリを実行させたいものの、S3への書き込み権限がガードレールで制限されてしまう課題に直面したことはありませんか？この記事では、Managed Query Resultsを活用して、`s3:PutObject`なしにWAFログの調査をエージェントに任せ...",
+      "published": "Fri, 21 Aug 2026 10:28:48 GMT",
+      "fetched_at": "2026-08-21T12:29:42.631689+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-21T10:21:07.352572+00:00"
+  "updated_at": "2026-08-21T12:29:42.631689+00:00"
 }

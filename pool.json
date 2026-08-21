@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9e31484820e1e7c02fe1fecd0051b125",
-      "title": "Amazon EKS now supports advanced Kubernetes control plane configuration parameters",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters",
-      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports configuring parameters for Kubernetes control plane components including the scheduler, co...",
-      "published": "Wed, 12 Aug 2026 18:00:00 GMT",
-      "fetched_at": "2026-08-20T02:49:56.402851+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "5e3c183395712bb839a75332cb31d08d",
       "title": "Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/08/muse-glimmer",
@@ -699,7 +689,117 @@
       "fetched_at": "2026-08-21T06:32:00.129363+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "c8210f9b1264ba2933c36464ce9800c7",
+      "title": "ジュニアこそやるべき！？アラート対応の考え方と実践 - CARTA TECH BLOG",
+      "link": "https://techblog.cartaholdings.co.jp/entry/junior-alert-response",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ジュニアこそやるべき！？アラート対応の考え方と実践",
+      "published": "21 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "965a8e42e5c7adce38cdebe1269b6aea",
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "link": "https://github.com/openai/codex/issues/37674",
+      "summary": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 128 # Comments: 40",
+      "published": "Fri, 21 Aug 2026 03:17:43 +0000",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6d013dda9ded2e29e02ae46a5809fa0",
+      "title": "Ox Alpha",
+      "link": "https://openrouter.ai/stealth/ox-alpha",
+      "summary": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269 Comments URL: https://news.ycombi...",
+      "published": "Thu, 20 Aug 2026 23:56:35 +0000",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "db02cd7ff34c7466f639f4f669059c3f",
+      "title": "Amazon Aurora DSQL の可観測性の概念と Amazon CloudWatch での活用",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-aurora-dsql-observability-concepts-and-usage-with-amazon-cloudwatch/",
+      "summary": "Amazon Aurora DSQL は Amazon CloudWatch Database Insights による可観測性の強化に対応しました。時間ベースの可観測性モデルとその仕組み (DASH)、そして CloudWatch Database Insights、PromQL、DSQL システ...",
+      "published": "Fri, 21 Aug 2026 07:57:18 +0000",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "51a42b0d30e09a531e78372d34d2a8d7",
+      "title": "はてなパークスはどうすべきだったか？",
+      "link": "https://anond.hatelabo.jp/20260821110703",
+      "summary": "はてなは創業以来ずっと「顕名ほのぼの情報共有コミュニティ」を作ろうとしている。 何故かユーザーがレスバ大好き暴言上等のモヒカン族ばかりだから失敗しているだけで。 はてなパークスのコンセプトも「顕名ほのぼの情報共有コミュニティ」だろう。 だから改善策を考えるとしても、大前提としてコンセプトに沿わなけれ...",
+      "published": "2026-08-21T02:16:18Z",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "732945c62ee10ba6b68796bb1367d9bc",
+      "title": "超低コスト全文検索の実運用に向けた改良 - 豪鬼メモ",
+      "link": "https://mikio.hatenablog.com/entry/2026/08/21/053626",
+      "summary": "VPS単体でSNSと同居して運用できる全文検索アーキテクチャ3TSを改良した。単体ユーザ投稿限定および外部公開投稿限定のフィルタに対応し、APIの外部公開時のDoS回避策を導入し、KWICによる検索語ハイライト表示を実装した。 デモ stgy.jpのブログ機能（外部公開記事機能）にて、KWIC付きの...",
+      "published": "2026-08-21T01:28:54Z",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab0b9b4c23f35ec2fe1d431eee405ad5",
+      "title": "請求書PDFで情報処理学会が神対応！ 電子帳票視点のフィードバックでAIDXがめっちゃ進んだ話【生成AIストリーム】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2134382.html",
+      "summary": "",
+      "published": "2026-08-21T03:36:52Z",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0f4b849ce969216650fae1d4ddaa448",
+      "title": "Wi-Fiより10倍速い!? 筆者の好きな「有線LAN」を移住先の10LDK住宅に構築しました【奥川浩彦の「岐阜の山奥に移住しました」第12回】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/ijuu/2133836.html",
+      "summary": "",
+      "published": "2026-08-20T23:17:42Z",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f318c965831e054a6be40c295bc2e496",
+      "title": "SNSのウソ画像、どう見破る？ 熊本県庁やテレビ局も頼る“すごい企業”の正体",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/",
+      "summary": "SNSを使う人なら、被災地の動画や写真を添付した一般人の投稿にテレビ局や新聞社のアカウントが取材のためにフォローを求める場面を目にしたことがあるかもしれない。「マスコミはだまされたりしないのか？」と思うこともあるが、実は彼らも根拠なしで投稿内容を信じているわけではなかった。 スペクティ（東京都千代田...",
+      "published": "2026-08-21T07:16:51Z",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4172fcc25c3cde7c80f264960a43da9a",
+      "title": "”自分”が流通する世界──AI分身の権利と、情報セキュリティの切り分け",
+      "link": "https://dev.classmethod.jp/articles/whose-ai-persona-circulation/",
+      "summary": "ベテランの判断をAIに継いだあと、その人が辞めたら分身は誰のものか。ghoostは「本人のもの」という設計を採る。パブリシティ権の性質に沿った選択であり、同時に品質のための選択でもある。会社の機密と本人の判断をどう切り分けるのか、そして本人同意を前提に判断が流通する世界まで、特許の内容を交えて整理す...",
+      "published": "Fri, 21 Aug 2026 08:24:01 GMT",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0b3edea4a9a69c88d1ff7dafff5eab0",
+      "title": "Meet the producers releasing albums on retro gaming consoles",
+      "link": "https://musictech.com/features/interviews/remute-daydream-plus-interview-retro-gaming-consoles-album-releases/?utm_source=rss&utm_medium=rss&utm_campaign=remute-daydream-plus-interview-retro-gaming-consoles-album-releases",
+      "summary": "Remute and Daydream Plus make albums for NES, Sega Genesis and Game Boy using decades-old tracker software, and it's even harder than it sounds The po...",
+      "published": "Fri, 21 Aug 2026 08:29:07 +0000",
+      "fetched_at": "2026-08-21T08:29:37.826147+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-21T06:32:00.129363+00:00"
+  "updated_at": "2026-08-21T08:29:37.826147+00:00"
 }

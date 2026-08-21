@@ -399,7 +399,147 @@
       "fetched_at": "2026-08-21T02:55:26.425887+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "469786c0bada5d0b7368e8afb7538162",
+      "title": "AWS Billing and Cost Management がマネージドダッシュボードを導入 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Billing and Cost Management introduces Managed Dashboards",
+      "published": "21 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bc0ad51529d1e22339da878fc1e9561",
+      "title": "Monitor on-premises and multi-cloud AI agents with AgentCore Observability | Artificial Intelligence",
+      "link": "https://aws.amazon.com/jp/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Monitor on-premises and multi-cloud AI agents with AgentCore Observability | Amazon Web Services",
+      "published": "21 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6be7b0dbd3424ac439fe8dc7fba21fb0",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "summary": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 134 # Comment...",
+      "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a8bf807499ef25ec4edb71d87322b05",
+      "title": "It is a sign of the times that Amazon gets to call this fair use",
+      "link": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "summary": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator...",
+      "published": "Fri, 21 Aug 2026 00:34:32 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "42c5854a16f0788bd6b075016face817",
+      "title": "Why aren't smart people happier? (2022)",
+      "link": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
+      "summary": "Article URL: https://www.experimental-history.com/p/why-arent-smart-people-happier Comments URL: https://news.ycombinator.com/item?id=49378446 Points:...",
+      "published": "Thu, 20 Aug 2026 18:38:47 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce0191f2ad536d1448cbbe105d14bd7a",
+      "title": "AWS Transform の SQL Server から PostgreSQL へのスキーマ検証",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-transform-sql-server-to-postgresql-schema-validation-in-net-application-modernization/",
+      "summary": "AWS Transform が備える 3 層の検証モデル (構造的検証、意味的検証、動作検証) の仕組みを詳しく解説します。稼働中のデータベースに直接クエリを発行する検証方式、スタブ検出やミューテーションテストによる動作確認、そして Amazon Bedrock を活用した AI エージェントが検出...",
+      "published": "Fri, 21 Aug 2026 03:05:58 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "601fd1861b523e6ff4faef4215ddb9bf",
+      "title": "AWS Transform を使用した SQL Server データベースから Aurora PostgreSQL へのモダナイズ",
+      "link": "https://aws.amazon.com/jp/blogs/news/modernize-microsoft-sql-server-databases-to-aurora-postgresql-using-aws-transform/",
+      "summary": "AWS Transform の Offline Source 機能を使用して SQL Server データベースを Aurora PostgreSQL へモダナイズする方法を紹介します。DDL ファイルをアップロードするだけで、ネットワーク接続や中間環境のプロビジョニングなしにモダナイゼーションを開...",
+      "published": "Fri, 21 Aug 2026 03:05:09 +0000",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fde1727b26146b1cb01ef0dcce2d7497",
+      "title": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent/",
+      "summary": "AWS Security Agent (now part of AWS Continuum) has a on-demand penetration testing service that uses an AI agent to autonomously test web applications...",
+      "published": "Wed, 19 Aug 2026 18:27:00 GMT",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac8a63db86495eca6a51bfb59d0b4010",
+      "title": "Qwen3.8 27Bが驚異の6.2GBに!? Unslothが新量子化技術で実現",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2134411.html",
+      "summary": "",
+      "published": "2026-08-21T03:22:35Z",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44a448b818ae1581d85d4c0eebd91353",
+      "title": "xAIのGrokが突如意味不明な回答を並べ、困惑するユーザー相次ぐ | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/21/5410.html",
+      "summary": "xAIが開発するAIチャットボット「Grok」が、ユーザーに対し突如意味不明な回答をし始め、Xで困惑の報告が相次ぎました。 あるユーザーは、GrokにPDFの出力を指示したにもかかわらず「match it without and your they and two for planets can p...",
+      "published": "2026-08-21T01:09:42Z",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "409ddc0c882aa35c86ec8e85ecfa7883",
+      "title": "音楽を紙に印刷、ニューラルコーデックでデータ量1000分の1 | Gadget Gate",
+      "link": "https://gadget.phileweb.com/post-130846/",
+      "summary": "テクノロジー ニューラルコーデックで音楽データを1000分の1に圧縮 音楽を紙に印刷、ニューラルコーデックでデータ量1000分の1 Image:Makestreme Makestremeと名乗るハッカーは、約2分（2.9MB）の音楽データを数枚のQRコードに分割保存する手法を編み出し、電子工作者向け...",
+      "published": "2026-08-17T22:48:11Z",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c151decf1b32c1cd78e02e1143a7a8d4",
+      "title": "[アップデート] Amazon Redshift のシステムテーブルを Amazon S3 Tables に自動配信できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/20260821-amazon-redshift-long-term-system-table-retention/",
+      "summary": "Amazon Redshift のシステムテーブルを S3 に長期保持できる新機能「System table integration with S3 Tables」を、Amazon Redshift Serverless で実際に試してみました。",
+      "published": "Fri, 21 Aug 2026 03:30:20 GMT",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "05956120503034b5b878a1059a2faef3",
+      "title": "AWS DevOps Agent のスキルで references/ に置いた情報がどう使われるのかを調べてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-skill-references/",
+      "summary": "必要になった時点で個別に読み込まれました。SKILL.md に参照指示は不要。",
+      "published": "Thu, 20 Aug 2026 07:03:31 GMT",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8606520ba37342ab4bd5e8d9c9808e4",
+      "title": "ソフトウェアエンジニアリングの基礎",
+      "link": "http://www.oreilly.co.jp/books/9784814401789/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "ソフトウェアエンジニアとして成長するために必要なのは、アルゴリズムやプログラミングの知識だけではありません。学校のカリキュラムやブートキャンプでは教わらない、キャリア形成に直結する実践的なスキルこそが差を生みます。 実際の開発現場では、技術的負債を抱えた既存のシステムを保守・改善し、ソフトウェアを適...",
+      "published": "2026-09-16T00:00:00+09:00",
+      "fetched_at": "2026-08-21T04:29:53.597446+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "book"
     }
   ],
-  "updated_at": "2026-08-21T02:55:26.425887+00:00"
+  "updated_at": "2026-08-21T04:29:53.597446+00:00"
 }

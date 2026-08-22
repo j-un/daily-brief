@@ -59,7 +59,197 @@
       "fetched_at": "2026-08-22T00:45:16.601240+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "1b2b7dc6d29e8e5115326d96614487d2",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering - Google Developers Blog",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "published": "22 Aug 2026 01:55 +0000",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02b074a6918d9c32fc3f8da51a9442d1",
+      "title": "What happens when a GPU reads memory",
+      "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+      "summary": "Article URL: https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory Comments URL: https://news.ycombinator.com/item?id=49390308 Points: 101 #...",
+      "published": "Fri, 21 Aug 2026 16:16:42 +0000",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "336b42c2894b2720d37be818705e4a48",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "link": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "summary": "Article URL: https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/ Comments URL: https://news.ycombinator.com/item?id=49389952 Points: 109 # Comme...",
+      "published": "Fri, 21 Aug 2026 15:51:10 +0000",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1e6e72468b5e7f51a427221d29f7d34",
+      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
+      "summary": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per ...",
+      "published": "Fri, 21 Aug 2026 20:11:00 GMT",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ba768c2c5c50a335f12c65c694a59a1",
+      "title": "はてなパークスで、ユーザーアイコンを羊から はてなのアイコンに戻すChrome拡張を作った",
+      "link": "https://anond.hatelabo.jp/20260822070809",
+      "summary": "https://chromewebstore.google.com/detail/fkafbemfhebnchlckkionocpkmeggehj ユーザーアイコンが全員 羊なのは、サービスの匿名性を高めるために「あえてそうなってる」仕様だと思うので、この拡張を公開するか迷ったのですが⋯。 実際、こ...",
+      "published": "2026-08-21T22:21:51Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7039d267b60db609f29b32db2cbc25c2",
+      "title": "How's Linear so fast? A technical breakdown",
+      "link": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "summary": "A few milliseconds is all it takes to update an issue in Linear. A traditional CRUD app doing the same thing takes about 300ms. How do they do it? The...",
+      "published": "2026-05-21T03:07:19Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b29a4b13e319d4c4caf9da21fd6c3520",
+      "title": "3命令のCPU処理で済む高速なうるう年判定アルゴリズム - Faith and Brave - C++で遊ぼう",
+      "link": "https://faithandbrave.hateblo.jp/entry/2026/08/21/102716",
+      "summary": "要約 この短いコードで、西暦102499年までのうるう年を判定できます。このマジックナンバーはz3というSMTソルバーで見つけ出されました。 bool is_leap_year_fast(uint32_t y) { return ((y * 1073750999) & 3221352463) <= ...",
+      "published": "2026-08-21T02:41:00Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "050b857a1ef97d5829aae73c3beda4e0",
+      "title": "中国では「ロボコップ」による交通整理が行われている",
+      "link": "https://gigazine.net/news/20260821-supcon-traffic-police-robot-in-hangzhou/",
+      "summary": "中国・浙江省杭州市で、警察官の仕事のうち交通整理を引き継ぐことを目的としたロボット警官、つまりロボコップのテストが行われています。稼働中のロボコップは3つの省で50台近くに上り、年末までに200台にまで増える予定となっています。 China puts robocops on traffic duty...",
+      "published": "2026-08-21T09:57:54Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "338745b8b1c65f66c992c0955f487fad",
+      "title": "Apple MusicがAI生成音楽へのタグ表示義務化を予告",
+      "link": "https://gigazine.net/news/20260821-apple-music-ai-labels/",
+      "summary": "Apple Musicで、AI生成であることを示す表示が義務化されることがわかりました。措置は2026年後半からスタートする見込みです。 Apple Music to Launch AI Song Labels Later This Year https://www.hollywoodreporte...",
+      "published": "2026-08-21T09:57:29Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d098722ef1c69fe72a62eb24f34eb17",
+      "title": "作曲からリップシンクMV制作までがローカルだけで完結するようになった。MiniMax H3、LTX 2.5、ACE-Step、Qwen 3.8 27BをiPhoneから連結し動かすワークフロー（CloseBox） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/21/5411.html",
+      "summary": "初音ミクが登場し、ボカロP（松尾P）となって以来の念願だった、リップシンク動画が、ついに俺史上最も手軽にできるようになりました。MiniMax H3とRTX 5090、そしてClaude Code with Fable 5のおかげ。",
+      "published": "2026-08-21T03:29:18Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b170d47b917a8253a617672abb26ca57",
+      "title": "AIと壁打ちしながら進めるコスト管理",
+      "link": "https://speakerdeck.com/fufuhu/ai-to-kabe-uchi-shi-nagara-susumeru-kosuto-kanri",
+      "summary": "ゆるSRE勉強会 #17 〜実践!クラウド・AIのインフラ費用最適化〜 (https://yuru-sre.connpass.com/event/398199/)の登壇資料です。",
+      "published": "2026-08-21T13:22:33Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1db91ebb3f9bf2da6f790a7c1254d8dc",
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+      "link": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+      "summary": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実...",
+      "published": "2026-08-21T15:01:29Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "123de824a565e30d4971d6ed77fc5596",
+      "title": "人力画像生成AIです - 創作",
+      "link": "https://p.hatena.ne.jp/p/1508376655985381376/t/1540157145167695872?s=1&m=raw",
+      "summary": "プロンプトを入力すると、低クオリティの画像が低速で出力されます （このサービスは突然停止する可能性があります）",
+      "published": "2026-08-21T11:13:46Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75bbc4f6b71f2adb4a91c5dff16b807d",
+      "title": "FANZA、成人向けAI創作・公開サービス「FANZAスタジオ」発表 先行体験は8月24日から",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000691/",
+      "summary": "成人向けECサイト「FANZA」を運営するデジタルコマース（東京都港区）は8月17日、成人向けAI作品の生成から公開、ファンとの接点作りまでをFANZA上で行えるサービス「FANZAスタジオ」の先行体験を24日に始めると発表した。サービスはデジタル・リンク（東京都渋谷区）が運営する。正式ローンチの時...",
+      "published": "2026-08-21T10:28:22Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebae7e2bdf9c927871e6821a53bd3e3c",
+      "title": "GitHubが約8時間ダウンした原因が判明、急増する利用量に重要なインフラが自動拡張できず障害が連鎖",
+      "link": "https://gigazine.net/news/20260821-why-github-down/",
+      "summary": "2026年8月17日から18日にかけてGitHubで世界規模の障害が発生し、GitHub.comやGitHub Actions、GitHub Copilotなど多数のサービスが利用しづらくなりました。GitHubは8月20日に調査結果を公表し、過去最高水準のトラフィックに対してアメリカ中部のデータセ...",
+      "published": "2026-08-21T03:38:59Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "597d2f5fb0e67cdc0b3e17836b99dc48",
+      "title": "最大4Kまで動画を高解像度化できるアップスケーラー「FLUX Video Upscale」が登場",
+      "link": "https://gigazine.net/news/20260821-flux-video-upscale/",
+      "summary": "AI企業のBlack Forest LabsがAIを用いた動画アップスケーラー「FLUX Video Upscale」をリリースしました。FLUX Video Upscaleは動画を最大4Kにまでアップスケールすることができます。 FLUX Video Upscale: AI Video Upsca...",
+      "published": "2026-08-21T10:04:49Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22cb2abcecf4e4913c053e4d0001938a",
+      "title": "AI-Native な開発の実践に向けて | メルカリエンジニアリング",
+      "link": "https://engineering.mercari.com/blog/entry/20260630-b22667b4d6/",
+      "summary": "こんにちは becosuke です。メルカリ NFT と、その上で立ち上げている新規サービスの Backend を担当しています。この記事は「Merpay & Mercoin Tech Openness Month 2026」の 20日目の記事です。 この記事では、私たちメルカリ NFT チームがこ...",
+      "published": "2026-06-30T08:09:53Z",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dc9b530b388133594cf22a98462c7f0",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 apache…",
+      "link": "https://github.com/apache/maka",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 apache / maka ⭐ 1,995 (+141) 🗒 TypeScript Apache Maka (Incubating) is a local-first AI agent workspace. Model message...",
+      "published": "22 Aug 2026 01:17 +0000",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b05c351a9acb75fd502b33fa4b42503",
+      "title": "AWS HealthOmics が WDL ワークフローのタスクレベルタイムアウトに対応したので試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-healthomics-wdl-task-level-timeout/",
+      "summary": "AWS HealthOmics が WDL ワークフローのタスクレベルタイムアウト機能に対応しました。`omicsTimeout` を設定して、実際の動作と指定時間を超えた場合の挙動を検証した結果をまとめています。",
+      "published": "Sat, 22 Aug 2026 00:52:56 GMT",
+      "fetched_at": "2026-08-22T02:47:03.378370+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-22T00:45:16.601240+00:00"
+  "updated_at": "2026-08-22T02:47:03.378370+00:00"
 }

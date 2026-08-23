@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "46bca2e22bae0f5c93fccb994f7eb858",
-      "title": "第64回 LinuxカーネルのPSI機能（1） | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/08/linux_containers-0064",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 第64回 LinuxカーネルのPSI機能（1） | gihyo.jp",
-      "published": "21 Aug 2026 23:55 +0000",
-      "fetched_at": "2026-08-22T00:45:16.601240+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "43b036807870d61a53724e38e07a2040",
       "title": "Nub — an all-in-one toolkit for Node.js",
       "link": "https://nubjs.com/",
@@ -239,7 +229,147 @@
       "fetched_at": "2026-08-23T04:28:19.407623+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "b7e2ddee7294703f43201c0f21f39214",
+      "title": "書籍詳細｜株式会社 C&R研究所",
+      "link": "https://www.c-r.com/book/detail/1632",
+      "summary": "Raycast本だ。2026年9月10日発売予定",
+      "published": "23 Aug 2026 06:23 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4aaf02a2faa26f3818f41291b068fe5",
+      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+      "summary": "「AIエージェントにはタブも拡張機能も不要」は確かに。ただ、試しにYahoo! JAPANを読み込ませたら非同期に取得しているであろうおすすめ記事一覧が表示されなかった。あかんがな。",
+      "published": "23 Aug 2026 06:19 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e67372cb9d1544751c5a6a343f0bd4f3",
+      "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+      "summary": "まだいきとったんかDelphi",
+      "published": "23 Aug 2026 06:12 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ba31cb8e476361417f6c5eaa2ef4058",
+      "title": "GitHub - schapman1974/briskdb: Ordinary SQLite files, one sharded database—parallel writes, PostgreSQL, HTTP, Rust, Python, and shard-safe IDs. · GitHub",
+      "link": "https://github.com/schapman1974/briskdb",
+      "summary": "SQLiteを複数並べて(sharding)、並列書き込みを実現するDBサーバ。通信プロトコルはPostgreSQL。MongoDB/MySQLにも対応予定と。ブラウザでできるGUIも用意されてる。",
+      "published": "23 Aug 2026 06:11 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc20e345137e9659708ef290c85ac220",
+      "title": "Terraform Provider Plugin Cache を使ってください。 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/terraform-provider-plugin-cache-must-use/",
+      "summary": ".terraformフォルダの肥大化対策。各作業ディレクトリの.terraform配下のプロバイダーバイナリを共通化なるほど。たくさんのterrafom案件を抱える場合に有効と。皆様。",
+      "published": "23 Aug 2026 06:06 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8645653a13666195f12020d9a679d7d4",
+      "title": "ログに欠かせないseriesIdの生成方法について考えてみた - YOUTRUST Tech Blog",
+      "link": "https://tech.youtrust.co.jp/entry/2026/08/13/170637",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ログに欠かせないseriesIdの生成方法について考えてみた",
+      "published": "23 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "70817f3dca28c30306d4163870ed99ed",
+      "title": "Thinking in Python",
+      "link": "https://thinkinginpython.com/",
+      "summary": "Article URL: https://thinkinginpython.com/ Comments URL: https://news.ycombinator.com/item?id=49402202 Points: 126 # Comments: 23",
+      "published": "Sat, 22 Aug 2026 18:10:49 +0000",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2314edbe13c759e0647314eff32d186",
+      "title": "8bit CPU 2026",
+      "link": "https://speakerdeck.com/koba789/8bit-cpu-2026",
+      "summary": "Kernel/VM探検隊@東京 No19 で発表した内容です。 https://kernelvm.connpass.com/event/395390/",
+      "published": "2026-08-22T16:02:17Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2998d739d28b0504a0fcfcd7d2c74f1e",
+      "title": "Pythonの実行はどこまで賢くなったのか？ CPythonとPyPyから見る最適化のしくみ",
+      "link": "https://speakerdeck.com/curekoshimizu/python-no-jikkou-ha-doko-made-kashikoku-nata-no-ka-cpython-to-pypy-kara-miru-saitekika-no-shikumi",
+      "summary": "Biz全員が Claude CLI を使い 可視化できるAI作業環境を共有する ~ BizTeamへ Ghostty・Herdr・共有AI基盤 の導入 ~",
+      "published": "2026-08-22T18:53:05Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b18acc7fadfba8fea7f5665342d0b9bc",
+      "title": "【アゴラ】アゴラ編集部：中島聡氏がAIでもふ社長の記事を要約してnote投稿：「情報に著作権はない」と逆ギレ",
+      "link": "https://agora-web.jp/archives/260821194719.html",
+      "summary": "生成AIを使って他人の記事を要約し、それを自分の記事として公開する。こうした発信のあり方をめぐり、プログラマーの中島聡氏のnote記事が議論を呼んでいる。 問題となったのは、中島氏がnoteに投稿した、キオクシアの光SSD技術を紹介する記事だった。 元記事は専門家による技術解説 中島氏の記事の元にな...",
+      "published": "2026-08-22T01:42:00Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ae54aec8e603b9e1b23db169f876e25",
+      "title": "AIスマートグラス｜目立たないディスプレイ搭載 RayNeo iO",
+      "link": "https://jp.rayneo.com/pages/rayneo-io-ai-glasses",
+      "summary": "&]:pointer-events-auto [.is-open>&]:opacity-100 md:[.is-open>&]:scale-100 ' data-country-selector-panel > 国または地域を選択",
+      "published": "2026-08-22T00:27:57Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2bc927d05c3de98d80edecce0a3d756",
+      "title": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/a1cc91818da11d06",
+      "summary": "テオ氏：アップルのファイルシステムは遅すぎる——AIコーディングを全てLinuxに移行し、ストレージを3分の1に削減 ソフトウェア開発者のテオ氏は、自身のポッドキャストのソロ回で、ベンチマークに基づきアップルのAPFSファイルシステムを徹底批判した。現代のAIコーディングエージェントが生み出す小容量...",
+      "published": "2026-08-21T22:01:30Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fd431f7251a381a380892196228656f",
+      "title": "マウスコンピューターよりローカルAIを手元で本格活用できるコンパクトデスクトップ『DAIV CX』登場",
+      "link": "https://realsound.jp/tech/2026/08/post-2498820.html",
+      "summary": "マウスコンピューターは、クリエイター向けブランド「DAIV」より、ローカルAIの活用を想定したコンパクトデスクトップパソコン『DAIV CX』を8月24日より販売開始することを発表した。 『DAIV CX』は、クラウド環境に依存せず、社内資料や設計データなど機密性の高い情報をローカル環境で扱うユーザ...",
+      "published": "2026-08-21T11:36:38Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7f19d7a218f9431025a5397bfccafcc",
+      "title": "macOSのFinder上部にWindowsエクスプローラーのようなアドレスバーを表示してくれるMacアプリ「FinderCue」がリリース。",
+      "link": "https://applech2.com/archives/20260821-findercue-add-address-bar-in-finder.html",
+      "summary": "macOSのFinder上部にWindowsエクスプローラーのようなアドレスバーを表示してくれるMacアプリ「FinderCue」がリリースされています。詳細は以下から。 Windowsのデフォルトファイラーであるエクスプローラー(Windows File Explorer)には上部に現在開いている...",
+      "published": "2026-08-21T11:59:37Z",
+      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-23T04:28:19.407623+00:00"
+  "updated_at": "2026-08-23T06:26:24.901072+00:00"
 }

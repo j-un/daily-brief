@@ -719,7 +719,187 @@
       "fetched_at": "2026-08-23T10:14:54.436797+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "74c50ebcf32332d3a9ad36146d84fb2a",
+      "title": "とまり木 — 各地のカメラから、日本のいま。",
+      "link": "https://tomarigi.me/",
+      "summary": "知らなかった。わいわい。日本以外もこういったサイトあるんかな。",
+      "published": "23 Aug 2026 12:14 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "174c1ab5f9c13acd84baa63b97c899b6",
+      "title": "AIが書いたものをコピペしないでください。",
+      "link": "https://dontpastetheai.com/ja.html",
+      "summary": "「誰かがあなたに質問をするとき、その人はあなたの考えを聞きたがっています。未編集のChatGPTの出力結果ではありません」AIを活用しつつ、AIが生成した内容を読んで自分の見解を書きましょう。はい。",
+      "published": "23 Aug 2026 12:12 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebcc5d003be1be84d96b1f2ddac1e109",
+      "title": "Just a moment...",
+      "link": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "summary": "データセンターの排熱によりデータセンターの風下の気温が平均0.7〜0.9度上昇、最大で2.2度上昇したらしい。データセンター建設反対理由として今後注目されそうではある。",
+      "published": "23 Aug 2026 12:02 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe4d74a9e22703cf0307beb8227f8f91",
+      "title": "脅威検知とインシデント検知に特化したosqueryを使ったクエリー集。ほほう…",
+      "link": "https://github.com/chainguard-dev/osquery-defense-kit",
+      "summary": "脅威検知とインシデント検知に特化したosqueryを使ったクエリー集。ほほう",
+      "published": "23 Aug 2026 11:19 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "199602662856e537715cd7e7d86680a7",
+      "title": "VS Code Remote-SSHで、ポート22を開けずにプライベートサブネットのEC2に接続する（SSM Session Manager編） | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/connect-ec2-vscode-remote-ssh-via-ssm-session-manager/",
+      "summary": "SSMのAWS-StartSSHSessionをProxyCommand経由で。よし。",
+      "published": "23 Aug 2026 11:03 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80a3b3af4ccfb1bcc20027f2186ee1fb",
+      "title": "【OSS】現場で使える軽量な脅威検知・監視基盤「kizashi」を個人開発してみた（設計・実装の全記録） #Docker - Qiita",
+      "link": "https://qiita.com/kizashi-labs/items/42bac3515d11144ce07b",
+      "summary": "セルフホスト可能なオープンソースのEDR。ほう",
+      "published": "23 Aug 2026 10:36 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c423aeb4b102ba0f3f7eca5394fe6af2",
+      "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」 #origin - Qiita",
+      "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667",
+      "summary": "Cursor Origin CLIのコマンド名はoriginなのか。ちなみにCursor Agent CLIのコマンド名はagentの模様。大胆。公開リポジトリを作成できないというのはおそらく負荷対策の意味もありそう。",
+      "published": "23 Aug 2026 10:35 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8381a343fac2b23ee2c5b33db757d5f9",
+      "title": "GitHub Packages (Maven) を Google Artifact Registry へ移行しました - 株式会社ヘンリー エンジニアブログ",
+      "link": "https://dev.henry.jp/entry/2026/08/12/090556",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Packages (Maven) を Google Artifact Registry へ移行しました",
+      "published": "23 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a502a0e8075bf8f6383c49129d6dab6e",
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+      "summary": "Article URL: https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/ Comments URL: https://news....",
+      "published": "Sun, 23 Aug 2026 06:41:51 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "efe98efd702caf3a310ec342fa80b731",
+      "title": "The End of an Athlon",
+      "link": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "summary": "Article URL: http://www.os2museum.com/wp/the-end-of-an-athlon/ Comments URL: https://news.ycombinator.com/item?id=49406333 Points: 123 # Comments: 38",
+      "published": "Sun, 23 Aug 2026 05:51:01 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2615da667959a687f3c0d7af8a75c5c",
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "link": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "summary": "Article URL: https://nappertime.com/the-art-of-and-beauty-of-blade-runner/ Comments URL: https://news.ycombinator.com/item?id=49405331 Points: 103 # C...",
+      "published": "Sun, 23 Aug 2026 00:56:03 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddfc099d82c5c07c69e65e868f4bd7d6",
+      "title": "NanoGPT Speedrun Frontier",
+      "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 114 # Comment...",
+      "published": "Sat, 22 Aug 2026 22:14:27 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7576b863e838464d35a694bdad1132e2",
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "link": "https://marcua.net/minitools/figmimic/",
+      "summary": "Article URL: https://marcua.net/minitools/figmimic/ Comments URL: https://news.ycombinator.com/item?id=49402213 Points: 105 # Comments: 14",
+      "published": "Sat, 22 Aug 2026 18:11:40 +0000",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32927731afc81468efd192e367ab2ece",
+      "title": "FreeToken の概要｜npaka",
+      "link": "https://note.com/npaka/n/n6064bfdb71ed",
+      "summary": "「FreeToken」の概要についてまとめました。 1. FreeToken「FreeToken」は、NVIDIA GPUで、VRAMに収まりきらない大型MoE（Mixture-of-Experts）モデルを高速にローカル推論するためのAI推論エンジンです。 MoEは推論時に一部の「Expert」だ...",
+      "published": "2026-08-23T06:39:48Z",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31e1958d78163ca9539dd5465a062248",
+      "title": "GitHub - fayazara/Screendrop: A beautiful screenshot + screen recording + Loom alternative - all native, self hostable and free.",
+      "link": "https://github.com/fayazara/screendrop",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-08-23T05:44:17Z",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d3a60383b09da066aa0cb8504b69a9d",
+      "title": "chinpokomon_masterのブックマーク - はてなブックマーク",
+      "link": "https://b.hatena.ne.jp/chinpokomon_master/",
+      "summary": "西 和彦 Kazuhiko Nishi @nishikazuhiko 1978年に アスキーマイクロソフトとして BASICのソフトウェアを持って 国内企業を回った時に 受けた対応 ４８年前なので秘密保持契約は失効しています 各社の反応 日本電気 面白いからやりましょう NEC PC8000誕生 渡...",
+      "published": "2015-09-10T21:25:33Z",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b422097132d8118c7e16dc20c97f990",
+      "title": "Anthropic、AIの活用方法を学べる「Claude Academy」を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/claude-academy",
+      "summary": "Anthropic⁠⁠、AIの活用方法を学べる「Claude Academy」を公開 Anthropicは2026年8月20日、AIを安全かつ効果的に活用するための学習サイト「Claude Academy」を公開したと発表した。AIについて知りたい人やClaudeを使い始めた人、チームへの導入を進め...",
+      "published": "2026-08-21T12:29:03Z",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "53724fac154f9fe02b317cc26db6b75f",
+      "title": "Terraform で Cloudflare Workers をデプロイし、tfstate を R2 に置いてみた",
+      "link": "https://dev.classmethod.jp/articles/terraform-remote-backend-cloudflare-r2/",
+      "summary": "Cloudflare Workers を Terraform でデプロイし、tfstate を R2 に置いてみました。R2 の Access Key と Workers 用 API Token という2つの認証情報が必要だったことや、S3 互換の backend 設定まで、実装全体をご紹介します。",
+      "published": "Sun, 23 Aug 2026 10:37:17 GMT",
+      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-23T10:14:54.436797+00:00"
+  "updated_at": "2026-08-23T12:22:05.252667+00:00"
 }

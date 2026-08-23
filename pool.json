@@ -559,7 +559,167 @@
       "fetched_at": "2026-08-23T08:19:58.482176+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "75c70be6fb1864b7f45d015ba8e033d0",
+      "title": "encoding/json/v2 に至る14年",
+      "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
+      "summary": "わいわい。読み応えあったし考え方を理解できてよかった。",
+      "published": "23 Aug 2026 09:24 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f701e70084251a11f8c1a59ed194c12f",
+      "title": "AIエージェントにAPIキーを渡さない — trustlessを作った理由",
+      "link": "https://zenn.dev/neomaru/articles/trustless-why-no-secrets-for-agents",
+      "summary": "trustlessは「エージェントはキー名だけを知り、値はbrokerがプロセス起動時にだけ注入する」という一点に絞ったCLI。",
+      "published": "23 Aug 2026 08:56 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "604046e686c657522907d3a872b13f10",
+      "title": "バックアップが「戻せる」かを 5 段階で測る",
+      "link": "https://zenn.dev/unchox/articles/backup-restorability-levels",
+      "summary": "バックアップだけでなく、何らかの処理が完了したことを確認するための指標として利用できる。指差確認ﾖｼ!",
+      "published": "23 Aug 2026 08:52 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b807c19af7f2e52c7de3459b4fcc4e3c",
+      "title": "「ソフトウェア品質保証ガイド チームで顧客満足を実現するためのアプローチ・手法・技術」井芹洋輝 [ＰＣ・理工科学書] - KADOKAWA",
+      "link": "https://www.kadokawa.co.jp/product/302607002896/",
+      "summary": "ZEN大学出版会から。2026年8月28日発売",
+      "published": "23 Aug 2026 08:46 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dabbf908d932f484805f7284193f73c1",
+      "title": "「Explore It! プロダクトの価値と自信を高める探索的テスト実践ガイド」エリザベス・ヘンドリクソン [ＰＣ・理工科学書] - KADOKAWA",
+      "link": "https://www.kadokawa.co.jp/product/302607002898/",
+      "summary": "ZEN大学出版会から。2026年8月28日発売",
+      "published": "23 Aug 2026 08:45 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "074cafe8060f1d09fc6e185945102692",
+      "title": "AI-人間協調設計のための オブジェクト指向設計と実装 実行時メモリイメージからAIとの共同開発まで | オーム社",
+      "link": "https://www.ohmsha.co.jp/book/9784274235092.html",
+      "summary": "2026年8月27日発売",
+      "published": "23 Aug 2026 08:43 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a949418032a6304b2f788fb859d03552",
+      "title": "Amazon Aurora MySQL から Amazon S3 Tables に Apache Iceberg 形式でデータを抽出する | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/extract-data-from-amazon-aurora-mysql-to-amazon-s3-tables-in-apache-iceberg-format/",
+      "summary": "Aurora → Glue → S3 Tables",
+      "published": "23 Aug 2026 08:29 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e40fac11b8cf1e2d74edbb3b994a7c73",
+      "title": "AWS Certificate Manager が E メールによるドメイン検証を終了、DNS 検証への移行をご案内します | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-certificate-manager-will-discontinue-email-validation-to-prove-domain-validation-for-certificates/",
+      "summary": "Eメール検証済みパブリック証明書のサポート終了は2027年9月30日。皆様。",
+      "published": "23 Aug 2026 08:26 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "394739ad90fb280d4c7ded9ac29575fa",
+      "title": "ソフトウェアエンジニアリングの基礎 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401789/",
+      "summary": "コーダーからエンジニアになるための実践ガイド。2026年9月16日発売。",
+      "published": "23 Aug 2026 08:23 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdbb044c0f46188f3a9ce42be0a7b209",
+      "title": "イベントトラッキングの信頼性を支えるリトライ戦略 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/event-tracking-with-retry",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 イベントトラッキングの信頼性を支えるリトライ戦略",
+      "published": "23 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "01386cdb7ae670be2351d4985cd10d2e",
+      "title": "To become a better writer, read as much as you can",
+      "link": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "summary": "Article URL: https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/ Comments URL: https://news.ycombinator.com/item?id=49405870 Points: 1...",
+      "published": "Sun, 23 Aug 2026 03:32:25 +0000",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7af4e81b88bf311de3aa5d32aba3c11a",
+      "title": "ビルド時に不正コードが実行されるRustパッケージの改ざんについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/23/033006",
+      "summary": "Rustのパッケージレジストリcrates.ioで、広く使われている3つのクレートが改ざんされ、依存関係に追加されたタイポスクワットパッケージのビルドスクリプトを通じて、ビルドしただけでペイロードが実行される事案が2026年8月20日に発生しました。Rustプロジェクトと複数のセキュリティ企業が、手...",
+      "published": "2026-08-22T23:39:06Z",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "47fd3fbb46253f956836518e5ad3124a",
+      "title": "RTX 5090でFreeTokenを試してみた。35Bでは不要、120B級MoEでは話が変わる",
+      "link": "https://zenn.dev/holy_fox/articles/53b82eed45f956",
+      "summary": "2026年8月22日時点のFreeToken 0.1.2を、RTX 5090 32GBとRAM 128GBのPCで試しました。 FreeTokenは、Mixture-of-Experts（MoE）モデルのexpertをホストRAMへ置き、必要なexpertだけをGPUへキャッシュしながら推論するサー...",
+      "published": "2026-08-22T10:40:17Z",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9ea6a4eec75957a53e28e7f2ac9fe11",
+      "title": "Anthropic、Claudeによる自律タンパク質設計を実験検証―1,320設計の26.8％で結合を確認 | 財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20260821/866869.html",
+      "summary": "Anthropicは、AIモデル「Claude」が専門的な計算ツールを自律的に操作して設計したタンパク質について、外部の受託研究機関による実験結果を公開した。信頼できる測定結果が得られた15標的に対する1,320件の設計のうち、354件で標的タンパク質への結合が確認され、全体のヒット率は26.8％だ...",
+      "published": "2026-08-21T13:00:59Z",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c466302b0eaa5e69e274ef584a3b7ee3",
+      "title": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超 GitHubに公式ディレクトリ公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
+      "summary": "米Googleは8月20日（現地時間）、同社のオープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。併せて、コミュニティのプロジェクトを集約する公式リポジトリ「Awesome Gemma」をGitHubで公開した。 Google DeepMindは公式ブログで、ダ...",
+      "published": "2026-08-21T01:17:37Z",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9084e5bfe897e8656af65c997d685589",
+      "title": "はじめてのマネジメント：AIと組み立てた1on1",
+      "link": "https://dev.classmethod.jp/articles/1on1-design-with-ai/",
+      "summary": "初めてのマネージャー業務で、グロースリード一人が職種の異なる3人の部下を担当することになりました。その中で、1on1をどう設計するか、AIとの壁打ちを通じて考えたプロセスを紹介します。",
+      "published": "Sun, 23 Aug 2026 09:47:12 GMT",
+      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-23T08:19:58.482176+00:00"
+  "updated_at": "2026-08-23T10:14:54.436797+00:00"
 }

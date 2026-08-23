@@ -9,7 +9,87 @@
       "fetched_at": "2026-08-22T00:45:16.601240+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "43b036807870d61a53724e38e07a2040",
+      "title": "Nub — an all-in-one toolkit for Node.js",
+      "link": "https://nubjs.com/",
+      "summary": "nodejsをベースにTypeScriptの直接実行が可能なCLIツール。Rust実装。brew install nub",
+      "published": "23 Aug 2026 00:48 +0000",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3a83e1458120b181efb8fe2d9eb8478",
+      "title": "AIが生成した脆弱性修正パッチの品質検証結果についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIが生成した脆弱性修正パッチの品質検証結果についてまとめてみた",
+      "published": "22 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "54728fe029ffdc2e5a49a54b503de18b",
+      "title": "Why your local LLM feels dumber than it is",
+      "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "summary": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917 Comments URL: https://news.ycombinator.com/item?id=4940...",
+      "published": "Sat, 22 Aug 2026 18:14:16 +0000",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2735ce735dc6bb73f55efe9f47052da3",
+      "title": "A week of using Codex more than Claude",
+      "link": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "summary": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/ Comments URL: https://news.ycombinator.com/item?id=49393051 Poi...",
+      "published": "Fri, 21 Aug 2026 19:51:48 +0000",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "227bf5b1c958e563a1f1a08f1eefba7c",
+      "title": "Qwen3.8-27B におすすめのハーネス｜npaka",
+      "link": "https://note.com/npaka/n/nf7108e6bd18e",
+      "summary": "「Qwen3.8-27B」におすすめのハーネスをまとめました。 1. はじめに「Qwen3.8-27B」は、ローカル環境でも動かせる高性能なオープンウェイトLLMです。 モデル単体で使うだけでなく、「Pi」や「OpenCode」などのコーディングエージェントハーネスと組み合わせることで、コードの読み...",
+      "published": "2026-08-22T16:49:25Z",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2922de76a2ca3e4b3d1ef6e51b8192fa",
+      "title": "AIモデルを選ぶ時に「実際に何をしているのか？」という内部構造や処理フローをアニメーションで視覚化して確認できる「modelmap」",
+      "link": "https://gigazine.net/news/20260822-modelmap/",
+      "summary": "Hugging Faceは多数のAIモデルを共有していますが、AIモデルを選定する際にはどのAIモデルが内部的にどのような動きをしているのか、モデルの違いによって何が変わるのかが気になるところです。「modelmap」はAIモデルがどのような構造をしていて動作中にどのような処理フローをおこなっている...",
+      "published": "2026-08-22T09:43:48Z",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1115674487342937319a8fca99538152",
+      "title": "Sentry 互換の GlitchTip を AI 開発のハーネスにする - Avoid a void",
+      "link": "https://blog.starry.blue/entry/2026/08/21/110000",
+      "summary": "コーディングエージェントのおかげで、大規模なシステムを構築することが容易になっています。 私も趣味で Claude Code や Codex を使い、多数のサブシステムを持つバックエンドとフロントエンドからなるアプリケーションを開発しています。一方で、出来上がったシステムは一人で目を配れる規模を超え...",
+      "published": "2026-08-21T02:47:08Z",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3cfefe7666dd6f8c77152958a052be8",
+      "title": "『AI-DLC の紹介』というタイトルでゆるWeb勉強会@札幌で登壇しました #ゆるWeb札幌",
+      "link": "https://dev.classmethod.jp/articles/yuruweb-31-iwasa/",
+      "summary": "AWS が提唱する AI 駆動開発フレームワーク「AI-DLC」について、ゆるWeb勉強会での登壇内容とそこで寄せられた質問への調査結果をまとめました。",
+      "published": "Sat, 22 Aug 2026 22:58:52 GMT",
+      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-22T22:26:26.689669+00:00"
+  "updated_at": "2026-08-23T00:51:04.694281+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d316305f168247da9a54b2ee1cd510f5",
-      "title": "A Preview of DuckDB v2.0 – DuckDB",
-      "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "DuckDB serverだけでなくPostgreSQLやMySQLにも接続できるっぽいCONNECTが個人的にはアツイ。",
-      "published": "23 Aug 2026 06:56 +0000",
-      "fetched_at": "2026-08-23T08:19:58.482176+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "568bef1152e818211779772352e0f771",
-      "title": "エラーレスポンス設計の現在地2026 #API - Qiita",
-      "link": "https://qiita.com/tatsuya582/items/e5c56a2f7b976cfc17ea",
-      "summary": "わいわい",
-      "published": "23 Aug 2026 06:48 +0000",
-      "fetched_at": "2026-08-23T08:19:58.482176+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "75c70be6fb1864b7f45d015ba8e033d0",
       "title": "encoding/json/v2 に至る14年",
       "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
@@ -769,7 +749,117 @@
       "fetched_at": "2026-08-24T10:29:21.632624+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "b6d0d109b461414436c0dd01a440122f",
+      "title": "An operating model for enterprise AI agent reliability | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/generative-ai/operating-model-enterprise-ai-agent-reliability",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 An operating model for enterprise AI agent reliability",
+      "published": "24 Aug 2026 10:56 +0000",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72e209123edf2446d8736f44b6fa1f68",
+      "title": "Understanding agents, their five controllers and one graph | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/understanding-agents-their-five-controllers-and-one-graph",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Understanding agents, their five controllers and one graph",
+      "published": "24 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aef690805d91e3fa2e07ad65964e9c0a",
+      "title": "アンソロピック、AIの使い方を学べる「Claude Academy」 日本語対応",
+      "link": "https://www.watch.impress.co.jp/docs/news/2134964.html",
+      "summary": "",
+      "published": "2026-08-24T06:28:43Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe5993c54a73a223900d4a17beba3685",
+      "title": "LilyGo「T-Display K230 Kit」発売！RISC-V搭載で圏外でもLoRa通信可能なキーボードも選べる開発機が約150ドル",
+      "link": "https://daily-gadget.net/gadgets/119542/",
+      "summary": "中国のLilyGoは、RISC-V系SoC「Kendryte K230」を搭載した開発ボード「T-Display K230」に、専用の筐体とオプションの物理キーボードを組み合わせた完成品「T-Display K230 Kit」を発売しました。 ベース構成「CoreSet」の価格は約150ドルからです...",
+      "published": "2026-08-24T08:50:26Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd210a8f615709785fb4af3036f1d827",
+      "title": "適当に作ったスキルはない方がマシ - kawasin73のブログ",
+      "link": "https://kawasin73.hatenablog.com/entry/2026/08/24/171022",
+      "summary": "Eval しようね。どうも、かわしんです。 昨日 Claude Code に導入したスキルがむしろエージェントの性能を劣化させていたのを発見したのでそれについて実際の実験結果を含めてケーススタディとして紹介します。 コードレビューをしなくなった自分は、AI に作らせたスキルの中身も読んでいません。な...",
+      "published": "2026-08-24T09:25:55Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35ff94cd9febaca019ced1297f88b2df",
+      "title": "新しい「Outlook」に馴染めない人に ～クラシック版そっくりにするオプションが導入／8月から「Outlook on the web」と新しい「Outlook for Windows」で順次展開",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2134850.html",
+      "summary": "",
+      "published": "2026-08-24T05:21:36Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dd8598089a5a820acb9959dc28ad127",
+      "title": "人気カフェ「BERG」も楽天市場撤退 「反戦の思いと相容れない」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000715/",
+      "summary": "新宿の人気ビア＆カフェ「BERG」（ベルク）は8月23日、「BERG楽天市場店」を20日付で閉店したと公式Xで発表した。楽天グループの軍事用ドローン支援事業の報道を受け、「私たちの『反戦』の思いと相容れない状況となった」と説明した。 楽天の軍事ドローン支援参入を理由とした楽天市場からの撤退は、18日...",
+      "published": "2026-08-24T04:39:33Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b69da04aee14a65c0cad6a1ed9f76c6",
+      "title": "消費者庁、「ダークパターン」規制へ 特商法改正視野に中間取りまとめ案",
+      "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000728/",
+      "summary": "消費者庁は8月24日、有識者会議「デジタル取引・特定商取引法等検討会」の第8回会合で、消費者の意思決定をゆがめる表示・UI、いわゆる「ダークパターン」への規律を盛り込んだ中間取りまとめ案を公表した。特定商取引法の改正を視野に入れる。 取りまとめ案では、「お試し」と表示しながら実際は定期購入が条件にな...",
+      "published": "2026-08-24T09:25:51Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "300abde5bd7d35718e1bf90bcc9159ee",
+      "title": "ドコモバイクシェア、「NOLL」へのブランド刷新を延期 システム障害の影響",
+      "link": "https://www.watch.impress.co.jp/docs/news/2135087.html",
+      "summary": "",
+      "published": "2026-08-24T08:55:45Z",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f5720f9154773bf1046ffbce3f725db",
+      "title": "Homesickness and loss in sound, from Detroit to Beirut: Layan Srour",
+      "link": "https://cdm.link/homesickness-and-loss-in-sound-from-detroit-to-beirut-layan-srour/",
+      "summary": "What does it mean to grieve home -- being away from home and actually losing home? What does it mean to express that grief in sound, and to create spa...",
+      "published": "Mon, 24 Aug 2026 10:30:41 +0000",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "9b1d70c8d5ca0cb31f256f784e8d7d24",
+      "title": "Get 84% off the SSL Native X-Echo plugin in this limited-time sale at Plugin Boutique",
+      "link": "https://musictech.com/news/gear/ssl-native-x-echo-plugin-sale/?utm_source=rss&utm_medium=rss&utm_campaign=ssl-native-x-echo-plugin-sale",
+      "summary": "Add some vintage tape character to your tracks for a fraction of the usual price. The post Get 84% off the SSL Native X-Echo plugin in this limited-ti...",
+      "published": "Mon, 24 Aug 2026 11:28:27 +0000",
+      "fetched_at": "2026-08-24T12:31:15.402253+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-24T10:29:21.632624+00:00"
+  "updated_at": "2026-08-24T12:31:15.402253+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c423aeb4b102ba0f3f7eca5394fe6af2",
-      "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」 #origin - Qiita",
-      "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667",
-      "summary": "Cursor Origin CLIのコマンド名はoriginなのか。ちなみにCursor Agent CLIのコマンド名はagentの模様。大胆。公開リポジトリを作成できないというのはおそらく負荷対策の意味もありそう。",
-      "published": "23 Aug 2026 10:35 +0000",
-      "fetched_at": "2026-08-23T12:22:05.252667+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "eb405990ea37b3eea44eb2b40cd970a8",
       "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
       "link": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
@@ -949,7 +939,107 @@
       "fetched_at": "2026-08-24T14:33:16.788604+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "dd400060904250cac19db5bfa30d1656",
+      "title": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/",
+      "summary": "Amazon Redshift, starting with patch P203, supports concurrency scaling for refreshes of Amazon Kinesis Data Streams (KDS)-connected streaming materia...",
+      "published": "Thu, 20 Aug 2026 20:00:00 GMT",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a8207d1b56849c9bd48416099e13676",
+      "title": "優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記",
+      "link": "https://www.pospome.work/entry/2026/08/24/223309",
+      "summary": "株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) 自分はここ数年いろんなエンジニアが書いたDesign Docをレビューする機会があるんですけど、その中で「優秀なエンジニアであれば、ここは押さえて欲しい」「ここでエンジニアとしてのスキルが分かる」というポイントがあり...",
+      "published": "2026-08-24T14:11:35Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "736ebba2197ed894d6d2074fc4ea45ea",
+      "title": "お前らが毎日必ず見るサイトってなに？",
+      "link": "https://anond.hatelabo.jp/20260824185046",
+      "summary": "ワイ ・はてブ ・キニ速 ・ザイーガ 終わってる？",
+      "published": "2026-08-24T09:51:19Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4619201ed1106ee8fccf971bacfabb79",
+      "title": "【やじうまPC Watch】 100万円超のDGX Spark、価格 .comでジャンル別売れ筋ランキング首位に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2134985.html",
+      "summary": "",
+      "published": "2026-08-24T06:09:52Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30d7e8c41f845b7a93bcdbbb9ed29822",
+      "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
+      "summary": "ある開発者が不便さを解決するためにツールを開発する。それをオープンソースとして公開する――。ソフトウェア業界ではよく聞く話だ。ピーター・スタインバーガー（Peter Steinberger）氏もその1人だ。だがスタインバーガー氏のツールは、半年余りで約2000人のコントリビューターを集めた。彼のプロ...",
+      "published": "2026-08-23T23:53:07Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00fa86043bc16bd03132f23f3f3be655",
+      "title": "不具合情報の集約基盤を整え、品質改善に活かすまで - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/24/133642",
+      "summary": "こんにちは、SmartHR 品質保証本部 Directorのtarappoです。 最近は組織周りの話を多くしてきましたが、今回は「不具合に関する情報を集める基盤」を整えたことについて、かんたんに紹介しようかと思います。 本記事では「どういった基盤を整えたのか」「今、どこまで整ってきているのか」、そし...",
+      "published": "2026-08-24T04:51:54Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83fbd7a5cc3a38a9c1264a1947944aaa",
+      "title": "Blueskyの鍵アカ実装につながる技術「Atproto Spaces」のアルファ版が登場",
+      "link": "https://gigazine.net/news/20260824-bluesky-atproto-spaces-alpha/",
+      "summary": "Blueskyは旧Twitterに似た使用感のSNSですが、投稿をフォロワー以外から閲覧不能とする「鍵アカウント」を作成できないという大きな違いが存在しています。新たに、Blueskyの基盤プロトコルである「AT Protocol」で非公開データの保存や共有を可能とする「Atproto Spaces...",
+      "published": "2026-08-24T02:36:16Z",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43d43a131b0529aa989badc9ab8a68ee",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 tashfee…",
+      "link": "https://github.com/tashfeenahmed/freellmapi",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 tashfeenahmed / freellmapi ⭐ 19,591 (+153) 🗒 TypeScript OpenAI-compatible proxy that stacks the free tiers of 28 LLM ...",
+      "published": "24 Aug 2026 16:17 +0000",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b66db9609a1a862c9bb6beafbf6fd24c",
+      "title": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 vors…",
+      "link": "https://github.com/vorssaint/vorssaint-utils",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 vorssaint / vorssaint-utils ⭐ 9,940 (+2,530) 🗒 Swift Free and open-source macOS menu bar toolkit.",
+      "published": "24 Aug 2026 15:17 +0000",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90ecee384bbc6e6d069ac69a5f31b9a5",
+      "title": "Dr. Dre says he is “embracing” AI in music: “It’s a new tool for creativity”",
+      "link": "https://musictech.com/news/music/dr-dre-embracing-ai-new-tool/?utm_source=rss&utm_medium=rss&utm_campaign=dr-dre-embracing-ai-new-tool",
+      "summary": "“I think the only people that see it as a threat are the people who have trouble creating,” Dr. Dre says. The post Dr. Dre says he is “embracing” AI i...",
+      "published": "Mon, 24 Aug 2026 16:25:12 +0000",
+      "fetched_at": "2026-08-24T16:26:03.161371+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-24T14:33:16.788604+00:00"
+  "updated_at": "2026-08-24T16:26:03.161371+00:00"
 }

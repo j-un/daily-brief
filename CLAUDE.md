@@ -21,10 +21,20 @@ RSSフィードから収集した記事をキュレーションし、日次 Mark
 ```
 fetch_feeds.py → pool.json
 prepare_brief.py → articles.json
-select_articles.py (Sonnet) → selected.json   # 関連度判定・カテゴリ分類・⭐選定
-summarize_articles.py (Haiku) → summaries.json # 日本語要約生成
-render_brief.py → docs/brief-YYYY-MM-DD.md    # Markdown 描画（Claude 不使用）
+select_articles.py → selected.json    # 関連度判定・カテゴリ分類・⭐選定
+summarize_articles.py → summaries.json # 日本語要約生成
+render_brief.py → docs/brief-YYYY-MM-DD.md # Markdown 描画（LLM 不使用）
 ```
+
+選定・要約は `DAILY_BRIEF_LLM=claude|cursor`（または `daily-brief.sh --llm`）で Claude Code CLI / Cursor CLI を切替する。
+未設定時は PATH に `claude` があれば Claude、なければ `agent`（Cursor）。両方入っているときは `--llm` または env の明示が必要。
+
+| LLM | 選定 | 要約 |
+| --- | --- | --- |
+| Claude | Sonnet | Haiku |
+| Cursor | cursor-grok-4.6-high | composer-2.5 |
+
+モデル上書き: `DAILY_BRIEF_SELECT_MODEL` / `DAILY_BRIEF_SUMMARIZE_MODEL`
 
 選定・要約のプロンプトとルールは各スクリプト内に記述されている。
 

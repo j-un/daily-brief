@@ -3,15 +3,17 @@
 # requires-python = ">=3.11"
 # ///
 """
-selected.json + articles.json を受け取り、Claude Haiku でピックアップ記事を要約し summaries.json を出力する。
+selected.json + articles.json を受け取り、LLM でピックアップ記事を要約し summaries.json を出力する。
 """
 
 import argparse
 import json
 import os
 import re
-import subprocess
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import llm_cli
 
 SYSTEM_PROMPT = """\
 あなたは技術・音楽・ビジネス分野の記事キュレーターです。
@@ -38,27 +40,6 @@ id は記事リストの id フィールドの値をそのまま使ってくだ�
 """
 
 
-def call_claude(prompt: str) -> tuple[str, dict, float | None]:
-    cmd = [
-        "claude",
-        "--model", "claude-haiku-4-5-20251001",
-        "--dangerously-skip-permissions",
-        "--output-format", "json",
-        "-p", prompt,
-    ]
-    result = subprocess.run(cmd, capture_output=True, text=True)
-    if result.returncode != 0:
-        print(result.stderr, file=sys.stderr)
-        raise RuntimeError(f"claude exited with {result.returncode}")
-
-    data = json.loads(result.stdout)
-    if data.get("is_error"):
-        raise RuntimeError(f"claude error: {data.get('result')}")
-
-    cost = data.get("total_cost_usd") or data.get("cost_usd")
-    return data["result"], data.get("usage", {}), cost
-
-
 def extract_json(text: str) -> dict:
     # コードフェンスを除去し、前後に説明文があっても最外の JSON オブジェクトを取り出す
     text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL)
@@ -69,21 +50,10 @@ def extract_json(text: str) -> dict:
     return json.loads(text)
 
 
-def print_usage(label: str, usage: dict, cost: float | None) -> None:
-    input_t = usage.get("input_tokens", 0)
-    cache_cr = usage.get("cache_creation_input_tokens", 0)
-    cache_rd = usage.get("cache_read_input_tokens", 0)
-    output_t = usage.get("output_tokens", 0)
-    total = input_t + cache_cr + cache_rd + output_t
-    cost_str = f" / cost=${cost:.4f}" if cost is not None else ""
-    print(
-        f"  [{label}] input={input_t:,} cache_creation={cache_cr:,} cache_read={cache_rd:,} output={output_t:,} total={total:,}{cost_str}",
-        file=sys.stderr,
-    )
-
-
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Claude Haiku で選定済み記事を要約し summaries.json を生成")
+    parser = argparse.ArgumentParser(
+        description="LLM で選定済み記事を要約し summaries.json を生成"
+    )
     parser.add_argument("--articles", required=True, help="articles.json のパス")
     parser.add_argument("--selected", required=True, help="selected.json のパス")
     parser.add_argument("--output", required=True, help="summaries.json の出力先パス")
@@ -106,7 +76,15 @@ def main() -> None:
         if args.usage_file:
             os.makedirs(os.path.dirname(args.usage_file) or ".", exist_ok=True)
             with open(args.usage_file, "w", encoding="utf-8") as f:
-                json.dump({"label": "Haiku Summarize", "cost_usd": 0.0, "usage": {}}, f)
+                json.dump(
+                    {
+                        "label": llm_cli.usage_label("summarize"),
+                        "provider": llm_cli.resolve_provider(),
+                        "cost_usd": None,
+                        "usage": {},
+                    },
+                    f,
+                )
         return
 
     # id(連番) / title / summary のみ渡す（entry_id の転記ミスを防ぐため連番を使用）
@@ -133,9 +111,16 @@ def main() -> None:
         + f"\n\n上記 {len(payload)} 件すべてに対して summary_jp を返すこと。"
     )
 
-    print("Calling Claude Haiku for summarization...", file=sys.stderr)
-    result_text, usage, cost = call_claude(prompt)
-    print_usage("Haiku Summarize", usage, cost)
+    provider = llm_cli.resolve_provider()
+    model = llm_cli.resolve_model("summarize", provider)
+    print(f"Calling {provider} ({model}) for summarization...", file=sys.stderr)
+    result_text, usage, cost = llm_cli.call_llm(prompt, role="summarize")
+    print(
+        llm_cli.format_usage_line(
+            llm_cli.usage_label("summarize"), usage, cost, provider=provider
+        ),
+        file=sys.stderr,
+    )
 
     try:
         result_json = extract_json(result_text)
@@ -190,8 +175,16 @@ def main() -> None:
                 + f"\n\n上記 {len(retry_payload)} 件すべてに対して summary_jp を返すこと。"
             )
             try:
-                retry_text, retry_usage, retry_cost = call_claude(retry_prompt)
-                print_usage("Haiku Summarize (retry)", retry_usage, retry_cost)
+                retry_text, retry_usage, retry_cost = llm_cli.call_llm(retry_prompt, role="summarize")
+                print(
+                    llm_cli.format_usage_line(
+                        llm_cli.usage_label("summarize", suffix="(retry)"),
+                        retry_usage,
+                        retry_cost,
+                        provider=provider,
+                    ),
+                    file=sys.stderr,
+                )
                 retry_list = extract_json(retry_text)["summaries"]
             except Exception as e:
                 print(f"ERROR: リトライ {attempt} 失敗: {e}", file=sys.stderr)
@@ -222,7 +215,15 @@ def main() -> None:
     if args.usage_file:
         os.makedirs(os.path.dirname(args.usage_file) or ".", exist_ok=True)
         with open(args.usage_file, "w", encoding="utf-8") as f:
-            json.dump({"label": "Haiku Summarize", "cost_usd": cost, "usage": usage}, f)
+            json.dump(
+                {
+                    "label": llm_cli.usage_label("summarize"),
+                    "provider": provider,
+                    "cost_usd": cost,
+                    "usage": usage,
+                },
+                f,
+            )
 
 
 if __name__ == "__main__":

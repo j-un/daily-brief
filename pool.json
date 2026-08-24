@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "75c70be6fb1864b7f45d015ba8e033d0",
-      "title": "encoding/json/v2 に至る14年",
-      "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
-      "summary": "わいわい。読み応えあったし考え方を理解できてよかった。",
-      "published": "23 Aug 2026 09:24 +0000",
-      "fetched_at": "2026-08-23T10:14:54.436797+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c423aeb4b102ba0f3f7eca5394fe6af2",
       "title": "Cursor Originを触った。第一印象は「Cursor版GitHub」 #origin - Qiita",
       "link": "https://qiita.com/Kinopee/items/639d401573c09ab24667",
@@ -859,7 +849,107 @@
       "fetched_at": "2026-08-24T12:31:15.402253+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "cd52977a07600beb7d34aa26c101f961",
+      "title": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/",
+      "summary": "GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest famil...",
+      "published": "Mon, 24 Aug 2026 13:00:00 GMT",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7a5964f95deaab4b315dc0dcb645ef2",
+      "title": "サンコー、タコやエビまるごとプレスできるせんべいメーカー2 - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2134480.html",
+      "summary": "",
+      "published": "2026-08-24T09:06:52Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94a2938280ebab3cc0657e258763fdc4",
+      "title": "CSS Color Module v6 ベースの色設計 | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2026-08-24/color-over-web.html",
+      "summary": "Intro Web における「色」を扱う API は、気づいたら色々増えている。 デザインシステムの中で、デザイントークンとして色を一元管理するといった構成は増えているが、その先の定義が RGB Hex なことはまだ多いだろう。 今の Web の API を用いると、どういった色の設計や管理が可能な...",
+      "published": "2026-08-24T10:01:15Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3894a99676be77c16adf6c7485642cd",
+      "title": "コンセントに差すだけの感震ブレーカー、アイリスオーヤマ - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2134549.html",
+      "summary": "",
+      "published": "2026-08-23T22:19:47Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a739a7a4a8db949ebad8397008773c3",
+      "title": "Oracleがセキュリティ更新を毎月実施へ ～四半期ごとの「CPU」を補完する枠組み／新設の「CSPU」で943件のパッチを提供。「Java」「VirtualBox」「MySQL」などが影響",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2134849.html",
+      "summary": "",
+      "published": "2026-08-24T09:17:51Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dd574a6cba9bb6a32cfc9c7d00e150d",
+      "title": "テスラが太陽光屋根タイル「ソーラールーフ」の販売を終了",
+      "link": "https://gigazine.net/news/20260824-tesla-solar-roof/",
+      "summary": "イーロン・マスク氏率いるテスラモーターズは2016年に、一般家庭の屋根タイルと全く見分けがつかない太陽光発電パネル「ソーラールーフ」などの太陽光発電関連商品を発表しました。しかし、エネルギー関連のニュースを発信するElectrekが関係者から入手した情報によると、テスラは採算が合わないことを理由に、...",
+      "published": "2026-08-24T09:30:52Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e249afa0a622179eadcc7aec89bf42f",
+      "title": "スマホ時代に「写ルンです」が再ブームのワケ 富士フイルムに聞く40周年モデル投入の狙い",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/22/news004.html",
+      "summary": "富士フイルムは「写ルンです」の発売40周年を記念し、新モデルの「写ルンです Active」を8月7日に発売し、「写ルンです Black and White」を9月以降に発売する。スマートフォンで誰もが手軽に高品質な写真を撮影できる現代において、同社はなぜあえて新モデルを市場に投入するのか。同社に書面...",
+      "published": "2026-08-24T01:23:26Z",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff5e2f9422a7f04599a08acdf575e98d",
+      "title": "Claude Code のセッションログから日報と予実用の稼働記録を分けて作るスキルを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-daily-report-timesheet-skill/",
+      "summary": "日報と稼働実績を毎日つけることができていない悩みを解決するため、複数のツールに散らばった作業記録をAIで自動整理する仕組みを作りました。役割が異なる2つの出力を分ける設計と、事実ベースの記録を守るための工夫についてまとめます。",
+      "published": "Mon, 24 Aug 2026 13:22:19 GMT",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1722f9f77cee1079401ab5a8bce08b78",
+      "title": "frances chang, “been thinking bout confession”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/frances-chang-been-thinking-bout-confession-review",
+      "summary": "The artfully frayed and lovely third solo record from frances chang tempers the experimental with the musical. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 24 Aug 2026 13:43:31 -0000",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "d6cd405aae3fedcde1839f8b81f90488",
+      "title": "Taking it From the Streets",
+      "link": "https://daily.bandcamp.com/lists/street-music-album-guide",
+      "summary": "Celebrating the artists who make music on and for the streets. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 24 Aug 2026 13:43:23 -0000",
+      "fetched_at": "2026-08-24T14:33:16.788604+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-24T12:31:15.402253+00:00"
+  "updated_at": "2026-08-24T14:33:16.788604+00:00"
 }

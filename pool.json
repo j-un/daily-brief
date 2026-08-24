@@ -69,7 +69,97 @@
       "fetched_at": "2026-08-23T14:15:06.424960+00:00",
       "feed_name": "@matsuu (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "3cd9c8553f4d24b92099718c9d5a2f37",
+      "title": "Rust プロフェッショナル プログラミング【委託】 - 達人出版会",
+      "link": "https://tatsu-zine.com/books/rust-for-rustaceans",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Rust プロフェッショナル プログラミング",
+      "published": "23 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08aaea2cf8abc3171a56248fc147ceec",
+      "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+      "link": "https://36kr.jp/500515/",
+      "summary": "世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたところによると、米市場調査会社「Smart Analytics Global（SAG）」の最新データでは、2026年1〜6月期の世界の出荷台数は約1万9100台に達し、前年同期の5100台から...",
+      "published": "2026-08-23T22:09:22Z",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "174c1ab5f9c13acd84baa63b97c899b6",
+      "title": "AIが書いたものをコピペしないでください。",
+      "link": "https://dontpastetheai.com/ja.html",
+      "summary": "恐れ入りますが、 AIが書いたものをコピペしないでください。 誰かがあなたに質問をするとき、その人はあなたの考えを聞きたがっています。未編集のChatGPTの出力結果ではありません。 あなたの自分の言葉による短い回答は、AIが出力した長々とした回答よりも優れています。どんな場合でもそうです。 いま、...",
+      "published": "2026-08-19T00:41:08Z",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aab83e01b76d4f2cab8919ac27e52c9b",
+      "title": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) | spf13",
+      "link": "https://spf13.com/p/go-the-agentic-language/",
+      "summary": "Why TypeScript 7.0 Was Rewritten in Go (and what it means for your dev stack) Over the last year, the team that invented TypeScript ported the TypeScr...",
+      "published": "2026-08-23T18:14:08Z",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f701e70084251a11f8c1a59ed194c12f",
+      "title": "AIエージェントにAPIキーを渡さない — trustlessを作った理由",
+      "link": "https://zenn.dev/neomaru/articles/trustless-why-no-secrets-for-agents",
+      "summary": "結論: AIエージェントに平文のAPIキーを渡すのはやめる。trustlessは「エージェントはキー名だけを知り、値はbrokerがプロセス起動時にだけ注入する」という一点に絞ったCLIです。 外部依存は github.com/pelletier/go-toml/v2 1つだけ（pure Go）、配...",
+      "published": "2026-08-23T08:56:21Z",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f2c2abfb0170ea718a3268b50e84078",
+      "title": "ピアノ演奏の続きをAIで自動生成できるアプリ「RollTab」が登場",
+      "link": "https://gigazine.net/news/20260823-transformer-piano/",
+      "summary": "人間が演奏したピアノ楽曲の続きをAIで自動生成できるiPhoneアプリ「RollTab」が登場しました。RollTabの開発者であるサイモン・エドワードソン氏がアプリや独自AIモデルの開発プロセスについて解説しています。 Training a 125M-parameter Model to Auto...",
+      "published": "2026-08-23T13:50:37Z",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6587b2c413179319a94af92788c63cfe",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 anthrop…",
+      "link": "https://github.com/anthropics/claude-plugins-community",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 anthropics / claude-plugins-community ⭐ 714 (+190) 🗒 Python Community plugin marketplace for Claude Cowork and Claude...",
+      "published": "23 Aug 2026 23:17 +0000",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfc96bd62195fe01a24786beaa09f698",
+      "title": "RDS のレコメンデーションにメンテナンス日時が表示されているが、この日時で自動でバージョンアップされますか？",
+      "link": "https://dev.classmethod.jp/articles/tsnote-rds-recommendation-maintenance-date-and-time-display/",
+      "summary": "RDS のレコメンデーションに表示される「最新のマイナー DB エンジンバージョンを実行していません」という警告と、そこに表示されるメンテナンス日時の意味について、混乱しやすいポイントを解説します。",
+      "published": "Mon, 24 Aug 2026 00:32:45 GMT",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "20bfdda7b0e02a4461cf128dd3b45676",
+      "title": "Obsidian × Claude Code で相棒を作る — Slack 連携と安全設計",
+      "link": "https://dev.classmethod.jp/articles/obsidian-claude-code-slack-permission-guardrails/",
+      "summary": "Claude Code に Slack を繋ぐとき、AI に何をさせて何を禁じるかを設計した記録です。allow / ask / deny の3層に仕分ける判断基準と、CLAUDE.md では実行を止められず settings.json の permissions だけが強制力を持つという違いを、実...",
+      "published": "Sun, 23 Aug 2026 23:00:13 GMT",
+      "fetched_at": "2026-08-24T00:48:22.983028+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-23T22:46:49.137976+00:00"
+  "updated_at": "2026-08-24T00:48:22.983028+00:00"
 }

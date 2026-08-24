@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "eb405990ea37b3eea44eb2b40cd970a8",
-      "title": "AIで生産性が3倍になった私たちが、チームを置き去りにした話",
-      "link": "https://zenn.dev/factory_dx_eng/articles/ai-productivity-team-divide",
-      "summary": "「すぐには理解できないが、正しいことを言っているのだと思う」似た状況ある。自戒。",
-      "published": "23 Aug 2026 13:16 +0000",
-      "fetched_at": "2026-08-23T14:15:06.424960+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "3cd9c8553f4d24b92099718c9d5a2f37",
       "title": "Rust プロフェッショナル プログラミング【委託】 - 達人出版会",
       "link": "https://tatsu-zine.com/books/rust-for-rustaceans",
@@ -1039,7 +1029,127 @@
       "fetched_at": "2026-08-24T16:26:03.161371+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "08a0fff73754e4098a8ccd61e981de16",
+      "title": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/",
+      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.4, 17.10, 16.14, 15.18, and 14.23 which include bug fixes from the Pos...",
+      "published": "Mon, 24 Aug 2026 16:00:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b3925cdbd3ee8679773f995b5e7ac4b",
+      "title": "Amazon SageMaker HyperPod enhances support for Ray",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray",
+      "summary": "Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development ...",
+      "published": "Mon, 24 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a3d018917d9806b7ab7bfc8de43f79f",
+      "title": "AWS ParallelCluster 3.16 adds an on-node diagnostics tool",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/",
+      "summary": "AWS ParallelCluster 3.16 is now generally available with a new on-node diagnostics tool, cluster stability improvements, and an updated HPC and AI/ML ...",
+      "published": "Mon, 24 Aug 2026 14:00:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d91455cb6316c07d9b2c4cff478eca88",
+      "title": "Amazon RDS for MySQL now supports new minor version 8.4.11",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/",
+      "summary": "Starting today, Amazon Relational Database Service (Amazon RDS) for MySQL supports MySQL minor version 8.4.11, the latest minor released by community ...",
+      "published": "Mon, 24 Aug 2026 08:41:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1e6e72468b5e7f51a427221d29f7d34",
+      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
+      "summary": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per ...",
+      "published": "Fri, 21 Aug 2026 20:11:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa39340c35d5519c73d7416a77181ae2",
+      "title": "Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads",
+      "summary": "Amazon Bedrock AgentCore memory now accepts a JSON payload type on the CreateEvent API, so agents can extract and consolidate long-term memories from ...",
+      "published": "Thu, 20 Aug 2026 20:00:00 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a2d1c2a1e93b937db456624ea2be5e9",
+      "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
+      "link": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+      "summary": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能 オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundatio...",
+      "published": "2026-08-24T14:16:04Z",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44e7734ff49176824b705c7dd7ee9b5f",
+      "title": "レガシーPHP転生 〜父がドメインエキスパートだったのでDDD+Claude Codeでチート開発します〜",
+      "link": "https://speakerdeck.com/panda_program/cheating-development-with-domain-expert-and-claude-code-94bf62f6-da8a-422f-9ae6-f2fccc021fec",
+      "summary": "ある日、父から「あるWebアプリを新しく作り替えてくれない？ 」と頼まれ、私は軽い気持ちで引き受けました。元になるのは10年前に父がクラウドワークスで発注、運用してきた業務システム。貰ったコードは1ファイルにHTML・CSS・JS・PHPが混在し、GET/POSTも同じファイルで処理する「あの頃のP...",
+      "published": "2026-08-24T07:12:57Z",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6d03358897cb6953de0986680439298",
+      "title": "Windows デスクトップアプリを日本法人が安全に配布する — コード署名・SmartScreen の現実（2026 年版）",
+      "link": "https://codenote.net/ja/posts/windows-desktop-app-code-signing-distribution-japan-2026/",
+      "summary": "Microsoft 自身も配布パスの選択ガイドで、広く配布するなら Store を推奨し、Store 外配布では SmartScreen の評判を別途積み上げる必要があると明示しています。つまり「初回からの警告ゼロ」を最優先するなら Store MSIX、「既存のビルド運用に最も載せやすいこと」を最...",
+      "published": "2026-08-24T03:53:35Z",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cdb78ce199422332dd821d22c2c3f4a",
+      "title": "Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI - Phoronix",
+      "link": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "summary": "Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI Written by Michael Larabel in AI on 21 August 2026 at 06:19 AM EDT. 54 Com...",
+      "published": "2026-08-21T11:16:29Z",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2c746ee30ee6b2f73e27b9f7b9da892",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Agr…",
+      "link": "https://github.com/AgriciDaniel/claude-obsidian",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 AgriciDaniel / claude-obsidian ⭐ 11,496 (+272) 🗒 Python Self-organizing AI second brain for Obsidian + Claude Cod...",
+      "published": "24 Aug 2026 18:17 +0000",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb52812d7d8dd86213abbc4d5535c218",
+      "title": "Amazon Aurora DSQL がサポートした CloudWatch Database Insights を試してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-aurora-dsql-cloudwatch-database-insights/",
+      "summary": "Amazon Aurora DSQL が Amazon CloudWatch Database Insights に対応しました。DSQL Active Session History（DASH）により、GUI・CloudWatch メトリクス API・PromQL API の3つの手段でデータベー...",
+      "published": "Mon, 24 Aug 2026 16:35:31 GMT",
+      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-24T16:26:03.161371+00:00"
+  "updated_at": "2026-08-24T18:27:46.606675+00:00"
 }

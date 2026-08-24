@@ -9,7 +9,37 @@
       "fetched_at": "2026-08-24T18:27:46.606675+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "dfca132f7cc0ecfcd33dd2a418ce7488",
+      "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
+      "summary": "Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associate ...",
+      "published": "Mon, 24 Aug 2026 18:29:00 GMT",
+      "fetched_at": "2026-08-24T22:16:57.639981+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b95190a804ea7c5ef237058b38cb085c",
+      "title": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0",
+      "summary": "AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks ...",
+      "published": "Fri, 21 Aug 2026 21:11:00 GMT",
+      "fetched_at": "2026-08-24T22:16:57.639981+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "47f618002abc6b4749d24de2f81c49d2",
+      "title": "The modern Protobuf workflow · Buf",
+      "link": "https://buf.build/blog/the-modern-protobuf-workflow",
+      "summary": "For a long time, Protobuf had a notoriously bad developer experience: protoc flags you couldn’t find documentation for, .proto files copied between re...",
+      "published": "2026-08-24T11:02:49Z",
+      "fetched_at": "2026-08-24T22:16:57.639981+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-24T21:28:21.600368+00:00"
+  "updated_at": "2026-08-24T22:16:57.639981+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d4aaf02a2faa26f3818f41291b068fe5",
-      "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
-      "summary": "「AIエージェントにはタブも拡張機能も不要」は確かに。ただ、試しにYahoo! JAPANを読み込ませたら非同期に取得しているであろうおすすめ記事一覧が表示されなかった。あかんがな。",
-      "published": "23 Aug 2026 06:19 +0000",
-      "fetched_at": "2026-08-23T06:26:24.901072+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d316305f168247da9a54b2ee1cd510f5",
       "title": "A Preview of DuckDB v2.0 – DuckDB",
       "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
@@ -649,7 +639,137 @@
       "fetched_at": "2026-08-24T08:37:49.833103+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "626a9a334bf81bc210f1bda5e700e83d",
+      "title": "How I Support Humans in the AI Era | Honeycomb",
+      "link": "https://www.honeycomb.io/blog/how-i-support-humans-in-the-ai-era",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How I Support Humans in the AI Era",
+      "published": "24 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75416f0444a8b6551bf3ab4addef9784",
+      "title": "AI開発の新たなボトルネックは「ガスタービン不足」",
+      "link": "https://gigazine.net/news/20260824-gas-turbine-shortage/",
+      "summary": "AI開発においては、データを処理する「データセンター」の新設が急務となっています。ここで、新たに電力供給に必要な「ガスタービン」が不足していて、データセンターへの電力供給が滞る可能性が出てきました。 The Gas Turbine Shortage Just Became AI’s Biggest ...",
+      "published": "2026-08-24T07:07:11Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7846ec89b7d27d3494e51677d5cf1240",
+      "title": "【ギア推し】 あ、これゲームをやめられないやつだ 240Hz対応ARグラス「ROG XREAL R1」",
+      "link": "https://pc.watch.impress.co.jp/docs/column/gamingdevice/2134391.html",
+      "summary": "",
+      "published": "2026-08-24T05:58:27Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c03a52d28f7b1e4b15ed3810c4d56b6c",
+      "title": "見つけすぎる時代の、脆弱性管理。｜cuon",
+      "link": "https://note.com/cuon/n/nbcb7cdfb9d59",
+      "summary": "CVE、NVD、そして脆弱性管理の再設計の話2026年7月、主要な組織が公開したHigh/CriticalのCVEは約2,500件に達した。 Claude Mythos Previewの発表前における月間記録の、およそ5倍である。6月の約1,550件からも、さらに60％増えた。Epoch AIが公開...",
+      "published": "2026-08-23T23:57:11Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d3a51c03c8360772f48aa1201cb731a",
+      "title": "AmazonがスマートスピーカーのEcho・Fire TV・Kindle端末などを最大60％値上げ",
+      "link": "https://gigazine.net/news/20260824-amazon-prices/",
+      "summary": "Amazonがスマートスピーカーの「Echo」シリーズ、電子書籍リーダー「Kindle」シリーズ、ストリーミングメディアプレイヤー「Fire TV Stick」、メッシュwifiルーター「eero」シリーズといった自社製ハードウェアの一斉値上げをしました。価格は最大60％上昇しており、メモリとストレ...",
+      "published": "2026-08-24T04:38:27Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9df2357a0449e642b4b3bc78ef7eb74f",
+      "title": "ドクター・ドレー、AI音楽への本音「恐れるのは作れない人間だけ」 | TRILL【トリル】",
+      "link": "https://trilltrill.jp/articles/4964465",
+      "summary": "ヒップホップ界のレジェンドであるドクター・ドレーが、音楽AIをめぐる業界の議論に対して自らの立場を明らかにした。ドレーはAIを制作の「道具」として積極的に使っており、それを恐れる人間は「作ることに困難を感じているだけ」と言い切った。（フロントロウ編集部） 「シンセサイザーと同じだ」 米New Yor...",
+      "published": "2026-08-24T06:29:11Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "97358984ce2ed75df3c21efd4c5db1f1",
+      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
+      "link": "https://gigazine.net/news/20260824-ai-coding-agent-adoption-trends/",
+      "summary": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシ...",
+      "published": "2026-08-24T02:35:52Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25af79252fa354c8c30dc07b29797e04",
+      "title": "GitHub - keytyapp/Keyty: Keyty - modern open-source keyboard and mouse visualizer for macOS",
+      "link": "https://github.com/keytyapp/Keyty",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-08-23T01:16:17Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2997ff8b4d79ede04f15ecc221209166",
+      "title": "インプレスブックス夏の30冊《2026年8月24日〜2026年8月31日》 - インプレスブックス",
+      "link": "https://book.impress.co.jp/items/cp260824",
+      "summary": "本キャンペーンでは、話題のAI関連書やIT・ビジネス書、デザイン書など、幅広いジャンルから当社の編集部が「今こそ読んでほしい」と選んだ注目の30冊をラインナップ。期間中の1週間、全文をWebブラウザ上で無料公開します。会員登録不要で、PCやスマートフォンからどなたでも気軽にお読みいただけます！ ※本...",
+      "published": "2026-08-24T06:09:11Z",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dd12dd28e45e8d69b7d39dd3169cee2",
+      "title": "【夏休みの自由研究リレー】モデルが分からない状態でBedrockのLLMを当てるクイズを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/summer-project-2026-bedrock-model-guess-quiz/",
+      "summary": "Amazon Bedrockの複数モデルに同じお題を投げて、匿名化した回答から「どのモデルが書いたか」を当てるクイズアプリを作ってみました。遊びながらモデルごとの特徴や価格差を体験できます。",
+      "published": "Mon, 24 Aug 2026 09:30:17 GMT",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "118103dac9fbd7c9fbbcf9894f7699fb",
+      "title": "言っても伝わらないのは、相手のせいではない──\"翻訳\"は机では作れない。3ヶ月のghoost商談で分かったこと",
+      "link": "https://dev.classmethod.jp/articles/translation-drill/",
+      "summary": "相互性のような概念は以前から持っていた。それでも、社外の商談でも社内のメンバーにも、伝わらないことがある。分かったのは概念ではなく「翻訳」の問題。相手のレイヤーに合った共通語がハマると、残りの説明は要らなくなる。そしてその翻訳は机ではなく本番の反復でしか増えない。",
+      "published": "Mon, 24 Aug 2026 08:37:29 GMT",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb2b0eb7887cb97455c63a4b8632411c",
+      "title": "How Jeff Mills brought his true vision for his 1995 Liquid Room mix to life with Spatial Audio",
+      "link": "https://musictech.com/features/interviews/jeff-mills-interview-live-at-liquid-room-tokyo-1996/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-mills-interview-live-at-liquid-room-tokyo-1996",
+      "summary": "“I was trying to do this 30 years ago. This is what we were planning for.” The post How Jeff Mills brought his true vision for his 1995 Liquid Room mi...",
+      "published": "Mon, 24 Aug 2026 09:46:21 +0000",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "c48c0cc557b4586ceb616f498418d6f0",
+      "title": "The Sony headphones we rated 10/10 are now $78 off",
+      "link": "https://musictech.com/news/gear/guitar-center-sony-headphones-sale/?utm_source=rss&utm_medium=rss&utm_campaign=guitar-center-sony-headphones-sale",
+      "summary": "Score discounts on some of our favourite studio and monitor headphones at Guitar Center. The post The Sony headphones we rated 10/10 are now $78 off a...",
+      "published": "Mon, 24 Aug 2026 09:23:57 +0000",
+      "fetched_at": "2026-08-24T10:29:21.632624+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-24T08:37:49.833103+00:00"
+  "updated_at": "2026-08-24T10:29:21.632624+00:00"
 }

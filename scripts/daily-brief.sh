@@ -9,14 +9,27 @@ while [[ $# -gt 0 ]]; do
     --force) FORCE=true; shift ;;
     --dry-run) DRY_RUN=true; shift ;;
     --local-dry-run) LOCAL_DRY_RUN=true; DRY_RUN=true; FORCE=true; shift ;;
+    --llm)
+      if [[ $# -lt 2 ]]; then
+        echo "Error: --llm requires a value (claude|cursor)"
+        exit 1
+      fi
+      case "$2" in
+        claude|cursor) export DAILY_BRIEF_LLM="$2" ;;
+        *) echo "Invalid --llm value: $2 (valid: claude, cursor)"; exit 1 ;;
+      esac
+      shift 2
+      ;;
     -h|--help)
       cat <<EOF
-Usage: $0 [--force] [--dry-run] [--local-dry-run]
+Usage: $0 [--force] [--dry-run] [--local-dry-run] [--llm claude|cursor]
 
 Options:
   --force          同日のブリーフが既に存在しても再生成する
   --dry-run        fetch と push をスキップして brief 生成のみ行う（動作確認用）
   --local-dry-run  ローカルのコードで動作確認する（--dry-run + main クローン不要）
+  --llm claude|cursor  選定・要約に使う LLM CLI（claude または cursor）
+                       Claude Code CLI と Cursor CLI の両方が PATH にある場合は明示指定が必要
 EOF
       exit 0 ;;
     *) echo "Unknown option: $1"; exit 1 ;;
@@ -49,7 +62,7 @@ else
   git clone --depth 1 --branch main "$REPO_URL" "$TMPDIR/main"
 fi
 
-# --- 2. 同日ファイル存在チェック（Claude 呼び出し前に判定）---
+# --- 2. 同日ファイル存在チェック（LLM 呼び出し前に判定）---
 if [ -f "$TMPDIR/main/$OUTPUT_FILE" ] && [ "$FORCE" != true ]; then
   echo ""
   echo "今日のブリーフは既に存在します: $OUTPUT_FILE"
@@ -120,7 +133,7 @@ if [ "$ARTICLE_COUNT" -eq 0 ]; then
   exit 0
 fi
 
-# 消費する entry_id を記録（Claude 処理成功後に pool から除外するため）
+# 消費する entry_id を記録（LLM 処理成功後に pool から除外するため）
 python3 -c "
 import json
 with open('$ARTICLES_JSON') as f:
@@ -129,27 +142,27 @@ for a in data['articles']:
     print(a['entry_id'])
 " > "$CONSUMED_IDS"
 
-# --- 5. Select articles (Sonnet) ---
+# --- 5. Select articles ---
 echo ""
-echo "=== Selecting articles (Sonnet) ==="
+echo "=== Selecting articles ==="
 SELECTED_JSON="$TMPDIR/selected.json"
-SONNET_USAGE="$TMPDIR/sonnet_usage.json"
+SELECT_USAGE="$TMPDIR/select_usage.json"
 uv run scripts/select_articles.py \
   --articles "$ARTICLES_JSON" \
   --output "$SELECTED_JSON" \
-  --usage-file "$SONNET_USAGE" \
+  --usage-file "$SELECT_USAGE" \
   --config config.yaml
 
-# --- 6. Summarize articles (Haiku) ---
+# --- 6. Summarize articles ---
 echo ""
-echo "=== Summarizing articles (Haiku) ==="
+echo "=== Summarizing articles ==="
 SUMMARIES_JSON="$TMPDIR/summaries.json"
-HAIKU_USAGE="$TMPDIR/haiku_usage.json"
+SUMMARIZE_USAGE="$TMPDIR/summarize_usage.json"
 uv run scripts/summarize_articles.py \
   --articles "$ARTICLES_JSON" \
   --selected "$SELECTED_JSON" \
   --output "$SUMMARIES_JSON" \
-  --usage-file "$HAIKU_USAGE"
+  --usage-file "$SUMMARIZE_USAGE"
 
 # --- 7. Render Markdown ---
 echo ""
@@ -168,34 +181,13 @@ if [ ! -f "$OUTPUT_FILE" ]; then
 fi
 
 echo ""
-echo "=== Claude token usage ==="
-python3 - "$SONNET_USAGE" "$HAIKU_USAGE" <<'PY'
-import json, sys
-
-total_cost = 0.0
-for path in sys.argv[1:]:
-    try:
-        with open(path) as f:
-            d = json.load(f)
-    except FileNotFoundError:
-        continue
-    label = d.get("label", path)
-    cost = d.get("cost_usd") or 0.0
-    u = d.get("usage", {})
-    input_t = u.get("input_tokens", 0)
-    cache_cr = u.get("cache_creation_input_tokens", 0)
-    cache_rd = u.get("cache_read_input_tokens", 0)
-    output_t = u.get("output_tokens", 0)
-    total_t = input_t + cache_cr + cache_rd + output_t
-    print(f"  [{label}]")
-    print(f"    input={input_t:,}  cache_creation={cache_cr:,}  cache_read={cache_rd:,}  output={output_t:,}  total={total_t:,}")
-    if cost:
-        print(f"    cost=${cost:.4f}")
-    total_cost += cost
-
-print(f"  ----------------------------------------")
-print(f"  total cost: ${total_cost:.4f}")
-PY
+echo "=== LLM token usage ==="
+uv run python3 -c "
+import sys
+sys.path.insert(0, 'scripts')
+import llm_cli
+print(llm_cli.format_usage_files_report(sys.argv[1:]))
+" "$SELECT_USAGE" "$SUMMARIZE_USAGE"
 
 echo ""
 echo "============================================"

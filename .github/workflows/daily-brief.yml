@@ -104,7 +104,7 @@ jobs:
               print(a['entry_id'])
           " > ../consumed_ids.txt
 
-      - name: Select articles (Sonnet)
+      - name: Select articles
         if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
         working-directory: main
         env:
@@ -115,7 +115,7 @@ jobs:
             --articles "${GITHUB_WORKSPACE}/articles.json" \
             --output "${GITHUB_WORKSPACE}/selected.json"
 
-      - name: Summarize articles (Haiku)
+      - name: Summarize articles
         if: env.SKIP != 'true' && env.ARTICLE_COUNT != '0'
         working-directory: main
         env:

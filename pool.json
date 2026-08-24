@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f3a83e1458120b181efb8fe2d9eb8478",
-      "title": "AIが生成した脆弱性修正パッチの品質検証結果についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/15/075403",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIが生成した脆弱性修正パッチの品質検証結果についてまとめてみた",
-      "published": "22 Aug 2026 23:55 +0000",
-      "fetched_at": "2026-08-23T00:51:04.694281+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d4aaf02a2faa26f3818f41291b068fe5",
       "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
@@ -419,7 +409,127 @@
       "fetched_at": "2026-08-24T04:36:27.546548+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "1af40ae5bbc759144b40d77eeb97a23a",
+      "title": "Claude Code Routines で Issue の自動対応をチームで回している話",
+      "link": "https://zenn.dev/notahotel/articles/claude-routine-auto-fix-issue",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Code Routines で Issue の自動対応をチームで回している話",
+      "published": "24 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6f21c63694e46a25301d24198d013a2",
+      "title": "週刊生成AI with AWS – 2026/8/17週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260817/",
+      "summary": "週刊生成AI with AWS, 朝晩は少し涼しい気がする2026年8月17日週号 – PKUTECH様・日新様・サンリオ様・コニカミノルタ様・SUMCO様などお客様事例を中心に8件のブログ記事を紹介。サービスアップデートでは、Amazon BedrockのSpaceXAI Grok 4.6利用開始...",
+      "published": "Mon, 24 Aug 2026 05:54:30 +0000",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb36940379f74dde19fef418189c86e4",
+      "title": "LinuxのLinus Torvalds、AIが3度「解決不能」と諦めるたびに押し返し1行のバグを修正——24パッチ・18回再起動の全記録",
+      "link": "https://techfeed.io/entries/6a8b65fa877bc8b0b7d64da3",
+      "summary": "8月21日、Phoronixが「Linus Torvalds Endures A Debug Session From Hell, \"Enormously Helped\" By AI」と題した記事を公開した。Linuxカーネルの生みの親であるLinus TorvaldsがAIを相棒にしながら、Int...",
+      "published": "2026-08-24T03:05:19Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27cd3857ed30d22139c4c3b0f56afb1c",
+      "title": "8GBのGPUで35Bモデルが高速動作！MoE特化の実行環境「FreeToken」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2134988.html",
+      "summary": "",
+      "published": "2026-08-24T05:21:07Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd455530185acbc1dde98cee4800ee8d",
+      "title": "「不味そうすぎ」AIメニュー画像はどう作られる？ AIで“岩のような唐揚げ”再現に挑戦した",
+      "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000710/",
+      "summary": "ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は2026年08月15日から08月21日までの7日間について集計し、まとめた。 AIメニュー写真が“不味そう”と話題に 先週のアクセスランキング2位には、...",
+      "published": "2026-08-24T03:34:02Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f58cf930a7a72273099484ecd26d6af",
+      "title": "アカウント不要で完全ローカル動作、有志作成のロジクール「Logi Options+」の代替アプリが話題に【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2134899.html",
+      "summary": "",
+      "published": "2026-08-24T03:16:29Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59f641f0491b74ad59a0732d78526a56",
+      "title": "“AIインフラを止めろ” トランプ支持層に広がる反発 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260818de44706",
+      "summary": "AI覇権を掲げるトランプ政権が進めるデータセンター建設に共和党支持層からも反発が広がり、中間選挙の新たな火種となっている。",
+      "published": "2026-08-23T20:28:55Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea070be796d57ad22ec4b4421ac68296",
+      "title": "更に重要になるDiscover 有利になる4つのポイント〜はてなブログで実現するDiscover対策 - はてなブログ開発ブログ",
+      "link": "https://staff.hatenablog.com/entry/2026/08/24/123000",
+      "summary": "Google Discoverは、大手メディアなどで検索やソーシャルメディアを越える最大のアクセス源となる例も増えており、その存在感を増しています。本記事では、SEOの専門家、辻正浩さん(id:t-w-o)の寄稿により、はてなブログがDiscoverに表示されやすい理由と、更に表示を増やすための4つ...",
+      "published": "2026-08-24T04:00:22Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63b04457310a06db34a480fc8b62fdf6",
+      "title": "「社用PC高すぎ、中古品使おう」の注意点 潜む“前の持ち主の亡霊”リスク 立命館・上原教授に聞く",
+      "link": "https://www.itmedia.co.jp/news/article/2608/24/2000000602/",
+      "summary": "PCは業務に不可欠な備品の一つだ。しかし近年、半導体やメモリといった部品の価格が上昇し、PC本体の価格も値上げが続いている。この結果、企業・組織が確保した予算内では調達が困難なケースも生じている。 そこで注目を集めているのが、中古PCの活用だ。必要なスペックを満たしたPCをコストパフォーマンス良く手...",
+      "published": "2026-08-24T03:37:34Z",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf5ba2cd24d67b087d841f91e5403f6d",
+      "title": "AWS DevOps Agent に障害の調査結果から GitHub Issue を起票させてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-github-issue/",
+      "summary": "チャットとインシデントレスポンスの調査、どちらからも起票できました。ランブックで手順も指定可能。",
+      "published": "Mon, 24 Aug 2026 05:28:01 GMT",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6211c4c9af3485b888b75effe65fba3c",
+      "title": "Amazon Connect Customer の CCP 画面でオーディオデバイスの設定を変更する方法を教えてください",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-ccp-audio-device/",
+      "summary": "Amazon Connectでヘッドセットが正常に認識されているか確認したいときの対応方法を紹介します。",
+      "published": "Mon, 24 Aug 2026 05:04:43 GMT",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdbf9380ec254e99d7972f542262e2b5",
+      "title": "Claude Code に手伝ってもらって AWS Well-Architected レビューをやってみた",
+      "link": "https://dev.classmethod.jp/articles/well-architected-review-with-claude-code/",
+      "summary": "AWS Well-Architected Framework のレビューは設問数が多く、本番構成の把握が大変です。今年は Claude Code に情報収集・整理・言い換えを手伝ってもらい、かなり省力化できました。その活用ポイントを共有します。",
+      "published": "Mon, 24 Aug 2026 04:45:15 GMT",
+      "fetched_at": "2026-08-24T06:39:17.012922+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-24T04:36:27.546548+00:00"
+  "updated_at": "2026-08-24T06:39:17.012922+00:00"
 }

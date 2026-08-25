@@ -399,7 +399,247 @@
       "fetched_at": "2026-08-25T02:51:37.897501+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "69bdc0814314fe498c9fcd60b0f5746d",
+      "title": "インターネットに繋がらないSIMで安全にリモートアクセスしてみる | IIJ Engineers Blog",
+      "link": "https://eng-blog.iij.ad.jp/archives/37259",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 インターネットに繋がらないSIMで安全にリモートアクセスしてみる | IIJ Engineers Blog",
+      "published": "25 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1777dd876ec52f5c93810c854d77820e",
+      "title": "Kubernetesで作る全社PRプレビュー基盤の設計判断 - enechain Tech Blog",
+      "link": "https://techblog.enechain.com/entry/intro-prothea",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Kubernetesで作る全社PRプレビュー基盤の設計判断",
+      "published": "25 Aug 2026 02:56 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "adc3ffbba2e745477f30a1044ed44a4a",
+      "title": "AIによるSQL生成に潜む罠と対策 〜本番データ更新におけるAIとの正しい付き合い方〜 - Uzabase for Engineers",
+      "link": "https://tech.uzabase.com/entry/2026/08/18/172958",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIによるSQL生成に潜む罠と対策 〜本番データ更新におけるAIとの正しい付き合い方〜",
+      "published": "25 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dffcb3a91fbb0cfe122e5fb86d2a657f",
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "Article URL: https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines Comments URL: https://news.ycombinator...",
+      "published": "Mon, 24 Aug 2026 19:03:06 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0ad8a5a95e7b59dbb8abaa8f9e71653",
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps...",
+      "published": "Mon, 24 Aug 2026 17:57:13 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5bbca9c94d4d489f9f11c44e07629eaf",
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "link": "https://picomq.com/",
+      "summary": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create/append/read/long-poll/SSE), with ...",
+      "published": "Mon, 24 Aug 2026 16:08:17 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b658dbf2a5a3a44f1c93aeee7e2939f",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "summary": "Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538 Comments URL: https://news.ycombinator.com/item?id=49420530 Poi...",
+      "published": "Mon, 24 Aug 2026 14:44:55 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62ab8485bebb23b8d910064d8c9ffaf4",
+      "title": "ラップトップを閉じても、エージェントは動き続ける。cloud sessions で開発する",
+      "link": "https://aws.amazon.com/jp/blogs/news/cloud-sessions/",
+      "summary": "Kiro の cloud sessions（preview）は、AI エージェントをクラウドのサンドボックスで動かす新機能です。ラップトップを閉じても作業は継続し、CLI、IDE、Web のどのクライアントからでも同じセッションに戻れます。本記事では、EC アプリへの決済 API 追加を題材に、有効...",
+      "published": "Tue, 25 Aug 2026 03:41:20 +0000",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f19d52a6288b04aca7784692b82e6284",
+      "title": "最近見てる技術コミュニティについて",
+      "link": "https://comamoca.dev/blog/2026-08-24-tech-communities-im-following-recently/",
+      "summary": "「みんなAIの話ばかりしてて面白くない」とよく聞くようになった。 実際TwitterでLLMの話を聞かないことはないし、僕自身もよくするようになった。 個人的には面白いおもちゃの末席にLLMが加わった感じがして面白くはあるのだけど、いかんせん技術サイトの話題がAI一色になると胸焼けしてしまう。 そん...",
+      "published": "2026-08-25T00:54:57Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8789caba0625cffee0747e1eac90691",
+      "title": "RustでのAI駆動Webアプリケーション開発 - Hello Tech",
+      "link": "https://tech.hello.ai/entry/2026/08/24/230852",
+      "summary": "CTOの杉本(@hello_sugimoto)です。 ハローでは、新たに決済基盤として HelloPay を開発運用しています。 自社サービスでの決済基盤として活用するだけでなく、「安くて堅牢な決済API」として社外にも決済サービスを提供しています。 HelloPay では、Webバックエンドの開発...",
+      "published": "2026-08-25T00:34:19Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc0c66b8ad6bf070f66f1b7e5af7f083",
+      "title": "Claude Cowork、ChatGPT Work、Gemini Sparkはどう違う？ 得意なタスクは？ ～御三家からAIエージェントが出揃った【柳谷智宣のAI ウォッチ！】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2134654.html",
+      "summary": "",
+      "published": "2026-08-25T00:46:12Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db3850368dc66e3e9b9d4419c2cebb15",
+      "title": "オンコール手当の相場を50社分調べて、1社も見つからなかった話",
+      "link": "https://zenn.dev/cscloud_blog/articles/e0ea529d061906",
+      "summary": "このブログは CSCでオンコール運用を検討する際に手当について調査した結果 となります。 これから検討に取り組まれる方はぜひ参考にしてください！ 3行で言うと オンコール手当の「金額」を5チャネル・約50社で調べたら、1件も出てきませんでした。 でも「金額が公開されていない」で終わらせず、「そもそも...",
+      "published": "2026-08-25T02:44:09Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9881ccc3d7f263da2ec71e857369707",
+      "title": "AIがAIを開発し、AIが利用する。「最速」と「安全」を両立したConoHa VPS MCP開発の裏側 / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/85730/",
+      "summary": "AIがAIを開発し、AIが利用する。「最速」と「安全」を両立したConoHa VPS MCP開発の裏側 AIエージェントに「サーバーを作って」と伝えるだけで、VPSの構築が完了する。そんな「未来」のインフラ像は、もうすでに「現在」へと置き換わっています。 2026年7月7日、GMOインターネット株式...",
+      "published": "2026-08-25T01:13:07Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d1b0a9d82c35d38ee91b23768ccee31",
+      "title": "ConoHa VPS MCPで色々なAIエージェントを構築してみた＜Hermes Agent / OpenClaw / NanoClaw＞ / 開発者向けブログ・イベント | GMO Developers",
+      "link": "https://developers.gmo.jp/technology/84294/",
+      "summary": "ConoHa VPS MCPで色々なAIエージェントを構築してみた＜Hermes Agent / OpenClaw / NanoClaw＞ こんにちは！GMOインターネット株式会社の馬場です。 こちらは、先月リリースされたConoHa VPS MCPのリモート版を使って、Hermes Agent、O...",
+      "published": "2026-08-25T01:13:33Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb09b2e8ba3ca857adce4299fcb72b5a",
+      "title": "消費者庁、「ダークパターン」を規制へ、解約妨害も違法に--検討会が中間取りまとめ案",
+      "link": "https://japan.cnet.com/article/35251872/",
+      "summary": "消費者庁は8月24日、「デジタル取引・特定商取引法等検討会」に中間取りまとめ案を示した。案では、「お試し」とうたいながら実際は定期購入に誘導するなど、消費者の意思決定を歪める表示やUI（ユーザーインターフェース）、いわゆる「ダークパターン」に対し、包括的な規律を設けるべきだとした。解約手続きを不当に...",
+      "published": "2026-08-24T21:37:08Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "53c0ed505939508a4e1a62a387f363ac",
+      "title": "「今からロボットを現場投入できないか？」 増えた日本企業からの問い合わせ “頭脳”を作る韓国企業が感じた国内の変化",
+      "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+      "summary": "現在、一般的にAIといえば、LLM（大規模言語モデル）のことを指す。次いで多くの人がイメージするのが、プロンプトにより画像や動画、音楽などを出力する生成AIだろう（なおLLMも文章を生成する生成AIの仲間）。現在先行するのは米国、中国といった大国であり、他国は出遅れている。 一方でロボティクスの世界...",
+      "published": "2026-08-25T01:47:29Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eafd76a0e5610be4e653fba0160826b9",
+      "title": "三重県庁、私物USBメモリ全廃 全体の3割・3789個が私物だった",
+      "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000737/",
+      "summary": "陸自のUSBメモリからマルウェアが見つかったとする6月の報道を受け、総務省は地方自治体向けにUSBメモリの利用状況の確認するよう通知。三重県でも確認を進めてきた。 7月6日までに1万757個のUSBメモリをチェックし、47個からマルウェアを検知。内訳は、過去に保存したメールデータから検知されたものが...",
+      "published": "2026-08-25T02:22:07Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29bbc7fd4b5a8e82fa839aa54353830a",
+      "title": "われらの救世主「パスキー」に暗雲？ 壊れていないのに“合鍵”が作られる条件",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2608/25/news024.html",
+      "summary": "われらの救世主「パスキー」に暗雲？ 壊れていないのに“合鍵”が作られる条件：半径300メートルのIT パスワードレス認証の本命とされてきたパスキーに、新たな攻撃手法が公表されました。パスキーはもう信頼できないのでしょうか。そもそも、この攻撃はどんな条件がそろったときに成立するのでしょうか。 センセー...",
+      "published": "2026-08-25T01:18:17Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bde2f963eb9faf2359a9c9e6fc3fddb",
+      "title": "お前のループエンジニアリングは間違っている",
+      "link": "https://zenn.dev/t_hayashi/articles/20ec8fbebbeabb",
+      "summary": "と Claude Code に私自身が言われたので、どのように使いこなすとループエンジニアリングを実践できるか試行錯誤してみた過程をまとめた記事になります。 ループエンジニアリングについては、多くの記事が紹介しているのでここでは割愛します。こちらの記事が詳細に解説してくれています。私もこちらの記事を...",
+      "published": "2026-08-24T09:57:59Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49535c82dcecffae54823db14b4825b",
+      "title": "NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される",
+      "link": "https://gigazine.net/news/20260825-nvidia-avo/",
+      "summary": "NVIDIAが開発するAIエージェントシステム「Agentic Variation Operators(AVO)」が、AIが未知の環境とやり取りしながら推論する能力を測るベンチマーク「ARC-AGI-3」の公開セットで100％のスコアを達成しました。ベースに使われたClaude Opus 5について...",
+      "published": "2026-08-24T23:32:11Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d43859abbf83bae5a6caaf30cf81c656",
+      "title": "「自分ではもう分析しない」ってホント？ Web解析のレジェンドに10問10答！ 【GA4×AI活用の最前線】 | 現場のマーケティングノート | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/08/25/53094",
+      "summary": "生成AIの浸透により、Web解析の常識は大きく変わりつつある。GA4の分析にAIをどう使うか、BigQueryを導入するべきか、AI時代に人間に求められる役割とは――。解析の現場には、AIだけでは解けない問いが山積みだ。 2026年7月7日にリアル開催された「Japan SEO Conference...",
+      "published": "2026-08-25T01:05:41Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01c6bd1e4e3cd711cc2892eeecb82af1",
+      "title": "The AI-Native SDLC playbook | Claude by Anthropic",
+      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "summary": "Code is no longer the bottleneckOrganizations have started using AI to write code at a speed unthinkable one year ago, yet the processes around the co...",
+      "published": "2026-08-24T07:40:40Z",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9880f5a0c52a9a2b42fa371cf62e938e",
+      "title": "ECS Fargate で固定のパブリック IP アドレスを利用できるか教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-ecs-fargate-fixed-ip-address-method/",
+      "summary": "ECS Fargate で固定のパブリック IP アドレスを利用したい場合、NLB もしくは NAT ゲートウェイを使用します。",
+      "published": "Tue, 25 Aug 2026 03:32:39 GMT",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "56afc276ff55ce62c1b9742ae71e7a68",
+      "title": "EC2インスタンスのスケールアップ・ダウン手順",
+      "link": "https://dev.classmethod.jp/articles/ec2-scale-up-down-guide/",
+      "summary": "AWS EC2インスタンスのスケールアップ・ダウン方法を実践的に解説。インスタンス停止→タイプ変更→起動の3ステップで実施。",
+      "published": "Tue, 25 Aug 2026 03:01:25 GMT",
+      "fetched_at": "2026-08-25T04:30:45.085910+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-25T02:51:37.897501+00:00"
+  "updated_at": "2026-08-25T04:30:45.085910+00:00"
 }

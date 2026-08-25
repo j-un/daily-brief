@@ -729,7 +729,177 @@
       "fetched_at": "2026-08-25T06:31:45.797102+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "795e6916b122e82a7db2adf5b9a7d1fa",
+      "title": "コーディングエージェントが実装するUIの品質を上げるためにやったこと",
+      "link": "https://zenn.dev/moshjp/articles/39972d023f0440",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コーディングエージェントが実装するUIの品質を上げるためにやったこと",
+      "published": "25 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87774ec4e556f4b10701166874b1ea6b",
+      "title": "How Universities Should Prepare Founders",
+      "link": "https://paulgraham.com/prepare.html",
+      "summary": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 108 # Comments: 130",
+      "published": "Tue, 25 Aug 2026 01:40:39 +0000",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb71249d3602e4c702f2ea5ecfb7b8da",
+      "title": "Amazon Quick と Snowflake Cortex AI によるマネーロンダリング対策のアラートトリアージの自動化",
+      "link": "https://aws.amazon.com/jp/blogs/news/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+      "summary": "金融機関のマネーロンダリング対策では、1 件のアラート調査に 30〜90 分を要し、その 90〜95% が誤検知とされます。本記事では、Amazon Quick Flows と Snowflake Cortex Agent を MCP で接続し、取引データとコンプライアンス文書を横断して調査ブリーフ...",
+      "published": "Tue, 25 Aug 2026 07:10:06 +0000",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "56f58053b172c401e0dce1171b0c7349",
+      "title": "本番インシデントのトリアージを AI エージェントに任せられるようになるまで",
+      "link": "https://aws.amazon.com/jp/blogs/news/trust-agent-triage/",
+      "summary": "ある日曜日の午前 2 時 33 分（PDT）、フロンティアモデルの可用性アラームが発報しました。本番のレスポンスがストリームの途中で止まりはじめ、監視システムが自動でチケットを起票しました。その 13 分 35 秒後、午前 2 時 46 分（PDT）には、根拠のある診断がチケット上に載っていました。...",
+      "published": "Tue, 25 Aug 2026 06:59:27 +0000",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "53fa1992afbaab12b7cbe86577cfbcd9",
+      "title": "継続的なプロンプト評価: LLM ジャッジとライブシグナルを使って Kiro エージェントの品質を高める方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/continuous-prompt-evaluation/",
+      "summary": "本記事は、人手で作成されたシステムプロンプトや設定の変更を評価することに焦点を当てています。自動的なトラジェクトリマイニング、変更の自動生成、ハーネス全体の自己改善については扱いません。このワークフローは、ベンチマーク結果と、社内の開発者による数千件の Kiro との会話を LLM で分析した結果を...",
+      "published": "Tue, 25 Aug 2026 06:51:27 +0000",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a077062416d4deb7f4b0a9eb61d6a31",
+      "title": "povo、「5G SA(スタンドアローン)」サービスを提供開始",
+      "link": "https://povo.jp/news/newsrelease/20260825_01/",
+      "summary": "KDDI、沖縄セルラー、KDDI Digital Lifeは2026年8月25日から、オンライン専用ブランド「povo2.0」の「通話＋データ」プランをご契約のお客さまを対象に、「5G SA(スタンドアローン)」サービス(以下5G SA)(注1)の提供を開始します。これにより、au/UQ mobil...",
+      "published": "2026-08-25T05:55:57Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e85775cf68efca5d47e5ec5e8a13a63",
+      "title": "Minimal Rogue by Hirotaka Adachi",
+      "link": "https://hirotaka-adachi.itch.io/minimal-rogue",
+      "summary": "■■■■Minimal Rogue■■■■ English/Japanese ■ Controls Arrow Keys : Move Space Key : Defend X Key : Menu / Cancel Return Key : Confirm The game autosaves w...",
+      "published": "2026-08-25T05:51:24Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be4d825ba434dfd12908730db70f0611",
+      "title": "新「マイナアプリ」公開 マイナポータル+スマホだけで本人確認",
+      "link": "https://www.watch.impress.co.jp/docs/news/2135167.html",
+      "summary": "",
+      "published": "2026-08-25T03:22:19Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e535fb64218f0f8d63d038f5115b731",
+      "title": "herdrでペイン分割を常に等分にするpluginを作った - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/08/24/173000",
+      "summary": "以前、tmuxでペイン分割を常に等分にする設定を紹介した。 最近はherdrを使っているのだが、herdrも分割を繰り返すと1/2、1/4、1/4のように不均等になってしまう。またtmuxのselect-layout -E相当の機能もない。 そこでペイン分割・クローズのたびに自動で等分にリサイズする...",
+      "published": "2026-08-24T16:01:00Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37efd624227a1b99cf45c743d5fb9d1e",
+      "title": "生成AIでワンピを超える大ヒット名作を生成できるか？｜深津 貴之 (fladdict)",
+      "link": "https://note.com/fladdict/n/n09c1d003eb65",
+      "summary": "Q. 「生成AIでワンピース（あるいは進撃・鬼滅）を超える大ヒット名作を、生成できるか？」 A. 現状では極めて難しく、おそらく当面できない。 ただしこれは、「AIの性能が足りないから」とか、「やっぱり人間の創造性は偉大だから」みたいな話ではありません。 実はもっと単純な話で、AIへのオーダーの仕方...",
+      "published": "2026-08-24T09:23:23Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c638f8bd72163e55df9bdaace840290",
+      "title": "RGB LED搭載PCなどで一部ゲームに不具合発生。8月のWindows更新が原因",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2135367.html",
+      "summary": "",
+      "published": "2026-08-25T06:45:58Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6218ab82257e2e2df289bfd3dd46a426",
+      "title": "「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……",
+      "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000736/",
+      "summary": "「ChatGPTでAdobeツールを動かす」を検証 静止画の編集は快適、一方で動画は……（1/2 ページ） 8月7日公開の米Adobe Blogで、以前から提供されてきたアプリごとの「ChatGPT」向けプラグインを1つに統合した新バージョン7.0.0を公開した。ChatGPTとの対話を通じて、画像...",
+      "published": "2026-08-25T04:53:51Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c607f3a5461d67f35e8cec024a1952b",
+      "title": "新「マイナアプリ」登場、旧「マイナポータルアプリ」との違いは 一通り触ってみた",
+      "link": "https://www.itmedia.co.jp/news/article/2608/25/2000000742/",
+      "summary": "デジタル庁は8月25日、「マイナポータルアプリ」と「デジタル認証アプリ」の機能を統合した新「マイナアプリ」（iOS、Android）の提供を始めた。「アプリの統合」と聞くと使用感の大きな変化を想像するが、実際はどうなのか。記者のiPhoneで移行し、新アプリの中身も一通り確かめた。",
+      "published": "2026-08-25T04:56:42Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d658e401cd574cfe390a562a5051b13",
+      "title": "謎めいた無料のAIモデルが、開発者たちを驚かせている。そして、それを作ったのが誰なのかは、誰にも分かっていない | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2608-ox-alpha-ai-model-mystery/",
+      "summary": "正体不明の新AIモデルが開発者たちの間で大きな話題を呼んでいる――そして、それを誰が開発したのかについて口を開く者は誰もいない。 Ox Alphaは8月20日、匿名のサードパーティ提供者による「ステルスモデル」としてOpenRouter上に登場した。OpenRouterは同モデルについて「コーディン...",
+      "published": "2026-08-24T01:15:44Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee411792e62b1d91a3397f906642f0cf",
+      "title": "Lobsters",
+      "link": "https://lobste.rs/",
+      "summary": "32 bidicalc: a bidirectional calculator math victorpoughon.github.io authored by victorpoughon 9 hours ago | caches Archive.org Archive.today Ghostarc...",
+      "published": "2012-08-30T02:01:12Z",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aeccde5e6edf6f87315052c6c48642eb",
+      "title": "【4M変更管理】 Excel・メール・FAXの伝言ゲームに疲れていませんか？ サプライチェーン品質を守る統合ツールのご紹介",
+      "link": "https://dev.classmethod.jp/articles/20260825_MBT_4m_pcn_tool/",
+      "summary": "製造業のサプライチェーンにおいて頻発する4M変更管理の課題を、実例を交えながら解説し、その解決策となる4M変更管理ツールについてご紹介します。",
+      "published": "Tue, 25 Aug 2026 07:48:10 GMT",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0dd4ffa4cee936ab7982098a492b240e",
+      "title": "Claude Code v2.1.240〜v2.1.245 の主要アップデート - modelPicker と promptCacheTtl の追加",
+      "link": "https://dev.classmethod.jp/articles/20260825-cc-updates-v2-1-245/",
+      "summary": "Claude Code の v2.1.240 〜 v2.1.245（8 月 22 日〜25 日）のアップデートをまとめました。4 日間で 63 件の変更が加えられ、ダウンロードサイズやメモリ使用量の大幅な改善、新しい設定オプション、そして多くのバグ修正が含まれています。",
+      "published": "Tue, 25 Aug 2026 07:04:46 GMT",
+      "fetched_at": "2026-08-25T08:32:20.714303+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-25T06:31:45.797102+00:00"
+  "updated_at": "2026-08-25T08:32:20.714303+00:00"
 }

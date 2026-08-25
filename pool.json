@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a1e6e72468b5e7f51a427221d29f7d34",
-      "title": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/",
-      "summary": "Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per ...",
-      "published": "Fri, 21 Aug 2026 20:11:00 GMT",
-      "fetched_at": "2026-08-24T18:27:46.606675+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "dfca132f7cc0ecfcd33dd2a418ce7488",
       "title": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers",
@@ -1989,7 +1979,27 @@
       "fetched_at": "2026-08-25T22:17:40.719593+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "ba8f5226a01a9effd5b7237c5551b827",
+      "title": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/",
+      "summary": "Amazon Redshift now offers rg.large and rg.12xlarge instance sizes for RG instances in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. ...",
+      "published": "Thu, 13 Aug 2026 19:34:00 GMT",
+      "fetched_at": "2026-08-25T22:44:19.568308+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c421cdf93e25b0ff45ba55a81dcce2bf",
+      "title": "クアルコムのCPU「Oryon」最新モデル発表、スマホ初の5GHz駆動と新キャッシュ採用",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2135548.html",
+      "summary": "",
+      "published": "2026-08-25T15:36:56Z",
+      "fetched_at": "2026-08-25T22:44:19.568308+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-25T22:17:40.719593+00:00"
+  "updated_at": "2026-08-25T22:44:19.568308+00:00"
 }

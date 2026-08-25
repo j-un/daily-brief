@@ -15,7 +15,8 @@ _VALID_PROVIDERS = ("claude", "cursor")
 _DEFAULT_MODELS = {
     ("select", "claude"): "claude-sonnet-5",
     ("summarize", "claude"): "claude-haiku-4-5-20251001",
-    ("select", "cursor"): "cursor-grok-4.6-high",
+    # ("select", "cursor"): "cursor-grok-4.6-high",
+    ("select", "cursor"): "composer-2.5",
     ("summarize", "cursor"): "composer-2.5",
 }
 
@@ -37,6 +38,7 @@ def usage_label(role: str, *, suffix: str = "") -> str:
     if suffix:
         return f"{label} {suffix}"
     return label
+
 
 _CURSOR_USAGE_KEYS = {
     "inputTokens": "input_tokens",
@@ -166,9 +168,7 @@ def resolve_provider(provider: str | None = None) -> str:
     if provider is not None:
         normalized = provider.strip().lower()
         if normalized not in _VALID_PROVIDERS:
-            raise ValueError(
-                f"provider must be 'claude' or 'cursor', got {provider!r}"
-            )
+            raise ValueError(f"provider must be 'claude' or 'cursor', got {provider!r}")
         return normalized
 
     env = os.environ.get("DAILY_BRIEF_LLM")

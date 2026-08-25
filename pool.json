@@ -1729,7 +1729,97 @@
       "fetched_at": "2026-08-25T18:26:57.391419+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "cc5e2c8c865b50dd64602e95c37ce540",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "summary": "Article URL: https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1 Comments URL: https://news.ycombinator.com/item?id=49437946 Po...",
+      "published": "Tue, 25 Aug 2026 17:55:23 +0000",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b93f46aba1a0b52ecf30ce7120edb9b3",
+      "title": "Black hole singularity is a surface not a point",
+      "link": "https://arxiv.org/abs/2608.21590",
+      "summary": "Article URL: https://arxiv.org/abs/2608.21590 Comments URL: https://news.ycombinator.com/item?id=49437210 Points: 105 # Comments: 57",
+      "published": "Tue, 25 Aug 2026 17:02:49 +0000",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f61299798d8d8848b75438a02625dd68",
+      "title": "My Friend Aaron",
+      "link": "https://rorz.io/writing/my-friend-aaron",
+      "summary": "Article URL: https://rorz.io/writing/my-friend-aaron Comments URL: https://news.ycombinator.com/item?id=49437069 Points: 235 # Comments: 58",
+      "published": "Tue, 25 Aug 2026 16:53:33 +0000",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d0f0d611bd6476c5d594afe10334d92",
+      "title": "Starbase, LA",
+      "link": "https://www.spacex.com/sites/starbase-la",
+      "summary": "Article URL: https://www.spacex.com/sites/starbase-la Comments URL: https://news.ycombinator.com/item?id=49436822 Points: 129 # Comments: 158",
+      "published": "Tue, 25 Aug 2026 16:37:52 +0000",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6456d0ae7e6df109e4a2ea4c40b05440",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "summary": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr Comments URL: https://news.ycombinator.com/item?id=49434378 ...",
+      "published": "Tue, 25 Aug 2026 14:06:02 +0000",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5df3cdc03f1ee51a58a1d9bbf6dddd77",
+      "title": "Amazon RDS for Oracle now supports July 2026 Release Update",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports the Oracle July 2026 Release Update (RU) for Oracle Database versions 19c, 21c...",
+      "published": "Tue, 25 Aug 2026 07:24:00 GMT",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b034fac25ae72bcd1305a0fc4a549792",
+      "title": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Cisco Security Platform API keys and Netskope API tokens, enabling ...",
+      "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aad24771d9eb1980b9c6c91093808a3b",
+      "title": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "summary": "Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web so...",
+      "published": "Wed, 19 Aug 2026 22:55:00 GMT",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "422ac6e5cc404bca36f11246dc5b5edc",
+      "title": "Apple、パフォーマンスとAI演算の大幅な向上をもたらすM6とM5 Ultraを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "Apple初の2ナノメートルチップであるM6は、より大きくよりパワフルな12コアCPU、12コアGPU、デュアル16コアNeural Engineを搭載し、M5 Ultraは、Apple初のクアッドダイアーキテクチャを採用したApple史上最もパワフルなチップです M6により、毎日のパフォーマンスと...",
+      "published": "2026-08-25T13:40:00Z",
+      "fetched_at": "2026-08-25T20:19:08.135411+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-25T18:26:57.391419+00:00"
+  "updated_at": "2026-08-25T20:19:08.135411+00:00"
 }

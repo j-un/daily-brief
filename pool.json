@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "3f08e34e07db4d097b595cbc8a469701",
-      "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
-      "published": "24 Aug 2026 23:56 +0000",
-      "fetched_at": "2026-08-25T00:47:23.876125+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "0c898219dedf03f5d25a5b08f7a39d8c",
-      "title": "GitHub - asciimoo/hister: Your own search engine",
-      "link": "https://github.com/asciimoo/hister",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
-      "published": "2026-06-28T06:17:21Z",
-      "fetched_at": "2026-08-25T00:47:23.876125+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "2250a73a56923f5e09ff77cf781f7286",
       "title": "OpenSRE を見てみた - SO Technologies 開発者ブログ",
       "link": "https://developer.so-tech.co.jp/entry/2026/08/18/122600",
@@ -529,7 +509,147 @@
       "fetched_at": "2026-08-26T04:31:33.404005+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "a4827d03462e20324ca908359fee9c0f",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20260814-3bdaa0433a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 メルカリにおけるTiDB改善の取り組み：IN句内100万件クエリへの対応",
+      "published": "26 Aug 2026 05:56 +0000",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "54324174a59db4db08b8459406a65856",
+      "title": "SQLフォーマッター uroborosql-fmt がNeovim/Eclipseなど各種エディタに対応 ― 言語サーバーとβ版リンターを公開しました🎉 | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260817a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SQLフォーマッター uroborosql-fmt がNeovim/Eclipseなど各種エディタに対応 ― 言語サーバーとβ版リンターを公開しました🎉 | フューチャー技術ブログ",
+      "published": "26 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e06a2ba167203b2edfa7cdf3a7e6313",
+      "title": "MonotaRO が基幹データベースを Amazon Aurora Global Database に移行し、マルチリージョン DR とフルマネージド運用を実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/monotaro-core-database-migration-to-amazon-aurora-global-database/",
+      "summary": "株式会社MonotaRO （モノタロウ）は、工具、部品、消耗品をはじめとする間接資材のインターネット通販を展開し、連結売上高 3,338 億円（2025 年 12 月期）、登録ユーザー数 1,100 万以上、取扱商品点数 2,800 万点以上を誇る事業者向け EC プラットフォームです。同社はこのた...",
+      "published": "Wed, 26 Aug 2026 05:06:42 +0000",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6ca631a37f8ba9086d690585e598786",
+      "title": "キャッシュ1.28GB、最大256コアのバケモノ級CPU「Diamond Rapids」の全貌",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2135651.html",
+      "summary": "",
+      "published": "2026-08-26T03:40:31Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1124635998249a644ef935cb09e68b3c",
+      "title": "ケーブル敷設が難しい現場で、8km先まで届くWi-Fiブリッジ「Beam Bridge 5 UR KIT」、TP-Linkが発売",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2135435.html",
+      "summary": "",
+      "published": "2026-08-25T23:57:44Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "90a55b3d2ee186a54d018eb1e1b89dee",
+      "title": "父さん、仕事辞めてAIネイティブな組織で食っていこうと思うんだ - どやの情弱克服ブログ",
+      "link": "https://hilinker.hatenablog.com/entry/2026/08/26/095546",
+      "summary": "この記事は何 紛らわしいんですが退職エントリでもなければ入社エントリでもありません。マネジメントの怪文書です。 こんにちは。株式会社HERPでエンジニアマネージャーをやっているどやです。 最近はプロダクト領域の統括エンジニアという、特に組織図上は存在しない肩書を社内外に自称しています。危ない人かな？...",
+      "published": "2026-08-26T03:31:13Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f54fe26cc106c6b919515a289ad6d96",
+      "title": "日清、「カップヌードル ポイントプログラム」 ランク毎に特典",
+      "link": "https://www.watch.impress.co.jp/docs/news/2135478.html",
+      "summary": "",
+      "published": "2026-08-26T00:37:38Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a76b9ac8d99504a9c845cb538cd598be",
+      "title": "オードリー・タンが警鐘 AIを「親友」にしてはいけない",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/?P=2",
+      "summary": "例えば、3人が対話することにより、誰かが1人だけで考えるよりも知能は高まります。多くの場合、創造性は集団の中から生まれます。言語や文化、協調する方法があるからこそ、「集団知」は個々人の経験の単純な合計を上回る可能性があります。ある人が別の人の見落としている点に気づき、互いに補い合うことができるから....",
+      "published": "2026-08-26T02:34:12Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c7c39789f2ee979f95fe8b3fd47a3b9",
+      "title": "オードリー・タンが警鐘 AIを「親友」にしてはいけない",
+      "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00157/082500110/?P=3",
+      "summary": "最も重要な問いは、「ゴールはどこにあるのか」 米パランティア・テクノロジーズCEO（最高経営責任者）のアレックス・カープは、著書『テクノロジカル・リパブリック 国家、軍事力、テクノロジーの未来』で、テクノロジー企業は国家の安全保障や技術力の強化に、より積極的な役割を果たすべきだと論じています。米シリ...",
+      "published": "2026-08-26T03:43:30Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d612653213f3e8d149fe540bbbd09ed",
+      "title": "プラネックスの2.5Gbpsスイッチングハブ、放熱対策とか大丈夫？ 元・中の人が裏技3選を伝授します【奥川浩彦の「岐阜の山奥に移住しました」第13回】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/ijuu/2134320.html",
+      "summary": "",
+      "published": "2026-08-25T21:56:36Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b9c708f19a4a9d4084ea07bbf6672c1",
+      "title": "新しいウィンドウ切り替えツール「Window Hopper」を追加した「PowerToys 0.101」が公開／「Insider」チャネルを新設、「Advanced Paste」はローカルAI「Phi Silica」に対応",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135583.html",
+      "summary": "",
+      "published": "2026-08-26T00:32:19Z",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0ebe0c53c8b7c6e956f0a0337567a51",
+      "title": "Fivetran Activations を利用して、Snowflake のデータを SFTP サーバーまで reverse ETL する",
+      "link": "https://dev.classmethod.jp/articles/fivetran_activations_snowflake_sftp/",
+      "summary": "Fivetran Activations を使ってSnowflakeのデータをSFTPサーバーに連携するreverse ETLの設定方法を、実際の設定手順とともに紹介します。",
+      "published": "Wed, 26 Aug 2026 06:05:09 GMT",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c44cbf96a6f0a69452bc2f964699d59a",
+      "title": "【Amazon Connect】入力してもらった電話番号を AWS Lambda で整形し、Amazon Polly に句読点で区切って読み上げさせてみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-lambda-phone-number-polly/",
+      "summary": "Amazon Connectで入力された電話番号をAWS Lambdaで整形し、Amazon Pollyに句読点で区切って読み上げさせる実装方法をご紹介します。動的な電話番号処理と、SSMLタグを使った読み上げ速度調整の工夫も含めてお伝えします。",
+      "published": "Wed, 26 Aug 2026 05:48:24 GMT",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bb42669ea66dd3ac2883e104aa113c8",
+      "title": "AWS Config で費用が増加した原因を調べるときのやつ",
+      "link": "https://dev.classmethod.jp/articles/investigate-config-cost-increase/",
+      "summary": "AWS Configを有効にすると、予期せぬコスト増に直面することがあります。本記事では、CloudWatch Metrics Insightsを使ってConfiguration Item の記録数をリソースタイプ別に分析、コスト増加の原因を特定する方法を紹介します。",
+      "published": "Wed, 26 Aug 2026 04:55:35 GMT",
+      "fetched_at": "2026-08-26T06:33:45.969679+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-26T04:31:33.404005+00:00"
+  "updated_at": "2026-08-26T06:33:45.969679+00:00"
 }

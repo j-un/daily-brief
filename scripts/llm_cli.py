@@ -15,8 +15,7 @@ _VALID_PROVIDERS = ("claude", "cursor")
 _DEFAULT_MODELS = {
     ("select", "claude"): "claude-sonnet-5",
     ("summarize", "claude"): "claude-haiku-4-5-20251001",
-    # ("select", "cursor"): "cursor-grok-4.6-high",
-    ("select", "cursor"): "composer-2.5",
+    ("select", "cursor"): "cursor-grok-4.6-high",
     ("summarize", "cursor"): "composer-2.5",
 }
 

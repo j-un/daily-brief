@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e794cae6d7ae2b6229afa6cf1be501a2",
-      "title": "CloudFront Functions × KeyValueStoreで実現するCloudFront + S3のカナリアリリース - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/cloudfront-functions-kvs-canary-release",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 CloudFront Functions × KeyValueStoreで実現するCloudFront + S3のカナリアリリース",
-      "published": "26 Aug 2026 03:56 +0000",
-      "fetched_at": "2026-08-26T04:31:33.404005+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c04aa8d5c51e74eb710914efa77ae591",
       "title": "The Hugging Face incident and the road ahead",
       "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
@@ -639,7 +629,417 @@
       "fetched_at": "2026-08-27T06:21:28.165696+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "522796c9ea634c43f2a4d0d37aa3641f",
+      "title": "AI Norms & Values, Part 1 of 3: How We Do Business",
+      "link": "https://www.honeycomb.io/blog/ai-norms-values-part-1-how-we-do-business-at-honeycomb",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI Norms & Values, Part 1 of 3: How We Do Business at Honeycomb",
+      "published": "27 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "288bafb95e740cb2d71a411c13420667",
+      "title": "Improving infrastructure efficiency for growing demand in the age of AI - Dropbox",
+      "link": "https://dropbox.tech/infrastructure/improving-infrastructure-efficiency-for-growing-demand-in-the-age-of-ai",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Improving infrastructure efficiency for growing demand in the age of AI",
+      "published": "27 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ec5363a10b4f11124d9080a5736aed5",
+      "title": "Kyverno is a platform primitive, not a security tool | CNCF",
+      "link": "https://www.cncf.io/blog/2026/08/19/kyverno-is-a-platform-primitive-not-a-security-tool/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Kyverno is a platform primitive, not a security tool",
+      "published": "27 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce381daea82e6f47c4d683f0f930f636",
+      "title": "IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 | IIJ",
+      "link": "https://www.iij.ad.jp/news/pressrelease/2026/0827.html",
+      "summary": "ホーム IIJについて 情報発信 プレスリリース 2026年 IIJ、1枚のSIMでNTTドコモ網とKDDI網を切り替え可能な「IIJマルチプロファイルSIM 2.0」を提供開始 PDF [708KB] 当社は、1枚のSIMでNTTドコモ網とKDDI網の国内2キャリアの回線を利用できる「IIJマルチ...",
+      "published": "2026-08-27T08:57:11Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d01a4e222987a420c3b5e64c630f867",
+      "title": "AIを使ったナレッジ中心設計を試してみた | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260827b/",
+      "summary": "夏休みの課題ということで、これまでの業務経験、Real World HTTP、Goならわかるシステムプログラミング、実用Go言語、お客様と一緒に勉強したReact/Next.jsの知識を全部詰め込んだ、自分史上最高のウェブアプリケーションサーバーを作ってみました。 https://shibukawa...",
+      "published": "2026-08-27T10:15:21Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7535f384e320b5bc89a3270be70e906",
+      "title": "藤井聡太王位がAIの223手定跡をそのまま採用した件 | やねうら王 公式サイトやねうら王 公式サイト",
+      "link": "https://yaneuraou.yaneu.com/2026/08/27/fujii-sota-follows-ai-223-move-opening-book/",
+      "summary": "以前、お知らせしたように、やねうら王プロジェクトでは、将棋の定跡を自動的に掘るスクリプトであるBookMinerを公開しました。このBookMinerというスクリプトは、GUIからマウスぽちぽちで操作できるようになっています。 将棋の大規模定跡生成スクリプトを公開しました https://yaneu...",
+      "published": "2026-08-27T01:50:48Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2893bf5a5ff2c88136d3cba4ee362df3",
+      "title": "Amazonがオープンソースデータベース「DuckDB」の開発元DuckLabsを買収、DuckDBは引き続きオープンソースのまま",
+      "link": "https://gigazine.net/news/20260827-amazon-acquire-ducklabs/",
+      "summary": "Amazonがオンライン分析処理(OLAP)に特化したオープンソースの高性能組み込み型SQLデータベース管理システムであるDuckDBの開発を主導するDuckLabsを買収する最終契約を締結したと発表しました。 AWS to acquire DuckLabs, the company behind ...",
+      "published": "2026-08-27T10:19:34Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9e3105a754c6cce6ad2d6731b104d20",
+      "title": "「Backlogの値上げエグすぎ」SNSで悲鳴 ユーザー無制限プラン、月最低1.6万円→3.6万円に",
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000862/",
+      "summary": "ヌーラボは27年1月から有料4プランを3プランに統合。エコノミー（月額2万1000円、ユーザー上限15人）、ビジネス（月額3万6300円、ユーザー無制限）、プロフェッショナル（月額10万円、同）の3つにする。 現行のプレミアム（月額2万7000円）はビジネス（月額3万6300円）に、プラチナ（月額7...",
+      "published": "2026-08-27T08:20:45Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "589ac5258cf57e6e3b00ebf7d2581fa8",
+      "title": "Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136012.html",
+      "summary": "",
+      "published": "2026-08-27T09:11:57Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e895a3ec57c421ea7346d33201068ede",
+      "title": "風速15mでも裏返らない晴雨兼用傘、アンベル「タフネス アンチフリップ」開発者に聞く「全天候での安心感」を支える技術",
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000825/",
+      "summary": "傘専門メーカーのアンベル（愛知県名古屋市）が発売した晴雨兼用折りたたみ傘「TOUGHNESS ANTI-FLIP（タフネス アンチフリップ）」は、少しずつ進歩してきた傘というツールが、次のフェーズに入ったことを示す製品なのではと思っている。これまで、急な雨など「いざという時のツール」というイメージか...",
+      "published": "2026-08-27T00:00:42Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45887e1eff4d6303a86887b2dfe32efb",
+      "title": "AI駆動開発はどこまで来たのか？ ファインディの最新実態調査で読み解く現在地 Devin Con Tokyo",
+      "link": "https://speakerdeck.com/akiratom/ai-kudou-kaihatsu-ha-doko-made-kita-no-ka-no-saishin-jittai-chousa-de-yomitoku-genzaichi-devin-con-tokyo",
+      "summary": "AIによる開発支援は「試す」フェーズから「成果を問う」フェーズへ移行しつつあります。 本セッションでは、本イベント参加登録時のアンケート（役職・企業規模・内製開発体制・AIで効果が出ている開発プロセス・導入課題など）の分析結果を発表。さらにファインディが実施するより広範なエンジニア組織調査と比較し、...",
+      "published": "2026-08-26T13:39:34Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4321ddc2245d7d2779435e39abff2d35",
+      "title": "「LibreOffice 26.8」、半年に1回の大規模更新で組版・文字体系・Office互換性を集中改善／生成AI機能は「あえて搭載しない」、初の寄付バナーも",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135953.html",
+      "summary": "",
+      "published": "2026-08-27T10:45:50Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09669182f2ca26a365a89e185e26ab51",
+      "title": "OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136080.html",
+      "summary": "",
+      "published": "2026-08-27T06:03:31Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "abdd1c39e590eee82a44e82d4fecf3a1",
+      "title": "ローカルLLM向けの NVIDIA GPU の選び方｜npaka",
+      "link": "https://note.com/npaka/n/nec1c1fb7000b",
+      "summary": "ローカルLLM向けの NVIDIA GPU の選び方をまとめました。 1. はじめにローカルLLMを高速に動かしたい場合、最も有力な選択肢のひとつが「NVIDIA GPU」です。 NVIDIA GPUでは「CUDA」を中心としたAI向けソフトウェアが充実しており、多くの推論エンジンや高速化技術を利用...",
+      "published": "2026-08-27T04:42:57Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c3c383ab837be12dad7c0f0af8fe5cb",
+      "title": "LLMのローカル実行ツール「Ollama」が「Claude Desktop」に対応 ～3カ月半ぶりの復活／現時点ではmacOSのみ、Windowsも間もなくサポート",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135971.html",
+      "summary": "",
+      "published": "2026-08-27T05:43:07Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "717af6605a957a5cd4e003a1f727b28f",
+      "title": "GitHub - tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "link": "https://github.com/tt-a1i/archify",
+      "summary": "Turn a codebase or system description into a polished, interactive system map — directly in chat. Archify is an agent skill for Raven, Cursor, Claude ...",
+      "published": "2026-08-25T14:53:46Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9c5c0e57c039ad19e3be34631f056f4",
+      "title": "「オルカン高配当」登場 世界の高配当株へ低コスト投資し、配当金のみ分配",
+      "link": "https://www.watch.impress.co.jp/docs/news/2135943.html",
+      "summary": "",
+      "published": "2026-08-27T05:17:08Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb36926619705b14cd61635f1c39eb26",
+      "title": "コードを書くのもレビューも大好きだったのについに全部AIの仕事になった - AIエージェント特化IDEの開発ログ",
+      "link": "https://zenn.dev/ttlg/articles/4077fffd458d61",
+      "summary": "昔の私は、コードの差分を1行ずつ見るのが大好きでした。どう書けばもっと速く、もっと短くなるかを考えている時間が、単純に楽しかった。 いまは、全く読んでいません。昨日、私のマシンでは1日に265個のAIエージェントタスクが作られました。記録を数えてみると、タスクの86%は私ではなくAIが作ったものでし...",
+      "published": "2026-08-27T01:24:56Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccde0fb3b4ec583219f1deeb56cd5832",
+      "title": "Google、「Gemini 3.5 Transcribe」を発表 ～「あー」「えーっと」まじりの声も話者の意図をくんだ整ったテキストに／Androidや「Gemini」アプリに導入、「Chrome」にも搭載予定",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2135956.html",
+      "summary": "",
+      "published": "2026-08-27T02:26:56Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b583fef7227574dc127157c00b97966",
+      "title": "Sparkle、RTX 3060を搭載したThunderbolt 5外付けGPUボックス",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2608/27/news081.html",
+      "summary": "シー・エフ・デー販売は8月27日、台湾Sparkle製となるThunderbolt 5外付け型GPUボックス「TCX-280DF/RTX 3060-12GB」の取り扱いを発表、8月28日に発売する。予想実売価格は18万800円前後（税込み）。 本体サイズ170（幅）×149（奥行き）×59（高さ）m...",
+      "published": "2026-08-27T06:31:01Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f71d0b582ddcb1b7994a6de2f24e3673",
+      "title": "IIJ、1枚でドコモ網とKDDI網を切り替えられるSIM 耐通信障害を訴求",
+      "link": "https://japan.cnet.com/article/35251982/",
+      "summary": "IIJは、ドコモ網とKDDI網の両方を自社で提供するMVNOだ。今回のサービスは、この強みに、特許を取得した独自の回線冗長化技術を組み合わせて製品にした。 1枚のSIMにドコモ網とKDDI網の2つの通信プロファイルを格納し、利用環境に応じて回線を切り替える。切り替え条件は、死活監視や電波強度の測定に...",
+      "published": "2026-08-27T07:04:53Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8bcd1b93843bd636f715aca3b76e86f",
+      "title": "plugins/pstack at main · cursor/plugins",
+      "link": "https://github.com/cursor/plugins/tree/main/pstack",
+      "summary": "i'm poteto. i'm not a president or ceo, but i've worked with millions of lines of code at Meta, Netflix, and Cursor. i'm also on the react core team w...",
+      "published": "2026-08-27T06:10:00Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cca6e3a539e299ad9ab0d142580db102",
+      "title": "ビル・ゲイツが語る「AI時代への移行」がもたらす人間社会へのリスクとは？どうすればAIをより良い未来のために活用できるのか？",
+      "link": "https://gigazine.net/news/20260827-bill-gates-ai-transition-risks/",
+      "summary": "by Billionaires Success Microsoftの創業者として知られるビル・ゲイツ氏が、「AI時代への移行」について語るブログを公開しました。ゲイツ氏はブログの中で、AIへの移行がもたらす人間社会へのリスクについて警鐘を鳴らすとともに、より良い未来のためにAIを活用するための提案も...",
+      "published": "2026-08-27T07:39:02Z",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f08d8cf2c7baf95fd61fd19a3441e4e4",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 thedotm…",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 thedotmack / claude-mem ⭐ 92,021 (+133) 🗒 JavaScript Persistent Context Across Sessions for Every Agent – Captures ev...",
+      "published": "27 Aug 2026 15:17 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ee06cf44ceed9653f329162d693babd",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Jet…",
+      "link": "https://github.com/JetBrains/go-modern-guidelines",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 JetBrains / go-modern-guidelines ⭐ 1,863 (+314) 🗒 Go Help AI coding agents write modern Go",
+      "published": "27 Aug 2026 12:17 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58c07fcb625ee23b304228e804fdbdd3",
+      "title": "Unitree Go2のライバル機 「DEEP Robotics Lite3」は開発検証機として耐えうるかを考察する",
+      "link": "https://dev.classmethod.jp/articles/deeprobotics-lite3-intro/",
+      "summary": "Unitree Go2のライバル機、DEEP Robotics Lite3は開発検証機として使えるのか。二次開発・状態取得・シミュレーション・独自強化学習ポリシーの4要件を立て、公式リポジトリのコードとマニュアルをもとに検証しました。日本語では(多分)ほぼ初となる開発者目線のLite3紹介記事です。",
+      "published": "Thu, 27 Aug 2026 17:56:19 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d435baea0758d48d9ce67764b9694686",
+      "title": "Apple Map Snapshotを使ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-map-snapshot/",
+      "summary": "OGP画像に動的な地図を埋め込みたくて、Apple Map Snapshotを試してみました。他のサービスとの比較、実装方法、カスタムピンやオーバーレイの使い方をまとめます。",
+      "published": "Thu, 27 Aug 2026 11:20:39 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ceb6e08592f5f84da23344ee8f281e44",
+      "title": "GitHub Actionsのセルフホステッド ランナーをLambda MicroVMs上で実行してみた",
+      "link": "https://dev.classmethod.jp/articles/github-actions-self-hosted-runner-on-lambda-microvms/",
+      "summary": "Construct Hubで公開されているcdk-github-microvm-runnersを使ってLambda MicroVMs上にGitHub Actionsのセルフホステッドランナーを構築してみました。 高速に起動してスケールアウトも容易なので、セルフホステッドランナーの実行基盤としてはなか...",
+      "published": "Thu, 27 Aug 2026 10:44:48 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6feacec458f498803a24e8f843bc11d1",
+      "title": "新規IAMユーザーの初回パスワード変更とMFA有効化を同時に強制することはできますか？",
+      "link": "https://dev.classmethod.jp/articles/tsnote-iam-initial-password-mfa-001/",
+      "summary": "新規IAMユーザーの初回パスワード変更とMFA有効化を同時に強制するには、その用途のIAMポリシーを追加でアタッチする必要があります。",
+      "published": "Thu, 27 Aug 2026 09:18:50 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e4d22d7697064a08a6ec37f25a5281e",
+      "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました",
+      "link": "https://dev.classmethod.jp/articles/2026-08_claude-code-product-workshop-kit/",
+      "summary": "課題から形にするまでのプロセスをClaude Codeのスキルで体系化し、誰でも開催できるワークショップキットとして公開しました。九州大学での講義を経て、フィードバックをもとにブラッシュアップした内容と、実際の使い方をお伝えします。",
+      "published": "Thu, 27 Aug 2026 09:06:15 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "276080a3b9c3bb99b7d05af330f965cc",
+      "title": "【PostgreSQL】接続1つあたりのメモリ消費量を free コマンドで確認してみた",
+      "link": "https://dev.classmethod.jp/articles/postgresql-per-connection-memory-usage/",
+      "summary": "PostgreSQL の接続数がメモリにどの程度の影響を与えるのか、実際に検証してみました。 何もしていない接続（pg_sleep 関数のみ）におけるメモリ消費量を明らかにします。",
+      "published": "Thu, 27 Aug 2026 08:54:56 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dadec8c771e49a1ec0b2e2227462e5c8",
+      "title": "Amazon Data Firehose の Direct PUT 送信元を後から特定できないのはなぜですか",
+      "link": "https://dev.classmethod.jp/articles/tsnote-firehose-direct-put-source-cloudtrail-data-events/",
+      "summary": "Amazon Firehose の Direct PUT で送信元が不明な場合、CloudTrail のデータイベント有効化が必要です。送信元の IAM プリンシパルと IP アドレスを特定する方法をご紹介します。",
+      "published": "Thu, 27 Aug 2026 08:31:29 GMT",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdb51798e886a23032c791d7db4033d5",
+      "title": "IK Multimedia、現代の作曲家のためにゼロから開発された渾身のオーケストラ音源、「Sinphonica」を発表…… Miroslav Philharmonikから約21年の年月を経て、遂に登場する新作",
+      "link": "https://icon.jp/archives/27925",
+      "summary": "IK Multimediaが大型の新製品、「Sinphonica（シンフォニカ）」を発表。完全にゼロから開発された高品質なオーケストラ音源が間もなく登場します。 IK Multimedia「Sinphonica」 名作 […]",
+      "published": "Wed, 26 Aug 2026 10:00:00 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "76eaf140cae448bddde8cbb3ac79ec9f",
+      "title": "Reason now offers 15 Reason devices, plus Rack Extensions access, for free",
+      "link": "https://cdm.link/reason-free/",
+      "summary": "Reason Free brings some of the best of Reason to your DAW of choice, totally free. That includes instruments like the excellent Europa synth, effects ...",
+      "published": "Thu, 27 Aug 2026 12:01:52 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "c24772007171f14af7130aa240f8d8e9",
+      "title": "Master the drop with Arturia’s new Pure SUB soft bass synthesizer",
+      "link": "https://musictech.com/news/gear/arturia-pure-sub/?utm_source=rss&utm_medium=rss&utm_campaign=arturia-pure-sub",
+      "summary": "Here's everything you need to know about Arturia's new Pure SUB bass synth. The post Master the drop with Arturia’s new Pure SUB soft bass synthesizer...",
+      "published": "Thu, 27 Aug 2026 16:18:21 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "f23914570e513651a9cc621fe11b8cf4",
+      "title": "Polyend has unveiled a new MIDI controller – and it looks an awful lot like a QWERTY keyboard",
+      "link": "https://musictech.com/news/gear/polyend-keys/?utm_source=rss&utm_medium=rss&utm_campaign=polyend-keys",
+      "summary": "The brand says it wanted to make a playable keyboard that did not require a full-size controller deck on your desk. The post Polyend has unveiled a ne...",
+      "published": "Thu, 27 Aug 2026 16:06:55 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "35fea97fe48430859150832436275fc1",
+      "title": "Dreamtonics’ Instrument X can create a digital orchestra that sounds like real musicians",
+      "link": "https://musictech.com/news/music/dreamtonics-instrument-x/?utm_source=rss&utm_medium=rss&utm_campaign=dreamtonics-instrument-x",
+      "summary": "The software uses AI to adjust elements of human playing style, such as breath pressure and bow friction. The post Dreamtonics’ Instrument X can creat...",
+      "published": "Thu, 27 Aug 2026 09:45:29 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "1f49afaf9e4e7bd00da527997036d003",
+      "title": "A colouring book for Ableton: meet Stencils – the tool designed to help you master musical arrangement",
+      "link": "https://musictech.com/news/music/color-with-live-stencils/?utm_source=rss&utm_medium=rss&utm_campaign=color-with-live-stencils",
+      "summary": "Developed by the music education brand Color With Live, Stencils are soundless Ableton arrangement maps based on popular songs. The post A colouring b...",
+      "published": "Thu, 27 Aug 2026 08:56:47 +0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "9e9e7be8e1784a9ac2eb9c7663dccc61",
+      "title": "What Was Clean Feed?",
+      "link": "https://daily.bandcamp.com/label-profile/clean-feed-label-profile",
+      "summary": "The influential Portuguese jazz label is closing up shop after 25 years. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 27 Aug 2026 17:57:25 -0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "ea0b6005b08054796c49f68e032db1b4",
+      "title": "“Silent Hill” Composer Akira Yamaoka Picks His Bandcamp Favorites",
+      "link": "https://daily.bandcamp.com/big-ups/akira-yamaoka-big-ups",
+      "summary": "From ambient to roots rock, here's what the VGM icon is listening to on Bandcamp right now. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 27 Aug 2026 13:44:33 -0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "312f8111ed4cfb90e80deda7fe527464",
+      "title": "Henry Threadgill, Vijay Iyer & Dafnis Prieto, “Fifteen”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/henry-threadgill-vijay-iyer-dafnis-prieto-fifteen-review",
+      "summary": "A physically exhilarating listen from three notable figures of modern and experimental jazz. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 27 Aug 2026 13:44:00 -0000",
+      "fetched_at": "2026-08-27T18:40:47.175593+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-27T06:21:28.165696+00:00"
+  "updated_at": "2026-08-27T18:40:47.175593+00:00"
 }

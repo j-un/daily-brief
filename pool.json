@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "01c6bd1e4e3cd711cc2892eeecb82af1",
-      "title": "The AI-Native SDLC playbook | Claude by Anthropic",
-      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The AI-Native SDLC playbook",
-      "published": "27 Aug 2026 05:56 +0000",
-      "fetched_at": "2026-08-27T06:21:28.165696+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "60fafb14e5439fed27961a954b9b2d3b",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://azukiazusa.dev/blog/what-i-learned-writing-technical-blog-posts-with-ai/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI に技術ブログを書かせてみてわかったこと",
-      "published": "27 Aug 2026 03:56 +0000",
-      "fetched_at": "2026-08-27T06:21:28.165696+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9ab7e4d07cdc93a62109c1a7b9594c2d",
-      "title": "The August 17 outage, and the work ahead - The GitHub Blog",
-      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The August 17 outage, and the work ahead",
-      "published": "26 Aug 2026 23:55 +0000",
-      "fetched_at": "2026-08-27T06:21:28.165696+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "5183aca37a432874db449eacd7683e5e",
       "title": "或るログ研究者",
       "link": "https://zenn.dev/dmikurube/articles/a-logresearch-er",
@@ -449,7 +419,847 @@
       "fetched_at": "2026-08-28T03:56:22.036468+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "90d38960b7a9edb15d468aaeb96e1e46",
+      "title": "これが“ニューノーマル” ―Linux 7.2リリース、AIレビューによる大量の修正が常態化へ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/daily-linux-260820",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 これが“ニューノーマル” ―Linux 7.2リリース、AIレビューによる大量の修正が常態化へ | gihyo.jp",
+      "published": "28 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "416383eb4662ebe144089fc188f71b44",
+      "title": "Black Hat／DEF CONで体験した、AIセキュリティの現在地 - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/blackhat-defcon-2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Black Hat／DEF CONで体験した、AIセキュリティの現在地",
+      "published": "28 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b422097132d8118c7e16dc20c97f990",
+      "title": "Anthropic、AIの活用方法を学べる「Claude Academy」を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/claude-academy",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Anthropic、AIの活用方法を学べる「Claude Academy」を公開 | gihyo.jp",
+      "published": "28 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab19d5bd91177d6747f05eae03e91caa",
+      "title": "Claude Managed Agentsで作る問い合わせ調査エージェント — 全体構成とAgent定義の管理 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/08/21/070000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Managed Agentsで作る問い合わせ調査エージェント — 全体構成とAgent定義の管理",
+      "published": "28 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddc52246b7a960ac95ea2060ad74e78c",
+      "title": "Get your Windows license refund",
+      "link": "https://en.refund4freedom.org/",
+      "summary": "Article URL: https://en.refund4freedom.org/ Comments URL: https://news.ycombinator.com/item?id=49478340 Points: 177 # Comments: 63",
+      "published": "Fri, 28 Aug 2026 13:42:40 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ade8451e42eb0a17f8d2cfa1ff941804",
+      "title": "EPA says power for data centers can sidestep pollution laws",
+      "link": "https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
+      "summary": "Article URL: https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers Comments URL: http...",
+      "published": "Fri, 28 Aug 2026 13:21:47 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09dbd2add18a30922e8adbe7c7ffe500",
+      "title": "U.S. Sanctions Against the a/I Collective",
+      "link": "https://www.inventati.org/",
+      "summary": "Article URL: https://www.inventati.org/ Comments URL: https://news.ycombinator.com/item?id=49477854 Points: 134 # Comments: 120",
+      "published": "Fri, 28 Aug 2026 12:58:53 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8c9f72fb0dcdc97a7c11a18c2d228fa",
+      "title": "\"IT WoRKs BeTter in the App \"",
+      "link": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/ Comments URL: https://news.ycombinator.com/item?id=49477600 Points: 402 # Co...",
+      "published": "Fri, 28 Aug 2026 12:32:16 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e582e567a5c0ee81c050cd32ef5733c",
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "link": "https://www.orbify.eu/demo/",
+      "summary": "Article URL: https://www.orbify.eu/demo/ Comments URL: https://news.ycombinator.com/item?id=49477564 Points: 135 # Comments: 47",
+      "published": "Fri, 28 Aug 2026 12:29:05 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "250916d4ea38613ddc7d59950b33ba88",
+      "title": "OpenAI: Migrating to HTTPX2",
+      "link": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "summary": "Article URL: https://github.com/openai/openai-python/blob/main/httpx2.md Comments URL: https://news.ycombinator.com/item?id=49477212 Points: 123 # Com...",
+      "published": "Fri, 28 Aug 2026 11:51:20 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5640acc4868c3f7204e16d5cbaea34bb",
+      "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+      "link": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+      "summary": "Article URL: https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/ Comments URL: https://news.ycombina...",
+      "published": "Fri, 28 Aug 2026 11:25:30 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccf6bd08befe90e135256835eb8a97ca",
+      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+      "link": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "summary": "Article URL: https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html Comments URL: https://news.ycombina...",
+      "published": "Fri, 28 Aug 2026 09:00:46 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "98b3a8b9095f824fbba4ae712ae71f66",
+      "title": "Climate change is strengthening El Niño, coral records suggest",
+      "link": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+      "summary": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest Comments URL: https://news.ycombi...",
+      "published": "Fri, 28 Aug 2026 07:19:16 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "978592205c0f86dcdc58b14ba1123256",
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "summary": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/ Comments URL: https://news.ycombinator.com/item?id=49475079 Points: 212 # Comme...",
+      "published": "Fri, 28 Aug 2026 06:33:57 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4606cd9722224d1ea579b029fb81273f",
+      "title": "Sovereign Tech Agency invests €500k in Flatpak",
+      "link": "https://modal.cx/blog/announcing-flatpak-sta/",
+      "summary": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/ Comments URL: https://news.ycombinator.com/item?id=49474786 Points: 234 # Comments: 125",
+      "published": "Fri, 28 Aug 2026 05:42:47 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e9dfa1765d265b414a8f286606a5abf",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "link": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+      "summary": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions Comments URL: https://news.ycombinator.com/item?id=49474143 Points: 198 # Com...",
+      "published": "Fri, 28 Aug 2026 03:49:33 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "be488068664e6d7b00140dd92a361d74",
+      "title": "USDA recalls 30k pounds of Argentine beef sold in Texas and Florida",
+      "link": "https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida",
+      "summary": "Article URL: https://cbsaustin.com/news/local/usda-recalls-30000-pounds-of-argentine-beef-sold-in-texas-and-florida Comments URL: https://news.ycombin...",
+      "published": "Fri, 28 Aug 2026 02:05:57 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6e6631dd6a622e04ba8ecdece922797",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html Comments URL: https://news.ycombinator.com/it...",
+      "published": "Fri, 28 Aug 2026 02:03:38 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28562dbb7deedfc8278098dc8855a7a8",
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "summary": "https://archive.ph/qdE54 Comments URL: https://news.ycombinator.com/item?id=49473483 Points: 178 # Comments: 239",
+      "published": "Fri, 28 Aug 2026 01:57:26 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "306cce44250bb41691cf55058ec0614e",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "link": "https://www.terminal-bench-science.ai/announcement",
+      "summary": "Article URL: https://www.terminal-bench-science.ai/announcement Comments URL: https://news.ycombinator.com/item?id=49472820 Points: 105 # Comments: 32",
+      "published": "Fri, 28 Aug 2026 00:06:51 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "00c39afb3931ba5f11db633b3ec0b05e",
+      "title": "Select * from Internet.blogposts",
+      "link": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+      "summary": "Article URL: https://pfrazee.leaflet.pub/3mu3p2smmis22 Comments URL: https://news.ycombinator.com/item?id=49472161 Points: 120 # Comments: 54",
+      "published": "Thu, 27 Aug 2026 22:34:32 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e208963ada2ae4c0c26cfa7894b6eff",
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "link": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "summary": "https://web.archive.org/web/20260826205502/https://www.newsc...https://archive.ph/zahjc Comments URL: https://news.ycombinator.com/item?id=49472090 Po...",
+      "published": "Thu, 27 Aug 2026 22:26:04 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c39310a30b0203c928be86d7b775d97b",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "link": "https://github.com/elyosh/OpenTIE/",
+      "summary": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 205 # Comments: 53",
+      "published": "Thu, 27 Aug 2026 22:10:47 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5bf331d49fdcbc9ee03f107d4b3012b",
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "link": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "summary": "Article URL: https://github.com/calmrocks/ai-engineer-notebooks Comments URL: https://news.ycombinator.com/item?id=49471714 Points: 111 # Comments: 14",
+      "published": "Thu, 27 Aug 2026 21:46:39 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bfbc4dc10d5dc3ec224a7bee0eecdf4",
+      "title": "AI コーディングエージェントは本当に良くなっているのか？",
+      "link": "https://aws.amazon.com/jp/blogs/news/diagnostics-over-time/",
+      "summary": "Kiro IDE のコーディングエージェントがコードを書いたり変更したりすると、diagnostics ツールが静的解析器を実行して出力をチェックします。これは、開発者がエディタ上で下線として目にするのと同じチェックです。実際にこのツールは、モジュールの import 漏れ（Cannot find ...",
+      "published": "Fri, 28 Aug 2026 11:59:49 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "67505722d2b33cdd5882f5ee0b9c3b1a",
+      "title": "Amazon Bedrock のきめ細かなコスト配分の導入",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-granular-cost-attribution-for-amazon-bedrock/",
+      "summary": "本記事は2026年4月17日に公開された「Introducing granular cost attribut […]",
+      "published": "Fri, 28 Aug 2026 07:40:20 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f482990e7b8fe0f5a4be4f48ee16acf0",
+      "title": "パート2: Amazon AthenaとCUDOSを使用したAmazon Bedrockのコスト配分",
+      "link": "https://aws.amazon.com/jp/blogs/news/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "summary": "本記事は2026年8月12日に公開された「Part 2: Amazon Bedrock cost attrib […]",
+      "published": "Fri, 28 Aug 2026 07:24:33 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d6fa9f31d66a880e4e537367fa37780",
+      "title": "AI ツールで実現する継続収益ビジネス​ 〜開発力を資産に変える〜 – AWS Local Executive Roadshow 札幌編（#8/8）開催レポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/local_executive_roadshow_8/",
+      "summary": "こんにちは。Amazon Web Services Japan のソリューションアーキテクト、田中 里絵 です […]",
+      "published": "Fri, 28 Aug 2026 04:08:54 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed7d4a5cc10ae285633d269f062d3855",
+      "title": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management",
+      "summary": "Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's CA t...",
+      "published": "Thu, 20 Aug 2026 18:30:00 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b401eb2ee6c30869255c53fa66de6ab",
+      "title": "高市首相 みらい 安野党首を「家庭教師」に AIでアプリ作成 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260828de47070",
+      "summary": "AIをめぐり、高市総理大臣はチームみらいの安野党首を「家庭教師」として総理大臣官邸に招き、AIを使って政府の物価高対策の効果を試算するアプリの作成を体験しました。 高市総理大臣は、ことし5月の党首…",
+      "published": "2026-08-28T10:38:05Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4491e8ff0a343441cc05d1fb998f3210",
+      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
+      "summary": "米Anthropicは8月27日（現地時間）、AIエージェントが物理的な機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）のリサーチプレビューを開始したと発表した。まずは科学研究機関と先端製造分野の一部パートナーに提供する。MHSは、Anthropicと米...",
+      "published": "2026-08-28T06:42:56Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0931bad216223607c0c4b5553d60514",
+      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
+      "summary": "米Googleは8月27日（現地時間）、信頼できる情報源をGoogleのAI製品で活用できるようにする、複数の製品にまたがる取り組み「Expert Intelligence」を発表した。第1弾として、「Google Playブックス」で購入した対象の電子書籍を「Gemini Notebook」（旧「...",
+      "published": "2026-08-28T04:41:38Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f9e525ec41b320393e4c82e8300b14e",
+      "title": "購入した電子書籍をGeminiに読ませて質問できる「Expert Intelligence」が登場、10万冊超に対応",
+      "link": "https://gigazine.net/news/20260828-expert-intelligence-gemini/",
+      "summary": "文書・音声・動画をAIで分析して内容を整理してまとめてくれるGoogleのツール「Gemini Notebook(旧：NotebookLM)」の新しい取り組みとして、購入済みの書籍を取り込んで質問したり議論したりできる「Expert Intelligence」が発表されました。 Expert Int...",
+      "published": "2026-08-28T05:50:49Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8daa43123328e55167a64a8c2e8c12ce",
+      "title": "Testcontainersで実DBを使う並列テスト基盤を設計する - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/08/28/160000",
+      "summary": "【Unit7 ブログリレー5日目】 記事とは関係ない自宅の本棚。気づいたら本が増えてます。 エムスリーエンジニアリンググループ Unit7(リサーチプロダクトチーム)の丸田です。 現在開発しているプロジェクトでは、可能な限りMockを使わず、実際のPostgreSQLに接続してJUnitでテストを動...",
+      "published": "2026-08-28T12:53:43Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76ee4cc6b340ed09cabbe681e23731a5",
+      "title": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
+      "summary": "米Hugging Face傘下の仏Pollen Roboticsは8月27日（現地時間）、二足歩行ロボット「Microduck」を発表し、予約受付を開始した。価格は399ドル（導入価格）。出荷は2026年のクリスマス前を予定し、対象地域は北米、欧州、英国など。カラーは4色用意する。 身長25cm、幅...",
+      "published": "2026-08-28T08:12:41Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4a05b1f2cc2543805753f769faa410c",
+      "title": "世界中のライブカメラを覗けるサービス「とまり木」が話題、1,200カ所以上が配信中／カテゴリで絞ったり、人気のカメラを覗いたり……ザッピングっぽいことも【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2136348.html",
+      "summary": "",
+      "published": "2026-08-28T05:15:08Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a50f9eaca25a74770d34ed4c3d32356d",
+      "title": "警察官にウェアラブルカメラ実装へ 「試行で有用性確認」",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000910/",
+      "summary": "警察庁は8月28日、ウェアラブルカメラの実装に向け、予算の確保や運用ルールの整備を推進すると発表した。昨年9月から全国の6都府県警察で実施した試行で「有用性が認められた」と判断した。 試行では「職務執行状況を客観的に確認できるようになった」という声や、軽量化を求める声があったという。 試行は警視庁、...",
+      "published": "2026-08-28T08:23:18Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfa6c4eb5494b0fa023b932553e283a4",
+      "title": "高市総理、AI家庭教師で「物価高対策シミュレーター」を作る 「こういうのが欲しかった」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136675.html",
+      "summary": "",
+      "published": "2026-08-28T11:08:45Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88c53441f90bb24305a21f30a35579ad",
+      "title": "学生がAIを使うと論理が明確で専門家に近い回答になることがOpenAIの実験で判明",
+      "link": "https://gigazine.net/news/20260828-student-gain-from-ai/",
+      "summary": "学生に生成AIを使わせるべきなのか、一律で禁止すべきなのかという議論は世界中で絶えず行われています。OpenAIが大学と共同で行った新たな実験では、AIを使う場合でも一定のメリットがあることが明らかになりました。 Training novices to think, or giving them L...",
+      "published": "2026-08-28T03:56:59Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a70d30f237a75a311df0bcaf1d21aa77",
+      "title": "povoの「5G SA」接続トラブル解消、原因はKDDI側の設定ミス",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2136417.html",
+      "summary": "",
+      "published": "2026-08-28T03:36:36Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "811f2a91e93a8a4d4c8e192d93a6662a",
+      "title": "ダサいスライド資料を作る大会が開催中 応募フォームもダサい",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000902/",
+      "summary": "学生向け就職活動支援サービスを手掛けるサポーターズ（東京都渋谷区）が、ダサいスライド資料を募る大会を開催している。同社が10月10日から11日にかけて開催する学生向けテックカンファレンス「技育祭2026【秋】」に伴う企画で、優勝者にはYouTuberの「ラムダ技術部」さんと一緒にイベントに登壇できる...",
+      "published": "2026-08-28T06:36:26Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b8ebf8fb453c63511b63d69082a52cb",
+      "title": "最大40 TOPSのエッジAIコンピュータ「Arduino VENTUNO Q」国内発売へ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136553.html",
+      "summary": "",
+      "published": "2026-08-28T09:17:16Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad6e54e8c4d2578af89808951ed5aa93",
+      "title": "「秀丸」の使い方をAIチャットで解決 ～「Gemini Notebook」ベースのヘルプサイトが公開／「エディタ」「メール」「ファイラーClassic」のほか、関連ツールやマクロにも対応",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2136351.html",
+      "summary": "",
+      "published": "2026-08-28T06:48:34Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ff15e664ddc5ea34e3296e4358ad456",
+      "title": "ようやく加速し始めた「日本のAIデータセンター」 世界各地の競争と日本の課題",
+      "link": "https://www.watch.impress.co.jp/docs/watchplus/2135519.html",
+      "summary": "",
+      "published": "2026-08-28T03:19:39Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26f6a41a01dd488030d943c6e4cf71e9",
+      "title": "Expert Intelligence: a new way for you to engage with trusted content",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+      "summary": "Expert Intelligence: a new way for you to engage with trusted content",
+      "published": "2026-08-28T02:17:50Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f43d4953c1f25bcb88fa3fb6c3b6cac3",
+      "title": "11型で実売およそ4万円でもまったく違う！ Amazon「Fire Max 11」対Blackview「Link 5」【山口真弘のおすすめ読書タブレット比較】",
+      "link": "https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2136312.html",
+      "summary": "",
+      "published": "2026-08-27T23:57:41Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0dfd45f1edc4b43d9f04b14c80675b98",
+      "title": "パスワード変更用のよく知られた URL を追加することで、ユーザーが簡単にパスワードを変更できるようにします | web.dev",
+      "link": "https://web.dev/articles/change-password-url?hl=ja",
+      "summary": "パスワード変更用のよく知られた URL を追加することで、ユーザーが簡単にパスワードを変更できるようにします コレクションでコンテンツを整理 必要に応じて、コンテンツの保存と分類を行います。 ウェブサイトのパスワード変更ページに /.well-known/change-password からのリダイ...",
+      "published": "2026-03-10T02:21:09Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2652f6858cceecf6354dba513bc77a8f",
+      "title": "「ライザAI」、配信開始2日で不正利用を警告 生成AIによる“偽画像”拡散も",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000892/",
+      "summary": "生成AIスタートアップのSpiralAI（東京都千代田区）は8月27日、スマートフォン向けAIチャットアプリ「RyzaChat:AI ライザと創るあなただけのひと夏の夢物語」を巡り、利用規約に違反する行為が確認されたとして注意喚起した。 同社によると、アプリ内のキャラクター素材や音声などのデータを抜...",
+      "published": "2026-08-28T05:08:46Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a883aa75c0235ff3b57d665b71a548e9",
+      "title": "MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測",
+      "link": "https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval",
+      "summary": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 昨年 MacBook Pro を買うときに、ローカルの AI が開発に使えたらいいなと思って、奮発して 128GB のモデルにしました。それから時々、開発にしっかり使えるレベルになっているかを確かめるためにいろいろなモデルを試して...",
+      "published": "2026-08-28T03:32:17Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c812ac65be077354bad3e367dcba352",
+      "title": "ドキュメントを書くのをやめて、育てることにした──AI駆動開発におけるWiki管理、CodeAlmanacを試してみた",
+      "link": "https://zenn.dev/explaza/articles/5ccd14f81a6dc7",
+      "summary": "はじめに こんにちは！株式会社エクスプラザのShinです。 この記事では、AI駆動開発において、AIエージェントと人間で仕様の背景や文脈を共有し、適切に管理するためのCodeAlmanacというツールを試してみようと思います。 CodeAlmanacとは CodeAlmanacとは、「AIコーディン...",
+      "published": "2026-08-26T04:33:28Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a1432c1d371fad574c26c3b2acfbfba",
+      "title": "HBMの再設計でAI性能アップへ。NVIDIAが「NVHBM」発表",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2136398.html",
+      "summary": "",
+      "published": "2026-08-28T08:51:56Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d7396698139f4fc192a2f9328afe486",
+      "title": "Claude Code の承認待ちを見逃さないために、光る Clawd を机に置いた",
+      "link": "https://zenn.dev/lincwell_inc/articles/79092d88245748",
+      "summary": "本記事で紹介するのは業務外で作った個人プロジェクトです。Anthropic 非公式の ファンプロジェクトであり、Anthropic とは無関係です。 15 分間、Claude Code は私を待っていた Claude Code にタスクを投げて別の作業に移り、戻ってきたら権限確認ダイアログで止まった...",
+      "published": "2026-08-27T04:10:15Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "02f401d56abad9fb4bd49fbda7948fb4",
+      "title": "AI時代の新スマホは正方形？ 中国市場で増殖する「スクエアAIスマホ」(山根康宏) | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/28/5437.html",
+      "summary": "スマホとSIMを求めて世界を取材中。メディアへ執筆多数。海外・中国通信関連の記事や講演承ります。noteや動画配信もやってます。 アップルもまもなく折りたたみスマートフォンを出すとみられており、スマートフォンの形状はますます多様化の時代がやってきます。動画視聴には大きな画面が便利ですから、折りたたみ...",
+      "published": "2026-08-28T02:14:32Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8677cdd9987e12b9ad26adba1feef412",
+      "title": "R-18ゲームをiPhoneでも……DMM GAMES、iOS向け独自ストアを31日に公開",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000881/",
+      "summary": "DMM.com傘下で、ゲームプラットフォーム「DMM GAMES」を運営するEXNOA（東京都港区）は、R-18ゲームに対応したアプリストア「GAMES STORE」のiOS版を8月31日午後5時にリリースすると発表した。App Storeを介さずにゲームアプリをインストールできる「代替アプリマーケ...",
+      "published": "2026-08-28T01:13:20Z",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5aa322a6b28f571fccb6124814b389ae",
+      "title": "AWS IoT RuleでMQTTメッセージをCloudWatch Logsへ保存してみた",
+      "link": "https://dev.classmethod.jp/articles/saving-mqtt-message-to-cloudwatch-through-iot-rule/",
+      "summary": "AWS IoT Ruleを使い、ローカルコンテナから送信したMQTTメッセージをCloudWatch Logsへ出力する方法をTerraformで実装してみました。デバイスの権限分離とインフラの最小構成を意識した検証です。",
+      "published": "Fri, 28 Aug 2026 13:14:10 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9178f8a6f63d39eb004069dbbd151f6",
+      "title": "多観点で比較する Lambdalith vs 単一目的 Lambda",
+      "link": "https://dev.classmethod.jp/articles/lambdalith-vs-single-purpose-lambda/",
+      "summary": "AWSでAPIを作るとき、Lambdaをエンドポイントごとに分けるか1つにまとめるか。単一目的LambdaとLambdalith（Hono）の2つの構成を、コールドスタート・認証・IAM権限・保守性・ルーティング・CDKの書き方・CloudFormationリソース数の7つの観点で比較します。",
+      "published": "Fri, 28 Aug 2026 12:31:17 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "62f23c57640ab7a03e69898c1a5e1e65",
+      "title": "DevOps Agentのリソース変更操作（エージェントアクション）で緩和計画を実行してみた",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-directed-actions-mitigation/",
+      "summary": "DevOps Agentがついに変更権限を持つようになりました。アクションロールの設定方法から実際の動作確認まで、新しく追加されたDirected Actionsの機能について試してみます。",
+      "published": "Fri, 28 Aug 2026 11:48:53 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c98148bb533d1be1d711ca8a0b0b83e",
+      "title": "AWS Batch が Amazon ECS Managed Instances をサポートしたので GPU と CPU インスタンスそれぞれ試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-batch-ecs-managed-instances-gpu-cpu/",
+      "summary": "AWS Batch が Amazon ECS Managed Instances をサポートしたので、GPU と CPU インスタンスそれぞれを試して、実際の動作や設定方法、料金体系などを確認してみました。",
+      "published": "Fri, 28 Aug 2026 11:38:24 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a824f8074ba44d2e81d0c07a6d43930",
+      "title": "Account Access Managerで割り当てるIAMロールの配置先と運用構成を検証してみた",
+      "link": "https://dev.classmethod.jp/articles/2026-08-28-aam-iam-role-placement-and-operation/",
+      "summary": "新機能Account Access Managerについて、割り当てるIAMロールを委任管理アカウントとは別のメンバーアカウントに配置したまま運用できるか、信頼ポリシーでのIPアドレス制限ができるかを検証しました！",
+      "published": "Fri, 28 Aug 2026 11:04:12 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ff6f785c817a5f4d85a4091af14ff1e",
+      "title": "【MySQL】SELECT MAX(id) FOR UPDATEでID採番すると同時実行でデッドロックする理由を調べてみた",
+      "link": "https://dev.classmethod.jp/articles/mysql-select-max-id-for-update-deadlock/",
+      "summary": "`SELECT MAX(id) FOR UPDATE`でID採番を行う際に並列実行でデッドロックが発生する仕組みを、MySQLのギャップロックを交えて詳しく解説します。",
+      "published": "Fri, 28 Aug 2026 11:00:10 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "198998fb86a3a073c9d357b8da9eefd1",
+      "title": "Snowflake Cortex Agents向けのAgent SkillをGitHubから連携してエージェントから使う",
+      "link": "https://dev.classmethod.jp/articles/snowflake-cortex-agents-deploy-skills-from-github/",
+      "summary": "SnowflakeのCortex Agentsでスキルを設定する際に、GitHubからスキルをデプロイする2つの方法を試してみました。GitHub Actionsからステージにデプロイする方法と、Snowflake Gitリポジトリを同期して利用する方法をそれぞれ紹介します。",
+      "published": "Fri, 28 Aug 2026 10:34:19 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "92fdf01142fe9bb228d6f0e912d29fa6",
+      "title": "AWS DMS で MySQL の TIME 型を Redshift の TIME 型にマッピングできないのはなぜですか",
+      "link": "https://dev.classmethod.jp/articles/tsnote-dms-mysql-time-type-redshift-varchar/",
+      "summary": "AWS DMS で MySQL の TIME 型を Redshift に移行する際に発生する型の不一致エラーと、その原因及び対応方法についてまとめます。",
+      "published": "Fri, 28 Aug 2026 08:10:54 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0643c525b0faa92477835018a8a146e7",
+      "title": "Savings Plans購入時に「オーバーコミットしている可能性があります」と表示されたときの確認手順",
+      "link": "https://dev.classmethod.jp/articles/aws-savings-plans-overcommit-warning-check/",
+      "summary": "AWSでSavings Plansを購入する際に出る「オーバーコミット警告」について、その原因と判断方法を解説します。一括請求環境やSP更新時には実態と異なる警告が出やすいため、正しく判断するための確認手順をまとめました。",
+      "published": "Fri, 28 Aug 2026 08:03:49 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "738b4360fde9c650c8565ca21df1c8a9",
+      "title": "【kaimei試してみる】社内の暗黙知を1行教えるだけで、AIの分析精度はここまで変わる",
+      "link": "https://dev.classmethod.jp/articles/kaimei-business-knowledge-definition/",
+      "summary": "AIデータ分析ツールから返ってくる数字、本当に信じていいですか？自然言語でデータを聞けるkaimeiで、ビジネスナレッジの登録有無による結果の違いを検証し、AIでのデータ分析において社内の暗黙知を学習させる重要性を確認しています。",
+      "published": "Fri, 28 Aug 2026 07:52:52 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1915026133db99b912f648c8be331135",
+      "title": "Cloudflare OSをローカルPCで、やる",
+      "link": "https://dev.classmethod.jp/articles/0abdfffa8e443128f3eb4284651266120996ab44f8f40274a8e90104a6522df9/",
+      "summary": "Cloudflareがオープンソース化した社内向けAIワークスペース基盤「Cloudflare OS」をローカル環境で動かしてみました。権限管理やセキュリティを備えたエージェントチャットUIから、AIにアプリ開発を依頼できる仕組みまで、実際の画面を交えながら紹介します。",
+      "published": "Fri, 28 Aug 2026 07:35:08 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e35cc086ad3dc9f79d95436110f3d2b",
+      "title": "[アップデート] Mountpoint for Amazon S3 v1.24.0 でメモリ使用量を制御できるようになったので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/mountpoint-for-S3-adds-memory-usage-controls/",
+      "summary": "Mountpoint for Amazon S3 v1.24.0 でメモリ使用量をコントロールする `--memory-target` オプションが追加されました。実際に動作を確認しながら、この新機能と書き込みオープン数の上限についてまとめます。",
+      "published": "Fri, 28 Aug 2026 06:37:17 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "80a8419be3210cf7009f5a027ca646c1",
+      "title": "AWS DevOps Agentがリソースを更新できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-directed-actions/",
+      "summary": "AWS DevOps Agent のエージェントアクション機能が新しく追加されました。リソース変更を実際に実行できるようになったこの機能について、Lambda 関数のタグ更新を例に、セットアップから実行承認までの全体の流れを試してみました。",
+      "published": "Fri, 28 Aug 2026 06:17:52 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c44bd20a41f12a85b29eab0863833c4",
+      "title": "[特許取得]暗黙知継承ソリューション「ghoost」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/digital-twin-with-ghoost/",
+      "summary": "ベテラン社員の暗黙知継承という組織の課題に対して、AIを活用した「ghoost」という分身AIソリューションを実際に試してみました。その動作と可能性についてレポートします。",
+      "published": "Fri, 28 Aug 2026 05:56:47 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f65a1878d79f5568708bc8f92fbbb3f6",
+      "title": "Batch APIと同じ料金で使えるOpenAI APIのFlex processingを試してみる",
+      "link": "https://dev.classmethod.jp/articles/openai-flex-processing/",
+      "summary": "OpenAI APIのコストを半分にできるFlex processingについて、Batch APIとの違い、使い方、実際のレイテンシとリソース不足による拒否率を確認しました。",
+      "published": "Fri, 28 Aug 2026 05:47:27 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3603a1ff1ae07fffd00a0d15641dcc51",
+      "title": "AWS IoT Fleet Provisioningでローカルコンテナを自動登録してみた",
+      "link": "https://dev.classmethod.jp/articles/local-cotainer-auto-iot-fleet-provisioning-device/",
+      "summary": "AWS IoT Fleet Provisioningのfeat provisioning by claimを使い、共通のclaim証明書を持つコンテナから、デバイス固有の証明書を自動取得してAWS IoT Coreへ接続する仕組みを試してみました。",
+      "published": "Fri, 28 Aug 2026 04:50:23 GMT",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dea9c9bbdf080bf83c1806b6bba3e03e",
+      "title": "Lucinate video synth animates and live-codes visuals on Mac and iOS",
+      "link": "https://cdm.link/lucinate-visuals-on-mac-and-ios/",
+      "summary": "From the makers of the utterly indispensable iPad app AUM (among other things), Lucinate is a real-time visual environment for macOS and iOS, based on...",
+      "published": "Fri, 28 Aug 2026 11:44:10 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "83eb7290f92063d14aa5c673e5df5499",
+      "title": "A free version of the acclaimed Reason Rack has just launched – here’s everything you need to know",
+      "link": "https://musictech.com/news/gear/reason-free/",
+      "summary": "Available as a plugin within any compatible DAW, with 15 instruments, effects and utilities totally free. The post A free version of the acclaimed Rea...",
+      "published": "Fri, 28 Aug 2026 14:38:26 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "bb5867dea931a715e93916ba0a157bf2",
+      "title": "SoundCloud is finally letting artists sell music directly to fans – with zero commission",
+      "link": "https://musictech.com/news/gear/soundcloud-launch-direct-music-sales/",
+      "summary": "Bandcamp Fridays, but make it SoundCloud. The post SoundCloud is finally letting artists sell music directly to fans – with zero commission appeared f...",
+      "published": "Fri, 28 Aug 2026 09:01:15 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "46ec02edf4950b87b5bea1e67dbae58b",
+      "title": "Master the drop with Arturia’s new Pure SUB soft bass synthesizer",
+      "link": "https://musictech.com/news/gear/arturia-pure-sub/",
+      "summary": "Here's everything you need to know about Arturia's new Pure SUB bass synth. The post Master the drop with Arturia’s new Pure SUB soft bass synthesizer...",
+      "published": "Thu, 27 Aug 2026 16:18:21 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "874ae83d74b741a7e07942dc0f794582",
+      "title": "Polyend has unveiled a new MIDI controller – and it looks an awful lot like a QWERTY keyboard",
+      "link": "https://musictech.com/news/gear/polyend-keys/",
+      "summary": "The brand says it wanted to make a playable keyboard that did not require a full-size controller deck on your desk. The post Polyend has unveiled a ne...",
+      "published": "Thu, 27 Aug 2026 16:06:55 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "b661fddac680cfaf895c8e0572856c5b",
+      "title": "Dreamtonics’ Instrument X can create a digital orchestra that sounds like real musicians",
+      "link": "https://musictech.com/news/music/dreamtonics-instrument-x/",
+      "summary": "The software uses AI to adjust elements of human playing style, such as breath pressure and bow friction. The post Dreamtonics’ Instrument X can creat...",
+      "published": "Thu, 27 Aug 2026 09:45:29 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "732cd96c7a61704159f96449df66cb0f",
+      "title": "A colouring book for Ableton: meet Stencils – the tool designed to help you master musical arrangement",
+      "link": "https://musictech.com/news/music/color-with-live-stencils/",
+      "summary": "Developed by the music education brand Color With Live, Stencils are soundless Ableton arrangement maps based on popular songs. The post A colouring b...",
+      "published": "Thu, 27 Aug 2026 08:56:47 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fe7fd8f205a36f8f01007644b2b58484",
+      "title": "The best new music plugins this week, free and paid",
+      "link": "https://musictech.com/news/gear/new-plugins-this-week/",
+      "summary": "Software instruments, effects and mixing plugins – here’s everything fresh in the plugin marketplace this week. The post The best new music plugins th...",
+      "published": "Thu, 27 Aug 2026 03:00:52 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "035f47066b8d2ec1dd0e2aa91a352150",
+      "title": "What is EQ in music production and mixing?",
+      "link": "https://musictech.com/glossary/what-is-eq-in-music-production-and-mixing/",
+      "summary": "This is why we use EQ, and what the differences are between different EQ types. The post What is EQ in music production and mixing? appeared first on ...",
+      "published": "Tue, 25 Aug 2026 16:43:20 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "04f51c5954f4e2d9058e234188afdb4e",
+      "title": "Core Sampler is “the sampler Pro Tools should already have” – this is how it works",
+      "link": "https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/",
+      "summary": "Core Sampler was developed by film composer Nico Borromeo, who says he was “tired of turning musical ideas into timeline and audio-clip work.” The pos...",
+      "published": "Tue, 25 Aug 2026 14:43:17 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "31aada5c0624b6a0167247ff4af7248b",
+      "title": "It’s been 60 years since Jimi Hendrix first plugged into a Marshall – and the brand is celebrating with a collection of psychedelic audio gear",
+      "link": "https://musictech.com/news/gear/marshall-jimi-hendrix-60-anniversary-collection/",
+      "summary": "Limited-edition Major V headphones, a purple-on-black Emberton III Bluetooth speaker and the pièce de résistance of the range, a JMH Studio guitar amp...",
+      "published": "Tue, 25 Aug 2026 12:00:29 +0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "150e902022e688e122d5d7d40e9240ec",
+      "title": "Essential Releases, August 28, 2026",
+      "link": "https://daily.bandcamp.com/essential-releases/essential-releases-august-28-2026utm_campaignessential_releasesutm_sourcebandcamputm_mediumdailyutm_termbandcamputm_content20260828",
+      "summary": "Indie soul, experimental pop, Latin psychedelia, and more. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 28 Aug 2026 14:27:30 -0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "da70a98f90d2c1a09f069b63a61cc99d",
+      "title": "KILOBAUUD and the Pulsing New Orleans House Scene",
+      "link": "https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report",
+      "summary": "The city’s dancefloors are bursting with new takes on classic sounds. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 28 Aug 2026 13:41:51 -0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "3d26776cb2a9d9298e95c4a415549f56",
+      "title": "Marci, “Mask Lady and Late Night Girl”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/marci-mask-lady-and-late-night-girl-review",
+      "summary": "The Montreal artist and TOPS member teaches a masterclass in sophisticated, disco-speckled pop. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 28 Aug 2026 13:41:41 -0000",
+      "fetched_at": "2026-08-28T15:51:51.868379+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-28T03:56:22.036468+00:00"
+  "updated_at": "2026-08-28T15:51:51.868379+00:00"
 }

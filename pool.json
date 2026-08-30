@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "79e9d4da0eb03c1e1f2b1c3bbf305f43",
-      "title": "はてなブログで遭遇したPerlの正規表現のパフォーマンス問題について - Hatena Developer Blog",
-      "link": "https://developer.hatenastaff.com/entry/2026/08/21/114446",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 はてなブログで遭遇したPerlの正規表現のパフォーマンス問題について",
-      "published": "29 Aug 2026 01:55 +0000",
-      "fetched_at": "2026-08-29T08:28:17.886452+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "24bfc3523724e658d1a287b3de779453",
       "title": "ソフトウェアエンジニアリングの基礎 - O'Reilly Japan",
       "link": "https://www.oreilly.co.jp/books/9784814401789/?utm_mediun=referral",
@@ -519,7 +509,277 @@
       "fetched_at": "2026-08-30T09:36:48.839551+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "fe5a186b430c9f2dc03d501fc2d01d75",
+      "title": "新たなスキル証明の方法 ~ マイクロクレデンシャルと AWS 認定の関係性について ~ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/microcredential-certification-relationship/",
+      "summary": "「マイクロクレデンシャルは、すでに AWS 認定 (Associate レベル以上) を保有している方が次のステップとして取り組むのに最適」AWS資格取得後の知識獲得とスキルアップに、皆様。",
+      "published": "30 Aug 2026 14:26 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72d73eb725b49d817cf1c263b672dd49",
+      "title": "Raspberry PiとPythonでつくる AIアプリ開発実践ガイド | 書籍情報 | 株式会社 講談社サイエンティフィク",
+      "link": "https://www.kspub.co.jp/book/detail/5443514.html",
+      "summary": "2026年9月8日発売",
+      "published": "30 Aug 2026 14:18 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "56f58053b172c401e0dce1171b0c7349",
+      "title": "本番インシデントのトリアージを AI エージェントに任せられるようになるまで | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/trust-agent-triage/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 本番インシデントのトリアージを AI エージェントに任せられるようになるまで | Amazon Web Services",
+      "published": "30 Aug 2026 10:55 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d58adf485d6c96524981e601918b5161",
+      "title": "Brits would quite like their private messages to stay private",
+      "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "summary": "Article URL: https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994 Comments ...",
+      "published": "Sun, 30 Aug 2026 09:26:08 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ce439e5e27a8a97b5713fa92296c99b",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "summary": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/ Comments URL: https://news.ycombinator.com/item?id=49496918 Points: 119 # Comments: 48",
+      "published": "Sun, 30 Aug 2026 08:51:39 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bf72c87c65b6023bf3e56635b986a99",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "link": "https://arxiv.org/abs/1804.07389",
+      "summary": "Article URL: https://arxiv.org/abs/1804.07389 Comments URL: https://news.ycombinator.com/item?id=49496782 Points: 141 # Comments: 38",
+      "published": "Sun, 30 Aug 2026 08:23:26 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0dfad723faa5dfa7d4692cd4ef0cb57",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "link": "https://freecore.org/",
+      "summary": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 143 # Comments: 74",
+      "published": "Sun, 30 Aug 2026 01:31:32 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31ee698076ee2c90502bc7dce2379563",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 110 # Comments: 38",
+      "published": "Sat, 29 Aug 2026 19:01:09 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8058090c801b569da1d6431f75d49181",
+      "title": "2 週間で 12 万人規模へ – NEC が Claude Desktop on Amazon Bedrock で実現したセキュアな全社 AI 環境",
+      "link": "https://aws.amazon.com/jp/blogs/news/nec-claude-desktop-bedrock-120k-users-2-weeks/",
+      "summary": "NEC は 2026 年 6 月 1 日、全社員（最大 12 万人）が利用できる Claude Cowork […]",
+      "published": "Sun, 30 Aug 2026 11:26:55 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7faad96301f309f2fc802461a31aaffe",
+      "title": "DuckDB で Amazon S3 Tables に格納された表形式データセットへのアクセスを効率化する",
+      "link": "https://aws.amazon.com/jp/blogs/news/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/",
+      "summary": "DuckDB は軽量なインメモリ SQL エンジンで、追加のサーバー運用なしに対話型のデータ分析を実現します。本記事では、Amazon SageMaker Lakehouse Iceberg REST エンドポイントと AWS Lake Formation のアクセス許可を利用して、AWS Clou...",
+      "published": "Sun, 30 Aug 2026 10:56:07 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3b3333adaa40751865c60bb37e06dfd",
+      "title": "Amazon SageMaker Unified Studio のノートブックで、より速くインサイトに到達する",
+      "link": "https://aws.amazon.com/jp/blogs/news/get-to-insights-faster-using-notebooks-in-amazon-sagemaker-unified-studio/",
+      "summary": "Amazon SageMaker Unified Studio のノートブックは、インフラ設定を簡素化し、インサイト獲得までの時間を短縮します。本記事では、Python と SQL のポリグロットプログラミング、複数エンジンでのデータアクセス、Athena Spark による分散プロファイリング、S...",
+      "published": "Sun, 30 Aug 2026 10:50:01 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba8f2da2b12de5035ab63d3e75a7f8cc",
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "summary": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三...",
+      "published": "2026-08-30T09:58:21Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ca4e216a29d98006c10f2f46941e070",
+      "title": "2026 年 8 月後半の LLM 利用状況",
+      "link": "https://voluntas.ghost.io/2026-08-second-half-llm/",
+      "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Cursor と Codex の二つ。 CursorTeam プランの Premium シートを年間契約して利用している。ほぼ Auto (Cost) を利用している。込み入った作業をする場合は...",
+      "published": "2026-08-30T06:01:37Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e980d49b655db556827192d0cdb62c6",
+      "title": "「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解",
+      "link": "https://gigazine.net/news/20260830-ai-consciousness-backwards/",
+      "summary": "AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザ...",
+      "published": "2026-08-30T09:19:00Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa49d464d32c67c5fa94b10fe5c8b1d1",
+      "title": "なぜ？ 楽天モバイルでMNPポイントが付与されず 「不適格」と判定された理由と6つの自己防衛策",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/30/news013.html",
+      "summary": "大手キャリアと楽天モバイルで決定的に異なる「リスクの発生構造」 回線の乗り換えに際して事業者は審査を行う。乗り換えキャンペーンのインセンティブを目当てとした極端な短期解約（いわゆる「ポイ活」「転売目的」）や、過去の料金未納、本人確認書類の不備などを防ぐため、各キャリアは一定の判定ルールを設けている....",
+      "published": "2026-08-30T06:34:54Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c02e7254e10bad5168ceb88a0f75967",
+      "title": "Zod の z.compile() でバリデーションを高速化する",
+      "link": "https://azukiazusa.dev/blog/zod-compile-validation/",
+      "summary": "Zod 4.5 で、スキーマを実行時に最適化された JavaScript へ変換する z.compile() が追加されました。コンパイル済みスキーマは通常のスキーマと同じ API を保ちながら、複雑なデータの検証を高速化します。この記事では基本的な使い方と仕組みを紹介します。 Web API のリ...",
+      "published": "2026-08-30T05:49:22Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "20ebad6e28ac5782f28dc1d52924fb7e",
+      "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+      "link": "https://36kr.jp/500714/",
+      "summary": "茨城県守谷市の国道294号線沿いに今月6日にオープンした「町中華 炒炒」。見た目はよくある中華料理店だが、実はこの店、都内を中心にラム肉を使ったガチ中華を提供する人気チェーン「味坊集団」の新店舗であり、自動調理マシンのロボットが炒め物を作る「ロボット料理店」でもある。ロボットでなぜ町中華なのか味坊集...",
+      "published": "2026-08-30T12:11:32Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bbbd90250516e5c9248da4ffab700d1",
+      "title": "AIコードレビューのやり方｜7つの確認点",
+      "link": "https://www.atsumell.com/blog/ai-code-review-seven-checkpoints",
+      "summary": "生成AIにコードレビューを頼んだら、指摘が20件返ってきた。ところが、よく読むと命名やコメントの話ばかり。業務ルールの抜けや権限の不備には触れていない。そんな経験はないだろうか。 AIによるコードレビューは、差分を読む速度が速い。人が見落としやすい境界値も候補として挙げられる。ただし、コードだけを渡...",
+      "published": "2026-08-28T10:58:40Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7aa21a4c2c97944f7c3497c8b408236",
+      "title": "アリババのLLM「Qwen」利用数はGoogleの5倍 中国AIとどう生きるか - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC220930S6A820C2000000/",
+      "summary": "ある国内大手製造業の人工知能（AI）担当チームは、中国アリババ集団の大規模言語モデル（LLM）「Qwen（クウェン）」を現場で使っている。この企業は7月に発足した国産AI開発連合「ノエトラ」への出資企業でもある。「Qwenで十分。国産への参加は上が決めたこと」。チームのリーダーはそう打ち明ける。中国...",
+      "published": "2026-08-30T08:20:31Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4594b0e0bb9940c85beca33a2c60434e",
+      "title": "「インクが出ない」が武器になった ゼブラがボールペンの弱点を逆転させた理由",
+      "link": "https://www.itmedia.co.jp/business/articles/2608/30/news006.html",
+      "summary": "特集：アセットの「再定義」サバイバル 既存の強みや過去の成功体験が、変化の激しい現代では足枷になる――。そんな危機感を持つデジタル戦略リーダーに向け、本特集では保有資産を時代に合わせて読み替える「アセットの再定義」を徹底解剖。自社のコア技術やノウハウを新たな価値を持たせる、企業の具体策を探ります。 ...",
+      "published": "2026-08-29T23:33:47Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f840f29bfeaedec53b892633c6cad84",
+      "title": "【今すぐ読みたい！人気記事】OneDriveの罠に注意！強制同期を切ったり、容量の警告に対処したいならこれをすべし - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2136604.html",
+      "summary": "",
+      "published": "2026-08-29T10:10:13Z",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "32aa3c814e098f241785361578841569",
+      "title": "GitHub - handsomestWei/patent-disclosure-skill: 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 · GitHub",
+      "link": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "summary": "📦 handsomestWei / patent-disclosure-skill ⭐ 5,520 (+38) 🗒 Python 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "published": "30 Aug 2026 13:17 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48270eb78b1f2b6e52f478d3b2421bb7",
+      "title": "Crawl4AI Community",
+      "link": "https://discord.gg/jP8KfhDhyN",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 unclecode / crawl4ai ⭐ 80,008 (+229) 🗒 Python 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't ...",
+      "published": "30 Aug 2026 12:17 +0000",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3920becb0db47a67cb08091cdc88f8b",
+      "title": "Snowflake CoWorkで自然言語問い合わせできる簡易データカタログを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-cowork-natural-language-data-catalog/",
+      "summary": "Snowflake の標準機能だけでデータカタログを構築し、ロール別に「存在ごと非表示」できるか検証してみました。Semantic View + Cortex Agent + Row Access Policy の組み合わせで、日本語での問い合わせと柔軟なアクセス制御を同時に実現できます。",
+      "published": "Sun, 30 Aug 2026 13:57:37 GMT",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcde86b8284d4517e32cb643a9942055",
+      "title": "AWS Context Ontology Accelerator（COA）で日本語のオントロジーを構築してみた - 多言語検索等のサポート",
+      "link": "https://dev.classmethod.jp/articles/20260830-aws-context-v022/",
+      "summary": "AWS の OSS「Context Ontology Accelerator」v0.2.2 で、日本語のような分かち書きしない言語の質問がオントロジーのラベルに到達できるようになりました。日本語データを用意して、実際に多言語検索を試してみた結果をお伝えします。",
+      "published": "Sun, 30 Aug 2026 13:42:26 GMT",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cbc38ce6429bf6b093ea9d0136250e0",
+      "title": "Slack Block Kit の新ブロックを試してみた【汎用表示編】",
+      "link": "https://dev.classmethod.jp/articles/slack-block-kit-new-general-display-blocks-guide/",
+      "summary": "Slack Block Kit に追加された新ブロックを紹介します。今回は alert、card、carousel、container、markdown の各ブロックについて Block Kit Builder での検証例とともに解説します。",
+      "published": "Sun, 30 Aug 2026 13:18:43 GMT",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa866cf7abc788ad164fc91a46b8efd2",
+      "title": "Slack Block Kit の新ブロックを試してみた【データ編】",
+      "link": "https://dev.classmethod.jp/articles/slack-block-kit-new-data-display-blocks/",
+      "summary": "Slack Block Kit に追加された新ブロックを紹介します。ソート・ページネーション対応の表が作れる data table block と、JSON だけでグラフが描画できる data visualization block の機能と実装例を解説します。",
+      "published": "Sun, 30 Aug 2026 11:00:06 GMT",
+      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-30T09:36:48.839551+00:00"
+  "updated_at": "2026-08-30T14:35:26.735282+00:00"
 }

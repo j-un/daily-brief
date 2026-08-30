@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c7b54b570a8835799247f37fd6e5c5aa",
-      "title": "Bun、バージョン1.4をリリース ——初のRust実装版 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/08/bun-1.4",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Bun、バージョン1.4をリリース ——初のRust実装版 | gihyo.jp",
-      "published": "28 Aug 2026 23:55 +0000",
-      "fetched_at": "2026-08-29T00:16:55.266358+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "79e9d4da0eb03c1e1f2b1c3bbf305f43",
       "title": "はてなブログで遭遇したPerlの正規表現のパフォーマンス問題について - Hatena Developer Blog",
       "link": "https://developer.hatenastaff.com/entry/2026/08/21/114446",
@@ -219,7 +209,317 @@
       "fetched_at": "2026-08-30T02:45:45.972641+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "e31d7ed1dfd475f30cc953992c02fed1",
+      "title": "@matsuu.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/matsuu.bsky.social/post/3mubo2wisqc2a",
+      "summary": "いくつ掛け持ちしてるんだという話はありますが、今日も嫁さんがのってるアマオケのオペラを観に、かつしかシンフォニーヒルズに来ています。プッチーニのトゥーランドットです。名前は知ってたものの観るのは初めてですトゥーランドット。",
+      "published": "30 Aug 2026 05:32 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7810ec107f5038974217ddbfccc0de1e",
+      "title": "CAMPFIREの画像配信を、無停止でFastlyに移行した話｜Oguressive",
+      "link": "https://note.com/oguressive/n/n311276434088",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 CAMPFIREの画像配信を、無停止でFastlyに移行した話",
+      "published": "30 Aug 2026 08:55 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8da003a738525d285888b146ee79d6fc",
+      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を - INTERNET Watch",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2134644.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を",
+      "published": "30 Aug 2026 06:55 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ace384b38c21a45e19deac2f65687734",
+      "title": "Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/slackaislack_code.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Slack上の開発チームの会話をAIエージェントが把握してコーディング。ドキュメント作成もする「Slack Code」登場",
+      "published": "30 Aug 2026 05:55 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51163a4697e3b95c3244c7dbacf220f2",
+      "title": "AIに書かせたら、前より休めなくなった｜松浦勝人",
+      "link": "https://note.com/maxmatsuura/n/ne59969fd6e71",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIに書かせたら、前より休めなくなった",
+      "published": "30 Aug 2026 03:55 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6145d4823e2a5c9d508238891ae40c8a",
+      "title": "PyO3でPythonのボトルネックを高速化した話 - Sansan Tech Blog",
+      "link": "https://buildersbox.corp-sansan.com/entry/2026/08/19/130000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PyO3でPythonのボトルネックを高速化した話",
+      "published": "30 Aug 2026 02:55 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "456262ee9581dc8687fb3be47ff57560",
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "summary": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-dist...",
+      "published": "Sun, 30 Aug 2026 03:15:36 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20ced5e35fb36087634117ac6be5ed2a",
+      "title": "Bug Blindness",
+      "link": "https://danluu.com/bug-blind/",
+      "summary": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 249 # Comments: 141",
+      "published": "Sun, 30 Aug 2026 00:21:40 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "945fa2adb4878851f9479335fe3cb3d3",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "link": "https://www.dwarkesh.com/p/openai-huggingface",
+      "summary": "Article URL: https://www.dwarkesh.com/p/openai-huggingface Comments URL: https://news.ycombinator.com/item?id=49494301 Points: 106 # Comments: 50",
+      "published": "Sat, 29 Aug 2026 23:43:24 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "788d2dd683c75f7441ddacad52f77afc",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "link": "https://defrag98.com",
+      "summary": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 119 # Comments: 64",
+      "published": "Sat, 29 Aug 2026 22:51:17 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41145015ecc07694b011b14b17caafe1",
+      "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
+      "link": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
+      "summary": "AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。",
+      "published": "2026-08-29T21:30:35Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "962feb01c044cfc77689823e955308e8",
+      "title": "WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析",
+      "link": "https://eeengineer.com/description-by-wireshark/",
+      "summary": "はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、S...",
+      "published": "2026-08-29T23:52:57Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebbc709e480ae5029da7610581ee8f2b",
+      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/29/5442.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。 また、ご家...",
+      "published": "2026-08-29T19:05:00Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "381392709e906fe8d0e6d20b3b4bbdc1",
+      "title": "なぜ？ Suicaが使えない「クレカ乗車・QR専用改札機」設置の意図 東京メトロに疑問をぶつけてみた",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html",
+      "summary": "東京メトロが上野駅と銀座駅に期間限定で導入した「クレカ乗車・QR専用改札機」が、SNS上で大きな話題を呼んでいる。これらはクレジットカードのタッチ決済やQRコードに対応する最新の機器だ。 観光地を控える両駅での試みは、SNS上で非常に高い関心を集めている。実際に上野駅の改札を見てきたところ、特に海外...",
+      "published": "2026-08-29T21:33:47Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd32a1df3ebb9f8a555b53c4c33901c8",
+      "title": "攻撃者視点で読み解く、AWS 上の医療情報システムのクラウドセキュリティ入門（前編） - blog of morioka12",
+      "link": "https://scgajge12.hatenablog.com/entry/aws_healthcare_security_1",
+      "summary": "はじめに こんにちは、AWS Community Builder (#Security) 3年目の morioka12 です。 本稿では、AWS 上に構築された医療情報システムを攻撃者の視点から見て、何が見えて何が狙われるのかを整理します。そのうえで、そこから考えた防御と事業継続の設計を紹介します。...",
+      "published": "2026-08-29T01:36:58Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab9afc4df54a4ee7bbdfbe1742bd47be",
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "link": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題...",
+      "published": "2026-08-30T02:30:16Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "48d1c27d93edeaec6f3fb82a271204d7",
+      "title": "AIお姉ちゃんへの道（2026年版） - nomolkのブログ",
+      "link": "https://nomolk.hatenablog.com/entry/2026/08/30/145025",
+      "summary": "AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を...",
+      "published": "2026-08-30T07:18:23Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "401c562f3d6a6fc25157d09b6eeea9c8",
+      "title": "指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~",
+      "link": "https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru",
+      "summary": "Claude Codeで複数の作業を並列に動かせるようになると、次に増えるのは「待ち」と「確認」だ。CIが落ちた、レビューが返ってきた、長い処理が終わった、外部サービスが復旧した。これらを人が見つけて、結果をコピーし、次の指示を出している限り、人が作業の中継地点になってしまう。 この発表では、LS…",
+      "published": "2026-08-28T21:20:57Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bad369897fbdb80256dbfca1cacc8bf",
+      "title": "APIセキュリティを組織で実現するには~注力する点と設計・実装に入れたい対策~",
+      "link": "https://speakerdeck.com/riiimparm/api-sekyuriti-o-soshiki-de-jitsugen-suru-niha-chuuryoku-suru-ten-to-sekkei-jissou-ni-iretai-taisaku",
+      "summary": "Postman API Night Tokyo 2026 Summer登壇資料 https://postman.connpass.com/event/401277/",
+      "published": "2026-08-29T09:13:12Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "085a8c6b6ad390a5b00b7dacb4ecc61a",
+      "title": "RAG Is Simpler Than You Think",
+      "link": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "summary": "Hello, Rafael here - every week I cover interesting challenges and developments that I’ve come across recently through the lens of an engineer buildin...",
+      "published": "2026-08-27T00:00:25Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38b7f645b983a48322515609764a86a0",
+      "title": "2026年夏のローカルLLM事情を整理してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/local-llm-guide-2026-summer/",
+      "summary": "半年で大きく変わったローカルLLM事情を、実測データを交えて整理し直します。MoE + 4bit量子化が主流化し、投機デコードが実用段階に。汎用なら Qwen3.6-35B-A3B、ハード選びも128GB統合メモリ機が台頭。モデル・ハードウェア・ツールの2026年夏版選び方ガイドです。 はじめに こ...",
+      "published": "2026-07-29T08:45:15Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2679d827eaab354a1c2c9837e53cb998",
+      "title": "16年やってたTwitterの垢が凍結された",
+      "link": "https://anond.hatelabo.jp/20260829232752",
+      "summary": "理由は全くわからん。 16年もTwitterなんか続けていると凍結されるに足るツイートの心当たりなんて無限にある。 凍結される前日にUPしたエロ絵かもしれないし、直前にRTしたエロ絵に巻き込まれたのかもしれない。 何年か前に殺すぞと書いた何らかのツイートが今になって引っかかったのかもしれないし、DM...",
+      "published": "2026-08-29T15:21:47Z",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "821ced831e9eda87da8f7037688f52ab",
+      "title": "GitHub - workweave/router: Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change. · GitHub",
+      "link": "https://github.com/workweave/router",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 workweave / router ⭐ 2,614 (+284) 🗒 Go Model router for agentic systems. Routes every prompt to the right model i...",
+      "published": "30 Aug 2026 03:17 +0000",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "955f0fc956d5889e2a37a45ce5205fe0",
+      "title": "Slack CLI で Slack API を効率的に操作する実践テクニック",
+      "link": "https://dev.classmethod.jp/articles/slack-cli-api-command-practical/",
+      "summary": "Slack CLI の slack api コマンドを活用した実用的なユースケースを紹介します。変数による動的メソッド呼び出しやプロジェクト移動による自動トークン切り替え等で開発効率が向上します。",
+      "published": "Sun, 30 Aug 2026 08:21:16 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cd3c8aba6f433b0e80cb4d482cef4aa",
+      "title": "Microsoft Entra ID と SAML フェデレーションでジャンプアカウント経由の個人識別ログインを実現してみた",
+      "link": "https://dev.classmethod.jp/articles/202608-entra-id-saml-jump-account-federation/",
+      "summary": "AWS Organizations も IAM Identity Center も使えない環境で、Microsoft Entra ID と SAML フェデレーションを組み合わせ、IAM ユーザーを作らずにジャンプアカウント経由で各アカウントへログインし、個人識別と MFA を実現する方法を検証しま...",
+      "published": "Sun, 30 Aug 2026 08:05:35 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b249474189b4f6cc1c6cb10f83eb9fe",
+      "title": "【Security Hub修復手順】[ECR.5] ECR リポジトリはカスタマーマネージド AWS KMS keys で暗号化する必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-ecr-5/",
+      "summary": "AWS Security HubのECR.5コントロール対応について、カスタマーマネージドキーによる暗号化が必須な理由と、見落としやすいAWSマネージドキーとの判別方法から修復手順まで、実践的な対応策をご紹介します。",
+      "published": "Sun, 30 Aug 2026 07:59:48 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "df2ddd18d2663bb53835c0a51f8be62b",
+      "title": "AIOS の設定キーを wp option update しても効かない理由と、WP-CLIでの更新方法",
+      "link": "https://dev.classmethod.jp/articles/update-aios-settings-with-wp-cli/",
+      "summary": "EC2上のBitnami WordPressに複数台でAll-In-One Securityプラグインの設定を一括投入する際、wp-cliでの設定反映が期待通りにいかない課題に直面しました。その原因と、wp evalを用いた解決方法をお伝えします。",
+      "published": "Sun, 30 Aug 2026 07:59:06 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bc77245c0c91613e8df1c25fcdcb036",
+      "title": "IT業界に四半世紀棲息しているビジネス職の私がアプリを自作した話",
+      "link": "https://dev.classmethod.jp/articles/non-engineer-built-my-own-app/",
+      "summary": "コードは一切書けないビジネス職の私がClaude Codeで議事録アプリ「ギジロー」を作りました。録音から文字起こし、話者識別までMacの中だけで完結させた理由、話者の学習をどう育てたか、なぜこの仕様になったのか、誰でもネイティブアプリを作れてしまうことの驚きと喜びについて。",
+      "published": "Sun, 30 Aug 2026 05:20:26 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d636b4a9e4b98fe72d9259c3ad399c52",
+      "title": "320B の GLM-5.3-Flash を DGX Spark 1 台で動かして実用の分かれ目を測ってみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-glm-5-3-flash-first-touch/",
+      "summary": "GLM-5.3-Flash（320B-A18B、MIT）を DGX Spark 1 台で検証。2-bit GGUF が載り 17.7 tok/s、コード生成 5/5 完答。分かれ目は量子化より reasoning_effort で、既定 max は日本語 10 課題に 29 分、low なら 98 ...",
+      "published": "Sun, 30 Aug 2026 03:51:31 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fd938fe5bd36a54bf1dd9e2a4f5ee61",
+      "title": "[アップデート] Amazon RDS の DB スナップショットで API を使って実データ容量（フルスナップショットサイズ）が取得できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/rds-api-fullsnapshotsizeInbytes/",
+      "summary": "Amazon RDS のDB スナップショットで、実際のフルサイズを表す `FullSnapshotSizeInBytes` が新しく取得できるようになりました。これまでは割り当てストレージ容量しか分からなかったのが、実際のバックアップ容量が把握できるようになったので、その詳細を確認してみました。",
+      "published": "Sun, 30 Aug 2026 03:32:26 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f38291e13fbb152249558bc269d447e9",
+      "title": "【PostgreSQL】work_mem を変更すると Sort Method が external merge から quicksort に切り替わることを確認してみた",
+      "link": "https://dev.classmethod.jp/articles/postgresql-work-mem-sort-method-external-merge-quicksort/",
+      "summary": "PostgreSQL の work_mem パラメータを 1MB、40MB、50MB、256MB と変化させ、EXPLAIN ANALYZE の Sort Method がディスク使用（external merge）からメモリ内処理（quicksort）に切り替わるタイミングを検証しました。",
+      "published": "Sun, 30 Aug 2026 02:59:49 GMT",
+      "fetched_at": "2026-08-30T09:36:48.839551+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-08-30T02:45:45.972641+00:00"
+  "updated_at": "2026-08-30T09:36:48.839551+00:00"
 }

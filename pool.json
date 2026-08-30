@@ -779,7 +779,467 @@
       "fetched_at": "2026-08-30T14:35:26.735282+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "daea573be83059e1000b6749ab365812",
+      "title": "AWS Client VPN が CLI、管理コントロール、高速な接続のサポートを開始 - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/08/aws-client-vpn-cli/",
+      "summary": "バージョン6.0。CLIサポートは嬉しい。",
+      "published": "30 Aug 2026 16:34 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "486e2156037effce41f43e01d87154e1",
+      "title": "NVIDIA、Hugging Face買収で協議 2兆円規模で 海外報道 - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2608/27/2000000837/",
+      "summary": "ほへー。AMD締め出しとかならないことを願うが...",
+      "published": "30 Aug 2026 16:32 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba73c1a080b21d665ed7fa5e2cfdad01",
+      "title": "アップル、新しいUS配列Magic Keyboardを発表。一部のキー表記を変更 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/26/5424.html",
+      "summary": "これ見て気づいたんだけど、Aの左隣のキー、英語配列だとcaps lockで日本語配列だとcontrolなんだ。自分は日本語配列派なので。macにおけるAの左はデフォルトでcontrolだと思ってた。",
+      "published": "30 Aug 2026 16:29 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7707c2dc4ce9f1aeae187df2bc413175",
+      "title": "Amazon CloudWatch Logs で Application Load Balancer のログを分析する | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/analyze-application-load-balancer-logs-with-amazon-cloudwatch-logs/",
+      "summary": "「Amazon CloudWatch Logs が Application Load Balancer (ALB) のログを Vended Logs としてサポート」ほう",
+      "published": "30 Aug 2026 16:02 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a8d052efbed526ab3cf19acfc3aefd5",
+      "title": "LaTeXクックブック ｜朝倉書店",
+      "link": "https://www.asakura.co.jp/detail.php?book_code=12318",
+      "summary": "2026年9月5日発売予定",
+      "published": "30 Aug 2026 15:59 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5efc97aca1c3554b36a2c35cdb6ab711",
+      "title": "Gunicorn の gthread と freethreading - methaneのブログ",
+      "link": "https://methane.hatenablog.jp/entry/2026/08/28/Gunicorn_%E3%81%AE_gthread_%E3%81%A8_freethreading",
+      "summary": "「時々遅くなる外部APIを利用していて、その時にworkerが詰まってサービスが停止するのを回避したいという時にはgthreadが選択肢」はい。",
+      "published": "30 Aug 2026 15:57 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe3b5f0e99c2c9b77b8916be5722eb1f",
+      "title": "何でもかんでも環境変数にしない - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/env-variable-abuse",
+      "summary": "「環境差がないものは環境変数として扱うべきではない」せやな。ちゃんと意識していく。",
+      "published": "30 Aug 2026 15:51 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99eaacb266c6c3294ce28cda74938747",
+      "title": "GeoIP Residential Proxy Databases | MaxMind Developer Portal",
+      "link": "https://dev.maxmind.com/geoip/docs/databases/residential-proxy/",
+      "summary": "maxmind社、レジデンシャルプロキシのGeoIPデータベースをリリース。あつい。IPv4は6000万アドレス超、IPv6は2000万アドレス超。でかい。",
+      "published": "30 Aug 2026 15:43 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "936ade76c849c9bb47679e27ebf9a0ca",
+      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+      "summary": "ははー。AWSにとっては良いディールだ。DuckDB 2.0でクライアント/サーバ型も提供予定なので、AWSにマネージドサービスが用意される可能性もあるな。",
+      "published": "30 Aug 2026 15:39 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d361a64eb21f55f29322b656a4bddced",
+      "title": "金融リファレンスアーキテクチャ日本版 v2 リリース | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/fsi-reference-architecture-jp-v2-release/",
+      "summary": "AIエージェントフレンドリーに。皆様。",
+      "published": "30 Aug 2026 15:36 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62ab8485bebb23b8d910064d8c9ffaf4",
+      "title": "ラップトップを閉じても、エージェントは動き続ける。cloud sessions で開発する | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/cloud-sessions/",
+      "summary": "「自分のマシンでAIエージェントを動かすときにずっと引っかかっていた 1 つの問題、つまりマシンそのものに縛られる問題を解決してくれます」Kiroに限らず各AIエージェントはかくあるべしとは思う。",
+      "published": "30 Aug 2026 15:35 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a22902ee23d9132559cc9c1a22463ea",
+      "title": "AI・クラウド時代のITインフラ入門 - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1125101141",
+      "summary": "2026年11月5日発売予定",
+      "published": "30 Aug 2026 15:32 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed432832b73387568dc125fddcaddc63",
+      "title": "1週間でサイバーセキュリティの基礎が学べる本 - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1125101188",
+      "summary": "2026年11月5日発売予定",
+      "published": "30 Aug 2026 15:31 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b747394df086d1909be55f63b2f878c7",
+      "title": "IAM Policy Autopilot 0.3.0 でサポートされた「Terraform の plan 結果からの IAM ポリシー生成」を試す - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/08/27/130630",
+      "summary": "IAM Policy Autopilotを知らなかった。 \"plan 結果から最小権限の原則に近付くための IAM ポリシーの「ベースライン」を生成できるため AdministratorAccess からの脱却を模索できる” わいわい",
+      "published": "30 Aug 2026 15:29 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "453e63dcdbb844b9d4c23cbf17bd6256",
+      "title": "Orchestrionの自動計装でDatadogのトレースが爆発した話 | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/datadog-orchestrion-grpc-large-trace/",
+      "summary": "Orchestrionって何だと思ったらDatadogが提供しているGo向けの自動計装なのか。ほほう。知見。",
+      "published": "30 Aug 2026 15:07 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aef4c7947e240d77bb26bd4eb314a165",
+      "title": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15939-9",
+      "summary": "2026年9月24日発売",
+      "published": "30 Aug 2026 15:04 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ee9d14ff80a6d0a27610fbb8e6457e0",
+      "title": "警察庁が注意呼びかけ、不正送金手口の44%が「レジデンシャルプロキシ」の悪用 ～ ストリーミング端末などの確認を | ScanNetSecurity",
+      "link": "https://scan.netsecurity.ne.jp/article/2026/08/26/56020.html",
+      "summary": "提供元不明のソフトウェア・アプリ・無料VPN、「収益が得られます」と宣伝するサービスやアプリ、無料で動画が見られるストリーミングデバイス、などを利用している場合はレジデンシャルプロキシになっている可能性。",
+      "published": "30 Aug 2026 15:03 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04f24b6ebd40addfac970eff5f2c80d0",
+      "title": "ターミナルから Backlog を操作できる CLI「bee」を公開しました | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/released-backlog-cli-bee/",
+      "summary": "わいわい",
+      "published": "30 Aug 2026 14:52 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67709e829250e00fdf54cc64d4c8b704",
+      "title": "GitHub - vyruss/pg_statviz: A minimalist extension and utility pair for time series analysis and visualization of PostgreSQL internal statistics. · GitHub",
+      "link": "https://github.com/vyruss/pg_statviz",
+      "summary": "PostgreSQLの内部統計データを時系列として蓄積して可視化するためのEXTENSION。蓄積した結果を生成AIに分析させる機能も搭載。",
+      "published": "30 Aug 2026 14:50 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8654143b5b42495c60eaec50c4b826f1",
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "summary": "SIGNALを受け取った際にclose()を先に呼んで新規問い合わせが来なくなってからcloseIdelConnections()を呼ぶと良いんじゃないかなと思いました。あとnginxのerror_logのlevelはwarnの代わりにnoticeが良いと思います。",
+      "published": "30 Aug 2026 14:47 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e236fdb910aca5bd5d651721893b938d",
+      "title": "Haiku R1/beta6 has been released",
+      "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 138 # Comment...",
+      "published": "Sun, 30 Aug 2026 16:01:10 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a093ee36d6f101fa2531a3647e2f21d",
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "link": "https://0xcc.io/posts/omarchy-root-creds/",
+      "summary": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 214 # Comments: 214",
+      "published": "Sun, 30 Aug 2026 15:59:49 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c30b088086c69bba976339520275379a",
+      "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+      "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+      "summary": "Article URL: https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement Comments URL: https://news.ycombinator.com/item?id=49...",
+      "published": "Sun, 30 Aug 2026 15:12:40 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75dc694e4a6596605b0f65bcdf1269be",
+      "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+      "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+      "summary": "Article URL: https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sun, 30 Aug 2026 14:29:25 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3ea29b4e6dafe3a2ecbe7acfc77c7fe",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "link": "https://github.com/anthropics/claude-code/issues/66504",
+      "summary": "Article URL: https://github.com/anthropics/claude-code/issues/66504 Comments URL: https://news.ycombinator.com/item?id=49498201 Points: 133 # Comments...",
+      "published": "Sun, 30 Aug 2026 12:50:54 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "842efcb27339e000f6a64abe1b47114d",
+      "title": "No AI Fridays",
+      "link": "https://noaifridays.com/",
+      "summary": "Article URL: https://noaifridays.com/ Comments URL: https://news.ycombinator.com/item?id=49498095 Points: 245 # Comments: 163",
+      "published": "Sun, 30 Aug 2026 12:31:05 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cd9beaaa19a088875853bc86249adf2",
+      "title": "Hacking IKEA Furniture",
+      "link": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/ Comments URL: https://news.ycombinator.com/item?id=49497810 Points: 197 # Comments:...",
+      "published": "Sun, 30 Aug 2026 11:39:43 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80523f1ead953ca31d135217711e44f2",
+      "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
+      "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "summary": "Article URL: https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws Comments URL: https:/...",
+      "published": "Sun, 30 Aug 2026 02:25:32 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4622ef72c37230c57ef5a979f533091b",
+      "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
+      "link": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
+      "summary": "2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含...",
+      "published": "2026-08-30T13:09:39Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f61c91534a7c0f6151d8acabeeb16d56",
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2acf2b5de32927d404e1f15328e5c7bb6775dc5c",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
+      "published": "2026-08-30T13:53:37Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4891dfc23ddc840f4325d5a9fa70dda7",
+      "title": "コーディングエージェントにペアプログラミングモードを用意する – スローダウンしたくなったときのために - Don't Repeat Yourself",
+      "link": "https://blog-dry.com/entry/2026/08/30/140903",
+      "summary": "コーディングエージェントがほとんどコードを生成してくれる時代になりましたし、私自身も実は半年以上仕事ではコードをほぼ書いていませんが、たまに自分でコードを書きたくなることがあります。コーディングエージェントの成果物を「読んで」なんとなく理解はできたものの、自分の手で「書いていた」頃と比べてどうも.....",
+      "published": "2026-08-30T13:36:47Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d8abee73ba46570d3f5a8bdc229edc9",
+      "title": "YouTubeチャンネルで公式であることを示す「認証バッジ」を申請してみた",
+      "link": "https://gigazine.net/news/20260830-youtube-channel-verification/",
+      "summary": "YouTubeの一部のチャンネルでは、そのチャンネルがクリエイターや企業などの公式チャンネルであることを示すチェックマーク型の「認証バッジ」がチャンネル名の横に表示されています。2026年8月12日にGIGAZINEのYouTubeチャンネルにログインしたところ認証の申請を促すメッセージが表示された...",
+      "published": "2026-08-30T12:03:53Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "605de06a0cf414f7a38be10857eed174",
+      "title": "Six Months of Writing Code Exclusively With Agents - exe.dev blog",
+      "link": "https://blog.exe.dev/engineering-with-ai",
+      "summary": "In February of this year, I made a rule for myself: I wasn’t going to write code by hand anymore. I’ve been living by that rule for six months. The sy...",
+      "published": "2026-08-28T10:34:24Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "705960869315b594d71d1373b2619553",
+      "title": "もしシト襲来が2100年（超AI完成後）だったら",
+      "link": "https://anond.hatelabo.jp/20260830105954",
+      "summary": "MAGIによる分析と献策の精度が異常なので、シトの特徴とか最初から全部わかっている。ネルフ本部は無人。 パイロットはダミーシステムが無双している（チルドレンは予備のさらに予備）。 サキエル戦では地上に出撃した初号機がダミープラグに駆動されて勢いそのままに爆速でサキエルを襲撃、暴走するまでもなく一方的...",
+      "published": "2026-08-30T02:17:17Z",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fedef91ad621e20e9b00fa49630b6128",
+      "title": "GitHub - colinhacks/zod: TypeScript-first schema validation with static type inference · GitHub",
+      "link": "https://github.com/colinhacks/zod",
+      "summary": "📦 colinhacks / zod ⭐ 43,584 (+17) 🗒 TypeScript TypeScript-first schema validation with static type inference",
+      "published": "30 Aug 2026 18:17 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "396cb5e37f2896753da5d8f85e30cc13",
+      "title": "GitHub - punkpeye/awesome-mcp-servers: A collection of MCP servers. · GitHub",
+      "link": "https://github.com/punkpeye/awesome-mcp-servers",
+      "summary": "📦 punkpeye / awesome-mcp-servers ⭐ 93,109 (+65) A collection of MCP servers.",
+      "published": "30 Aug 2026 17:17 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f375b5f99caab788ff70a9185c5218c2",
+      "title": "GitHub - corsairdev/corsair: Connect your users to their apps · GitHub",
+      "link": "https://github.com/corsairdev/corsair",
+      "summary": "📦 corsairdev / corsair ⭐ 10,771 (+99) 🗒 TypeScript Connect your users to their apps",
+      "published": "30 Aug 2026 16:17 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fa3a55b3f08f940d243209da470db48",
+      "title": "GitHub - majd/ipatool: Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. · GitHub",
+      "link": "https://github.com/majd/ipatool",
+      "summary": "📦 majd / ipatool ⭐ 10,036 (+56) 🗒 Go Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, ...",
+      "published": "30 Aug 2026 15:17 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "46e24096af5aa5e6e384c0392af17b91",
+      "title": "GitHub - abhigyanpatwari/GitNexus: GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration · GitHub",
+      "link": "https://github.com/abhigyanpatwari/GitNexus",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 abhigyanpatwari / GitNexus ⭐ 46,021 (+189) 🗒 TypeScript GitNexus: The Zero-Server Code Intelligence Engine - GitNexus...",
+      "published": "28 Aug 2026 23:17 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce71348af24ca8c80b3626ae70d1d3a4",
+      "title": "GitHub から Cloud Run に自動デプロイしてみた",
+      "link": "https://dev.classmethod.jp/articles/github-actions-cloud-run-auto-deploy/",
+      "summary": "GitHub で管理しているソースコードが、Cloud Run に自動デプロイできるように設定をしてみました。慣れていない人でも試しやすいよう、GUIベースで設定を行ってみました。",
+      "published": "Sun, 30 Aug 2026 15:02:15 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd44e22b154c1adb4cfa9839210e953a",
+      "title": "組織全体のスナップショットの情報を取得して削除優先度をスコアリングしてみた",
+      "link": "https://dev.classmethod.jp/articles/ebs-snapshot-scorer-organizations-cur/",
+      "summary": "EBSスナップショットが気づくと大量に溜まってコストになっていることはありませんか？今回は、組織全体のスナップショットを一括スコアリングして削除優先度を可視化する仕組みを紹介します。CUR とメタデータを組み合わせ、削減効果が大きいものから効率的に対応できるようにしていきます。",
+      "published": "Sun, 30 Aug 2026 14:51:10 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "da1565e4e5cd9ea5ac6d372909b05c0c",
+      "title": "Kiro Enterprise で月途中にサブスクリプションを有効化したユーザーの課金情報をCURで確認してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-enterprise-midmonth-subscription-cur/",
+      "summary": "Kiro Enterprise は IAM Identity Center のユーザー単位で月額課金されます。公式ドキュメントでは、月途中の有効化は按分、上位プランへの変更は満額と規定されています。有効化とプラン変更が同じ月に重なるとどうなるのかを、変更前後のCURで比較しました。",
+      "published": "Sun, 30 Aug 2026 14:34:23 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c24f4341e81f2e995d8424935548576e",
+      "title": "Amazon Bedrock の GPT-5.6 で access_denied が返る原因を調査してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-gpt56-access-denied-investigation/",
+      "summary": "Amazon Bedrock で GPT-5.6 の呼び出しが access_denied で落ちる原因のうち、手元の IAM ポリシーやモデルアクセスを直しても解決しないものが2つあります。AWS 側でモデルが解放されていない場合と、組織の SCP で拒否されている場合です。この2つを OpenA...",
+      "published": "Sun, 30 Aug 2026 14:34:14 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d868ad4d889dd20b4ded1778afb4f9cb",
+      "title": "Kinesis Data Streams の 10 MiB レコードを Amazon Redshift のストリーミングインジェストで取り込んでみた",
+      "link": "https://dev.classmethod.jp/articles/redshift-streaming-ingestion-kinesis-10mib-record/",
+      "summary": "Amazon Kinesis Data Streams では、最大レコードサイズを 10 MiB まで引き上げられます。10 MiB に設定したストリームへ 100 KiB から 10 MiB を超えるサイズまでのダミー JSON を投入し、Amazon Redshift のストリーミングインジェス...",
+      "published": "Sun, 30 Aug 2026 14:34:04 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "036a1106a87014ba5fa2535c0e45c15e",
+      "title": "Mountpoint for Amazon S3 にメモリ使用量の制御が追加されたので、書き込み用に同時に開けるファイル数を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/mountpoint-s3-memory-target/",
+      "summary": "Mountpoint for Amazon S3 でメモリ使用量の目標値を指定できるようになりました。--memory-target の値を変えて EC2 上でマウントし、起動ログに出る「書き込み用に同時に開けるファイル数」の上限と、それを超えたときの挙動を確認しました。指定しなくても目標値は決まり...",
+      "published": "Sun, 30 Aug 2026 14:33:51 GMT",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "59ac79f78aa18fd3cbc723d91d873029",
+      "title": "End-of-summer sales on gear and software",
+      "link": "https://cdm.link/end-of-summer-sales-on-gear-and-software/",
+      "summary": "US Labor Day looms. Summer days are waning. Sales are expanding. I am ... barely awake because of ragweed/ambrosia pollen. It must be that time of yea...",
+      "published": "Sun, 30 Aug 2026 15:46:30 +0000",
+      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-30T14:35:26.735282+00:00"
+  "updated_at": "2026-08-30T18:57:19.161727+00:00"
 }

@@ -79,7 +79,307 @@
       "fetched_at": "2026-08-30T18:57:19.161727+00:00",
       "feed_name": "@matsuu (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "d361a64eb21f55f29322b656a4bddced",
+      "title": "金融リファレンスアーキテクチャ日本版 v2 リリース | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/fsi-reference-architecture-jp-v2-release/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 金融リファレンスアーキテクチャ日本版 v2 リリース | Amazon Web Services",
+      "published": "30 Aug 2026 23:55 +0000",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b6339e08d37f48aa91f335a89823ca7",
+      "title": "“I just chose words carefully”",
+      "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 327 # Comme...",
+      "published": "Sun, 30 Aug 2026 22:49:48 +0000",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d712745ce56e0dfa940a4175e77d07a9",
+      "title": "Benjamin Franklin’s alter egos gave him the most freedom",
+      "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+      "summary": "Article URL: https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-1809...",
+      "published": "Sun, 30 Aug 2026 01:09:15 +0000",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ebf9a449430525bce7fc9cf976f0699",
+      "title": "Amazon EVS と NSX Federation によるディザスタリカバリとマルチサイトネットワーク",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-evs-with-nsx-federation-for-disaster-recovery-and-multi-site-networking/",
+      "summary": "Amazon Elastic VMware Service (Amazon EVS) が NSX Federation をサポートしました。これにより、AWS 上で VMware ワークロードを実行する際のエンタープライズ規模のネットワーク、ディザスタリカバリ (DR)、マルチサイトネットワークのた...",
+      "published": "Sun, 30 Aug 2026 23:47:42 +0000",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8654143b5b42495c60eaec50c4b826f1",
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "link": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残...",
+      "published": "2026-08-30T14:47:40Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c99c4dcd8983cf8d0d38577afeeec1b",
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+      "summary": "【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した.....",
+      "published": "2026-08-30T23:10:19Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e22bbf0c14f64b6773a0749548b6bd98",
+      "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+      "summary": "社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許...",
+      "published": "2026-08-30T10:55:51Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "976f35991f5450f07f85433f41a45e6d",
+      "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
+      "link": "https://note.com/chizutodesign/n/neee5116b95b4",
+      "summary": "Googleマップが新しくなって話題になっていたので、江戸時代（1840年頃）にGoogleマップがあったら…と想像して当時の東京周辺の地図を作ってみました。 pic.twitter.com/7ZSUVBnWT2 — 地図とかデザインとか (@chizutodesign) March 24, 201...",
+      "published": "2026-08-30T10:59:58Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb43cfdf49ac77f67823e0bb2aaf4043",
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+      "link": "https://www.47news.jp/14868281.html",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
+      "published": "2026-08-30T12:11:27Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04f24b6ebd40addfac970eff5f2c80d0",
+      "title": "ターミナルから Backlog を操作できる CLI「bee」を公開しました | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/released-backlog-cli-bee/",
+      "summary": "この記事は ヌーラボブログリレー2026夏 の7日目 Part 1 として投稿しています。 Part 2 → GitHub Actions で Backlog 課題と GitHub プルリクエストを連動させる こんにちは。Backlog Unit の simochee @lollipop_onl で...",
+      "published": "2026-08-25T12:47:05Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4887dd0823319c1d2a2171894337e736",
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+      "link": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "summary": "",
+      "published": "2026-08-30T22:48:32Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c9077998fe1e7557468415b88eed462",
+      "title": "12のマスで考えるイノベーションの戦い方と時間軸 - 🐴 (馬)",
+      "link": "https://blog.takaumada.com/entry/12-innovation-time",
+      "summary": "ガソリン自動車の原型を作ったのは、1886年のドイツのベンツでした。それを移動式組立ラインによる大量生産へ持ち込んだのは、米国のフォードです。戦後には、日本の自動車企業が生産方式と品質管理を磨き、価格と信頼性を改善して世界市場で大きな地位を築きました。 新しい製品原理を成立させること、大量生産の仕組...",
+      "published": "2026-08-30T14:21:51Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "954684d07546a796f8542aae2141abcb",
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし | NEWSjp",
+      "link": "https://news.jp/i/1466765023720423596",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
+      "published": "2026-08-30T12:43:29Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54f290cf45925ee188e3c16f8e30dd1d",
+      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+      "link": "https://itrend.kikkakeagent.co.jp/articles/223",
+      "summary": "■調査概要調査名称：ITエンジニアの開発メンタル負荷実態調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年5月13日～同年5月20日有効回答：システム開発に携わるITエンジニア321名 ※構成比は小数点以下第2位を四捨五入...",
+      "published": "2026-08-31T02:00:08Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64c88e495965b551f9942dc941716f4b",
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+      "summary": "米Sony Music Publishing（ソニーグループ傘下の米音楽出版大手。日本の同名企業とは別法人）と米Warner Chappell Musicを中心とする音楽出版社グループは8月28日（現地時間）、米Anthropicと共同創業者のダリオ・アモデイCEO、ベンジャミン・マン氏を著作権侵害...",
+      "published": "2026-08-31T00:32:18Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f224d52939f910fbf2f269776fd1dc4",
+      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴",
+      "link": "https://www.yomiuri.co.jp/world/20260830-GYT1T00119/",
+      "summary": "【読売新聞】 【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高",
+      "published": "2026-08-30T19:38:06Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6ed7931e4b5093bc1ed37facd13dbfc",
+      "title": "Refero Styles — Design Systems for AI Agents",
+      "link": "https://styles.refero.design/",
+      "summary": "Design taste, extracted.Search curated references by brand, mood, color, typography, or URL. Open any style for colors, type, spacing, components, and...",
+      "published": "2026-05-01T01:56:56Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5727f696fc7dae0711550ecbb357b4c4",
+      "title": "ソニーG傘下の音楽出版などアンソロピック提訴 AIが楽曲を｢無断学習｣ - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN302I30Q6A830C2000000/",
+      "summary": "【シリコンバレー=山田航平】ソニーグループ傘下の音楽出版企業など35社は、数万点の歌詞や楽譜を人工知能（AI）に学習させて著作権を侵害したとして、米アンソロピックと最高経営責任者（CEO）のダリオ・アモデイ氏らを提訴した。ソニーGで音楽出版を手掛ける米ソニー・ミュージックパブリッシングなどが28日付...",
+      "published": "2026-08-30T22:27:03Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ff8672a95902e69eba69998f89e1354",
+      "title": "「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000911/",
+      "summary": "8月24日から、成人向けECサイトである「FANZA」で独自の新サービス「FANZAスタジオ」の先行体験がスタートしました。生成AIを使って成人向け作品を作り、公開することができ、そうした作品を求めるファンとのコミュニケーションの場にもなるといいます。 FANZAスタジオで作品を作る際には、複数の生...",
+      "published": "2026-08-29T23:33:23Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d640422612e75a918de208ebf508034",
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証",
+      "link": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-08-30T22:52:15Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4633d2c5e601aef0f454b0aec260c64",
+      "title": "Macのメニューバーに常時表示される不要なアイコンを隠したり、アイコンの検索、Touch ID/パスワードでの保護、アイコン間隔の調整などが可能なメニューバーユーティリティ「Barkeep」がリリース。",
+      "link": "https://applech2.com/archives/20260829-barkeep-for-mac-menubar-utility.html",
+      "summary": "Macのメニューバーに表示されたアイコンを隠したり、アイコンの検索、Touch ID/パスワードでの保護、アイコン間隔の調整などが可能なアプリ「Barkeep」がリリースされています。詳細は以下から。 Macにメニューバーアイコンを追加するアプリをインストールしていくと、メニューバーにアイコンが多数...",
+      "published": "2026-08-29T06:32:25Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10ae1878188f113d20f9101c50951284",
+      "title": "トレファク子会社に不正アクセス、13万人超の顧客情報漏えい 二段階認証設定しておらず",
+      "link": "https://www.itmedia.co.jp/news/article/2608/28/2000000908/",
+      "summary": "漏えいしたのは、カスタマーID、氏名、住所、電話番号、生年月日、メールアドレス、メールマガジンの購読状況、合計注文回数、合計購入金額、ECプラットフォーム上で管理している顧客タグ情報、ポイント情報履歴（保有・失効・累計）。 うち住所情報を含むのは10万9311人分で、対象となる項目は顧客によって異な...",
+      "published": "2026-08-28T08:08:20Z",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7235c2d880008fc5e49a938acb2666e2",
+      "title": "[アップデート] EC2 の AMI に対応インスタンスタイプを設定できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-ami-support-instancetype/",
+      "summary": "EC2 の AMI に対応インスタンスタイプを指定できる新機能が追加されました。従来のアーキテクチャチェックに加え、特定のインスタンスタイプのみで起動を許可する細かい制御ができるようになったので、実際の動作を確認してみます。",
+      "published": "Mon, 31 Aug 2026 02:21:45 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f242f4cc817b7b9c3c4a6fe73741f04e",
+      "title": "Amazon Bedrock に入力したデータはサービス改善に利用されるか教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-bedrock-data-usage-for-service-improvement/",
+      "summary": "Amazon Bedrockに入力したデータがサービス改善に使用されるのかについて説明します。",
+      "published": "Mon, 31 Aug 2026 02:17:20 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdaa6d378fa8be2b3e6cddb44fd3c642",
+      "title": "Amazon Connect の Customer queue flow（顧客キューフロー）で、全てのブロックが実行されないのはなぜですか",
+      "link": "https://dev.classmethod.jp/articles/tsnote-connect-customer-queue-flow-not-all-blocks-executed/",
+      "summary": "Amazon Connect の Customer queue flow は中断可能なフローであり、顧客がエージェントに接続された時点で中断されるため、全てのブロックが実行されないことがあります。",
+      "published": "Mon, 31 Aug 2026 01:31:53 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c13221a4f0b2c497fe2db47d1a8835a",
+      "title": "製造業DXシリーズ③ 【汎用部品情報集約システム】 部品の仕入先が分散し、バイイングパワーが弱くなっていませんか？入口統制で購買力を強化するシステムのご紹介",
+      "link": "https://dev.classmethod.jp/articles/20260901_MBT_Common_parts_management_tool/",
+      "summary": "製造業の調達部門において、汎用電気電子部品の仕入先が分散してバイイングパワーが低下してしまう課題。その根本原因と、調達方針を設計の現場に落とし込む 「汎用部品情報集約システム」 による解決策についてご紹介します。",
+      "published": "Mon, 31 Aug 2026 01:19:00 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cb7a6c9a4a0ec77cb2f697a47c18b06",
+      "title": "Snowflake Cortex Agents のバージョン管理および GitHub Actions での CI/CD を考えみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-cortex-agents-versioning/",
+      "summary": "Snowflake Cortex Agents のバージョン管理とGitHub Actions を用いた CI/CD について考え、実際に検証してみました。",
+      "published": "Mon, 31 Aug 2026 00:50:32 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3c3747741ab43c32a77019df6e30635",
+      "title": "Amazon Connect Customer のプレビュー機能「Authentication Profiles API」で無操作時の自動ログアウトを設定してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-authentication-profiles-inactivity-timeout/",
+      "summary": "Amazon Connect の無操作時自動ログアウトを実現する「Authentication Profiles API」のプレビュー機能を、実際に試しながら設定方法と動作を検証した結果をご紹介します。",
+      "published": "Mon, 31 Aug 2026 00:25:23 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a41d042977ef00554838cca12d7e1728",
+      "title": "Slack Block Kit の新ブロックを試してみた【エージェント編】",
+      "link": "https://dev.classmethod.jp/articles/slack-block-kit-agent-blocks-guide/",
+      "summary": "Slack Block Kit に追加された新ブロックを紹介します。今回はエージェントの思考過程とタスク進捗を表示する task_card、plan、context_actions の各ブロックについて Block Kit Builder での検証例とともに解説します。",
+      "published": "Mon, 31 Aug 2026 00:00:09 GMT",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f13d1ab8c64ab83c809672ce30e08d7",
+      "title": "ベクトルデータベース",
+      "link": "http://www.oreilly.co.jp/books/9784814401796/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "生成AIにおいて重要な役割を担いながら、理解が難しいとされるベクトルデータベースの基礎理論から実践的なアプリケーション構築までを体系的に学べるハンズオンガイドです。ベクトル埋め込みの基本理論から、PythonやSQLite/PostgreSQLを活用した実装手法、さらにLLMと連携したRAGアプリケ...",
+      "published": "2026-09-28T00:00:00+09:00",
+      "fetched_at": "2026-08-31T02:39:16.722190+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "book"
     }
   ],
-  "updated_at": "2026-08-30T22:52:26.601673+00:00"
+  "updated_at": "2026-08-31T02:39:16.722190+00:00"
 }

@@ -1,35 +1,175 @@
 {
   "articles": [
     {
-      "entry_id": "7707c2dc4ce9f1aeae187df2bc413175",
-      "title": "Amazon CloudWatch Logs で Application Load Balancer のログを分析する | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/analyze-application-load-balancer-logs-with-amazon-cloudwatch-logs/",
-      "summary": "「Amazon CloudWatch Logs が Application Load Balancer (ALB) のログを Vended Logs としてサポート」ほう",
-      "published": "30 Aug 2026 16:02 +0000",
-      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
-      "feed_name": "@matsuu (Bluesky)",
+      "entry_id": "0b9789562e91a342e9c54daa476a0592",
+      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+      "summary": "Partner Revenue Measurement User Agent string now supports additional AWS services. Partner Revenue Measurement allows Partners to better understand t...",
+      "published": "Mon, 31 Aug 2026 22:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
       "category": "main"
     },
     {
-      "entry_id": "936ade76c849c9bb47679e27ebf9a0ca",
-      "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
-      "summary": "ははー。AWSにとっては良いディールだ。DuckDB 2.0でクライアント/サーバ型も提供予定なので、AWSにマネージドサービスが用意される可能性もあるな。",
-      "published": "30 Aug 2026 15:39 +0000",
-      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
-      "feed_name": "@matsuu (Bluesky)",
+      "entry_id": "e2ca5d91314c21f0c419205906b33000",
+      "title": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/",
+      "summary": "Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Re...",
+      "published": "Mon, 31 Aug 2026 21:05:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
       "category": "main"
     },
     {
-      "entry_id": "62ab8485bebb23b8d910064d8c9ffaf4",
-      "title": "ラップトップを閉じても、エージェントは動き続ける。cloud sessions で開発する | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/cloud-sessions/",
-      "summary": "「自分のマシンでAIエージェントを動かすときにずっと引っかかっていた 1 つの問題、つまりマシンそのものに縛られる問題を解決してくれます」Kiroに限らず各AIエージェントはかくあるべしとは思う。",
-      "published": "30 Aug 2026 15:35 +0000",
-      "fetched_at": "2026-08-30T18:57:19.161727+00:00",
-      "feed_name": "@matsuu (Bluesky)",
+      "entry_id": "b1341ff29aae79a9790d4402dafc55b8",
+      "title": "Amazon MSK Connect now supports restarting connectors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/",
+      "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) supports restarting newly created connectors and their tasks, enabling fast rec...",
+      "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c76569a0eaf50c3b82a4cc5c9a04c806",
+      "title": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion",
+      "summary": "Amazon Web Services (AWS) has expanded the regional availability for Amazon WorkSpaces Applications. Starting today, AWS customers can deploy their ap...",
+      "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c184db369cf4ffeb1945394a7d616eb",
+      "title": "Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets",
+      "summary": "Amazon Kinesis Data Streams now delivers streaming data directly to general purpose Amazon S3 buckets, providing the easiest way to ingest and deliver...",
+      "published": "Sat, 29 Aug 2026 06:47:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "60b56c720cff47f46f565d61ff55bcb2",
+      "title": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables",
+      "summary": "Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Ama...",
+      "published": "Fri, 28 Aug 2026 23:34:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "82ad8318944c76bf1209845371e8feed",
+      "title": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in ...",
+      "published": "Fri, 28 Aug 2026 22:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb139c36873dc8457eff806d456010b6",
+      "title": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and A...",
+      "published": "Fri, 28 Aug 2026 16:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e765b335de6818418aecf927815253c",
+      "title": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/",
+      "summary": "Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups within a...",
+      "published": "Thu, 27 Aug 2026 17:37:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "14dab01b3f06bdea04251a6124dc0da1",
+      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
+      "summary": "Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups. Amazon ...",
+      "published": "Tue, 25 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7e8aa50eb8ff33946c58e5a3e6714c3",
+      "title": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/",
+      "summary": "Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances provid...",
+      "published": "Thu, 20 Aug 2026 18:31:00 GMT",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "790e4e8adc74388355ca9b2460008ae4",
+      "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+      "summary": "米Appleのティム・クック氏は8月31日（現地時間）、CEOとしての最後の日を迎え、社員宛てにメッセージを送った。米TechCrunchなどが全文を伝えた。9月1日付でジョン・ターナス氏が新CEOに就任し、クック氏はエグゼクティブチェアマン（取締役会長）に就く。 クック氏はメッセージの冒頭で、いつ...",
+      "published": "2026-08-31T22:39:53Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37b03ef2b670adfdce03f4a215c2c6f5",
+      "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+      "link": "https://japan.zdnet.com/article/35251931/",
+      "summary": "「ChromeOS」は、「Chromebook」に搭載されているOSだ。シンプルで使いやすく、「Windows」では動作に制約を伴うようなマシンでも動作する。一般的なPCでChromeOSを利用できれば、手持ちの古いPCを蘇らせ、新たなChromebookを購入することなくChromebookと同じ...",
+      "published": "2026-08-31T12:37:33Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25d4979a0c0e4d81b17427701b6047d2",
+      "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援",
+      "link": "https://www.publickey1.jp/blog/26/dhhlinux_osomarchy_quattroaiosaios.html",
+      "summary": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援 Ruby on Railsの作者として知られるDHH氏は、同氏が開発するデスクトップ向けLinux OS「Omarch...",
+      "published": "2026-08-31T17:42:42Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "80056e8db4ab43dd595988716f9863ca",
+      "title": "「日常的に使っているサービス」に偽装したサイバー犯罪が世界で増加、Genが2026年上半期の「脅威レポート」公開",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2136806.html",
+      "summary": "",
+      "published": "2026-08-31T03:08:24Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2785c567feb2e8cd5fbc529321686b6d",
+      "title": "品質を支える仕組みをチームで作る —— 開発プロセスの可視化と改善 - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/08/31/095924",
+      "summary": "こんにちは！SmartHRでQAエンジニア（QAE）をしているyugeです。前回の記事で触れたDuolingoの連続記録が、ついに1,500日を超えました。日々の小さな積み重ねによって、以前は聞き取りづらかった音が聞こえるようになるなど、着実な変化を実感しています。 今回は、日々の開発プロセスで品質...",
+      "published": "2026-08-31T08:51:48Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3300832ff45aed52352dcee54f6d6d57",
+      "title": "老害フォレンジッカーはAI羊の夢を見るか？",
+      "link": "https://speakerdeck.com/tadmaddad/lao-hai-huorenzitukahaaiyang-nomeng-wojian-ruka",
+      "summary": "AIの悪用が現実化しつつある中、デジタルフォレンジックの観点からAI Artifactの調査可能性を紹介したLT資料です。",
+      "published": "2026-08-08T15:58:03Z",
+      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
     }
   ],
-  "updated_at": "2026-08-31T22:50:02.786819+00:00"
+  "updated_at": "2026-08-31T23:31:01.517071+00:00"
 }

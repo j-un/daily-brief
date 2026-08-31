@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "fe5a186b430c9f2dc03d501fc2d01d75",
-      "title": "新たなスキル証明の方法 ~ マイクロクレデンシャルと AWS 認定の関係性について ~ | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/microcredential-certification-relationship/",
-      "summary": "「マイクロクレデンシャルは、すでに AWS 認定 (Associate レベル以上) を保有している方が次のステップとして取り組むのに最適」AWS資格取得後の知識獲得とスキルアップに、皆様。",
-      "published": "30 Aug 2026 14:26 +0000",
-      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "56f58053b172c401e0dce1171b0c7349",
-      "title": "本番インシデントのトリアージを AI エージェントに任せられるようになるまで | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/trust-agent-triage/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 本番インシデントのトリアージを AI エージェントに任せられるようになるまで | Amazon Web Services",
-      "published": "30 Aug 2026 10:55 +0000",
-      "fetched_at": "2026-08-30T14:35:26.735282+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "7707c2dc4ce9f1aeae187df2bc413175",
       "title": "Amazon CloudWatch Logs で Application Load Balancer のログを分析する | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/analyze-application-load-balancer-logs-with-amazon-cloudwatch-logs/",
@@ -1609,7 +1589,257 @@
       "fetched_at": "2026-08-31T18:31:07.033918+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "5993b8458deca35e104d115c0f893a5a",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "summary": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/ Comments URL: https://news.ycombinator.com/item?id=49514878 Points: 2...",
+      "published": "Mon, 31 Aug 2026 21:10:58 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffc85844d1e29ad37b49810e52093c03",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "summary": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https://w...",
+      "published": "Mon, 31 Aug 2026 18:21:33 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aef2005b66928774f82eb7060caf425d",
+      "title": "Konrad Zuse Museum shutting down due to lack of funding",
+      "link": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
+      "summary": "https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyer... (auf Deutsch) Comments URL: https://news.ycombinator.com/item?id=49511917 Points: 143 ...",
+      "published": "Mon, 31 Aug 2026 16:52:35 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37f528df5f1a3956c4a441004a4617f9",
+      "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
+      "link": "https://ravynos.com/",
+      "summary": "Article URL: https://ravynos.com/ Comments URL: https://news.ycombinator.com/item?id=49511534 Points: 141 # Comments: 93",
+      "published": "Mon, 31 Aug 2026 16:19:36 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c53175c7d69c7ff8c485e8027e82c5f3",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/ Comments URL: https://news.ycombinator.com/item?id=4950...",
+      "published": "Mon, 31 Aug 2026 12:41:22 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "279f5803a224166d864e5062e1442ad0",
+      "title": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr",
+      "summary": "Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC ro...",
+      "published": "Mon, 31 Aug 2026 21:02:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4aa1ddeab81c582b17b78898402464c2",
+      "title": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/",
+      "summary": "You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), ...",
+      "published": "Mon, 31 Aug 2026 19:48:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "96501058bf69273b266d2377a371f76c",
+      "title": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3",
+      "summary": "Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v...",
+      "published": "Mon, 31 Aug 2026 18:10:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "37e4c301bec4d759043f213efe571be4",
+      "title": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Gr...",
+      "published": "Mon, 31 Aug 2026 18:08:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "963266ab7c94250a30b3e2b79d5a0235",
+      "title": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/",
+      "summary": "Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization ...",
+      "published": "Mon, 31 Aug 2026 18:00:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eb900eb48b15b46bdb0fb5631c350f7",
+      "title": "AWS Lambda recursive loop detection is now available in all commercial AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions",
+      "summary": "AWS Lambda recursive loop detection has expanded support to all commercial AWS Regions. This feature, which is enabled by default, is a guardrail that...",
+      "published": "Mon, 31 Aug 2026 17:30:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f614b64e8571245f4b223ae0ec47a8ff",
+      "title": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/",
+      "summary": "Amazon Aurora serverless now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pa...",
+      "published": "Mon, 31 Aug 2026 16:46:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd405cde312d404ed77d19af7726e99",
+      "title": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available",
+      "summary": "AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and...",
+      "published": "Mon, 31 Aug 2026 15:21:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e67830e9f1677f394e998d172cc30829",
+      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
+      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migra...",
+      "published": "Mon, 31 Aug 2026 15:00:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f668bddbbb7de1beffe37ac32d3aa279",
+      "title": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install/",
+      "summary": "Today, AWS Secrets Manager announces one-click installation for the AWS Workload Credentials Provider (AWCP) on Amazon Linux and Windows, reducing set...",
+      "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "137b1a82f9db15aee7db892841867c94",
+      "title": "Automated Security Response on AWS adds AI Toolkit for custom remediations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/",
+      "summary": "Today, AWS announced four new capabilities for Automated Security Response on AWS (ASR). Customers can now use an AI-driven Toolkit that generates cus...",
+      "published": "Mon, 31 Aug 2026 06:00:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e19ad7ca6cfa524af5040328cceeb2c5",
+      "title": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/",
+      "summary": "AWS IoT Core now supports InfluxDB rule action that routes time-series data from your Internet of Things (IoT) devices directly to InfluxDB databases,...",
+      "published": "Tue, 25 Aug 2026 19:42:00 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "74314b41229bfa6f17e56fd8305567de",
+      "title": "『OpenTelemetryではじめる テレメトリーサンプリング』という本が出版されました #otelsampling - YAMAGUCHI::weblog",
+      "link": "https://ymotongpoo.hatenablog.com/entry/otel-sampling",
+      "summary": "はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。このたび私が執筆しました『OpenTelemetryではじめる テレメトリーサンプリング ――シグナルデータ膨張に対応しながらオブザーバビリティを確保する』という書籍が技術評論社より出版されました。書店ならび...",
+      "published": "2026-08-31T05:44:07Z",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e10d095c6065ffa7985c3779c245322",
+      "title": "ハーネスエンジニアリングとは何か——\"盛れば効く\"のかを確かめる - 電通総研 テックブログ",
+      "link": "https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9",
+      "summary": "はじめまして。 金融IT本部 プロダクトソリューションユニット 融資ソリューション2部の 渡邉 真太郎 です。 現在は 2 年目社員として、地域金融機関向けの CRM / SFA サービス開発に従事しています。 2025 年 11 月、Anthropic がエンジニアリングブログの記事（Effect...",
+      "published": "2026-08-31T12:21:11Z",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "32e3dbfed63abfdca3e0440abed897bf",
+      "title": "アンソロピックから「恐怖の請求書」 中国AIが猛追でも崩れぬ強気 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN022KZ0S6A800C2000000/",
+      "summary": "顧客支援ソフトを開発する社員150人の米スタートアップ、パイロンのマーティー・カウサス最高経営責任者（CEO）は米アンソロピックから届いた請求書に目を丸くした。アンソロピックのAI「クロード」の利用料が、プログラミングに使っていた自分自身の分だけで、たった数日で4000ドル（約64万円）にも上ってい...",
+      "published": "2026-08-31T19:33:00Z",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7348f683ab03ee7c53312fc20bde78e",
+      "title": "[アップデート] Amazon Cognito に GetClientToken API が追加され、ドメインなしで M2M のアクセストークンを取得できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/amazon-cognito-get-client-token/",
+      "summary": "Amazon Cognito に追加された `GetClientToken` API を試してみました。ドメイン設定なしで M2M 用のアクセストークンを直接取得できる新機能の使い方と、従来の方法との違いを紹介します。",
+      "published": "Mon, 31 Aug 2026 21:13:05 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8d46b00f93cd6fadb04001e819f0801",
+      "title": "AWS Lambda がフル IAM リソースベースポリシーをサポートしたのでクロスアカウントで試してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-full-iam-resource-based-policy/",
+      "summary": "AWS Lambda が IAM のフルリソースベースポリシーに対応しました。PutResourcePolicy で JSON ポリシー全体を設定できるようになったことを受け、アカウント単位の許可と特定のロールへの明示的な Deny を 1 つの JSON ポリシーにまとめた場合の挙動、否定条件の ...",
+      "published": "Mon, 31 Aug 2026 19:00:05 GMT",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7196b44c8867543fb203e8ff1d7a0b1",
+      "title": "MIDI Tape Recorder, precise capture, now standalone for macOS, iOS",
+      "link": "https://cdm.link/midi-tape-recorder-2/",
+      "summary": "Geert Bevin's terrific MIDI Tape Recorder precisely captures MIDI performances, including MPE, verbatim -- not the slightest variation in sound. v2.0 ...",
+      "published": "Mon, 31 Aug 2026 17:58:27 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "001db351eebc345b36c5a9b89c31186d",
+      "title": "Optical analog video feedback in a massive, rotating 4K machine",
+      "link": "https://cdm.link/light-herder-4k/",
+      "summary": "It's digitally controlled optical goodness: a humble Teensy translates analog knob turns into control of 4K displays, all built into beautiful mahogan...",
+      "published": "Mon, 31 Aug 2026 17:29:33 +0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "b0b45f5bfdac7df84b9211e5b8c96802",
+      "title": "The Tape Label Report, August 2026",
+      "link": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-august-2026",
+      "summary": "5 new tape labels to know and love this month. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 31 Aug 2026 18:10:51 -0000",
+      "fetched_at": "2026-08-31T22:50:02.786819+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-08-31T18:31:07.033918+00:00"
+  "updated_at": "2026-08-31T22:50:02.786819+00:00"
 }

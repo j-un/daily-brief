@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "14dab01b3f06bdea04251a6124dc0da1",
-      "title": "Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2",
-      "summary": "Starting today, you can add Amazon EC2 Capacity Blocks for ML and interruptible Capacity Reservations to Capacity Reservation Resource Groups. Amazon ...",
-      "published": "Tue, 25 Aug 2026 18:00:00 GMT",
-      "fetched_at": "2026-08-31T23:31:01.517071+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "7a8207d1b56849c9bd48416099e13676",
       "title": "優秀なエンジニアが書くDesign Docは何が違うのか? - pospomeのプログラミング日記",
       "link": "https://www.pospome.work/entry/2026/08/24/223309",
@@ -279,7 +269,507 @@
       "fetched_at": "2026-09-02T02:11:53.008506+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "69330866b2182e2bb5946bc4fc50b78d",
+      "title": "ループエンジニアリング実践：プロンプトチューニングをClaude Codeに任せてみた - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/loop-engineering-prompt-tuning",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ループエンジニアリング実践：プロンプトチューニングをClaude Codeに任せてみた",
+      "published": "02 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75c70be6fb1864b7f45d015ba8e033d0",
+      "title": "encoding/json/v2 に至る14年",
+      "link": "https://zenn.dev/ymotongpoo/books/go-json-v2-history",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 encoding/json/v2 に至る14年",
+      "published": "02 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2367287a5e24fb542dfeba64963e4b6",
+      "title": "賢くAIを使うためにウォンテッドリーが取り組んでいる可視化と分析の方法 | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1088186",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 賢くAIを使うためにウォンテッドリーが取り組んでいる可視化と分析の方法 | Wantedly Engineer Blog",
+      "published": "02 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "312feda18bcf4adbe697d8d076062606",
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "link": "https://arxiv.org/abs/2608.29530",
+      "summary": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 103 # Comments: 31",
+      "published": "Wed, 02 Sep 2026 04:15:56 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "524124335e957774d9c5290559bc550d",
+      "title": "True Rate of Unemployment",
+      "link": "https://www.lisep.org/tru",
+      "summary": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 199 # Comments: 156",
+      "published": "Wed, 02 Sep 2026 02:21:10 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a53be2cff64db2f66bb5415544b8826",
+      "title": "The efficient frontier of LLM inference",
+      "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/ Comments URL: https://news.ycombinator.com/item?id=49529898 Points: ...",
+      "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f57423277575604f93ad63952ba33922",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "Article URL: https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/ Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Tue, 01 Sep 2026 23:17:43 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a553916b2dbdbf16806d0707378e6e4b",
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "link": "https://lws.io/blog/my-local-model-setup/",
+      "summary": "Article URL: https://lws.io/blog/my-local-model-setup/ Comments URL: https://news.ycombinator.com/item?id=49529132 Points: 177 # Comments: 97",
+      "published": "Tue, 01 Sep 2026 22:30:52 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92726ead6c3a3bb92a6e439d144f8cc7",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "link": "https://masteranza.github.io/weedout/",
+      "summary": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari e...",
+      "published": "Tue, 01 Sep 2026 22:06:57 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "83b6b48ff5766d45c46e4d937944f90d",
+      "title": "Dyson CameraJet electric toothbrush",
+      "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+      "summary": "Article URL: https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue Comments URL: https://news.ycombinator.com/item?id=49527...",
+      "published": "Tue, 01 Sep 2026 20:39:19 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "135addb4957e9366e0b0a9ecfe8ba312",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra/",
+      "summary": "Article URL: https://openai.com/index/path-to-astra/ Comments URL: https://news.ycombinator.com/item?id=49527595 Points: 144 # Comments: 60",
+      "published": "Tue, 01 Sep 2026 20:20:41 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ea91221046e3645655d1cb1b974b03e",
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "summary": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 ...",
+      "published": "Tue, 01 Sep 2026 19:55:47 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "961dcf1bf5141e987dfca86e29653852",
+      "title": "AI-DLCで取り払った組織の壁 ― DeNAと取り組んだ分析業務領域での初事例",
+      "link": "https://aws.amazon.com/jp/blogs/news/aidlc-dena-healthcare-analytics-case/",
+      "summary": "こんにちは、AWSの嶺、篠原、鈴木です。2026年5月、DeNAのヘルスケア事業部門のDeSCヘルスケア株式会 […]",
+      "published": "Wed, 02 Sep 2026 06:32:03 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d4a240a398099c8e10018684f923cd2",
+      "title": "楽天にGMO……防衛産業に近づく民間IT企業 反発の声も",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
+      "summary": "AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。例えば楽天グループは8月、ドイツの防衛系スタートアップと提携し、迎撃型ドローンの導入支援を手掛けると発表。GMOインターネットグループが9月15日に開催するイベントには、米防衛ソフトウェア企業Palant...",
+      "published": "2026-09-02T03:47:04Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e32a30840a49b02fcfb02ec9c16d29e8",
+      "title": "楽天モバイル、楽天ID未連携なら11月末に自動解約 電話番号も失効",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001057/",
+      "summary": "楽天モバイルは8月31日、楽天IDと連携せずに同社の通信サービスを利用できる機能を、11月30日に終了すると発表した。対象者が期限までに手続きしなかった場合、利用中の契約は自動解約となり、電話番号も失効する。 対象は「my 楽天モバイル」のWeb版に「ゲストでログイン中」と表示されるユーザー。継続し...",
+      "published": "2026-09-02T02:54:13Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfca437712c1c95cb1b57752ff2aa96d",
+      "title": "アメリカでLinuxのユーザーが18％を超える",
+      "link": "https://gigazine.net/news/20260902-statcounter-os-market-share/",
+      "summary": "さまざまな統計データを公開しているStatcounterのデータから、アメリカにおけるデスクトップ向けOSのシェアでLinuxが18％を超えたことが分かりました。 Desktop Operating System Market Share United States Of America | Sta...",
+      "published": "2026-09-02T03:07:00Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f513e14f4f5d77c6572bbfecf0f0c6f",
+      "title": "AIで実装が速くなったとき戦略づくりのどこにコストが移るのか｜いしい",
+      "link": "https://note.com/danimal141/n/n3abf92dcd7e0",
+      "summary": "Will Larsonの『エンジニアリング戦略の作り方』（オライリー、岩瀬義昌・岩瀬迪子訳）を読んだ。 読みながらずっと考えていたのは、AIで実装コストが下がった今、戦略をつくる力はより重要になるのか、という問いである。 先に結論を書いておくと、私はより重要になると考えている。ただし理由は「AIには...",
+      "published": "2026-09-02T04:11:13Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9e0976ad876517bfca8ffe56f331de7",
+      "title": "【落合陽一】AIを前にロジカルシンキングは無意味。エンジニアなら「仕事で使える“本物”」で勝負してほしい - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/31627/",
+      "summary": "もちろん、人間の手やハードウエアが必要な場面は少なくありませんが、メールの返信やSlackでのやり取り、コーディングや表計算、CADによる設計、映像編集、原稿執筆など、コンピュータを使う作業は、ほぼ全てAIがやってくれるようになりました。 現在、大阪・関西万博でプロデュースしたシグネチャーパビリオン...",
+      "published": "2026-09-01T08:20:30Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e52df958b040904ede87481f456f96de",
+      "title": "GitHub CLI拡張「gh dash」でターミナルからPRとIssueを爆速管理しよう！",
+      "link": "https://zenn.dev/nonejp/articles/d6dedc467ef803",
+      "summary": "「いちいちGitHub開くのめんどくせえ」「レビュー依頼されてたIssue、ブラウザのタブの海に埋もれてしまった…」 そんな経験、ありませんか？ 毎日GitHubと睨めっこしているエンジニアの皆さん、ブラウザとターミナルを行ったり来たりするの、そろそろ終わりにしませんか？今回は、ターミナル上でGit...",
+      "published": "2026-09-02T04:25:25Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0496e1190716d5e6c0c0552af8b32f5",
+      "title": "Geminiが動画を自律的に分析する「Agentic Video Understanding」登場、文字起こしや再確認を繰り返して長時間動画を詳しく分析しつつ安価に回答を生成",
+      "link": "https://gigazine.net/news/20260902-gemini-agentic-video/",
+      "summary": "Google DeepMindが2026年9月1日、Geminiの動画分析を自律的に進める新機能「Agentic Video Understanding」を発表しました。Geminiが質問内容に応じて動画内の必要な場面を探し、映像を見直したり音声の文字起こしを確認したりしながら回答を組み立てる仕組み...",
+      "published": "2026-09-02T02:54:51Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b17b57f81bf032083e09dab28687a053",
+      "title": "MUFG、電光石火のミュトス対応 サカナAIと｢48人の精鋭｣でAI活用 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC182EX0Y6A810C2000000/",
+      "summary": "台頭する新型の人工知能（AI）によって、金融業界はビジネスどころか自らの存在意義も揺さぶられている。「AIネーティブ」を掲げ、AI活用を積極的に推進する三菱UFJフィナンシャル・グループ（MUFG）は国内外のエキスパートと緊密に連携し、目まぐるしく変わる環境に即応できる体制を磨き続ける。社内には専門...",
+      "published": "2026-09-01T21:48:47Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c095e2ed74e616817fbfb7c8d196249",
+      "title": "ダイソンがカメラ搭載歯ブラシの「CameraJet」を発表、毎秒28枚の画像をスキャンし狙った場所にジェット噴射",
+      "link": "https://gigazine.net/news/20260902-dyson-camerajet/",
+      "summary": "カメラで歯を撮影し磨きながら歯と歯の隙間にジェットウォッシュを行う電動歯ブラシ「CameraJet」をダイソンが発表しました。 Dyson CameraJet™ 電動歯ブラシ（セラミックピンク）| オーラルケア | ダイソン公式 https://www.dyson.co.jp/oral-care/e...",
+      "published": "2026-09-02T03:06:16Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b71b4e29d9fe01a0bdeba846a4435be0",
+      "title": "「広島行こ」から始まった PyCon JP 2026 参加レポート — セッションから3日目のスプリントまで - Nealle Developer's Blog",
+      "link": "https://nealle-dev.hatenablog.com/entry/2026/09/02/160138",
+      "summary": "ニーリーでSET（Software Engineer in Test）を担当しています、宮内(@miyakun)です。 日頃は自動E2Eテストの開発・運用やテスト環境の整備、テストデータの自動生成などに取り組んでいます。 最近ではDjangoを使ってテストデータ作成APIを開発するなど、Python...",
+      "published": "2026-09-02T07:08:56Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "221f86e6ac7f42c94991ed10aa74ecfb",
+      "title": "DMMの独自ストアで「動画プレイヤー」復活 AppStoreでは配信できないアプリの駆け込み寺になるか",
+      "link": "https://www.itmedia.co.jp/news/article/2609/02/2000001055/",
+      "summary": "DMM.com傘下でゲームプラットフォームの「DMM GAMES」を運営するEXNOA（東京都港区）は8月31日、独自のiOSアプリストア「GAMES STORE」の提供を始めた。App Storeを経由せずにゲームなどのアプリを配信できる、いわゆる「代替アプリマーケットプレイス」だ。 9月1日にス...",
+      "published": "2026-09-02T01:51:25Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca3944d4947093bce67c52b76375ee1a",
+      "title": "AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい",
+      "link": "https://blog.takuros.net/entry/2026/08/31/150628",
+      "summary": "AWS認定デベロッパーの対策本を書きました。発売日は8月28日なので、もう既に書店にも並び始めています。 そしてこちらの写真は、ジュンク堂書店 池袋本店に書かせて頂いたポップです。 AI時代にこそ基礎を 一生使える考え方を 書きました！！ ※下手くそな字で申し訳ありません たった3行ですが、この本の...",
+      "published": "2026-08-31T16:47:20Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03919dde0e85aa7483f5cc1554674ede",
+      "title": "ゲームソフトのパッケージ版販売終了問題をきっかけに、今の12cm光ディスクがいつまで持ちこたえられるか考えてみる（西川善司のバビンチョなテクノコラム） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/02/5457.html",
+      "summary": "などのように、ディスク2枚組のパッケージ製品も存在した。 余談ついでに脱線すると、12cm光ディスクを採用したゲーム機の歴史において、最もディスク枚数が多かったパッケージ版はセガサターン用「ファンタズム」（8枚組）だとされる。この他、次点として初代PS用「ときめきメモリアル2」（5枚組）がある。さら...",
+      "published": "2026-09-02T01:49:09Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc2cd08fc6e4672b528aa363f18b9a07",
+      "title": "LLM-jp-4-VL 9Bリリース - LLM-jp",
+      "link": "https://llm-jp.nii.ac.jp/blog/llm-jp-4-vl-9b/",
+      "summary": "著者: 杉浦一瑳とLLM-jpマルチモーダルWGチーム 概要 このたびLLM-jpは視覚言語モデル LLM-jp-4-VL 9B を公開しました。 LLM-jp-4-VL 9Bは、国産大規模言語モデル llm-jp-4-8b-thinking をマルチモーダル化した約9Bパラメータの視覚言語モデルで...",
+      "published": "2026-09-02T00:33:08Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "018df9f232b4b7caee9f2f3f7f7116b1",
+      "title": "アクションカメラのGoProが約460億円で非公開企業のStarman Opticalに買収される、カメラ事業を継続しながらAIインフラ分野へ進出",
+      "link": "https://gigazine.net/news/20260902-gopro-merge-starman-optical-285-million/",
+      "summary": "世界的なメモリ不足を起因とするコスト上昇と売上減少で事業継続が困難に陥り、身売りを検討してきたアクションカメラメーカーのGoProが、非公開会社の光学機器メーカーであるStarman Opticalに株式の90％を2億8500万ドル(約460億円)で売却する合併契約を締結したことを発表しました。 G...",
+      "published": "2026-09-02T05:18:50Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a38bd341ebc08b2198fdadc458c2dcd",
+      "title": "Grillingで詰まったら、推測せず分岐する - Algomatic Tech Blog",
+      "link": "https://tech.algomatic.jp/entry/2026/08/31/185832",
+      "summary": "こんにちは。AlgomaticでソフトウェアエンジニアをしているGo（@53able）です。 mattpocock/skillsは、開発作業の進め方をエージェントに教えるスキル集です。 github.com /grillingは、その中で曖昧な依頼から未決定事項と判断の依存関係を洗い出す役割を担いま...",
+      "published": "2026-09-02T00:38:15Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e51ac01d8ea782145410e7021296cda6",
+      "title": "農業AIアシスタント「JD」発表。農業機械からの各種データ分析・意思決定を支援 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/02/5456.html",
+      "summary": "世界最大の農業機械ブランド、ジョンディア（John Deere）は、同社の農業向け管理プラットフォーム「Operations Center」にAIアシスタント「JD」を統合すると発表しました。 農家が長年にわたって蓄積してきたフィールドデータや機械データに対し、会話形式で問い合わせができる新機能です...",
+      "published": "2026-09-01T23:54:53Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45bb02f8c3308cf1cb0cc848e84e903f",
+      "title": "【やじうまミニレビュー】 4.2cmで80Gbps/240W対応。USB4ケーブル「ちょびフィット」を試す",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2137446.html",
+      "summary": "",
+      "published": "2026-09-02T02:25:07Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d76ab4fa82288109310176db30cff0f3",
+      "title": "【ミニレビュー】 イヤフォン手入れと同様に、耳もケア。550円の“耳用ローション”試してみた",
+      "link": "https://av.watch.impress.co.jp/docs/review/minireview/2137156.html",
+      "summary": "",
+      "published": "2026-09-01T23:04:29Z",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d560151b93e1c230ab6ab0cb8a5dbed",
+      "title": "[アップデート]Amazon CloudWatch Database InsightsがセルフマネージドPostgreSQLをサポートしたので自宅サーバ上のDBの情報を取得してみた",
+      "link": "https://dev.classmethod.jp/articles/database-insights-support-self-managed-postgresql/",
+      "summary": "Amazon CloudWatch Database InsightsがセルフマネージドPostgreSQLに対応しました。今回の明示されているのはPostgreSQL on EC2が対象のようですが、できそうな気がしたのであえて自宅サーバ上のPostgreSQLからデータを取り込んでみました。",
+      "published": "Wed, 02 Sep 2026 07:47:36 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c167cda1b89b9a399ee6a0ac20951421",
+      "title": "Amazon ECS 배포 도구 ecspresso에 대해 알아보기",
+      "link": "https://dev.classmethod.jp/articles/about-ecspresso-kr/",
+      "summary": "기존에 운영 중인 ECS 서비스를 코드로 관리하고 배포할 수 있는 ecspresso에 대해 알아보는 글입니다",
+      "published": "Wed, 02 Sep 2026 07:36:31 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c86c007e02b8cbcf7f7e7f6087b7d00c",
+      "title": "MediaConvert の Video Passthrough で映像フレームは保持されるのか、FFmpeg で比較してみた",
+      "link": "https://dev.classmethod.jp/articles/mediaconvert-video-passthrough-frame-comparison/",
+      "summary": "AWS Elemental MediaConvert の Video Passthrough 機能を使用して、H.264 / MP4 入力を MP4 へ再パッケージ化した際に、映像フレームが本当に保持されているかを複数の方法で検証しました。ファイル全体のハッシュだけでは判定できない理由と、デコード後...",
+      "published": "Wed, 02 Sep 2026 07:30:15 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3487c4fd2214fb03e9e12cc52a433af",
+      "title": "Amazon Cognito の GetClientToken でドメインなしの M2M トークン取得を試してみた",
+      "link": "https://dev.classmethod.jp/articles/cognito-get-client-token-m2m-without-domain/",
+      "summary": "Amazon Cognito に M2M 用のアクセストークンを発行する GetClientToken API が追加されました。M2M だけが目的なら、ユーザープールドメインを作らずに済みます。ドメインの調達や、証明書の発行、DNS の設定も不要です。AWS CLI でトークンの発行から JWT ...",
+      "published": "Wed, 02 Sep 2026 07:01:07 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2fa56060cfdeb2bfe87b4e4c22bfcfd",
+      "title": "EC2 R9gインスタンス（Graviton5）がGAになったのでCPU情報などを確認してみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-r9g-graviton5-instance-launch/",
+      "summary": "2026年8月31日にGAとなったEC2 R9gインスタンス（Graviton5・メモリ最適化）を起動し、lscpuやdmidecodeなどのOSコマンドでCPU情報を確認しました。前世代のR8gを同じAMI・同じカーネルで並べて起動し、実測した差分やオンデマンド料金の比較、Graviton5世代で...",
+      "published": "Wed, 02 Sep 2026 06:53:38 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9db01229c6af4a3cfe92bfe149826603",
+      "title": "【macOS】認証情報をローカルに保存せずCodeCommitのリポジトリをgit-remote-codecommitでcloneする環境構築手順",
+      "link": "https://dev.classmethod.jp/articles/env-macos-git-remote-codecommit-aws-login-20260902/",
+      "summary": "おはようございます。gio です。 CodeCommit のリポジトリを macOS の端末から git clone/push する際の端末セットアップ内容と、認証情報をローカルに保存することなく git clone/push する方法を共有いたします。",
+      "published": "Wed, 02 Sep 2026 06:35:16 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5c991c47888c5c8d30a553ffb0114de",
+      "title": "【Security Hub修復手順】[MSK.4] MSK クラスターではパブリックアクセスを無効にする必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-msk-4/",
+      "summary": "AWS Security HubのセキュリティコントロールMSK.4に対応する修復手順を紹介します。MSKクラスターのパブリックアクセスを無効化し、セキュリティスコアを改善する方法をステップバイステップでお伝えします。",
+      "published": "Wed, 02 Sep 2026 05:37:00 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "39de7da99d086b943820f393922e6ce9",
+      "title": "RHELのマイナーバージョンアップに必要なリポジトリと確認方法を教えてください。",
+      "link": "https://dev.classmethod.jp/articles/tsnote-EC2-RHEL-BaseOS-AppStream-001/",
+      "summary": "RHEL のマイナーバージョンアップに必要なリポジトリと、BaseOS と AppStream の両方を有効にする必要性を検証結果から紹介します。",
+      "published": "Wed, 02 Sep 2026 05:33:18 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3d434e3c0241602d211463c3341d4c8",
+      "title": "EIP を割り当てた NLB と ALB を組み合わせて、固定 IP と AWS WAF を両立してみた",
+      "link": "https://dev.classmethod.jp/articles/static-ip-and-aws-waf-with-nlb-alb/",
+      "summary": "固定 IP アドレスを持つインターネット向けエンドポイントと AWS WAF を両立させたい場合があります。NLB で固定 IP、ALB で WAF という役割分担を通じて、その実現方法を段階的に検証していきます。",
+      "published": "Wed, 02 Sep 2026 05:24:06 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "16d1c0aa9815e0bba2a29fc748079984",
+      "title": "Vercelの公開URLに、自前でBasic認証をかけてみた話",
+      "link": "https://dev.classmethod.jp/articles/how-to-setup-basic-auth-on-vercel/",
+      "summary": "Vercelのproduction domainに、Next.js Middlewareを使った自前のBasic認証を実装してみました。Vercel標準のDeployment Protectionとの使い分けや、実装時の注意点をまとめます。",
+      "published": "Wed, 02 Sep 2026 04:58:12 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdc7ffc86c0a483d86f52dc48add73d5",
+      "title": "Bedrock の Grok 4.6 の課金分類を Cost Explorer で確認してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-grok-4-6-cost-explorer-credit/",
+      "summary": "イベントなどで配布される AWS クレジットは、Bedrock で使うモデルによっては、その利用料が適用対象外となることがあります。SpaceXAI の Grok 4.6 の利用料が クレジットの対象である事、併せて Cost Explorer 上でどのサービス・どの請求元に分類されるのかを、Cla...",
+      "published": "Wed, 02 Sep 2026 04:56:53 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4f2428e4379a8f6d90e5680c1af47e5",
+      "title": "ホテル・旅館滞在中の顧客体験を向上させるLINE公式アカウントとLINEミニアプリの活用方法",
+      "link": "https://dev.classmethod.jp/articles/hotel-line-oficial-account-and-line-miniapp-practical-use/",
+      "summary": "ホテル・旅館の滞在中の顧客体験をLINE公式アカウントとLINEミニアプリで向上させる方法を検証しました。館内モードのリッチメニュー、滞在者への販促、ビーコン、リマインド、生成AIチャットボットの5つと、それらに共通するチェックイン連携の仕組み、費用の目安を紹介します。",
+      "published": "Wed, 02 Sep 2026 04:54:58 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "92f4ce7831b28fe6d9eb1d0d81ecea0f",
+      "title": "AWS Config の公式テンプレートについて、押さえておきたいパラメータを整理してみた",
+      "link": "https://dev.classmethod.jp/articles/config-template-parameters/",
+      "summary": "Control Tower環境でAWS Configの記録設定をカスタマイズする際、公式テンプレートをのパラメータ設定における考え方を実務面からいくつか紹介します。INCLUSION/EXCLUSION の挙動や段階的な導入方法、更新時の注意点まで、実運用で気をつけるべきポイントをまとめています。",
+      "published": "Wed, 02 Sep 2026 04:20:59 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a000f2badc94b88d09017b46778c8c2",
+      "title": "Amazon Quick(Quick Sight)のしきい値アラートを設定して届く通知メールを見てみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-quicksight-threshold-alert-email/",
+      "summary": "Amazon Quickのアラート機能を実際に設定して、しきい値を下回ったときに届く通知メールの中身を確認してみました。メール文から「何が起きたか」が一目で分かる設計になっていたので、その様子をお見せします。",
+      "published": "Wed, 02 Sep 2026 03:37:48 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "63cbd39166f8e247b1a4f62e3925518f",
+      "title": "AWS Partner CentralのOpportunity情報をAWS CLIで取得してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-cli-partner-central-get-opportunity/",
+      "summary": "AWS Partner CentralのOpportunity情報をAWS CLIで取得する方法を試してみました。get-opportunityとget-aws-opportunity-summaryの2つのコマンドで取得できる情報やその違い、複数のOpportunityを対象にまとめて操作を行う例...",
+      "published": "Wed, 02 Sep 2026 03:16:18 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f8e5644992a2dbc1a8289cea46d0da6",
+      "title": "「Hub ＆Spoke 環境でのネットワークルーティングを分解してみる」というタイトルでLTしました",
+      "link": "https://dev.classmethod.jp/articles/hub-spoke-network-routing/",
+      "summary": "AWSコミュニティイベント「品川会」でのLT登壇内容をもとに、Hub&Spoke構成におけるネットワークルーティングの複雑性を、VPCルートテーブルとTGWルートテーブルの層別分解、アクセスパターン別の図解、往路・復路の分離といった工夫で解剖します。",
+      "published": "Wed, 02 Sep 2026 02:46:58 GMT",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6564670e053ebdff042d8a510d926991",
+      "title": "Patience, module from Olivia Artz, scales modulation from seconds to decades",
+      "link": "https://cdm.link/patience/",
+      "summary": "Following the success of Time Machine, Olivia Artz has a new idea for playing with temporality in Eurorack modular. Patience is a \"lowest\" frequency o...",
+      "published": "Tue, 01 Sep 2026 21:52:15 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "bd4b8927f9f9e224e9c134d708457fde",
+      "title": "Logic Pro 12.3, as reviewed by a Cubase version 1 user",
+      "link": "https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/",
+      "summary": "I’ve used Cubase since its original release, and strongly disliked Logic during its Emagic days. A rethink is long overdue… The post Logic Pro 12.3, a...",
+      "published": "Wed, 02 Sep 2026 08:00:01 +0000",
+      "fetched_at": "2026-09-02T08:15:50.751702+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-02T02:11:53.008506+00:00"
+  "updated_at": "2026-09-02T08:15:50.751702+00:00"
 }

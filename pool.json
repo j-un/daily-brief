@@ -1209,7 +1209,387 @@
       "fetched_at": "2026-09-03T18:59:43.571734+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "3163a1d07f6cea04beab8699b0b12f02",
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "link": "https://arcprize.org/blog/astra",
+      "summary": "Article URL: https://arcprize.org/blog/astra Comments URL: https://news.ycombinator.com/item?id=49555691 Points: 102 # Comments: 52",
+      "published": "Thu, 03 Sep 2026 19:45:00 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b6b443c0aff36e8eb9a21817ab3c1e0",
+      "title": "GPT-6 Astra",
+      "link": "https://openai.com/index/gpt-6-astra/",
+      "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astraRelated ongoing threads:OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/i...",
+      "published": "Thu, 03 Sep 2026 18:41:05 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d055f5ec31ebc871825a02c4c5009d06",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "link": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 344 # Comments: 11...",
+      "published": "Thu, 03 Sep 2026 18:32:13 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28f7d1af9235e854b0b7ef7931d7ff1c",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "summary": "https://thenewstack.io/openai-gpt6-astra-benchmarks/, image: https://cdn.thenewstack.io/media/2026/09/358eb84a-screenshot...https://venturebeat.com/te...",
+      "published": "Thu, 03 Sep 2026 18:18:22 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e172cd1e978e64999775431512bc952",
+      "title": "VC isn't VC anymore",
+      "link": "https://www.anildash.com/2026/09/02/cancer-capital/",
+      "summary": "Article URL: https://www.anildash.com/2026/09/02/cancer-capital/ Comments URL: https://news.ycombinator.com/item?id=49552055 Points: 179 # Comments: 1",
+      "published": "Thu, 03 Sep 2026 15:51:53 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c43c8b7cc1ea73109288314ee7cb7e2",
+      "title": "Sony makes bold claim about game ownership",
+      "link": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+      "summary": "Article URL: https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/ Comments URL: https://news.ycombinator.com/item?id=49551...",
+      "published": "Thu, 03 Sep 2026 15:44:54 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "166c7daaa257c65328de30199adb8cf7",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "link": "https://ifm.ai/blog/k2/",
+      "summary": "Article URL: https://ifm.ai/blog/k2/ Comments URL: https://news.ycombinator.com/item?id=49551760 Points: 219 # Comments: 72",
+      "published": "Thu, 03 Sep 2026 15:36:43 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2cbc41855de588f295003a4752a0ce2",
+      "title": "Grok outage",
+      "link": "https://status.x.ai/",
+      "summary": "Article URL: https://status.x.ai/ Comments URL: https://news.ycombinator.com/item?id=49551589 Points: 156 # Comments: 152",
+      "published": "Thu, 03 Sep 2026 15:26:01 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "122c318801dfa2c64a29fec3a4fc9af0",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "link": "https://news.ycombinator.com/item?id=49551096",
+      "summary": "https://status.openai.comhttps://status.claude.comhttps://status.x.aiChatGPT outage – Resolved - https://news.ycombinator.com/item?id=49550614 (315 co...",
+      "published": "Thu, 03 Sep 2026 15:07:01 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd1b0b7f2fa5f6355aa8ebd2a520e6d4",
+      "title": ".name Termination",
+      "link": "https://neil.fraser.name/news/2026/09/03/",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/09/03/ Comments URL: https://news.ycombinator.com/item?id=49550772 Points: 1129 # Comments: 335",
+      "published": "Thu, 03 Sep 2026 14:54:39 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2e7c9a75cec4a7e425fa45de6988bdb",
+      "title": "Codex outage",
+      "link": "https://github.com/openai/codex/issues/28756",
+      "summary": "Article URL: https://github.com/openai/codex/issues/28756 Comments URL: https://news.ycombinator.com/item?id=49550769 Points: 101 # Comments: 1",
+      "published": "Thu, 03 Sep 2026 14:54:31 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3efa566bf05e6e8c3a3ff8be26ef8bbb",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "link": "https://anyhumanever.com/",
+      "summary": "Article URL: https://anyhumanever.com/ Comments URL: https://news.ycombinator.com/item?id=49550698 Points: 384 # Comments: 185",
+      "published": "Thu, 03 Sep 2026 14:51:10 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2b7c1160d7f6eda8be66e2e3e5a9f82",
+      "title": "ChatGPT outage – Resolved",
+      "link": "https://chatgpt.com/",
+      "summary": "Article URL: https://chatgpt.com/ Comments URL: https://news.ycombinator.com/item?id=49550614 Points: 359 # Comments: 315",
+      "published": "Thu, 03 Sep 2026 14:46:47 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "497eb0b45fab2fc0649287970ebe8afe",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during ...",
+      "published": "Thu, 03 Sep 2026 14:28:18 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e86c487f9f4dc5d4bb8cab47c4239351",
+      "title": "Mom gets 6-month suspended sentence for letting 5-year-old walk to the pond",
+      "link": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+      "summary": "Article URL: https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/ Comments URL: ht...",
+      "published": "Thu, 03 Sep 2026 14:12:19 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9fff4871cb5e3403247634dd71db926",
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "link": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "summary": "Article URL: https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/ Comments URL: https://news.ycombinator.co...",
+      "published": "Thu, 03 Sep 2026 13:51:44 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea622c80d3af4059245047ca32ecf29c",
+      "title": "Claude outage – Resolved",
+      "link": "https://status.claude.com/incidents/461yvfrzpwtt",
+      "summary": "Article URL: https://status.claude.com/incidents/461yvfrzpwtt Comments URL: https://news.ycombinator.com/item?id=49549676 Points: 203 # Comments: 147",
+      "published": "Thu, 03 Sep 2026 13:29:12 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b83b7bfb7d196d7ed38d9b481b65f508",
+      "title": "Nvidia to acquire Hugging Face",
+      "link": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "summary": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face... Comments URL: https://news.ycombinator.com/item?id=49548952 Points: 291 # Comments: 92",
+      "published": "Thu, 03 Sep 2026 12:10:33 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12dc18f84c7efa842e1dfdb4c77f6e22",
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "link": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2095453567955968398 Comments URL: https://news.ycombinator.com/item?id=49548452 Points: 235 # Com...",
+      "published": "Thu, 03 Sep 2026 11:01:04 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c6ae484f8a51369ad3d0052ee6c8668",
+      "title": "Amazon CloudFront announces API support for flat-rate pricing plans",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/",
+      "summary": "Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or the P...",
+      "published": "Thu, 03 Sep 2026 18:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c4a5865f376c7afb2ac929eafb2940f",
+      "title": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/",
+      "summary": "AWS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a flow's idle ...",
+      "published": "Thu, 03 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3967d202d54a0f4d9631f521ab42e440",
+      "title": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/",
+      "summary": "Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scalabl...",
+      "published": "Thu, 03 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "27d87d4161af94c831a633ce37907fe0",
+      "title": "Amazon Redshift rg.large instances now support single-node clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node",
+      "summary": "Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters is...",
+      "published": "Thu, 03 Sep 2026 16:03:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "87c4e51f6fdf9e291fb2e9b4cf00ff57",
+      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Auror...",
+      "published": "Thu, 03 Sep 2026 16:01:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "42564d1278a6addde403b86e6c4386e5",
+      "title": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/",
+      "summary": "Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source replicat...",
+      "published": "Thu, 03 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7e067795829f2fc8d5c19ab9db280a3",
+      "title": "Amazon SageMaker Unified Studio Workflows support Python and Bash operators",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/",
+      "summary": "Amazon SageMaker Unified Studio Workflows now supports PythonOperator and BashOperator, enabling you to run custom Python functions and shell commands...",
+      "published": "Thu, 03 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f28eec1ecddd70740b5423430cf96332",
+      "title": "Amazon SES now supports S/MIME email signing",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing",
+      "summary": "Amazon Simple Email Service (SES) now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) signing, giving you a way to help recipients veri...",
+      "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "559f528157b6f1fb6e5b5990101f2b0f",
+      "title": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints",
+      "summary": "Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 program. ...",
+      "published": "Thu, 03 Sep 2026 04:00:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1422617fc9f3941ed8f4401ed6b71bd",
+      "title": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/",
+      "summary": "Amazon Bedrock AgentCore Identity now offers a managed consent portal that eliminates the need for custom OAuth callback infrastructure when connectin...",
+      "published": "Tue, 01 Sep 2026 21:29:00 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "518b763ad9cabec146183cc60f33dcdf",
+      "title": "オラに演算能力を分けてくれ！NVIDIA、家庭内のPCで分散推論する「PAIR」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2138088.html",
+      "summary": "",
+      "published": "2026-09-03T16:07:16Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee54b7d2410bb7efc8a860780344e4e5",
+      "title": "なのにあなたはKindleで買うの？ Google Play Booksで買った本をGemini Notebookにぶち込めてAI対話できる新機能登場（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/08/31/5446.html",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Googleが発表した、購入した電子書籍をGemini Notebookに取り込み、直接対話できる機能「Exper...",
+      "published": "2026-08-31T04:28:26Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "835132053a172aadad95bac1ac757aea",
+      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
+      "link": "https://gigazine.net/news/20260903-microsofts-office-ai/",
+      "summary": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Clau...",
+      "published": "2026-09-03T10:51:41Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a6e8a6d6fa464fdd8d35fba865f4e3a",
+      "title": "変形してPCになる携帯型ゲーム機、エイサーがコンセプトモデルを公開",
+      "link": "https://japan.cnet.com/article/35252244/",
+      "summary": "「Windows」搭載の携帯ゲーム機は、主にゲームを楽しむための端末と捉えられがちだ。しかし実際には、薄型軽量ノートPCとの共通点が多い。Windowsで動作し、ディスプレイを搭載し、GPUを備えたモバイル向けプロセッサーによって同等の性能を発揮する。以前からメインPCとして使う人はいたが、携帯ゲー...",
+      "published": "2026-09-03T04:51:38Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf5b0aca883889e565a639f5617d1194",
+      "title": "「AIで業務アプリを作成する仕組み」で特許取得、KDDI傘下のELYZA X上では一部批判も【追記あり】",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/03/2000001144/",
+      "summary": "KDDIグループのAI開発企業ELYZA（東京都文京区）は9月3日、法人向けAIツール「ELYZA Works」における業務向けAIアプリを生成AIで作成する仕組みについての特許を取得したと発表した。一方、X上の一部では「こんなんで特許取られると困る」など批判の声も上がっている。 取得した特許は主に...",
+      "published": "2026-09-03T13:00:45Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73feff3dab34f21c9ea2fe332a219884",
+      "title": "Announcing Vitest 5.0",
+      "link": "https://vitest.dev/blog/vitest-5.html",
+      "summary": "Vitest 5.0 is out! ​September 3d, 2026 The next Vitest major is here ​Today, we are thrilled to announce Vitest 5! Quick links: DocsTranslations: 简体中文...",
+      "published": "2026-09-03T15:41:22Z",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ea29adcea71be3d57f160a0ed01e468",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ByteByt…",
+      "link": "https://github.com/ByteByteGoHq/system-design-101",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ByteByteGoHq / system-design-101 ⭐ 88,094 (+158) Explain complex systems using visuals and simple terms. Help you pre...",
+      "published": "03 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31035b980de9c5af3c17c5edb178efaa",
+      "title": "Amazon Linux 2027 がパブリックプレビューになったので EC2 で起動して確認してみた",
+      "link": "https://dev.classmethod.jp/articles/al2027-preview-ami-ssm-os-check/",
+      "summary": "Amazon Linux 2023 の後継となる Amazon Linux 2027 が、2026年9月3日にパブリックプレビューとして公開されました。プレビュー AMI は全商用リージョンで提供されているので、東京リージョンで EC2 インスタンスとして起動し、Session Manager 経由...",
+      "published": "Thu, 03 Sep 2026 19:02:10 GMT",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6618db5a72f73b22a867c7d8fa1271b8",
+      "title": "Audacity 4, free and open-source audio editor, arrives with a revamped UI",
+      "link": "https://cdm.link/audacity-4-and-tenacity-too/",
+      "summary": "It's been a long time coming. Audacity, the ubiquitous open-source audio editor now owned by Muse Group, reaches version 4 with a reworked UI and enha...",
+      "published": "Thu, 03 Sep 2026 19:44:40 +0000",
+      "fetched_at": "2026-09-03T22:04:00.446452+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-03T18:59:43.571734+00:00"
+  "updated_at": "2026-09-03T22:04:00.446452+00:00"
 }

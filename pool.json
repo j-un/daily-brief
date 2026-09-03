@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "bf5f9bdc9854bca9a56a44841c982033",
-      "title": "テクニカルライティングガイドラインを公開しました | フューチャー技術ブログ",
-      "link": "https://future-architect.github.io/articles/20260819a/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 テクニカルライティングガイドラインを公開しました",
-      "published": "02 Sep 2026 10:55 +0000",
-      "fetched_at": "2026-09-02T13:58:54.967056+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1fa5e007a9948bbd1ce033fe767ac24e",
       "title": "Mamdani Bans AI in NYC Schools",
       "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
@@ -939,7 +929,287 @@
       "fetched_at": "2026-09-03T14:01:01.670469+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "1ac7ceb6bc15439298442e2fd7585348",
+      "title": "YubicoとOpenAIの提携によりYubiKeyが安価に買える対象国に日本が…",
+      "link": "https://www.yubico.com/blog/yubico-expands-openai-partnership-to-new-countries-as-hardware-backed-passkey-mandate-begins-for-trusted-access-for-cyber-program/",
+      "summary": "YubicoとOpenAIの提携によりYubiKeyが安価に買える対象国に日本が含まれたことを示すアナウンスがこちらです。YubiKey入手のチャンス。",
+      "published": "03 Sep 2026 14:34 +0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3cfed7e2d5a2eb6f03ad408def85e54",
+      "title": "OpenAIとYubicoが提携してOpenAIユーザーにYubiKeyを安価に…",
+      "link": "https://help.openai.com/en/articles/20001269-openai-yubico-yubikey-bundle",
+      "summary": "OpenAIとYubicoが提携してOpenAIユーザーにYubiKeyを安価に提供してるぞ。OpenAIのアカウントがあればUSB-C接続のYubiKey2個セットを通常$126のところ$68(+送料)で購入できる。この記事では日本対象外だったが9月から日本もokに。",
+      "published": "03 Sep 2026 14:31 +0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e94c57327a01b0cd81b7aa109c89f89a",
+      "title": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/",
+      "summary": "Amazon Quick now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of ...",
+      "published": "Thu, 03 Sep 2026 17:17:00 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a9db1d72eaa9e80699819b4c9b16cb8",
+      "title": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/",
+      "summary": "Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the AWS Management ...",
+      "published": "Thu, 03 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "32241b305b85eb783c35b1833b717a2a",
+      "title": "Amazon Linux 2027 is now available in public preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/",
+      "summary": "Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for cloud-...",
+      "published": "Thu, 03 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f49ef12acdfea0897ec5fefa56d7bb5f",
+      "title": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/",
+      "summary": "AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EB...",
+      "published": "Thu, 03 Sep 2026 03:00:00 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "54c73a2f3819ee4094c4975803f2cb37",
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+      "summary": "日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 Claudeと...",
+      "published": "2026-09-03T16:15:44Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f712f6f6c4e3958e56f09d25b14204c",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "link": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthe...",
+      "published": "2026-09-03T12:56:57Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ee91b329dc8d2eb1ea1e80ef39863fa",
+      "title": "無料の動画編集ソフト「OpenShot 4.0」、カラーグレーディングに対応、ローカルAIも導入／10種類の新エフェクト、ネイティブ「Qt」への移行でタイムラインも快適に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2137683.html",
+      "summary": "",
+      "published": "2026-09-03T10:19:33Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd7a87e00a93bcf5412f2093b1cbedd6",
+      "title": "Googleが脆弱性の発見・再現・修正を自動化するオープンソースフレームワーク「Mantis」の詳細を公開、巨大リポジトリでもトークンのオーバーヘッドを85％超削減",
+      "link": "https://gigazine.net/news/20260903-google-mantis-open-source/",
+      "summary": "Googleは2026年9月2日、AIを使ってソフトウェアの脆弱(ぜいじゃく)性を発見し、候補の絞り込みから再現、修正まで進めるオープンソースフレームワーク「Mantis」の仕組みや利用方法を解説する記事を公開しました。 Getting started with the Mantis harness...",
+      "published": "2026-09-03T07:32:27Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e05414f7f2fc4afe242d50411b14e557",
+      "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
+      "summary": "",
+      "published": "2026-09-03T14:39:08Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "706637ce5b80dfbd057d3bf097f2b578",
+      "title": "「レビューがしんどい」の正体を、認知的負債から考えてみた | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20260903a/",
+      "summary": "夏休み自由研究連載 2026 の6本目です。 はじめにAI戦略推進G（AI Transformation Group）の小橋です。いまはめぐりめぐって最適化の業務を担当しています。 私がCursorによるAI駆動開発入門 を書いたのは2025年4月のこと。その後、AI駆動開発の波がフューチャーにも完...",
+      "published": "2026-09-03T03:47:16Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "218a89b072ab3c458b0902056e8c022c",
+      "title": "グーグル「Gemini 3.8 Flash」登場 3週間で主力モデルを大幅刷新、Opus 5に迫る",
+      "link": "https://www.watch.impress.co.jp/docs/news/2137818.html",
+      "summary": "",
+      "published": "2026-09-03T01:53:18Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c76e2d1f7f596327314dd083015c02d",
+      "title": "CS146S: The Modern Software Developer - Stanford University",
+      "link": "https://themodernsoftware.dev/",
+      "summary": "",
+      "published": "2026-02-26T01:10:08Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "456ab116956f7cf3469a99b525ff6a9b",
+      "title": "Back to the Future: Why Agentic AI Needs a Strong Identity Foundation",
+      "link": "https://www.nist.gov/blogs/cybersecurity-insights/back-future-why-agentic-ai-needs-strong-identity-foundation",
+      "summary": "As AI matures, enterprises and customers are rapidly deploying agents seeking to unlock the next level of automation and productivity. Agentic AI show...",
+      "published": "2026-09-03T05:43:20Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0ab1441f0bdd17725892cd71dc2ba1a",
+      "title": "ことでん、「デジタル券売機」を使ってみた 無人駅の券売機は撤廃へ",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2137370.html",
+      "summary": "",
+      "published": "2026-09-03T04:26:24Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f214998d7fbf9bacd0ead062edd0b01",
+      "title": "Metaが「Muse Spark 1.3」を発表、ついにAnthropicやOpenAIの最先端モデルに追いつく性能を達成",
+      "link": "https://gigazine.net/news/20260903-meta-muse-spark-1-3/",
+      "summary": "MetaがAIモデル「Muse Spark 1.3」を現地時間の2026年9月2日にリリースしました。Muse Spark 1.3は長期的なコーディングタスクに対応できるようにトレーニングされており、コーディング性能を測定するベンチマークテストでGPT-5.6 SolやClaude Opus 5を超...",
+      "published": "2026-09-03T02:16:34Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85751ada873f08f6614ccdda8cf22a8e",
+      "title": "ファミマ、POSレジ刷新 1台でセルフ／有人切り替え レジ業務2割削減へ",
+      "link": "https://www.itmedia.co.jp/news/article/2609/03/2000001104/",
+      "summary": "ファミリーマートは9月3日、新型POSレジを開発し、9月から全国のファミリーマート約1万6500店に本格導入すると発表した。スタッフが対面対応する「有人モード」と、客自身で会計する「セルフモード」があり、店舗側で切り替えられるのが特徴だ。 セルフレジでは新たに、「エコ割商品」の購入や電子マネーのチャ...",
+      "published": "2026-09-03T03:04:04Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55f44bf0f78e8b6e221c8fe383609434",
+      "title": "「このメールは本当にAmazonからのもの？」に数秒で返答するAIツール、米Amazonが提供開始【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2137809.html",
+      "summary": "",
+      "published": "2026-09-03T02:13:21Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a4260abfca976125b8c221197388204",
+      "title": "XBOX One以降のディスクをデジタル版に変換する施策の裏に、失敗した中古対策の名残が？",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/column/sspcgame/2137702.html",
+      "summary": "",
+      "published": "2026-09-03T01:19:24Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cd66e83458d5f270673b803af612b01",
+      "title": "レノボ「大和研究所」公開、エージェントAI時代へThinkPadが進化",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2137847.html",
+      "summary": "",
+      "published": "2026-09-03T02:12:27Z",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "804d26b71c643c91d1931dd15ee350fe",
+      "title": "PostgreSQL on EC2 をサポートした CloudWatch Database Insights を試してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-database-insights-self-managed-postgresql/",
+      "summary": "CloudWatch Database Insights は、pg_stat_statements と監視ロールを用意して CloudWatch agent の設定に database_insights を1節足すだけで、EC2 上の自己管理 PostgreSQL を対象にできます。DB 負荷・待機...",
+      "published": "Thu, 03 Sep 2026 14:38:09 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d341cd1a74a5df26e4f34c9c47a0057",
+      "title": "Kinesis Data Streams が サポートした新機能「DryRun」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/kinesis-data-streams-dryrun-verification/",
+      "summary": "Amazon Kinesis Data Streams の DryRun を、権限の異なる IAM ロール3つで試しました。CloudFormation で 1 シャードのストリームを作成し、権限とリクエストパラメータの検証、スロットリング時の応答、実行後にストリームが空のままかを確認しました。",
+      "published": "Thu, 03 Sep 2026 14:10:22 GMT",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b39de8905caf28f4baee9ad1cbf0e8e8",
+      "title": "Septabee, an insane-looking free Linux/Windows DAW with pomegranates",
+      "link": "https://cdm.link/septabee-is-here/",
+      "summary": "Suddenly, a bunch of the producers I follow are buzzing about the music-mangling possibilities of Septabee, a free DAW for Linux and Windows developed...",
+      "published": "Thu, 03 Sep 2026 09:16:33 +0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "fe69c3622c27607bba0b3768ab05454b",
+      "title": "The Best Metal on Bandcamp, August 2026",
+      "link": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-august-2026",
+      "summary": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 03 Sep 2026 18:00:15 -0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "4731635690734033ebee93858477536f",
+      "title": "The Best Country Music on Bandcamp, August 2026",
+      "link": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-august-2026",
+      "summary": "Our monthly round-up of folk, bluegrass, roots rock, Americana, and all things country-ish. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 03 Sep 2026 13:48:17 -0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "c9e8f881023b8b7d42c587fa6292b74f",
+      "title": "The Best Contemporary Classical Music on Bandcamp, August 2026",
+      "link": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-august-2026",
+      "summary": "Our guide to the month’s crucial contemporary classical releases. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 03 Sep 2026 13:48:11 -0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "29c6a266a475f92c4e870253c1cb81c3",
+      "title": "Cyst, “ᲘᲘ”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/cyst-ee-ee-review",
+      "summary": "The duo of Iglooghost and daisy* develop experimental hip-hop and club music into a timely caricature of everyday life in the UK. Read full story on t...",
+      "published": "Thu, 03 Sep 2026 13:48:06 -0000",
+      "fetched_at": "2026-09-03T18:59:43.571734+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-03T14:01:01.670469+00:00"
+  "updated_at": "2026-09-03T18:59:43.571734+00:00"
 }

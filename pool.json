@@ -29,7 +29,117 @@
       "fetched_at": "2026-09-04T20:05:26.322636+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "feb022f5db3b1edf2561d3533323cf6d",
+      "title": "AppleがOpenAIとの企業秘密侵害訴訟で元従業員のMacBookから衝撃的な証拠を発見 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260901-apple-reveals-shocking-evidence-openai-suit/",
+      "summary": "さらっと書かれてるけど「AppleはこのMacBookをフォレンジックし、削除されたデータを復旧」ってことは、macOSは工場出荷状態にリセットしてもデータ抜き出せるってこと？おいおいおいおい",
+      "published": "04 Sep 2026 23:30 +0000",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3e2f2da19b1dcbeb5e6fea6897f45ed",
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "summary": "Article URL: https://www.statichost.eu/ Comments URL: https://news.ycombinator.com/item?id=49569896 Points: 130 # Comments: 41",
+      "published": "Fri, 04 Sep 2026 20:34:49 +0000",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "98f52d5492702a4c4cc1241cf120ce76",
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "summary": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/ Comments URL: https://news.ycombinator.com/item?id=49569366 Points: 126 # Comm...",
+      "published": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e881a448cf874079ea6e558b20f384a4",
+      "title": "The Rust React Compiler is now native in Vite",
+      "link": "https://blog.master.dev/react-now-rusted-all-the-way-out/",
+      "summary": "Article URL: https://blog.master.dev/react-now-rusted-all-the-way-out/ Comments URL: https://news.ycombinator.com/item?id=49567873 Points: 100 # Comme...",
+      "published": "Fri, 04 Sep 2026 17:49:09 +0000",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b9789562e91a342e9c54daa476a0592",
+      "title": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/",
+      "summary": "Partner Revenue Measurement User Agent string now supports additional AWS services. Partner Revenue Measurement allows Partners to better understand t...",
+      "published": "Mon, 31 Aug 2026 22:00:00 GMT",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ed1a86f46c4bea7dde53edf6c7dc888",
+      "title": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces",
+      "summary": "Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dim...",
+      "published": "Fri, 28 Aug 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b189a470a284a52e6d767a3fade0e59",
+      "title": "AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避",
+      "link": "https://karapaia.com/archives/626046.html",
+      "summary": "AI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザイン。 この画像を大きなサイズで見るimage credit:Simon Weckert しかしこのシャツ「デジタル・カモフラージュ（Digital Cam...",
+      "published": "2026-09-04T09:19:52Z",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbeeef791205cd07ada087dc1181dd0f",
+      "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
+      "link": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
+      "summary": "Microsoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産性向上にはつながりにくいとして、仕様を開発全体の共通基準にする「仕様駆動開発(SDD)」の取り組みを公開しました。AIにコードを書かせる前に「何を作るのか」...",
+      "published": "2026-09-04T07:07:18Z",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2faebcac983512ecfda71e2a3c756cc5",
+      "title": "エンジニアが納得感があるファシリテーションとは１",
+      "link": "https://zenn.dev/daigo428/articles/5ea18e5fe04ed1",
+      "summary": "はじめに 「エンジニアのための納得感を高めるファシリテーション実践講座」というものに参加しました。3回に分けて開催され今回が１回目でオンラインでした。 有料のセミナーは新卒の時の研修以来、受けたことがなかったので緊張とわくわくがありました。また、自社のスクラムマスターもこの講師に学んだそうで、その考...",
+      "published": "2026-09-03T16:20:35Z",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b117ad02a8ffa87c1164d721e9ae178d",
+      "title": "Windows 11のセキュリティ機能「メモリ整合性」、2026年10月から自動で順次有効化／必要な場合は「VBS」もあわせて有効化",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2138162.html",
+      "summary": "",
+      "published": "2026-09-04T08:40:30Z",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2f90738308065a1ba5012386ded5974",
+      "title": "Throng, a 3D BlueSky interface, imagines social media as a mob",
+      "link": "https://cdm.link/create-digital-mobs/",
+      "summary": "You're just relaxing by a peaceful campfire. You hear voices in the distance. Then, like a really chatty zombie invasion... they come. And keep coming...",
+      "published": "Fri, 04 Sep 2026 22:09:27 +0000",
+      "fetched_at": "2026-09-04T23:35:26.919542+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-04T22:08:40.767029+00:00"
+  "updated_at": "2026-09-04T23:35:26.919542+00:00"
 }

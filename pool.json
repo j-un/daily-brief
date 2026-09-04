@@ -1329,7 +1329,117 @@
       "fetched_at": "2026-09-04T20:05:26.322636+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "5552316f3c7521463b257a75c777ce4e",
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "summary": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead Comments URL: https://news.ycombi...",
+      "published": "Fri, 04 Sep 2026 18:50:28 +0000",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81dc426103a86749a348a862b32e173b",
+      "title": "Ok, but does it scale?",
+      "link": "https://spacetimedb.com/blog/how-does-spacetime-scale",
+      "summary": "Article URL: https://spacetimedb.com/blog/how-does-spacetime-scale Comments URL: https://news.ycombinator.com/item?id=49563772 Points: 102 # Comments:...",
+      "published": "Fri, 04 Sep 2026 12:42:08 +0000",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d701dcd984f70bf2bbc778b0dc71723b",
+      "title": "Amazon EC2 now supports specifying compatible instance types on AMIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances",
+      "summary": "Amazon EC2 now enables AMI owners to define which instance types are compatible with their AMIs. Owners can specify supported instance types, unsuppor...",
+      "published": "Fri, 04 Sep 2026 19:26:00 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f9d69c0365cb4e7179182aa5ef98eabb",
+      "title": "Amazon ECS introduces Early Success Criteria for service deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports Early Success Criteria for rolling service deployments, giving you the flexibility to defin...",
+      "published": "Fri, 04 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "15dab48d92c442223df228742d117564",
+      "title": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/",
+      "summary": "Amazon SageMaker AI now supports Amazon EC2 G6e instances for batch transform. Batch Transform enables you to run predictions on datasets stored in Am...",
+      "published": "Fri, 04 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8440388bacd771ffeaa33229e1678c2d",
+      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/09/03/200000",
+      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffec...",
+      "published": "2026-09-04T18:45:45Z",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f73a0c75d0827781117086f37410ea7f",
+      "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
+      "link": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
+      "summary": "結論 Windows から WSL2 を常用しているなら、ターミナルは noctty を勧めます。 Windows ネイティブとしての作り込みが厚い。既定ターミナル登録、エクスプローラのコンテキストメニュー、ジャンプリスト、セッション復元、名前付きレイアウト、Quick select、省電力レンダリ...",
+      "published": "2026-09-04T09:19:05Z",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4fa03ba176d70073f6343da98cc3bba",
+      "title": "[アップデート] Amazon SES で S/MIME 署名が使えるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-ses-supports-smime-signing/",
+      "summary": "[アップデート] Amazon SES で S/MIME 署名が使えるようになったので試してみた",
+      "published": "Fri, 04 Sep 2026 22:03:14 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2a73a9b73e507730242b76b9a447665",
+      "title": "東京リージョンで利用可能になった EC2 C9gインスタンスのCPU、CloudTrail情報を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-c9g-graviton5-tokyo-launch/",
+      "summary": "EC2 C9g・C9gdインスタンス（AWS Graviton5）がap-northeast-1（東京）を含む4リージョンで利用可能になりました。CloudTrailで起動を確認し、OSコマンドで取得したCPU情報がM9gと一致することを確認しました。Pricing APIで取得した東京リージョンの...",
+      "published": "Fri, 04 Sep 2026 21:49:37 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f548c948c779ba7a19f1fb88a7d31fc5",
+      "title": "Status Check に失敗した EC2 を Lambda なしの Step Functions で自動復旧させてみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-auto-recovery-stepfunctions-lambdaless/",
+      "summary": "EC2 Auto Recovery の対象外、または復旧に至らない場合に、手動で行う EC2 の Stop/Start と復旧確認を Lambda を使わずに自動化する仕組みを作りました。CloudWatch アラーム、EventBridge、Step Functions、SNS を使い、FIS で...",
+      "published": "Fri, 04 Sep 2026 20:41:45 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fae6ea741de8f6e4f0b16d7c2d9e44ff",
+      "title": "東京リージョンで利用可能になった EC2 M9gインスタンス（Graviton5）でCPU情報を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-m9g-graviton5-tokyo-launch/",
+      "summary": "EC2 M9g・M9gdインスタンス（AWS Graviton5）がap-northeast-1（東京）を含む4リージョンで利用可能になりました。北米GA時と同じOSコマンドで確認したCPU情報はすべて一致しました。Pricing APIで取得した東京リージョンの料金と、m8gとの世代間の料金差もあ...",
+      "published": "Fri, 04 Sep 2026 20:34:30 GMT",
+      "fetched_at": "2026-09-04T22:08:40.767029+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-04T20:05:26.322636+00:00"
+  "updated_at": "2026-09-04T22:08:40.767029+00:00"
 }

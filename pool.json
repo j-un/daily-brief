@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "039d3ad95c051dd95686551eaba21b9e",
-      "title": "Amazon CloudWatch agent adds support for journald logs",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/",
-      "summary": "AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to r...",
-      "published": "Fri, 28 Aug 2026 16:00:00 GMT",
-      "fetched_at": "2026-09-03T02:19:00.721686+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "e67830e9f1677f394e998d172cc30829",
       "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
@@ -279,7 +269,397 @@
       "fetched_at": "2026-09-04T02:14:19.471642+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "e8c78c3cdefa4614560b46bdf4fe5e0c",
+      "title": "GLP-1s are being linked to fewer serious infections, including TB",
+      "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+      "summary": "https://web.archive.org/web/20260903235256/https://gizmodo.c... Comments URL: https://news.ycombinator.com/item?id=49558086 Points: 105 # Comments: 56",
+      "published": "Thu, 03 Sep 2026 22:37:31 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d88bb5bab6e499ad1511cf85dc5da409",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "summary": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install Comments URL: https://news.ycombinator.com/item?id=49557206 Points: 201 # Co...",
+      "published": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22bbec99bcb30a53af39b3a317b3aeb7",
+      "title": "The asteroid currently hitting front end web development",
+      "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
+      "summary": "Article URL: https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/ Comments URL: https://news.ycombinator.com/it...",
+      "published": "Thu, 03 Sep 2026 19:17:24 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e99b78fee285777f3a9683e60870f72",
+      "title": "120 days until Google restricts side-loading, declaring war on Android freedom",
+      "link": "https://tuta.com/blog/android-side-load-apps-google",
+      "summary": "Article URL: https://tuta.com/blog/android-side-load-apps-google Comments URL: https://news.ycombinator.com/item?id=49554372 Points: 130 # Comments: 3...",
+      "published": "Thu, 03 Sep 2026 18:24:37 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa5f300021ea52c454800b9ff11937ab",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "link": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "summary": "Article URL: https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent Comments URL: https://news.ycombinat...",
+      "published": "Thu, 03 Sep 2026 17:10:06 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b05bfb0ef3c6fc83480ea550a4313118",
+      "title": "NatWest が Amazon Connect Customer で実現したマルチリージョンレジリエンス",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-natwest-built-multi-region-resilience-with-amazon-connect-customer/",
+      "summary": "英国最大級の銀行 NatWest Group が Amazon Connect Customer Global Resiliency (ACGR) と Amazon Lex Global Resiliency を導入し、単一リージョンのコンタクトセンターから、完全なアクティブ-アクティブのマルチリー...",
+      "published": "Fri, 04 Sep 2026 07:33:09 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c81cc7c358a2b3bfa5e5b4abe1019f2",
+      "title": "構造化されたビジネスロジックとエージェンティック AI を組み合わせ、心地よい会話体験を届ける",
+      "link": "https://aws.amazon.com/jp/blogs/news/blend-structured-business-logic-with-agentic-ai/",
+      "summary": "Amazon Connect Customer で一般提供が始まった agentic CX designer を使い、会話とビジネスルールを 1 つのキャンバスで扱う方法を紹介します。柔軟さが必要な部分はエージェンティック AI が担い、本人確認やクレジットの適用可否は決定論的なステップで固定します...",
+      "published": "Fri, 04 Sep 2026 06:59:27 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "216e3805dd2de95d1fe5046d668b1d29",
+      "title": "AWS Modular Data Center のデプロイ: 発注から配送、設置まで",
+      "link": "https://aws.amazon.com/jp/blogs/news/deploying-aws-modular-data-center-from-ordering-to-delivery-and-installation-jp/",
+      "summary": "AWS Modular Data Center (MDC) は、ICD-705準拠のSCIF要件を満たし、最高機密(TS/SCI)レベルの情報も扱えるデータセンターを現地に迅速展開できるサービス。発注から設置までを6ステージで解説します。",
+      "published": "Fri, 04 Sep 2026 06:55:13 +0000",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcbc2e9611069e7fc9c8fb8eb4345492",
+      "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001163/",
+      "summary": "三省堂書店池袋本店は9月4日、2026年12月31日に閉店すると発表した。全館の閉店に先立ち、10月4日に地下1階と1階の「書籍館」を閉鎖する。Xには作家や利用者から惜しむ声が多数投稿されている。 池袋本店は、西武池袋本店にあったリブロ池袋本店の閉店に伴い、2015年に同じ場所で開店。現在は別館地下...",
+      "published": "2026-09-04T03:13:28Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8c06f3270de0458fc1883eda2834a29",
+      "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+      "summary": "RIZAPグループは9月3日、子会社RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたとして謝罪した。件数は明らかにしていない。 AI運営事業者に照会したところ、個人を特定できる情報を含むファイルはモデルのトレーニン...",
+      "published": "2026-09-04T03:04:47Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed9589dbd0da5b737ea9d7bdbf8949d6",
+      "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
+      "summary": "35年間未解決だった「RSA-260」の素因数分解に成功した――Xに130ケタの数と「divides RSA-260」（RSA-260を割り切る）の一言だけを添えた9月3日付の投稿に、世界中から注目が集まっている。 論文や記者会見ではなく、Xの1つのポストで、第三者も検証可能な形で発表されたことに世...",
+      "published": "2026-09-04T01:45:25Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "551e7913d04612b91f8f1739e0e2b94e",
+      "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
+      "summary": "東大・松尾研発のAIスタートアップELYZAが9月3日に発表した特許取得のプレスリリースについて、「AIでアプリを作る仕組みそのものを権利化したのか」「新規性がないのでは」などとX上で批判が相次いだ。 これを受けて同社はその後、リリースを修正し、Xで謝罪した。「生成AIによるプロンプト作成やAIアプ...",
+      "published": "2026-09-04T04:16:16Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "845396e002bbd4f8e6a70770115a8fee",
+      "title": "アンソロピックのAI学習向け書籍販売、日販が契約 米出版取次は拒否",
+      "link": "https://business.nikkei.com/atcl/gen/19/00845/090300011/",
+      "summary": "出版取次大手の日販が、米新興人工知能（AI）企業のアンソロピックに対し、大量の書籍を販売する契約を行っていたことが米国の裁判資料から判明した。アンソロピックなどAI企業は書籍を購入し、それを裁断してスキャン、電子データ化した上でAIの学習に利用していることが明らかになっている。日販はアンソロピックに...",
+      "published": "2026-09-03T22:25:55Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dda6874f41abbb00e1f752805de2c445",
+      "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/09/04/140000",
+      "summary": "https://x.com/Only1Yori/status/2093633519801258278 「川上芳明 #日本共産党推し@Only1Yori」というアカウントが投稿した古謝玄太応援ポスターという投稿が拡散してて、ただこの投稿自体には「ソース」が提示されていないという欠点があった。そしたら「...",
+      "published": "2026-09-04T05:47:33Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e81c65754e6833ecc119a8d11be847c6",
+      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開",
+      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
+      "summary": "「Ollama」や「LM Studio」といったツールを使って、ローカル環境でAIに推論タスクを実行させるにあたり、ネットワーク上にいる互換性のあるPCを検出して接続し、連携してタスクに参加させることができる仮想推論ルーター「PAIR(Personal AI Router)」をNVIDIAが公開しま...",
+      "published": "2026-09-04T04:02:26Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "16916a109b11a380f1cc485ea961357d",
+      "title": "MAI-Transcribe-2 is the fastest, most accurate and cheapest speech recognition model in the world | Microsoft AI",
+      "link": "https://microsoft.ai/news/mai-transcribe-2-is-the-fastest-most-accurate-and-cheapest-speech-recognition-model-in-the-world/",
+      "summary": "Introducing MAI‑Transcribe‑2. It’s not only our most capable transcription model yet, but the most capable and efficient amongst our competitors. With...",
+      "published": "2026-09-04T05:04:36Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5f93f7e8f2383c032336158acd16646",
+      "title": "Microsoftが文字起こしAI「MAI-Transcribe-2」をリリース、Gemini 3.5 Transcribeより5倍高速＆GPT-Transcribeより10倍高速",
+      "link": "https://gigazine.net/news/20260904-mai-transcribe-2/",
+      "summary": "60の言語を自動で検知して文字起こしするという音声認識モデル「MAI-Transcribe-2」をMicrosoftがリリースしました。OpenAIやGoogleの最新モデルより高性能かつ高速なことがアピールされています。 MAI-Transcribe-2 is the fastest, most ...",
+      "published": "2026-09-04T03:17:41Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4393b6fc6717492694f71bcfa43773de",
+      "title": "AI compiler に向けたとりくみ｜株式会社Preferred Networks",
+      "link": "https://www.preferred.jp/ja/blog/tech/towards-ai-compiler",
+      "summary": "はじめに猫も杓子もAI agentの話をしていますね、私もそんな感じです。 私はこれまで、MN-Core™向けコンパイラを開発してきました。最近は、AI agentがモデルをMN-Core向けにコンパイル・最適化する「AI compiler」の実現に取り組んでいます。ここでいうAI compiler...",
+      "published": "2026-09-04T05:47:32Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d05db67d3c499283376f41a353978c11",
+      "title": "【資料公開】生成AIでスクラムによる開発はどう変わるか（2026年9月版）",
+      "link": "https://www.ryuzee.com/contents/blog/14625",
+      "summary": "みなさんこんにちは。@ryuzeeです。 10月から毎週火曜日の稼働に空きがでました。技術顧問やプロダクト開発支援を承りますので、興味があればお気軽にお問い合わせください。 2026年9月3日に、ぼくが所属する株式会社アトラクタが主催するイベント「Attractor Talks Reloaded」で...",
+      "published": "2026-09-04T00:09:30Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3539f333edbb52ae0a29665dfe082665",
+      "title": "OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001153/",
+      "summary": "米OpenAIは9月3日（現地時間）、新モデル「GPT-6 Astra」を公開した。同社は「世界で最も知的で、最もアラインメントの取れたモデル」と位置付けている。同日から一部の組織への提供を開始し、数日中にChatGPTのPlus、Pro、Business、Enterpriseの各プラン、OpenA...",
+      "published": "2026-09-04T02:04:15Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9964fe620fb6d7093f591bb2629c93b5",
+      "title": "監視機器の自動更新で起きた市立奈良病院のシステム障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/04/104347",
+      "summary": "2026年4月、奈良市は、市立奈良病院でネットワーク監視装置が異常な通信を検知したことを受け電子カルテなどをネットワークから切り離し、外来診療や救急の受け入れを制限したと公表しました。発生当初は外部からのサイバー攻撃の疑いが示されていましたが、市が設置した専門家会議による検証の結果、8月31日、サイ...",
+      "published": "2026-09-04T02:02:08Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fe565babced96e1d0e71f55923f9ad0",
+      "title": "Adobe Audition Sound Effects",
+      "link": "https://www.adobe.com/products/audition/offers/adobeauditiondlcsfx.html",
+      "summary": "ADOBE AUDITION Download Sound Effects Adobe® Creative Cloud® software includes thousands of uncompressed, royalty-free audio sound effects. These file...",
+      "published": "2015-12-08T10:40:29Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "543fd0fb80c754b2736ee83566b89fbb",
+      "title": "とにかく「データが足りない」フィジカルAI AWS支援プログラム採択各社が示す突破口",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
+      "summary": "「まずデータが足りない。全世界どこを見渡してもデータがない」――アマゾンウェブサービスジャパン（以下、AWSジャパン）が8月31日に開催した「フィジカルAI開発支援プログラム」の成果報告会で、採択企業の一つであるHighlanders（東京都豊島区）の増岡宏哉CEOはこう訴えた。 同プログラムは、ロ...",
+      "published": "2026-09-04T02:13:58Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "60c481b9f938ac2d4a2f602ec188d12e",
+      "title": "エンジニア面接で「開発力」を見るために聞いていること",
+      "link": "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/",
+      "summary": "こんにちは！AnotherBall Avvy事業部でテックリード 兼 技術責任者をやっている @fortkle です。普段はプロダクト開発をしつつ、サーバーサイドエンジニアの一次面接も担当しています。 最近、その面接で使っている質問の聞き方を少し変えました。大きく面接プロセスを変えたわけではなく、こ...",
+      "published": "2026-09-04T04:12:31Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3d2164257ddfd6a58dcf9f6db753380",
+      "title": "わずか3サイトが「おすすめソフト」ページを21万5128件生成、AI検索を支える情報源の59.8％は人気上位10万サイト外との調査結果",
+      "link": "https://gigazine.net/news/20260903-perplexity-source-behind-ai/",
+      "summary": "AI検索サービスのPerplexityがソフトウェアを推薦する際に参照した情報源を調べたところ、引用先の59.8％が人気サイトランキングで上位10万サイトの圏外にあるドメインだったことが分かりました。さらに、共通運営の可能性が指摘された3サイトが合計21万5128件もの「おすすめソフトウェア」ページ...",
+      "published": "2026-09-03T13:17:42Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d2e38bfb8c8653734307cf69b53596b",
+      "title": "Bet AI Day 2026丨How We Bet AI: AIとともに働く場をつくる",
+      "link": "https://speakerdeck.com/layerx/bet-ai-day-2026-session08",
+      "summary": "2026年9月3日に開催されたイベント「Bet AI Day 2026」における登壇資料です。 ■ 概要 世はまさに大AIエージェント時代！！！私たちは、プロダクトを通したAIエージェントの社会実装と、社内利用を通した私たち自身への実装を両面で進めています。この発表では、主に社内利用のためのプラ…",
+      "published": "2026-09-03T13:23:19Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31a82f7982a419c6038823b5eb1737dd",
+      "title": "テスト見積もりは掛け算2つで出せる",
+      "link": "https://zenn.dev/bitkey_dev/articles/test-estimation-formula",
+      "summary": "「だいたい○○ケースくらいですかね」の正体 テスト計画でスケジュールを立てるとき、テストケース数の見積もりはどうやっているだろうか。 正直なところ、多くの現場では「前回と同じくらいの規模感だから○○ケースくらい」「経験的にこの手の機能なら△△ケース」という見積もりが主流だと思う。自分もそうだった。 ...",
+      "published": "2026-09-02T02:58:46Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92b55bc798c489a1882c77feb7febdef",
+      "title": "月間はてなブックマーク数ランキング（2026年8月） - はてなブックマーク開発ブログ",
+      "link": "https://bookmark.hatenastaff.com/entry/2026/09/04/122742",
+      "summary": "はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。2026年8月のトップ50です*1。 順位 タイトル 1位 (追記あり)年間100回以上映画館に通う俺が選ぶ「これ観てない奴とは正直、映画の話をしたくない」20選 2位 チャンスは、変な顔をしてやってくる｜...",
+      "published": "2026-09-04T03:28:50Z",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3a9dff530f537baa3279ee12dacc5c5",
+      "title": "[Typescript] Lambda SnapStart がコンテナイメージに対応したので試してみた [Rust]",
+      "link": "https://dev.classmethod.jp/articles/lambda-snapstart-container-benchmark/",
+      "summary": "[AI要約] AWS Lambda SnapStart がコンテナイメージに対応。Rust・Node.js での実測結果から、Init 2秒以上で 68から90%以上 の cold start 削減を確認",
+      "published": "Fri, 04 Sep 2026 07:41:43 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c39ddecbb0fa6822a699c51cb786af90",
+      "title": "AWS Deadline Cloud で Arnold の UBL 利用を確認する〜ジョブの SUCCEEDED だけでは判断できなかった話〜",
+      "link": "https://dev.classmethod.jp/articles/deadline-cloud-arnold-ubl-license-verification/",
+      "summary": "AWS Deadline Cloud の Customer-Managed Fleet で Arnold ジョブが成功しても、UBL ライセンスを利用できたとは限りません。CloudWatch の LicensesInUse やセッションログ、出力画像など諸々を照合したうえで成否を確認する必要があり...",
+      "published": "Fri, 04 Sep 2026 07:16:20 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd96bc62a0df75ccfb3f192587de2dbf",
+      "title": "【アップデート】AWS DevOps Agent の Slack連携に双方向コミュニケーション機能が追加されました",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-slack-bidirectional-communication/",
+      "summary": "AWS DevOps Agent の Slack連携に双方向コミュニケーション機能が追加されました。これまでの一方向のメッセージ送信から、Slackチャンネル上で @メンション することで DevOps Agent と対話的にやり取りできるようになったので、さっそく試してみました。",
+      "published": "Fri, 04 Sep 2026 06:33:50 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ae96637bf0fc485c11497d386e04674",
+      "title": "온프레미스 VM을 AWS로 옮길 때 확인해야 할 것들",
+      "link": "https://dev.classmethod.jp/articles/check-when-migration-on-premises-vm-to-aws-kr/",
+      "summary": "온프레미스에서 AWS로의 마이그레이션을 계획할 때, 서버를 통째로 옮길지 데이터만 옮길지부터 결정해야 합니다. 이 글에서는 상황별 마이그레이션 방식과 각 서비스의 특징, 그리고 놓치기 쉬운 라이선스 문제까지 정리해보겠습니다.",
+      "published": "Fri, 04 Sep 2026 05:33:34 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e999ca5c71fda842f19d366eee90f02",
+      "title": "Athena で CloudTrail ログ（S3 データイベント）を直接クエリして、IAM ユーザーやロールが操作したオブジェクトを特定する",
+      "link": "https://dev.classmethod.jp/articles/aws-athena-cloudtrail-query-s3-dataevent/",
+      "summary": "CloudTrail の S3 データイベントを Amazon Athena で直接クエリし、特定の IAM エンティティがどのオブジェクトに対してどの操作を行ったかを特定する方法を解説します。IAM Access Analyzer のポリシー生成ではデータイベントを扱えないため、データイベントまで...",
+      "published": "Fri, 04 Sep 2026 04:43:01 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "25ef94c38f640522646c4fe87d714f49",
+      "title": "【PostgreSQL】SELECT結果がshared_buffers / OSキャッシュ / ディスクのどこから来ているか実行時間で検証してみた",
+      "link": "https://dev.classmethod.jp/articles/postgresql-shared-buffers-os-cache-disk-verification/",
+      "summary": "PostgreSQL の shared_buffers、OS メモリキャッシュ、実ディスクの3層構造における実行時間の差を、実際の検証を通じて確認してみました。",
+      "published": "Fri, 04 Sep 2026 04:39:58 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "22f3207d680fff904058f53956a6864d",
+      "title": "Claude Code v2.1.259〜v2.1.260 の主要アップデート - 差分パネルの追加と権限ルールのセキュリティ修正",
+      "link": "https://dev.classmethod.jp/articles/20260904-cc-updates-v2-1-260/",
+      "summary": "Claude Code v2.1.259と260の2つのリリースで100件超の変更が入りました。権限ルール周りの重要な修正が多いほか、会話の横で差分を確認できる新しいパネルも登場しています。本日は、差分パネル（`/diff`）を試してみました。",
+      "published": "Fri, 04 Sep 2026 04:17:03 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cc677489878c684469dd64997ebc389",
+      "title": "うっかりBacklog MCP Server経由で別プロジェクトに課題を登録しないようにhooksでガードレールを設定してみた",
+      "link": "https://dev.classmethod.jp/articles/backlog-add-issue-guardrail-by-hooks/",
+      "summary": "AIの意図せぬ挙動によってインシデントが発生しないようにhooksを設定してみました。 Backlog MCP Serverのadd_issueを題材にしていますが、考え方は他のMCP Server/ツールにも応用可能です。",
+      "published": "Fri, 04 Sep 2026 04:09:25 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "40a09cd86e8e2ff398749ff52557f180",
+      "title": "UIレビューを楽にするためにPR作成をトリガーにしたStorybookをS3 + CloudFrontへ自動デプロイの仕組みを作った",
+      "link": "https://dev.classmethod.jp/articles/storybook-pr-preview-github-actions-s3-cloudfront/",
+      "summary": "PR作成をトリガーにStorybookをS3 + CloudFrontへ自動デプロイし、PRコメントのURLを開くだけでUIを確認できるようにした仕組みを紹介します。",
+      "published": "Fri, 04 Sep 2026 02:56:50 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "21ecb7de527d12a5f9eb4e40c47516cf",
+      "title": "Spot VM を実際に動かしてプリエンプトされるまで観測してみた",
+      "link": "https://dev.classmethod.jp/articles/google-cloud-spot-vm-preempt/",
+      "summary": "Google Cloud の Spot VM は低価格が魅力ですが、プリエンプションのタイミングは予測できません。今回、同じ構成の Spot VM を 3 回作成し、プリエンプションされるまでの稼働時間を実際に計測してみました。",
+      "published": "Fri, 04 Sep 2026 02:31:09 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9129ef1f2854642ce659e3a03dd7d391",
+      "title": "Copilot Studio × Power Automateで品質検査業務を自動化できるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/copilot-powerautomate/",
+      "summary": "OneDriveに置いた品質検査記録のPDFをPower Automateで1枚ずつ読み取り、Excelの判定基準と機械的に突き合わせて、Copilot Studioのエージェントがロット単位の総合判定を返す、という仕組みを作ってみました。AI Builderで文字を読み取ってJSON化するところま...",
+      "published": "Thu, 03 Sep 2026 02:30:06 GMT",
+      "fetched_at": "2026-09-04T08:21:01.027581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-04T02:14:19.471642+00:00"
+  "updated_at": "2026-09-04T08:21:01.027581+00:00"
 }

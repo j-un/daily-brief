@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e67830e9f1677f394e998d172cc30829",
-      "title": "AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/",
-      "summary": "AWS announces the public preview of AWS Interconnect — multicloud with Microsoft Azure. Customers have been adopting multicloud strategies while migra...",
-      "published": "Mon, 31 Aug 2026 15:00:00 GMT",
-      "fetched_at": "2026-09-03T22:56:48.837825+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
-      "entry_id": "60b56c720cff47f46f565d61ff55bcb2",
-      "title": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables",
-      "summary": "Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Ama...",
-      "published": "Fri, 28 Aug 2026 23:34:00 GMT",
-      "fetched_at": "2026-09-03T22:56:48.837825+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "561ea3ef59ff3dc111df639ef592ee6e",
       "title": "Amazon Quick now lets you build custom apps with natural language -",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
@@ -269,7 +249,327 @@
       "fetched_at": "2026-09-05T02:14:58.275840+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "7a17ed67d73497e0b44fc489ad87061a",
+      "title": "吉羽龍太郎さんに聞く、ステークホルダーとの信頼を築く方法 - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2026/08/27/103000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「実物があるから、関係が作られる」──吉羽龍太郎さんに聞く、ステークホルダーとの信頼を築く方法",
+      "published": "05 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "627533bbf882b325bc3d812f39353db7",
+      "title": "Happy 20th Birthday, Amazon EC2 | AWS News Blog",
+      "link": "https://aws.amazon.com/jp/blogs/aws/happy-20th-birthday-amazon-ec2/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Happy 20th Birthday, Amazon EC2 | Amazon Web Services",
+      "published": "05 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23fd80ee52affeebf7386c24ef553a7b",
+      "title": "Introducing Gemini 3.5 Transcribe",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Intelligent transcription with Gemini 3.5 Transcribe",
+      "published": "05 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58be3312c478c194fa863dbc957e2454",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "published": "05 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d984f00aaec26dfbfb2930d4c1e2015",
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cvgyn8q8gqxo Comments URL: https://news.ycombinator.com/item?id=49573455 Points: 107 # Comments: 137",
+      "published": "Sat, 05 Sep 2026 05:52:09 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "378de4cf5f7667a2223394f83f28d509",
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "summary": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances Comments URL: https://news.ycombinator.com/item?id=49571634 Points: 152 # Comments: ...",
+      "published": "Sat, 05 Sep 2026 00:04:16 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a163c1de3d5bc8ed468d9faabd4bfc3",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "link": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "summary": "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2 Comments URL: https://news.ycombinator.com/item?id=495...",
+      "published": "Sat, 05 Sep 2026 00:04:14 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4e6c40d4c43dbc637d6ec5d26240925",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.co...",
+      "published": "Fri, 04 Sep 2026 23:38:50 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48865e804c098e06c7effcb18b05fda5",
+      "title": "Fermat's Last Theorem in Lean 4",
+      "link": "https://github.com/anthropics/fermats-last-theorem",
+      "summary": "Article URL: https://github.com/anthropics/fermats-last-theorem Comments URL: https://news.ycombinator.com/item?id=49568697 Points: 100 # Comments: 19",
+      "published": "Fri, 04 Sep 2026 18:57:32 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8575601756c788ee17c5bf1e602e7905",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
+      "link": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "summary": "Article URL: https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html Comments URL: https://news.ycombinator.com/item?id=49567310 Points: ...",
+      "published": "Fri, 04 Sep 2026 17:09:24 +0000",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87c4e51f6fdf9e291fb2e9b4cf00ff57",
+      "title": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Auror...",
+      "published": "Thu, 03 Sep 2026 16:01:00 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef484a7fda19cac32f3f6bdad2a0c690",
+      "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
+      "link": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
+      "summary": "あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings....",
+      "published": "2026-09-05T03:06:41Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "df6d8a2504f166d96ef4eb8542e1c314",
+      "title": "エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく",
+      "link": "https://speakerdeck.com/gimupop/pdeconfarence",
+      "summary": "エンジニアリングは、 どこまで拡大解釈できるか 「一人でもプロダクトが作れるこの時代に、 私は、あなたとプロダクトを作りたいのです」 と言われるために心技体を繋いでいく",
+      "published": "2026-09-05T03:23:14Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a20f018b4136d2564f12ce528fb69f26",
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "link": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "summary": "米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回...",
+      "published": "2026-09-05T04:25:07Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25e1f2113e8b9829a23745c3ca3e2282",
+      "title": "【実験】ECSのサービス間を繋ぐ6つの繋ぎ方、実際どれくらい速さが違うのか - Qiita",
+      "link": "https://qiita.com/sh_fukatsu/items/524a76ad04930e774829",
+      "summary": "1. はじめに 先日、JAWS-UGコンテナ支部×NW-JAWSのコラボイベント「コンテナネットワークを学ぼう！！」会に参加し、ECS Service ConnectとVPC Latticeをハンズオンで実際に構築してきました。 ハンズオンでは各サービスを実際に動かすところまで体験できました。一方で...",
+      "published": "2026-09-03T22:33:33Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0abb9dbc083bbf179d1872ecdcbe510b",
+      "title": "中国AI、低料金競争止まらず 智譜はDeepSeekの7割安モデル - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGM038X50T00C26A9000000/",
+      "summary": "【広州=藤野逸郎】中国の人工知能（AI）企業が格安料金のAIモデルを投入している。米国AIに比べもともと安かったがさらに安い。高いシェアを握ってきた中国AI新興、DeepSeek（ディープシーク）が8月中旬に大幅値上げした間隙を突く狙いだ。8月20日、無名の格安AIモデル「Ox-Alpha」が突如登...",
+      "published": "2026-09-05T03:11:59Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b744ab010aa5f7b9e563fc6389ba0d09",
+      "title": "Power AutomateとPower Appsを活用し、セキュリティ担当者の月次確認業務を50％削減！ - Qiita",
+      "link": "https://qiita.com/AyakoYamada/items/bb7788d1db6df66446b4",
+      "summary": "はじめに セキュリティ担当者や情シスのみなさん、毎月の確認作業や未対応者へのリマインドに時間を取られていませんか？ 私たちの部門では、月次セキュリティチェックにおいて、セキュリティ担当者がまとめて複数の提出物や申請状況を確認し、未対応者へ個別にTeamsでリマインドする運用を行っていました。 その結...",
+      "published": "2026-09-05T02:26:27Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1c10deeef8fdea3c3e18dccbd0ee464",
+      "title": "AIエージェントの開発・提供におけるセキュリティリスクの論点と対策",
+      "link": "https://speakerdeck.com/flatt_security/security-risks-and-countermeasures-in-the-development-and-provision-of-ai-agents",
+      "summary": "2026年9月2日（水）開催「Product Security Square」に登壇した梅内のスライド資料です。 https://flatt.connpass.com/event/393895/",
+      "published": "2026-09-04T09:53:41Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef20154ce25ed1908c34ac3b6fc25c34",
+      "title": "[無料]登山チョットやってる筆者が見た富士登山2026｜松本圭司@ジオグラフィカ開発者",
+      "link": "https://note.com/keizi666/n/n55b21539abbf",
+      "summary": "こんにちは、ジオグラフィカ開発者の松本です。12年ぶりに富士山に登ってきたので、いろいろと感想を書いていこうと思います。 軽くプロフィール登山歴としては21年（大人になってから始めたので、50歳なのにまだ21年です）、登った最高峰はヨーロッパアルプスのモンブラン(4808m)で、クライミングとか沢登...",
+      "published": "2026-09-04T15:20:08Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7036feb3828d857d8ecc5f6e9dc1e48e",
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "summary": "We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof ...",
+      "published": "2026-09-04T18:57:19Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e160be580b5d5656c0c49311f73f6cc6",
+      "title": "LLMサービスからLLMプラットフォームへ：BizReachはいかにして本番AIを標準化したか",
+      "link": "https://engineering.visional.inc/blog/734/ai-platform-engineering-at-bizreach/",
+      "summary": "※この日本語記事は英語記事を元にClaudeを用いて翻訳したものをマネージャーがレビュー修正したものになります。 本番環境でのLLM開発は、どの会社でも似たような道をたどります。最初に動くプロトタイプは、多くの場合外部モデルのAPIを呼び出すだけの薄いラッパーです。しかし、本当の意味でのシステムが姿...",
+      "published": "2026-09-04T03:05:31Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ded727322cd3179ac4dd4ab9bbea3a8",
+      "title": "35年目の「Linux」--最初は違う名前だった？ 「ただの趣味で」とトーバルズ氏",
+      "link": "https://japan.zdnet.com/article/35251927/",
+      "summary": "1991年当時、「Unix」はx86向けOSとして重要ではあったが、主役ではなかった。同年8月25日、当時フィンランドの大学院生だったLinus Benedict Torvalds氏は、Usenetのニュースグループ「comp.os.minix」で、「386（486）AT互換機向けの（無償の）オペレ...",
+      "published": "2026-09-01T08:54:06Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c461e79db7a42f279d1fbda04c1642e5",
+      "title": "定番サウンドエディター「Audacity 4.0」、5年半ぶりのメジャーアップデート、UIを再構築、ASIOにビルトイン対応／プロジェクト形式は「.aup4」へ。一部「Audacity 3.x」機能は未実装な点に注意",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2138158.html",
+      "summary": "",
+      "published": "2026-09-04T10:56:26Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5992ae6a731fe15cd53ac1b97b81f3e",
+      "title": "Git の main ブランチを汚さない AI 振り返り台帳管理 - kawasin73のブログ",
+      "link": "https://kawasin73.hatenablog.com/entry/2026/09/02/125317",
+      "summary": "LLM に負けない。どうも、かわしんです。 先日の記事では /retrospective スキルを紹介しました。各セッションの終わりに実行して振り返りを行い、うまくいかなかったことや試行錯誤したことを AI ハーネス (スキルや Hooks など) を改善して進化させることで次回以降同じ失敗を繰り返...",
+      "published": "2026-09-02T11:37:00Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfe76749fb3e1105e380b7ab48bae37a",
+      "title": "ダイヤル式黒電話をスマホと同じようにどこでも通話可能にする試み",
+      "link": "https://gigazine.net/news/20260904-rotarycell/",
+      "summary": "ダイヤル式黒電話は昭和期には一般的な家庭なら普通に存在したものの今や見かけることも稀であり、往時を知るものにノスタルジーを感じさせるアイテムです。RotaryCellプロジェクトはそんな過去の遺物ともいえる黒電話を、改造なしでバッテリー駆動の携帯電話として使用できるようにする試みです。 fregac...",
+      "published": "2026-09-03T21:24:51Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42224612c8cacbb827002d5ff0ded3cf",
+      "title": "“ダサいスライド”を作れる「ダサスラ★メーカー」話題 虹色文字・点滅・ぐるぐる動く",
+      "link": "https://www.itmedia.co.jp/news/article/2609/04/2000001174/",
+      "summary": "虹色の文字に3D立体文字、爆発する吹き出し、そして3D円グラフ──かつてのプレゼン資料やホームページにありがちだった“全部盛り”のスライドを作れる無料のブラウザツール「ダサスラ★メーカー」が話題だ。デザイン事務所AMIX代表のグラフィックデザイナー、トミナガハルキさん（@asobodesign）が9...",
+      "published": "2026-09-04T06:00:27Z",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b0bf9c4e5450f145ea9055a717ed23b",
+      "title": "【Security Hub修復手順】[SecretsManager.2] 自動ローテーションを設定した Secrets Manager のシークレットは正常にローテーションする必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-secretsmanager-2/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Sat, 05 Sep 2026 06:39:27 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8f206ec08bea74f60df44cba4de3d7e",
+      "title": "AWS ParallelCluster の Slurm を CVE 対応の 25.11.8 にアップグレードしてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-parallelcluster-slurm-25-11-8-inplace-upgrade/",
+      "summary": "AWS ParallelCluster で Slurm の複数の CVE が報告されました。クラスターを作り直さずに対応する方法として、稼働中のシステムで Slurm 25.11.6 から 25.11.8 へのインプレースアップグレードを試してみました。",
+      "published": "Sat, 05 Sep 2026 06:35:28 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0922b354ef93fb805b6846aee2aa6b34",
+      "title": "NVIDIA Jetson で推論型モデルを現場へ届ける構成を考えてみた",
+      "link": "https://dev.classmethod.jp/articles/jetson-edge-reasoning-model-deployment/",
+      "summary": "Jetson で推論型モデルを現場に配置する考え方を、NVIDIA の公開資料から整理しました。量子化と投機的デコーディングの違い、Thor・AGX Orin・Orin Nano の選定、必要に応じた蒸留や映像認識の処理分担を解説し、実機未検証の設計例として品質と待ち時間の評価軸を示します。",
+      "published": "Sat, 05 Sep 2026 06:24:33 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "594bbf2bcb96cb72d0f0e665637d0d64",
+      "title": "Claude Code v2.1.261 の主要アップデート - /skill-doctor 追加と単語編集キーの Bash 準拠化",
+      "link": "https://dev.classmethod.jp/articles/20260905-cc-updates-v2-1-261/",
+      "summary": "Claude Code v2.1.261がリリースされました。入力処理やバックグラウンド実行の修正が中心ですが、新たに追加された `/skill-doctor` で未使用スキルとコンテキスト消費を可視化できるようになったので、実際に試してみた結果をまとめています。",
+      "published": "Sat, 05 Sep 2026 04:46:29 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "86b1660e8070a96c724ec80b09f1eedb",
+      "title": "[プレビュー] AWS Interconnect - multicloud で AWS と Microsoft Azure のネットワークを接続してみる",
+      "link": "https://dev.classmethod.jp/articles/aws-interconnect-multicloud-microsoft-azure-preview/",
+      "summary": "AWS と Azure を簡単に専用線で接続可能になったので試してみたら、Azure の設定で躓きました。。。。。。",
+      "published": "Sat, 05 Sep 2026 03:55:21 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9786ef962b05e774b3339d1fc35b43ac",
+      "title": "リージョナル NAT Gateway はどの AZ で課金されますか",
+      "link": "https://dev.classmethod.jp/articles/tsnote-regional-nat-gateway-eni-az-pricing/",
+      "summary": "リージョナル NAT Gateway の課金対象となるアベイラビリティーゾーン（AZ）を確認する方法について説明します。",
+      "published": "Sat, 05 Sep 2026 02:54:19 GMT",
+      "fetched_at": "2026-09-05T07:57:05.213598+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-05T02:14:58.275840+00:00"
+  "updated_at": "2026-09-05T07:57:05.213598+00:00"
 }

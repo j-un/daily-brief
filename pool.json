@@ -879,7 +879,517 @@
       "fetched_at": "2026-09-06T13:18:50.133047+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "9acb47f5a2222623c7ba32b2069fe160",
+      "title": "Pushin.eu — Git hosting that never leaves Europe",
+      "link": "https://pushin.eu/",
+      "summary": "何があってもEU内でホスティングすることを謳うGitホスティングサービス。GDPRもokと。AIによるクロールは禁止。現時点では招待制。",
+      "published": "06 Sep 2026 16:14 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bc8b908332da28567f7940242a9f767",
+      "title": ".gitignore everything by default - by Alex Pliutau",
+      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "summary": "これはこれでコミット漏れが発生して事故ると思う。要はgit commit -aでzenbu してgit statusで確認しないからまずいことになるんでしょ、とは思う",
+      "published": "06 Sep 2026 16:08 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f388d48dfc0d8139b9e291dc0a632b24",
+      "title": "LaTeXに漸進的型付けの概念を導入した実装らしい…",
+      "link": "https://github.com/camilochs/exacttex",
+      "summary": "LaTeXに漸進的型付けの概念を導入した実装らしい",
+      "published": "06 Sep 2026 16:03 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49a1e592e391de29c2b87ed7f34598e3",
+      "title": "deSEC – Free Secure DNS",
+      "link": "https://desec.io/",
+      "summary": "ベルリンにあるNPOが運営する無料のDNSホスティングサービス。DNSSECが自動適用されるらしい。",
+      "published": "06 Sep 2026 16:00 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "72739d38b2ecddfc6f21c0e0b095a0fb",
+      "title": "Using jq to format JSON on the clipboard | Blogmarks",
+      "link": "https://chris48s.github.io/blogmarks/posts/2021/jsontidy/",
+      "summary": "クリップボード上のjsonをpretty printしてクリップボードに再格納するコマンド(alias)の提案。なるほど？",
+      "published": "06 Sep 2026 15:50 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4772dfb666a02e113b2455ffd81750ad",
+      "title": "AI for Observability 〜SaaS各社が語る、AI機能の最前線〜 - connpass",
+      "link": "https://jaguer-o11y-sre.connpass.com/event/404129/",
+      "summary": "現地/オンライン",
+      "published": "06 Sep 2026 15:48 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e67cdaf492a4acd110e312826b19463c",
+      "title": "BPStudy#229〜Example駆動開発〜生成AIに規律を与えるソフトウェア開発 - connpass",
+      "link": "https://bpstudy.connpass.com/event/405352/",
+      "summary": "オンライン開催",
+      "published": "06 Sep 2026 15:47 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b184723b785a11627c49d058cf18b979",
+      "title": "Gitリポジトリからスライド資料(html/pdf/markdown)を自動生成…",
+      "link": "https://github.com/glukicov/slideops",
+      "summary": "Gitリポジトリからスライド資料(html/pdf/markdown)を自動生成するClaude Code向けAgent Skills。Gitリポジトリとスライド資料の乖離を自動で検知して更新する機能あり。",
+      "published": "06 Sep 2026 15:46 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a603e0cecb4f3ea0408c9bd31d42b1fc",
+      "title": "Encore.go入門：GoでAPI・サービス・DB・ローカル開発環境までまとめて扱う",
+      "link": "https://zenn.dev/nonejp/articles/0471de9f9acdaa",
+      "summary": "「APIだけでなく、サービス、データベース、Pub/Sub、Cron、Secrets、ローカル開発環境、ドキュメント生成、トレーシングまでをまとめて扱う「batteries included」寄りのフレームワーク」ほう",
+      "published": "06 Sep 2026 15:40 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd746271639772ce85ce6d1d590843ec",
+      "title": "Logstash代替のログストリーム加工アプリかな。GUIでパイプラインの調整が…",
+      "link": "https://github.com/link-society/flowg",
+      "summary": "Logstash代替のログストリーム加工アプリかな。GUIでパイプラインの調整が可能。Go実装。",
+      "published": "06 Sep 2026 15:39 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "842efcb27339e000f6a64abe1b47114d",
+      "title": "No AI Fridays",
+      "link": "https://noaifridays.com/",
+      "summary": "自身のスキルアップのため、毎週金曜はAIを使わずに自力で仕事に取り掛かろう運動のご提案。皆様",
+      "published": "06 Sep 2026 15:35 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "804d26b71c643c91d1931dd15ee350fe",
+      "title": "PostgreSQL on EC2 をサポートした CloudWatch Database Insights を試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-database-insights-self-managed-postgresql/",
+      "summary": "へー。課金はOpenTelemetryメトリクスとCloudWatch Logsの分。結果としてどれぐらいの費用になるのか気になるな。",
+      "published": "06 Sep 2026 15:32 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "efa04a5aedce2c8e8b0be8a8c2fa4fb4",
+      "title": "EKS のバージョンロールバックができるようになったので試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/eks-version-rollback-terraform/",
+      "summary": "「 7 日以内なら前のバージョンに戻せるように」ほほう",
+      "published": "06 Sep 2026 15:31 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0954ddf9f0558718696a2a9553927994",
+      "title": "WebMCPがアツいので見てほしい | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/webmcp-introduction/",
+      "summary": "「人間とAIが同じ画面を使える」ほう",
+      "published": "06 Sep 2026 15:30 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "096dd2f4970e5d5ceb119844e31b22d8",
+      "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260905-docubrowser/",
+      "summary": "「なお、DocuBrowserは現時点で日本語に正式対応しておらず、日本語の文書では期待通りの結果にならない場合があります」今後に期待",
+      "published": "06 Sep 2026 15:28 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47c3c5282bfbb5ce509fde432165e736",
+      "title": "Ankerがスマートホームハブ「MindBase」を発表、専用のAIチップと最大48TBのストレージを備えて独自ローカルAIモデルを実行 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260904-anker-mindbase/",
+      "summary": "AIによる処理をクラウドではなくデバイス上で行うローカルAI。ほほう。TOPSはどの程度でしょうか。",
+      "published": "06 Sep 2026 15:27 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e81c65754e6833ecc119a8d11be847c6",
+      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
+      "summary": "Distributed AIか。高価な1台よりも安価な複数台クラスタを並べる方が高速かつ安価になる未来が来るだろうか。",
+      "published": "06 Sep 2026 15:24 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd7e31f4289c4bc2327829b9e72ac154",
+      "title": "AIエージェント時代のIDEを謳うmacOS向けアプリ。見た目は簡素。herdr…",
+      "link": "https://github.com/MikeMcQuaid/AgentIDE",
+      "summary": "AIエージェント時代のIDEを謳うmacOS向けアプリ。見た目は簡素。herdrベースらしい。brew install --cask agentide",
+      "published": "06 Sep 2026 15:17 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f061d3745557b23645ec8ac4510945a7",
+      "title": "Automated Security Response on AWS が v4.0.0 にアップデートされたので何が変わったか確認してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/automated-security-response-v4-update/",
+      "summary": "Automated Security Response on AWS自体を知らなかった。Security Hubで検知されたものを自動修復を行うソリューションと。",
+      "published": "06 Sep 2026 15:13 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "021d0e515d55172983be270d41f9ec71",
+      "title": "[Google Cloud]Cloud ShellのプリインストールからTerraform CLIが含まれなくなりました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/cloud-shell-terraform-cli-no-longer-default/",
+      "summary": "バージョンミスマッチがあるあるなのでtenv/tfenvなどでterraformを用意するのが良いと個人的には思います。",
+      "published": "06 Sep 2026 15:11 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9c77e29d9b6fbc41f4cdc0b0be6862c",
+      "title": "Googleカレンダーのイベント色が24色+カスタム色に拡張されてました | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/google-calendar-24-event-colors-custom/",
+      "summary": "従来11色からのみ選択できたのが今年6月に広がったと。知らなかった。",
+      "published": "06 Sep 2026 15:05 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7235c2d880008fc5e49a938acb2666e2",
+      "title": "[アップデート] EC2 の AMI に対応インスタンスタイプを設定できるようになったので試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/ec2-ami-support-instancetype/",
+      "summary": "推奨するインスタンスタイプを示すためではなく、起動できるインスタンスタイプを制限(include/exclude)するためか。",
+      "published": "06 Sep 2026 15:03 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ead2e1ed719fad21d36c7127a025676f",
+      "title": "GoogleがCanva・Adobe Express対抗の画像生成・編集ツール「Google Pics」を提供開始、GoogleドキュメントやGoogleスライドとも連携可能 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260902-google-pics/",
+      "summary": "Google WorkspaceのBusiness Standard以上の契約で利用可能。大半の法人ユーザーは利用できそうだ。",
+      "published": "06 Sep 2026 15:00 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f73a0c75d0827781117086f37410ea7f",
+      "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
+      "link": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
+      "summary": "GhosttyのターミナルコアをWindowsネイティブアプリに載せた実装。ほほう",
+      "published": "06 Sep 2026 14:53 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fda9d4af8c1ea5e6bb8d205a63696ac4",
+      "title": "OpenTelemetry Collectorでテレメトリーデータの欠損を防ぐためのいくつかの方法",
+      "link": "https://zenn.dev/taxin/articles/otel-resiliency",
+      "summary": "知見だ。わいわい",
+      "published": "06 Sep 2026 14:52 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35087c141e0398f4dd68d72d4babe26a",
+      "title": "分析者のための数理最適化入門 アルゴリズムの仕組みから定式化の実践まで、網羅的に理解する（伊藤元治、原田耕平、松岡勇気） | 書籍 本 | ソシム",
+      "link": "https://www.socym.co.jp/book/1561",
+      "summary": "2026年9月25日発売",
+      "published": "06 Sep 2026 14:51 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1c2be90e924931255a2212f2bf9c967",
+      "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+      "summary": "うっ、はい。まずはこの記事からリンクされてる「マイクの音質をチェックできるツール」を試す。",
+      "published": "06 Sep 2026 14:46 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "811deaae762f0e7a83a6bd08c3bf1f5e",
+      "title": "DiskBoard – Free disk benchmark and SSD health monitor for macOS and Windows",
+      "link": "https://www.diskboard.com/",
+      "summary": "WindowsとmacOSに対応したSSDの正常性確認＆ベンチマークツール。S.M.A.R.T.にも対応。smartmontoolsベースの模様",
+      "published": "06 Sep 2026 14:42 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5a7d04c83536a145aec28241eef790f",
+      "title": "macOSのパフォーマンスモニター。ある程度の期間記録しつづけて、あとから見返す…",
+      "link": "https://github.com/Zesty0wl/mac-performance-monitor",
+      "summary": "macOSのパフォーマンスモニター。ある程度の期間記録しつづけて、あとから見返すことも可能。brew install --cask mac-performance-monitor",
+      "published": "06 Sep 2026 14:38 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "06caba9a562451e4ec85241ead21be13",
+      "title": "AirStats · A menu bar system monitor for macOS",
+      "link": "https://airstats.app/",
+      "summary": "超軽量を謳うmacOS向けシステムモニター。無料。brew install --cask airstats",
+      "published": "06 Sep 2026 14:32 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2905b2c16698b918e349eaf5a6b21906",
+      "title": "I Feel about AI",
+      "link": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "summary": "Article URL: https://beza1e1.tuxen.de/ai_feelings.html Comments URL: https://news.ycombinator.com/item?id=49587128 Points: 110 # Comments: 99",
+      "published": "Sun, 06 Sep 2026 15:00:19 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5da3bfca7acc029f499a68477f19d3a",
+      "title": "A/I shuts down – Stay human",
+      "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "summary": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 237 # ...",
+      "published": "Sun, 06 Sep 2026 14:34:34 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a634cde819638a5ea5ba5186d24e55bc",
+      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
+      "link": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
+      "summary": "Article URL: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 104 # Comments:...",
+      "published": "Sun, 06 Sep 2026 14:08:59 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "265db7279a1174d6204c1f62f08963f0",
+      "title": "QBittorrent breaks out of sandbox to commit crimes",
+      "link": "https://beige.party/@intransitivelie/117057396732763183",
+      "summary": "Article URL: https://beige.party/@intransitivelie/117057396732763183 Comments URL: https://news.ycombinator.com/item?id=49586171 Points: 300 # Comment...",
+      "published": "Sun, 06 Sep 2026 13:02:41 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1759500f645bb39806f3c879c4f5f24e",
+      "title": "Intellectual Fly Is Open (2025)",
+      "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/ Comments URL: https://news.ycombinator.com/item?id=49585644 Points...",
+      "published": "Sun, 06 Sep 2026 11:56:43 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ff22d9a052e713b8aaa26d4ae3582ce",
+      "title": "Doomscrolling Ourselves to Death",
+      "link": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "summary": "Article URL: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death Comments URL: https://news.ycombinator.com/item?id=49585627 Points: 209 # Com...",
+      "published": "Sun, 06 Sep 2026 11:53:40 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23bd6acdcd5479683155c8863fa0e529",
+      "title": "I Changed My License",
+      "link": "https://bergie.iki.fi/blog/eupl/",
+      "summary": "Article URL: https://bergie.iki.fi/blog/eupl/ Comments URL: https://news.ycombinator.com/item?id=49585161 Points: 130 # Comments: 139",
+      "published": "Sun, 06 Sep 2026 10:39:44 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "15c8f4ced17f9740fcf00a97779e6311",
+      "title": "Vancouver strip club's Instagram taken down over sign featuring lake joke",
+      "link": "https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993",
+      "summary": "Article URL: https://www.vancouverisawesome.com/local-news/vancouver-strip-club-instagram-taken-down-sign-calls-out-trump-12725993 Comments URL: https...",
+      "published": "Sun, 06 Sep 2026 04:07:40 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d04c432b36741989cd2afe146f1fe68",
+      "title": "AI, Tools and Transformation",
+      "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "summary": "Article URL: https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation Comments URL: https://news.ycombinator.com/item?id=49582656 ...",
+      "published": "Sun, 06 Sep 2026 02:12:46 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07099da2c74f99284cdbf406c528acaa",
+      "title": "デジタル庁は、デザインシステムをAIに読ませ始めた。Markdown配布が示すこと｜How many designs",
+      "link": "https://note.com/howmanydesigns/n/na108d69827ce",
+      "summary": "こんにちは、How many designs です。 Web Design Talk というタイトルで、デザインに関するお話を少しだけ書いていこうと思います。気軽に読んでいただければ幸いです。 デジタル庁からMarkdownが配布されました。デジタル庁デザインシステムは、Figmaのデザインデータと...",
+      "published": "2026-09-04T06:34:56Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ecb8ccf73c1e404354f561b37f81882",
+      "title": "DO-GU",
+      "link": "https://do-gu.niwa.dev/",
+      "summary": "道具の入れ替わりが激しい今だから、みんながどんな道具を使っているのか気になります。 自分の道具遍歴をまとめておきたくもなります。面倒な手入力はありません。 あなたのいつものエージェントに頼んで、あなたの道具をまとめてみませんか？ はじめる →",
+      "published": "2026-09-06T10:55:22Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc2e992c069277290b6c85648cd134f9",
+      "title": "新SNS「Twitter.now」が「Tweet.app」に改名。商標権めぐる暫定判決でXに有利な判定 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/05/5466.html",
+      "summary": "米デラウェア州連邦裁判所は、元Twitterであるイーロン・マスク氏のXが、スタートアップ企業Operation Bluebirdに対して申し立てていたTwitter商標権に関する仮差し止め訴訟で、「Twitter」の名称は現在もXが商標権を有しているとの暫定的な判断を示しました。 判事は意見書、O...",
+      "published": "2026-09-05T09:28:42Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1b93e52ac3096af250bb307a47c4969",
+      "title": "フォームの Enter 送信で isComposing と keyCode === 229 を併用する理由",
+      "link": "https://azukiazusa.dev/blog/ime-enter-submit/",
+      "summary": "IME の変換確定に使う Enter キーで、書きかけのメッセージが送信されることがあります。isComposing と非推奨の keyCode === 229 を併用して、変換中の Enter を送信処理から除外する理由を解説します。 チャット UI などで Enter キーを押したらメッセージを...",
+      "published": "2026-09-06T08:06:50Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a993811c844c8bf3f0d3e90d948c482",
+      "title": "GitHub - microsoft/tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
+      "link": "https://github.com/microsoft/tgrep",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-06T14:21:37Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9130a31c2e2fb97870d3f70fc42120d3",
+      "title": "modern-web-guidance/skills/modern-web-guidance/guides/forms/ime-safe-enter-submit.md at main · GoogleChrome/modern-web-guidance",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance/blob/main/skills/modern-web-guidance/guides/forms/ime-safe-enter-submit.md",
+      "summary": "Many chat interfaces submit their message when the user presses Enter in a . This works for users typing with direct Latin keyboard input (e.g. Englis...",
+      "published": "2026-09-06T04:22:44Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57681edd4416abd8f418c15752c90ef3",
+      "title": "在来線の運行管理を高度化…JR西日本、システム更新 ニュースイッチ by 日刊工業新聞社",
+      "link": "https://newswitch.jp/p/50191",
+      "summary": "ＪＲ西日本は在来線の運行管理システムを順次更新する。すでに京都・神戸線のシステムを刷新しており、今後は大阪環状・大和路線、宝塚・東西・学研都市線、阪和線の３システムを更新する。システム間の連携を強化し、近畿圏のアーバンネットワークを支える運行管理基盤の高度化を進める。 システムはモニターで列車の位....",
+      "published": "2026-09-06T07:37:59Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c2e2ae7485f7167c0dd1f9f29ebe6ee",
+      "title": "KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い 光コラボを生かして全国展開も視野に",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/05/news016.html",
+      "summary": "KDDIが光回線＋5Gの「auひかりプラス」を提供する狙い 光コラボを生かして全国展開も視野に：石野純也のMobile Eye（1/3 ページ） KDDIは、固定回線の新サービス「auひかりプラス」の提供を9月17日に開始する。これまで、速度や料金以外にアップデートの少なかった光回線だが、auひかり...",
+      "published": "2026-09-04T22:38:26Z",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dac0f50fad3f86f4768ab518967361a6",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Stremio…",
+      "link": "https://github.com/Stremio/stremio-web",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Stremio / stremio-web ⭐ 13,338 (+121) 🗒 JavaScript Stremio - Freedom to Stream",
+      "published": "06 Sep 2026 16:17 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccf10a9ea33b34918595c3462afef3a4",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Ope…",
+      "link": "https://github.com/OpenWhispr/openwhispr",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 OpenWhispr / openwhispr ⭐ 7,041 (+274) 🗒 JavaScript Voice-to-text dictation app with local (Nvidia Parakeet/Whisp...",
+      "published": "06 Sep 2026 14:17 +0000",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a71e579e7350c5a997641394778f5ae",
+      "title": "Aurora MySQL 8.4.8 の新機能「遅延レプリケーション」で DROP TABLE からの復旧を試してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-mysql-delayed-replication/",
+      "summary": "Aurora MySQL 8.4.8 のクラスター間に 300 秒の遅延レプリケーションを設定し、ソースで DROP TABLE を実行した場合の復旧を試しました。DROP がレプリカへ適用される前にレプリケーションを停止し、削除前のテーブルを残せることを確認しました。",
+      "published": "Sun, 06 Sep 2026 15:09:14 GMT",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "856c680419e61b6ddbf7a3c45ec19a88",
+      "title": "[アップデート] Amazon Redshift の rg.large インスタンスがシングルノードクラスターをサポートしました",
+      "link": "https://dev.classmethod.jp/articles/20260903-redshift-rg-large-single-node/",
+      "summary": "AWS Graviton プロセッサ搭載の Amazon Redshift RG インスタンスが、シングルノード構成に対応しました。これまで 2 ノード以上が必須だった制約が解かれ、検証環境や PoC をより低コストで構築できるようになりました。",
+      "published": "Fri, 04 Sep 2026 11:00:26 GMT",
+      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-06T13:18:50.133047+00:00"
+  "updated_at": "2026-09-06T16:36:22.808873+00:00"
 }

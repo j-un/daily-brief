@@ -1,15 +1,105 @@
 {
   "articles": [
     {
-      "entry_id": "561ea3ef59ff3dc111df639ef592ee6e",
-      "title": "Amazon Quick now lets you build custom apps with natural language -",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/",
-      "summary": "Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, custo...",
-      "published": "Tue, 01 Sep 2026 21:37:00 GMT",
-      "fetched_at": "2026-09-04T20:05:26.322636+00:00",
-      "feed_name": "AWS Recent Announcements",
+      "entry_id": "c9c326ad43f5f5413bc7ac6ff769601d",
+      "title": "AIがコードを書く時代、人間は何を保証するのか———馬場さんと考える、開発者に求められる新しい責任と価値 - TECH PLAY",
+      "link": "https://techplay.jp/video/529",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIがコードを書く時代、人間は何を保証するのか———馬場さんと考える、開発者に求められる新しい責任と価値 - TECH PLAY",
+      "published": "06 Sep 2026 01:56 +0000",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8e74e6109edd75e091ac5a4a9588b1f",
+      "title": "オーストラリアで起きた全国的な通信障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/08/22/033313",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 オーストラリアで起きた全国的な通信障害についてまとめてみた",
+      "published": "06 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b04cefa2c63d06ba27671b79a7ef031",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "link": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "Article URL: https://cloudinabottle.org/blog/launch-post Comments URL: https://news.ycombinator.com/item?id=49582000 Points: 105 # Comments: 37",
+      "published": "Sun, 06 Sep 2026 00:03:29 +0000",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "186ddda03352c06881ceb3c3fe487ad6",
+      "title": "The revolt of the reader",
+      "link": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/ Comments URL: https://news.ycombinator.com/item?id=49580939 Points: 113...",
+      "published": "Sat, 05 Sep 2026 21:37:49 +0000",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "756fc4345da71fd02bab38028ab47781",
+      "title": "ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた",
+      "link": "https://zenn.dev/sompojapan_dx/articles/846c6038fee45d",
+      "summary": "Sompo Digital Lab アプリケーションエンジニアの浪山健亮です。 今回は巷で話題になっているループエンジニアリングを実際にやってみての、気づきなどを記載しようと思います。 きっかけ とある自社システムの管理機能は、Vibe Coding が普及する前にエンジニアがその場しのぎでデザイン...",
+      "published": "2026-09-05T13:23:09Z",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "176aa8f69de3ce48fdb42cfd7cb79ea1",
+      "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
+      "link": "https://note.com/npaka/n/n9635d06c377f",
+      "summary": "「GPT-6 Astra」で飛躍的に向上した「Blender」 制作能力についてまとめました。 1. はじめにOpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表しました。 GPT-6 Astraでは、コーディングやComputer Use、長時間タスクへの対応が強化されていま...",
+      "published": "2026-09-05T23:12:07Z",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9bb366d52d1b1c8501b0ff0429999f8",
+      "title": "AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO",
+      "link": "https://note.com/koid/n/n3a4455b202e0",
+      "summary": "ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返して...",
+      "published": "2026-09-05T08:55:42Z",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38f49bc2823ae548d7cf9d78e562f669",
+      "title": "DGX Spark の Qwen3.8 と GLM-5.3-Flash、4 構成を用途別に比べてみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-single-node-flash-next-vs-glm-3bit-vs-27b/",
+      "summary": "DGX Spark で Qwen3.8 と GLM-5.3-Flash の 1 台・2 台構成を用途別に比較しました。Flash-Next は日本語の機械判定 9/9、Qwen3.8-27B は 8 並列合計 136 tok/s でした。回答完了までの待ち時間やツール呼び出しの制約、運用面の違いから...",
+      "published": "Sun, 06 Sep 2026 01:35:41 GMT",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b632e1e63954437d04b1d63d701dd261",
+      "title": "[アップデート] Amazon Quick がコネクタのツール単位の有効化と MCP sync をサポートしたので試してみました",
+      "link": "https://dev.classmethod.jp/articles/20260905-amazon-quick-adds-tool-settings-mcp-sync/",
+      "summary": "Amazon Quickのコネクタに追加されたツール設定とMCP syncについて実装面から検証しました。MCP サーバーから検出されたツールを個別に有効化・無効化し、承認設定を制御できるようになった今回のアップデート。実際の動作を確認しながら、API 対応の課題や運用時の注意点をまとめます。",
+      "published": "Sun, 06 Sep 2026 00:51:17 GMT",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaa998827007c3300746725c6e790313",
+      "title": "Kiro IDE で作ったカスタムエージェントが Kiro Crew に出てこない原因を調べてみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-ide-agent-to-kirocrew/",
+      "summary": "Kiro IDE 用に Markdown で作ったカスタムエージェントが Kiro Crew の一覧に出てこなかったので、Kiro CLI のヘルプや公式 Issue を追って原因を切り分け、.json に変換して Kiro Crew から起動・動作するところまで確かめてみました。",
+      "published": "Sun, 06 Sep 2026 00:00:40 GMT",
+      "fetched_at": "2026-09-06T02:10:30.837983+00:00",
+      "feed_name": "DevelopersIO",
       "category": "main"
     }
   ],
-  "updated_at": "2026-09-05T23:28:06.360040+00:00"
+  "updated_at": "2026-09-06T02:10:30.837983+00:00"
 }

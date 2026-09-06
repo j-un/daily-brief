@@ -1389,7 +1389,107 @@
       "fetched_at": "2026-09-06T16:36:22.808873+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "c6c92ccd349560e8806d19aa36c821e2",
+      "title": "Following legal advice, the Nitter project will continue",
+      "link": "https://github.com/zedeus/nitter",
+      "summary": "Article URL: https://github.com/zedeus/nitter Comments URL: https://news.ycombinator.com/item?id=49589003 Points: 213 # Comments: 49",
+      "published": "Sun, 06 Sep 2026 17:51:23 +0000",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7406b5b05ffdfabb8a84ebc238b537a4",
+      "title": "Nitter is unarchived and will continue",
+      "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "summary": "Article URL: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3 Comments URL: https://news.ycombinator.com/item?id=49588...",
+      "published": "Sun, 06 Sep 2026 17:49:47 +0000",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77d57e9635e080939fd947653c9df261",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind/",
+      "summary": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 171 # Comments: 116",
+      "published": "Sun, 06 Sep 2026 16:27:05 +0000",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48b44e5a0b1890808850896bd6064aff",
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "link": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "summary": "Article URL: https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/ Comments URL: https://news.ycombinator.com/item?id=49582719...",
+      "published": "Sun, 06 Sep 2026 02:24:57 +0000",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6e85b88c9a5ca43ace79be83fbc8b3a",
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "link": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "summary": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコ...",
+      "published": "2026-09-06T16:58:41Z",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae681d52c31361cde12bb0af01387e1d",
+      "title": "pnpm update で GitHub Actions もまとめて更新する",
+      "link": "https://azukiazusa.dev/blog/pnpm-update-include-github-actions/",
+      "summary": "GitHub Actions のワークフローでは、以下のように uses キーで Action のバージョンを指定します。セキュリティ上の理由から、タグではなく完全なコミット SHA に固定することが推奨されています。 steps: - uses: actions/checkout@11d5960a...",
+      "published": "2026-09-04T13:03:03Z",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25b3f286767e14db104568c59499fb5a",
+      "title": "GPT-6 Astraで飛躍的に向上したゲーム制作能力 - Unreal Engine / Unity / Godot / Three.js｜npaka",
+      "link": "https://note.com/npaka/n/n8fb683be4d52",
+      "summary": "GPT-6 Astraで飛躍的に向上したゲーム制作能力 - Unreal Engine / Unity / Godot / Three.js 「GPT-6 Astra」で飛躍的に向上したゲーム制作能力についてまとめました。 1. はじめに2026年9月3日に発表された「GPT-6 Astra」では、...",
+      "published": "2026-09-06T11:01:22Z",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "84eae0714913d090fc0570457946237f",
+      "title": "圧縮とLLMに共通する本質は「データの予測」",
+      "link": "https://gigazine.net/news/20260906-compression-is-prediction/",
+      "summary": "「データの圧縮」と「大規模言語モデル(LLM)」は一見すると全く異なる分野ですが、根幹では「データの予測」という同じ課題を解決しようとしています。いずれも「データの冗長性を削減」「より効率的な表現」を目指すものであり、ひいては情報理論におけるエントロピーという数学的枠組みで結びついています。ngro...",
+      "published": "2026-09-06T03:26:05Z",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "322dcd7e9a66cb8645dc7417d2db176e",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 aipoch…",
+      "link": "https://github.com/aipoch/open-science",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 aipoch / open-science ⭐ 3,704 (+145) 🗒 TypeScript Open Science by AIPOCH is an open-source, local-first, model-agnost...",
+      "published": "06 Sep 2026 18:17 +0000",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc433268793a4ab8b444694b76d3d5f1",
+      "title": "Kiro Webから別AWSアカウントへスイッチロールできるか検証してみた[できた]",
+      "link": "https://dev.classmethod.jp/articles/kiro-web-role-chaining/",
+      "summary": "Kiro Webから別のAWSアカウントのIAM Roleへのスイッチロールはできまぁす！信頼ポリシーにの設定がミソです。",
+      "published": "Sun, 06 Sep 2026 18:27:06 GMT",
+      "fetched_at": "2026-09-06T19:48:53.344926+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-06T16:36:22.808873+00:00"
+  "updated_at": "2026-09-06T19:48:53.344926+00:00"
 }

@@ -369,7 +369,517 @@
       "fetched_at": "2026-09-06T08:14:37.267885+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "119d959d07faf9663052f109e90896e6",
+      "title": "Agents Don't Query Like Humans Do | MotherDuck",
+      "link": "https://motherduck.com/blog/agents-dont-query-like-humans-do/",
+      "summary": "SQLを使って何らかの調査（試行錯誤）を行う場合、AIエージェントは人間よりも29倍クエリー実行が多いが出力される行数は少なめ。データウェアハウスはこの変化に合わせた特性が必要で、それにDuckDBはマッチしていると",
+      "published": "06 Sep 2026 13:15 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fe7c88ba5f2fb334ed6f43535b220a7",
+      "title": "NGINX 1.31.5: Control API, predicate locations, early body inspection, and more – NGINX Community Blog",
+      "link": "https://blog.nginx.org/blog/nginx-1-31-5-control-api-predicate-locations-early-body-inspection-and-more",
+      "summary": "nginx 1.31.5でlocationに変数が利用可能に。例としてあがってるのが \"location $is_ai_scraper { ... }\" なるほど。各種ヘッダーなどをもとにルーティングも可能と。",
+      "published": "06 Sep 2026 13:02 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95a936ff76a120c5100e924d06091a6e",
+      "title": "Omarchy TOKYO Meetup vol.1 - connpass",
+      "link": "https://omarchy-tokyo.connpass.com/event/404851/",
+      "summary": "現地開催",
+      "published": "06 Sep 2026 12:58 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "493322665f1798ece30ef51b1c58d6d3",
+      "title": "Aurora DSQL の現状 2026 (Rails の場合) | diary.sorah",
+      "link": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
+      "summary": "知見だ。わいわい",
+      "published": "06 Sep 2026 12:53 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ede04ee7717869eb1a3066d7a0f841f",
+      "title": "Percona、MySQLでOpenID Connect認証を実現するMySQL…",
+      "link": "https://www.percona.com/blog/oidc-authentication-for-percona-mysql/",
+      "summary": "Percona、MySQLでOpenID Connect認証を実現するMySQLプラグインをオープンソースで公開。MySQL本家はEnterprise Editionでないと利用できない機能なのでありがたい。",
+      "published": "06 Sep 2026 12:50 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f9bd38531f13c14cc0fdf98d9895f933",
+      "title": "RDBMSのTUIクライアント。Vimライクな操作体系。Graphvizベースの…",
+      "link": "https://github.com/riii111/sabiql",
+      "summary": "RDBMSのTUIクライアント。Vimライクな操作体系。GraphvizベースのER図も生成可能。PostgreSQL, MySQL, SQLiteに対応。Rust実装",
+      "published": "06 Sep 2026 12:40 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaf333a0a7bd1bb96351a97d7c86fd44",
+      "title": "GitLab.org / ci-cd / runner-tools / glci · GitLab",
+      "link": "https://gitlab.com/gitlab-org/ci-cd/runner-tools/glci",
+      "summary": "GitLabの .gitlab-ci.yml を手元のローカル環境で実行できるCLI/TUIツール。DockerもしくはDocker API互換の実行環境が手元に必要。",
+      "published": "06 Sep 2026 12:36 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d9551031b3ac0b1fc02b9d056a6b3ef",
+      "title": "ターミナルで天気情報などを表示できるTUIツールだが、雨雲レーダーも表示できるの…",
+      "link": "https://github.com/ashuttl/linecast",
+      "summary": "ターミナルで天気情報などを表示できるTUIツールだが、雨雲レーダーも表示できるのが良い。日本語で注意報情報も表示された。わいわい",
+      "published": "06 Sep 2026 12:25 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c01889d11dfd4a35c157aadf297a0040",
+      "title": "バッファロー初のトラックボール試用ミニレビュー。しっくりサイズに高速ホイール搭載で早割5990円、ボタンは静音仕様 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/02/5458.html",
+      "summary": "全5ボタン静音仕様、マルチペアリング対応。実売6,000円台、発売記念の1,000円OFFクーポンでAmazonなら5,990円。トラックボールを常用してる身として、まずは触ってみたい。",
+      "published": "06 Sep 2026 12:18 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86361622e7ed93083dc233abd6e74438",
+      "title": "AIエージェント開発の知識地図 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15875-0",
+      "summary": "2026年9月17日発売",
+      "published": "06 Sep 2026 12:14 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a5617296ec460eeaeec8eb2e4a18c5d",
+      "title": "いいね。これを参考に実際に手を動かしたい。…",
+      "link": "https://tech-lab.sios.jp/archives/54310",
+      "summary": "いいね。これを参考に実際に手を動かしたい。",
+      "published": "06 Sep 2026 12:12 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32905d424bf5c0df2a35d615d5be504c",
+      "title": "Security Days Fall 2026（セキュリティデイズ ）｜公式サイト セキュリティ課題を解決する展示会&セミナーイベント",
+      "link": "https://f2ff.jp/event/secd",
+      "summary": "札幌、大阪、福岡、東京、名古屋で。10月開催",
+      "published": "06 Sep 2026 12:09 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "13eb390eead1d43fa04856f167aeb6ab",
+      "title": "ランサムウェアグループによるCursorの悪用についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/02/022540",
+      "summary": "「エージェントは有害または違法とみなした要求を拒否することがあったものの、攻撃者は対話をやり直し「ハッキングはテストの一環だ」と主張することでこの拒否をほぼ毎回回避」説得に弱いAIエージェント君",
+      "published": "06 Sep 2026 11:58 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "872434672202e449451eefb3c15cf072",
+      "title": "SREを組織にする技術",
+      "link": "https://zenn.dev/koduki/books/sre-itil-enterprise",
+      "summary": "わいわい",
+      "published": "06 Sep 2026 11:54 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bece7f50341b5e6a9992155ef6ca45ad",
+      "title": "Datadogのアラート通知設定のベストプラクティス。Monitorに@を直書きする運用から卒業する",
+      "link": "https://zenn.dev/kumasunny/articles/datadog-alert-notification-best-practices",
+      "summary": "Monitor Notification Rules（監視通知ルール）で。あとで復習。",
+      "published": "06 Sep 2026 11:52 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18bcb977c50b389f44849ad208986834",
+      "title": "New Relicの日本リージョンが一般提供（GA）を開始 | New Relic",
+      "link": "https://newrelic.com/jp/blog/news/japan-region-generally-available-0",
+      "summary": "「日本リージョンを使えば、テレメトリーデータの取り込み、保存、処理のすべてが日本国内で完結」めでたい。既存アカウントから日本リージョンへの移行も可能な模様。",
+      "published": "06 Sep 2026 11:47 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e47f678d625cab79c6a532258d5b86",
+      "title": "Claude Code + MCP でアラート対応を自動化した話 - asoview! Tech Blog",
+      "link": "https://tech.asoview.co.jp/entry/2026/08/31/124801",
+      "summary": "\"一番価値があったのは「原因を当てること」ではありませんでした。「これは見なくていい」と判断してくれること、「このエラーにはどんな傾向があるのか」を把握することのほうが大きかった\" ほほう",
+      "published": "06 Sep 2026 11:17 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3968cb18a52cab6cd47b51eac25ab300",
+      "title": "ベクトルデータベース - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401796/",
+      "summary": "2026年9月28日発売予定",
+      "published": "06 Sep 2026 11:03 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7faad96301f309f2fc802461a31aaffe",
+      "title": "DuckDB で Amazon S3 Tables に格納された表形式データセットへのアクセスを効率化する | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/",
+      "summary": "AWSが買収したこともありAWS公式ブログにもDuckDBネタが充実しそうな予感。これは2025年3月の英語記事の掘り起こしだけども。",
+      "published": "06 Sep 2026 11:02 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ef0bb67b99a02f67f8437ac2dd5497f",
+      "title": "みんなで作る最強予想AIプロンプト大会 競馬編～スプリンターズS2026 - connpass",
+      "link": "https://osaka.connpass.com/event/405243/",
+      "summary": "生成AIで競馬予想だ。現地（大阪）開催。",
+      "published": "06 Sep 2026 10:56 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df965b4768d9ada90411614da34912c7",
+      "title": "TenkaCloud #1｜AWSにデプロイしてイベントを開催してみよう - connpass",
+      "link": "https://tenkacloudug.connpass.com/event/405132/",
+      "summary": "オンライン開催",
+      "published": "06 Sep 2026 10:53 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "301f4dab111dfbc91db812c0448c1b2e",
+      "title": "LACeS Anycast Census — IP & Prefix Lookup",
+      "link": "https://manycast.net/",
+      "summary": "Anycastアドレスがどこでホストされているかなどを調べることができるサイト。わいわい",
+      "published": "06 Sep 2026 10:52 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da56cd7fdd947b339d07216aec4b3bda",
+      "title": "AI時代のテーブルフォーマット最前線 IcebergとLanceから見る次世代データ基盤の片鱗 - connpass",
+      "link": "https://findy.connpass.com/event/404504/",
+      "summary": "オンライン開催",
+      "published": "06 Sep 2026 10:47 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3501b353f9ef8731ab1e550451162407",
+      "title": "Webブラウザセキュリティ - Forkwell Library #132 - connpass",
+      "link": "https://forkwell.connpass.com/event/403033/",
+      "summary": "オンライン開催",
+      "published": "06 Sep 2026 10:45 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc6b39df9443996adf1ad8cd08eabfba",
+      "title": "#pqc_study - connpass",
+      "link": "https://web-study.connpass.com/event/404826/",
+      "summary": "耐量子暗号について「実際エンジニアは何をすればいいのか、何を知っておけばいいのか」の勉強会。現地開催。",
+      "published": "06 Sep 2026 10:41 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f38291e13fbb152249558bc269d447e9",
+      "title": "【PostgreSQL】work_mem を変更すると Sort Method が external merge から quicksort に切り替わることを確認してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/postgresql-work-mem-sort-method-external-merge-quicksort/",
+      "summary": "このような変化からwork_memを大きくすると劇的にパフォーマンスが改善することがある（しないこともある）。ただ1つのクエリーでも複数のwork_memが使われることがありメモリ消費が増えてOOMになる可能性もあるので文字数",
+      "published": "06 Sep 2026 10:38 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d05e5183d5f7180745775f3f96ad5c3a",
+      "title": "AIM/ICQのクライアントから接続可能なサーバ実装。懐かしいなICQ。でもどこ…",
+      "link": "https://github.com/mk6i/open-oscar-server",
+      "summary": "AIM/ICQのクライアントから接続可能なサーバ実装。懐かしいなICQ。でもどこに需要があるんや。Go実装",
+      "published": "06 Sep 2026 10:32 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4951eeaf06fbc8c10053c189dc9c8a2e",
+      "title": "Linuxで動作するGUI(Qt6)なデフラグツール。Windowsっぽい進捗画…",
+      "link": "https://github.com/gbin/defragger",
+      "summary": "Linuxで動作するGUI(Qt6)なデフラグツール。Windowsっぽい進捗画面あり。サポートするファイルシステムはext4/FAT16/FAT32。",
+      "published": "06 Sep 2026 10:30 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1146483aea35c4b62a163c8843314dc",
+      "title": "macOSのVirtualization.framework上にiPhone環境…",
+      "link": "https://github.com/Lakr233/vphone-cli",
+      "summary": "macOSのVirtualization.framework上にiPhone環境をセットアップして管理できるCLIツール。稼働した仮想iPhoneはSSHやVNC経由で操作が可能と。",
+      "published": "06 Sep 2026 10:22 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f50eacbb7476073b292172e9a59dd4d0",
+      "title": "ローカルファーストなパスワードマネージャ。2段階認証も格納可能。Linux, W…",
+      "link": "https://github.com/usesesame/sesame-desktop",
+      "summary": "ローカルファーストなパスワードマネージャ。2段階認証も格納可能。Linux, Windows対応。macOSは現時点で未対応っぽいがブラウザ拡張は用意されてる。複数台共有のためのserver実装もある。ライセンスはAGPL-3.0",
+      "published": "06 Sep 2026 10:17 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92372b0631d1b9220e6e63a7755d79ae",
+      "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
+      "published": "06 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40a3c4a985b29791e0fd03b3b75336cd",
+      "title": "Oktaから内製IdPへの認証基盤移行（第3回） | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/08/idp-migration-part3/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Oktaから内製IdPへの認証基盤移行（第3回） | BLOG - DeNA Engineering",
+      "published": "06 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9afc59733fede2b5682bc6bbeca9e2e2",
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "link": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
+      "summary": "Article URL: https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/ Comments URL: https://news.ycombinator.com/item?id=49584...",
+      "published": "Sun, 06 Sep 2026 09:14:22 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6964500c209d3566b2eefb4df378e90c",
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "link": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "Article URL: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight Comme...",
+      "published": "Sun, 06 Sep 2026 07:21:06 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50ac94279146a8f52025edddb23f448c",
+      "title": "クラウドでのエージェンティックエンジニアリング:Kiro Web とクラウドセッションが一般提供に",
+      "link": "https://aws.amazon.com/jp/blogs/news/agentic-engineering-in-the-cloud/",
+      "summary": "ここ数か月で、クラウド実行は Kiro での働き方の中でより大きな位置を占めるようになりました。本日（2026 年 9 月 3 日）、Kiro Web とクラウドセッションが一般提供 (GA)になりました。あわせて、すでに構築済みの Kiro のセットアップをローカルとクラウドの両方のセッションで使...",
+      "published": "Sun, 06 Sep 2026 10:48:09 +0000",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "586b37c03c0610df1d209ed256728f27",
+      "title": "AIで作った「100点の理想」が、プロとの打ち合わせで50点になっていく理由",
+      "link": "https://rocketnews24.com/2026/09/06/2798277/",
+      "summary": "とある服飾デザイナーさんと話していた時のこと。 その人が働いているのは、オーダーメイドで衣装などを作ってくれるお店である。 お客さんは私のような個人はもちろん、企業も多い。ゲームショーなど、大きなイベントの前になると、とても忙しくなるようなお店だ。 私はそこで働くデザイナーさんと仲良くなった。 ・A...",
+      "published": "2026-09-06T01:22:29Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0c56aa3cfe2195653118cbef6a2d249",
+      "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
+      "link": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07",
+      "summary": "ホーム > ソフトウェア > Windows > 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 投稿日:2026年09月06日 Micro...",
+      "published": "2026-09-06T06:48:54Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a00505949f1ca65b2f5bfbb6a28b9615",
+      "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
+      "link": "https://note.com/omohibito_moe/n/n643dc02f8c32",
+      "summary": "前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...",
+      "published": "2026-09-06T08:31:39Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfe6bd3c6d49eededb98bcbcdb43c932",
+      "title": "技術力に優劣はない(「技術力に優劣はある(「技術力に優劣はない」を読んで)」を読んで) - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/04/113629",
+      "summary": "syu-m-5151.hatenablog.com はじめに 一年で、こんなに価値観が変わるとは思っていませんでした。 私は「技術力に優劣はある」という記事で、技術との向き合い方を「道具として使う」「理解する」「創る」に分け、それぞれの中にも上手下手があると書きました。市場はその差を評価する。学びを...",
+      "published": "2026-09-04T09:39:02Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbc9f6ccc6d71a8df45c305fbbcc8487",
+      "title": "フロントエンドエンジニアとしてのキャリアを終える",
+      "link": "https://tech-blog-v2-opal.vercel.app/article/ending-my-career-as-a-frontend-engineer",
+      "summary": "フロントエンドのテックリードで、10月にはフロントエンドカンファレンス関西2026に登壇する。 そんな人間が何を言っているんだと思われそうだが、フロントエンドエンジニアとしてのキャリアを終えようと思う。 とはいえ、フロントエンドを全くやらなくなるわけではない。 仕事では、これまで培ってきた知見をチー...",
+      "published": "2026-09-06T05:51:11Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "144084d693519da3c9470df843af0e6d",
+      "title": "MarkdownをPDFやHTMLにするツール",
+      "link": "https://ktrmnm.jp/blog/2026-09-05-madoc-intro/",
+      "summary": "Markdownを入力してPDFやHTMLを出力するmadoc というツールを作った。このツールはほぼ完全にAIで作られている。 MarkdownをHTMLに変換し、画面共有している様子 使い方 madoc html input.md -o output.html でHTMLがレンダリングされ、 m...",
+      "published": "2026-09-06T06:49:34Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b5605083bfe69c20f674437b8d25b44",
+      "title": "“横ワイド”が折りたたみの標準になる？ コンテンツ視聴に便利な4：3画面の是非",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/06/news006.html",
+      "summary": "“横ワイド”が折りたたみの標準になる？ コンテンツ視聴に便利な4：3画面の是非：山根康宏の海外モバイル探訪記 折りたたみスマートフォンを投入するメーカーの数が増える中、本体を開くとアスペクト比4：3の横ワイド型になるモデルを、HuaweiやSamsungが相次いで発売しており、さらにAppleも投入...",
+      "published": "2026-09-06T02:31:28Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2851e0aa3e397326b7ec71f829ec202",
+      "title": "ChatGPT・Claude・Grokがほぼ同時刻にダウン",
+      "link": "https://gigazine.net/news/20260904-openai-anthropic-spacexai-down/",
+      "summary": "2026年9月3日深夜、大手3社のAIサービスがほぼ同時に停止しました。なぜタイミングが重なったのか、理由は明らかになっていません。 ChatGPT, Grok, and Claude all went down at the same time | The Verge https://www.th...",
+      "published": "2026-09-04T10:05:37Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d64475b43da3662a6bd730d1ab0a95b",
+      "title": "CとGoの生成コードを読む ― アセンブリから見る言語設計の違い",
+      "link": "https://zenn.dev/saku0512/books/3735de8d0aa09f",
+      "summary": "同じ処理をCとGoで実装し、生成されるアセンブリを比較する。ABI、境界チェック、スタック、GC、Escape Analysis、インライン化などを実際の生成コードから追い、CとGoの言語設計・コンパイラ・ランタイムの違いを読み解く。",
+      "published": "2026-09-05T09:28:12Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d99ad392c1917fe40e0586e32db9c82e",
+      "title": "NetworkMiner - The NSM and Network Forensics Analysis Tool ⛏",
+      "link": "https://www.netresec.com/?page=NetworkMiner",
+      "summary": "NETRESEC » Products » NetworkMiner NetworkMiner is an open source network forensics tool that extracts artifacts, such as files, images, emails and pa...",
+      "published": "2009-09-14T00:32:08Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d04c0d3bacbf39a632c6e899304df3fa",
+      "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260903/sdd",
+      "summary": "こんにちは、ラクス技術広報です。 開発本部では、各部署でのAI活用の取り組みを技術広報がインタビューし、記事としてお届けしています。今回お話を伺ったのは、楽楽請求開発部でバックエンド開発を担当する吉元和仁さんです。 楽楽請求のバックエンドチームは、昨年度の下期から仕様駆動開発（Spec-Driven...",
+      "published": "2026-09-03T06:03:26Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91d2a2911f943a695b10c551320cc45e",
+      "title": "AGI能力テストで99.9%、ChatGPTの新モデル「GPT-6 Astra」登場",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2138206.html",
+      "summary": "",
+      "published": "2026-09-04T02:49:43Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d6b2cb23a532180d81509fc93a40279",
+      "title": "AI時代に、プロダクトの数だけ積み上がる所有コストをどうエンジニアリングするか / Engineering the Cost of Ownership",
+      "link": "https://speakerdeck.com/kzkmaeda/engineering-the-cost-of-ownership",
+      "summary": "[Product Engineering Conference 2026](https://product-engineering.jp/2026/)での登壇資料です。",
+      "published": "2026-09-05T04:33:22Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c308550c051ecc33a2d088321dabcda",
+      "title": "楽天モバイル、10月以降のローミングエリアについてユーザーに告知 「時間を要するエリアは、10月以降も継続」",
+      "link": "https://ascii.jp/elem/000/004/432/4432587/",
+      "summary": "楽天モバイル、10月以降のローミングエリアについてユーザーに告知 「時間を要するエリアは、10月以降も継続」",
+      "published": "2026-09-05T15:30:28Z",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8492eee4df83a2b4f9adaed3560b42dc",
+      "title": "iOS 27のreorderable container APIで並べ替えを試してみる",
+      "link": "https://dev.classmethod.jp/articles/ios27-reorderable-api/",
+      "summary": "iOS 27で新しく追加された`reorderable()`と`reorderContainer()`というAPIを実際に使ってみました。VStack、List、LazyVGridなど複数のコンテナで並び替え機能を実装してみた結果をまとめています。",
+      "published": "Sun, 06 Sep 2026 12:29:57 GMT",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "134b6f83ce2bb5904f9f2cd8409e942d",
+      "title": "Amazon Aurora MySQL 8.4.8 が GA したので 8.4.7 からの変更点を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-mysql-848-ga-diff-from-847/",
+      "summary": "2026年9月3日に GA となった Amazon Aurora MySQL 8.4.8 を東京リージョンで起動し、8.4.7 からの主要な変更点を確認しました。レプリケーション系の管理プロシージャ、接続・認証・TLS の既定値、トランザクションタイムアウトの変数を見ています。",
+      "published": "Sun, 06 Sep 2026 11:23:24 GMT",
+      "fetched_at": "2026-09-06T13:18:50.133047+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-06T08:14:37.267885+00:00"
+  "updated_at": "2026-09-06T13:18:50.133047+00:00"
 }

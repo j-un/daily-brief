@@ -1,56 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "e81c65754e6833ecc119a8d11be847c6",
-      "title": "NVIDIAが重たいAI処理を同一ネットワーク内のPCに割り振れる無料ツール「PAIR」を公開 - GIGAZINE",
-      "link": "https://gigazine.net/news/20260904-nvidia-personal-ai-router/",
-      "summary": "Distributed AIか。高価な1台よりも安価な複数台クラスタを並べる方が高速かつ安価になる未来が来るだろうか。",
-      "published": "06 Sep 2026 15:24 +0000",
-      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f061d3745557b23645ec8ac4510945a7",
-      "title": "Automated Security Response on AWS が v4.0.0 にアップデートされたので何が変わったか確認してみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/automated-security-response-v4-update/",
-      "summary": "Automated Security Response on AWS自体を知らなかった。Security Hubで検知されたものを自動修復を行うソリューションと。",
-      "published": "06 Sep 2026 15:13 +0000",
-      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "021d0e515d55172983be270d41f9ec71",
-      "title": "[Google Cloud]Cloud ShellのプリインストールからTerraform CLIが含まれなくなりました | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/cloud-shell-terraform-cli-no-longer-default/",
-      "summary": "バージョンミスマッチがあるあるなのでtenv/tfenvなどでterraformを用意するのが良いと個人的には思います。",
-      "published": "06 Sep 2026 15:11 +0000",
-      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "7235c2d880008fc5e49a938acb2666e2",
-      "title": "[アップデート] EC2 の AMI に対応インスタンスタイプを設定できるようになったので試してみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/ec2-ami-support-instancetype/",
-      "summary": "推奨するインスタンスタイプを示すためではなく、起動できるインスタンスタイプを制限(include/exclude)するためか。",
-      "published": "06 Sep 2026 15:03 +0000",
-      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f73a0c75d0827781117086f37410ea7f",
-      "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
-      "link": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
-      "summary": "GhosttyのターミナルコアをWindowsネイティブアプリに載せた実装。ほほう",
-      "published": "06 Sep 2026 14:53 +0000",
-      "fetched_at": "2026-09-06T16:36:22.808873+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c049e4de41cb49acd0c227f4d2a7e395",
       "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
       "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
@@ -1369,7 +1319,117 @@
       "fetched_at": "2026-09-07T19:30:25.332047+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "684a94d2455ddf634d46c9c1ef88a5e3",
+      "title": "Tesla killing Solar Roof is leaving installers with six-figure losses",
+      "link": "https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/",
+      "summary": "Article URL: https://electrek.co/2026/09/01/tesla-solar-roof-exit-installers-losses/ Comments URL: https://news.ycombinator.com/item?id=49601846 Point...",
+      "published": "Mon, 07 Sep 2026 19:08:47 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7cdf5e2d7c4a03f5a8cdc42eb2b4bb2",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "link": "https://lax-skyline.parcelscope.net/",
+      "summary": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 148 # Comments: 57",
+      "published": "Mon, 07 Sep 2026 18:52:06 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e08129aa59b1af8a7c3f3ee9d73f751",
+      "title": "No constitutional right to clean water, federal court finds",
+      "link": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+      "summary": "Article URL: https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/ Comments URL: https://news.ycombi...",
+      "published": "Mon, 07 Sep 2026 17:52:58 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c69c6be67d8c1ace6b686ace408d0eb",
+      "title": "It's time for Mark Zuckerberg to resign from Meta",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta",
+      "summary": "Article URL: https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta Comments URL: https://news.ycombinator.com/i...",
+      "published": "Mon, 07 Sep 2026 07:59:21 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf01b961af3e99601480455f63778a8b",
+      "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
+      "summary": "概要 日々発信されているAIに関する膨大な国内外の公開情報から、AIセキュリティの観点でトレンドや事例を紹介しています。 特に、AIシステム開発者やセキュリティ担当者の方が、日々の業務を行う中で是非知っておいてほしい動向や注意してほしいインシデント事例に絞って紹介しています。 AIセキュリティ短信一...",
+      "published": "2026-07-06T09:17:22Z",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f74feebbc7625f8e21f33cf2363286c5",
+      "title": "新宿駅に「ゴミ箱ロボ」 混雑する構内を自走 JR東日本",
+      "link": "https://japan.cnet.com/article/35252342/",
+      "summary": "主な検証項目は4点ある。センサーなどで走行時の安全を確保できるか、混雑時の走行にどのような課題が出るか、改札内を移動する乗客に影響が及ばないか、そしてごみ箱ロボットの運用が社会的に受け入れられるか、だ。 使うのは、米Cartkenが開発した屋内外を走行できる自動配送ロボットだ。運用は三菱電機とメルコ...",
+      "published": "2026-09-07T06:06:37Z",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34967cc49afa3eb263e605ac1967200c",
+      "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+      "link": "https://github.com/Tencent/teamai-cli",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-07T16:43:47Z",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b578500d5ebb1aa29f168d5b6a05b46f",
+      "title": "OpenAIの主任科学者が「今後AIは自身の開発をますます推進するようになる」と見通しを表明",
+      "link": "https://gigazine.net/news/20260907-openai-rsi/",
+      "summary": "記事作成時点では、生成AIは人間がトレーニングすることで性能向上や改善が行われるのが常です。OpenAIの主任科学者であるヤクブ・パホツキ氏は、将来的にAIが自分自身の開発を行う「再帰的自己改善(RSI)」が実現する可能性が高いと予想しました。 An Alien Mind | OpenAI http...",
+      "published": "2026-09-07T10:00:26Z",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac1ba68ae98d1c58b537d2c74b26d689",
+      "title": "性格悪い離婚増田の記事を読んで、自分の頭で一定程度考えながら生成AIと壁打ちして問題点を深掘りしてみた",
+      "link": "https://anond.hatelabo.jp/20260907191254",
+      "summary": "ちなみに、一般的に真面目な質問に対して生成AI使って答え書くのは割と性格が悪いのでみんなも気をつけような。 anond:20260906221615 さて、この記事を読んで、まあなんかぼんやり「言動がかなり特殊だな？」とは感じるわけです。 で、自分でもいくつか言語化はできたけど、そこから先の結論には...",
+      "published": "2026-09-07T10:19:34Z",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fbaa3734f80967a379150cf5243413a",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 jo-inc…",
+      "link": "https://github.com/jo-inc/camofox-browser",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 jo-inc / camofox-browser ⭐ 9,310 (+117) 🗒 JavaScript Stealth headless browser for AI agents — bypass Cloudflare, bot ...",
+      "published": "07 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e5bc6114122e8e49bc08f401eca533f",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 lightpa…",
+      "link": "https://github.com/lightpanda-io/browser",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 lightpanda-io / browser ⭐ 34,635 (+116) 🗒 Zig Lightpanda: the headless browser designed for AI and automation",
+      "published": "07 Sep 2026 20:17 +0000",
+      "fetched_at": "2026-09-07T22:24:49.682676+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-07T19:30:25.332047+00:00"
+  "updated_at": "2026-09-07T22:24:49.682676+00:00"
 }

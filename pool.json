@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5efc97aca1c3554b36a2c35cdb6ab711",
-      "title": "Gunicorn の gthread と freethreading - methaneのブログ",
-      "link": "https://methane.hatenablog.jp/entry/2026/08/28/Gunicorn_%E3%81%AE_gthread_%E3%81%A8_freethreading",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Gunicorn の gthread と freethreading",
-      "published": "07 Sep 2026 10:56 +0000",
-      "fetched_at": "2026-09-07T15:24:34.958274+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "5654c14011667331687bfc03ffcd709d",
       "title": "DuckDB and the changing physics of analytics | All Things Distributed",
       "link": "https://www.allthingsdistributed.com/2026/08/duckdb-and-the-changing-physics-of-analytics.html",
@@ -1399,7 +1389,167 @@
       "fetched_at": "2026-09-08T19:09:23.722441+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "b09da4c7d840a8ae5928c6f7eb4bb6fc",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "summary": "Article URL: https://github.com/argonautlabsai/deltafin Comments URL: https://news.ycombinator.com/item?id=49616257 Points: 156 # Comments: 68",
+      "published": "Tue, 08 Sep 2026 20:07:55 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2372e1e4c41426420ab7a3715c11b7e4",
+      "title": "OpenAI fought dirty on career-making math problem",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/ Comments URL: https://news.yc...",
+      "published": "Tue, 08 Sep 2026 19:47:13 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0441eae7bf1b3252af1ebc23784cf901",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "link": "https://ai.meta.com/muse/",
+      "summary": "Article URL: https://ai.meta.com/muse/ Comments URL: https://news.ycombinator.com/item?id=49615537 Points: 192 # Comments: 182",
+      "published": "Tue, 08 Sep 2026 19:25:00 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20aeab7a4b9bdf7f960d2fe90d2dd391",
+      "title": "ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "summary": "Article URL: https://openai.com/index/introducing-chatgpt-images-2-5/ Comments URL: https://news.ycombinator.com/item?id=49614720 Points: 249 # Commen...",
+      "published": "Tue, 08 Sep 2026 18:37:51 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "778ac495f076fa44cd8bcf4bdcaec4d5",
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "summary": "Article URL: https://www.bbc.com/news/live/c6x2z0yy32ejt Comments URL: https://news.ycombinator.com/item?id=49614557 Points: 112 # Comments: 96",
+      "published": "Tue, 08 Sep 2026 18:26:27 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc1a88a895732b19bf4682c69ff28b56",
+      "title": "FreeBSD 14.5-Release",
+      "link": "https://www.freebsd.org/releases/14.5R/announce/",
+      "summary": "Article URL: https://www.freebsd.org/releases/14.5R/announce/ Comments URL: https://news.ycombinator.com/item?id=49609174 Points: 100 # Comments: 18",
+      "published": "Tue, 08 Sep 2026 12:04:04 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b99a1eee7d3ab9ed3420c52bb2205f5c",
+      "title": "AWS Transform is now available in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/",
+      "summary": "AWS Transform is now available in the AWS GovCloud (US-West) Region, enabling government agencies and regulated organizations to plan and execute larg...",
+      "published": "Tue, 08 Sep 2026 21:00:00 GMT",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cb8b1fc66d18a730e7a9bc33648dcb3",
+      "title": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest",
+      "summary": "Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term memo...",
+      "published": "Tue, 08 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5827952e0dd87ef36d59724f64aca88d",
+      "title": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/",
+      "summary": "Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an...",
+      "published": "Tue, 08 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e46af990498e037b7f589f0fee6d9c3f",
+      "title": "Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) ...",
+      "published": "Tue, 08 Sep 2026 07:30:00 GMT",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a242b1d8241524308c26e8b6e6ff0ab",
+      "title": "Amazon Kinesis Data Streams now supports a dry run feature to validate API requests",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/",
+      "summary": "Amazon Kinesis Data Streams now supports a dry run feature to check whether an API request would succeed without executing the operation. Customers ca...",
+      "published": "Tue, 01 Sep 2026 19:00:00 GMT",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9656f613db17063d84bbc45f2c049706",
+      "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）｜TechRacho by BPS株式会社",
+      "link": "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597",
+      "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in 2026 | baweaver 原文公開日: 2026年08月04日 原著者: Brandon Weaver 日本語タイトルは内容に即したものにしました。 ツールや拡張などへのリンクを適宜追...",
+      "published": "2026-09-08T08:47:26Z",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4df357a6e5292d1e88d4a1d76456c05d",
+      "title": "AI駆動開発の全体感 ～AI時代の生産性を何で測るのか【AI駆動開発の実践例】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aidriven/2137349.html",
+      "summary": "",
+      "published": "2026-09-03T01:13:43Z",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39ec5846ae4b961707f4689fd7b00195",
+      "title": "GitHub - multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. · GitHub",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 multica-ai / andrej-karpathy-skills ⭐ 211,087 (+325) A single CLAUDE.md file to improve Claude Code behavior, der...",
+      "published": "08 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ae169fb23a902a770b4e06de446aaa5",
+      "title": "GitHub - mattpocock/skills: Skills for Real Engineers. Straight from my .agents directory. · GitHub",
+      "link": "https://github.com/mattpocock/skills",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 mattpocock / skills ⭐ 253,849 (+2,206) 🗒 Shell Skills for Real Engineers. Straight from my .agents directory.",
+      "published": "06 Sep 2026 20:17 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5d893ee17691893be6bee799671557e",
+      "title": "Eminently controllable, accessible by design, Sting is now a plug-in",
+      "link": "https://cdm.link/sting-the-plugin/",
+      "summary": "Now this is how to do generative melodies. Add expression. Get control with your hands. Make melodies accessible -- including if you're blind and visu...",
+      "published": "Tue, 08 Sep 2026 18:57:31 +0000",
+      "fetched_at": "2026-09-08T22:10:43.584433+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-08T19:09:23.722441+00:00"
+  "updated_at": "2026-09-08T22:10:43.584433+00:00"
 }

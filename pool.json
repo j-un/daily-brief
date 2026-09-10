@@ -1699,7 +1699,157 @@
       "fetched_at": "2026-09-10T20:16:01.098575+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "7a83d367ae541a99928f28327e08872b",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 105 # Comme...",
+      "published": "Thu, 10 Sep 2026 17:14:12 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "080ef98309b19ae7cad170dfa05489df",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item...",
+      "published": "Thu, 10 Sep 2026 15:57:40 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21b0f1c6540678aebd65c48b80055ec4",
+      "title": "Neki is sharded Postgres by PlanetScale",
+      "link": "https://neki.dev/",
+      "summary": "Article URL: https://neki.dev/ Comments URL: https://news.ycombinator.com/item?id=49645763 Points: 100 # Comments: 24",
+      "published": "Thu, 10 Sep 2026 15:48:14 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "126cac51676dbbfdf9862d9fc112342d",
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "summary": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex Comments URL: http...",
+      "published": "Thu, 10 Sep 2026 15:47:50 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f75c9c257c658f059c975c769595dd37",
+      "title": "Don't let anyone take away your big box of cables",
+      "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/ Comments URL: https://news.ycombinator.com/item?id=49645393 Points: 184 # Comments...",
+      "published": "Thu, 10 Sep 2026 15:27:22 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbb6538c64970329e8142a728ccb802a",
+      "title": "AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud",
+      "summary": "AWS Lambda recursive loop detection is now supported for functions running in Europe Sovereign Cloud. Recursive loop detection automatically detects a...",
+      "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "68d469bbac0298697c71a24194ce0d7a",
+      "title": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/",
+      "summary": "Amazon API Gateway now supports configurable delivery destinations and larger log events for REST API execution logs. Previously, execution logs were ...",
+      "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8925cce6c623671fdabf23ee1302b68",
+      "title": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports the IAM condition keys for CPU and memory resources on the RunTask and StartTask APIs. Admi...",
+      "published": "Thu, 10 Sep 2026 16:52:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb91dcf6917e813f3b17856573067479",
+      "title": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3/",
+      "summary": "AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Amazon S3 File Gateway. Previously, FIPS endpoints for File G...",
+      "published": "Thu, 10 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0168d4b0dc29783b9faea1b0eaf366e2",
+      "title": "AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/",
+      "summary": "AWS Transfer Family SFTP Connectors now continue running file transfers while you rotate the credentials used to authenticate with remote SFTP servers...",
+      "published": "Fri, 04 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "17dc14dc2e280eb6c8b4245c5ec2a356",
+      "title": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink/",
+      "summary": "You can now use AWS PrivateLink to privately access Amazon MemoryDB from your Amazon Virtual Private Cloud (Amazon VPC) in the AWS GovCloud (US-West) ...",
+      "published": "Wed, 02 Sep 2026 14:06:00 GMT",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "50d4bd13e3d923fb8083ed9af7986f79",
+      "title": "さくらインターネット、「さくらのレンタルサーバ」および販売管理システムへの不正アクセスについて調査結果を公開 「さくらのレンタルサーバ」不正アクセス対象は951アカウントに拡大",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2139863.html",
+      "summary": "",
+      "published": "2026-09-10T08:56:59Z",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ad4924e2ea93f54d7c247e83cf24bf4",
+      "title": "はてブ民がまた対人論証に逃げているが",
+      "link": "https://anond.hatelabo.jp/20260908113255",
+      "summary": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家 https://b.hatena.ne.jp/entry/s/note.com/seanky/n/n599fd58fa2c1 err931 ウヨちゃんがダボハゼのごとく釣れていて草。 なるほどそりゃこれだけ釣れれば良い商売になりますな...",
+      "published": "2026-09-08T02:38:41Z",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "885b91dee30db7b9047d98adc764596d",
+      "title": "GitHub - nashsu/llm_wiki: LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 · GitHub",
+      "link": "https://github.com/nashsu/llm_wiki",
+      "summary": "📦 nashsu / llm_wiki ⭐ 17,820 (+94) 🗒 TypeScript LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlin...",
+      "published": "10 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30f45cd66d5520ce8c9b1932112250f2",
+      "title": "GitHub - alsk1992/CloddsBot: Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. · GitHub",
+      "link": "https://github.com/alsk1992/CloddsBot",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 alsk1992 / CloddsBot ⭐ 1,329 (+299) 🗒 TypeScript Open Source AI trading agent that operates autonomously across 1...",
+      "published": "10 Sep 2026 20:17 +0000",
+      "fetched_at": "2026-09-10T21:56:32.868264+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-10T20:16:01.098575+00:00"
+  "updated_at": "2026-09-10T21:56:32.868264+00:00"
 }

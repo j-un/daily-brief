@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c5ab66be9095ec356001e1729f8ec834",
-      "title": "AWS、新たな太平洋海底ケーブル「Sta'O'Nuk」発表。420Tbps、2029年に稼働へ。集中リスク排除のため新たな陸揚げ拠点を採用 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS、新たな太平洋海底ケーブル「Sta'O'Nuk」発表。420Tbps、2029年に稼働へ。集中リスク排除のため新たな陸揚げ拠点を採用",
-      "published": "09 Sep 2026 06:56 +0000",
-      "fetched_at": "2026-09-09T08:29:47.621415+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f534f7e1662b949bc815ed4d4f7dffdc",
       "title": "ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
@@ -829,7 +819,377 @@
       "fetched_at": "2026-09-10T08:32:01.045798+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "1b8719c4d2e40858bb7be493026847dc",
+      "title": "AWS CDK実践ガイド─クラウドインフラをコードで構造化する | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15961-0",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS CDK実践ガイド─クラウドインフラをコードで構造化する | 技術評論社",
+      "published": "10 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eec98bbe8ae6c2d1a66c9a9a51373934",
+      "title": "Linux 7.3-rc1リリース、次世代ハードウェアのサポートが加速 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/daily-linux-260901",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Linux 7.3-rc1リリース、次世代ハードウェアのサポートが加速 | gihyo.jp",
+      "published": "10 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b90025e4b344de7003d341860ef2c90",
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "link": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "summary": "Article URL: https://honestlyranked.com/guides/streaming-price-increases/ Comments URL: https://news.ycombinator.com/item?id=49641215 Points: 254 # Co...",
+      "published": "Thu, 10 Sep 2026 10:13:59 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30918900f1763f6ab0e8dc157c04b1f6",
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683 Comments URL: https://news.ycombinator.com/item?id=49640646 Points: 185 ...",
+      "published": "Thu, 10 Sep 2026 09:04:14 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4794af29fa29b94d462a3530f8a1008e",
+      "title": "I think I hate the internet",
+      "link": "https://strategictree.bearblog.dev/i-think-i-hate-the-internet/",
+      "summary": "Article URL: https://strategictree.bearblog.dev/i-think-i-hate-the-internet/ Comments URL: https://news.ycombinator.com/item?id=49639104 Points: 143 #...",
+      "published": "Thu, 10 Sep 2026 06:12:23 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1852353dfffc7d0ac046bcda40822a35",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "summary": "Article URL: https://hugovergnes.github.io/little-lm-3-8b/ Comments URL: https://news.ycombinator.com/item?id=49637435 Points: 102 # Comments: 15",
+      "published": "Thu, 10 Sep 2026 02:04:11 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7c930918e123b4ebb58b0969ab252f8",
+      "title": "Factoring RSA 260",
+      "link": "https://cognition.com/blog/factoring-rsa-260",
+      "summary": "Article URL: https://cognition.com/blog/factoring-rsa-260 Comments URL: https://news.ycombinator.com/item?id=49633534 Points: 112 # Comments: 13",
+      "published": "Wed, 09 Sep 2026 20:16:08 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "64f2ddb09a410ce89f865717f5b9c305",
+      "title": "AWS AI セキュリティフレームワーク: レイヤーとフェーズに応じた適切なセキュリティコントロール",
+      "link": "https://aws.amazon.com/jp/blogs/news/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
+      "summary": "AWS AI Security Framework は、適切なコントロールを適切なユースケース・レイヤー・フェーズに対応づけ、AI をプロトタイプから本番、そしてスケールまで安全に進めるための体系的なモデルです。多層防御を「インフラストラクチャ」「アイデンティティとデータ」「AI アプリケーション」...",
+      "published": "Thu, 10 Sep 2026 11:16:48 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "28c852a46c187abc4777c51741a9bc03",
+      "title": "人生をあきらめたら希死念慮がなくなった",
+      "link": "https://anond.hatelabo.jp/20260910154808",
+      "summary": "学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...",
+      "published": "2026-09-10T06:55:15Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "121bebc01d761a60deb031310aa1acdf",
+      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2139791.html",
+      "summary": "",
+      "published": "2026-09-10T08:47:29Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2702b6b2ab90137a91e868015113cc3",
+      "title": "しばらく先行レビューしていたAppleのフォルダブルDuoについて語らせてくれ（CloseBox） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/10/5483.html",
+      "summary": "Appleが新しいCEO、ジョン・ターナスの元で新製品を出したそうですね。Duoとかいうフォルダブル。二つ折りの携帯端末。筆者も先行レビューしているので紹介しましょう。 鮮明なディスプレイと、その後の携帯端末を定義づける画期的なフォルム。閉じていてもかっこいい。 開くと頑丈なヒンジが確実にボディとデ...",
+      "published": "2026-09-10T04:18:01Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf2a5651428ce4815f2b72b62257b6a7",
+      "title": "日本郵便、消印の時間帯表示廃止へ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140015.html",
+      "summary": "",
+      "published": "2026-09-10T10:28:13Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7db3b693cf8a3f206d9a0b43a500660d",
+      "title": "[iPhone駆け込み寺] 「iPhone Duo」も気になるけど実は「Apple Watch」がスゴイ！ 9月10日のアップル発表会の注目ポイント解説",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139941.html",
+      "summary": "",
+      "published": "2026-09-10T08:39:39Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f90df0684d4b09470bb56f74887f0eb",
+      "title": "第5世代THS採用で燃費低減と出力向上を両立したトヨタの新型「クラウン クロスオーバー」 一部改良のポイントを開発者 多和田貴徳氏らに聞く",
+      "link": "https://car.watch.impress.co.jp/docs/news/2139858.html",
+      "summary": "",
+      "published": "2026-09-10T09:24:26Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fac20ec60cd300a4ca93dcfee2e60d5",
+      "title": "エージェント経済圏の決済設計 — クレジットカードからステーブルコインまで",
+      "link": "https://zenn.dev/natsuking/books/credit-card-agentic-payments",
+      "summary": "クレジットカード決済を「誰がどの制御点を握るか」という視点で、登場人物・オーソリ電文・トークン化・3DS・手数料・日本固有事情まで分解する。その基礎の上で、Mastercard・Visa・Stripe・Googleのエージェント決済とステーブルコイン決済をプロトコル・コードレベルで横断比較し、最後は...",
+      "published": "2026-07-14T13:55:33Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3b36f8372ac32efb4a03cb2fa44939f",
+      "title": "日本在住の外国人として、「外国人問題」について考えたこと | Coral Capital",
+      "link": "https://coralcap.co/2026/09/foreigner-problem-in-japan/",
+      "summary": "日本の移民政策について本格的に調べ始めたのは、このテーマが政治的にあまりに炎上しやすくなっていて、表面的な印象を信じるわけにはいかないと感じたからです。 かつて日本で移民といえば、どちらかといえば実務的な政策議論でした。人手不足、ビザ、技能実習、日本語教育、永住権。それが次第に、感情的なものへと変....",
+      "published": "2026-09-10T02:53:33Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aaddb815e5b55bd9b47b5e3d5e6192e9",
+      "title": "[iPhone駆け込み寺] iPhone 18 Pro/Pro Maxの進化ポイント――iPhone 17 Pro/Pro Maxから何が変わった？",
+      "link": "https://k-tai.watch.impress.co.jp/docs/review/iphonetips/2139754.html",
+      "summary": "",
+      "published": "2026-09-10T03:52:40Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5fe28c184fb1808bc7253f9132ee14d",
+      "title": "cpprefjp最初の完成のお知らせ - C++29の現在の仕様案まで追いつきました - Faith and Brave - C++で遊ぼう",
+      "link": "https://faithandbrave.hateblo.jp/entry/2026/09/10/154959",
+      "summary": "2011年から始めたC++日本語リファレンスサイトcpprefjpの取り組みですが、C++29の最新ワーキングドラフトの状態まで、ほぼ完全に追従しました。 15年かけてようやく最新に追いつきました。 全体では7,405ページになりました。 本一冊を300ページとすると25冊分の文量になります。1ペー...",
+      "published": "2026-09-10T07:04:34Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8238644b81cb66939d23d6a690e1f759",
+      "title": "大金かけて作ったAIを無料公開できるワケ ローカルLLMブームを支えるベンダーと国家の思惑",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001352/",
+      "summary": "AIモデルを無料で公開して、企業はどこで稼ぐのか。ローカルLLMの盛り上がりを支えるオープンウェイトモデルには、開発に多くの資金と計算資源が投じられている。それでも公開が続く背景には、GPUやクラウドを売りたい企業の戦略がある。 さらに、どの国のモデルが世界で使われるかは、国家間の競争にも関わる。ロ...",
+      "published": "2026-09-10T03:30:59Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7d638db39a93327092a6b6d2d7a039f",
+      "title": "NEC、社内の“AIトークン節約”に注力 「同じ使われ方なら10分の1に」と小玉CAXO",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001333/",
+      "summary": "「（2026年の）上期中に5分の1、下期中に10分の1に下げる」――NECの小玉浩氏（執行役 Corporate EVP 兼 CAXO）は9月9日、全社のAI利用に掛かる“実質的なトークンコスト”の削減目標をこのように説明した。全社員の役割をAIが担う新組織「コーポレートAI・Workforce部門...",
+      "published": "2026-09-10T02:18:11Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91bac49b239544db2699d48e5c220f9e",
+      "title": "AIが考えるおばあちゃんゲーム【Pollo AI/Seedance 2.5】",
+      "link": "https://www.youtube.com/watch?v=fxS4P6IhKxs",
+      "summary": "Pollo AIに新登場したSeedance 2.5で 「ババア・セフト・シニアカー」を作りました。 ▼Pollo AI（Seedance 2.5）はこちら https://cutt.ly/myld48nv いまSeedance 2.5をPollo AIで使うと、クレジットが1ヶ月60%オフです。 ...",
+      "published": "2026-09-10T03:22:28Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "87d43ced88ec0f7286124c6411ac15df",
+      "title": "Google Search",
+      "link": "https://www.google.com/search?si=",
+      "summary": "Google 検索にアクセスできない場合は、ここをクリックするか、フィードバックを送信してください。",
+      "published": "2026-09-09T12:07:59Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e4c64321fc825f12a693969c693ceb2",
+      "title": "Designing for iPhone Duo | Apple Developer Documentation",
+      "link": "https://developer.apple.com/design/human-interface-guidelines/designing-for-iphone-duo",
+      "summary": "An app designed for iPhone Duo adapts seamlessly to both displays, providing a continuous experience as the device opens and closes.",
+      "published": "2026-09-10T05:02:56Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10a540b979c20b38dca717498271bae2",
+      "title": "なぜ権利者たちはGoogle PlayブックスとGemini Notebookの連携を歓迎したのか？ ―― Expert IntelligenceとAmazon Kindleの決定的な違い",
+      "link": "https://honjp.theletter.jp/posts/948821f9-2935-4679-b690-26d0e87a5807",
+      "summary": "Googleが日本で「NotebookLM」の提供を始めたのは2024年6月のことでした。テキスト、PDF、スライド、ウェブページなどをNotebookLMの「ノート」にソースとして放り込むと、Google Geminiに内容について質問して分析調査したり、要約させたりできるサービスです。現在は、G...",
+      "published": "2026-09-10T08:15:06Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "725fda0384aed3d03b7a868854d00ae8",
+      "title": "HTMLの属性で動的UIを実現するJavaScriptライブラリ「htmx 4.0.0」リリース",
+      "link": "https://codezine.jp/news/detail/29606",
+      "summary": "8月28日、htmxチームは軽量JavaScriptライブラリ「htmx」の最新版「htmx 4.0.0」をリリースした。 2.xと4.xの動作上の違いは比較的小さく、ユーザーから見るとほぼ同じだという。内部的にはXMLHttpRequestからfetch()へ移行したものの、ほとんどのユーザーにそ...",
+      "published": "2026-09-09T09:53:31Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f995aa8e37f933d2698705f900ff43f",
+      "title": "Apple Watch Series 12発表。最高精度の心拍センサー搭載、環境音認識も",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2139780.html",
+      "summary": "",
+      "published": "2026-09-10T03:29:52Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f4835240ba0993d6190ab95d1bcc6c7",
+      "title": "VAIO Zの変形機構が復活。マグネットで変形する「VAIO T」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2139720.html",
+      "summary": "",
+      "published": "2026-09-10T04:55:54Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca49faa29dea0901e610120904bae4a4",
+      "title": "290円から選べるRISC-Vマイコン「CH32」、4種のチップ選び方ガイド - FabScene（ファブシーン）",
+      "link": "https://fabscene.com/new/pr/ch32-chip-board-guide/",
+      "summary": "「電子工作を始めるのにおすすめのボードは？」 その答えは、時代とともに変化している。10年ほど前であれば、8bit AVRを搭載したArduino Unoが一つの定番だった。その後、STM32やESP32、RP2040など32bitマイコンが普及し、Maker向けマイコンの選択肢は大きく広がった。そ...",
+      "published": "2026-09-10T03:42:30Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d9ee06fb7ff5cff92e742ec8275ffad",
+      "title": "折りたたみiPhone「Duo」はApple復活の切り札となるか、AIエージェント時代に賭けたターナス新CEOの戦略 【生成AI事件簿】競合より7年遅れ、36万円での勝算…新Siriと大画面が示すiPhoneの新しい役割 | JBpress (ジェイビープレス)",
+      "link": "https://jbpress.ismedia.jp/articles/-/96948",
+      "summary": "2026年9月9日（日本時間10日未明）、米Appleは本社で新製品発表イベント「Surprise and shine」を開催した。壇上の主役は、9月1日にCEOに就任したばかりのジョン・ターナスである。冒頭の映像でティム・クック前CEOは「Not me. That's your guy（私ではない...",
+      "published": "2026-09-10T03:19:49Z",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2db341dcc98541811063252518c385f",
+      "title": "【登壇レポート】 勉強会 opsmethod#4 「増え続ける運用を、Skill 化する\"型\"でさばく」というタイトルで登壇しました！",
+      "link": "https://dev.classmethod.jp/articles/20260908-opsmethod4-agent-skills-for-operation/",
+      "summary": "運用の文脈を明確にし、チーム全体で共通の「型」を用いてSkillを構築するアプローチについて、勉強会での登壇内容をご紹介します。",
+      "published": "Thu, 10 Sep 2026 13:16:20 GMT",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fddd488eb2624fc49c281fdbaf7e51e",
+      "title": "Amazon Quickのアプリでスコアの対応メモをSlackに投稿してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-apps-slack-connector/",
+      "summary": "Quickのアプリ機能を使用して、ダッシュボードのメモを共有・相談までをノーコードで完結させる流れを紹介します。",
+      "published": "Thu, 10 Sep 2026 13:12:14 GMT",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f34487a2d5fd367e2ec3157828724b09",
+      "title": "Rust 1.98 の algebraic_* でオーディオ DSP は速くなるのか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/rust-1-98-algebraic-float-audio-dsp/",
+      "summary": "gain と mixing の性能は、通常演算とほぼ同じでした。dot product が 2.75〜6.94 倍、64 タップ FIR が約 3.5 倍になりました。一方で、高速化と引き換えに通常演算との差が生じました。",
+      "published": "Thu, 10 Sep 2026 11:13:35 GMT",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a902bc133093a600a481d43ecebf2608",
+      "title": "JS, TS用のロギングライブラリLogTapeを使ってみる",
+      "link": "https://dev.classmethod.jp/articles/using-js-ts-logging-library-logtape/",
+      "summary": "Cloudflare Workersでエラーログが正しく出力されず困っていたので、LogTapeというロギングライブラリを試してみました。その使い方や特徴についてまとめます。",
+      "published": "Thu, 10 Sep 2026 09:30:05 GMT",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "332c93a7e1a1477fb1f4b6fa39c6981d",
+      "title": "Amazon Cognito のユーザーグループに応じて Bedrock Guardrails を動的に切り替える",
+      "link": "https://dev.classmethod.jp/articles/cognito-group-bedrock-guardrails-routing/",
+      "summary": "Amazon Cognito のユーザーグループ情報を活用して、Amazon Bedrock Guardrails を動的に切り替える構成を試してみました。認証済みユーザーのグループに応じて、異なるガードレールを適用する方法を紹介します。",
+      "published": "Thu, 10 Sep 2026 09:25:00 GMT",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d51e2d32d21080dca8963d4f11ebcf57",
+      "title": "Neumann expands its range of 3-way monitors: meet the KH 310 II and KH 350",
+      "link": "https://musictech.com/news/gear/neumann-kh-310-ii-and-kh-350/",
+      "summary": "“The same trusted reference standard while allowing users to choose the monitoring concept that best supports their workflow.” The post Neumann expand...",
+      "published": "Thu, 10 Sep 2026 12:00:41 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7e22d1b8ffec7dbd84274cba571b7029",
+      "title": "Tonalic adds the smooth grooves of upright bassist Paul Kleber to its library",
+      "link": "https://musictech.com/news/music/tonalic-paul-kleber/",
+      "summary": "The notable Berlin player has provided low end for Emilíana Torrini, Fink, Dee Dee Bridgewater, and Nina Hagen. The post Tonalic adds the smooth groov...",
+      "published": "Thu, 10 Sep 2026 10:37:54 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "4f3c65f687881e88e21ef1dde5c56ecf",
+      "title": "“These mixers set the bar for the perfect intersection of performance and value”: Soundcraft unveils new line of analogue mixing consoles",
+      "link": "https://musictech.com/news/gear/soundcraft-signature-plus-series/",
+      "summary": "The new Signature Plus Series is marketed towards studio engineers, live performers, podcasters, and content creators. The post “These mixers set the ...",
+      "published": "Thu, 10 Sep 2026 08:51:11 +0000",
+      "fetched_at": "2026-09-10T13:59:09.790579+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-10T08:32:01.045798+00:00"
+  "updated_at": "2026-09-10T13:59:09.790579+00:00"
 }

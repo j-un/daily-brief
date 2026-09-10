@@ -1,4 +1,75 @@
 {
-  "articles": [],
-  "updated_at": "2026-09-10T21:56:32.868264+00:00"
+  "articles": [
+    {
+      "entry_id": "1e2e8720f62216e976d73461447bef8b",
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments URL: https://news.ycombinator.com/item?id=49650326 Points: 1...",
+      "published": "Thu, 10 Sep 2026 21:22:59 +0000",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4a24b3cd659931eccd673bf9aa67688",
+      "title": "Creativity is the new moat",
+      "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comments URL: https://news.ycombinator.com/item?id=49648732 Point...",
+      "published": "Thu, 10 Sep 2026 19:03:34 +0000",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7109052a26098014fa4eb7302c7e3359",
+      "title": "NASA technique for manipulating satellite photos now reveals ancient images",
+      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "summary": "https://dstretch.com/DecorrelationStretch.pdf Comments URL: https://news.ycombinator.com/item?id=49645437 Points: 245 # Comments: 35",
+      "published": "Thu, 10 Sep 2026 15:29:30 +0000",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "494046d374ac0add67fe70f7905238e6",
+      "title": "AWS Transform for .NET now generates unit tests for modernized code",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
+      "summary": "Today, AWS announced that AWS Transform for .NET can automatically generate unit tests for the code it modernizes. When enabled, AWS Transform generat...",
+      "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0714b7a1356553f8696e6b89a5853a94",
+      "title": "LG、テレビの「会話盗聴」を否定 検証動画に反論",
+      "link": "https://japan.cnet.com/article/35252479/",
+      "summary": "LGは米国時間9月9日、自社のテレビがユーザーの会話を盗み聞きしているとの指摘を否定した。ゲーム情報サイトが、同社のテレビを使って会話をリアルタイムで盗聴できることを示したとする動画を公開したことを受けたものだ。 LGの広報担当者は米CNETに寄せた声明で、「最近公開された動画の主張は事実ではない」...",
+      "published": "2026-09-10T09:00:36Z",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "47e74cdc78c671c115a07ddb7b1f2bf9",
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "link": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "summary": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious ...",
+      "published": "2026-09-10T19:40:09Z",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e32b4a5afb3c97b2d95efecf8208d68",
+      "title": "独立系Wikiが「Google監獄」に放り込まれ開設から1年近く検索結果に表示されない現象が多数発生中",
+      "link": "https://gigazine.net/news/20260910-wiki-index-problem/",
+      "summary": "ファン同士で情報を編集するサイトを構築しているグループが、既存のサイトから情報を移転する作業を行う中でGoogleの検索結果に全く表示されなくなってしまったことを報告しました。このような情報サイト「Wiki」をGoogleが狙い撃ちしている可能性が指摘されています。 There’s a new “G...",
+      "published": "2026-09-10T11:01:47Z",
+      "fetched_at": "2026-09-10T23:34:53.629505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-09-10T23:34:53.629505+00:00"
 }

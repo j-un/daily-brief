@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f534f7e1662b949bc815ed4d4f7dffdc",
-      "title": "ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表",
-      "published": "09 Sep 2026 08:56 +0000",
-      "fetched_at": "2026-09-09T14:03:37.785471+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "073eca1fa6f632e12301774cca184dc8",
       "title": "フィーチャートグルをもっとEasyに使おう - BASEプロダクトチームブログ",
       "link": "https://devblog.thebase.in/entry/2026/09/02/100000",
@@ -1499,7 +1489,217 @@
       "fetched_at": "2026-09-10T17:30:39.699369+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "0ca4e216a29d98006c10f2f46941e070",
+      "title": "2026 年 8 月後半の LLM 利用状況",
+      "link": "https://voluntas.ghost.io/2026-08-second-half-llm/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 2026 年 8 月後半の LLM 利用状況",
+      "published": "09 Sep 2026 02:56 +0000",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cdabb0ffd78bc6de4b4e3773ffe96c8",
+      "title": "I have a theory that software drives people insane",
+      "link": "https://graybeard.ing/software-drives-people-insane/",
+      "summary": "Article URL: https://graybeard.ing/software-drives-people-insane/ Comments URL: https://news.ycombinator.com/item?id=49646181 Points: 284 # Comments: ...",
+      "published": "Thu, 10 Sep 2026 16:13:42 +0000",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8fe1bc5600f62803e340eb62510e874",
+      "title": "Neki",
+      "link": "https://planetscale.com/blog/introducing-neki",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 152 # Comments: 57",
+      "published": "Thu, 10 Sep 2026 15:43:49 +0000",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e0e4a87ab00bf8aad52444a1b5bb73e",
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "link": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "summary": "Article URL: https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844 Comments URL: https://news.yc...",
+      "published": "Thu, 10 Sep 2026 15:29:30 +0000",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f09ce9b0b1af0d837e0c06d471cd3e5",
+      "title": "AWS Lambda durable functions integrates with Pydantic AI",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/",
+      "summary": "Today, AWS Lambda durable functions announces an integration with Pydantic AI, an open source framework for building AI agents in Python. AWS Lambda d...",
+      "published": "Thu, 10 Sep 2026 18:45:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c80c2cbf8ddcf333182169a68c9e542",
+      "title": "Amazon MQ now supports RabbitMQ 4.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/",
+      "summary": "Amazon MQ now supports RabbitMQ version 4.3 which adds quorum queue feature enhancements such as compaction, increased priority levels, native delayed...",
+      "published": "Thu, 10 Sep 2026 18:08:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9513514af0f1259fe79f558ccf7ed237",
+      "title": "Announcing second-generation single-rack AWS Outposts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/",
+      "summary": "Today, AWS announces the general availability of second-generation single-rack AWS Outposts, a self-contained 42U rack that integrates compute, storag...",
+      "published": "Thu, 10 Sep 2026 17:58:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "88cca729f0212326911b02ffd10a42ed",
+      "title": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/",
+      "summary": "You can now build full-stack search and AI applications in minutes using Amazon OpenSearch Serverless on v0 by Vercel, an AI-powered platform that tra...",
+      "published": "Thu, 10 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f19a6689475c23e6a3e904f27ef88e9",
+      "title": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich",
+      "summary": "Amazon Redshift RG instances, powered by AWS Graviton processors, are now available in the AWS Europe (Zurich) Region. RG instances deliver better per...",
+      "published": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "280faf79625c4b5e67003465328f911b",
+      "title": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/",
+      "summary": "With synthetic monitors in Amazon CloudWatch Network Monitoring, you can now determine whether a network performance issue on a path that crosses an A...",
+      "published": "Thu, 10 Sep 2026 11:00:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1aa526eef7378e6f3fe4599923360924",
+      "title": "Amazon EVS is now available in more regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions/",
+      "summary": "Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Osaka), Asia Pacific (Taipei), Europe (S...",
+      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d703584a7d9e5b18ba257c5f7530ffb6",
+      "title": "Amazon Quick adds always-on agents, a sharper feed, and enterprise controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-always-on-agents-sharper-feed-enterprise-controls/",
+      "summary": "Today, Amazon Quick offers new capabilities that make it easier to organize your work, govern it across an organization, and trust the answers it prod...",
+      "published": "Wed, 09 Sep 2026 15:51:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8255d9207ae79012e6241a99d5ad4d5c",
+      "title": "Amazon Quick activity feed now available on iOS and Android mobile devices",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-activity-feed-available-ios-android-mobile-devices/",
+      "summary": "The Amazon Quick activity feed is now available on the Amazon Quick mobile app for iOS and Android, keeping you connected to your most important work ...",
+      "published": "Wed, 09 Sep 2026 15:39:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbc1bc90a1bd021a98b2e2fc7ca6fcb0",
+      "title": "Amazon Quick desktop app is now generally available on macOS and Windows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/",
+      "summary": "The Amazon Quick desktop app is now generally available on macOS and Windows. The desktop app brings the full power of Amazon Quick to your computer, ...",
+      "published": "Wed, 09 Sep 2026 15:23:00 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f235d53ab1dec408ce61a6a8dd1ed454",
+      "title": "iPhone全機種値上げ、Apple強まる「固定客」頼み AI台頭で供給網支配に陰り - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN04BJT0U6A900C2000000/",
+      "summary": "【シリコンバレー=伴正春、山田航平】米アップルは9日、日本向けでは36万円台の折り畳み型のiPhoneを発表し、全機種で前モデルより値上げした。半導体メモリーなどのコストが膨らむ中での高価格シフトは、固定客頼みの部分が大きい。供給網（サプライチェーン）支配には陰りが見える。「考え抜かれたデザインと画...",
+      "published": "2026-09-10T08:26:53Z",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed3610c131c56baeaf00a4d26e7ea691",
+      "title": "API・データ - ブックマーカー図鑑",
+      "link": "https://bookmarker-encyclopedia.netlify.app/api-data/",
+      "summary": "各ユーザーのプロフィールを生成しているデータ（JSON）を、そのまま取得・ダウンロードできます。 プロフィールデータの取得 各ユーザーのデータは、はてなIDを使った次のURLで JSON として取得できます （厳密なAPIサーバーではなく、静的ファイルの配信です）。 ⚠ ユーザー名は小文字で 配信元...",
+      "published": "2026-07-23T03:08:01Z",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1f6fa6fea74d5cf173dc5866a97928b",
+      "title": "Opus 5に迫る「DeepSeek-V4.1-Flash」無償公開、DeepSeekショック再びか",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2140010.html",
+      "summary": "",
+      "published": "2026-09-10T12:17:37Z",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "752c414f4ececfb0e9cd78b5eb0f759a",
+      "title": "【エンタメGO】 「超かぐや姫!」Blu-ray特装限定版を開封。特製ボックスにゲーミング電柱の扉が!!",
+      "link": "https://av.watch.impress.co.jp/docs/series/entamego/2139942.html",
+      "summary": "",
+      "published": "2026-09-10T08:24:25Z",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fd2257f55e2d485eaafd6642ed1d760",
+      "title": "「DeepSeek-V4.1-Flash」発表 値上げから一転「より低コストでフラッグシップ超え」うたう",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001374/",
+      "summary": "より賢く、より速く、より効率的――中国のAI開発会社DeepSeekは9月10日（現地時間）、新モデル「DeepSeek-V4.1-Flash」を発表し、性能についてそのようにアピールした。同モデルは新しいアーキテクチャや学習方法を採用することで、同社フラッグシップの「DeepSeek-V4-Pro...",
+      "published": "2026-09-10T08:23:33Z",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00c0a77afedd11acad17ae95f5cc9655",
+      "title": "iOSアプリ開発の気になる変更まとめ（2026/09/10）",
+      "link": "https://dev.classmethod.jp/articles/ios-dev-weekly-changes-20260911/",
+      "summary": "iOS 27 RC / Xcode 27 RCのリリースノートをBeta 4から比較し、iPhone Duoの発表に伴う開発者向け変更もまとめた。MetricKitの破壊的変更、iPadリサイズ動作の変更、UIScreen.main移行の必須化など、GA前に押さえておきたい変更を整理した。",
+      "published": "Thu, 10 Sep 2026 19:45:23 GMT",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a3a9f2590e50aef42b28b1944ca9070",
+      "title": "Solex Does It Again",
+      "link": "https://daily.bandcamp.com/features/solex-low-kick-and-hard-bop-album-guide",
+      "summary": "Revisiting the quirky joys of Elisabeth Esselink's '90s cut-and-paste indie project. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 10 Sep 2026 18:01:35 -0000",
+      "fetched_at": "2026-09-10T20:16:01.098575+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-10T17:30:39.699369+00:00"
+  "updated_at": "2026-09-10T20:16:01.098575+00:00"
 }

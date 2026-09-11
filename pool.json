@@ -69,7 +69,217 @@
       "fetched_at": "2026-09-10T23:34:53.629505+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "a7d80c5c10e925d1324d47314df112a6",
+      "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤",
+      "published": "11 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba6b272a8e117040e1623e871e47e34e",
+      "title": "サイバーセキュリティにおける「ヒトを測る」技術：学習効果とセキュリティ対策能力の定量化｜KDDI Tech note",
+      "link": "https://tech-note.kddi.com/n/n87c0363bc84c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 サイバーセキュリティにおける「ヒトを測る」技術：学習効果とセキュリティ対策能力の定量化",
+      "published": "10 Sep 2026 23:55 +0000",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f4979d2480b344268b33edb2e657170",
+      "title": "OpenAI Agents API",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "Article URL: https://developers.openai.com/api/docs/guides/agents-api/overview Comments URL: https://news.ycombinator.com/item?id=49649213 Points: 137...",
+      "published": "Thu, 10 Sep 2026 19:43:22 +0000",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fdf057df7a2580f9b055449a2c2c034",
+      "title": "AI の投資収益率 (ROI) を算出する",
+      "link": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
+      "summary": "人工知能 (AI) に投資した 1 ドルごとに 2 ドルのリターンが得られるのであれば、コストの増加は非効率で […]",
+      "published": "Fri, 11 Sep 2026 01:03:21 +0000",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ac1ab4c94aa03131397c185c3194d5b",
+      "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
+      "link": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
+      "summary": "TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側...",
+      "published": "2026-09-10T23:12:56Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "598cd9043bd5504836a7b50398f8c520",
+      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
+      "link": "https://ascii.jp/elem/000/004/432/4432444/",
+      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防...",
+      "published": "2026-09-10T13:26:48Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "36d3cd77ba496fcad0727fad0845df47",
+      "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
+      "link": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
+      "summary": "ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありましたが、どれも実測がありま...",
+      "published": "2026-09-09T08:43:29Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc7896272d87b2355dcbfbecfcc57ed1",
+      "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
+      "summary": "2026.09.10 技術記事 DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] by Hiroyuki Nishizaki #infrastructure #sre #database #mysql #aws #google-cloud こんにち...",
+      "published": "2026-09-10T15:22:31Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a11955304bc393bec84ac4276f94013d",
+      "title": "まさかの「AIが面接に来た」 話し方に“違和感” AIベンチャー代表が動画公開し注意喚起",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/10/2000001378/",
+      "summary": "「人生で初めてAIが面接に来た」――AIベンチャーKOWRO（コヲロ、東京都港区）の原田祐二CEOは9月10日、自身のXアカウント（@1230yuji）でこのような動画を公開した。オンライン面接の一部を映したもので、原田CEOと一部不自然な点が見られる候補者が会話する様子を確認できる。 動画内で候補...",
+      "published": "2026-09-10T08:24:22Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26d5c9762019606bf3833fc0bd20d2b7",
+      "title": "生成AIによるデータ分析を「仕様」から始める：仕様駆動データ分析（SDA）の実践 - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202609-sda/entry",
+      "summary": "生成AIを使えば、SQLやPythonコード、グラフなどのたたき台を短時間で作れます。 しかし、分析目的や指標、対象データなどの前提が曖昧なままでは、生成された結果が正しく見えても、そのまま意思決定に使えるとは限りません。 そこで私たちは、分析に必要な前提を「仕様」として整理し、その仕様を基準に人間...",
+      "published": "2026-09-09T00:02:09Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc3cd599c063126b591d2c03ce07059c",
+      "title": "regexのUnicode対応とSRELL",
+      "link": "https://www.akenotsuki.com/misc/srell/uniregex.html",
+      "summary": "目次 regexのUnicode対応に向けて (2019/08/24) ※2019/09/10, 2020/06/20更新 WG21 ベルファスト会議 (2019/11/20) ※2020/06/20更新 WG21 プラハ会議 (2020/02/13) ※2020/02/22追記, 2020/06/...",
+      "published": "2026-09-11T00:05:25Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "916f5a380bb93f4d2a603afe15968564",
+      "title": "PayPayもQRコード不要で支払える--JCBの「NFCタグ決済」が8種類のコード決済に対応",
+      "link": "https://japan.cnet.com/article/35252499/",
+      "summary": "ジェーシービー（JCB）と、コード決済のゲートウェイ事業を手掛けるキャナルペイメントサービス（CPS）は9月9日、JCBの「NFCタグ決済サービス」でQRコード決済の取り扱いを始めると発表した。店頭のNFCタグにスマートフォンをかざして支払うサービスで、対応するのはPayPay、d払い、au PAY...",
+      "published": "2026-09-10T15:21:36Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b20225eb1de3c5d2d4a8a06b176d0140",
+      "title": "【特集】 iPhone 18 Pro/Pro Maxは前モデルからどう変わった？スペックで比較",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2139893.html",
+      "summary": "",
+      "published": "2026-09-10T08:58:58Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1271c6f02490fc8658e6c3701b5bbfad",
+      "title": "Native is now the future of mobile at Shopify (2026) - Shopify",
+      "link": "https://shopify.engineering/back-to-native",
+      "summary": "Native is now the future of mobile at ShopifyCoding agents changed what it costs to build mobile apps twice. Here’s why Shopify is moving from React N...",
+      "published": "2026-09-10T19:08:31Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c287c361e56bee843b22580f0871437",
+      "title": "Ruby Webアプリケーションで使うセルフホスティングサーバーをセットアップする（翻訳）｜TechRacho by BPS株式会社",
+      "link": "https://techracho.bpsinc.jp/hachi8833/2026_09_10/159297",
+      "summary": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Binary Solo | Server setup for Ruby web applications 原文公開日: 2026年07月23日 原著者: Ayush Newatia 日本語タイトルは内容に即したものにしました。 Heroku...",
+      "published": "2026-09-10T08:40:30Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef55faf7e2272c57708cc81c9717fcf7",
+      "title": "ハエの「脳を含む全神経」を丸ごと配線図化--マリオやDOOM、クルマを動かす実験も",
+      "link": "https://japan.cnet.com/article/35252506/",
+      "summary": "ハエの神経回路をコンピューター上で動かし、ゲームやクルマを操作させる実験が相次いでいる。背景にあるのが、ショウジョウバエの神経細胞と、そのつながりをほぼ丸ごと記録した「コネクトーム」だ。 米Howard Hughes Medical Institute（HHMI）のJanelia Research ...",
+      "published": "2026-09-10T22:19:55Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56feebae5460c64a8814d8156ad4ff04",
+      "title": "AIで楽をするつもりが、374プロンプト。会社サイトを作ってわかった5つのこと｜片山良平＠Eldipa代表、paiza創業者",
+      "link": "https://note.com/rk611/n/n619b68f82580",
+      "summary": "今回AIネイティブ体制で作ってみようということで、Claude Codeを使い、私とエンジニア1名の2人体制で約3週間で制作しました。デザイン案は11案、ヒーロー動画の比較は55本、デザイン制作を通じて投げたプロンプトは374本のデザイン制作でした。※エンジニア側の実装プロンプトは含みません。 「1...",
+      "published": "2026-09-10T23:58:08Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "530b0548664c232e252da2f25a1fb0fc",
+      "title": "[法林岳之・石川温・石野純也・佐藤文彦のスマホ会議（仮）] Pixel、Xperia、arrows。部材高騰に苦しむ市場に現れるメーカーごとの特色",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/congress/2138490.html",
+      "summary": "",
+      "published": "2026-09-10T15:21:00Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1efb806c2d169b8f8280a941661cef3",
+      "title": "【福田昭のセミコン業界最前線】 NAND積層でHBM超えの大容量、SandiskのHBFが推論GPUを半減",
+      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2139744.html",
+      "summary": "",
+      "published": "2026-09-10T06:10:42Z",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8699931bd0d77914774f3f6c5011230",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 JustVug…",
+      "link": "https://github.com/JustVugg/colibri",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 JustVugg / colibri ⭐ 27,290 (+157) 🗒 C Run frontier MoE models on hardware you already own — pure C, zero deps, exper...",
+      "published": "11 Sep 2026 00:17 +0000",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f3744d2620a0a8e022df56b7b77cc42",
+      "title": "[アップデート] AWS Transform for .NET のモダナイゼーションが GA となり CLI でも実行できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aws-transform-dotnet-cli/",
+      "summary": ".NET、ATX CLI対応してなかったのか",
+      "published": "Thu, 10 Sep 2026 23:57:09 GMT",
+      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-10T23:34:53.629505+00:00"
+  "updated_at": "2026-09-11T02:17:28.434930+00:00"
 }

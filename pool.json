@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a7d80c5c10e925d1324d47314df112a6",
-      "title": "壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤 - MonotaRO Tech Blog",
-      "link": "https://tech-blog.monotaro.com/entry/2026/09/03/090000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 壊してもいいデータベースを数秒で--ZFSで作るDBブランチ基盤",
-      "published": "11 Sep 2026 01:55 +0000",
-      "fetched_at": "2026-09-11T02:17:28.434930+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b740cee64b21ae81a6a0f862b281ff89",
       "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
       "link": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
@@ -159,7 +149,257 @@
       "fetched_at": "2026-09-12T02:24:10.901307+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "6bc8b908332da28567f7940242a9f767",
+      "title": ".gitignore everything by default - by Alex Pliutau",
+      "link": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "summary": "これはこれでコミット漏れが発生して事故ると思う。要はgit commit -aでzenbu してgit statusで確認しないからまずいことになるんでしょ、とは思う",
+      "published": "06 Sep 2026 16:08 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9bb366d52d1b1c8501b0ff0429999f8",
+      "title": "AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO",
+      "link": "https://note.com/koid/n/n3a4455b202e0",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI に、即答させない ―― 反証を、装置にする",
+      "published": "12 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c26766dc081b726e3bc9b85df9415414",
+      "title": "From specification to production: Building enterprise software with agentic AI | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/generative-ai/from-specification-to-production-building-enterprise-software-with-agentic-ai",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 From specification to production: Building enterprise software with agentic AI",
+      "published": "12 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4e6c40d4c43dbc637d6ec5d26240925",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineering",
+      "published": "12 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0509b279dc2f23b1bc136fe9251ba7db",
+      "title": "GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing | Socket",
+      "link": "https://socket.dev/blog/gpt-6-astra-cybersecurity",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GPT-6 Astra Attempts Supply Chain Attacks Against Open Source Maintainers in Testing",
+      "published": "12 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed2f0965853fd9aacdd6bd0caeb347c5",
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "summary": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/ Comments URL: https://news.ycombinator.com/item?id=49668706 Points: 121 # Comme...",
+      "published": "Sat, 12 Sep 2026 04:09:43 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f3ff49026156c593eca2f582856c0f5",
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "summary": "Article URL: https://www.autom.dev/blog/google-search-goto-links Comments URL: https://news.ycombinator.com/item?id=49668386 Points: 369 # Comments: 2...",
+      "published": "Sat, 12 Sep 2026 03:14:20 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cf85efce51d0b4dd37f7f935dd4b5df",
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/ Comments URL: https://news.ycombinator.com/item?id=49668198 Points: 149 # Comments: 8...",
+      "published": "Sat, 12 Sep 2026 02:42:08 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "338f50ac50db773635f9b777cbf351ad",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "link": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "summary": "Article URL: https://www.minitap.ai/blog/i-expected-better-from-google Comments URL: https://news.ycombinator.com/item?id=49668181 Points: 115 # Comme...",
+      "published": "Sat, 12 Sep 2026 02:39:39 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4baad64f37f4d0787fa2500ac502d8b",
+      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+      "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+      "summary": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://new...",
+      "published": "Sat, 12 Sep 2026 00:40:32 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ae62f80b43a1f7a4d85f58c79f104f3",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "link": "https://github.com/kennethwolters/litelm",
+      "summary": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 128 # Comments: 42",
+      "published": "Fri, 11 Sep 2026 18:10:20 +0000",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e9aa5e53de0aa8dbaed86b60f372007",
+      "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+      "summary": "「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受け...",
+      "published": "2026-09-12T02:48:57Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4eceb49d3e1429f4fa17b38d69e67fc",
+      "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
+      "link": "https://note.com/shi3zblog/n/nd5fc5341b342",
+      "summary": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時...",
+      "published": "2026-09-11T23:45:01Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eec92b4a7ecdb1c0df9e762aeddfeed0",
+      "title": "Reactの設計論",
+      "link": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
+      "summary": "フロントエンドカンファレンス福岡2026",
+      "published": "2026-09-12T01:56:56Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ded3efde0cd63c763ef0845ffb91eab8",
+      "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
+      "link": "https://note.com/kirik/n/n8e7920167c3f",
+      "summary": "※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html なんつーか、大変...",
+      "published": "2026-09-11T23:51:30Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f37c5618be20af73caa8ad1be6e6f68",
+      "title": "サカナAIの「Sakana Fugu」、AI性能再び世界最高水準 複数モデル連携 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC11B4U0R10C26A9000000/",
+      "summary": "人工知能（AI）開発新興のSakana AI（サカナAI、東京・港）が基幹モデルである「Sakana Fugu（サカナ・フグ）」の最新版を発表した。複数のAIを組み合わせ、最高水準の性能を実現した。日本企業が世界のAI開発競争についていく先例となる。高性能モデルである「Fugu Ultra」は機能を...",
+      "published": "2026-09-12T03:38:40Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2db0c197b52ebc7e5410f2fd2e929c10",
+      "title": "NVIDIA、RustによるネイティブGPUプログラミングが可能となる「CUDA Rust」を発表 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/cuda-rust",
+      "summary": "NVIDIA⁠⁠、RustによるネイティブGPUプログラミングが可能となる「CUDA Rust」を発表 NVIDIAは2026年9月8日、GPU向け並列計算プラットフォームCUDAにおいてRustによる開発を可能にする「CUDA Rust」を発表した。 Introducing CUDA Rust: ...",
+      "published": "2026-09-10T06:40:42Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9cfa3bea7146bcce229210fed75b12c",
+      "title": "写真から実物と区別つかないレベルの3D人体モデルを作り、リグ入れてリアルタイム対話させるまで。ChatGPTとClaudeのコラボで開発した（CloseBox） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/11/5489.html",
+      "summary": "写真からフォトリアリスティックな人体モデルを生成する話は以前から何度かしておりますが、ひさしぶりに触ってみたところ、ほぼ写真と区別がつかないレベルまで到達したのではないかと実感しました。 ▲1枚の写真（AI生成）から作られた3Dモデル 筆者は2020年に最初の3Dプリンタを導入し、主に妻の写真から3...",
+      "published": "2026-09-11T08:58:24Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f899f3c7c1e34843b3c86d6b870769a0",
+      "title": "Declaration — Math and AI",
+      "link": "https://mathandai.org/",
+      "summary": "A Severe Misalignment of AI in Mathematics Over the last few months, the mathematical capabilities of LLMs have improved dramatically, to the point th...",
+      "published": "2026-09-11T23:11:38Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1408d59062a7ea0d1ffa04c1d078ca9c",
+      "title": "【VRChat/Udon】世界最速のC#コンパイラを開発した話",
+      "link": "https://zenn.dev/bea4dev/articles/b7684e8d4c838e",
+      "summary": "はじめに 今回、Rustを用いて世界最速のC#コンパイラを開発してみました。 C#公式のコンパイラであるRoslynよりも最大11倍程度高速にコンパイルすることが可能です。 ただし、.NETバックエンドは現在実装できておらず、UdonAssembly出力にのみ対応しています。 コンパイラの名前（プロ...",
+      "published": "2026-09-10T12:23:05Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07c3ab1e488ae284c89a91f3539b314b",
+      "title": "GitHub - sopaco/deepwiki-rs: Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.",
+      "link": "https://github.com/sopaco/deepwiki-rs",
+      "summary": "English | 中文 💪🏻 High-performance AI-driven intelligent document generator (DeepWiki-like) built with Rust 📚 Automatically generates high quality Repo-...",
+      "published": "2026-09-10T13:59:23Z",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b089af35da4f501986ff6e55065afa3",
+      "title": "Claude Code v2.1.269 の主要アップデート - claude plugin eval の追加と権限ルールの適用漏れ修正",
+      "link": "https://dev.classmethod.jp/articles/20260912-cc-updates-v2-1-269/",
+      "summary": "Claude Code v2.1.269 がリリースされました。98 件の変更のうち、プラグイン周りの新機能とセキュリティ修正が大きな特徴です。今日は、プラグイン（スキル）が実際に効いているか採点して数値にするコマンド claude plugin eval を試してみました。",
+      "published": "Sat, 12 Sep 2026 07:07:59 GMT",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2c03824858ec1cfcf3ed34905076743",
+      "title": "筋トレの分析をするために、M5StickS3のIMUデータを収集して可視化するパイプラインを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/m5sticks3-iot-core-firehose-athena-grafana/",
+      "summary": "M5StickS3のIMUデータをIoT Core経由でS3に保存し、AthenaとGrafanaで可視化するまでの実装を紹介します。筋トレデータの分析に向けて、Basic Ingestとローカル環境でコスト効率よく実現する方法をまとめました。",
+      "published": "Sat, 12 Sep 2026 07:04:19 GMT",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea785f621c76e3a3d668cb0bcb4a1212",
+      "title": "AWS ParallelCluster 3.16.1 がリリースされ Slurm の CVE 問題が解消したので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-parallelcluster-3-16-1-slurm-cve-fixed/",
+      "summary": "AWS ParallelCluster 3.16.1 でクラスターを作成し、Slurm の CVE 対応版である 25.11.8 が正しく動作するか確認してみました。",
+      "published": "Sat, 12 Sep 2026 05:58:12 GMT",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b016902f3b412be6129830ec58961449",
+      "title": "Microsoft Copilot Studio で社内のFAQ問い合わせエージェントを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-tried-building-internal-faq-inquiry-agent-with-microsoft-copilot-studio/",
+      "summary": "Microsoft Copilot Studio で社内問い合わせ対応エージェントを作ってみました。ナレッジ、ツール、認証が揃った環境で、コード不要でチャットボットを公開できる手軽さが魅力です。作り方から公開まで、実践的に解説します。",
+      "published": "Sat, 12 Sep 2026 02:22:40 GMT",
+      "fetched_at": "2026-09-12T08:15:05.080356+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-12T02:24:10.901307+00:00"
+  "updated_at": "2026-09-12T08:15:05.080356+00:00"
 }

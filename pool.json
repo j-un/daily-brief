@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f34f661fd9ccd56fc222afe65e2220d6",
-      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
-      "published": "11 Sep 2026 08:55 +0000",
-      "fetched_at": "2026-09-11T13:57:36.816692+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "7480db07f46e839103adbd7e739db71b",
       "title": "Instagram's head says engagement falls by half without the algorithm",
       "link": "https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia",
@@ -819,7 +809,107 @@
       "fetched_at": "2026-09-12T16:39:30.866991+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "c801ad59ae237b51ac39cf3ebb8057b0",
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "summary": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/ Comments URL: https://news.ycombinator.com/item?id=49676085 Poin...",
+      "published": "Sat, 12 Sep 2026 19:15:32 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "405bb17e337c1b22035833cc06b12bb4",
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 128 # Comment...",
+      "published": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ceacc112e8b1c1d32c6c67dfc8f75de",
+      "title": "LG responds to TV spying allegations",
+      "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+      "summary": "https://www.lg.com/global/newsroom/news/statements/statement... Comments URL: https://news.ycombinator.com/item?id=49673392 Points: 101 # Comments: 1",
+      "published": "Sat, 12 Sep 2026 15:33:48 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bacffefa29bdc048511cb8fb9a1ed283",
+      "title": "We've followed their lives for six decades; now the stars of 7 Up are bowing out",
+      "link": "https://www.bbc.co.uk/news/articles/crm932el3yjo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/crm932el3yjo Comments URL: https://news.ycombinator.com/item?id=49670981 Points: 108 # Comments: 34",
+      "published": "Sat, 12 Sep 2026 10:39:03 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89565e4fa98e0bfb3d82652995ff3e5c",
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 136 # Comments: 35",
+      "published": "Fri, 11 Sep 2026 21:16:48 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "04b8e893da7efa889019c0a992f1e9fe",
+      "title": "Rune — The development environment for pros",
+      "link": "https://rune.build/",
+      "summary": "Rune is a fast, open-source, keyboard-driven IDE for power users. The Unix way, finished as a product: code, terminals, CLI tools, language intelligen...",
+      "published": "2026-07-31T03:08:24Z",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c004ebb6d1a5113bf089073e78b8faa",
+      "title": "synctest時代のhttptest Go 1.27で変わるHTTPサーバテストの裏側 / go conference2026 synctest and httptest",
+      "link": "https://speakerdeck.com/budougumi0617/go-conference2026-synctest-and-httptest",
+      "summary": "Go Conference 2026の登壇資料です。 https://gocon.jp/2026/ https://gocon.jp/2026/timetable/1264549/",
+      "published": "2026-09-11T07:31:16Z",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "77049851f70b183bd88648a756d744f3",
+      "title": "GitHub - max-sixty/worktrunk: Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows · GitHub",
+      "link": "https://github.com/max-sixty/worktrunk",
+      "summary": "📦 max-sixty / worktrunk ⭐ 7,022 (+44) 🗒 Rust Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "published": "12 Sep 2026 19:17 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4e160b8f96ff8882ce414bc496de154",
+      "title": "GitHub - multimodal-art-projection/YuE: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. · GitHub",
+      "link": "https://github.com/multimodal-art-projection/YuE",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 multimodal-art-projection / YuE ⭐ 7,024 (+193) 🗒 Python YuE2: frontier music generation with symbolic planning, zero-...",
+      "published": "12 Sep 2026 18:17 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1d0688c7c784be0dbeac932e0a01823",
+      "title": "GitHub - yuliskov/SmartTube: Browse media content with your own rules on Android TV · GitHub",
+      "link": "https://github.com/yuliskov/SmartTube",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 yuliskov / SmartTube ⭐ 33,079 (+247) 🗒 Java Browse media content with your own rules on Android TV",
+      "published": "12 Sep 2026 17:17 +0000",
+      "fetched_at": "2026-09-12T19:55:58.896622+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-12T16:39:30.866991+00:00"
+  "updated_at": "2026-09-12T19:55:58.896622+00:00"
 }

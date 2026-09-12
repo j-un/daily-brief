@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b740cee64b21ae81a6a0f862b281ff89",
-      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善",
-      "published": "11 Sep 2026 03:55 +0000",
-      "fetched_at": "2026-09-11T08:26:25.510754+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f34f661fd9ccd56fc222afe65e2220d6",
       "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
@@ -399,7 +389,247 @@
       "fetched_at": "2026-09-12T08:15:05.080356+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "3dc40ed6a2eb146f29494cf9f0a298eb",
+      "title": "中国が米AI「クロード」で自国AIを訓練 中国軍情報も無断転送、アンソロピック発表 - 産経ニュース",
+      "link": "https://www.sankei.com/article/20260911-X53LAWNGCVNK5FJIBCE7XYBYMY/",
+      "summary": "「中国人民解放軍に関係するとみられる利用者が数百台の監視カメラの映像を読み込ませ、特定の人物の行動を分析させていたケースもあった」仮にこれが本当だとしても、Anthropicが勝手に公開して良い情報なの。",
+      "published": "12 Sep 2026 11:18 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77ae1fb937c9ba34edb631f3c54cdff8",
+      "title": "歳のせいか、これで軽く泣いちゃう…",
+      "link": "https://youtube.com/watch?v=X8bZQeqCuW4&si=itZA4yjirrWNPYx0",
+      "summary": "歳のせいか、これで軽く泣いちゃう",
+      "published": "12 Sep 2026 10:57 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bf9a9632b6c77f6d32fbe6ee47e917d",
+      "title": "KPIだけでは評価できないプロダクトが考えるべき Evalsという第二の評価系 / Beyond KPIs: Evals as a Second Evaluation Framework for Products #PdEConf - Speaker Deck",
+      "link": "https://speakerdeck.com/aki_iinuma/beyond-kpis-evals-as-a-second-evaluation-framework-for-products-number-pdeconf",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 KPIだけでは評価できないプロダクトが考えるべき Evalsという第二の評価系 / Beyond KPIs: Evals as a Second Evaluation Framework for Products...",
+      "published": "12 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e00c5669fdd3ed9234932a828e7f8f1c",
+      "title": "なつい。グッとくる…",
+      "link": "https://youtube.com/watch?v=hUEj3J4xHPU&si=gaQZ5usfZBRE5K54",
+      "summary": "なつい。グッとくる",
+      "published": "12 Sep 2026 10:53 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43e887b104e59d89a7f8473406a7f87a",
+      "title": "「全員が全部やる」体制で スループット3倍 〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜 - Speaker Deck",
+      "link": "https://speakerdeck.com/non0113/zenin-ga-zenbu-yaru-taisei-de-suruputto-3-bai-1-hito-1-anken-x-ai-kaihatsu-o-sasaeta-purosesu-kantoku-no-2-kagetsu",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「全員が全部やる」体制で スループット3倍 〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜",
+      "published": "12 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a894b59a2f69d025be394e4963fc92c2",
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "summary": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/ Comments URL: https://news.ycombinator.com/item?id=49671329 Points: 115 # Comment...",
+      "published": "Sat, 12 Sep 2026 11:42:32 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87b43c58e03edffd85fb98f71f841bc2",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "summary": "Article URL: https://eiln.github.io/posts/ane.html Comments URL: https://news.ycombinator.com/item?id=49670032 Points: 131 # Comments: 16",
+      "published": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae934342e54275000b4565991ff724c9",
+      "title": "How to buy a good car for $1000",
+      "link": "https://abio.substack.com/p/how-poor-people-buy-cars",
+      "summary": "Article URL: https://abio.substack.com/p/how-poor-people-buy-cars Comments URL: https://news.ycombinator.com/item?id=49667762 Points: 107 # Comments: ...",
+      "published": "Sat, 12 Sep 2026 01:37:06 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78b0a142e47b8d12c87e080b4b3f0886",
+      "title": "Project Blinkenlights",
+      "link": "https://blinkenlights.de/en/",
+      "summary": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 100 # Comments: 32",
+      "published": "Fri, 11 Sep 2026 22:15:00 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb8fa97403e810856ae570b3e8fe44ec",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 109 # Comments: 108",
+      "published": "Fri, 11 Sep 2026 21:35:29 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eae28696532866c2399dabf1da7d019b",
+      "title": "Another way to leak traffic on Android has been discovered",
+      "link": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered",
+      "summary": "Article URL: https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Fri, 11 Sep 2026 21:16:48 +0000",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81dc964787a8d4389f4ab26c09cde123",
+      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
+      "link": "https://note.com/yubais/n/nd4505991a6d6",
+      "summary": "「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの...",
+      "published": "2026-09-12T10:56:24Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7adb8e0046080fb99ad26f3d32b93ebc",
+      "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
+      "link": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
+      "summary": "【読売新聞】 【ワシントン＝中根圭一】「数学界のノーベル賞」と呼ばれるフィールズ賞を受賞した森重文・京都大特別教授ら世界の数学者２５人が１１日、人工知能（ＡＩ）を使って企業が数学の難問を解く行為を非難する緊急声明を発表した。数学の理",
+      "published": "2026-09-12T10:12:56Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7eac3fd158320a13765a4624a565a8c",
+      "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260912-467049/",
+      "summary": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II...",
+      "published": "2026-09-12T07:36:59Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d78fcb4b6108b459610aa6d5569915ac",
+      "title": "AI時代のWebフレームワークはどこへ行く？",
+      "link": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+      "summary": "::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center ...",
+      "published": "2026-09-12T07:11:39Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c31d13a1980da4243b3b0bf73370c663",
+      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
+      "link": "https://qiita.com/infra365/items/aa30a54fc6f0849385a7",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 「AIはボトルネックを解消するも...",
+      "published": "2026-09-11T11:23:26Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e23d9d4a559219c008addac994e6a40",
+      "title": "saypip",
+      "link": "https://saypip.app/",
+      "summary": "Let's start social media over. Be yourself on Saypip, anonymous by default.",
+      "published": "2026-09-12T08:16:39Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a1acf0e8f4b5478121555f8d2113701",
+      "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
+      "link": "https://azukiazusa.dev/blog/cloudflare-os/",
+      "summary": "たとえば、エージェントにメモアプリを作ってもらった場合、そのアプリが Gadget です。実際にどのように Gadget を作って組織のメンバーに共有するのかを試してみましょう。 ローカルで起動する まずは 公式リポジトリの起動手順に従って、Cloudflare OS をローカルで動かしてみましょう...",
+      "published": "2026-09-12T04:28:14Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07148d82dc60d021ea281f6ff7d7d319",
+      "title": "Firefoxのローカル翻訳機能をGoogle翻訳っぽく使える「about:translations」が便利",
+      "link": "https://gigazine.net/news/20260912-firefox-translations/",
+      "summary": "Google翻訳やDeepLなどの翻訳サイトは非常に便利ですが「機密文書」や「プライバシーに直結するテキスト」を翻訳する場合はあまり使いたくありません。かといって、ローカルで使える翻訳システムは「LLMの実行が必要で負荷が高い」とか「負荷は軽いけど品質が低い」といった問題があります。「ローカルで使え...",
+      "published": "2026-09-12T07:02:30Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8145efc65a6ded4b24cea8ba15ae27d1",
+      "title": "SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media",
+      "link": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
+      "summary": "「あの人も読んでる」略して「も読」。さまざまな寄稿者が最近気になった情報や話題をシェアする企画です。他のテックな人たちがどんな情報を追っているのか、ちょっと覗いてみませんか？ みなさんこんにちは。 「あの人も読んでる」、第22回目の投稿です。maguro（X @yusuktan）がお届けします。 今...",
+      "published": "2026-09-11T12:25:24Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9622dc6c7f80103ad55c1362b469dd3e",
+      "title": "Showcase | OpenAI Developers",
+      "link": "https://developers.openai.com/showcase",
+      "summary": "Example workflows and tasks teams can take on with ChatGPT or Codex",
+      "published": "2026-03-05T20:38:07Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0953e372a25d280e79e88a45e5d00004",
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "link": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "summary": "",
+      "published": "2026-09-12T01:16:06Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d12f7a22dbb4fea11466e8405a76306",
+      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (4/5)",
+      "link": "https://ascii.jp/elem/000/004/432/4432444/4/",
+      "summary": "sponsored MSI「MAG 271QP QD-OLED X28」レビュー グラブルリリンク最新作の推奨モニター認定！ WQHD/280Hz/0.03msのQD-OLEDが見せる圧倒的パフォーマンスを徹底検証 sponsored サイボウズ×Box対談：情報の分断を防ぎ、安全で「AI Read...",
+      "published": "2026-09-11T00:32:14Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e157dc7a50db953d2c8cf91a8e0c518e",
+      "title": "iPhone18 Proは見送るべき？2027年のiPhone20刷新の噂を整理 - iPhone Mania",
+      "link": "https://iphone-mania.jp/iphone18-605732/",
+      "summary": "iPhone18 Proを見送るかどうかは、手元のiPhoneに感じている不満の大きさで考えると整理しやすくなります。海外メディアは、iPhone20（仮称）がデザイン面でiPhone X以来の大刷新になると報じています。 処理速度やカメラに物足りなさがあれば18 Pro、不便が少なくデザインの新し...",
+      "published": "2026-09-11T18:31:16Z",
+      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-12T08:15:05.080356+00:00"
+  "updated_at": "2026-09-12T13:16:20.613390+00:00"
 }

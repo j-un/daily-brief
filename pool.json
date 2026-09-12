@@ -629,7 +629,197 @@
       "fetched_at": "2026-09-12T13:16:20.613390+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "0cd5ce73d227ff843c7bb9164943674b",
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "Article URL: https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4dde8b1b123004afc9c96f03eb9583a",
+      "title": "We Must Pace the Frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 161 # Comments...",
+      "published": "Sat, 12 Sep 2026 14:10:49 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4ad1cf67ac2dceef875f1c48c585ba4",
+      "title": "Usenet rewind archive search engine",
+      "link": "https://www.usenet-rewind.com/",
+      "summary": "Article URL: https://www.usenet-rewind.com/ Comments URL: https://news.ycombinator.com/item?id=49668777 Points: 111 # Comments: 33",
+      "published": "Sat, 12 Sep 2026 04:19:52 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fca27fb2280bab442074ca488b3b4ff",
+      "title": "Amazon MWAA Serverless で PythonOperator と BashOperator が利用可能に",
+      "link": "https://aws.amazon.com/jp/blogs/news/pythonoperator-and-bashoperator-now-available-on-amazon-managed-workflows-for-apache-airflow-amazon-mwaa-serverless/",
+      "summary": "Amazon MWAA Serverless で PythonOperator と BashOperator が使えるようになり、カスタムの Python 関数やシェルスクリプトをサーバーレスランタイム上で直接実行できます。AWS Lambda 関数や Amazon ECS タスクでコードをラップす...",
+      "published": "Sat, 12 Sep 2026 14:43:12 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "db51d5d1f99d2b95875858337d80f613",
+      "title": "Amazon MWAA と Airflow 3.0 によるイベント駆動のパイプラインオーケストレーション",
+      "link": "https://aws.amazon.com/jp/blogs/news/event-driven-pipeline-orchestration-with-amazon-mwaa-and-airflow-3-0/",
+      "summary": "Apache Airflow 3.0 の Asset Watcher と Amazon SQS を組み合わせて、複数の Amazon MWAA 環境や AWS アカウントをまたぐイベント駆動のオーケストレーションを実現する方法を解説します。ポーリングベースのセンサーをイベント駆動のトリガーに置き換え...",
+      "published": "Sat, 12 Sep 2026 14:41:43 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bb6bef0c84299b7f76e0af85d45c751",
+      "title": "A Severe Misalignment of AI in Mathematics",
+      "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+      "summary": "I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ou...",
+      "published": "2026-09-12T02:49:37Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d40e26b108e4a5c9ab43bf2efd4be69",
+      "title": "ジョセフ・ヒース「方法論的個人主義（Stanford Encyclopedia of Philosophy）」",
+      "link": "https://econ101.jp/methodological-individualism/",
+      "summary": "本記事は、ジョセフ・ヒース教授によるThe Stanford Encyclopedia of Philosophy（以下SEP）のエントリ、「方法論的個人主義（Methodological Individualism）」の翻訳です。本翻訳は、SEPのアーカイブに収録されている2024年夏版（Summ...",
+      "published": "2026-09-12T12:15:57Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c24b464c10ad973ce76c324553f51af",
+      "title": "Intent as Code",
+      "link": "https://speakerdeck.com/shoppingjaws/intent-as-code",
+      "summary": "Agentic Coding 時代における今の権限は不十分であり、AIが権限の中で何してもシステムの安全性を担保するために、Intentというものを提案します",
+      "published": "2026-09-11T08:41:35Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "951469cca68314bd4a8bbe26321e4ca9",
+      "title": "[GoCon2026] When Goroutines Are Not Enough: Runtime Locality in High-Throughput Go",
+      "link": "https://speakerdeck.com/takehaya/gocon2026-when-goroutines-are-not-enough-runtime-locality-in-high-throughput-go",
+      "summary": "https://gocon.jp/2026/en/timetable/1251920/ Go Conference 2026 で登壇 した時の資料です",
+      "published": "2026-09-11T02:25:48Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e6320d18b6449d44f5dd55964b0ea4e",
+      "title": "「ユーザー価値か、事業成果か？」 そんな意思決定で悩む前に PMがやるべきこと",
+      "link": "https://speakerdeck.com/inagakikay/yuzajia-zhi-ka-shi-ye-cheng-guo-ka-yi-si-jue-ding-noqian-nisonnakotodenao-muqian-ni-pmgayarubekikoto",
+      "summary": "「五反田.mobile Vol.3 - PM/PdMは何を見て判断しているのか？」で発表した資料です。 https://gotanda-mobile.connpass.com/event/397923/",
+      "published": "2026-07-23T16:02:28Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1caf7b85f7a7a6319f058ddfbe1fe4b4",
+      "title": "GitHub - Untrivial-ai/agent-orchestrator: Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
+      "link": "https://github.com/Untrivial-ai/agent-orchestrator",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-10T22:57:12Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad7e7eaa918132e52687727ad007d2d5",
+      "title": "OpenTelemetry eBPF Instrumentationの舞台裏 / Behind the Scenes of OpenTelemetry eBPF Instrumentation",
+      "link": "https://speakerdeck.com/ymotongpoo/behind-the-scenes-of-opentelemetry-ebpf-instrumentation",
+      "summary": "Go Conference 2026での登壇資料です https://gocon.jp/2026/timetable/1263399/",
+      "published": "2026-09-11T07:30:42Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4554a1e850e79085c64ce85d3bc2214",
+      "title": "manager-readme/README_ja.md at main · iselegant/manager-readme",
+      "link": "https://github.com/iselegant/manager-readme/blob/main/README_ja.md",
+      "summary": "まず私一番ワクワクしているのは、あたたたちメンバーと一緒に、これまでとは違う新しい働き方を作れることです。逆に一番の不安は、プレイングとマネジメントの両立の負荷です。ここは正直、やってみないと分からない部分なので、気になる点があれば遠慮なく教えてください（自分では気づきにくいタイプなので）。 譲れ....",
+      "published": "2026-09-11T15:42:04Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da6d84c0b9013fb89d33e6f40e6d82c8",
+      "title": "問いに答えるAIから、ビジネスを動かすAIへ！Snowflakeで作るオントロジー",
+      "link": "https://speakerdeck.com/gappy50/bs5227-snowflake-world-tour-tokyo-ontology-harry",
+      "summary": "Snowflake World Tour Tokyo 2026 Day 2 - 2026年9月11日(金) 12:10 - 12:40 BS5227 Snowflake Cortex AgentからAIに数字を聞ける基盤はできた。でも発注や承認は、まだ人が手を動かしていませんか？その壁を越える鍵…",
+      "published": "2026-09-11T23:26:02Z",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fed9e93b0bd2dda1fcf27d3f5aa6f409",
+      "title": "📦 SnailSploit / Claude-Red ⭐ 3,354 (+99)…",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "summary": "📦 SnailSploit / Claude-Red ⭐ 3,354 (+99) 🗒 Python claude-red is a curated library of offensive security skills designed for the Claude skills system. ...",
+      "published": "12 Sep 2026 15:17 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "46405393d4f50fd78d58d44952eb2991",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Shu…",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Shubhamsaboo / awesome-llm-apps ⭐ 137,349 (+237) 🗒 Python 100+ AI Agents, Agent Skills and RAG Apps - Free and Op...",
+      "published": "12 Sep 2026 14:17 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3675b0176088850fc65e3e3959dc2718",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 asg…",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 asgeirtj / system_prompts_leaks ⭐ 65,012 (+216) 🗒 JavaScript Extracted system prompts from Anthropic - Claude Fab...",
+      "published": "12 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f23bf4a02bbb7b3a957e83f01b78e6c",
+      "title": "Claude Enterprise プランでモバイルアプリに対してどれだけ制御できるか確認してみた",
+      "link": "https://dev.classmethod.jp/articles/slug-claude-enterprise-mobile-desktop-web/",
+      "summary": "Claude Enterprise プランでモバイルアプリの利用制御がどのように機能するのか、実際に確認してみました。Chat、Cowork、Code それぞれの設定の違いと制御可能な範囲について、検証結果をお伝えします。",
+      "published": "Sat, 12 Sep 2026 14:47:53 GMT",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb10f744b80d92de1072864bb5c8532d",
+      "title": "【アップデート】Amazon QuickのデスクトップアプリがGAになったのでプレビューからの変更点をまとめてみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-desktop-app-ga/",
+      "summary": "Amazon QuickのデスクトップアプリがGA（一般提供）になりました。プレビューからの変更点を中心にご紹介します。",
+      "published": "Sat, 12 Sep 2026 14:40:17 GMT",
+      "fetched_at": "2026-09-12T16:39:30.866991+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-12T13:16:20.613390+00:00"
+  "updated_at": "2026-09-12T16:39:30.866991+00:00"
 }

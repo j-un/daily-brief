@@ -379,7 +379,497 @@
       "fetched_at": "2026-09-13T02:22:35.344164+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "10bc88bc98189acfe53d03377a631674",
+      "title": "SSL/TLS サーバー証明書の中間 CA 証明書に関するお知らせ ｜お知らせ｜サイバートラスト",
+      "link": "https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html",
+      "summary": "サイバートラスト、サーバー証明書周りでトラブってるのか。ルート署名書はセコム、中間CA証明書はサイバートラストとなるが、新中間CA証明書でブラウザベンダー(Apple, Google)の審査承認がおりず。",
+      "published": "13 Sep 2026 08:38 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37d17dba4065ac747ca8823aa69238a1",
+      "title": "GitHub - winebarrel/pistachio: pistachio is a declarative schema management tool for PostgreSQL with a Terraform-like plan/apply workflow. · GitHub",
+      "link": "https://github.com/winebarrel/pistachio",
+      "summary": "PostgreSQLで宣言的スキーマ管理が可能なCLIツール。Terraformのplan/applyのような運用が可能。Go実装",
+      "published": "13 Sep 2026 08:11 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1a4797c1dcbe940b88622c6471286dc",
+      "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
+      "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
+      "summary": "わいわい",
+      "published": "13 Sep 2026 08:09 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df7bd40a039ddeaede6e7cafbbea7255",
+      "title": "terraform plan -minimal-refreshでplanを爆速にする #Terraform - Qiita",
+      "link": "https://qiita.com/minamijoyo/items/92c094b554d090b54a17",
+      "summary": "Terraform v1.17以降で利用可能。ほう",
+      "published": "13 Sep 2026 08:08 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93f5b89e63c8d07c15ab00c55c5b1ef4",
+      "title": "Google Cloud設計完全ガイド | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/09/07/02782/",
+      "summary": "2026年9月29日発売",
+      "published": "13 Sep 2026 07:51 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "825299d5d7062e35b9074ab109e9e282",
+      "title": "The OpenSSL Library supports DTLS 1.3 | OpenSSL Library",
+      "link": "https://openssl-library.org/post/2026-09-09-dtls-1.3/?utm_source=atom_feed",
+      "summary": "2026年10月リリース予定のOpenSSL 4.1でDTLS1.3をサポート予定。",
+      "published": "13 Sep 2026 07:36 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "85e63d59d64fbf0b3038b73133ce9f8b",
+      "title": "「Kro」深掘り：定義の実体をCRDにするという選択 | Kubernetesを使いこなす抽象化の技法 | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/article/39511",
+      "summary": "「Kroは、組織独自のApplication Modelを、Kubernetesのカスタムリソースとして公開するためのツール」「プラットフォームチームが型とレシピをYAMLに書くと、その型がCRDとしてクラスタに登録」ほう",
+      "published": "13 Sep 2026 07:35 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcc296de65f859f1e28685ad4c8a9993",
+      "title": "アーキテクチャ図を念頭に置いて設計された斬新な自動レイアウトアルゴリズム「TALA」がオープンソース化 - GIGAZINE",
+      "link": "https://gigazine.net/news/20260909-tala-is-open-source/",
+      "summary": "わいわい。昔Text to DiagramはD2で決まりだと言ったことがあるが、言うほど流行ってない感じがあるな。",
+      "published": "13 Sep 2026 07:31 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58c78a51e9fc585aad97e08740bfbd27",
+      "title": "GitHub - dedene/zentty: A native macOS terminal for agent-driven development, built on Ghostty. · GitHub",
+      "link": "https://github.com/dedene/zentty",
+      "summary": "AIコーディングエージェントベースの開発を想定したGhosttyベースのmacOS向けターミナル実装。タブではなくworklaneになっておりタイル型っぽい概念が含まれてる(垂直分割がniri風)。ショートカット充実。セッション再開あり",
+      "published": "13 Sep 2026 07:24 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bdbaeee05747db4edd82ca598fe1847",
+      "title": "AIエージェント導入を任されたら読む本 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/09/09/02786/",
+      "summary": "2026年9月29日発売",
+      "published": "13 Sep 2026 06:43 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9614ef2feb2720a42f29892d60c650d7",
+      "title": "GitHub - jedisct1/turbocrypt: A fast, easy-to-use, and secure command-line tool for encrypting and decrypting files , git repositories and directory trees. · GitHub",
+      "link": "https://github.com/jedisct1/turbocrypt",
+      "summary": "ファイルやディレクトリ単位で暗号化できるCLIツール。Git連携機能を備えており、turbocrypt git initしてからturbocrypt git add/rmなどで透過的に暗号化処理を実施できる。Zig実装。",
+      "published": "13 Sep 2026 06:38 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1ec7e27cd50db8bda09bfa6cf8c9f90",
+      "title": "1 年間無料の Kiro を、世界中の学生へ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/students-2026/",
+      "summary": "「16 か国にわたる新たな 121 の大学へと拡大」と書かれてたので大学一覧を見てみたのだが、日本では神戸大学のみっぽい？",
+      "published": "13 Sep 2026 06:20 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "594f7cf1b653292486ffc80a4702d8af",
+      "title": "Docker環境をガチで軽量化するための鉄板設定まとめ #docker-compose - Qiita",
+      "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
+      "summary": "ちまちまと停止したコンテナや過去のイメージ削除ぐらいしかしてなかったけど、docker system dfとdocker system prune知らなかった。捗るな。",
+      "published": "13 Sep 2026 05:50 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a269795fa79c35f4092e06483ae880b",
+      "title": "Go 1.27 の go doc package@version クエリを試す",
+      "link": "https://zenn.dev/finatext/articles/go-1-27-godoc-package-version-gomod-tidy",
+      "summary": "今にして思えばgo docの出力はAIとも相性良いな。なるほどねぇ。",
+      "published": "13 Sep 2026 05:45 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fed2134396f6814aa0ba311247b8775",
+      "title": "QuineMakerを作った話と技術的な解説 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/quine-maker",
+      "summary": "わいわい",
+      "published": "13 Sep 2026 05:40 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7efe25150c88632699c133409ff0983b",
+      "title": "GitHub - backblaze-labs/b2-mcp: MCP server for Backblaze B2 Cloud Storage: a focused, safe 40-tool surface (17 native B2 SDK, 19 S3 data-plane, 4 analytics) for any MCP-compatible AI client, currently incubating in Backblaze-Labs · GitHub",
+      "link": "https://github.com/backblaze-labs/b2-mcp",
+      "summary": "Backblaze B2の公式MCPサーバ実装。",
+      "published": "13 Sep 2026 05:05 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e88f0e84359685374d8235f65ae368c",
+      "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+      "summary": "「Fedora44とFedora55の一部をベースとしている」相変わらずのキメラっぷりだ。もう流石にSELinux Enforcingで運用したいところですよねみなさん。",
+      "published": "13 Sep 2026 05:02 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d05db67d3c499283376f41a353978c11",
+      "title": "【資料公開】生成AIでスクラムによる開発はどう変わるか（2026年9月版） | Ryuzee.com",
+      "link": "https://www.ryuzee.com/contents/blog/14625",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【資料公開】生成AIでスクラムによる開発はどう変わるか（2026年9月版）",
+      "published": "13 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9964fe620fb6d7093f591bb2629c93b5",
+      "title": "監視機器の自動更新で起きた市立奈良病院のシステム障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/04/104347",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 監視機器の自動更新で起きた市立奈良病院のシステム障害についてまとめてみた",
+      "published": "13 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b87b6ae5c16fa97a8b2ae8fb965acb20",
+      "title": "AI前提のプロダクト開発組織を目指して、minneの2026年の現在地 - Pepabo Tech Portal",
+      "link": "https://tech.pepabo.com/2026/09/02/minne-ai-native-org-2026/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI前提のプロダクト開発組織を目指して、minneの2026年の現在地",
+      "published": "13 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a287b0f1e7877939d53a5dc446a7585",
+      "title": "AI Coding時代のOSSライブラリのメンテ - methaneのブログ",
+      "link": "https://methane.hatenablog.jp/entry/2026/09/04/AI_Coding%E6%99%82%E4%BB%A3%E3%81%AEOSS%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI Coding時代のOSSライブラリのメンテ",
+      "published": "13 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69fd4732f81f493c4619b652dfd27253",
+      "title": "ベクトルデータベース - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp/books/9784814401796/?utm_mediun=referral",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ベクトルデータベース",
+      "published": "13 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62c2c3ff1130ade1168d973afb9be805",
+      "title": "ゲーム中のバグを利用したユーザに対するID停止措置 東京地判平26.9.3平24ワ30553 - IT・システム判例メモ",
+      "link": "https://itlaw.hatenablog.com/entry/2026/09/05/133502",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ゲーム中のバグを利用したユーザに対するID停止措置 東京地判平26.9.3平24ワ30553",
+      "published": "13 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5331812cfb79a12e6f193e9df21801eb",
+      "title": "Ubuntu 26.04.1のリリース、stonking（Ubuntu 26.10）の開発; MynaのプロトタイプとOpenSSL 4、Rustトランジション、“Multipass”によるクラウドシミュレーション | gihyo.jp",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/04",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Ubuntu 26.04.1のリリース、stonking（Ubuntu 26.10）の開発; MynaのプロトタイプとOpenSSL 4、Rustトランジション、“Multipass”によるクラウドシミュレーショ...",
+      "published": "13 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddb672638699a1be80199856f75a75e5",
+      "title": "The Interim Computer Museum",
+      "link": "https://icm.museum/",
+      "summary": "Article URL: https://icm.museum/ Comments URL: https://news.ycombinator.com/item?id=49679459 Points: 104 # Comments: 11",
+      "published": "Sun, 13 Sep 2026 02:43:57 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31ea732525921f66aa0f7462c7112364",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating Comments URL: https://news.ycombinator.com/item...",
+      "published": "Sun, 13 Sep 2026 01:22:31 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fab1ff3c0d0411d827d0374f063b1a7f",
+      "title": "Don't be the out of touch Kung Fu master",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095 Comments URL: https://news.ycombinator.com/item?id=49677577 Points: 108 # Co...",
+      "published": "Sat, 12 Sep 2026 21:51:43 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "27077b8598102ed098b6578d980cf136",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580...",
+      "published": "Sat, 12 Sep 2026 15:49:52 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e23e36ce5f307ee15e3df6d0640301b2",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "link": "https://lalitm.com/post/buildprof/",
+      "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 127 # Comments: 23",
+      "published": "Sat, 12 Sep 2026 14:45:28 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2669918c95a48780297eda5d4c5ed5f3",
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "summary": "Article URL: https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html Comments URL: https://news.yco...",
+      "published": "Sat, 12 Sep 2026 14:17:28 +0000",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4be0513f56e6e5164a2bc730f8dc5af",
+      "title": "AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/",
+      "summary": "AWS Elemental MediaLive now supports Video Aligned Locking, a new feature to synchronize video pipelines without requiring timecode from the source. P...",
+      "published": "Sat, 12 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "71f6d37263f41967f86af4725f175a16",
+      "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
+      "summary": "【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競...",
+      "published": "2026-09-13T00:11:29Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40b8f67df4fa89d6e1eeec4a27440fd1",
+      "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
+      "summary": "ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さ...",
+      "published": "2026-09-13T03:35:37Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7f8d2fac2ab521162f7ad4f1b73bbdd",
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "link": "https://iphone-mania.jp/iphone18-605873/",
+      "summary": "iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。...",
+      "published": "2026-09-13T05:23:07Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fb67c1b5c0d17b8f05ff4bb85471e5d",
+      "title": "アンソロピックCEOが警鐘、AIが半年～1年以内にインターネット全体を乗っ取る能力持つ可能性",
+      "link": "https://www.cnn.co.jp/tech/35252570.html",
+      "summary": "（CNN） 人工知能（AI）の開発競争は、今すぐペースを落とす必要がある。米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が12日に公開した論考でそう訴えた。 「AIモデルの能力向上のペースを落とさなければならない。それでも進歩は速く感じられるだろうし、得られた時間を賢く使わなければならな...",
+      "published": "2026-09-13T02:07:18Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a1b1a043868af7fef3a13ff93a1f1ee",
+      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同",
+      "link": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+      "summary": "米Anthropicのダリオ・アモデイCEOは9月12日（現地時間）、個人サイトでエッセイ「We Must Pace the Frontier」を公開し、AI業界はモデルの能力を向上させるペースそのものを落とす必要があると訴え、3段階の計画を示した。 同氏はこれまで、慎重に開発しつつ商業的に成功する...",
+      "published": "2026-09-13T00:13:44Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc3b4f34270af1af106ec639681ed886",
+      "title": "「覚え直さなくていい」を最優先にしたAI導入 ― アラート一次調査の自動化 - asken テックブログ",
+      "link": "https://tech.asken.inc/entry/2026/09/11/170000",
+      "summary": "はじめに askenでは「AI Nativeな開発組織へ進化する」をビジョンに掲げ、その全体像を以下の記事でお伝えしました。本記事は、その取り組みを現場の視点から紹介する関連記事です。 AI Nativeな開発組織へ ― askenエンジニアが挑む2つの変革 - asken テックブログ こんにちは...",
+      "published": "2026-09-11T08:57:56Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af29d83f9b50467093b85c7c530e39bb",
+      "title": "フロントエンドUIフレームワークのこれまでとこれから",
+      "link": "https://speakerdeck.com/ssssota/frontend-ui-framework-futures",
+      "summary": "https://frontend-conf.fukuoka.jp/2026/speakers/tomikawa-sotaro?hl=ja",
+      "published": "2026-09-12T09:18:34Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21b947db73ef3cc298a72de0007f1e51",
+      "title": "独老舗レンズのツァイス、AI半導体で売上高2.2倍 東西分割越え躍進 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR26BMC0W6A820C2000000/",
+      "summary": "ドイツ光学機器メーカー、カール・ツァイスが人工知能（AI）半導体の量産に欠かせない超精密レンズで躍進している。創業180年の同社は東西分断の際に分割された歴史を持つ。政治に翻弄されながらも光学技術を磨き続けて成長領域を切り開いた。顕微鏡で科学の進展に貢献ツァイスは1846年、ドイツ東部のイエナで創業...",
+      "published": "2026-09-13T00:39:09Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cf85efce51d0b4dd37f7f935dd4b5df",
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "summary": "This post covers material from a talk I gave at Latency Conference. If you want to just: Watch the talk you can find the recording here; or Read the s...",
+      "published": "2026-09-12T12:53:19Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cf6fbbd9b6635ef925362e7b0c40204",
+      "title": "境界を強い型にして実装をシンプルにしよう",
+      "link": "https://zenn.dev/my_vision/articles/29d90ef97f162e",
+      "summary": "株式会社MyVisionでエンジニアをしている @sukechannnn です。 今の生成AIはめちゃくちゃ賢いですが、まれに理解に苦労するコードを書いてしまうことありませんか？そんな時は、AIが前提とみなしている境界の型が弱いまま、引き回してしまっているかもしれません。 直近の開発で「Parse,...",
+      "published": "2026-09-12T16:21:58Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9afa7610b038b1337677dc129fbac20",
+      "title": "アンソロピックCEO、AI開発の減速呼びかけ アルトマン氏とマスク氏も同意",
+      "link": "https://www.afpbb.com/articles/-/3652658",
+      "summary": "（左から）xAIのイーロン・マスク氏、アンソロピックのダリオ・アモデイ氏、オープンAIのサム・アルトマン氏（2026年9月12日作成）。(c)AFP 【9月13日 AFP】「超知能」に対する懸念が高まる中、人工知能（AI）開発企業アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、この...",
+      "published": "2026-09-13T00:48:10Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79015f52d778effda40c44160c637015",
+      "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "summary": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems Spencer Kitts, Thomas Larsen, Sydney Von Arx·11 September 2026 Intro On May 11th, 20...",
+      "published": "2026-09-12T00:12:38Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82b23c7598b1d8f41bd59600e174d053",
+      "title": "Transitions.dev — Essential transitions for web apps",
+      "link": "https://transitions.dev/",
+      "summary": "Transitions Collection of the most essential transitions for web apps that you can just copy and paste into any project.",
+      "published": "2026-06-04T10:15:59Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e176415c25cf7e0269c3a25489d07908",
+      "title": "GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness: Everything is a Plugin.",
+      "link": "https://github.com/deepseek-ai/deepseek-harness",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-08-13T13:56:18Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c9e42201acf923bcdc846b7b45cebf5",
+      "title": "GMOの世界ロボット運動会出場、言い出しっぺは新卒1年目の社員？ プロジェクト統括までしていた",
+      "link": "https://www.itmedia.co.jp/news/article/2609/10/2000001384/",
+      "summary": "世界最大規模のヒト型ロボット運動会への出場を提案し、プロジェクトを統括したのは、新卒1年目の社員だった――。GMO AI&ロボティクス商事（東京都渋谷区）は9月8日、8月に中国・北京で開催された「第2回 世界ヒューマノイド運動会」への出場結果を報告した。発案者は、この春GMOインターネットグループに...",
+      "published": "2026-09-11T00:23:03Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "036cc399087ea63b0a7f44ce70926144",
+      "title": "Statement On V/H/S SCP Foundation Film - SCP Foundation",
+      "link": "https://scp-wiki.wikidot.com/statement-on-vhs-film",
+      "summary": "The staff and authors of the SCP Foundation Wiki (the real-life writing project behind the SCP Foundation universe and its official home) were not con...",
+      "published": "2026-09-12T07:54:15Z",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8c56009f89cccbee0623d6028116756",
+      "title": "Lambda の S3 Files でダイレクトリードを設定できるようになったので効果を測ってみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-s3files-direct-read/",
+      "summary": "AWS Lambda の S3 Files マウントで、ファイルの読み取り経路を明示的に選べる DirectS3Read がサポートされました。この読み取り経路は、これまでメモリ 512MB を境に自動で決まっていました。メモリ 256MB と 3072MB の関数で、既定と逆の設定にしたときの読み...",
+      "published": "Sun, 13 Sep 2026 04:38:07 GMT",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a904ee0b170e2b1e556496fbd794a7b3",
+      "title": "Lambda のネットワーク帯域幅を Service Quotas で 3,000 Mbps に引き上げて実測してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-network-bandwidth-3000mbps/",
+      "summary": "VPC外の Lambda 関数のネットワーク帯域幅が、デフォルトの 625 Mbps から最大 3,000 Mbps まで、申請により拡張できるようになりました。Lambda のメモリを変えながら、iperf3 と S3 からのダウンロードでスループットを比較しました。",
+      "published": "Sun, 13 Sep 2026 04:01:52 GMT",
+      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-13T02:22:35.344164+00:00"
+  "updated_at": "2026-09-13T08:39:42.586807+00:00"
 }

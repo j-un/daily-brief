@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "43e887b104e59d89a7f8473406a7f87a",
-      "title": "「全員が全部やる」体制で スループット3倍 〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜 - Speaker Deck",
-      "link": "https://speakerdeck.com/non0113/zenin-ga-zenbu-yaru-taisei-de-suruputto-3-bai-1-hito-1-anken-x-ai-kaihatsu-o-sasaeta-purosesu-kantoku-no-2-kagetsu",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「全員が全部やる」体制で スループット3倍 〜1人1案件 × AI開発を支えた「プロセス監督」の2ヶ月〜",
-      "published": "12 Sep 2026 08:55 +0000",
-      "fetched_at": "2026-09-12T13:16:20.613390+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "81a2fdb97eb3b13e54eff44eaddfe267",
       "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
       "link": "https://hachyderm.io/@simontatham/117201594980991062",
@@ -1169,7 +1159,127 @@
       "fetched_at": "2026-09-13T14:00:03.362143+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "d58237dcc84da9408f4dc06f6cbadcd4",
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "link": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.y...",
+      "published": "Sun, 13 Sep 2026 14:28:36 +0000",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "131f155885af8b7e7e1187a8e1994848",
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "link": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "summary": "Article URL: https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/ Comments UR...",
+      "published": "Sun, 13 Sep 2026 13:35:31 +0000",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ea9af46d419ec611d711d38e82ff69e",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/ Comments URL: https://news.ycom...",
+      "published": "Sun, 13 Sep 2026 09:59:58 +0000",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c23434b748b9195413746b4341a922b3",
+      "title": "Aligned to whom?",
+      "link": "https://hyperbo.la/w/aligned-to-whom/",
+      "summary": "Article URL: https://hyperbo.la/w/aligned-to-whom/ Comments URL: https://news.ycombinator.com/item?id=49679643 Points: 147 # Comments: 88",
+      "published": "Sun, 13 Sep 2026 03:17:18 +0000",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "774f4342e7f98855704e8bdb163499db",
+      "title": "id:aox に名指しされたので",
+      "link": "https://anond.hatelabo.jp/20260913224426",
+      "summary": "anond:20260912163434 戦争反対と防衛力は両立する id:aox 氏は防衛費の予算が適切であるか等の話であり、元増田の主張のように留保をつけたがるという話ではなく別の議題と認識している。 回答する度に別の議題を用意されても困るので、一旦「戦争反対だからこそ、戦争が起こらないように防...",
+      "published": "2026-09-13T13:44:42Z",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9713d99ebd793fbf298ad2f0ce497db6",
+      "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
+      "link": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
+      "summary": "いまハエの脳が注目されている理由は2つです。ひとつは、動物1匹ぶんの神経系が、感覚から運動までつながった形でそろい始めたこと。もうひとつは、それを誰でも手元で動かせるようになったことです。 2024年の全脳モデルは、CPUの1スレッドあたり1秒ぶんのシミュレーションに約5分かかる規模でした。2025...",
+      "published": "2026-09-13T12:22:21Z",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8cb2ce2e00aff602ac11712960f157a",
+      "title": "習氏、BRICSで「オープンソースAI」構想を提案 米中会談控え",
+      "link": "https://www.afpbb.com/articles/-/3652688",
+      "summary": "【9月13日 AFP】中国の習近平国家主席は13日、インドのニューデリーで開催された新興国グループ「BRICS」の首脳会議で、加盟国向けに「人工知能（AI）のオープンソースゾーン」の創設を主導すると表明した。 米国の開発企業が非公開型（クローズド）のアプローチを好む一方で、中国のAI企業はユーザーが...",
+      "published": "2026-09-13T10:26:03Z",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6b4c5c3b072c479d6d1e282f60c83dd",
+      "title": "「光速が時速5kmだったらどうなるか？」を体験できるウェブサイト",
+      "link": "https://gigazine.net/news/20260913-walking-speed-light/",
+      "summary": "光速に近いスピードで移動すると、周囲の色や物体の形状が変化して見えると考えられています。そんな「光速に近い速度で移動した際の世界の見え方」を体験できるウェブアプリ「Relativity Park」が公開されています。 Relativity Park: Walking Speed of Light h...",
+      "published": "2026-09-13T11:06:46Z",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eca6608a913eeaf465ce0b51b833338",
+      "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは? | au Webポータル",
+      "link": "https://article.auone.jp/090465f4-bbd4-4e07-8236-ac82cebd9552",
+      "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディ",
+      "published": "2026-09-13T06:24:14Z",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33a4a442995965e33e561b049576510b",
+      "title": "GitHub - Swordfish90/cool-retro-term: A good looking terminal emulator which mimics the old cathode display... · GitHub",
+      "link": "https://github.com/Swordfish90/cool-retro-term",
+      "summary": "📦 Swordfish90 / cool-retro-term ⭐ 26,133 (+98) 🗒 QML A good looking terminal emulator which mimics the old cathode display...",
+      "published": "13 Sep 2026 16:17 +0000",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ec0d7bedda43922d610d9d94eb0fd09",
+      "title": "Cloud RunからCloud SQLへのプライベート接続を試してみた",
+      "link": "https://dev.classmethod.jp/articles/myan-google-cloud-run-sql-private-20260911/",
+      "summary": "Cloud RunからCloud SQLへのプライベート接続を試してみました！プライベートサービスアクセスとIAM認証を使い、セキュアなデータベース接続を実現する手順を、コンソール操作と動作検証を交えて紹介します。",
+      "published": "Sun, 13 Sep 2026 16:21:05 GMT",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e6acb462467ab8d82761485e9c71873",
+      "title": "[アップデート] Amazon Bedrock Managed Knowledge Baseでドキュメントのアクセス権を調べるAPIが追加されたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-bedrock-knowledge-base-document-acl-debugging/",
+      "summary": "Amazon Bedrock Managed Knowledge Base に追加された、ドキュメントのアクセス権を確認できる新しいAPIを試してみました！ちょっとニッチなアップデートですね・・・！",
+      "published": "Sun, 13 Sep 2026 15:35:16 GMT",
+      "fetched_at": "2026-09-13T17:20:30.123550+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-13T14:00:03.362143+00:00"
+  "updated_at": "2026-09-13T17:20:30.123550+00:00"
 }

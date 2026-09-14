@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a3f419c83a8a973c205d0a5e6d76f40d",
-      "title": "Amazon Aurora DSQL でスケーラブルなアプリケーションを構築する | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/building-scalable-applications-on-amazon-aurora-dsql/",
-      "summary": "公式ブログだ。あとで",
-      "published": "13 Sep 2026 02:00 +0000",
-      "fetched_at": "2026-09-13T02:22:35.344164+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ef484a7fda19cac32f3f6bdad2a0c690",
-      "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
-      "link": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Code の Rules はもう死んでいる",
-      "published": "12 Sep 2026 23:55 +0000",
-      "fetched_at": "2026-09-13T02:22:35.344164+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f1a4797c1dcbe940b88622c6471286dc",
       "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
       "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
@@ -309,7 +289,427 @@
       "fetched_at": "2026-09-14T02:39:43.802134+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "91fa908fe262fbb10f38e437d434a5f9",
+      "title": "AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する - Speaker Deck",
+      "link": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する",
+      "published": "14 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b48363ad38083daff25e3756e65f2bd",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://tech-lab.sios.jp/archives/54515",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Chrome DevTools MCP を Windows に入れる。ログインだけ人がやる | SIOS Tech Lab",
+      "published": "14 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4c68348f2ff1bd84c67e904982a636e",
+      "title": "NVIDIAのJensen Huang氏「AGIは到来した」、OpenAIからも「AGI時代に入りつつある」との声 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/toward-agi-era",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 NVIDIAのJensen Huang氏「AGIは到来した」、OpenAIからも「AGI時代に入りつつある」との声 | gihyo.jp",
+      "published": "14 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d65e0cbb038ae2855d257d5fc679487",
+      "title": "TanStack RouterとNginxからTanStack Startに移行した話：移行する際に整理したこととつまずき",
+      "link": "https://zenn.dev/aishift/articles/80beda8d543bb7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TanStack RouterとNginxからTanStack Startに移行した話：移行する際に整理したこととつまずき",
+      "published": "14 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdc118fdd838061a30ebbd2c1f43ac8d",
+      "title": "PQC（耐量子計算機暗号）ってもう使えるの？: SSH編（2026年9月版）",
+      "link": "https://zenn.dev/ttkzw/articles/00a2c2b6028368",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PQC（耐量子計算機暗号）ってもう使えるの？: SSH編（2026年9月版）",
+      "published": "14 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c604f089ff43243c6f9ba479a70afa41",
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "summary": "https://archive.ph/8NmSg Comments URL: https://news.ycombinator.com/item?id=49691343 Points: 121 # Comments: 155",
+      "published": "Mon, 14 Sep 2026 02:50:40 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c05eed9757c436c0cb2677187901dfd3",
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "summary": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/ Comments URL: https://news.ycombinator.com/item?id=49690554 Points: 152 # Comments: ...",
+      "published": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86bf8af461e2c46d0764c822ffea95d8",
+      "title": "Open-source AI and open models reading list",
+      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "summary": "Article URL: https://www.interconnects.ai/p/open-source-ai-reading-list Comments URL: https://news.ycombinator.com/item?id=49690260 Points: 107 # Comm...",
+      "published": "Mon, 14 Sep 2026 00:22:51 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57fe44131ecc917a04ad5dcc6e6611ac",
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 179 # C...",
+      "published": "Mon, 14 Sep 2026 00:11:21 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c017b7f57586d991345449deffbb2e46",
+      "title": "Mullenweg has returned as CEO after attempted board ouster",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https:...",
+      "published": "Sun, 13 Sep 2026 20:19:06 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33dda56973aa19d59369f4ede9502227",
+      "title": "Global shortage has led to motor oil rationing at Costco",
+      "link": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+      "summary": "Article URL: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sun, 13 Sep 2026 17:57:59 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e3c825eec58e55cd224bb52c04e0f14",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=49686380 Points: 163 # Comments: ...",
+      "published": "Sun, 13 Sep 2026 17:31:38 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73e02375022dad33d30521b5d4c17bfb",
+      "title": "第1回 AWS ライフサイエンス・シンポジウム 欧州：エグゼクティブ・インサイト",
+      "link": "https://aws.amazon.com/jp/blogs/news/%E7%AC%AC1%E5%9B%9E-aws-%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E6%AC%A7%E5%B7%9E%EF%BC%9A%E3%82%A8/",
+      "summary": "英語版ブログ： “ Executive Insights from the Inaugural AWS Lif […]",
+      "published": "Mon, 14 Sep 2026 06:34:06 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "349fd041a19520ba66ae0a9bd45489f3",
+      "title": "はじめての自動推論",
+      "link": "https://aws.amazon.com/jp/blogs/news/a-gentle-introduction-to-automated-reasoning/",
+      "summary": "Amazon Science の研究領域に新たに加わった自動推論について、予備知識のない方に向けてわかりやすく解説します。簡単な C と Python のコード例を使い、網羅的テストでは 1,300 年以上かかる検証を自動推論がミリ秒で示せる理由、テストが今後も必要な理由、停止性問題ゆえに「Don'...",
+      "published": "Mon, 14 Sep 2026 06:27:40 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5f842d82a4da1b49a6e639aa60a11da",
+      "title": "セキュリティにおける AI の現在地: 信頼構築に最も重要な指標の測定",
+      "link": "https://aws.amazon.com/jp/blogs/news/the-state-of-ai-for-security-measuring-what-matters-most-for-building-trust/",
+      "summary": "セキュリティ業務で AI を活用する際、脆弱性を発見できるかだけでなく、安全なコードを誤検出しないかが信頼の鍵になります。本記事では、実際の脆弱性と誤検出を見分ける能力を測る初のベンチマーク Deception Benchmark を紹介します。16 のプログラミング言語、70 を超える CWE カ...",
+      "published": "Mon, 14 Sep 2026 06:24:48 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "98cf5e40f3acb0af8621be32c9b3d14d",
+      "title": "パナソニック、録画番組をクラウド保存できる全自動ディーガ",
+      "link": "https://av.watch.impress.co.jp/docs/news/2140657.html",
+      "summary": "",
+      "published": "2026-09-14T06:01:41Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "468a06d1ba365632973e2c8512c48ddb",
+      "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)",
+      "link": "https://ascii.jp/elem/000/004/434/4434403/",
+      "summary": "5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を...",
+      "published": "2026-09-14T01:15:32Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "558d3f4c45bcc1eece22ae1a2825a546",
+      "title": "楽天モバイル、“楽天ID未連携で自動解約”を撤回 12月以降も継続利用できる",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140667.html",
+      "summary": "",
+      "published": "2026-09-14T06:52:23Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33891074c62df568ebd7617297ed08db",
+      "title": "「とほほのWWW入門」運営30年で見た、プログラミング言語とWeb標準の進化史 流行に振り回されず学び続けるために",
+      "link": "https://codezine.jp/article/detail/29411",
+      "summary": "2026年に開設から30年を迎える個人サイト「とほほのWWW入門」。管理人の杜甫々氏は、「Developers Summit 2026 KANSAI」の基調講演で、1996年から見つめてきたプログラミング言語やWeb標準の移り変わり、そして2025年10月の定年退職後にあらためて向き合うことになった...",
+      "published": "2026-09-14T02:20:33Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00588e21b7cd21d5b2ae4859e5e9d322",
+      "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
+      "link": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
+      "summary": "はじめに Claude CodeをまだCLIで使用していませんか？Claude Code Desktop、昔は使えるコマンドが少なかったり、そもそも重かったりなど使いにくかったですが、最近めっちゃ使いやすくなってます！ 思いつくままに、Claude Code Desktopのいいところを書いてみまし...",
+      "published": "2026-09-09T06:01:56Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f05e66b6e1bf29320634f6500cd3b55b",
+      "title": "setlog誕生から、次のSnapchatへ——創業者Devin Doty、ロングインタビュー",
+      "link": "https://ishicoro.substack.com/p/setlogsnapchatdevin-doty",
+      "summary": "setlogを手がけるNew Chat Inc.創業者のDevin Dotyさんに、90分のロングインタビューをしました。こんな話を聞きました。 ・Snapchatでの8年半のキャリア ・Snapを辞め、New Chatを創業した理由 ・setlogにたどり着くまでに試したプロダクト ・韓国のRee...",
+      "published": "2026-09-13T12:05:24Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "19707c27d0c92eb46d8392f88bd653bc",
+      "title": "音波を使って数秒で火を消す音響消火器を16才の少女が開発",
+      "link": "https://gigazine.net/news/20260914-acoustic-fire-extinguisher/",
+      "summary": "メキシコの16歳の女子学生が、音波によって火を消す「音響消火器」を開発しました。 16-year-old Mexican student creates an acoustic fire extinguisher that uses sound waves to put out fires in s...",
+      "published": "2026-09-13T23:31:00Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff77fec76e08e1701c27230d62c8b99a",
+      "title": "6000円台のスマートウォッチ「Xiaomi Smart Band 10」の実力 実際に使ってみた - ソレドコ",
+      "link": "https://soredoko.jp/entry/2026/09/14/103000",
+      "summary": "スマートウォッチ「Xiaomi（シャオミ） Smart Band 10」の使用感をレビューします。6,680円から買える手頃な価格、着けていることを忘れる軽さ、そして最大21日間持つというバッテリーの持続力。できることからデメリットまでをユーザーのmoe*さんが伝えます。 推し活は身体が資本。ライブ...",
+      "published": "2026-09-14T02:00:08Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "20defcec5c1a2b98f98556d590e380d5",
+      "title": "ローカルアカウントで「Windows 11 Home」をセットアップする超簡単な方法【令和8年最新版】／あのリンクをクリックするだけ！【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2140676.html",
+      "summary": "",
+      "published": "2026-09-14T07:48:14Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d532e98b471f2fac9976497ed4b78f1",
+      "title": "クラウドシフトをキャリアの転機に～ネットワークのプロ集団が既存領域を守りながら「ゼロトラスト」でコーポレートITを変革するまで～ - ぐるなびをちょっと良くするエンジニアブログ",
+      "link": "https://developers.gnavi.co.jp/entry/zero-trust/",
+      "summary": "こんにちは、ぐるなびでインフラ（メインはネットワーク）とコーポレートITを担当しているTsushimaです。 商用インフラのクラウド化を転機とし、ネットワークエンジニアの強みを「ゼロトラスト推進」へと展開したマネジメントの意思決定プロセス、既存事業の品質を死守しながら、中途や異動メンバーと融合し、コ...",
+      "published": "2026-09-14T08:08:26Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c78f48c09e65e293264c269d585240ab",
+      "title": "トランプ氏、過度なAI規制論を一蹴 対中競争の「勝利」優先 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCB140650U6A910C2000000/",
+      "summary": "【ワシントン=共同】生成人工知能（AI）を巡って制御不能や悪用への懸念が広がる中、トランプ米大統領は13日、AIのリスクを過度に強調する「悲観的な勢力」がいるとして、開発規制を巡る議論の過熱をけん制した。中国との競争で優位性を維持し続ける必要性を訴え「AI競争に勝った者が勝者になる」と述べた。訪問先...",
+      "published": "2026-09-14T01:33:36Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05861d864174f3ca8ea0c90927f2a988",
+      "title": "mise の dotfiles 機能で chezmoi を代替できるか試した - Howdunit",
+      "link": "https://gr1m0h.hatenablog.com/entry/2026/09/13/233325",
+      "summary": "はじめに 私はdotfilesの管理にchezmoiを使っていました。 テンプレート機能で複数マシンの差分を吸収し、chezmoi applyで反映する運用です。 github.com 最近、mise開発者のjdx氏が公開した以下の記事を読み、自分のdotfilesをchezmoiからmiseへ移行...",
+      "published": "2026-09-13T15:28:56Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3df5df8c355fe2b2175a2ed8f21c1fb",
+      "title": "なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/package_registry_history",
+      "summary": "はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアの井手(@st98_)です。 2026年に入ってから、パッケージレジストリを狙ったソフトウェアサプライチェーン攻撃のニュースが多数ありました。3月には axios や LiteLLM、4月には Bitwarde...",
+      "published": "2026-09-14T01:37:58Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69755b918755300e26171d995214b8b8",
+      "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+      "link": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+      "summary": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is ...",
+      "published": "2026-09-13T23:08:00Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "426621cf4b8a1ad6d9022405b891be8a",
+      "title": "GitHub - p1ass/textlint-rule-preset-ai-words-ja: AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット",
+      "link": "https://github.com/p1ass/textlint-rule-preset-ai-words-ja",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-13T20:33:27Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "028f194e8e8a00848595b66090ff6fad",
+      "title": "Logging Reference Architecture | CISA",
+      "link": "https://www.cisa.gov/resources-tools/resources/logging-reference-architecture",
+      "summary": "Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websites use HTTPS A lock (...",
+      "published": "2026-09-12T08:46:12Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dae9f0837395bffaad92eaa31e6f03f5",
+      "title": "ChatGPTに“負けた”大喜利AI作者はなぜ、ABC予想の証明に挑むのか【竹之内大輔】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_929/",
+      "summary": "大喜利AI開発者 竹之内 大輔 1981年生まれ、群馬県出身。東京工業大学を卒業後、アクセンチュア戦略グループに勤めた後、東京工業大学大学院博士課程で数理論理学・内部観測論を用いて「部分と全体」「自律性」の問題を研究。株式会社イーライフでのインタラクティブマーケティングのコンサルタントを経て、201...",
+      "published": "2026-09-14T01:30:27Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8c1fc94fdf0de287001e1704de46470",
+      "title": "Gitコミットに署名をつける - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/c88f7714-055b-ddca-a3ae-e5a6f4aa04cc",
+      "summary": "これまではPrivateリポジトリへの貢献が中心だったがゆえ、必ずしも設定する必要がないと感じていました*1。しかし、Valibotのように巨大なOSSのメンテナとして稼働する以上、これは設定しておくべきだなと思い始めたため、設定しました。その過程をメモ程度に共有します。 ちなみにValibotのオ...",
+      "published": "2026-09-13T14:54:19Z",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4da5ce0378dc3d89723e984967430ea7",
+      "title": "[レポート]Snowflakeで実現するデータAIガバナンス AIエージェントガバナンス・データ持ち出し防止・ランサムウェア対策等 #SWTTokyo26",
+      "link": "https://dev.classmethod.jp/articles/snowflake-data-ai-governance-ai-agent-governance-swttokyo26/",
+      "summary": "AIの普及により、組織が管理すべきデータの範囲とリスクは急速に拡大しています。 本セッションでは、Snowflakeが提供するデータセキュリティとAIガバナンスのベストプラクティスや最新機能を解説 前半では、現実の攻撃シナリオに基づいたデータ持ち出し攻撃プロセス解説、データ移動ポリシーやトラストセン...",
+      "published": "Mon, 14 Sep 2026 09:18:06 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8628c0716e63d9734c6fe9ea2aeb139d",
+      "title": "AWS Well-Architected Framework 入門：持続可能性の柱を Compute Optimizer + リソース棚卸しで実践してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-well-architected-framework-guide-07/",
+      "summary": "AWS Well-Architected Framework を学ぶシリーズ第 7 回で、今回は持続可能性の柱を扱います。Compute Optimizer によるリソース分析と、未使用リソースの棚卸しを通じて、無駄のないリソース活用を体感します。",
+      "published": "Mon, 14 Sep 2026 08:05:39 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d96802c2fbf2e8f88014447075e74b51",
+      "title": "Claude Code で auto mode を起動時のデフォルトにしたら、対応モデルと非対応モデルで挙動が分かれた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-auto-mode-default-bedrock/",
+      "summary": "Claude Code on Bedrock の auto mode をデフォルトに設定したときの挙動を、対応モデルと非対応モデルで比較しました。",
+      "published": "Mon, 14 Sep 2026 06:21:10 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d03ce1180f2ad248d2248a499d860f3c",
+      "title": "WAF AutomatorでAWS WAFのWeb ACLを新規作成してみた",
+      "link": "https://dev.classmethod.jp/articles/waf-automator-aws-waf-web-acl-create/",
+      "summary": "WAF AutomatorでAWS WAFのWeb ACLを新規作成する手順を紹介します。WAF Automatorの概要と主な機能、CloudFormationを用いたIAMロールの作成、STSロールARN・タイプ・リージョンを設定してWeb ACLを登録・確認する流れを解説します。",
+      "published": "Mon, 14 Sep 2026 06:13:55 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3436b4161bf3216bfa04e3ac58b4094",
+      "title": "OpenCode、pi、DeepSeek Harness を同じモデルにつないで、モデル非依存のコーディングエージェントハーネスの違いを比べてみる",
+      "link": "https://dev.classmethod.jp/articles/reona-coding-harness-opencode-pi-dsh/",
+      "summary": "モデルを差し替えられるコーディングエージェントのハーネス、OpenCode・pi・DeepSeek Harness の 3 つの設計思想と動き方の違いを調べました。実際に同じモデルにつないで同じ課題を解かせ、ハーネス選びの根拠を整理します。",
+      "published": "Mon, 14 Sep 2026 06:10:38 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bce62fdaf976c9ac390f95dccceb42c",
+      "title": "SNOWFLAKE WORLD TOUR TOKYO 2026 で「2026 Snowflake Partner Champion」の認定を頂きました #SWTTokyo26",
+      "link": "https://dev.classmethod.jp/articles/swtt-2026-snowflake-partner-champion-certified/",
+      "summary": "SNOWFLAKE WORLD TOUR TOKYO 2026で開催された「2026 Snowflake Partner Champion」の認定式に参加し、クラスメソッドから3名が認定を受けました。",
+      "published": "Mon, 14 Sep 2026 05:01:37 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "81cfba79f839fe7305dffb32ce083544",
+      "title": "材料投入作業の有無判定をDGX SparkのローカルVLMで検証してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-dgx-monitoring/",
+      "summary": "ヒューマンエラー・ポカ避け対策のために、材料投入作業を模した動画から、投入の有無の判定を自動化できるかについて、DGX Sparkで5つのローカルVLMを動かして検証しました。",
+      "published": "Mon, 14 Sep 2026 02:58:36 GMT",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8522009b38c964fd7d458e968ced6296",
+      "title": "Heritage Audio Herchild 670N compressor review: We’re going to need a bigger rack",
+      "link": "https://musictech.com/reviews/studio-recording-gear/heritage-audio-herchild-670n-review/",
+      "summary": "This behemoth Fairchild-inspired valve compressor is ready for modern workflows – and it’s a relative bargain at $3,000 The post Heritage Audio Herchi...",
+      "published": "Mon, 14 Sep 2026 08:00:14 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fcb49b15e178c0bc15ec79631ad7abfa",
+      "title": "“When you challenge the norm, you’re always going to have pushback”: Audima Labs’ Sway controller is an indie innovation",
+      "link": "https://musictech.com/features/interviews/audima-sway/",
+      "summary": "The Aussie brand’s debut product has raised tens of thousands in crowdfunding and landed two spots in Illenium’s Las Vegas Sphere setup – they tell us...",
+      "published": "Mon, 14 Sep 2026 07:30:40 +0000",
+      "fetched_at": "2026-09-14T09:25:06.105796+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-14T02:39:43.802134+00:00"
+  "updated_at": "2026-09-14T09:25:06.105796+00:00"
 }

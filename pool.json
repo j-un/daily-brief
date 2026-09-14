@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f1a4797c1dcbe940b88622c6471286dc",
-      "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
-      "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
-      "summary": "わいわい",
-      "published": "13 Sep 2026 08:09 +0000",
-      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "bcc296de65f859f1e28685ad4c8a9993",
-      "title": "アーキテクチャ図を念頭に置いて設計された斬新な自動レイアウトアルゴリズム「TALA」がオープンソース化 - GIGAZINE",
-      "link": "https://gigazine.net/news/20260909-tala-is-open-source/",
-      "summary": "わいわい。昔Text to DiagramはD2で決まりだと言ったことがあるが、言うほど流行ってない感じがあるな。",
-      "published": "13 Sep 2026 07:31 +0000",
-      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "594f7cf1b653292486ffc80a4702d8af",
-      "title": "Docker環境をガチで軽量化するための鉄板設定まとめ #docker-compose - Qiita",
-      "link": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
-      "summary": "ちまちまと停止したコンテナや過去のイメージ削除ぐらいしかしてなかったけど、docker system dfとdocker system prune知らなかった。捗るな。",
-      "published": "13 Sep 2026 05:50 +0000",
-      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2e88f0e84359685374d8235f65ae368c",
-      "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-      "summary": "「Fedora44とFedora55の一部をベースとしている」相変わらずのキメラっぷりだ。もう流石にSELinux Enforcingで運用したいところですよねみなさん。",
-      "published": "13 Sep 2026 05:02 +0000",
-      "fetched_at": "2026-09-13T08:39:42.586807+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e160be580b5d5656c0c49311f73f6cc6",
       "title": "LLMサービスからLLMプラットフォームへ：BizReachはいかにして本番AIを標準化したか - Visional Engineering Blog",
       "link": "https://engineering.visional.inc/blog/734/ai-platform-engineering-at-bizreach/",
@@ -709,7 +669,467 @@
       "fetched_at": "2026-09-14T09:25:06.105796+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "21a2c0987b817328dbbd7cbb5fcd89e9",
+      "title": "Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers",
+      "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers",
+      "published": "14 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d05db67d3c499283376f41a353978c11",
+      "title": "【資料公開】生成AIでスクラムによる開発はどう変わるか（2026年9月版） | Ryuzee.com",
+      "link": "https://www.ryuzee.com/contents/blog/14625",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【資料公開】生成AIでスクラムによる開発はどう変わるか（2026年9月版）",
+      "published": "13 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "896ddc0c915d26d10677d754d562a71c",
+      "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
+      "link": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "summary": "Article URL: https://spectrum.ieee.org/h-1b-visa-us-government Comments URL: https://news.ycombinator.com/item?id=49697171 Points: 128 # Comments: 231",
+      "published": "Mon, 14 Sep 2026 14:09:10 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "158ec150e6a62ac881f65babc34356c9",
+      "title": "How to Write an Effective Software Design Document",
+      "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "summary": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/ Comments URL: https://news.ycombinator.com/item?id=49696125 Points...",
+      "published": "Mon, 14 Sep 2026 13:00:46 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49519d89cf6f595a88a06b5d5ab47bf5",
+      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "summary": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/ Comments URL: https://news.ycombinator.com/item?id=49695876 Points: 100 ...",
+      "published": "Mon, 14 Sep 2026 12:40:57 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb05d64bac9fa612ae17f0b22334d075",
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "link": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/ Comments URL: https://new...",
+      "published": "Mon, 14 Sep 2026 12:37:42 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0a311593439900fc45ed1d50f184f9c",
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "link": "https://xcancel.com/twitter",
+      "summary": "Article URL: https://xcancel.com/twitter Comments URL: https://news.ycombinator.com/item?id=49695459 Points: 256 # Comments: 221",
+      "published": "Mon, 14 Sep 2026 12:05:52 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "34ccf2acef5ad05e533be3750c0610c0",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "summary": "Article URL: https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/ Comments URL: https://news.ycombinator.com/item?id=49695...",
+      "published": "Mon, 14 Sep 2026 12:01:32 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d43f745c9b91a836dfed66c8a4e08bcd",
+      "title": "A 386 PC for Your RP2350",
+      "link": "https://github.com/rh1tech/frank-386",
+      "summary": "Article URL: https://github.com/rh1tech/frank-386 Comments URL: https://news.ycombinator.com/item?id=49693613 Points: 161 # Comments: 44",
+      "published": "Mon, 14 Sep 2026 08:25:57 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "14fc7e931f4f25bc507cbe9bd27b60d9",
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "summary": "Article URL: https://www.eurobirdportal.org/ebp/en/ Comments URL: https://news.ycombinator.com/item?id=49693610 Points: 186 # Comments: 52",
+      "published": "Mon, 14 Sep 2026 08:25:47 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cee68e265a82b3148367414c9d8e248",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "summary": "Article URL: https://github.com/anuj0456/OpenArch Comments URL: https://news.ycombinator.com/item?id=49693384 Points: 113 # Comments: 27",
+      "published": "Mon, 14 Sep 2026 07:55:19 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b16cf5aa2a7a6f4e6bbda1a3132756b",
+      "title": "The Coming War on General Computation (2011)",
+      "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: ...",
+      "published": "Sun, 13 Sep 2026 23:54:55 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "88ac969b3f68d3296ed45e85fd255941",
+      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
+      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 104 # Comments: 14",
+      "published": "Sun, 13 Sep 2026 20:33:18 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc6dcf566edf67669ec95181f759e6ef",
+      "title": "本人限定受取郵便、27年4月から本人確認を厳格化 スマホのマイナカードにも対応",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2140785.html",
+      "summary": "",
+      "published": "2026-09-14T10:47:09Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adb61ccd81ddad2ea1a04a64772d2abc",
+      "title": "AI活用で生まれた別のコスト - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/09/02/120000",
+      "summary": "SmartHRで給与計算機能の開発をしているプロダクトエンジニアの@rです。 開発のいたるところでAIが活用されるようになってきました。弊社でも、コーディングはもとよりPRD（プロダクト要求仕様書）の作成、チケットの作成、テスト計画書の作成、ヘルプページの作成ほかあらゆる成果物の作成でAIの利用が当...",
+      "published": "2026-09-02T06:20:18Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e0b4f16fb485b644bca8653f48de04d",
+      "title": "Local LLMを社内に提供！ Local LLM Model as a Serviceとその取り組みについて - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202607-local-llm-maas/entry",
+      "summary": "コーディングエージェントの普及によって、LLMは日々の開発で欠かせない道具となりました。 その多くはクラウド型のサービスを通じて利用されており、高性能なモデルをすぐに使える環境が整っています。 同時に、日々の開発で常用するものだからこそ、扱うデータや利用の実態を自組織の内側に収めておきたい場面も出て...",
+      "published": "2026-09-14T06:19:13Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "500c33c8c76437eea822d118e72b0b70",
+      "title": "Microsoftアカウント作成を超簡単にバイパスする方法が見つかる。Windows11初期セットアップにて。『詳細』を選択するだけ | ニッチなPCゲーマーの環境構築Z",
+      "link": "https://www.nichepcgamer.com/archives/post-132235.html",
+      "summary": "Windows11の初期セットアップでは、基本的にMicrosoftアカウントでのサインイン、またはアカウントがなければアカウントの作成が求められます。Microsoftアカウントを使いたくないユーザーは「なんらかの方法」を駆使して、アカウントの作成をバイパスしないといけません。 今回、そのアカウン...",
+      "published": "2026-09-14T03:23:49Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4526da49d5299ef687cd52fffd67f6c0",
+      "title": "「Insert」や「Delete」は昔こんな記号だった、PCキーボードから消えたアイコンの歴史",
+      "link": "https://gigazine.net/news/20260914-key-symbols-pc/",
+      "summary": "PCのキーボードにはShiftの「⇧」やEnterの「↵」など文字を読まなくても意味が分かる記号があります。一方で昔のIBM製コンピューターや端末にはPrint ScreenやInsert、Deleteといった操作にも独特な記号が使われていました。キーボード史を扱う書籍の著者でもあるUXデザイナーの...",
+      "published": "2026-09-14T10:25:20Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ec30ac20c03dba738413a9287a01c19",
+      "title": "LLMのローカル実行ツール「Ollama」v0.34、「ChatGPT」デスクトップアプリに対応／「ChatGPT」（Codex）アプリでオープンモデルを選択可能。ただし……",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2140699.html",
+      "summary": "",
+      "published": "2026-09-14T10:30:28Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adad3e96429a9ade86c1c5f2016d3ed9",
+      "title": "ObsidianのCEO、Markdown生成向けの「Knap」を紹介 ——Web Clipperから独立したテンプレート言語 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/knap",
+      "summary": "ObsidianのCEO⁠⁠、Markdown生成向けの「Knap」を紹介 —⁠—Web Clipperから独立したテンプレート言語 ObsidianのCEOを務めるSteph Ango氏（kepano）は9月10日、データからMarkdownを生成するテンプレート言語「Knap」をXで紹介した。O...",
+      "published": "2026-09-14T02:40:26Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "608f62d8f75d07657fa1308c6882bf7d",
+      "title": "ハエの脳を基にした16万6700個の仮想ニューロンで仮想通貨のデイトレードを行う試み",
+      "link": "https://gigazine.net/news/20260914-stonkfly-malecns-v1-0-crypto/",
+      "summary": "Googleやハワード・ヒューズ医学研究所などの共同研究チームが雄のキイロショウジョウバエの中枢神経系を記録した「MaleCNS v1.0」を公開したところ、多くのエンジニアがハエのニューロンネットワークをシミュレートして『DOOM』や『スーパーマリオ64』を動かす試みに挑戦しています。仮想通貨取引...",
+      "published": "2026-09-14T05:06:16Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07af8a285d5b531c5189d07fe4cf8355",
+      "title": "「投稿した記憶のない娘の個人情報」をMeta AIが知人の投稿などから正確に推測するという恐怖体験を母親が告白",
+      "link": "https://gigazine.net/news/20260914-meta-ai-instagram-facebook-invasive-information/",
+      "summary": "Instagramに娘の動画を投稿したところ、これまで投稿した記憶のない「娘の氏名」や「生年月日」といった個人情報を、MetaのAIアシスタントであるMeta AIが正確に提示してきたという恐怖体験が投稿され話題となっています。 Mother Horrified When Meta's AI Sco...",
+      "published": "2026-09-14T07:40:17Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "718d2783c044e4e04e3d7278db6b7788",
+      "title": "PS2発売から26年、最後の牙城「MechaCon」セキュリティチップのダンプに遂に成功！",
+      "link": "https://sumahodigest.com/?p=70391",
+      "summary": "2000年の発売から長らく未解明のままであったPlayStation 2（PS2）の強固なセキュリティチップについて、海外の開発者が遂にROMデータの抽出（ダンプ）に成功したと報告し、大きな話題を呼んでいます。 26年間守られ続けた「MechaCon」とは X（旧Twitter）ユーザーのDisco...",
+      "published": "2026-09-14T05:15:52Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8b83d95aec2c54fd4e7ff374853fdc9",
+      "title": "AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に",
+      "link": "https://www.afpbb.com/articles/-/3652820",
+      "summary": "この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【9月14日 AFP】目まぐるしいスピードで進む人工知能（AI）開発のペースをめぐり、主要企業のトップらが減速を呼びかけ始めている。しかし、業界内での激しい...",
+      "published": "2026-09-14T09:11:48Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af6585d4b0b014018c9681587f10d4ea",
+      "title": "人肌に近い36℃で推しを再現。160cm等身大のヒーター抱き枕がサンコーから - エルミタージュ秋葉原",
+      "link": "https://www.gdm.or.jp/pressrelease/2026/0914/652252",
+      "summary": "人肌に近い36℃で推しを再現。160cm等身大のヒーター抱き枕がサンコーから 2026.09.14 14:00 更新 2026.09.14 配信 市販の160cm推しカバーに対応。胸元から膝下までじんわり加温 サンコー株式会社（本社：東京都千代田区）は2026年9月14日、USB給電式の「ヒーターで...",
+      "published": "2026-09-14T07:06:37Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09652949a524e318d61c3ca2f515192c",
+      "title": "トランプ氏、AI開発の慎重論を「否定的」な考え方と批判",
+      "link": "https://www.afpbb.com/articles/-/3652732",
+      "summary": "【9月14日 AFP】ドナルド・トランプ米大統領は13日、人工知能（AI）の開発を減速させる必要があるとする慎重論について、「否定的」な考え方だと批判した。 アイルランド訪問中のトランプ氏は記者団に、「否定的な人々が大勢いる。持ち出すべきでないことを持ち出し、起こりもしないことを持ち出している」と語...",
+      "published": "2026-09-14T04:01:54Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8734011e310ed9f2c6404d40c82c8e4b",
+      "title": "Sakana AIが複数モデルの使い分けでGPT-6 Astra超えを達成する「Fugu Ultra v2」をリリース＆コスパに優れた「Fugu Max」も登場",
+      "link": "https://gigazine.net/news/20260914-fugu-ultra-v2/",
+      "summary": "東京に拠点を置くAI企業のSakana AIが、複数のAIモデルにタスクを割り振るシステム「Fugu Ultra v2」と「Fugu Max」を発表しました。Fugu Ultra v2は複数のベンチマークテストでGPT-6 AstraやClaude Fable 5.1を上回っています。 Sakana...",
+      "published": "2026-09-14T05:05:02Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be922a334b564df71e2cf32f2addc8ed",
+      "title": "15日配信「iOS 27」の新機能まとめ Siri AIの恩恵を受けられる機種は？ 画像編集やSafariにも注目",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html",
+      "summary": "ただし、アップデートできることと、新機能を全て使えることは別だ。目玉のSiri AIを含むApple Intelligenceの機能は、「iPhone 16」以降の全モデルと「iPhone 15 Pro／Pro Max」に限られる。「iPhone 14」以前のユーザーがiOS 27で得られるのは、後...",
+      "published": "2026-09-14T03:51:04Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26e75acae494b57321380aa3dba605f9",
+      "title": "ghuugのブックマーク - はてなブックマーク",
+      "link": "https://b.hatena.ne.jp/ghuug/",
+      "summary": "https://p.hatena.ne.jp/p/1539965001635205120/t/1548554420973735936 沖縄県知事選をめぐる132記事、3,997ブックマーク、1,114人をまとめて分析しました。 誰がずっと選挙を追っていたのか。 どのタイミングで人が増えたのか。 同じ...",
+      "published": "2026-07-18T09:11:52Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46495554eecb825847bb6f5f18d8453e",
+      "title": "楽天モバイル、楽天ID未連携ユーザーの「自動解約」を撤回 電話番号も失効せず",
+      "link": "https://japan.cnet.com/article/35252605/",
+      "summary": "データ通信と通話は12月1日以降も通常通り利用できる。ただし、楽天IDと連携しない場合、支払い状況のオンライン確認や「my 楽天モバイル（Web）」などの一部機能が、一時的に使えなくなる可能性がある。 同社は8月31日、楽天IDと連携せずに利用できる機能を11月30日で終了すると告知していた。対象は...",
+      "published": "2026-09-14T07:45:15Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "268f9b0763fb5ca0bb8365b3895b2e09",
+      "title": "生成AI時代の購買行動モデルを考える〜CHARTER model｜高広伯彦（Ph.D. of Management Science）",
+      "link": "https://note.com/mediologic/n/n28e7272e9d10",
+      "summary": "生成AI時代の購買行動モデルについていくつか見られるようになったが、どうもしっくりこないので、私自身の考えているモデルをここで提案しておく。実はこのモデルに至るまでに、ネット上での情報行動がWebの情報アーキテクチャによって定められていたという別の話があるのだが、それはまた別の機会に書くことにする。...",
+      "published": "2026-09-12T13:44:39Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06b80e318a989e76340182913b529ec7",
+      "title": "米トランプ大統領、広がるAI規制論に反論 「中国へのリードを維持したい」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/",
+      "summary": "米国のドナルド・トランプ大統領は9月13日（現地時間、以下同）、現在AI業界に広がっている規制論に対しての意見を求められた際、「われわれはAIで中国をリードしており、その状態を維持したい」「ガードレールを設けることはできるが、実際に起こらないことを議論に持ち出す人々がいる」と述べ、規制論者たちをけん...",
+      "published": "2026-09-14T07:55:37Z",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5aa3f762b871e796665c8c73d6a6f4fb",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 pee…",
+      "link": "https://github.com/peetzweg/opendisplay",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 peetzweg / opendisplay ⭐ 3,345 (+314) 🗒 Swift Free, open-source Sidecar/Duet alternative — use your iPhone or iPa...",
+      "published": "14 Sep 2026 15:17 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "361d8d37c3971cf9c46b9cdede3498d4",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 ruv…",
+      "link": "https://github.com/ruvnet/RuView",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 ruvnet / RuView ⭐ 93,642 (+370) 🗒 Rust π RuView turns commodity WiFi signals into real-time spatial intelligence,...",
+      "published": "14 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9be2298923154546c0c45dc6daf8d2f4",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 rec…",
+      "link": "https://github.com/reconurge/flowsint",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 reconurge / flowsint ⭐ 8,144 (+279) 🗒 TypeScript A modern platform for visual, flexible, and extensible graph-bas...",
+      "published": "14 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a3c6c7252a7fe4e8e7c74c1cd9c9667",
+      "title": "CDKでCloudWatch Logsのロググループ名を変えると既存ログがどうなるのか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/cdk-loggroup-rename-removal-policy/",
+      "summary": "CDK でロググループ名を変更すると、既存のログがどうなるのかを3つのパターンで検証してみました。名前の変更時に起こる意外な挙動と、気をつけるべきポイントをまとめています。",
+      "published": "Mon, 14 Sep 2026 14:11:43 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "94891d0a97ee878663644655a6d2a5dc",
+      "title": "Microsoft Copilot Studio のエージェントを自作の Web アプリに組み込んでみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-embed-microsoft-copilot-studio-agent-in-custom-web-app/",
+      "summary": "Copilot Studio のエージェントを自作アプリに組み込み、Agents SDK を使ってバックエンド経由で呼び出す実装に挑戦してみました。実装そのものより、ハーネスの選択が組み込み方に大きく影響することを学びました。",
+      "published": "Mon, 14 Sep 2026 13:50:33 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ae74f7887561b4e1e0b062d8bfa9340",
+      "title": "[新機能]Snowflake から AWS Secrets Manager などのシークレットを直接参照できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/snowflake-external-secret-providers-aws-secrets-manager-pupr/",
+      "summary": "Snowflakeの外部シークレットプロバイダー機能を、AWS Secrets Managerとの連携で試してみました。セキュリティ統合の設定からdbt platformのAPI呼び出しまで、実際の設定手順をまとめます。",
+      "published": "Mon, 14 Sep 2026 13:44:50 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7aac314b6f425cdbba9902465731f807",
+      "title": "[登壇レポート] 夏の怪談、CloudTrailに知らない人が というタイトルで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/opsmethod3-cloudtrail-kaidan/",
+      "summary": "opsmethod#3でLT登壇した際のスライドについてシェアします。",
+      "published": "Mon, 14 Sep 2026 12:54:02 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ec7b5841fb3e9659a3ac68fc2a2d495",
+      "title": "開発をより効率化するCursorの新機能 [Cursor Projects]を試してみた",
+      "link": "https://dev.classmethod.jp/articles/cursor-projects-beta-coordinator-agent/",
+      "summary": "Cursor から発表された **Projects** は、1チャット1タスクの制限を超えて、仕事ごと預ける新機能です。コーディネータエージェントが複数の実装者を統率し、クラウドとローカルを行き来しながら、長期的なコンテキストを保ちます。公式情報の整理と、発表翌日の手元確認までをまとめました。",
+      "published": "Mon, 14 Sep 2026 12:48:51 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "73816eb2fb311d5eb35ff5cf53a54990",
+      "title": "【Security Hub修復手順】[Cognito.2] Cognito アイデンティティプールでは、認証されていない ID を許可しないこと",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-cognito-2/",
+      "summary": "AWS Security HubのCognito.2コントロール「認証されていない ID を許可しないこと」について、修復手順をご紹介します。",
+      "published": "Mon, 14 Sep 2026 11:08:07 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e665fc21cb962983779591529d08fbfa",
+      "title": "SSM Run Command で複数台にスクリプトを流すときに引っかかった 3 点について検証してみた",
+      "link": "https://dev.classmethod.jp/articles/ssm-run-command-batch-pitfalls/",
+      "summary": "AWS Systems Manager の Run Command を複数台で運用する際に踏みやすい3つの落とし穴を、検証してみました",
+      "published": "Mon, 14 Sep 2026 10:50:40 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d28192213ac97db0225a1739cf6e852e",
+      "title": "iPhone Duo にはいつまでに対応すればいいのか？",
+      "link": "https://dev.classmethod.jp/articles/iphone-duo-compatible/",
+      "summary": "Apple初の折りたたみiPhone「iPhone Duo」が2026年10月に発売されます。既存アプリがどう対応すればいいのか、SDKバージョンごとの対応と期限についてまとめてみました。",
+      "published": "Mon, 14 Sep 2026 10:19:51 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "80dbc2308e53208660e049c922d2a699",
+      "title": "[アップデート] AgentCore Identityに追加された同意ポータルでGitHub連携を試してみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-consent-portal-github/",
+      "summary": "Amazon Bedrock AgentCore Identityに追加されたAWSホスト同意ポータルを試してみました！夏休みの宿題で頑張った実装部分がマネージドに置き換わって悲しいやら、嬉しいやら・・・って感じですねw",
+      "published": "Mon, 14 Sep 2026 10:01:30 GMT",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7b9c4ee10de20c38099eb962db9ea57",
+      "title": "Heavy Blessings: A Church Road Records Primer",
+      "link": "https://daily.bandcamp.com/label-profile/heavy-blessings-a-church-road-records-primer",
+      "summary": "How the sudden demise of Holy Roar Records kickstarted one of the most venerable indie labels in the UK. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 14 Sep 2026 13:35:14 -0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "cb266789992c7da9ac631575516c9711",
+      "title": "Haruomi Hosono, “Yours Sincerely”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/haruomi-hosono-yours-sincerely-review",
+      "summary": "The latest from the Japanese icon functions as a showpiece for his many musical eras. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 14 Sep 2026 13:35:03 -0000",
+      "fetched_at": "2026-09-14T16:04:26.016007+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-14T09:25:06.105796+00:00"
+  "updated_at": "2026-09-14T16:04:26.016007+00:00"
 }

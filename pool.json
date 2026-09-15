@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "12fbe90f88ddf2fcf9d99129adfaf74a",
-      "title": "AWS Lambda now supports direct read configuration for Amazon S3 Files - AWS",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/",
-      "summary": "ほう。S3 Filesか。",
-      "published": "13 Sep 2026 09:37 +0000",
-      "fetched_at": "2026-09-13T23:48:46.704633+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "bece7f50341b5e6a9992155ef6ca45ad",
-      "title": "Datadogのアラート通知設定のベストプラクティス。Monitorに@を直書きする運用から卒業する",
-      "link": "https://zenn.dev/kumasunny/articles/datadog-alert-notification-best-practices",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Datadogのアラート通知設定のベストプラクティス。Monitorに@を直書きする運用から卒業する",
-      "published": "14 Sep 2026 01:55 +0000",
-      "fetched_at": "2026-09-14T02:39:43.802134+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "872434672202e449451eefb3c15cf072",
-      "title": "SREを組織にする技術",
-      "link": "https://zenn.dev/koduki/books/sre-itil-enterprise",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SREを組織にする技術",
-      "published": "13 Sep 2026 23:55 +0000",
-      "fetched_at": "2026-09-14T02:39:43.802134+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "21a2c0987b817328dbbd7cbb5fcd89e9",
       "title": "Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers",
       "link": "https://itsfoss.com/news/switzerland-replace-microssoft-pilot/",
@@ -199,7 +169,397 @@
       "fetched_at": "2026-09-15T00:05:55.145837+00:00",
       "feed_name": "GitHub Trending (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "45fdc0f1282e51549c961d1b3c85249e",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+      "published": "15 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c081f3f6d6e898ae0e42e167b80f41a",
+      "title": "キャッチアップ3時間、8日でリリース。AI時代のインターン受け入れで見えたメンターの役割 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/09/08/070000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 キャッチアップ3時間、8日でリリース。AI時代のインターン受け入れで見えたメンターの役割",
+      "published": "15 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee4ec16523b92e4921a8ddb3536d4cea",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://hackernoon.com/what-sres-should-automate-and-never-automate-with-ai",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 What SREs Should Automate — and Never Automate — with AI",
+      "published": "15 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b76de22328217b420c6291c0cfbb19cb",
+      "title": "Handling vulnerability reports: Recipe card | CNCF",
+      "link": "https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Handling vulnerability reports: Recipe card",
+      "published": "15 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d60f71e9f02b794a67818a56b77ed58",
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-prec...",
+      "published": "Tue, 15 Sep 2026 00:40:14 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d9b784ff85e3b8cd734cf91273f194b",
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 198 # Comments: 63",
+      "published": "Mon, 14 Sep 2026 21:22:54 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a680f637de65c0bf89bd3f66746cb0fc",
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "summary": "Article URL: https://www.effort.news/irregular Comments URL: https://news.ycombinator.com/item?id=49704132 Points: 103 # Comments: 33",
+      "published": "Mon, 14 Sep 2026 21:15:01 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "61420e1b8b747e0a57a34e18041183d9",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "summary": "Article URL: https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review Comments URL: https://news.ycombina...",
+      "published": "Mon, 14 Sep 2026 19:56:20 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c2a78720f8e84546698ab8a9cc73b4c",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "summary": "Article URL: https://blog.cloudflare.com/automatic-key-exchange-for-origins/ Comments URL: https://news.ycombinator.com/item?id=49700255 Points: 105 #...",
+      "published": "Mon, 14 Sep 2026 17:02:34 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4fb7ac1d2c25c951ec73794a9de701b",
+      "title": "Why don't machine learning research agents overfit?",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "summary": "Article URL: https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit Comments URL: https://news.ycombinator.com/item?id=4969...",
+      "published": "Mon, 14 Sep 2026 16:32:23 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9c3b4a03fa196deb6ff3354282812a8",
+      "title": "エージェント型 AI による ERP ビジネスプロセス運用の変革",
+      "link": "https://aws.amazon.com/jp/blogs/news/transforming-erp-with-agentic-ai/",
+      "summary": "大量のトランザクションを扱う企業にとって、ERP システムにおける手作業の例外処理は、重要なビジネスプロセスの遅延やお客様満足度・収益認識への影響を招くボトルネックとなります。本記事では、Accenture が Amazon Bedrock や Amazon Bedrock AgentCore、St...",
+      "published": "Tue, 15 Sep 2026 06:26:58 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5b3b70143993fcbb5de100db3f077c4",
+      "title": "AWS Professional Services と実現する第一興商カラオケ聴感採点 AI の開発",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-professional-services-dk-ai-heart/",
+      "summary": "はじめに 本ブログは、株式会社第一興商と Amazon Web Services Japan が共同で執筆しま […]",
+      "published": "Tue, 15 Sep 2026 06:26:53 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa1d4cca5769f662446410341462d0db",
+      "title": "AWS Glue zero-ETL adds target table property ownership and conflict detection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/",
+      "summary": "AWS Glue zero-ETL integrations now detect table property conflicts and track integration ownership. When you configure a source table and target catal...",
+      "published": "Mon, 14 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e34ab60d8cd4f7fba62b33c01a81ebf6",
+      "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+      "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むため...",
+      "published": "2026-09-15T01:09:50Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f85e849a361f32a46078de42149437d",
+      "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
+      "link": "https://blog.tinect.jp/?p=91489",
+      "summary": "2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に...",
+      "published": "2026-09-15T00:15:10Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8def811ddaa54ca06d525207cfaabba9",
+      "title": "人生を通して「縦書き」を追っているうち、Chromium開発者になっていた【フォーカス】 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_926/",
+      "summary": "ソフトウェアエンジニア 石井 宏治（いしい・こうじ） 1965年生まれ。「Word」の日本語組版プログラムマネージャーや楽天Koboでの電子書籍リーダー開発を経て、Googleに参画。Chromiumのレンダリングエンジンの開発を行う。W3Cでは、縦書きの「CSS Writing Modes」、文字...",
+      "published": "2026-09-15T00:42:33Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b4e6faaf463683b4c53ade5afeeb282",
+      "title": "Microsoftが「人間はAIより重要」とするAI行動規範を発表、AIの意識や権利を否定",
+      "link": "https://gigazine.net/news/20260915-microsoft-humanist-ai-code-of-conduct/",
+      "summary": "Microsoft AIが2026年9月14日、同社が開発するAIモデル「MAI」の振る舞いや価値観を定める「Humanist AI Code of Conduct」の草案を公開しました。Microsoft AIは「人間はAIより重要」という考えを出発点とし、AIを人間の管理下にとどまる従属的な技術...",
+      "published": "2026-09-15T02:32:09Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bfbe9ef8d8f4904ddaa6fd0c5fb8d79",
+      "title": "「ロボットがロボットを作る」人型ロボット工場が生産を開始",
+      "link": "https://gigazine.net/news/20260915-robot-building-robot-ubtech/",
+      "summary": "中国企業のUBTECH Roboticsが、年間1万台の人型ロボットを製造できる施設の稼働を開始しました。年間1万台という数字は世界初だとアピールされています。 微信公众平台 https://mp.weixin.qq.com/s/Fo1FZO0NgK-oBGloQf5PCA ‘Robots buil...",
+      "published": "2026-09-15T02:32:30Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c2cc5b0a5f01f3592cb3c2d1c99d401",
+      "title": "NVIDIAが「RTX Pro 5500 Blackwell Workstation Edition」発表、RTX 5090と同等のスペックながらRTX 5090の32GBに対してなんと84GBものGDDR7メモリ搭載",
+      "link": "https://gigazine.net/news/20260915-nvidia-rtx-pro-5500-blackwell-workstation-edition/",
+      "summary": "NVIDIAが、プロフェッショナル向けGPU「RTX PRO 5500 Blackwell Workstation Edition」を発表しました。GeForce RTX 5090と同じ2万1760基のCUDAコアを備えながら、メモリ容量はRTX 5090の32GBに対して約2.6倍の84GBに拡大...",
+      "published": "2026-09-15T03:50:36Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56ac6a33d1fca00dac76a4607e61142e",
+      "title": "初代Switchに脆弱性 QRコード読み取りで情報漏えいの恐れ 深刻度「高」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001474/",
+      "summary": "脆弱性の深刻度を示すCVSS v4.0のスコアは7.0（10点満点中）。同社は2026年1月にCNA（CVE番号採番機関）となっており、CNAになってから同社自身が採番・公表した初のCVEとみられる。 対象はシステムバージョン23.0.0未満の初代Switchで、アルバム内で「スマートフォンへ送る」...",
+      "published": "2026-09-15T01:52:07Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "680900d91512448595b54bcdc051f543",
+      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+      "link": "https://itrend.kikkakeagent.co.jp/articles/226",
+      "summary": "■調査概要調査名称：ITエンジニアの技術書活用実態に関する調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年6月12日～同年6月15日有効回答：直近1年以内に技術書を読んだ経験があるITエンジニア330名 ※構成比は小数点...",
+      "published": "2026-09-15T02:00:12Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6cdb30abc375f786686794b54b574db",
+      "title": "チームの振る舞いをテストする - Ratcheting パターンで技術的負債解消の後戻りを防ぐ",
+      "link": "https://zenn.dev/herp_inc/articles/ratcheting-technical-debt",
+      "summary": "借金は、返すこと以上に新たに借りないのが重要である。 技術的負債でも同様で、解消が大変なことはもちろんだが、それ以上に解消したはずの負債が知らないうちに積み増されるのが一番キツい。 誰かが地道に前に進めてくれているのに、別の誰かが悪気なく新たな負債を生みうる。 また、一旦解消しても数年後に負債が復活...",
+      "published": "2026-09-15T02:45:51Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcf70c4283a476cd3c6eb917e4ce2950",
+      "title": "Claudeは計画、Antigravityは実行。AIを2つ使い分けたら開発が回りはじめた | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2609-antigravity-writes-better-code-than-claude-still-use-claude-first/",
+      "summary": "ほとんどの開発者は、1つのAIツールですべてを処理できると期待して使いはじめます。しかしプロジェクトの規模が大きくなるほど、その期待は裏切られていきます。 解決策はシンプルで、AIごとに役割を1つだけ決めてしまうことです。 正直に言えば、私はClaudeが書くコードの質にはあまり満足していません。そ...",
+      "published": "2026-09-15T02:52:41Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac9684bca18d0d2d4a7d9a49d8f42d2b",
+      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic | Claude by Anthropic",
+      "link": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "summary": "Writing code is no longer the constraint, and once PR review gets accelerated, CI starts feeling the pressure.On top of that, the amount of tests acro...",
+      "published": "2026-09-14T19:43:50Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35fc92b1b309b46c73f39449dfd7a424",
+      "title": "不正アクセスで「当選」が「落選」に改ざん ウルトラマンショップのLINE整理券システムで被害",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001480/",
+      "summary": "対象は、ULTRA MARTがLINEアプリで実施した9月9日と10日の一部の抽選枠で、商品は「M78ウルトラマン ふわふわお座りぬいぐるみ」。 9月9日から10日にかけて、mogily運営会社の管理システムに外部から不正アクセスがあり、本来「当選」だった客133人のステータスが「落選」に書き換えら...",
+      "published": "2026-09-15T04:26:03Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "545e4101b33e871defae894f3d3847d7",
+      "title": "Google、AI回答に貢献したサイトに報酬を支払う「AI contribution pilot」をテスト中",
+      "link": "https://www.suzukikenichi.com/blog/google-tests-ai-contribution-pilot-to-pay-websites-that-contribute-to-ai-answers/",
+      "summary": "[レベル: 上級] AI の回答生成に寄与したウェブサイトに対し、直接対価を支払う試験プログラムを Google が水面下で拡大していることが、米メディア Digiday の報道により明らかになりました。 このプログラムは「AI contribution pilot」と呼ばれており、Search C...",
+      "published": "2026-09-15T02:09:17Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb3ce95a578fa9fe4968c58e43670bf6",
+      "title": "東京で自動運転タクシー、27年にスタート GOとウェイモ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2140870.html",
+      "summary": "",
+      "published": "2026-09-15T01:14:37Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bceb5c9fe44809f5f7d6be4faef00e6c",
+      "title": "トランプ大統領、AI脅威論を「でっちあげ」と一蹴 「私の任期中に止められることはない」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
+      "summary": "ドナルド・トランプ米大統領は9月14日（現地時間）、自身のSNS「Truth Social」に立て続けに投稿し、AIが世界を乗っ取り人類を滅ぼすという主張は「HOAX」（でっちあげ）だと断じ、AI開発とデータセンター建設を自身の任期中に止めることはないと述べた。AI業界のトップが相次いで開発ペースの...",
+      "published": "2026-09-14T22:12:27Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a85c95009d9ab11af4a4e1c710bc17b3",
+      "title": "攻撃者より先に動くサイバーセキュリティへ",
+      "link": "https://www.kddi-research.jp/tech/section/interviews/2026/091401.html",
+      "summary": "TOP研究情報攻撃者より先に動くサイバーセキュリティへ 攻撃者より先に動くサイバーセキュリティへ ――AIで待ち伏せし、誰もが使いやすいCTIで次の一手を読む／村上洸介、三本知明 2026年9月14日 サイバー攻撃を先回りして防ぐには、攻撃者が何をしようとしているのかを知る必要がある。KDDI総合研...",
+      "published": "2026-09-15T00:32:39Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f4c93ae1438bcbd4750457fbea2bb7d",
+      "title": "Apple、「iOS 26.7」「iPadOS 26.7」を公開 ～82件の脆弱性を修正／「iOS 27」へのアップグレードを見送る場合や、「iPadOS 27」非対応のiPad向けに",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2140864.html",
+      "summary": "",
+      "published": "2026-09-14T22:22:08Z",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddbbf4cad372c3fef614a3a60fc0270c",
+      "title": "📦 rlaope / oh-my-hermes ⭐ 1,823 (+52) 🗒…",
+      "link": "https://github.com/rlaope/oh-my-hermes",
+      "summary": "📦 rlaope / oh-my-hermes ⭐ 1,823 (+52) 🗒 Python All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optim...",
+      "published": "15 Sep 2026 00:17 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "980ee21d18b41d073b09a14b0d85af19",
+      "title": "VM을 AWS로 마이그레이션할 때 실제로 고민해야 하는 것들",
+      "link": "https://dev.classmethod.jp/articles/things-to-actually-consider-when-migrating-a-vm-to-aws/",
+      "summary": "VirtualBox VM을 AWS Transform MGN으로 옮겨본 경험을 바탕으로, 실제 서비스 이행에서는 무엇을 추가로 준비하고 확인해야 하는지 살펴봅니다.",
+      "published": "Tue, 15 Sep 2026 06:56:28 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "44477a7465f7fffcdd0c287d2d246676",
+      "title": "AWS Marketplace の購入者を SCP で制限する方法と Private Marketplace の違いを整理してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-marketplace-scp-private-marketplace-comparison/",
+      "summary": "AWS Marketplace の購入制限には SCP と Private Marketplace という 2 つの方法があります。この記事では、それぞれの違いや使い分けについて整理します。",
+      "published": "Tue, 15 Sep 2026 04:52:25 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a530401fa777d6fa7d9139de68be5b09",
+      "title": "CodeCommitのPRマージをCodeBuildの成功だけで承認させ、手動承認を防ぐ構成を構築した",
+      "link": "https://dev.classmethod.jp/articles/2026-09-15-codecommit-ci-only-approval-pool/",
+      "summary": "AWS CodeCommitの承認ルールで、承認プールをCodeBuildのサービスロールに限定し、人の承認を挟まずにCIが成功したPRだけマージできる構成を検証し、あわせて、承認ルールの上書きによる迂回をIAMのDenyで防げることも紹介しています。",
+      "published": "Tue, 15 Sep 2026 04:26:13 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d63b30f87d39362a218fa0cca755c24",
+      "title": "[アップデート] AgentCore Memoryの長期記憶にデータを直接取り込めるIngestData APIを試してみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-memory-ingest-data-api/",
+      "summary": "Amazon Bedrock AgentCoreに追加されたIngestData APIを試してみました。このAPIを使うと、外部で収集したデータを短期記憶を経由せず直接長期記憶に取り込めます！",
+      "published": "Tue, 15 Sep 2026 04:00:31 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e25447eefceaff16bbb6f2fa50031fc",
+      "title": "Copilot Studioの専用エージェントで見積比較業務を効率化できるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/copilot-studio-mitsumori-hikaku/",
+      "summary": "PDF・Excel・Wordとバラバラのフォーマットで届く3社分の見積書を、Microsoft 365 Copilotに読み取らせて比較表を自動生成できるか検証してみました。まず素のCopilotで比較させてみて、次に確認観点をまとめた基準ファイルを持たせたCopilot Studioの専用エージェ...",
+      "published": "Tue, 15 Sep 2026 01:16:52 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7168964525df3751417e797c21bc34f",
+      "title": "[レポート]沖縄の小売業が挑んだデータ基盤内製化 〜データエンジニア未経験者のSnowflake AI活用事例〜 #SWTTokyo26",
+      "link": "https://dev.classmethod.jp/articles/snowflake-sana-swttokyo26/",
+      "summary": "SNOWFLAKE WORLD TOUR 2026で紹介された、沖縄の小売大手サンエーがSnowflakeとAIの力を活用してデータ基盤を内製化した実例をレポートします。データエンジニア未経験のベテランエンジニアが9ヶ月で成し遂げた変革の秘訣に迫ります。",
+      "published": "Tue, 15 Sep 2026 00:50:13 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3787e648c2046c7e8f816ea1dac41970",
+      "title": "Hugging Face のモデルをそのまま学習できる NeMo AutoModel を DGX Spark で動かしてみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-nemo-automodel-dgx-spark-first-touch/",
+      "summary": "NeMo AutoModel の位置付けと DGX Spark 対応の現状を整理し、公式コンテナで Qwen3-8B の LoRA と full SFT を 1 台で回しました。full SFT は 77.70 GiB で 6 時間完走し、BF16 の full SFT は 8B クラスまでが目安に...",
+      "published": "Tue, 15 Sep 2026 00:43:00 GMT",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "06bf4aded0b1b2248a29b28c9b368fbb",
+      "title": "Universal Audio、「LUNA Studio」を発表…… 最大6パートのステム分離、Audio-to-MIDI変換、コード抽出など多くの新機能を搭載（無償版でもステム分離は利用可能！）",
+      "link": "https://icon.jp/archives/27936",
+      "summary": "Universal Audioが、LUNAをメジャー・バージョン・アップ。最大6分離（！）のステム・セパレーションや、Audio-to-MIDI変換といった新機能が追加されました。無償版のLUNA Freeも、これまでど […]",
+      "published": "Tue, 15 Sep 2026 07:00:00 +0000",
+      "fetched_at": "2026-09-15T07:00:34.708453+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-15T00:05:55.145837+00:00"
+  "updated_at": "2026-09-15T07:00:34.708453+00:00"
 }

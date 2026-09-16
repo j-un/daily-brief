@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5ff4a260a81d2298cc1a970304a0d5af",
-      "title": "週刊生成AI with AWS – 2026年8月31日週 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260831/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 週刊生成AI with AWS – 2026年8月31日週 | Amazon Web Services",
-      "published": "15 Sep 2026 08:55 +0000",
-      "fetched_at": "2026-09-15T13:00:59.640056+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "443b315ed21151c6d747a4535facedca",
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
@@ -1379,7 +1369,317 @@
       "fetched_at": "2026-09-16T14:29:12.627164+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "dc7fec7fdf8071ff541e82fe50064bb3",
+      "title": "Claude Cowork and chat are now one Claude",
+      "link": "https://claude.com/blog/cowork-is-now-claude",
+      "summary": "Article URL: https://claude.com/blog/cowork-is-now-claude Comments URL: https://news.ycombinator.com/item?id=49729412 Points: 119 # Comments: 147",
+      "published": "Wed, 16 Sep 2026 16:26:25 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "84a551ebeba5f5166ce9f01842ab6dd0",
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+      "summary": "Article URL: https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-under...",
+      "published": "Wed, 16 Sep 2026 14:30:36 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb0ff1cda5423279d74a7d1e1c19978b",
+      "title": "A warning about 'model welfare'",
+      "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "summary": "Article URL: https://mustafa-suleyman.ai/a-warning-about-model-welfare Comments URL: https://news.ycombinator.com/item?id=49727580 Points: 109 # Comme...",
+      "published": "Wed, 16 Sep 2026 14:27:47 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba2e4131e159f38a0fb323a144678db3",
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "link": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "summary": "Article URL: https://openai.com/index/reimagining-advertising-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49727041 Points: 145 # Comme...",
+      "published": "Wed, 16 Sep 2026 13:51:15 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a22b90d0e83357aee4d86d43affa763",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "link": "https://arxiv.org/abs/2609.14858",
+      "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 133 # Comments: 41",
+      "published": "Wed, 16 Sep 2026 13:44:40 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebe91360063d593a031d625948d9bf1b",
+      "title": "Hackers Got Inside a Flock Camera",
+      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "summary": "Article URL: https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/ Comments URL: https://news.ycombinator.com/item?id=49726586...",
+      "published": "Wed, 16 Sep 2026 13:18:47 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "39520e26b2f5659d0f8e1036fdd92096",
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "summary": "Article URL: https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model Comments URL: https://news.ycombinator.com/item?id=49725800 Poin...",
+      "published": "Wed, 16 Sep 2026 12:19:55 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a04a475867f7a85a2b4cdc48fe5a1960",
+      "title": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/",
+      "summary": "AWS Client VPN now supports MacOS 27 Golden Gate client with versions 6.0+ You can now run the AWS supplied VPN client on the latest MacOS versions. A...",
+      "published": "Wed, 16 Sep 2026 17:56:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "54f90ddfa73cce1689694e57ffaea78c",
+      "title": "New AWS experience helps builders get started and ship faster",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience",
+      "summary": "Builders can now sign up for a new simplified experience that makes it faster to turn ideas into running code on AWS. AWS services provide an array of...",
+      "published": "Wed, 16 Sep 2026 17:45:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b9d631ce4b6814d756c21687e60d6dd",
+      "title": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/",
+      "summary": "Amazon WorkSpaces Personal and Amazon WorkSpaces Core now support Graphics G7 bundles, built on NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and ...",
+      "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "98434f0e88e659ed27bca25d1c9a6505",
+      "title": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks",
+      "summary": "AWS Elemental MediaTailor now supports two additional lifecycle hooks for monetization functions: post ad decision server (ADS) response, and pre mani...",
+      "published": "Wed, 16 Sep 2026 16:30:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "011a009fec9bcff963dd1097a3007d71",
+      "title": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports Amazon S3 Files for tasks running on the Amazon EC2 launch type, enabling customers to conn...",
+      "published": "Wed, 16 Sep 2026 16:25:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "439ccd107d066bc55c40b6fef697db00",
+      "title": "AWS STS simplifies session token size limits and adds session token size monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/",
+      "summary": "AWS Security Token Service (STS) now enforces a single 4,096-byte size limit on session tokens. Previously, STS enforced separate limits on session to...",
+      "published": "Tue, 15 Sep 2026 22:42:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec5fd3168a9be70cff0d91a02e167af1",
+      "title": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/",
+      "summary": "AWS Step Functions now automatically adds AWS SDK integrations for new AWS services and capabilities within weeks of their release, starting with AWS ...",
+      "published": "Tue, 15 Sep 2026 18:54:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d21f85d9379e92a48ce94428d36dbf0",
+      "title": "AWS PCS now supports custom GRES, hardware topology, and MIG",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-gres-hardware-topology-mig/",
+      "summary": "AWS Parallel Computing Service (AWS PCS) now supports custom Generic Resource (GRES) settings and hardware topology, and adds support for Slurm versio...",
+      "published": "Fri, 11 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6bd00e23c651ea40d30a2eb9b33abd6",
+      "title": "日本での自動運転タクシー商用化を2027年中に実現するべくGOとWaymoと日本交通が戦略的パートナーシップを締結",
+      "link": "https://gigazine.net/news/20260916-go-waymo-nihon-kotsu-commercial-launch/",
+      "summary": "タクシー配車アプリを展開するGO、Googleの親会社Alphabetの傘下にある自動運転車開発企業のWaymo、そしてタクシーを展開する日本交通の3社が、東京における自動運転タクシーの商用化に向けて戦略的パートナーシップを締結したと発表しました。 GO、Waymo、日本交通 自動運転タクシー商用化...",
+      "published": "2026-09-16T02:36:05Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dd98b5e41473c382c289c27417fb824",
+      "title": "20万円台のフルサイズカメラ「EOS R8 Mark II」を見てきた “直線デザイン”はターゲット層を意識",
+      "link": "https://dc.watch.impress.co.jp/docs/news/2141517.html",
+      "summary": "",
+      "published": "2026-09-16T10:19:42Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5084536e0a96e77aa97a1c495b1668eb",
+      "title": "AIで作ったアプリをUIもデータも単一ファイルで持ち運べる無料ツール「Capsule」、クラウド不要で完全オフラインで動作",
+      "link": "https://gigazine.net/news/20260916-capsule/",
+      "summary": "アプリの操作画面や画像、保存データを1つのファイルにまとめ、文書のように持ち運べる無料ツール「Capsule」が公開されています。クラウドやアカウント登録を必要とせず、オフラインで利用できることが特徴です。Windows・macOS・Linux向けに提供されており、Android・iOSへの対応も予...",
+      "published": "2026-09-16T13:12:35Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b48c05431a62e099a062f8b70fcca38",
+      "title": "[石川温の「スマホ業界 Watch」] 触って評価が一変、ついに可変絞りを搭載した「iPhone 18 Pro」のカメラに感動",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2141518.html",
+      "summary": "",
+      "published": "2026-09-16T12:04:11Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0a9c233a40da61336182657cc3593b5",
+      "title": "障害対応で Claude Code に調査を任せてみたら便利だった話 - Feedforce Developer Blog",
+      "link": "https://developer.feedforce.jp/entry/2026/09/15/122838",
+      "summary": "おはようございます。インフラ担当の杉内です。 先日、本番の Aurora PostgreSQL で writer インスタンスの内部プロセスが異常終了するインシデントがありました。RDS が自動でフェイルオーバーを実行し、すぐに writer に切り替わって DB 自体は復旧しました。ただ、切り替わ...",
+      "published": "2026-09-16T01:56:04Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d208ca6d7e1f28f989ddb2a56de3d020",
+      "title": "元Tableau CPOが創業したAIネイティブBI『Golden Analytics』について色々調べてみた",
+      "link": "https://zenn.dev/truestar/articles/dafb04bd745d36",
+      "summary": "2026年04月、米国で『Golden Analytics』という新しいBIプロダクトがアーリーアクセスとして公開されました。創業者はTableauでChief Product Officer(CPO)を7年以上務めたFrancois Ajenstat氏です。 日本語での情報はまだほとんどないので、...",
+      "published": "2026-09-14T23:39:38Z",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8088d27b11eb5bedf572462dc85424a1",
+      "title": "📦 ankitects / anki ⭐ 30,630 (+50) 🗒 Rust…",
+      "link": "https://github.com/ankitects/anki",
+      "summary": "📦 ankitects / anki ⭐ 30,630 (+50) 🗒 Rust Anki is a smart spaced repetition flashcard program",
+      "published": "16 Sep 2026 16:17 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78ea4ce17c7615e5c4a2b3d6d6d1a1b7",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 alph…",
+      "link": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 alphaXiv / OpenResearch ⭐ 2,981 (+593) 🗒 Rust Turn your coding agents into research agents",
+      "published": "15 Sep 2026 22:17 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0857393dce0d74762a0cb87e30f0b62",
+      "title": "コンテキストレイヤーの実装である Agents Schema を dbt・OSI プロバイダーで試してみた",
+      "link": "https://dev.classmethod.jp/articles/context-layer-dbt-agents-schema-try/",
+      "summary": "dbt LabsとFivetranのオープンスタンダード「Agents Schema」をSnowflake上で実装し、AIエージェントがビジネスコンテキストを参照できる仕組みを試してみました。dbtのモデル定義やOSIセマンティックモデルの連携、独自スキルの追加まで、実装手順と動作検証をまとめていま...",
+      "published": "Wed, 16 Sep 2026 16:01:40 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "03b8a8b170834d586f08c6e367bee50f",
+      "title": "GitHub ActionsのClaude自動レビューでコメントしてくれない問題とその対処法",
+      "link": "https://dev.classmethod.jp/articles/claude-code-action-pr/",
+      "summary": "Github Actions + Claude Codeの運用でPRコメント投稿に失敗していた問題に遭遇しました。原因と解決方法を紹介します。",
+      "published": "Wed, 16 Sep 2026 15:04:49 GMT",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2f7c0539574ae3bb198439d9c891eea",
+      "title": "MOTU DP12 arrives, adding Dolby Atmos and more to a DAW classic",
+      "link": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
+      "summary": "MOTU's DP doesn't get a lot of hype -- it just quietly remains a favorite for everything from scoring to post-production. DP12 has deep Dolby Atmos su...",
+      "published": "Wed, 16 Sep 2026 17:32:46 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "58126dd7cf0b02361b1b573fc101126f",
+      "title": "What’s the relationship between pitch and frequency? A beginner’s guide for music producers",
+      "link": "https://musictech.com/tutorials/tips/whats-the-relationship-between-pitch-and-frequency-a-beginners-guide-for-music-producers/",
+      "summary": "Learning the relationship between pitch and frequency can help you make smarter EQ decisions The post What’s the relationship between pitch and freque...",
+      "published": "Wed, 16 Sep 2026 16:44:29 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "3f4523c040bf987959a123e075f48774",
+      "title": "Nopia is open now for pre-orders – and it might just give the Telepathic Orchid a run for its money",
+      "link": "https://musictech.com/news/gear/nopia-open-now-for-pre-orders/",
+      "summary": "The semi-modular MIDI chord generator and synth has been in the works since as far back as 2023. The post Nopia is open now for pre-orders – and it mi...",
+      "published": "Wed, 16 Sep 2026 15:43:02 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "f37d86af175197ca25218f703fe646a5",
+      "title": "Arturia’s MiniFreak gets a free 5.0 update: here’s everything you need to know",
+      "link": "https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/",
+      "summary": "The update delivers a highly-requested feature, as users can now import their own samples and wavetables to MiniFreak. The post Arturia’s MiniFreak ge...",
+      "published": "Wed, 16 Sep 2026 15:15:29 +0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "d1c838c0287df3527f9d40e9fa38767d",
+      "title": "Perennial Death on DIY, Olympia, and their Current Pop Hot Streak",
+      "link": "https://daily.bandcamp.com/features/perennial-death-label-profile",
+      "summary": "\"There are a lot of bands in our friend group that are making really great art, and maybe we’re able to put it out into the world a little faster than...",
+      "published": "Wed, 16 Sep 2026 13:56:03 -0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "81eab7b6c519d7d2a47b7f6afe0e79c8",
+      "title": "Green Lung, “Necropolitan”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/green-lung-necropolitan-review",
+      "summary": "The British doom band go full occult-rock on their third LP, living deliciously—and sounding damn good. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 16 Sep 2026 13:55:54 -0000",
+      "fetched_at": "2026-09-16T19:14:10.161008+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-16T14:29:12.627164+00:00"
+  "updated_at": "2026-09-16T19:14:10.161008+00:00"
 }

@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "9957c79ffef3800719bbef09fa6bc8fa",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Tailwind Labs is joining Shopify",
-      "published": "16 Sep 2026 05:55 +0000",
-      "fetched_at": "2026-09-16T08:57:26.273799+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f42868d13611da0c1eb9d797cad671ab",
-      "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
-      "link": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由",
-      "published": "16 Sep 2026 02:55 +0000",
-      "fetched_at": "2026-09-16T08:57:26.273799+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c8fe1bc5600f62803e340eb62510e874",
       "title": "Introducing Neki — PlanetScale",
       "link": "https://planetscale.com/blog/introducing-neki",
@@ -699,7 +679,407 @@
       "fetched_at": "2026-09-17T09:03:09.930358+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "c24a13d2e7377b2adecbe81d6b01f62b",
+      "title": "batchprocessor の廃止、後継の queuebatchprocessor とは何者なのか？",
+      "link": "https://zenn.dev/taxin/articles/otel-queuebatchprocessor",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 batchprocessor の廃止、後継の queuebatchprocessor とは何者なのか？",
+      "published": "17 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dbb69f2772330feae359938bb34a793",
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "link": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo Comments URL: https://news.ycombinator.com/item?id=49740507 Points: 132 # Comments: 86",
+      "published": "Thu, 17 Sep 2026 13:30:37 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f11e6d6f89e0a51f8b7aef2f6fad87a2",
+      "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+      "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack Comments URL: https://news.ycombin...",
+      "published": "Thu, 17 Sep 2026 11:00:35 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57f2277ef682f08a65ff2a3c9924f0c1",
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "link": "https://news.ycombinator.com/item?id=49738879",
+      "summary": "I was looking at neovim's donation footer at the bottom of their site and saw a bitcoin donation address.Thought I'd check how much in donations they'...",
+      "published": "Thu, 17 Sep 2026 10:44:49 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb461d418375e45089f08abdf788abed",
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "link": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "summary": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 154 # Comme...",
+      "published": "Thu, 17 Sep 2026 08:36:37 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bee9ec00509d912e25dcda0e5c5178d6",
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 187 # Commen...",
+      "published": "Thu, 17 Sep 2026 08:27:09 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "664892b4a475d48a97d01a1e56f3d255",
+      "title": "One Year of Sponsored Servo Development",
+      "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "summary": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 227 # Comm...",
+      "published": "Thu, 17 Sep 2026 08:13:54 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02bc7146ddfef0c542f02950a40b2095",
+      "title": "CCC invites all model citizens to 40C3",
+      "link": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "summary": "Article URL: https://events.ccc.de/en/2026/09/12/40c3-model-citizens/ Comments URL: https://news.ycombinator.com/item?id=49737787 Points: 124 # Commen...",
+      "published": "Thu, 17 Sep 2026 08:03:54 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a92f63bf14a6daefc05a1efeb7ff9f9",
+      "title": "Cloudflare/Security-Audit-Skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "Article URL: https://github.com/cloudflare/security-audit-skill Comments URL: https://news.ycombinator.com/item?id=49736466 Points: 130 # Comments: 21",
+      "published": "Thu, 17 Sep 2026 04:36:55 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6721f55a0c6882a0e5690101c8dcfccc",
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "summary": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Thu, 17 Sep 2026 00:28:33 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b45c681fc9e82d1dbd4b2c064a3c37dc",
+      "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
+      "link": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau",
+      "summary": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392",
+      "published": "2026-09-17T05:02:37Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e4419e45c366d6d296d0bb82123e267",
+      "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349",
+      "summary": "はじめに 2025年12月に「Claude Codeの Agent Skills は設定したほうがいい」という記事を書きました。必要な手順を必要なときに読み込ませる仕組みとして、Skillsを紹介した記事です。ただ、後半では設定が増えるほど管理が難しくなる話もしました。どれが使われているのか。似た説...",
+      "published": "2026-09-17T05:46:22Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f56823a64ca72d0a4c80f6f5b37de15",
+      "title": "AWS、中東のデータ「復旧不能」と正式発表。バーレーン全域とUAEの1ゾーンが永久喪失",
+      "link": "https://joho-todai.com/aws-middle-east-data-permanently-lost/",
+      "summary": "AWSがイラン戦争で損傷した中東データセンターの復旧を断念し、バーレーンリージョン全域とUAE1ゾーンのリソース・データへのアクセスを回復できないと発表した。大手クラウド事業者の物理インフラが戦争で破壊され、顧客データが永久に失われた初めての事例となった。 この記事のポイント 何が起きた: AWSが...",
+      "published": "2026-09-16T23:15:24Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c04f6066cd70d0d1b9ea988f9f3eae17",
+      "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
+      "summary": "米Amazon Web Services（AWS）は9月15日（太平洋夏時間）、3月にイランのドローン攻撃を受けた中東のデータセンターについて、バーレーンリージョンとアラブ首長国連邦（UAE）リージョンの一部に保存されていたデータやリソースへのアクセスを復旧できないと発表した。両リージョンでは物理的...",
+      "published": "2026-09-17T09:19:49Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a47b2a47ce60608e8865e851ca88b2a5",
+      "title": "パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ",
+      "link": "https://techblog.ap-com.co.jp/entry/2026/09/17/103525",
+      "summary": "目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース ...",
+      "published": "2026-09-17T08:49:29Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ec923669ba232a1bc7e9d110e9de0f5",
+      "title": "jev 同士に五目並べで対戦させた",
+      "link": "https://zenn.dev/mizchi/articles/jev-plays-gomoku",
+      "summary": "速報気味。jev 同士に五目並べで対戦させて、速度を実測してみました。 いきなり感想ですが、プログラマは多分、既存のチャットアシスタントより Jev みたいな構造化されたエージェントの方が好きだと思います。 実際に対戦してるところ(リアルタイム) tl;dr ルールベースの五目並べを実装 Jev 同...",
+      "published": "2026-09-17T12:40:07Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46bfc7a3b9f95b7249e3af24d20aecb9",
+      "title": "日本標準時の供給サービスにおける異常の発生について｜2026年｜NICT-情報通信研究機構",
+      "link": "https://www.nict.go.jp/publicity/topics/2026/09/11-1.html",
+      "summary": "2026年9月9日、公開NTPに関わる装置に異常が発生し、冗長系の一部から誤った時刻が配信されました。ユーザーの皆さまにはご迷惑をおかけしたことをお詫び申し上げます。 原因について調査を進めておりますが、現在までに判明しております状況について、ご説明申し上げます。",
+      "published": "2026-09-17T10:11:39Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b869df53b7ec89ff3246aab28df89733",
+      "title": "iPhoneの国内シェア、半年で49％→45.6％に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2141870.html",
+      "summary": "",
+      "published": "2026-09-17T09:16:14Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd1a0831b51f5dc8f52a03649acced1c",
+      "title": "iPhoneで撮影した写真がAI生成されていない「本物」だと証明する「Apple Reference Image」はどういう仕組みなのか？",
+      "link": "https://gigazine.net/news/20260917-apple-reference-image/",
+      "summary": "生成AIによって写実的な画像を作成できるようになり、写真の見た目だけで実際に撮影されたものかどうかを判断することは難しくなっています。Appleは2026年9月10日に開催された新製品発表イベント「Surprise and shine.」で、iPhone 18 Pro／Pro Maxと共に、iPho...",
+      "published": "2026-09-17T10:21:48Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95620e1070db1d37f0bb610e3116f26b",
+      "title": "技術的負債から考える、AI時代のエンジニアリング投資 — ビズリーチの技術的負債と向き合った経験から、変更し続けられるソフトウェアを考える/ technical-debt-con2026",
+      "link": "https://speakerdeck.com/visional_engineering_and_design/technical-debt-con2026",
+      "summary": "2026年9月16日開催「技術的負債に向き合うConference 2026」の登壇資料です。 ▼関連資料 リアーキテクティングのその先へ 〜品質と開発生産性の壁を越えるプラットフォーム戦略〜 https://speakerdeck.com/visional_engineering_and_d…",
+      "published": "2026-09-17T03:21:15Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d0790911093956ba6e5608cbd8ff15b",
+      "title": "生成AIおよびAIエージェントを安全に活用するための手引書",
+      "link": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/rcu1hd0000018kkn-att/rcu1hd0000019kwj.pdf",
+      "summary": "生成 AI および AI エージェントを 安全に活用するための手引書 2026 年 7 月 独立行政法人情報処理推進機構 産業サイバーセキュリティセンター 中核人材育成プログラム 9 期生 セキュリティ担当者のための生成 AI セキュリティ プロジェクト - 2 - 改訂履歴 版数 改訂年月日 改訂...",
+      "published": "2026-09-16T14:34:07Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21fa60bdce6ecb0a51853ad9f21dc8b1",
+      "title": "GitHub - TheoLeeCJ/openjev: Can we run something like Jev on a 3090 at home?",
+      "link": "https://github.com/TheoLeeCJ/openjev",
+      "summary": "Can we run something like Jev on a 3090 at home? Wow! No waitlist. Run it in your browser today. Same frozen 4B model · same state · same 21 questions...",
+      "published": "2026-09-17T09:20:59Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbe4722325790c93fc19317e9fe22d3d",
+      "title": "ローカルLLM利用のクリニックが話題 院長自ら環境を構築 「医療機器より安い」は本当か",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001587/",
+      "summary": "ローカルLLMを利用しているクリニックが話題だ。Xユーザーのところてん氏が「病院のWebページ見てたら、（ローカル）LLM利用の注意書きが書いてあってびっくり」と投稿。投稿で引用されているクリニックのお知らせには「当院では診療の質向上と業務効率化のため、院内に設置したAIサーバー（ローカルLLM）を...",
+      "published": "2026-09-17T08:07:58Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7033e3d93720e5664d33cbabec15f9dc",
+      "title": "SRv6 uSID TI-LFAを検証してみた - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202609-srv6-tilfa/entry",
+      "summary": "本記事では、ネットワークに障害が発生した際に高速迂回する技術であるTI-LFA (Topology Independent Loop-Free Alternate) の検証結果について紹介します。TI-LFAとは、Segment Routingを組み合わせて事前に計算したBackup pathを使っ...",
+      "published": "2026-09-16T23:08:23Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7126bc18527743a6b91b6c5315c39af2",
+      "title": "最新AI「GPT-6 Astra」が『マインクラフト』でクリーパーの襲撃に遭い“トラウマ化”。ビビりまくってジャガイモ栽培しかできなくなる - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20260917-468379/",
+      "summary": "AIの評価機関Vals AIは9月16日、GPT-6 Astraに『マインクラフト』をプレイさせる実験の進捗を報告した。Vals AIによれば、AstraはどのAIモデルよりも進捗が良かったものの、ある事件によって「トラウマ」を抱えてしまったようだ。 GPT-6 Astraは、OpenAIが開発する...",
+      "published": "2026-09-17T09:51:31Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c67a044f6b4236ac7f43b85f2a71fed",
+      "title": "Google Playのアプリ審査が長期化、12年以上続くアプリも1週間待ちで「AI製アプリの大量投稿が影響」との指摘",
+      "link": "https://gigazine.net/news/20260917-google-play-review-time/",
+      "summary": "Google Playでアプリやアップデートを公開する際に必要な審査について、1週間以上待たされるケースがAndroidアプリ開発者から相次いで報告されています。 Post by @[email protected] View on Mastodon Google Play review hell ...",
+      "published": "2026-09-17T06:48:42Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e55874c11d1078bf446e10dd0db018e",
+      "title": "iPhone Duoを「開いたままでも片手で持てる」ケース登場 ESRが新製品発表、日本で急成長の理由とは",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/17/news074.html",
+      "summary": "モバイルアクセサリーブランド「ESR」を展開するWayMeet Limited HongKongが9月15日、新製品発表会「Design for What's Next」を開催した。会場では、最新のiPhone 18 ProやiPhone Duoに対応するアクセサリー群を一挙に披露し、ブランドビジュ...",
+      "published": "2026-09-17T04:03:32Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc17646e570f723cb84dcb64395a2f6f",
+      "title": "WebMCPを試してみた感想。フロントエンドの必須技術になりそうな予感。",
+      "link": "https://zenn.dev/chot/articles/268804cd6694ab",
+      "summary": "弊社には「Orizm」という自社プロダクトのCMSがあり、現在私はOrizmを用いたWebサイトの開発業務を担当しています。 Orizmには「デザインエディター」という、Webページを見た目そのまま直感的に編集できる機能が組み込まれているのですが、入稿作業をしながら、ふと「ここにWebMCPを組み込...",
+      "published": "2026-09-17T10:25:01Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d54ac4429891ff317a2e7558604c070c",
+      "title": "SaaS is Dead BBQ - SmartHR / freee / マネーフォワード 競合が垣根を超えてAIを語り尽くす｜一般社団法人 日本CTO協会",
+      "link": "https://note.com/ctoa_ja/n/n3ce3dc5fd702",
+      "summary": "SaaS is Dead BBQ - SmartHR / freee / マネーフォワード 競合が垣根を超えてAIを語り尽くす 「SaaS is Dead」という言葉が出始めたのは2024年。そして今年2026年初頭のAIエージェント登場で一気に火がつきました。AIによって、専門知識やSaaSがなく...",
+      "published": "2026-09-16T03:35:57Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7fe35a3c23e32c6d9460eaa1c6fc58c",
+      "title": "「ファイナルファンタジーXIV」、手作り・無償に限り二次創作グッズを解禁 AI生成物や3Dプリンタの使用は不可",
+      "link": "https://www.itmedia.co.jp/news/article/2609/17/2000001583/",
+      "summary": "スクウェア・エニックスは9月16日、オンラインゲーム「ファイナルファンタジーXIV」（FF14）の著作物利用条件を改定し、二次創作グッズなど「有体物」の制作を一定の条件で認めると発表した。これまでは、法律で認められた範囲を超える有体物の制作を許可していなかったが、条件付きで規制を緩和する。一方、AI...",
+      "published": "2026-09-17T06:43:24Z",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1859b05e6fcb91d8e5ba3807c9df985",
+      "title": "GitHub - coder/coder: Secure environments for developers and their agents · GitHub",
+      "link": "https://github.com/coder/coder",
+      "summary": "📦 coder / coder ⭐ 14,693 (+83) 🗒 Go Secure environments for developers and their agents",
+      "published": "17 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "373224bd194d787218be32e2eaf808a6",
+      "title": "GitHub - Tencent/BrowserSkill: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. · GitHub",
+      "link": "https://github.com/Tencent/BrowserSkill",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Tencent / BrowserSkill ⭐ 3,612 (+1,350) 🗒 TypeScript Let AI agents use your real, logged-in browser without interr...",
+      "published": "17 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c37142afd292e883e9cf8142860d42b1",
+      "title": "Jevを無理やり言語モデルにしてみた",
+      "link": "https://dev.classmethod.jp/articles/jev-forced-language-model/",
+      "summary": "判断しかできないAIに、1文字ずつ答えさせてみた",
+      "published": "Thu, 17 Sep 2026 11:54:53 GMT",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a02d4af4b5852b61bfcf0e8cb15652d",
+      "title": "[レポート]AI-Ready なデータ基盤の最新形 - Iceberg で拓くマルチエンジン相互運用 #SWTTokyo26",
+      "link": "https://dev.classmethod.jp/articles/snowflake-ai-ready-data-platform-iceberg-multi-engine-swttokyo26/",
+      "summary": "Apache Iceberg の普及に伴い、複数エンジン間でのデータ相互運用と統一ガバナンスが企業データ基盤の課題となっています。本セッションでは Snowflake Managed Iceberg、Apache Polaris、Horizon Catalog、Iceberg V3 (Variant...",
+      "published": "Thu, 17 Sep 2026 09:50:36 GMT",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "59bab5ca633684239ee3dc6da263a2b7",
+      "title": "Fluent Bit の「broken connection」を keepalive の設定 1 行で 96% 減らしてみた",
+      "link": "https://dev.classmethod.jp/articles/fluent-bit-cloudwatch-logs-broken-connection/",
+      "summary": "EKS や ECS で Fluent Bit を運用していると、broken connection エラーが出ることがあります。私の環境でも多発していたこのエラーの原因を調べ、設定 1 行の追加で 9 割以上減らせたので、その過程と対処方法をまとめます。",
+      "published": "Thu, 17 Sep 2026 09:36:55 GMT",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4143c287ebf05db105aec89b5e1bd288",
+      "title": "ホテル・旅館の直販での再宿泊を増やすLINE公式アカウントとLINEミニアプリの活用方法",
+      "link": "https://dev.classmethod.jp/articles/hotel-line-retension-without-ota/",
+      "summary": "ホテルのOTA手数料削減と直販リピート促進に向けて、LINE公式アカウントとLINEミニアプリの活用法を検証しました。チェックアウト後のお礼・アンケート・領収書発行から、属性別のプラン配信、次回直販予約までの仕組みやシステム連携を解説します。",
+      "published": "Thu, 17 Sep 2026 09:35:15 GMT",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e527f7b043e50073e059e1a80e8e33ce",
+      "title": "AWS IoT Greengrass V2でIoTデバイスの動的登録を試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-iot-ggv2-dynamic-iot-registration-handson/",
+      "summary": "AWS IoT Greengrass V2を使い、デバイスの自動登録とローカルゲートウェイ運用を実装してみました。工場のように台数が動的に増減するシナリオで、Podmanコンテナだけでfleet provisioning by claimとclient device認証を組んだ全体像をご紹介します。",
+      "published": "Thu, 17 Sep 2026 09:23:09 GMT",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "106a79dc42226c23401e4742dae4b4c9",
+      "title": "ボーカル・トラックを“AIボイス・モデル”に置き換える、IK Multimedia ReSingの新作拡張パックが発売…… R＆Bやラップ、EDMなど、幅広いジャンルをカバー",
+      "link": "https://icon.jp/archives/27944",
+      "summary": "IK MultimediaがReSing用の新しい拡張パック、「ReSing Voices Vol 2 Producer’s Pack」をリリース。幅広いジャンルに対応する英語圏のシンガーをフィーチャーした新 […]",
+      "published": "Thu, 17 Sep 2026 11:00:00 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "f39c721152c6d3a1549d10ae00633fac",
+      "title": "What is LUFS in music production?",
+      "link": "https://musictech.com/glossary/lufs/",
+      "summary": "Understanding and using LUFS is the secret to ensuring streaming platforms don’t wreck your mixes with their auto-normalisation processing. The post W...",
+      "published": "Thu, 17 Sep 2026 14:15:41 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "c45f40eefa3ff87f91eba104ac0e928a",
+      "title": "GTA VI soundtrack revealed: with Fred again, Travis Scott and PinkPantheress all set to appear",
+      "link": "https://musictech.com/news/music/gta-vi-soundtrack-revealed/",
+      "summary": "Listen to not one, not two but SIX new singles, available now… The post GTA VI soundtrack revealed: with Fred again, Travis Scott and PinkPantheress a...",
+      "published": "Thu, 17 Sep 2026 14:11:59 +0000",
+      "fetched_at": "2026-09-17T14:33:40.672567+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-17T09:03:09.930358+00:00"
+  "updated_at": "2026-09-17T14:33:40.672567+00:00"
 }

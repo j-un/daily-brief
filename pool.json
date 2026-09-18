@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cc7896272d87b2355dcbfbecfcc57ed1",
-      "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "link": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "published": "17 Sep 2026 06:55 +0000",
-      "fetched_at": "2026-09-17T09:03:09.930358+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "1a92f63bf14a6daefc05a1efeb7ff9f9",
       "title": "Cloudflare/Security-Audit-Skill",
       "link": "https://github.com/cloudflare/security-audit-skill",
@@ -659,7 +649,437 @@
       "fetched_at": "2026-09-18T08:37:40.228040+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "0c9084243b2abb6350a9de0ae666a32b",
+      "title": "デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた",
+      "published": "18 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c36a33097b52546eb3fffe5a69c39cc8",
+      "title": "Amazon ECS のデプロイをCloudWatch Alarm で自動ロールバックする | PR TIMES 開発者ブログ",
+      "link": "https://developers.prtimes.com/2026/09/09/amazon-ecs-cloudwatch-alarm/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon ECS のデプロイをCloudWatch Alarm で自動ロールバックする",
+      "published": "18 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe5a4f19acddc5d3858799ab2b516564",
+      "title": "I don't like passkeys",
+      "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "summary": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys Comments URL: https://news.ycombinator.com/item?id=49753211 Points: 183 # Comments: 157",
+      "published": "Fri, 18 Sep 2026 12:06:50 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc7bfdc8deb7467c394ac4632f27e8e7",
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "link": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "Article URL: https://blog.liampwll.com/posts/bend_vibe_coding/ Comments URL: https://news.ycombinator.com/item?id=49753179 Points: 181 # Comments: 97",
+      "published": "Fri, 18 Sep 2026 12:03:55 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c25104db8d5aecb057e27f4b71b7ce9c",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html Comments URL: https://news.ycombinator.com/item?id=497...",
+      "published": "Fri, 18 Sep 2026 11:01:44 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcd7d3322f7bb334a63cbddea76c1d67",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "link": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "summary": "Article URL: https://tokenstead.ai/guides/zcode-silent-git-history-upload Comments URL: https://news.ycombinator.com/item?id=49752422 Points: 174 # Co...",
+      "published": "Fri, 18 Sep 2026 10:35:28 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c509c3d0d19214e90defda68e48edf6",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-re...",
+      "published": "Fri, 18 Sep 2026 09:45:07 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c6b07628e176e3f5d065dc75b1f3646",
+      "title": "OpenJev",
+      "link": "https://openjev.com/",
+      "summary": "Article URL: https://openjev.com/ Comments URL: https://news.ycombinator.com/item?id=49752041 Points: 265 # Comments: 156",
+      "published": "Fri, 18 Sep 2026 09:42:22 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1eea9b5c22ecd68ef215fabd231e41f7",
+      "title": "Jemalloc 5.4.0",
+      "link": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "summary": "Article URL: https://github.com/jemalloc/jemalloc/releases/tag/5.4.0 Comments URL: https://news.ycombinator.com/item?id=49750152 Points: 232 # Comment...",
+      "published": "Fri, 18 Sep 2026 04:20:24 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cabd85cec34a1bbe1027bb0e761863d",
+      "title": "The scourge of x86 emulation",
+      "link": "https://fex-emu.com/Scourge-of-emulation/",
+      "summary": "Article URL: https://fex-emu.com/Scourge-of-emulation/ Comments URL: https://news.ycombinator.com/item?id=49750094 Points: 198 # Comments: 52",
+      "published": "Fri, 18 Sep 2026 04:09:48 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10142ea0034b7593632dea85d5770d92",
+      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
+      "link": "https://linguisticdiscovery.com/posts/pre-greek/",
+      "summary": "Article URL: https://linguisticdiscovery.com/posts/pre-greek/ Comments URL: https://news.ycombinator.com/item?id=49749771 Points: 113 # Comments: 55",
+      "published": "Fri, 18 Sep 2026 03:04:38 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "613c6322081d0b8671f6145d099d5a36",
+      "title": "How Uber Protects Against Retry Storms",
+      "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
+      "summary": "Article URL: https://www.uber.com/us/en/blog/protecting-against-retry-storms/ Comments URL: https://news.ycombinator.com/item?id=49746628 Points: 106 ...",
+      "published": "Thu, 17 Sep 2026 21:14:32 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd0ad49c89eb49f9df4b79d12352a6f5",
+      "title": "The most important product decision is what you don't build",
+      "link": "https://liamnugent.me/posts/what-you-dont-build/",
+      "summary": "Article URL: https://liamnugent.me/posts/what-you-dont-build/ Comments URL: https://news.ycombinator.com/item?id=49746407 Points: 130 # Comments: 45",
+      "published": "Thu, 17 Sep 2026 20:52:36 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57b4beda0f6aae2c34876e7402b994d1",
+      "title": "ネコの新種、100年以上ぶりに発見",
+      "link": "https://japan.cnet.com/article/35252798/",
+      "summary": "生息地は、ボリビアのアンデス山脈東斜面に広がる雲霧林「ユンガス」だ。体は一般的なイエネコより小さい。Leopardus属には、南北アメリカ大陸に分布する小型ネコ科動物が含まれ、代表例にはオセロットやコロコロ（パンパスネコ）がいる。 研究には、パオラ・ノガレス＝アスカランス（Paola Nogales...",
+      "published": "2026-09-18T08:19:23Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2708a0c2b7621233a5c88114855b637",
+      "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
+      "summary": "こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわ...",
+      "published": "2026-09-18T10:21:35Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f09ce31b56cfd7eaccd8530e864f1147",
+      "title": "「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2142260.html",
+      "summary": "",
+      "published": "2026-09-18T08:48:52Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d604d6984cb6654b66a3e4ad2ea31287",
+      "title": "Claude Codeのプロジェクトが刷新、「あとはよろしく」で並行作業し結果を生む",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2142119.html",
+      "summary": "",
+      "published": "2026-09-18T06:29:47Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "916829ed26a70996c9c9c28265ed5872",
+      "title": "【窓の杜 30周年記念インタビュー】 高校時代のゲーム開発から独立、そして米国移住へ。定番エディタ「EmEditor」開発者が貫いた「ニッチで世界一」という哲学",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/30thinterview/2121255.html",
+      "summary": "",
+      "published": "2026-09-18T05:12:52Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "607b90c2341ac72f71cac45abcb0b953",
+      "title": "BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/2026/09/18/160000",
+      "summary": "エムスリーでは、BigQuery EditionsでAutoscalingを使っています。BigQueryのスロットは使った分に応じて課金されると思いがちですが、厳密には確保したスロットに応じて課金されます。BQのfluid scaling機能を有効化すると、確保したスロットを素早く解放でき、費用の...",
+      "published": "2026-09-18T09:27:58Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c37142afd292e883e9cf8142860d42b1",
+      "title": "Jevを無理やり言語モデルにしてみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/jev-forced-language-model/",
+      "summary": "Jevで賑わってますね。入力に対して「Yes の確率」「選択肢ごとの確率」「スコア」しか返さないモデルらしいです。 生成しないと言われると、生成させたくなります。 無理やり生成させてみた 選択肢（Choice）を「ひらがな全部＋句読点＋END」の88個にして、質問と「ここまでの回答」を入力に渡し、次...",
+      "published": "2026-09-18T05:34:38Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d283446f8f4b20206959d112c8aaa76",
+      "title": "「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成",
+      "link": "https://gigazine.net/news/20260918-qwen-3-8-omni-flash/",
+      "summary": "中国の大手テクノロジー企業であるアリババが開発するAIモデル・Qwenシリーズに、次世代ネイティブオムニモーダルモデルの「Qwen3.8-Omni-Flash」が追加されました。動画編集・ミュージックビデオ制作・映画制作・オーディオビジュアル要約・リアルタイム会話などのワークフロー全体で優れた成果を...",
+      "published": "2026-09-18T07:37:11Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcde03247a1e7c7ff35c866aaba2fbc9",
+      "title": "AIは「違和感」を認知できない",
+      "link": "https://wirelesswire.jp/2026/09/94513/",
+      "summary": "DeepSeek v4.1 Flashの推論能力は、トップレベルのクラウドLLMクラスだと言われる。 しかもオープンウェイト。 これをMacStudioで動かしたりするのが一部界隈で流行している。 筆者も少し時代遅れのA100 80GBを8基搭載したマシンがあったため、これでなんとか最新のモデルが動...",
+      "published": "2026-09-17T23:24:39Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "601524368b03ff936ecc15609cced041",
+      "title": "AppleやGoogleら3社、空間オーディオにまつわる特許を保有する米企業から訴えられる【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2142069.html",
+      "summary": "",
+      "published": "2026-09-18T03:04:36Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "27af156e3ba114931bccd3598ee7b4a2",
+      "title": "視界から脳みそを拡張する、全部入り「Rokid スマートAIグラス」を試す",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/18/news023.html",
+      "summary": "普通に見える黒縁メガネに、スピーカー／カメラ／ディスプレイを備えた“全部載せ”スマートグラス「Rokid」を試す。リアルタイム翻訳やAI検索、ナビを視界で活用できる先進性と、実用面での特徴や課題を解説する。",
+      "published": "2026-09-18T04:30:37Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a220fca1fadc54a7255befd4859b5b8",
+      "title": "Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート | gihyo.jp",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18",
+      "summary": "Ubuntu Weekly Topics Ubuntu 24.04.5のリリース⁠⁠、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp⁠⁠、mv⁠⁠、rmへの移行⁠⁠、CIX P1の正式サポート Ubuntu 24.04.5のリリース Ubuntu 24.04...",
+      "published": "2026-09-18T00:14:52Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "265d43085bb136c6a7568c1eb151d435",
+      "title": "[石川温の「スマホ業界 Watch」] 見えない部分が大幅進化、「Apple Watch Series 12/Ultra 4」「AirPods 5」実機先行レビュー",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2142098.html",
+      "summary": "",
+      "published": "2026-09-18T04:21:29Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76b7402f46b562181742dbb72bc6eedb",
+      "title": "アメリカ証券取引委員会が「イノベーション免除」を発令、トークン化株式のオンチェーン取引促進のため法規制を期限付きで免除",
+      "link": "https://gigazine.net/news/20260918-sec-innovation-exemption/",
+      "summary": "アメリカ証券取引委員会(SEC)が、「アメリカの金融市場をデジタル時代へ導く」ため、トークン化株式取引所を既存の法規制対象から5年間の期限付きで外す「イノベーション免除」命令を発令しました。 SEC.gov | SEC Issues “Innovation Exemption” to Facilit...",
+      "published": "2026-09-18T04:51:19Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd7cfe642cee39d355756dfcc11ab753",
+      "title": "ゲーム開発者の生成AI活用が8割超に CESAが初調査 「業務効率化」に最大の期待",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001618/",
+      "summary": "コンピュータエンターテインメント協会（CESA、東京都新宿区）は9月17日、日本のゲーム産業の現状や市場動向を分析した年次レポート「CESAゲーム産業レポート2026 プレビュー版」を発行した。業界内での生成AIの活用状況を巡る初の独自調査を掲載しており、ゲーム開発者の85.8％が生成AIを業務で活...",
+      "published": "2026-09-18T04:57:17Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4c78f20b0ab59bd223732f8c83de597",
+      "title": "MacBookに数枚の紙を挟んで持ち運んだだけで、ディスプレイが損傷した……？ 薄い紙でも油断できない理由",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/17/news099.html",
+      "summary": "「買ったばかりのMacBook Proに紙の資料を挟んで持ち運んでいたら、ディスプレイが破損した」──そんなショッキングな投稿がSNSで話題を呼んでいる。 硬いペンや分厚い手帳ならともかく、「たかが数枚の薄い紙で画面が割れるなんて……」と驚く人も多いだろう。しかし、近年のMacBookの構造を知れば...",
+      "published": "2026-09-17T11:13:29Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed71febe51d483bdab63ba24170ca300",
+      "title": "Valibotはどうやって**文字列**を数えているのか - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/8e2abf66-324e-4bab-092e-f1fe29f99f96",
+      "summary": "前提の確認 コンピュータは文字をそのまま保存できないので、すべての文字に数値を割り当てて保存しています。この「文字と数値の対応表」の一つが Unicode です。Unicode では、たとえば「A」には 65、「あ」には 12354 といった具合に、世界中のほぼすべての文字に固有の番号(=コードポイ...",
+      "published": "2026-09-18T07:28:50Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51e2fbb3cc1200fe1ac966a8eb11e168",
+      "title": "OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者",
+      "link": "https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/",
+      "summary": "OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。 EXCLUS...",
+      "published": "2026-09-17T05:54:51Z",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "822ac4784e0020ffdb2820a332076b40",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ahmedkh…",
+      "link": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ahmedkhaleel2004 / gitdiagram ⭐ 16,246 (+145) 🗒 TypeScript Free, simple, fast interactive diagrams for any GitHub rep...",
+      "published": "18 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37a98117372e00bce5b19122f673776b",
+      "title": "Claude Code の Bash sandbox、有効化しただけでは認証情報が読めてしまいます",
+      "link": "https://dev.classmethod.jp/articles/claude-code-bash-sandbox-secure-config/",
+      "summary": "結構フクザツです！",
+      "published": "Fri, 18 Sep 2026 12:35:56 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "68566700e8dfd43eec7b668fdef28b90",
+      "title": "Claude Code v2.1.275〜v2.1.276 の主要アップデート - claude.ai のスキル・プラグイン同期とプロキシ経由の 400 エラー修正",
+      "link": "https://dev.classmethod.jp/articles/20260918-cc-updates-v2-1-276/",
+      "summary": "Claude Code v2.1.275～v2.1.276のアップデートをまとめてご紹介します。2日続けてのリリースで、CLI本体だけでなくVS Code拡張やSlack連携まで広く手が入りました。本日は、ツール（プロンプト）の完了を待たずに送信できる ctrl+enter を試してみました。",
+      "published": "Fri, 18 Sep 2026 12:08:32 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5541ab360e6529ca16baf44aed579a35",
+      "title": "Elastic Beanstalk に追加された Cluster Mode で EKS へデプロイしてみた",
+      "link": "https://dev.classmethod.jp/articles/elastic-beanstalk-cluster-mode-eks-php/",
+      "summary": "Elastic Beanstalk に追加された Cluster Mode を使い、PHP アプリを Dockerfile 同梱とソースのみの2通りで EKS 上へデプロイしました。ALB と HTTPS の自動構成、Pod の自動復旧、CloudWatch へのログ・メトリクス送信まで、マニフェス...",
+      "published": "Fri, 18 Sep 2026 10:50:09 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "efeef2e8046b25ce5bdbd1fe90474d4b",
+      "title": "TiDB Cloud LakeのMySQLデータソースにTiDB Cloudを直接指定して同期してみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-lake-mysql-datasource-snapshot/",
+      "summary": "TiDB Cloud LakeのMySQL データソースにTiDB Cloudを直接指定してデータ同期を試してみました。Snapshotと定期実行での同期は実現できましたが、実装時の注意点と制限事項があります。",
+      "published": "Fri, 18 Sep 2026 10:35:44 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b26ad1d7b9326ae37852aafd78e4c2ab",
+      "title": "LIFF・LINEログイン・未認証/認証済LINEミニアプリの違いをもう一度整理して理解してみる",
+      "link": "https://dev.classmethod.jp/articles/liff-line-login-mini-app-differences/",
+      "summary": "LIFFとLINEログイン、未認証/認証済みLINEミニアプリ。これら4つの概念の違いを、公式ドキュメントを根拠に整理しました。混同しやすい用語の正体と、新規開発時の選択基準を整理します。",
+      "published": "Fri, 18 Sep 2026 09:35:17 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d816866de93c933d06ac142a2d08daa9",
+      "title": "Rustでnamed pipeのバックエンドを書いてみる",
+      "link": "https://dev.classmethod.jp/articles/implement-backend-of-fifo-named-pipe-by-rust/",
+      "summary": "1Passwordのシークレット管理で使われているfifo (named pipe)について、Rustでバックエンドの常駐プロセスを実装してみました。ブロッキングI/Oやメタデータ判定などの実装ポイントを紹介します。",
+      "published": "Fri, 18 Sep 2026 09:30:14 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "70a90e01578dd2372c52fed40254e5f8",
+      "title": "Jamf Pro API を使って Jamf Pro の情報を取得してみた",
+      "link": "https://dev.classmethod.jp/articles/jamfpro-api/",
+      "summary": "Jamf Pro API を利用してみました。API ロールと API クライアントの作成から、Mac のターミナルでコンピュータ情報を取得するまでの実装手順を紹介します。",
+      "published": "Fri, 18 Sep 2026 09:12:34 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "72be1abbaabd807a93036188d23ea417",
+      "title": "OpenJev を読んで、生成しない AI の別解を考えてみた",
+      "link": "https://dev.classmethod.jp/articles/openjev-non-generative-ai-alternatives/",
+      "summary": "Jev に触発された OpenJev の実装を読み比べ、既存モデルの点数を直接読む方式と判断用に学習し直す方式の違いを整理しました。",
+      "published": "Fri, 18 Sep 2026 08:50:43 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2876391c1ef3e3ba95f4a5e5e562c27c",
+      "title": "Lambda MicroVMs に対応した Step Functions の SDK 統合を試してみた",
+      "link": "https://dev.classmethod.jp/articles/stepfunctions-lambda-microvms-sdk-integration/",
+      "summary": "トークン認証が必要な Lambda MicroVMs サイトを起動し、指定した期間後に停止する仕組みを、StepFunctions の SDK 統合と JSONata だけで作ってみました。Lambda 関数は使いません",
+      "published": "Thu, 17 Sep 2026 14:45:14 GMT",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5d9f98113e8660db8bf8ccc38ca873f",
+      "title": "あのChordcatのプラグイン版、「Chord Cruiser」をいち早く試せるベータ・テストがスタート…… コード進行を“提案”してくれる新感覚グルボ・プラグインが登場",
+      "link": "https://icon.jp/archives/27956",
+      "summary": "あのChordcatがDAW上でも使用できるように。AlphaThetaとしては初のプラグイン、「Chord Cruiser（コード・クルーザー）」の開発が進められています。 AlphaThetaとしては初のプラグイン、 […]",
+      "published": "Fri, 18 Sep 2026 10:00:00 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "30087bbf4ca254d90e3afedfecd46f42",
+      "title": "With an 800 nanometer diamond-coated diaphragm, FiiO’s new FT15 headphones are for the serious audiophile",
+      "link": "https://musictech.com/news/gear/fiio-ft-15-headphones/",
+      "summary": "These new high-end planar over-ear headphones pair huge drivers with FAS-grade black walnut earcups for both a classy look and an improved sound. The ...",
+      "published": "Fri, 18 Sep 2026 08:56:45 +0000",
+      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-18T08:37:40.228040+00:00"
+  "updated_at": "2026-09-18T13:59:43.190467+00:00"
 }

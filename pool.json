@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "0c9084243b2abb6350a9de0ae666a32b",
-      "title": "デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた",
-      "published": "18 Sep 2026 10:55 +0000",
-      "fetched_at": "2026-09-18T13:59:43.190467+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "a81830f9e0718f2e0af957a67333f6ef",
       "title": "GitHub - tw93/Kaku: 🎃 A fast, out-of-the-box macOS terminal built for AI coding. · GitHub",
       "link": "https://github.com/tw93/Kaku",
@@ -879,7 +869,77 @@
       "fetched_at": "2026-09-19T16:56:38.679071+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "12c36fa1381af4f216ac6c77270d849c",
+      "title": "A graphical desktop for the ZX Spectrum",
+      "link": "https://github.com/mindbox77/zxdesk",
+      "summary": "Article URL: https://github.com/mindbox77/zxdesk Comments URL: https://news.ycombinator.com/item?id=49766676 Points: 114 # Comments: 89",
+      "published": "Sat, 19 Sep 2026 14:01:58 +0000",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b0072df9d2158eac53de73865fd038a",
+      "title": "Tin: full-text search for Postgres",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "summary": "Article URL: https://planetscale.com/blog/introducing-tin Comments URL: https://news.ycombinator.com/item?id=49766611 Points: 134 # Comments: 59",
+      "published": "Sat, 19 Sep 2026 13:52:06 +0000",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "447f676fc0fafc855455f9071173ff59",
+      "title": "私たちはなぜキーボードでローマ字入力をしているのか - 株式会社ナカニシヤ出版",
+      "link": "https://www.nakanishiya.co.jp/book/b10205207.html",
+      "summary": "かつて、百花繚乱とも呼ぶべき、多様な日本語入力装置があった！ 日本語ワープロ導入期、多種多様な日本語入力装置はなぜ開発され、そして消えていったのか 装置を提供する側の考える技術とそれを使う側の技能とが鬩ぎあい定着に至る不安定な歴史に迫る キーボードという一見不便な装置をなぜ私たちが日々使っているのか...",
+      "published": "2026-09-17T22:04:37Z",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cda01883880bb00b2998aea2eb822fb",
+      "title": "Knowledge graph entity alignment - TypeSafe AI",
+      "link": "https://docs.typesafe.ai/cookbooks/entity_alignment",
+      "summary": "Decides which of 450 candidate pairs from two beer catalogues describe the same product. One TypeSafe Score question carries the whole decision, becau...",
+      "published": "2026-09-18T15:57:49Z",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "221977b1a4ae3da4bdc17a1706361cc9",
+      "title": "📦 docling-project / docling ⭐ 66,744 (+9…",
+      "link": "https://github.com/docling-project/docling",
+      "summary": "📦 docling-project / docling ⭐ 66,744 (+94) 🗒 Python Get your documents ready for gen AI",
+      "published": "19 Sep 2026 19:17 +0000",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9668b773c0c4ccf9622896e6bd00751a",
+      "title": "📦 yynxxxxx / Codex-X ⭐ 3,314 (+64) 🗒 Rus…",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "summary": "📦 yynxxxxx / Codex-X ⭐ 3,314 (+64) 🗒 Rust OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "published": "19 Sep 2026 17:17 +0000",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcccac5eb85023ed8455544bfa36edb8",
+      "title": "[アップデート] Amazon Quick で画像やプロンプトからBI画面を自動生成できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/20260919-amazon-quick-generate-sheets-and-analysis-from-an-image/",
+      "summary": "Amazon Quick に新しく追加された「Generate Sheet」と「画像からの分析生成」機能を実際に試してみました。マイグレーションが捗る画期的なアップデートです。両機能の動作の違いや実用的な使い方について、検証結果をまとめて紹介します。",
+      "published": "Sat, 19 Sep 2026 16:52:26 GMT",
+      "fetched_at": "2026-09-19T19:49:12.866856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-19T16:56:38.679071+00:00"
+  "updated_at": "2026-09-19T19:49:12.866856+00:00"
 }

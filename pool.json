@@ -939,7 +939,57 @@
       "fetched_at": "2026-09-19T19:49:12.866856+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "f174a2f62ba6ff2db2746c56a6baaad2",
+      "title": "I think you should almost never use AI to write",
+      "link": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "summary": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai Comments URL: https://news.ycombinator.com/item?id=49767937 Poin...",
+      "published": "Sat, 19 Sep 2026 16:35:24 +0000",
+      "fetched_at": "2026-09-19T21:58:33.773576+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e803826d2c526af0707b0c45e33a828",
+      "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+      "link": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+      "summary": "jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx ...",
+      "published": "2026-09-19T15:59:25Z",
+      "fetched_at": "2026-09-19T21:58:33.773576+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbabd6e40bf949b16a4c54d149a30de5",
+      "title": "データセンター、お金を払わず水を1億1000万リットル使用 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/",
+      "summary": "2026年5月16日の記事を編集して再掲載しています。 データセンターはどうして積極的に評判を悪くするのやら…。 昨年、ジョージア州フェイエットビルにある富裕層向けの高級住宅地Annelise Parkの住民たちが、水圧が異常に低下していることに気づきはじめました。 報告を受けた郡の水道局が調査した...",
+      "published": "2026-09-19T15:30:11Z",
+      "fetched_at": "2026-09-19T21:58:33.773576+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f080f66f2e60d7349dd1a331568b62e2",
+      "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+      "link": "https://gigazine.net/news/20260919-opik/",
+      "summary": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 Open-S...",
+      "published": "2026-09-19T11:39:25Z",
+      "fetched_at": "2026-09-19T21:58:33.773576+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae0fd47dd8969a80966879d0c9e4ef8b",
+      "title": "NemoHermes の LLM ルーティングに使っている NeMo Switchyard の Classifier を TypeSafe の Jev に替えて計測してみた",
+      "link": "https://dev.classmethod.jp/articles/reona-dgx-spark-switchyard-jev-classifier/",
+      "summary": "NeMo Switchyard の Classifier を、生成モデルから判定専用モデル Jev に置き換えました。判定時間が短縮され、全シナリオで期待どおりに振り分けできたその過程を紹介します。",
+      "published": "Sat, 19 Sep 2026 21:46:46 GMT",
+      "fetched_at": "2026-09-19T21:58:33.773576+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-19T19:49:12.866856+00:00"
+  "updated_at": "2026-09-19T21:58:33.773576+00:00"
 }

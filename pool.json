@@ -129,7 +129,287 @@
       "fetched_at": "2026-09-19T02:28:26.919369+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "8af19034e4629fdcc478b3eef29ed70f",
+      "title": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み",
+      "published": "19 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "341d9ae244a6cd47b7c9179bb53caca5",
+      "title": "[Claude Code] [Hooks入門] Hooksを整備して安全に開発を進めよう！ - Yappli Tech Blog",
+      "link": "https://tech.yappli.io/entry/claude-code-hooks",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 [Claude Code] [Hooks入門] Hooksを整備して安全に開発を進めよう！",
+      "published": "19 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1a4797c1dcbe940b88622c6471286dc",
+      "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
+      "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry eBPF Instrumentationの舞台裏",
+      "published": "19 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77e928c8a21fd3db00dfd865cc503be7",
+      "title": "vLLMとRDMAで構築するローカルLLMクラスタ (9)：共有ストレージ上のエージェントで計算ノードを立ち上げる - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20260910",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 vLLMとRDMAで構築するローカルLLMクラスタ (9)：共有ストレージ上のエージェントで計算ノードを立ち上げる",
+      "published": "19 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "902764ff7b145f05b58d5b0e8cbf9461",
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "link": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html Comments URL: https://news.ycombinator.com/item?id=49763697 Point...",
+      "published": "Sat, 19 Sep 2026 05:48:50 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1a50e891c6cbf60d607c7359c5634d8",
+      "title": "San Francisco Onion Futures Company",
+      "link": "https://onionfutures.com/",
+      "summary": "Article URL: https://onionfutures.com/ Comments URL: https://news.ycombinator.com/item?id=49763296 Points: 163 # Comments: 59",
+      "published": "Sat, 19 Sep 2026 04:23:30 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25200c9eb00b0236cec9e9aad7b81b12",
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "link": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions Comm...",
+      "published": "Fri, 18 Sep 2026 23:54:42 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a817a2a7da9f774fd318b52a5b64d2a8",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "link": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 112 # Comments: 81",
+      "published": "Fri, 18 Sep 2026 23:04:17 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4627a4085accf625ffdbc5d134ad436",
+      "title": "月刊 AWS 製造 2026 年 9 月号",
+      "link": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202609/",
+      "summary": "今月は「エージェントに現場を任せるとき、境界線をどこに引くか」をピックアップトピックとしてお届けしつつ、8 月に公開された製造業向けのブログとサービスアップデートをご紹介します。",
+      "published": "Sat, 19 Sep 2026 06:17:23 +0000",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "535881f08f04fe2034386e13a5cec7eb",
+      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+      "summary": "皆さん、突然だが、Androidスマートフォンで「おサイフケータイ」を使っているだろうか？ 私は今後も使いたくない。 最も大きな理由はこれだ。一部の機種において本体をリセットしてもおサイフケータイのデータは残るという、その不便極まりない仕様があるためだ。 通常の初期化では消えないデータと売却時の不利...",
+      "published": "2026-09-19T01:13:17Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9c245ab0adaf205cfbeebc7067ad7cc",
+      "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
+      "summary": "はじめに Claude Codeでは、settings.jsonとCLAUDE.mdを分けて設定する話を書きました。Codexにも、実行する環境を設定するファイルと、仕事の進め方を伝えるファイルがあります。config.toml と AGENTS.md です。 さらにClaude Codeの公式リポ...",
+      "published": "2026-09-19T02:40:03Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "583bd18ba1674cf437c52025c5eed326",
+      "title": "【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
+      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
+      "summary": "",
+      "published": "2026-09-19T03:40:11Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0483096e8d1c3461beb7b57ce1ef21b",
+      "title": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
+      "summary": "アメリカのIT大手「グーグル」が開発した生成AIが、ことし5月におこなわれたサイバー能力の試験中に、実在する企業3社のシステムに侵入していたことがわかりました。 アメリカの有力紙、ウォール・ストリ…",
+      "published": "2026-09-19T04:41:01Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fbc9b2d425698fec0fe737229ab94f7",
+      "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
+      "summary": "【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グ...",
+      "published": "2026-09-19T01:53:51Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69fb8624fe094ac0b0900807f541a477",
+      "title": "TypeSafe AI の Jev を TypeScript で試してみた",
+      "link": "https://azukiazusa.dev/blog/jev-support-routing/",
+      "summary": "System One はダニエル・カーネマンの著書『ファスト＆スロー』で紹介される「システム 1」に由来します。システム 1 は直感的で素早い判断を行う脳の働きで、システム 2 はより慎重で論理的な判断を行う働きです。Jev はシステム 1 のように、文章の意味を踏まえた直感的な判断を返すモデルとし...",
+      "published": "2026-09-19T04:22:07Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74a3158ac53e9885cd87b13c969af9a5",
+      "title": "「中国船が核兵器部品を輸送」 米軍、AI使用の誤った情報報告書で一触即発の状況に",
+      "link": "https://www.cnn.co.jp/usa/35252808.html",
+      "summary": "（CNN） イランとの戦争のさなかにあった今春、米軍内で回覧されたある情報報告書に、瞬く間に緊張が走った。中東を航行する中国の船舶が、核兵器計画の部品を輸送しているという内容だった。 事情に詳しい情報筋4人によると、米軍はこの船を阻止する計画を直ちに行動に移した。情報筋2人によれば、武装した米兵が船...",
+      "published": "2026-09-19T03:47:14Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae56d5ecf4f5704ab5190fbc25b433ac",
+      "title": "アンソロピック、AIの安全評価にアクセンチュア起用 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN190JI0Z10C26A9000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは18日、人工知能（AI）開発の安全性評価にコンサルティング大手アクセンチュアを起用すると発表した。両社は今後5年で各10億ドル（約1570億円）を投じ、AIの安全対策を検証する体制を整える。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は最先...",
+      "published": "2026-09-19T04:39:11Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13cfe2d410ac4b259562defaf5007cec",
+      "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "link": "https://github.com/tamaratran/fast-jev-compaction",
+      "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are d...",
+      "published": "2026-09-18T16:33:31Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c69f646c6979b21304212f4863a306fe",
+      "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say | CNN Politics",
+      "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "summary": "The intelligence report, circulated across the US military this spring in the midst of the war with Iran, immediately set off alarm bells: A Chinese s...",
+      "published": "2026-09-18T22:19:50Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "529be8543ff187aa26266a62fd5baa50",
+      "title": "「Claude Code」のプロジェクト機能が向上--AIが作業全体を統括",
+      "link": "https://japan.zdnet.com/article/35252782/",
+      "summary": "Anthropicは米国時間9月17日、「Claude Code」におけるプロジェクトの概念を再設計し、超強力な能力を授ける一方で、厳格な制限も設けると発表した。特定の種類の作業では、これまでのやり方が変わる画期的な変更となる可能性がある。とはいえ、それ以外の作業では、基本的に大きな意味はない。 A...",
+      "published": "2026-09-18T02:06:43Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d29f97b94d2616e8ef5c92db6320a275",
+      "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
+      "link": "https://gigazine.net/news/20260918-un-system-data-commons/",
+      "summary": "国連システムは2026年9月17日、国連機関が公開している統計データをまとめて検索・利用できる「UN System Data Commons」を公開しました。26の国連機関が参加しており、公開時点で約4400万件のデータを収録。自然な文章で統計を検索できるほか、AIエージェントが国連の一次データを取...",
+      "published": "2026-09-18T12:08:14Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a328d8cd324ee65888b0139f1bb5578e",
+      "title": "Jevはどれだけ優秀なif文か？軽量モデルを分類器用途で比較してみた | Supa Journal",
+      "link": "https://journal.supa.ai/jev-classifier-benchmark/",
+      "summary": "こんにちは、supa Lab（スパラボ）のリサーチャーです。supa Lab は、supa 株式会社で最新の LLM 推論基盤やモデル、CLI ツール、SaaS プロダクトなどを研究・利用検証する R&D 組織です。 先日、TypeSafe AI から Jev というモデルが早期アクセスとして公開さ...",
+      "published": "2026-09-18T05:45:21Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6586f8f7f291ea0bcc00f12ce9948141",
+      "title": "ハッカーがAnthropicのClaudeを使ってOpenAIに侵入",
+      "link": "https://gigazine.net/news/20260919-hack-openai-claude/",
+      "summary": "サイバーセキュリティスタートアップ・Hacktron AIのセキュリティ研究者が、AnthropicのClaudeを使ってOpenAIの内部データにアクセスすることに成功したと報告しています。 Hacking OpenAI | Hacktron AI https://www.hacktron.ai/...",
+      "published": "2026-09-19T02:12:16Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d531c716342687c9ce90edf4dc4d5d2b",
+      "title": "どうやって人類を滅ぼすの？→AIの回答が絶望的すぎた",
+      "link": "https://diamond.jp/articles/-/399581",
+      "summary": "制御不能な未来が迫る？ AIが明かした人類滅亡の手口 AI開発企業アンソロピックのダリオ・アモデイCEOが業界全体にむけて、AIの開発スピードを緩めるべきだと訴えかけました。ライバル企業のオープンAIのサム・アルトマンCEOとスペースXのイーロン・マスク氏も、直後にアモデイ氏の呼びかけに賛同するとコ...",
+      "published": "2026-09-18T01:39:33Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ce47ebd561205f321bc806d09742c97",
+      "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
+      "link": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/2",
+      "summary": "「早く帰って」と言っても帰らない DeNAで起きたこと 経営の側も同じ現象に直面している。DeNAは2025年2月に「AIオールイン」を宣言した。AIを活用して約3000人の現業を半分の人員で回し、残りを新規事業に振り向ける構想だ。南場智子会長は講演で、法務によるツール利用規約のチェックは9割、ライ...",
+      "published": "2026-09-18T03:06:16Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "636c837016e0a7db9d76453418dadb57",
+      "title": "日米欧「半世紀ぶり」同時利上げ 中銀悩ますインフレ・政治・AI - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQODK187C40Y6A910C2000000/",
+      "summary": "日銀が18日に利上げを決め、同じ月に日米欧の主要3中央銀行が政策金利の引き上げでそろい踏みした。第2次石油危機以来、およそ半世紀ぶりという歴史的な現象だ。世界の分断で継続的なインフレ圧力という世界共通の敵が復活し、中央銀行が重い責務を負う新常態を象徴する。日銀、米連邦準備理事会（FRB）、そして今の...",
+      "published": "2026-09-18T09:05:59Z",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed0c24fdcf6117a9f70a524ed1a111bb",
+      "title": "【TypeSafe】テキスト専用の Jev に PDF や PNG を Base64 で渡したら読めるのか試してみた",
+      "link": "https://dev.classmethod.jp/articles/typesafe-jev-base64-pdf/",
+      "summary": "TypeSafe の Jev で PDF・PNG を Base64 にエンコードして渡せば画像や文書を読み込めるのでは？という仮説を、実際に貿易書類で試してみました。結果と、その過程で学んだ制約について紹介します。",
+      "published": "Sat, 19 Sep 2026 07:40:31 GMT",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "707aecc846ac689fd5fb8384b6ebfffc",
+      "title": "[レポート] Snowflake Cortex Senseとは - エージェント時代におけるオントロジーやコンテキストレイヤーの重要性 #SWTTokyo26",
+      "link": "https://dev.classmethod.jp/articles/bs1170-cortex-sense-swttokyo26/",
+      "summary": "SNOWFLAKE WORLD TOUR TOKYO 2026で開催された「Snowflake Cortex Sense」についてのセッションレポートです。AIエージェント時代に不可欠なコンテキストレイヤの重要性、そして近日中にプライベートプレビュー版を公開予定の新機能Cortex Senseについ...",
+      "published": "Sat, 19 Sep 2026 07:30:54 GMT",
+      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-19T02:28:26.919369+00:00"
+  "updated_at": "2026-09-19T08:24:45.388440+00:00"
 }

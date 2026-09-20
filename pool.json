@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8af19034e4629fdcc478b3eef29ed70f",
-      "title": "Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/memory-manager-context-reuse",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Codeとの会話を、チームの記憶にする ── 開発の文脈をメモリに残して共有する仕組み",
-      "published": "19 Sep 2026 06:55 +0000",
-      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f1a4797c1dcbe940b88622c6471286dc",
-      "title": "OpenTelemetry eBPF Instrumentationの舞台裏",
-      "link": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry eBPF Instrumentationの舞台裏",
-      "published": "19 Sep 2026 03:55 +0000",
-      "fetched_at": "2026-09-19T08:24:45.388440+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8145efc65a6ded4b24cea8ba15ae27d1",
       "title": "SQLiteの16年越しのバグに学ぶ、並行処理の難しさとAI時代の形式手法 - Findy Media | IT/Webエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出",
       "link": "https://findy-code.io/media/articles/modoku-yusuktan-202609",
@@ -769,7 +749,277 @@
       "fetched_at": "2026-09-20T08:56:13.355582+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "a1d9193d481036a403fb106d4501bef3",
+      "title": "Rustで書かれたTeXエンジン実装。READMEを見る限り日本語もいけるもよう…",
+      "link": "https://github.com/leoliu0/ratex",
+      "summary": "Rustで書かれたTeXエンジン実装。READMEを見る限り日本語もいけるもよう。おーすごい。",
+      "published": "20 Sep 2026 11:43 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3867315855966582207b9a56df625268",
+      "title": "「関数型Pythonプログラミング 関数型アプローチを用いて、簡潔かつ効率的で表現力豊かなPythonコードを書く」StevenF.Lott [ＰＣ・理工科学書] - KADOKAWA",
+      "link": "https://www.kadokawa.co.jp/product/302608002706/",
+      "summary": "ZEN大学出版会からだが、まだZEN大学出版会の公式サイトには未掲載。2026年9月28日発売",
+      "published": "20 Sep 2026 09:54 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2acba6b6454a1f8f538dd9a5a2e7d6f6",
+      "title": "構文解析のしくみ 電卓から言語処理系まで自分で書く | ZEN大学出版会",
+      "link": "https://zen.ac.jp/press/books/b_0019",
+      "summary": "2026年9月28日発売",
+      "published": "20 Sep 2026 09:52 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fde7dcf8481d3be9497768adfbd7e4b",
+      "title": "【インフラエンジニアによるGreptile入門】コードレビューの負担、AIに任せてみませんか？ - connpass",
+      "link": "https://asiaquest.connpass.com/event/406914/",
+      "summary": "オンライン開催",
+      "published": "20 Sep 2026 09:47 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c32770026c85a6170cc2941bc8772bb",
+      "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
+      "published": "20 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "491766f2daefc1d860f7d1f59b05211b",
+      "title": "AI and the Destruction of the Creative Commons",
+      "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "summary": "Article URL: https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sun, 20 Sep 2026 10:07:51 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67e6dd3dceccd936b337aa355a5b468d",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 175 ...",
+      "published": "Sun, 20 Sep 2026 06:16:42 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "871a4cce66aba558041ae12551c05dcf",
+      "title": "The Lamentable Later Life of Lemmings",
+      "link": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/ Comments URL: https://news.ycombinator.com/item?id=49767242 Points:...",
+      "published": "Sat, 19 Sep 2026 15:17:12 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1459b4e9b10d9bb917cd31bd477a7379",
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "link": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "summary": "Article URL: https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951 Comments U...",
+      "published": "Sat, 19 Sep 2026 14:23:42 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6df2db045e3e5c4ab755612c5175c5ee",
+      "title": "AIバブルはこうして終わる 金利高と収穫逓減「死の交差」 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/",
+      "summary": "米国のアンソロピックやオープンAIが人工知能（AI）開発の減速を呼びかけるのは暴走への歯止めだけが理由ではないはずだ。いずれAIが資本を食い潰してしまうディストピアが脳裏をよぎるからだろう。AI産業は難問に直面している。追加投資に比べ追加収益はそれほど大きくならないという「収穫逓減の法則」だ。先人が...",
+      "published": "2026-09-20T06:15:13Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c34eed246b3ff1d8910ec20f4cada343",
+      "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
+      "link": "https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/",
+      "summary": "10月23日に発売されるiPhone Duo。9月18日に、Apple Showcaseの中で、iPhone Duoに極めて短時間、触れる機会がありましたので、その様子をお伝えします。 発表を見ただけのタイミングで興味を持ったポイントは、9つ記事としてまとめています。自分も、これを踏まえての短時間の...",
+      "published": "2026-09-20T07:13:03Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6427fe7b21454c188e2a19da1fe8d86",
+      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+      "summary": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話す...",
+      "published": "2026-09-20T10:54:06Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6203da23d4e1665a41067cfa883ef478",
+      "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
+      "link": "https://performance.dev/chatgpt",
+      "summary": "Dennis Brotzky·July 2, 2026 Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion UsersOpen a new tab, type chatgpt.com, and ask it somethin...",
+      "published": "2026-09-20T11:38:28Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be69851c08ec056e1f279172a4017ae0",
+      "title": "Jevには残念なことに技術的な革新は無いが、すでにそこにあることが強いアドバンテージ",
+      "link": "https://anond.hatelabo.jp/20260920135749",
+      "summary": "Jevについて聞かれることにうんざりしてきたので、説明した内容をここに放流する。 Jevに技術的なブレイクスルーは無く、LLMのフロンティアモデルよりも性能が悪く、小型の蒸留モデルと良い勝負で、生成AIでは無いため早く安い。 技術的には作ろうと思えば作れるものであり、実際にLocalLLMとして動く...",
+      "published": "2026-09-20T06:08:25Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "edf166125d9b996c555cad5da54051be",
+      "title": "json-render と Jev で UI を組み立ててみた",
+      "link": "https://azukiazusa.dev/blog/json-render-jev/",
+      "summary": "json-render の Jev 連携では、文言やデータを含むコンポーネントの候補を用意し、モデルに選択と配置を任せます。従来の json-render では、モデルが新しい Props を生成していました。この記事では Jev 連携の仕組みと、従来の json-render との違いを紹介します...",
+      "published": "2026-09-20T10:27:10Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da47ce3817992f2d19f397b121e9cd3a",
+      "title": "AI時代の「エンジニア」とは？ - だいくしー(@daiksy)のはてなブログ",
+      "link": "https://daiksy.hatenablog.jp/entry/2026/09/16/183544",
+      "summary": "社内に、「アジャイルやスクラムといった開発プロセスなどに興味がある人が毎週30分集まって話す」という会があり、そこでこんな話題が出た。 エンジニアってなんだろうなということをぼんやり考えてる プロダクトエンジニアリングという言葉も良く聞かれるようになり、AIで誰でもコードが書ける時代。開発チームにお...",
+      "published": "2026-09-17T03:44:13Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "66c64bb20c00ad33da03ed90ad4f8cbe",
+      "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
+      "link": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+      "summary": "最近、文章を書かずに判断だけを返すAIモデル「Jev」が話題になっています。 私もJevにマリオやVampire Survivorsを操作させて遊んでいたのですが、発表から数日で解説記事、実用例、オープンな類似実装が一気に増えてきました。情報を追いかけるのが大変になってきたので、2026年9月20日...",
+      "published": "2026-09-20T09:51:47Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ce528af92806ea5f4b64c598c0c7f40",
+      "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】",
+      "link": "https://ascii.jp/elem/000/004/436/4436507/",
+      "summary": "ASCII.jpの連載『新清士の「メタバース・プレゼンス」』でもおなじみの新清士氏（バリーン・スタジオ Creative Tech Lab.／デジタルハリウッド大学大学院教授）が、「東京ゲームショウ2026（TGS2026）」のマウスコンピューターブースに登壇した。 テーマは「【DAIV×生成AI】...",
+      "published": "2026-09-19T13:10:13Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "381e99e550c15623d680cf2b5e8672bb",
+      "title": "AIエージェントが再発見したサーバーレス #serverlessjp | ドクセル",
+      "link": "https://www.docswell.com/s/nekoruri/ZDMVQV-serverlessdays2026",
+      "summary": "ServerlessDays Tokyo 2026 「AIエージェントが再発見したサーバーレス」 https://serverless.connpass.com/event/371637/ 発表文字起こし https://d.nekoruri.jp/entry/2026/09/19/serverle...",
+      "published": "2026-09-19T17:00:39Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1517d818ed2704ae411d24542cb2cf5b",
+      "title": "このシルバーウィークに「非エンジニアでも自分のサービスをAIで作ってみたい」人のための記事ガイド｜梶谷健人",
+      "link": "https://note.com/kajiken0630/n/n91a5a9e00bc3",
+      "summary": "このシルバーウィークに「AIを使って自分のサービスを作ってみたい」と思っている人向けに、「これを上から順番に読み切ったら、非エンジニアでも自分のサービスを作ってリリースするまでの流れやポイントをバッチリ押さえられる」という記事ガイドを作りました。 ぼく自身も、非エンジニアながらClaude Code...",
+      "published": "2026-09-20T01:10:32Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e78340ee6c08c4eb7a614ff736bb0fda",
+      "title": "Sunoに匹敵する音楽生成AI「YuE2」、膨大な論文から“まだ誰も知らない科学的関係”を予測するソニー製AI「Hakken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/09/20/5509.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第160回）は、Suno v5／v6に匹敵する音楽生成AI「YuE2」や、過去の論文から未来の発見を予測するAI「Hakken」を取り上げます。 また、スマホやPCで動く20億パラメータ言語モデル...",
+      "published": "2026-09-19T23:29:36Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ace2163fe4839d35c9c990f4d6ecb76",
+      "title": "iPhone 18 Pro Maxはアメリカ版のみ独自モデムチップのC2ではなくQualcomm製モデムを搭載していることが分解調査で明らかに",
+      "link": "https://gigazine.net/news/20260920-apple-iphone-18-pro-max-qualcomm-modem/",
+      "summary": "2026年9月18日、iPhone 18 Pro Maxが発売されました。スマートフォンの分解・解析を行うTechInsightsが早速アメリカでiPhone 18 Pro Maxを購入・分解したところ、モデムにはAppleの独自モデムであるC2ではなく、Qualcomm製モデムが搭載されていること...",
+      "published": "2026-09-20T05:34:30Z",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35f99ce97c2a7c778471ebaf92d0e93c",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 verc…",
+      "link": "https://github.com/vercel-labs/json-render",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 vercel-labs / json-render ⭐ 16,989 (+585) 🗒 TypeScript The Generative UI framework",
+      "published": "20 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dece017d6623ce3d6d67f3d1ee85273b",
+      "title": "Slack MCPとClaude Coworkで提案書作成を半自動化してみた",
+      "link": "https://dev.classmethod.jp/articles/sliding-with-claude-cowork-and-slack/",
+      "summary": "Slackの案件スレッドをClaude Coworkに読ませて、提案書スライド作成を3～5時間から35分に短縮した運用を紹介します。コンテキスト管理からスライド自動生成、実装手順まで、プリセールスの時間をAIに返す仕組みをお伝えします。",
+      "published": "Sun, 20 Sep 2026 13:46:53 GMT",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e35cc35818f096521a405a301dad0dbb",
+      "title": "【TypeSafe】Jev で書類項目の突合はどこまでできるか？精度・速度・コストを測ってみた",
+      "link": "https://dev.classmethod.jp/articles/typesafe-jev-cross-match/",
+      "summary": "TypeSafe の Jev というテキスト専用モデルを使って、書類の項目突合がどの程度の精度でできるか実測してみました。",
+      "published": "Sun, 20 Sep 2026 12:40:45 GMT",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1397c6a50d9f0e7ee4a1a807ec42f061",
+      "title": "CIDR が完全に重複する VPC 間で PrivateLink トンネルエンドポイントを試してみた",
+      "link": "https://dev.classmethod.jp/articles/privatelink-tunnel-endpoint-cidr-overlap/",
+      "summary": "AWS PrivateLink トンネルエンドポイントで、両側が同じ CIDR（10.0.0.0/16）の VPC 間の HTTP 疎通を確認しました。GENEVE リレー直接起動・HAProxy・NAT 透過中継の 3 方式を検証し、使い分けを整理します。",
+      "published": "Sun, 20 Sep 2026 12:24:45 GMT",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "85cd506dc3860bf6b42f0b80e4b4adf7",
+      "title": "dbt Charts で Snowflake 上の dbt モデルを YAML だけでダッシュボード化してみた",
+      "link": "https://dev.classmethod.jp/articles/dbt-charts-snowflake-dbt-model-yaml-dashboard/",
+      "summary": "dbt Charts が OSS として公開されました。YAML 1ファイルでダッシュボードを宣言し、SQL で Snowflake の dbt モデルを参照できる仕組みを、jaffle_shop を使って CLI で検証しました。",
+      "published": "Sun, 20 Sep 2026 12:09:07 GMT",
+      "fetched_at": "2026-09-20T13:50:21.601067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-20T08:56:13.355582+00:00"
+  "updated_at": "2026-09-20T13:50:21.601067+00:00"
 }

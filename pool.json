@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "76e84cd72c7cd71db362539ed16b1620",
-      "title": "自動推論に立ちはだかる 3 つの難題 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/three-challenges-in-machine-based-reasoning/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 自動推論に立ちはだかる 3 つの難題 | Amazon Web Services",
-      "published": "20 Sep 2026 08:55 +0000",
-      "fetched_at": "2026-09-20T08:56:13.355582+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ba4b4b8701b94170094955135f6f65e7",
-      "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
-      "link": "https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った",
-      "published": "20 Sep 2026 05:55 +0000",
-      "fetched_at": "2026-09-20T08:56:13.355582+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4c32770026c85a6170cc2941bc8772bb",
       "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると － Publickey",
       "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
@@ -539,7 +519,397 @@
       "fetched_at": "2026-09-21T09:27:28.461481+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "f5c6462b9ba879cdab4092a93fcc26ad",
+      "title": "オープンソースな投資情報ターミナルアプリ。おそらくBloomberg Termi…",
+      "link": "https://github.com/gloom-sh/gloomberb",
+      "summary": "オープンソースな投資情報ターミナルアプリ。おそらくBloomberg Terminalをもじった名前と思われる。",
+      "published": "21 Sep 2026 10:50 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62caad8dedf389d83ac7621b44d0d4da",
+      "title": "古典的KVSの実装に学ぶデータ構造とアルゴリズム | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/lessons-from-a-classic-kvs-implementation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 古典的KVSの実装に学ぶデータ構造とアルゴリズム",
+      "published": "21 Sep 2026 10:56 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e0b4f16fb485b644bca8653f48de04d",
+      "title": "Local LLMを部署内に提供！ Local LLM Model as a Serviceとその取り組みについて - NTT docomo Business Engineers' Blog",
+      "link": "https://engineers.ntt.com/entry/202607-local-llm-maas/entry",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Local LLMを部署内に提供！ Local LLM Model as a Serviceとその取り組みについて",
+      "published": "21 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33e7806fabdfb0cbbc8619855284b02a",
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "link": "https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death",
+      "summary": "Article URL: https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Mon, 21 Sep 2026 14:09:48 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50409e7062e283ec6653232b43963eb3",
+      "title": "What Sun Got Wrong",
+      "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/ Comments URL: https://news.ycombinator.com/item?id=49787436 Points: 179 # Com...",
+      "published": "Mon, 21 Sep 2026 14:03:18 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b598043f274c3eb21c8b76b4d98dd7f",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "link": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "summary": "Article URL: https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888 Comments URL: https://news.ycombinator.com/item?id=49786689 Points: 117 #...",
+      "published": "Mon, 21 Sep 2026 12:54:24 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2421876abdd5124969bee68ca4e7d158",
+      "title": "ZuckOff Know when a camera is in the room",
+      "link": "https://zuckoff.app/",
+      "summary": "Article URL: https://zuckoff.app/ Comments URL: https://news.ycombinator.com/item?id=49785429 Points: 582 # Comments: 249",
+      "published": "Mon, 21 Sep 2026 10:33:14 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1128531f415c81af78bb9e0dfc7d4724",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "summary": "Article URL: https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff Comments URL: https://news.ycombinator.com/item?id=49785397 Points: 28...",
+      "published": "Mon, 21 Sep 2026 10:27:50 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5874adce6baf37cec9af565ae233b7a9",
+      "title": "Jev-Leftpad",
+      "link": "https://github.com/f/jev-leftpad",
+      "summary": "Article URL: https://github.com/f/jev-leftpad Comments URL: https://news.ycombinator.com/item?id=49784706 Points: 210 # Comments: 74",
+      "published": "Mon, 21 Sep 2026 08:39:32 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1d7db06d6dc2203569f0640240503b1",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "summary": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change Comments URL: https://news.ycombinator.com/item?id=49784336 Points: 421 # Commen...",
+      "published": "Mon, 21 Sep 2026 07:55:28 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e96dab974ef43b8dbd6643eccb17e73e",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "link": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "Article URL: https://github.com/jaredpalmer/kev/tree/main Comments URL: https://news.ycombinator.com/item?id=49783999 Points: 275 # Comments: 124",
+      "published": "Mon, 21 Sep 2026 07:11:55 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "06d8c4c6246deeedcecec2c3bba54d8b",
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "link": "https://github.com/volotat/mini-AGI/",
+      "summary": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can't stand the tempta...",
+      "published": "Mon, 21 Sep 2026 04:42:37 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "db1b6f99b397d796c074bd6366d28985",
+      "title": "Heretic removes restrictions from language models",
+      "link": "https://heretic-project.org/",
+      "summary": "Article URL: https://heretic-project.org/ Comments URL: https://news.ycombinator.com/item?id=49783101 Points: 147 # Comments: 62",
+      "published": "Mon, 21 Sep 2026 04:35:22 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d5430fe0f1b7a977f03e7ccdfcb4369",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "link": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 143 #...",
+      "published": "Mon, 21 Sep 2026 04:28:44 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "75912f7cb98b047a883c331a7d17f29e",
+      "title": "Amiga Unix, Again",
+      "link": "https://amigaux.org/",
+      "summary": "Article URL: https://amigaux.org/ Comments URL: https://news.ycombinator.com/item?id=49781436 Points: 135 # Comments: 53",
+      "published": "Sun, 20 Sep 2026 23:57:10 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "651afff201868576387b685404fc4f31",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 101 # Comments: 40",
+      "published": "Sun, 20 Sep 2026 20:59:02 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a41d9769ce063d0bfee346c312263d85",
+      "title": "テックリードとアーキテクトの違い、テックリードとEMの違い - mtx2s’s blog",
+      "link": "https://mtx2s.hatenablog.com/entry/2026/09/21/182658",
+      "summary": "「テックリード」がどのような役割を指すのか、人によってバラつきがある。ある人は開発チームの「リーダー」「マネージャー」といった役職者をそう呼び、また別の人は「アーキテクト」と同義で使う。 テックリードが何を担い、何を期待されているのかの認識が、本人も含めた組織内で噛み合っていないのだ。これではテッ....",
+      "published": "2026-09-21T10:25:50Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ecab18b23f442f7ac7ec4d24ace57e3",
+      "title": "自転車交通違反の“反則金”の裏に警察の苦しい懐事情… 警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b",
+      "summary": "9月21日から30日までの期間、恒例の秋の全国交通安全運動が行われるが、「令和8年秋の全国交通安全運動推進要綱」では運動重点項目が3つあり、そのうち2つを占めるのが自転車に関すること。 【写真あり】安全運転が求められる自転車 《広く国民に対して交通ルールについて分かりやすく周知し、その理解・遵守の徹...",
+      "published": "2026-09-21T07:02:50Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "982ff350087d4a6832f884ec8509dae5",
+      "title": "Claude Codeの Agent view とセッション間通信は使ったほうがいい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/21/104258",
+      "summary": "はじめに AIを使って仕事が楽になった、という人は定期的に現れます。どこかの偉そうな人から、エージェントに任せれば人は楽になる、と言われる。けれど、複数のエージェントを起動すると、減っているのは考える時間です。 セッションごとの入力待ちに答え、別worktreeの差分を読み、終わった変更を同じ状態で...",
+      "published": "2026-09-21T04:11:16Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da1e3c23dd9abf67ea9ef0229b0ec347",
+      "title": "判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "summary": "テキストを生成しない判断特化型AI「Jev」の特徴を、具体例で解説します。アカウント作成から Playground の使い方まで紹介し、文章に個人情報が含まれるかを実際に判定。従来の LLM と比べた料金や応答速度の違いにも触れます。 はじめに こんにちは。くどうです。 最近出た Jev というモデ...",
+      "published": "2026-09-21T01:27:07Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88113335de53aad78f491534c4d4e421",
+      "title": "新型PSP、PS5超えの“実効性能”で重いゲームも快適に？ 「PSSR 3.0」で底上げの可能性（多根清史） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/68abe070e7271a3b78a415df3e68769482b300de",
+      "summary": "ソニーが準備中と噂される次世代携帯ゲーム機、通称「新型PSP」（ないし「PS6ハンドヘルド」）は、クラウドに接続することなく、単体でPS5ゲームが動作すると複数の情報源が伝えてきました。しかし、PS5上で動かす場合よりも解像度やフレームレートを落とす可能性があり、要は「同じゲームは動くが、見劣りする...",
+      "published": "2026-09-21T04:11:03Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8089b426a42341eee6a02f1d48225f6",
+      "title": "みのるん式 登壇資料の作成ノウハウをスキルとして公開しました！ - Qiita",
+      "link": "https://qiita.com/minorun365/items/ed4c760f616cf3c0a958",
+      "summary": "ほかに、みのるんが登壇でよく使う黒地のMarpテーマと、書き出したPDFを測る検査スクリプト、見本デッキも入っています。 秒で試してみよう Claude Desktopや、ChatGPTアプリのCodexのような、デスクトップアプリのエージェントから使う前提で説明します。 スライドを置きたいフォルダ...",
+      "published": "2026-09-21T04:00:03Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79f8cf7bf140b63b1906195383d4d986",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "link": "https://harnesstax.github.io/",
+      "summary": "What does a coding-agent harness actually add, and at what cost? It turns out your Claude models may not need Claude Code… We evaluate 21 model–harnes...",
+      "published": "2026-09-17T23:10:09Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d149c9a3bfc921f1176bd43f2a0cd2d3",
+      "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
+      "link": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
+      "summary": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI...",
+      "published": "2026-09-21T10:24:27Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "746cba91248e9efb527f74ffe24b05da",
+      "title": "あの四角い9V電池もUSB Type-Cで充電する時代！ 実際に使ってわかった意外な違い (1/3)",
+      "link": "https://ascii.jp/elem/000/004/436/4436315/",
+      "summary": "最近は充電池を内蔵した機器が増え、乾電池の利用頻度が下がっています。それでも、手軽に使える電源としては今でも便利。とくに単3形や単4形あたりは一般的に使われていますから、家に常備しているという人が多いでしょう。また、CR2032などのコイン形電池も小型の機器でよく使われるので、結構な頻度で購入してい...",
+      "published": "2026-09-21T09:39:43Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce57b56d5059a9516506d534d03a3ec3",
+      "title": "キャリアショップや家電量販店よりも厳しい現実――街中の「併売店」の“今”を探る",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news035.html",
+      "summary": "かつては「駅前の一等地」に店舗を構えていたが…… 数を減らしていることもあり、併売店を見かける機会も少なくなった。「どういう携帯電話ショップなの？」という人もいると思うので、改めて説明したい。 先に触れた通り、併売店は複数のキャリアを取り扱う携帯電話ショップのことを指す。逆に、特定のキャリアしか扱わ...",
+      "published": "2026-09-21T08:22:40Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40769e9253c2feebe860e1ca3e3e6211",
+      "title": "月40GBになった「ahamo」はどれだけお得？ 他社中容量プランと比較、「大盛り」に意外な落とし穴も",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/21/news030.html",
+      "summary": "ahamoは8月1日から「データ増量おためしキャンペーン」を開始し、月30GBだったデータ容量が料金そのままで40GBになりました。最近の激戦区である中容量帯の中でも、お得度は一歩抜け出した形です。 そこで今回はahamoのメリット／デメリットを復習した上で、他社の中容量帯と料金を比較してみます（料...",
+      "published": "2026-09-21T02:03:58Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0735d3cb5a61e8bef5c783f2b181bdbb",
+      "title": "Jev, Gemini, DistilBERT, LightGBMの分類性能を比較してみた",
+      "link": "https://zenn.dev/xxkuboxx/articles/e232d267a76f43",
+      "summary": "なぜ比較しようと思ったか？ Jevについて、定性的な\"評判\"では掴めないような地に足の着いた定量的な\"評価\"を知りたかったからです。もちろん、定性的な情報自体は、定量化やもっと言えば言語化すらできない肌感を伝えられるという側面において、価値がある情報だとは思いますが、JevをはじめとしたAI関連の情...",
+      "published": "2026-09-21T04:00:32Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b2376360fb1020716d6211b67cf783c",
+      "title": "高市首相も「無敵」じゃない？ユーチューブで批判動画が肯定を一時逆転 ほめるか叩くか、基準は「バズるかどうか」【データ・インサイト】 | NEWSjp",
+      "link": "https://news.jp/i/1469544318226858917",
+      "summary": "高市政権は、１０月に発足から１年を迎える。この間、２月の衆院選で歴史的圧勝を飾り「国論を二分するような政策」（高市早苗首相）にまい進してきた。防衛装備移転三原則と運用指針の改定、皇室典範の改正など、大転換を次々と成し遂げる実行力には目を見張るばかりだ。 こうした「成功」を支えたのが高い内閣支持率だ....",
+      "published": "2026-09-21T01:21:08Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcdb5268a44d36b7bf73d9eb3e0e25f1",
+      "title": "デジタル版「Y16」の復活がYASHICAから予告 7色展開で10月に予約開始 光学ファインダーも",
+      "link": "https://dc.watch.impress.co.jp/docs/news/2142528.html",
+      "summary": "",
+      "published": "2026-09-21T04:06:03Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad04dbc3fccd5d66bca577efb373dd31",
+      "title": "jev-test-filter: git diff から関連するテストだけを抽出する",
+      "link": "https://zenn.dev/mizchi/articles/jev-test-filter-intro",
+      "summary": "作ったもの git diff を渡すと、その変更で影響を受けそうなテストだけを選んで、テストランナーがそのまま理解できるフィルタ引数を吐くツールです。 $ jev-test-filter --base main --exec -- vitest run jev-test-filter: 3/110 ...",
+      "published": "2026-09-21T08:46:27Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95941908b087b52d44886efab6ecebfa",
+      "title": "Codexを使うなら、権限プロファイルとRulesを押さえておきたい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/20/120746",
+      "summary": "はじめに Codexにテストを実行してほしいのに、依存パッケージの取得や書き込みで止まることがあります。そこで権限を広げると、今度はどこまで実行できるのかを説明しにくくなります。確認画面の多さだけを見て設定すると、必要な権限も分かりにくいままです。 権限プロファイルでは、ローカルのコマンドが触れるフ...",
+      "published": "2026-09-20T07:44:55Z",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee900e8a14249367a61842be4d2e274f",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mvt-pro…",
+      "link": "https://github.com/mvt-project/mvt",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mvt-project / mvt ⭐ 13,363 (+177) 🗒 Python MVT (Mobile Verification Toolkit) helps with conducting forensics of mobil...",
+      "published": "21 Sep 2026 14:17 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d26904d3ecd892fca005b7a5d67a067e",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 zho…",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 zhouxiaoka / autoclip ⭐ 7,996 (+395) 🗒 Python AutoClip : AI-powered video clipping and highlight generation · 一款智...",
+      "published": "21 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89b768d731593b4da07ad9e1b5daeba9",
+      "title": "【TypeSafe】Jev で OCR 済みの書類をページごとに種別判定できるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/typesafe-jev-doc-type-classification/",
+      "summary": "Jev で OCR 済みの貿易書類をテキスト分類させたところ、直前のページを渡すだけで20ページ中20ページ正解になりました。タイトルがないページや誤読にも強く、確率値も活用できるため、人の確認と組み合わせた実用的なチェックフローが作れそうです。",
+      "published": "Mon, 21 Sep 2026 11:53:10 GMT",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7dae78f0dcf53f620b5a326f76f87cbe",
+      "title": "MATLAB を EC2 インスタンスに CLI でインストールを試してみた",
+      "link": "https://dev.classmethod.jp/articles/matlab-ec2-install-mpm-cli/",
+      "summary": "EC2上のUbuntuでMATLABをコマンドラインツール（mpm）を使ってインストールしてみました。評価版ライセンスの取得からスクリプト実行まで、GUI不要でセットアップできる手順をまとめています。",
+      "published": "Mon, 21 Sep 2026 11:47:38 GMT",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "efe9781edd332bf5a2af361caa38a9ed",
+      "title": "“The death of Suno”: Reddit users have turned against Suno after v6 model update",
+      "link": "https://musictech.com/news/industry/suno-ai-update-v6/",
+      "summary": "The update also hasn't satisfied music labels: “V6 is not a fresh start; it is the fruit of the same poisoned tree.” The post “The death of Suno”: Red...",
+      "published": "Mon, 21 Sep 2026 15:44:36 +0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "e7e5b51efca6fb4fd45a83c77cbd6336",
+      "title": "SUAHN, “Distort Everything Forever”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/suahn-distort-everything-forever-review",
+      "summary": "The Baltimore post-hardcore guitarist galvanizes personal struggles into stark, unsettling club jams. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 21 Sep 2026 13:30:48 -0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "7d0dd77c3413d88f8464535d5c662f27",
+      "title": "A Journey Through Ghetto House and Juke",
+      "link": "https://daily.bandcamp.com/features/ghetto-house-juke-album-guide",
+      "summary": "How a crew of South and West Side producers transformed house music—and laid the groundwork for footwork. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 21 Sep 2026 13:30:37 -0000",
+      "fetched_at": "2026-09-21T16:06:35.479842+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-21T09:27:28.461481+00:00"
+  "updated_at": "2026-09-21T16:06:35.479842+00:00"
 }

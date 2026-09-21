@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a651e67d699e6c5ed5e414436ee4b3c7",
-      "title": "ランタイムを上げるか、Lambda をなくすか - Firehose ネイティブ機能でデータ変換 Lambda を消すまで - エムスリーテックブログ",
-      "link": "https://www.m3tech.blog/entry/firehose-native-replaces-transform-lambda",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ランタイムを上げるか、Lambda をなくすか - Firehose ネイティブ機能でデータ変換 Lambda を消すまで",
-      "published": "20 Sep 2026 02:55 +0000",
-      "fetched_at": "2026-09-20T03:01:31.664712+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "76e84cd72c7cd71db362539ed16b1620",
       "title": "自動推論に立ちはだかる 3 つの難題 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/three-challenges-in-machine-based-reasoning/",
@@ -189,7 +179,367 @@
       "fetched_at": "2026-09-21T02:36:27.885770+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "325d29701abb0a9e350ffcf4f54b78a5",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://techblog.lycorp.co.jp/ja/20260914a",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIの成果物を人が受け取るための設計ワークフロー",
+      "published": "21 Sep 2026 08:56 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f304db5de79c660fc108a5def070e39f",
+      "title": "＜実践！AI駆動開発＞監視設定のTerraform、人が書くのをやめました ～設計書を「正」にしたら、Issueから1日で商用に届いた～｜KDDI Tech note",
+      "link": "https://tech-note.kddi.com/n/n1dc8bcd36ab7",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ＜実践！AI駆動開発＞監視設定のTerraform、人が書くのをやめました ～設計書を「正」にしたら、Issueから1日で商用に届いた～",
+      "published": "21 Sep 2026 06:55 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3df5df8c355fe2b2175a2ed8f21c1fb",
+      "title": "なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/package_registry_history",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える",
+      "published": "21 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8e5a06579b278726f48f7b0d91a1238",
+      "title": "図解即戦力 Web技術がこれ1冊でしっかりわかる教科書［改訂2版］ | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15846-0",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 図解即戦力Web技術がこれ1冊でしっかりわかる教科書［改訂2版］ | 技術評論社",
+      "published": "21 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d196547a1a0ea7b2ff620aae5fbc759",
+      "title": "AIとGrafana Foundation SDKで進めるGrafanaダッシュボードのIaC化 | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/09/grafana-dashboard-iac-with-ai-typescript/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIとGrafana Foundation SDKで進めるGrafanaダッシュボードのIaC化 | BLOG - DeNA Engineering",
+      "published": "21 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e425dd4f5d0215cd105893bbabc5d69",
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "link": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "summary": "Article URL: http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf Comments URL: https://news.ycombinator.com/item?id=49783495 Points: 174 # Co...",
+      "published": "Mon, 21 Sep 2026 05:55:22 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "573e8884e7be4be5953258d4e4b12016",
+      "title": "MCP was always a bad idea?",
+      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 162 # Comme...",
+      "published": "Sun, 20 Sep 2026 19:44:40 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5c04b3fd5c356f7bd964b4863a36c86",
+      "title": "The Hierarchy of Money",
+      "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 147 ...",
+      "published": "Sun, 20 Sep 2026 19:37:43 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3786f83f7200a0ec626df40481fd6048",
+      "title": "A Necessary History of the Oddest Letter: W",
+      "link": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+      "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 155 # ...",
+      "published": "Sun, 20 Sep 2026 17:55:57 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8481830727c9d3e976f78ba88167bbf5",
+      "title": "I turned Jev into a (lousy) chatbot",
+      "link": "https://github.com/kyle-pena-nlp/jevchat/",
+      "summary": "Article URL: https://github.com/kyle-pena-nlp/jevchat/ Comments URL: https://news.ycombinator.com/item?id=49778162 Points: 138 # Comments: 42",
+      "published": "Sun, 20 Sep 2026 17:51:27 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b24e18c69765673cbe60e5c3790cabd",
+      "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+      "link": "https://github.com/adonis-singh/re4",
+      "summary": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 119 # Comments: 67",
+      "published": "Sun, 20 Sep 2026 17:38:27 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b111714191e9375aee405f8bbeaf04fc",
+      "title": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the South America (São Paulo) region. These instances are pow...",
+      "published": "Fri, 18 Sep 2026 22:16:00 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "01aea5e08cc8e530a711b8167583a193",
+      "title": "愚昧なブクマカども",
+      "link": "https://anond.hatelabo.jp/20260921134652",
+      "summary": "俺は怒り心頭だぞ、猛烈だ。 てめえだよ。呑気な顔して生きてんじゃねえぞおい。 パートナーにセーラー服を着てほしいと言われた増田の件な。 増田本人はいい。罪は無い。 ブコメがアホまみれなんでちょっと掃除させてくれや。魑魅魍魎どもが。 勘違いすんなよ。 セーラー服に欲情してるんじゃなくて、セーラー服を纏...",
+      "published": "2026-09-21T04:54:57Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e1a7aae63c21d5083465c12da691750",
+      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+      "link": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は...",
+      "published": "2026-09-20T04:16:01Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a216f764e7871a610ddc361bca6a2f0d",
+      "title": "エンジニアと育児の両立の難しさ",
+      "link": "https://tech-blog-v2-opal.vercel.app/article/balancing-engineering-and-parenting",
+      "summary": "この記事は、抱っこ紐の中で子供が寝ている間に、雑に書いたものである。 もうすぐ子供が産まれて1年になる。 最近はつかまり立ちをするようになり、もうすぐ1人で歩けそうなところまで成長してくれた。 毎週土曜日の朝には親子の体操教室に通っていて、子供の成長を間近で見られる楽しみな時間になっている。 一方で...",
+      "published": "2026-09-21T05:49:33Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c1839ffe56e55d5f360bdc4547e5b48",
+      "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
+      "link": "https://www.sankei.com/article/20260920-HN3RTI4KZBBHPPRNBLZ3KPNZOQ/",
+      "summary": "インタビューに応じた杉山知之氏＝東京都千代田区急速に社会へ浸透する生成人工知能（AI）の技術は、コンテンツクリエーターにどう影響していくのか。30年以上にわたりデジタルクリエーターを育成してきたデジタルハリウッド大学の杉山知之前学長（72）に「生成AIによりクリエーターは不要になるのか。デジタルハリ...",
+      "published": "2026-09-20T12:20:36Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4e1f105e9967f334bc0f20c262f7d82",
+      "title": "画像生成AI「Qwen-Image-2.1」公開、7Bで透過画像に対応も商用不可",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2142515.html",
+      "summary": "",
+      "published": "2026-09-20T16:29:22Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40cf17bfc3db900bacc3de6c1e74c12f",
+      "title": "オンライン年齢認証とSNS年齢制限の技術的・法的・社会的限界（八田真行） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/cf4dc975624f9a2b29752d9bf154e25ae30739d2",
+      "summary": "オーストラリアに続いて英国、フランス、EUが相次いでSNSの年齢制限に動き出した。日本でも議論が始まっている。だがオーストラリアでは規制は機能せず、フランスでは憲法院が違憲と判断した。本稿は、年齢認証という技術と一律禁止という手法の限界を検証し、子どもを守るための別の道筋を示す。 近年、インターネッ...",
+      "published": "2026-09-21T00:38:47Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1397c6a50d9f0e7ee4a1a807ec42f061",
+      "title": "CIDR が完全に重複する VPC 間で PrivateLink トンネルエンドポイントを試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/privatelink-tunnel-endpoint-cidr-overlap/",
+      "summary": "AWS PrivateLink トンネルエンドポイントで、両側が同じ CIDR（10.0.0.0/16）の VPC 間の HTTP 疎通を確認しました。GENEVE リレー直接起動・HAProxy・NAT 透過中継の 3 方式を検証し、使い分けを整理します。 はじめに 2026年9月18日、AWS ...",
+      "published": "2026-09-20T12:34:47Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b82e5a874347541f8c51f737c75555cc",
+      "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/reliable-dev-environment",
+      "summary": "システムの開発環境は「そこで動くなら本番環境でも問題ないだろう」と思える状態に保ちたい。 開発環境は動くだけでは足りない 「書いたプログラムが開発環境では動いたが、本番環境では動かなかった」それが続くと開発環境に対する信頼が揺らぐ。たくさんの資料を読んだり先人に聞かないとアプリケーションが立ち上が....",
+      "published": "2026-09-20T12:11:00Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "926216d36c6eab4dbc4711a660585567",
+      "title": "iPhone Duoの実機をチェック。各所から感じるこだわり【西田宗千佳のRandomTracking】",
+      "link": "https://av.watch.impress.co.jp/docs/series/rt/2142512.html",
+      "summary": "",
+      "published": "2026-09-21T02:25:55Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dd98392ba38066b04f7d14ee8168a5e",
+      "title": "GitHub - google/ax: An open source distributed agent runtime",
+      "link": "https://github.com/google/ax",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-05-22T12:41:13Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcb8b22ca4479194fe066530fc610762",
+      "title": "「iPhone Duoは長く使える」 アップルが語る品質・価値を維持する設計【西田宗千佳のイマトミライ】",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2142514.html",
+      "summary": "",
+      "published": "2026-09-21T02:18:01Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d89627872eea50c5f4ab57dbbe5bbfee",
+      "title": "江戸時代文献「うつろ船の蛮女」に描かれている「宇宙文字」の正体 - 中京大学学術情報リポジトリ",
+      "link": "https://chukyo-u.repo.nii.ac.jp/records/201",
+      "summary": "Where did the “Cosmic Letters” Come From?: An Interpretation of the Documents of the Folklore “Utsuro-bune” （A Mysterious Boat, or Saucer-like Hollow ...",
+      "published": "2026-09-09T14:21:20Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "755a1292344954c604e01a27bd1afc51",
+      "title": "テスラ、「日本のタクシー会社」を買収か？ロボタクシー展開なら | 自動運転ラボ",
+      "link": "https://jidounten-lab.com/u_68036",
+      "summary": "テスラのロボタクシー「Cybercab（サイバーキャブ）」のお披露目イベントが東京で幕を開け、大きな注目を集めているようだ。 ハンドルなどを備えない新規格の自動運転車両で、センサー山積みのWaymoの自動運転車両とは一線を画すスタイリッシュな仕上がりだ。 今のところ日本導入は計画されていないが、テス...",
+      "published": "2026-09-21T01:38:37Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e3e2d6c9e5cf70108134fc55bc67604",
+      "title": "なぜ「決定性」が 決定的に重要なのか？ Durable Execution 基盤の数理的理解 #serverlessjp / ServerlessDays Tokyo 2026",
+      "link": "https://speakerdeck.com/ytaka23/serverlessdays-tokyo-2026",
+      "summary": "Serverless Days Tokyo 2026 で使用したスライドです。 本セッションでは、AWS Lambda の Durable Functionsを題材に、ワークフローを中断・再開可能にする仕組みと、その正しさを支える「決定性」について、数学の言葉を用いて解説します。 Durab…",
+      "published": "2026-09-19T08:27:53Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9283521c23a31333a8118d58b176de1a",
+      "title": "GitHub - mizchi/jev-lint",
+      "link": "https://github.com/mizchi/jev-lint",
+      "summary": "日本語 A linter for the things a linter could never check: whether a function does what its name says, whether a comment is still true, whether a test ve...",
+      "published": "2026-09-20T05:46:08Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "46b5a546de98b3b57abd4a50aeda5e63",
+      "title": "How To Write With An LLM",
+      "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "Two simple rules that let LLMs streamline and improve your writing without pasteurizing and jacking it with corn syrup. It’s tricky to write about wri...",
+      "published": "2026-09-18T23:40:00Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "916fdd455a6e6721d9ff200e167a2793",
+      "title": "毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/65910/",
+      "summary": "実際のルールは複数の条件を組み合わせていますが、基本的な構造だけを抜き出すと次のようになります。 processors: tail_sampling: decision_wait: 10s sample_on_first_match: true policies: # エラーを含むトレースは保持する...",
+      "published": "2026-09-20T02:44:49Z",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "84fe4c71fb7ea1f6e124d9cb7bcd364c",
+      "title": "[AWS Technical Support Note] อยากทราบว่าสามารถใช้ EBS Snapshot Lock กับสแนปช็อตที่สำรองไว้ด้วย AWS Backup ได้หรือไม่",
+      "link": "https://dev.classmethod.jp/articles/tsnote-thai-aws-backup-ebs-snapshot-lock-recommendations/",
+      "summary": "แนวทางจากเอกสารทางการเกี่ยวกับว่าควรใช้ EBS Snapshot Lock กับสแนปช็อต EBS ที่สำรองไว้ด้วย AWS Backup หรือไม่ เนื่องจาก AWS Backup มีฟังก์ชันป้องกันในช...",
+      "published": "Mon, 21 Sep 2026 08:58:57 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5984c15df38733d5f752e9a18076c8cf",
+      "title": "[AWS Technical Support Note] ต้องใช้เวลานานเท่าไหร่จนกว่าการสร้าง AMI จะเสร็จสมบูรณ์",
+      "link": "https://dev.classmethod.jp/articles/tsnote-thai-ebs-ec2-ami-creation-time/",
+      "summary": "คุณเคยสงสัยหรือไม่ว่าเมื่อสร้าง AMI จากอินสแตนซ์ EC2 จะต้องใช้เวลานานเท่าใดจึงจะเสร็จสมบูรณ์? ในความเป็นจริงแล้ว AWS ไม่มีการรับประกันระยะเวลาที่ใช้ใน...",
+      "published": "Mon, 21 Sep 2026 08:57:04 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d35a9439025aced7aeefc4a67cbc4f53",
+      "title": "[AWS Technical Support Note] เมื่อทำการ Backup EC2 ด้วย AWS Backup สามารถยกเว้น Volume เฉพาะบางรายการได้หรือไม่",
+      "link": "https://dev.classmethod.jp/articles/tsnote-thai-aws-backup-ec2-exclude-specific-volumes/",
+      "summary": "เมื่อทำการ Backup EC2 Instance ด้วย AWS Backup สามารถยกเว้น EBS Volume เฉพาะบางรายการได้หรือไม่? การ Backup ในระดับ EC2 ไม่สามารถยกเว้นได้ แต่สามารถแก...",
+      "published": "Mon, 21 Sep 2026 08:54:19 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d162adb73d7a2bcd8ddcff46fa0cfbb2",
+      "title": "AWS Transform custom で Lambda のランタイムを Python 3.10 から 3.13 にアップグレードしてみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-aws-transform-custom-lambda-runtime-upgrade-python-3-10-to-3-13/",
+      "summary": "AWS Transform customを使ったPython 3.10からPython 3.13へのランタイムアップグレードを試してみました。AIエージェントが自動的に変換定義を選択し、廃止されたモジュールや非推奨APIの置き換えから検証まで対応してくれた様子を紹介します。",
+      "published": "Mon, 21 Sep 2026 07:18:17 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2ca184f0ca44b0ce639e85d28c613fa",
+      "title": "Amazon Bedrock で一般提供になった Moonshot AI の Kimi K3 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/moonshot-ai-kimi-k3-bedrock/",
+      "summary": "Amazon Bedrock で一般提供が開始された Moonshot AI の Kimi K3 について、Converse や OpenAI 互換 API、明示的なプロンプトキャッシュなど複数の呼び出し方法を実際に試してみました。",
+      "published": "Mon, 21 Sep 2026 03:43:44 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f3145bd32e6390e4b6fe496bb5ac0a2",
+      "title": "【Security Hub修復手順】[NetworkFirewall.6] ステートレス Network Firewall のルールグループを空にしないでください",
+      "link": "https://dev.classmethod.jp/articles/slug-securityhub-fsbp-remediation-networkfirewall-6/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Mon, 21 Sep 2026 02:50:28 GMT",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ee202d7c0493d806593eb35087ff405",
+      "title": "Sendy Audio’s Apollo Pro offers class, comfort and smooth tones",
+      "link": "https://musictech.com/reviews/studio-recording-gear/sendy-audio-apollo-pro-review/",
+      "summary": "Sendy’s latest planar magnetic headphones nail the price versus performance ratio The post Sendy Audio’s Apollo Pro offers class, comfort and smooth t...",
+      "published": "Mon, 21 Sep 2026 08:00:46 +0000",
+      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-21T02:36:27.885770+00:00"
+  "updated_at": "2026-09-21T09:27:28.461481+00:00"
 }

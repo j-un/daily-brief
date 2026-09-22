@@ -1199,7 +1199,117 @@
       "fetched_at": "2026-09-22T20:41:57.122078+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "46b4dce782bc0ac0a1c2c0bb6adf6a4d",
+      "title": "LLM Ass Bench",
+      "link": "https://www.assbench.com/",
+      "summary": "Article URL: https://www.assbench.com/ Comments URL: https://news.ycombinator.com/item?id=49807688 Points: 127 # Comments: 40",
+      "published": "Tue, 22 Sep 2026 20:34:19 +0000",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3b5ec7c95f8b28ff8c669c038bddae5",
+      "title": "SAML: A fractal of bad design",
+      "link": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/ Comments URL: https://news.ycombinator.com/item?id=49806335 Points:...",
+      "published": "Tue, 22 Sep 2026 18:57:17 +0000",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "444cb4f5fa3c4c47beab36c82f2cf091",
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "summary": "https://archive.ph/96YBP Comments URL: https://news.ycombinator.com/item?id=49805278 Points: 232 # Comments: 171",
+      "published": "Tue, 22 Sep 2026 17:46:02 +0000",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79c815651e8e97d33cceec1fe959d29d",
+      "title": "Billing Transfer now supports automatic billing group creation for two-level transfers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/",
+      "summary": "AWS Billing Transfer users can now enable the Auto-Billing Transfer Billing Group Creation, a new AWS Billing Conductor preference that eliminates the...",
+      "published": "Tue, 22 Sep 2026 20:08:00 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "99293554a5486194a01b7b31b56f59ce",
+      "title": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/",
+      "summary": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts, providing local, managed recursive DNS resolution directly on y...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "366696c7b38be02c389d429bbf355897",
+      "title": "AWS Glue Data Quality delivers context-specific rule recommendations in seconds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/",
+      "summary": "AWS Glue Data Quality now generates data quality rules in seconds, reducing the time to establish data quality checks for your tables in the AWS Glue ...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b1cc26223fbd53092e4aa31d6d23542",
+      "title": "Amazon RDS Custom now supports the latest CU for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) for Microsoft SQL Server. This r...",
+      "published": "Tue, 22 Sep 2026 07:30:00 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b0f34bea27a6ce27d42ca8c2fe2ec4d",
+      "title": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/",
+      "summary": "Mistral AI's Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models are now available on Amazon SageMaker JumpStart, expanding the portf...",
+      "published": "Mon, 14 Sep 2026 17:35:00 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "999af4772fb4b1540ca11080169bad0b",
+      "title": "Amazon Bedrock で利用可能になった GPT-6 Sol/Luna を試してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-openai-gpt6-sol-luna/",
+      "summary": "Bedrock で OpenAI GPT-6 Sol / Luna を呼び出した検証結果です。モデル ID と推論プロファイルの確認、Converse・Responses API・Chat Completions の3通りの呼び出し方、そして GPT-5.6 シリーズからの料金の変化をまとめました。",
+      "published": "Tue, 22 Sep 2026 21:03:14 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2016b7c90fc893d499e4369cc037dd22",
+      "title": "Amazon Bedrock で利用可能になった Claude Opus 5.5 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-claude-opus-5-5/",
+      "summary": "Bedrock の Converse API で Claude Opus 5.5 を呼び出した検証結果です。JP / Global プロファイルの指定方法、effort レベル別の reasoningContent の有無、Fast mode の非対応、そして Opus 5 からの料金の変化をまとめ...",
+      "published": "Tue, 22 Sep 2026 20:45:03 GMT",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f23867ccc23884ff4fde1aedb6c552e",
+      "title": "Sidechain Compression: What is it and what’s it used for?",
+      "link": "https://musictech.com/glossary/sidechain-compression/",
+      "summary": "This innovative technique from the world of 1930’s cinema has become a mainstay of both corrective and creative dynamics processing, and well-worth ge...",
+      "published": "Tue, 22 Sep 2026 21:54:26 +0000",
+      "fetched_at": "2026-09-22T22:47:02.542760+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-22T20:41:57.122078+00:00"
+  "updated_at": "2026-09-22T22:47:02.542760+00:00"
 }

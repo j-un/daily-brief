@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f921b28425492cc42c2eea995d00ebe5",
-      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
-      "published": "20 Sep 2026 23:55 +0000",
-      "fetched_at": "2026-09-21T00:40:35.490964+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f3df5df8c355fe2b2175a2ed8f21c1fb",
       "title": "なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える - GMO Flatt Security Blog",
       "link": "https://blog.flatt.tech/entry/package_registry_history",
@@ -159,7 +149,317 @@
       "fetched_at": "2026-09-22T00:26:37.441512+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "3af07d33181f66b3f059a8b9020e14be",
+      "title": "Kiro University Challenge に参加する ― 1 週間のレッスンと最終課題で最大 5,250 クレジット | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-university-challenge/",
+      "summary": "学生じゃなくてもAWS契約者じゃなくても参加可能。ただし18歳以上であること。無料でクレジットをもらえるチャンス。",
+      "published": "22 Sep 2026 01:08 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "577c9d02fb9bf929b2b1c4043f9d4b5e",
+      "title": "Atlassian ConfluenceのページをMarkdownでエクスポート…",
+      "link": "https://github.com/Spenhouet/confluence-markdown-exporter",
+      "summary": "Atlassian ConfluenceのページをMarkdownでエクスポートできるCLIツール。Python実装。macOSはbrew install confluence-markdown-exporterでもインストールできます。",
+      "published": "22 Sep 2026 01:01 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9bbc435e3a0254a916b1498d4538a0e",
+      "title": "ブロードバンドタワー、AI時代のグリーンデータセンター「石狩新港サイト」を運用開始 - クラウド Watch",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2140751.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ブロードバンドタワー、AI時代のグリーンデータセンター「石狩新港サイト」を運用開始",
+      "published": "22 Sep 2026 06:56 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2da1af0afca68e5724971555c432f03d",
+      "title": "AI エージェント時代のゼロトラスト認可を実現するためのポリシーエンジン OPA・Cedar・OpenFGA を使ってみる - 弁護士ドットコム株式会社 Creators’ blog",
+      "link": "https://creators.bengo4.com/entry/2026/09/14/102237",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI エージェント時代のゼロトラスト認可を実現するためのポリシーエンジン OPA・Cedar・OpenFGA を使ってみる",
+      "published": "22 Sep 2026 05:55 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1cd49f35a4aecd448800eb8de3fba5d",
+      "title": "フロントエンドなんてバイブコーディングで良いこの時代に、私は - カミナシ エンジニアブログ",
+      "link": "https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 フロントエンドなんてバイブコーディングで良いこの時代に、私は",
+      "published": "22 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f064b2a140c6b6b2365f11381938d31",
+      "title": "Ollama×AWSでローカルLLM(Qwen・Gemma)を使い個人情報を外に出さず処理する - GMOインターネットグループ グループ研究開発本部",
+      "link": "https://recruit.group.gmo/engineer/jisedai/blog/ollama-aws-local-llm-pii/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Ollama×AWSでローカルLLM(Qwen・Gemma)を使い個人情報を外に出さず処理する - GMOインターネットグループ グループ研究開発本部",
+      "published": "22 Sep 2026 02:56 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac126a6f72740af05dbed80b382079c7",
+      "title": "Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
+      "link": "https://zenn.dev/ymotongpoo/articles/20260916-beyla-obi-diff",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Grafana BeylaとOpenTelemetry eBPF Instrumentation（OBI）の差分は何か",
+      "published": "22 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa54f36aa60edd870887e6bf6a07a992",
+      "title": "vLLMとRDMAで構築するローカルLLMクラスタ (10)：ゲート分割でローカルLLMにソフトウェアを実装させる - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20260914",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 vLLMとRDMAで構築するローカルLLMクラスタ (10)：ゲート分割でローカルLLMにソフトウェアを実装させる",
+      "published": "22 Sep 2026 01:56 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac9684bca18d0d2d4a7d9a49d8f42d2b",
+      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic | Claude by Anthropic",
+      "link": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+      "published": "22 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6c24c09b631ac4c1d099ae288416123",
+      "title": "Spymarks, Not Watermarks",
+      "link": "https://brand.io/article/spymarks/",
+      "summary": "Article URL: https://brand.io/article/spymarks/ Comments URL: https://news.ycombinator.com/item?id=49794615 Points: 329 # Comments: 75",
+      "published": "Mon, 21 Sep 2026 23:03:49 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e84edd8e90ea8a427abe1e18c7da3aae",
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/ Comments URL: https://news.ycombinat...",
+      "published": "Mon, 21 Sep 2026 19:17:42 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "715a9b0a268cd2d10e42e4b74376b924",
+      "title": "Frontier AI on Your Own Hardware",
+      "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "summary": "Article URL: https://timdettmers.com/2026/09/21/dlab-open-source-week/ Comments URL: https://news.ycombinator.com/item?id=49791647 Points: 141 # Comme...",
+      "published": "Mon, 21 Sep 2026 18:53:01 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f49c210c27984aaafff107f9a0ae7876",
+      "title": "Apple Copland D11E4 Booting in the Browser",
+      "link": "https://www.pagetable.com/300",
+      "summary": "Article URL: https://www.pagetable.com/300 Comments URL: https://news.ycombinator.com/item?id=49791125 Points: 127 # Comments: 36",
+      "published": "Mon, 21 Sep 2026 18:15:32 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c1626db1974cd60ab839b5794b9635",
+      "title": "HERMES radio enables voice and data communication over vast distances",
+      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
+      "summary": "https://hermes.radio/https://www.rhizomatica.org/ Comments URL: https://news.ycombinator.com/item?id=49789228 Points: 120 # Comments: 53",
+      "published": "Mon, 21 Sep 2026 16:14:16 +0000",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20130cabaac7ace466338f1462c946dd",
+      "title": "AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion",
+      "summary": "AWS Elemental MediaTailor now supports Low-Latency HTTP Live Streaming (LL-HLS) ad insertion using HLS Interstitials. MediaTailor is a channel assembl...",
+      "published": "Thu, 10 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a50c91f0752fe469a8d660083ae6f18",
+      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
+      "link": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+      "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、...",
+      "published": "2026-09-22T02:56:00Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed144f89df75bba7c1d797c371140af0",
+      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
+      "link": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
+      "summary": "Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリ...",
+      "published": "2026-09-21T17:11:26Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "65b1af7407890873c82d4fa28ab82312",
+      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
+      "link": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
+      "summary": "はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem One Modelと呼んでいます...",
+      "published": "2026-09-21T03:47:18Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9310c56fa77101734f11df8d361e569d",
+      "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita",
+      "link": "https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "published": "2026-09-21T03:59:28Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09e14114c7fb2fdb2b594e789f10fee0",
+      "title": "tanteki — 業務のための文書をもっと端的に",
+      "link": "https://iwasa-kosui.github.io/tanteki/",
+      "summary": "日本語の業務・技術文書のための Skill 業務のための文書を もっと端的に PRD、ADR、Design Doc、Runbook。 文書の種類ごとに、書くべき情報と書くべきではない情報が違います。 tanteki はその文書が本質的に述べたいことを見定めて、必要な情報だけを記述します。 ファイル取...",
+      "published": "2026-09-21T23:10:19Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d677756244cd45c9a625e2bd395a19",
+      "title": "C言語のコードをRustの中に書けるライブラリを作った",
+      "link": "https://zenn.dev/tanakh/articles/c-code-in-rust",
+      "summary": "C言語のコードをRustの中に書けるようにするライブラリ cinrs を作りました。 こんな風にCのコードをRustの中に書いて、Rustから呼び出したりできます。 use cinrs::c99; c99! { int fact(int n) { return n == 0 ? 1 : n * fa...",
+      "published": "2026-09-22T03:30:07Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a45d2df5030ca2d49c9187eb61d88981",
+      "title": "【やじうまミニレビュー】 口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html",
+      "summary": "",
+      "published": "2026-09-21T21:35:59Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6809f7bb71447d1740b1f29dc8d9142",
+      "title": "「バグを前工程で検出すると被害が小さくて済む」とはどういうことか - 覚書",
+      "link": "https://satoru-takeuchi.hatenablog.com/entry/2026/09/20/231104",
+      "summary": "ソフトウェア開発では、バグを前工程で検出すると被害が小さくて済むとよく言われます。様々な書籍やブログが同じことを言っています。一度経験してみればこれは当たり前のことなのですが、そうでない場合にそのようなことを見聞きしても「へえ、そんなものか」で終わってしまいます。そこで本記事は、ソフトウェアの運.....",
+      "published": "2026-09-21T06:40:33Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d081ce6a8bd73464175aeeed7e9ccd7",
+      "title": "Grokbot Icon · ミニマルなボットアイコン",
+      "link": "https://grokbot-icon-studio.serio-ai.chatgpt.site/ja",
+      "summary": "コピーしたプロンプトを画像生成ツールに貼り付けてください。 ChatGPTで元の画像を添付して送信してください。ほかのサービスではコピーボタンをご利用ください。 どちらのプロンプトも韓国語の原文を使用します。",
+      "published": "2026-09-21T09:20:01Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "486dc1c1e51e83d98a5b4ff785e9befb",
+      "title": "Webブラウザーの不具合で「Salesforce」が操作不能に、「Chrome 153」「Edge 153」で発生／他の「Chromium」系ブラウザーでも発生のおそれ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2142520.html",
+      "summary": "",
+      "published": "2026-09-21T08:43:43Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bc742a16cb9008c91bd8f7a1f8f95d3",
+      "title": "OpenAI、10億人以上のChatGPTユーザーのためのオンラインストレージの苦労話を披露",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2140809.html",
+      "summary": "",
+      "published": "2026-09-21T03:49:12Z",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5378a0e598c618e56dab8f3d3f3d000",
+      "title": "Claude Codeのメモリーを公式ドキュメントと実測で整理して、プロジェクトの記憶を初期読み込みさせる仕組みを構築してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-memory-at-import-project-index/",
+      "summary": "Claude Codeが起動時に読み込む「記憶」の仕組みを、公式ドキュメントと実測から整理しました。CLAUDE.md・@取り込み・自動メモリの3つの経路と、特に@取り込みの実際の挙動、そして大きくなったプロジェクトの記憶を効率的に読ませる設計パターンを紹介します。",
+      "published": "Tue, 22 Sep 2026 06:39:51 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba8dda9a75843f06cd2d9b19c9a7027c",
+      "title": "CodeCommit で Renovate を動かして依存関係の更新 PR を自動作成してみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-run-renovate-on-codecommit-to-auto-create-dependency-update-pr/",
+      "summary": "# 導入文 GitHub の Dependabot のように、CodeCommit でも依存関係の自動更新を実現できます。Renovate をセルフホスト実行し、CodeBuild で動かすところまでを試してみました。",
+      "published": "Tue, 22 Sep 2026 06:18:01 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e069c99f69a84f78810cdb9612c3375a",
+      "title": "Amazon Quick のデータ損失防止 (DLP) 機能を使ってみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-dlp-purview/",
+      "summary": "Microsoft Purview 導入さえクリアできれば、とても良い機能だと思いました。",
+      "published": "Tue, 22 Sep 2026 06:13:34 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6735a429cdea691fbf356478c89d8a27",
+      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
+      "summary": "AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。",
+      "published": "Tue, 22 Sep 2026 02:25:17 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddd85818c075503f0a81c87fdb076017",
+      "title": "Claude Codeのコミット・プルリクエストの帰属表示(attribution)を非表示にしてみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-attribution-setting/",
+      "summary": "Claude Codeがコミットやプルリクエストに自動で付与する帰属表示。これをコントロールする`attribution`設定について、3つのサブキーの役割から実際の設定方法まで詳しく解説します！",
+      "published": "Tue, 22 Sep 2026 02:20:49 GMT",
+      "fetched_at": "2026-09-22T07:06:04.740856+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-22T00:26:37.441512+00:00"
+  "updated_at": "2026-09-22T07:06:04.740856+00:00"
 }

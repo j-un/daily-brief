@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f3df5df8c355fe2b2175a2ed8f21c1fb",
-      "title": "なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/package_registry_history",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜ悪性パッケージは届いてしまうのか、パッケージレジストリの対策の歴史から考える",
-      "published": "21 Sep 2026 05:55 +0000",
-      "fetched_at": "2026-09-21T09:27:28.461481+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "2e0b4f16fb485b644bca8653f48de04d",
       "title": "Local LLMを部署内に提供！ Local LLM Model as a Serviceとその取り組みについて - NTT docomo Business Engineers' Blog",
       "link": "https://engineers.ntt.com/entry/202607-local-llm-maas/entry",
@@ -759,7 +749,317 @@
       "fetched_at": "2026-09-22T12:58:10.032978+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "23e9c366edfe97a9e055c68550600299",
+      "title": "Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "Article URL: https://www.anthropic.com/claude-opus-5-5 Comments URL: https://news.ycombinator.com/item?id=49803892 Points: 333 # Comments: 401",
+      "published": "Tue, 22 Sep 2026 16:29:05 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a69f658d4ece2c6bbf7da6f9177c33e",
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "link": "https://mouse.dev/blog/muse-runtime-export/",
+      "summary": "Article URL: https://mouse.dev/blog/muse-runtime-export/ Comments URL: https://news.ycombinator.com/item?id=49802871 Points: 194 # Comments: 106",
+      "published": "Tue, 22 Sep 2026 15:25:12 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f667bfc54afcd67d6240b0f96bebb433",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "Article URL: https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/ Comments URL: https://news.ycombinator.com/item?id=49802161 Points:...",
+      "published": "Tue, 22 Sep 2026 14:42:59 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bec6e6add5f24b01bebfc63118bcf57",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-user...",
+      "published": "Tue, 22 Sep 2026 14:30:12 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa88f1be599da88cc8206c1564c71d11",
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "link": "https://droprun.sh/",
+      "summary": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency me...",
+      "published": "Tue, 22 Sep 2026 13:52:47 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "661f87df20b90e57df180b50a41942d5",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "Article URL: https://www.cryptocellar.org/bgac/the-mvueh-break.html Comments URL: https://news.ycombinator.com/item?id=49801324 Points: 353 # Comments...",
+      "published": "Tue, 22 Sep 2026 13:52:15 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e39856678b728e5118be4348be6b24bb",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "link": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "summary": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/ Comments URL: https://news.ycombinator.com/item?id=49799965 Poin...",
+      "published": "Tue, 22 Sep 2026 12:11:09 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "001003f21959f64f9a183292b0074342",
+      "title": "大量注文が来てた古本屋(Amazon)だけど質問ある？",
+      "link": "https://anond.hatelabo.jp/20260922210618",
+      "summary": "ないだろうからデータだけ置いとく。ちな副業。 全体出品数2000で日売上が5点ぐらいだから大量といえば大量。お前ら安いのしか買わないし。 全体像 対象: レポート11ファイル（2026/04/13-09/14）、注文1,xxx件・商品売上 3,xxx,xxx円 該当疑い: 49件 / 商品売上 13...",
+      "published": "2026-09-22T12:14:40Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d617c1869a90500eb6f55dd118c0cd9d",
+      "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
+      "link": "https://gigazine.net/news/20260922-open-battery-information/",
+      "summary": "Open Battery Information(OBI)はバッテリー管理システム(BMS)によってロックされたリチウムイオンバッテリーの診断と修理を支援するために設計されたオープンソースプロジェクトです。 Open Battery Information https://openbatteryin...",
+      "published": "2026-09-22T11:06:19Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73eba3ee2d18a5ff749e66706118a705",
+      "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/199973",
+      "summary": "「考えることが多すぎる。いったん状況をスッキリさせたい」 チェスや将棋で、駒の攻防が複雑に絡み合ったとき、そんな気持ちになったことはないでしょうか。 では、強いAIは、そのような局面をどう扱っているのでしょう。 オーストリアの複雑系科学ハブ（CSH）とイタリアのパルマ大学の研究チームが、人間とAIの...",
+      "published": "2026-09-22T13:17:12Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cfa098cbee12d252b0a8f32a5393bf5",
+      "title": "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
+      "link": "https://gigazine.net/news/20260922-openai-storage-habitat/",
+      "summary": "OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブ...",
+      "published": "2026-09-22T12:59:39Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a17a0e145ad226bba48cc45257da7ca",
+      "title": "BeRealの次は韓国発のVlogアプリ「setlog」がブームに？ Z世代の7割超が使う理由と「タイムリミットに追われない」クローズドな魅力",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news004.html",
+      "summary": "BeRealの次は韓国発のVlogアプリ「setlog」がブームに？ Z世代の7割超が使う理由と「タイムリミットに追われない」クローズドな魅力（1/3 ページ） 「Z世代に人気のアプリといえば、『BeReal』でしょ」──確かにその通りです。しかし、Z世代が早くも次のアプリへ視線を移していることをご...",
+      "published": "2026-09-22T04:41:10Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "499dc4564ff76a7935699b9c81437d5c",
+      "title": "dbtでレセプトデータをモデリングしてみたら、定石が全然通用しなかった話 - ホワイトヘルスケア - テックブログ",
+      "link": "https://techblog.whitehealthcare.co.jp/entry/2025/06/24/144726",
+      "summary": "はじめに この記事は開発部データチームの石田が医療データ（レセプト）の標準化をdbtで進める中で体験した、理想と現実のギャップを記録したものです 医療系データエンジニアの方や、複雑なドメインでdbtを使ったデータ基盤構築の経験がある方を想定しています レセプト（診療報酬明細書）データの特殊性について...",
+      "published": "2026-09-22T13:04:35Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc4fe4d59f8fa3ecdbd93b405608e9eb",
+      "title": "単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果",
+      "link": "https://gigazine.net/news/20260922-cheaper-ai-coding-cost/",
+      "summary": "プログラムの作成や修正をAIに任せるとき、単価の安いAIモデルを選べば費用も抑えられると思いがちです。ところが、AIの動作監視や評価を手がけるFiddlerの研究チームが複数のAIモデルに不具合を修正させて比べたところ、単価が安くても、正しく修正するための費用はかえって高くなる場合があることが分かり...",
+      "published": "2026-09-22T02:59:27Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d97bc6595d73f5cd810df532dc1fb778",
+      "title": "新型「Mac mini」「Mac Studio」徹底レビュー！ ローカルAIはついに“実用域”へ エージェントAIに事務仕事を任せて分かった驚異の進化",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news024.html",
+      "summary": "新型「Mac mini」「Mac Studio」徹底レビュー！ ローカルAIはついに“実用域”へ エージェントAIに事務仕事を任せて分かった驚異の進化：本田雅一のクロスオーバーデジタル（1/4 ページ） 発表から約1カ月――9月22日、ついに新型の「Mac mini」「Mac Studio」が発売さ...",
+      "published": "2026-09-21T21:48:50Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b3f0346b1a4773166cd28826eb4dfc9",
+      "title": "Stagehand",
+      "link": "https://www.browserbase.com/stagehand",
+      "summary": "Browsers Real browsers for your agent to use the web, without the headaches",
+      "published": "2025-01-25T08:53:38Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f08142cb1bd6c5832588e10e4c74afbc",
+      "title": "Python Workers are now generally available",
+      "link": "https://blog.cloudflare.com/python-workers-ga/",
+      "summary": "September 21, 2026Python Workers are now generally available We introduced Python Workers two years ago, providing a way to run Python applications in...",
+      "published": "2026-09-21T14:42:20Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab03349589c0a6c02036333aa2e5158b",
+      "title": "グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから",
+      "link": "https://www.watch.impress.co.jp/docs/news/2142583.html",
+      "summary": "",
+      "published": "2026-09-22T02:56:41Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a77ccba5dfbbf1876f541e3fa612ad0",
+      "title": "Grokbot Icon · 미니멀 봇 아이콘",
+      "link": "https://grokbot-icon-studio.serio-ai.chatgpt.site/",
+      "summary": "복사한 프롬프트를 이미지 생성 도구에 붙여넣으세요. ChatGPT에서 원본 이미지를 첨부한 뒤 전송하세요. 다른 서비스에서는 복사 버튼을 이용하세요.",
+      "published": "2026-09-21T10:08:12Z",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd3f7c0b511db93046835522f30e4b99",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 dre…",
+      "link": "https://github.com/dream-num/univer",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 dream-num / univer ⭐ 14,925 (+202) 🗒 TypeScript The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Ca...",
+      "published": "22 Sep 2026 17:18 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d78b7dbd8c1c793f5af6d16f7dc5003a",
+      "title": "Treg",
+      "link": "https://discord.gg/6mQYYfFMAn",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 superdesigndev / treg ⭐ 1,980 (+197) 🗒 Python OpenRouter for agent tools. Join community here:  https://github.com/su...",
+      "published": "22 Sep 2026 16:17 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b897d36ce84b46593503024ef3e9d83",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 age…",
+      "link": "https://github.com/agent-substrate/substrate",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 agent-substrate / substrate ⭐ 2,698 (+498) 🗒 Go Agent Substrate: the core system",
+      "published": "22 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f92cfeb0162333c6d2060b69a907b860",
+      "title": "Canary / Linear / Blue-Green に対応した Amazon ECS コンソールの「デプロイ」タブを試してみた",
+      "link": "https://dev.classmethod.jp/articles/ecs-console-deployment-tab-canary-linear-blue-green/",
+      "summary": "Fargate の Canary デプロイで、10% / 90% のトラフィックシフト、イメージ取得失敗時のロールバック、Amazon Q による原因調査を試しました。段階的な ECS デプロイを運用する際に、「デプロイ」タブをどう活用できるかを紹介します。",
+      "published": "Tue, 22 Sep 2026 17:39:13 GMT",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "52e2aad96cd329560a7e2e8bd457d568",
+      "title": "[アップデート] Bedrock Managed Knowledge BaseのユーザーマネージドセットアップでConfluenceをつないでみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-managed-kb-confluence-user-managed-setup-3lo/",
+      "summary": "Amazon Bedrock Managed Knowledge BaseのConfluence向けユーザーマネージドセットアップ（3LO）ができるようになりました！なにが便利になったのでしょうか・・・！！ 実際に試してみました！",
+      "published": "Tue, 22 Sep 2026 16:07:20 GMT",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "42cfea23cd19d06c941193abb41f6ccb",
+      "title": "Grok 4.6 on Amazon Bedrock で Guardrails を試してみた",
+      "link": "https://dev.classmethod.jp/articles/grok-4-6-bedrock-guardrails/",
+      "summary": "Amazon Bedrock の Grok 4.6 に Guardrails を適用し、PII の EMAIL ブロックが動くかを確かめました。入力側・出力側ともに `guardrail_intervened` でブロックされることを確認できました。",
+      "published": "Tue, 22 Sep 2026 14:30:34 GMT",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bac3beb5c2cbf0aea3192d6761a33376",
+      "title": "[Welcome to AWS 企画] DuckDB v2.0 alpha のクライアント/サーバー構成（quack ＋ CONNECT）で Amazon S3 Tables を試してみた",
+      "link": "https://dev.classmethod.jp/articles/20260922-duckdb-v20-alpha-quack/",
+      "summary": "DuckDB v2.0 のプレビューが公開され、ほぼ同じ時期に開発元の DuckLabs が AWS に加わることが発表されました。本日は、v2.0-alpha を導入して、新しい のクライアント/サーバー構成（quack ＋ CONNECT）と Amazon S3 Tables の組み合わせを試し...",
+      "published": "Tue, 22 Sep 2026 13:50:59 GMT",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fced400487fc6826901120f3de0897b",
+      "title": "Amazon MWAA ServerlessのPythonOperatorで複数のSSMパラメーターを1タスクで取得してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-mwaa-serverless-pythonoperator-ssm-multi-parameters/",
+      "summary": "MWAA ServerlessのPythonOperatorでSSMの複数パラメーターを一括取得し、辞書XComのブラケットアクセスで下流タスクへ渡す構成を確認しました。タスク分割は不要になりますが、VPCエンドポイントの固定費を含めるとLambda回避策やDynamoDB構成のほうが安いケースもあ...",
+      "published": "Tue, 22 Sep 2026 13:06:57 GMT",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fbde693c4a4f00d650adc0ee073ba27",
+      "title": "Lunacy Audio launches new AI-powered plugin sharing platform, NOVA",
+      "link": "https://musictech.com/news/industry/lunacy-audio-nova/",
+      "summary": "The browser-based platform is totally free, with the option of upgrading to different premium tiers to access more tools. The post Lunacy Audio launch...",
+      "published": "Tue, 22 Sep 2026 17:03:00 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "05ef0b577838a3aeced664465f4d1904",
+      "title": "LEWITT forays into uncharted territory with its first pair of pro-grade headphones",
+      "link": "https://musictech.com/news/gear/lewitt-lw6-wireless-studio-headphones/",
+      "summary": "The Austrian audio company has, until now, mostly focused on microphones, interfaces and software. The post LEWITT forays into uncharted territory wit...",
+      "published": "Tue, 22 Sep 2026 13:00:36 +0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "1865e300f1cae9304e7ec828645470ae",
+      "title": "David Murray is History",
+      "link": "https://daily.bandcamp.com/lists/david-murray-album-guide",
+      "summary": "The saxophonist is a central figure in the story of jazz in the ‘80s and beyond. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 22 Sep 2026 13:46:24 -0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "688e4623df1497c471c08bab3cfe4fd5",
+      "title": "The Drin, “I Lost My Way For Centuries”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/the-drin-i-lost-my-way-for-centuries-review",
+      "summary": "The Ohio punks master gothic Americana, dub, art rock, and more on their most ambitious LP to date. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 22 Sep 2026 13:46:20 -0000",
+      "fetched_at": "2026-09-22T17:50:22.204323+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-22T12:58:10.032978+00:00"
+  "updated_at": "2026-09-22T17:50:22.204323+00:00"
 }

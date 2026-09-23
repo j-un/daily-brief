@@ -14,23 +14,7 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
-CATEGORY_ORDER = [
-    "tech",
-    "business",
-    "dev_tools",
-    "music_culture",
-    "book_science",
-    "other",
-]
-
-CATEGORY_LABELS = {
-    "tech": "🤖 Tech全般",
-    "business": "💼 ビジネス / スタートアップ",
-    "dev_tools": "🔧 開発・ツール",
-    "music_culture": "🎵 音楽 / 機材 / カルチャー",
-    "book_science": "📚 読書・サイエンス",
-    "other": "🗂 その他",
-}
+from brief_config import CATEGORIES
 
 JST = timezone(timedelta(hours=9))
 
@@ -131,18 +115,17 @@ def main() -> None:
     starred_ids = {p["entry_id"] for p in starred}
 
     # カテゴリ別セクション（starred を除外）
-    by_category: dict[str, list] = {cat: [] for cat in CATEGORY_ORDER}
+    by_category: dict[str, list] = {key: [] for key, _label in CATEGORIES}
     for p in non_starred:
         cat = p.get("category", "other")
         if cat not in by_category:
             cat = "other"
         by_category[cat].append(p)
 
-    for cat in CATEGORY_ORDER:
+    for cat, label in CATEGORIES:
         items = by_category[cat]
         if not items:
             continue
-        label = CATEGORY_LABELS[cat]
         lines.append(f"## {label}")
         lines.append("")
         for p in items:

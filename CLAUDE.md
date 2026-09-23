@@ -9,8 +9,9 @@ RSSフィードから収集した記事をキュレーションし、日次 Mark
 
 ## 設定ファイル
 
-フィードリスト・関心テーマ・除外キーワードは `config.yaml` で管理する。
+フィードリスト、関心の文章（`interests.rubric`）、除外キーワードは `config.yaml` で管理する。
 フィードの追加・削除やキーワード変更を求められた場合は `config.yaml` を更新すること。
+選定は `interests.rubric` に出力契約を足してプロンプトにする。要約プロンプトは関心の文章を見ない。
 
 > **参照**: `config.yaml` — feeds / interests / selection セクション
 
@@ -36,21 +37,19 @@ render_brief.py → docs/brief-YYYY-MM-DD.md # Markdown 描画（LLM 不使用�
 
 モデル上書き: `DAILY_BRIEF_SELECT_MODEL` / `DAILY_BRIEF_SUMMARIZE_MODEL`
 
-選定・要約のプロンプトとルールは各スクリプト内に記述されている。
-
 ---
 
 ## カテゴリ enum
 
-記事の分類カテゴリは以下の固定リストを使用する（`select_articles.py` と `render_brief.py` で共有）。
+記事の分類カテゴリは以下の固定リストを使用する（`scripts/brief_config.py` の `CATEGORIES`）。
 
 | enum 値         | 見出し                       |
 | --------------- | ---------------------------- |
-| `tech`          | 🤖 Tech                      |
+| `tech`          | 🤖 Tech全般                  |
 | `business`      | 💼 ビジネス / スタートアップ |
 | `dev_tools`     | 🔧 開発・ツール              |
 | `music_culture` | 🎵 音楽 / 機材 / カルチャー  |
 | `book_science`  | 📚 読書・サイエンス          |
 | `other`         | 🗂 その他                    |
 
-新カテゴリを追加する場合は `select_articles.py:CATEGORY_ENUM` と `render_brief.py:CATEGORY_ORDER/CATEGORY_LABELS` を更新すること。
+新カテゴリを追加する場合は `scripts/brief_config.py` の `CATEGORIES` だけを更新すること。

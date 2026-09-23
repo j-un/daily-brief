@@ -20,50 +20,13 @@ import yaml
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import llm_cli
-
-CATEGORY_ENUM = [
-    "tech",
-    "business",
-    "dev_tools",
-    "music_culture",
-    "book_science",
-    "other",
-]
-
-SYSTEM_PROMPT = """\
-あなたは技術・音楽・ビジネス分野に精通したキュレーターです。
-記事リストを受け取り、ユーザーの関心テーマに照らして関連度の高い記事を選定してください。
-
-## ユーザーの関心テーマ
-- "SREやDevOpsのノウハウ"
-- "開発者ツール・DXの改善"
-- "AIを活用したシステム開発やシステム運用"
-- "テック企業の戦略"
-- "クラウドインフラとアーキテクチャ設計"
-- "デスク周り・物理的な作業環境"
-- "電子音楽・シンセサイザー・音楽制作ツール"
-- "読書・書評・知的好奇心を刺激する本"
-- "宇宙・サイエンス"
-
-## 選定ルール
-- title と summary のみで関連度を判断する
-- 関連度が低い記事は除外する（通常は全体の 20〜40% 程度を選定）
-- 特に注目すべき記事（インパクトが大きい・トレンドを捉えている）を最大 5件、starred=true にする
-
-## カテゴリ（必ず以下のいずれかを選ぶ）
-- tech: テック全般
-- business: テック企業戦略・スタートアップ・市場動向・資金調達
-- dev_tools: 開発ツール・DX・SRE・DevOps・クラウドインフラ・AWS・セキュリティ
-- music_culture: 音楽・シンセ・音楽制作・機材・カルチャー
-- book_science: 読書・書評・宇宙・サイエンス・研究
-- other: 上記いずれにも当てはまらないもの
-
-## 出力形式
-以下のJSON形式のみで出力してください。コードブロックや説明文は不要です。
-id は記事リストの id フィールドの値をそのまま使ってください（整数）。
-
-{"picked":[{"id":0,"category":"tech","starred":false},...]}
-"""
+from brief_config import (
+    CATEGORY_KEYS,
+    ConfigError,
+    clear_extra_stars,
+    parse_brief_config,
+    selection_prompt,
+)
 
 
 def extract_json(text: str) -> dict:
@@ -116,45 +79,16 @@ def main() -> None:
     parser.add_argument("--articles", required=True, help="articles.json のパス")
     parser.add_argument("--output", required=True, help="selected.json の出力先パス")
     parser.add_argument("--usage-file", help="トークン使用量・コストの出力先 JSON")
-    parser.add_argument(
-        "--config", help="config.yaml のパス（省略時はドメイン上限なし）"
-    )
+    parser.add_argument("--config", required=True, help="config.yaml のパス")
     args = parser.parse_args()
 
-    max_per_domain = None
-    max_per_domain_exempt: set[str] = set()
-    if args.config:
-        with open(args.config, encoding="utf-8") as f:
-            config = yaml.safe_load(f) or {}
-        selection = config.get("selection") or {}
-        max_per_domain = selection.get("max_per_domain")
-        if max_per_domain is not None and (
-            isinstance(max_per_domain, bool)
-            or not isinstance(max_per_domain, int)
-            or max_per_domain < 1
-        ):
-            print(
-                f"ERROR: selection.max_per_domain must be a positive int, got {max_per_domain!r}",
-                file=sys.stderr,
-            )
-            sys.exit(1)
-
-        exempt_raw = selection.get("max_per_domain_exempt")
-        if exempt_raw is not None and (
-            not isinstance(exempt_raw, list)
-            or not all(isinstance(d, str) for d in exempt_raw)
-        ):
-            print(
-                f"ERROR: selection.max_per_domain_exempt must be a list of strings, got {exempt_raw!r}",
-                file=sys.stderr,
-            )
-            sys.exit(1)
-        for d in exempt_raw or []:
-            d = d.strip().lower()
-            if d.startswith("www."):
-                d = d[4:]
-            if d:
-                max_per_domain_exempt.add(d)
+    with open(args.config, encoding="utf-8") as f:
+        raw = yaml.safe_load(f)
+    try:
+        config = parse_brief_config(raw)
+    except ConfigError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        sys.exit(1)
 
     with open(args.articles, encoding="utf-8") as f:
         data = json.load(f)
@@ -195,11 +129,7 @@ def main() -> None:
     id_to_eid = {i: a["entry_id"] for i, a in enumerate(articles)}
     id_to_link = {i: a.get("link", "") for i, a in enumerate(articles)}
 
-    prompt = (
-        SYSTEM_PROMPT
-        + f"\n## 記事リスト（{len(articles)}件）\n\n"
-        + json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
-    )
+    prompt = selection_prompt(config.rubric, payload)
 
     provider = llm_cli.resolve_provider()
     model = llm_cli.resolve_model("select", provider)
@@ -237,7 +167,7 @@ def main() -> None:
             continue
         seen_ids.add(idx)
         cat = p.get("category")
-        if cat not in CATEGORY_ENUM:
+        if cat not in CATEGORY_KEYS:
             errors.append(f"invalid category '{cat}' for id={idx}")
             continue
         candidates.append(
@@ -254,10 +184,13 @@ def main() -> None:
         sys.exit(1)
 
     picked_out, dropped_by_domain = apply_domain_cap(
-        candidates, max_per_domain, frozenset(max_per_domain_exempt)
+        candidates,
+        config.domain_cap.max_per_domain,
+        config.domain_cap.exempt,
     )
     for c in picked_out:
         del c["link"]
+    picked_out = clear_extra_stars(picked_out)
 
     if dropped_by_domain:
         total_dropped = sum(dropped_by_domain.values())
@@ -265,7 +198,7 @@ def main() -> None:
             f"{domain}: {n}" for domain, n in sorted(dropped_by_domain.items())
         )
         print(
-            f"Dropped {total_dropped} articles by domain cap (max_per_domain={max_per_domain}): {breakdown}",
+            f"Dropped {total_dropped} articles by domain cap (max_per_domain={config.domain_cap.max_per_domain}): {breakdown}",
             file=sys.stderr,
         )
 

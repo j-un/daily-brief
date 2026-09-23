@@ -99,7 +99,257 @@
       "fetched_at": "2026-09-22T23:55:30.833696+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "f452fb5faa0845bb4382fd4f80464a4e",
+      "title": "ユーザースペースで手軽に作成できるLinux向けsandbox環境構築ツール。g…",
+      "link": "https://github.com/wrr/drop",
+      "summary": "ユーザースペースで手軽に作成できるLinux向けsandbox環境構築ツール。gVisorベース。ホスト側のファイルシステムを引き継ぎつつrootなしの環境を作れると。ちょっとしたアプリのテストやコーディングエージェントの稼働に",
+      "published": "23 Sep 2026 01:54 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce7ed0292332a013a2eb05ef21ff8ae5",
+      "title": "Secret Weblog • Coding with a Sigh",
+      "link": "https://blog.startifact.com/posts/sigh-coding/",
+      "summary": "バイブコーディングでも全把握(?)コーディングでもなく、その中間、AIにコードは書かせつつもほどほどに後追いでコードを読み理解を追いつかせながら進めるCoding with a Sighのススメ。",
+      "published": "23 Sep 2026 01:26 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "798a0c1e9c5081153ac3806e95323fca",
+      "title": "テキストを範囲選択すると右クリックを押さなくてもCopy/Cut/Pasteなど…",
+      "link": "https://github.com/ganeshmshetty/openclip",
+      "summary": "テキストを範囲選択すると右クリックを押さなくてもCopy/Cut/PasteなどがポップアップされるmacOS向けアプリ。スマートフォン同様の体験になるの良さそう。AIに投げるボタンもあるしカスタマイズも可。brew install --cask openclip",
+      "published": "23 Sep 2026 00:47 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c19f546cc7bd3b42a2df6e1379af8ab5",
+      "title": "New low-cost burstable Amazon EC2 T8i instances are generally available | AWS News Blog",
+      "link": "https://aws.amazon.com/jp/blogs/aws/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 New low-cost burstable Amazon EC2 T8i instances are generally available | Amazon Web Services",
+      "published": "23 Sep 2026 01:55 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "629776ac3834ec9e1dc63b3eae229169",
+      "title": "Saving another 100TB of RAM with math (and Rust) | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Saving another 100TB of RAM with math (and Rust)",
+      "published": "22 Sep 2026 23:55 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf9637d9b23817e3752f5bf8f87bfcff",
+      "title": "An update on how we confirm your age group on Discord",
+      "link": "https://discord.com/blog/safer-for-teens-same-discord-for-adults",
+      "summary": "Article URL: https://discord.com/blog/safer-for-teens-same-discord-for-adults Comments URL: https://news.ycombinator.com/item?id=49805677 Points: 107 ...",
+      "published": "Tue, 22 Sep 2026 18:10:31 +0000",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7dd67b88bdd635a48f383a371477c2ef",
+      "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/",
+      "summary": "AWS announces the general availability of Amazon CloudWatch Omni, an evolution of Amazon CloudWatch. Omni is an AI-powered observability experience or...",
+      "published": "Wed, 23 Sep 2026 00:06:00 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b12818762384325e8ffa98616a17339",
+      "title": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/",
+      "summary": "Amazon EMR introduces Long Term Support (LTS) releases, starting with emr-spark-8.1.0 and Apache Spark 4.1. With LTS, designated versions of the AWS r...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5573ad70c0084eabfa2baee5fe1982e1",
+      "title": "Amazon EMR 7.14 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/",
+      "summary": "Amazon EMR 7.14 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless, along with version upgrades...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "494046d374ac0add67fe70f7905238e6",
+      "title": "AWS Transform for .NET now generates unit tests for modernized code",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests",
+      "summary": "Today, AWS announced that AWS Transform for .NET can automatically generate unit tests for the code it modernizes. When enabled, AWS Transform generat...",
+      "published": "Thu, 10 Sep 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "740650c2da85a1415a6cb8ac54aada9f",
+      "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202609222/",
+      "summary": "Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you wor...",
+      "published": "2026-09-22T13:23:51Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6735a429cdea691fbf356478c89d8a27",
+      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
+      "summary": "AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AW...",
+      "published": "2026-09-22T05:17:50Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8c5933a7b803a9aa368a12bc3da2e39",
+      "title": "AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/8512839dfee0dcb9d6ccf1bf2405d15470412d8e",
+      "summary": "トランプ米大統領は22日にあった国連総会での演説で、人工知能（AI、Artificial Intelligence）を「スーパーインテリジェンス（Super Intelligence）と呼ぶ」と述べ、今後、米国の公式文書では新たな呼称を使うと宣言した。トランプ氏はメキシコ湾やオンタリオ湖といった地名...",
+      "published": "2026-09-22T23:38:09Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7de9c14cf2a58792ed19bcecc11002c2",
+      "title": "GitHub - HarnessRouter/harnessrouter: HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, ca",
+      "link": "https://github.com/HarnessRouter/harnessrouter",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-22T16:32:10Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad3d8e3c7c950a89529b35ffdbb7283b",
+      "title": "Kamipo on Rails 2026",
+      "link": "https://speakerdeck.com/kamipo/kamipo-on-rails-2026",
+      "summary": "[Rails World 2023 - Day 1 Closing Keynote] - The Magic of Rails",
+      "published": "2026-09-22T21:43:37Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "62fbd0984082d9c39e1c7fb76a80254f",
+      "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+      "summary": "米OpenAIは9月22日（現地時間）、新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。9月上旬に公開した最上位モデル「GPT-6 Astra」と同様の手法で訓練した、より高速で安価なモデルという位置付けで、API料金はGPT-5.6世代の同名モデルのキャンペーン価格から50％引...",
+      "published": "2026-09-23T00:38:40Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e762e8ddb055a0ca71e7c29100630070",
+      "title": "Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+      "summary": "米Anthropicは9月22日（現地時間）、「Claude Opus 5.5」を発表した。新シリーズ「Claude 5.5」の最初のモデルで、多くの作業で上位モデル「Claude Fable 5.1」と同水準の性能を持ちながら、一般的なワークロードでの利用コストは前世代の「Claude Opus ...",
+      "published": "2026-09-22T22:06:52Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "131693dd2994ecf2334e5f2a7307f93d",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code / claude.dev",
+      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "summary": "Opus 5.5 works well with the way you already use Claude. A few things behave differently, though: it works for longer on its own, it tells you plainly...",
+      "published": "2026-09-22T20:45:05Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c35dff8b5e488ec90b0c29238bf40043",
+      "title": "“障がい者”専用スペースの「悪質な“不正駐車”」を完全ブロック！ イオングループ初の「すごいシステム」導入！ 良心やモラルに頼らない「物理的に排除する」仕組みとは！",
+      "link": "https://kuruma-news.jp/post/1113814",
+      "summary": "2026年9月15日から「イオンモール上尾」で、障がい者等用駐車スペース適正利用システムが導入されました。この導入は、全国に展開されるイオングループにおいても初の事例だと言います。 【本記事に関する補足事項】 ・イオンモール上尾の優先駐車場（障がい者等用・思いやり駐車場）は全20箇所あり、今回システ...",
+      "published": "2026-09-17T05:50:27Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "90436cce84d51936dfd929e97d64874c",
+      "title": "The AI Tipping Point",
+      "link": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/",
+      "summary": "Coxon, a 27-year-old British researcher, hit send on X with no expectations. Instead, he became the unlikely catalyst of a chain reaction that changed...",
+      "published": "2026-09-22T15:33:25Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2d24087cd25938b1dd53976c628f743",
+      "title": "【追加記事】シストレのススメ 3.5.投資指標の探索要領 - これからの「お金」の話をしよう",
+      "link": "https://we.love-profit.com/entry/2018/04/01/152750",
+      "summary": "シストレのススメ第4章「期待成長率の阻害要因」に進む前に、いったん追加コラムとして「投資指標の探索要領」を設けます。 ここで説明する内容は、本来はシストレのススメ第7章「アルファの根拠」、第8章「アクティブ運用と投資指標」で触れる内容が主となります。 また、投資指標を探索する上で重要なポイントは公開...",
+      "published": "2018-04-01T12:25:12Z",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f504b823e0178795ac924befb39c72c3",
+      "title": "定型作業の自動化スクリプトを選ぶタスクを Jev に任せたら Codex の 52% の時間でできた話",
+      "link": "https://dev.classmethod.jp/articles/jev-codex-script-selection-time-reduction/",
+      "summary": "Codex が行う定型的な判断の一部を Jev に任せる構成を検証しました。検証用環境では、回答の正確さを保ちながら、所要時間を 51.8%、コストを 36.0% にできました。",
+      "published": "Wed, 23 Sep 2026 02:20:27 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "99fcb56e783b1733c8ee6ad6fb495dda",
+      "title": "[アップデート] Amazon API Gateway の REST API にポスト量子暗号を含む TLS セキュリティポリシーが2つ追加されました",
+      "link": "https://dev.classmethod.jp/articles/api-gateway-tls-security-rest-apis-ext2-fips/",
+      "summary": "特定のコンプライアンス対応が必要な時に役に立つ",
+      "published": "Wed, 23 Sep 2026 01:25:26 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "67edc214145b80b97bc8107b8dc08cdf",
+      "title": "Claude Code v2.1.280 の主要アップデート - Fable 5.1 と GPT-6 Astra 超えの最新モデル Opus 5.5 の登場",
+      "link": "https://dev.classmethod.jp/articles/20260923-cc-updates-v2-1-280/",
+      "summary": "Claude Code v2.1.280がリリースされました。Opus 5.5が既定モデルになり、料金が20%削減される一方、既定モデルの変更やキーバインドの動作変更など、複数の破壊的変更が含まれています。実際に試してみました。",
+      "published": "Wed, 23 Sep 2026 00:20:09 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "784667652d06377c9818350b0a37b4b5",
+      "title": "iOS 27 で safeAreaBar のエフェクトが .soft から .hard に変わっていたので検証・修正してみた",
+      "link": "https://dev.classmethod.jp/articles/xcode-27-safeareabar-soft-to-hard/",
+      "summary": "Xcode 27（iOS 27.0 SDK）でビルドすると safeAreaBar の scroll edge effect の既定が hard 相当に変わり、ボタン周りにくっきりした境界線が入る。scrollEdgeEffectStyle(.soft, for:) の指定で iOS 26 と同じな...",
+      "published": "Tue, 22 Sep 2026 23:56:25 GMT",
+      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-22T23:55:30.833696+00:00"
+  "updated_at": "2026-09-23T02:46:06.655161+00:00"
 }

@@ -349,7 +349,367 @@
       "fetched_at": "2026-09-23T02:46:06.655161+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "1cec8c6678cc34531776de9461744ac6",
+      "title": "@matsuu.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/matsuu.bsky.social/post/3mw5x2l4g3s2d",
+      "summary": "今日は嫁さんがトラでのってる東京五美術大学OBOG管弦楽団演奏会を聴きに埼玉会館にきています。良いホール。そして流石の美大、パンフの完成度高い。",
+      "published": "23 Sep 2026 04:52 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "119683c4ff9d557dfafd31e07ce188bf",
+      "title": "複数のAIコーディングエージェントを管理できるtmuxラッパー実装かな。.tmu…",
+      "link": "https://github.com/epilande/ccmux",
+      "summary": "複数のAIコーディングエージェントを管理できるtmuxラッパー実装かな。.tmux.confの設定をそのまま有効活用できるところが魅力か。",
+      "published": "23 Sep 2026 04:20 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95790779614e356bf6aea845177a969c",
+      "title": "47日証明書の前に、証明書の期限とドメイン再検証の時計を分けて設計する",
+      "link": "https://zenn.dev/pki_security/articles/certificate-lifetime-dcv-two-clocks",
+      "summary": "メモ",
+      "published": "23 Sep 2026 03:18 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82530f7b1da7ea49af4a974ab9c10d57",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://github.com/google/mantis",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub - google/mantis: A modular, stack-agnostic toolkit for AI coding agents to autonomously find, repro...",
+      "published": "23 Sep 2026 08:56 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "869ca1405441042ebb5ddcbc7f435e34",
+      "title": "Introducing Lead: TIN-compatible full-text search for CI — PlanetScale",
+      "link": "https://planetscale.com/blog/introducing-lead",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing Lead: TIN-compatible full-text search for CI — PlanetScale",
+      "published": "23 Sep 2026 06:56 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b0072df9d2158eac53de73865fd038a",
+      "title": "Introducing TIN: full-text search for Postgres — PlanetScale",
+      "link": "https://planetscale.com/blog/introducing-tin",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing TIN: full-text search for Postgres — PlanetScale",
+      "published": "23 Sep 2026 05:56 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82e8b5ccc449d5df5df2354ec8cadb72",
+      "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/javaai.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
+      "published": "23 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2c915b44ad253682d8f0c86cd150561",
+      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+      "published": "23 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c32770026c85a6170cc2941bc8772bb",
+      "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
+      "published": "20 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "014a63eb4de30fbdbde219f5f4218683",
+      "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/ Comments URL: https://news.ycombinat...",
+      "published": "Wed, 23 Sep 2026 04:00:43 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4be3c12644ee121d070d3a357cfe8a81",
+      "title": "Transit rewards",
+      "link": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "Article URL: https://waymo.com/blog/2026/09/transit-rewards/ Comments URL: https://news.ycombinator.com/item?id=49811065 Points: 129 # Comments: 130",
+      "published": "Wed, 23 Sep 2026 02:52:29 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4723b192dde03f5e4d5e7a7a1cf0754",
+      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "link": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro Comments URL: https://news.ycombinator.com/item?id=49810829 Points: 102 # Comments: 117",
+      "published": "Wed, 23 Sep 2026 02:13:52 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "574b977a8a0c1a906e90a8e937010232",
+      "title": "Native apps written in TypeScript and CSS",
+      "link": "https://github.com/geastack/examples",
+      "summary": "Article URL: https://github.com/geastack/examples Comments URL: https://news.ycombinator.com/item?id=49807021 Points: 108 # Comments: 37",
+      "published": "Tue, 22 Sep 2026 19:42:20 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c2dcadf8cec53d9b3b0848274b794d0",
+      "title": "Obscura: VPN that can't log your activity",
+      "link": "https://obscura.com/#faq-technical",
+      "summary": "Article URL: https://obscura.com/#faq-technical Comments URL: https://news.ycombinator.com/item?id=49807003 Points: 132 # Comments: 106",
+      "published": "Tue, 22 Sep 2026 19:40:28 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a259124d5f87d67cd7bea59c3fe72c35",
+      "title": "Amazon EC2 I7ie instances now available in AWS Israel region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region/",
+      "summary": "AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Israel (Tel Aviv) region. Designed for large storage I/O intensiv...",
+      "published": "Fri, 18 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "076a0d3a9577a8d65bf2f70f3f581b22",
+      "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
+      "link": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/",
+      "summary": "中間リリースで1年ぶん実地に晒してから長期サポート版へ入れる。Canonical自身も、長期サポート版の前にできるだけ多くの実環境で試すために25.10で既定にした、と説明しています。この慎重さは、あとで触れる cp の扱いにも表れています。 そしてUbuntu 26.04 LTSは標準で5年、Ub...",
+      "published": "2026-09-23T00:37:09Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22367b429dcc41b5093dc42e047a9650",
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+      "summary": "ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変...",
+      "published": "2026-09-23T02:04:25Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e8ad8b9e435e4b10999aa1a2f848e92",
+      "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
+      "summary": "JCOMは9月23日朝から、同社のシステム障害により、インターネット接続サービス「J:COM NET」が利用できない状況が起きていると公表した。障害の原因や復旧の見通しに触れていない。 Xのサポート用公式Xアカウントで、23日午前10時24分に告知した。障害の影響で、カスタマーセンターへの電話や、各...",
+      "published": "2026-09-23T04:12:36Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9c55ae63866a781e995cf925f24bf58",
+      "title": "「NEOGEO AES+」は独自チップで100％“本物”再現を目指す！ 開発スタッフが実機をプレゼン【TGS2026】 「ゼロウィング」など今後のソフト展開についての情報も",
+      "link": "https://game.watch.impress.co.jp/docs/interview/2142504.html",
+      "summary": "",
+      "published": "2026-09-23T01:32:15Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b71092c33a9e3728d9c7d0538a2703f",
+      "title": "ORMの技術選定で迷ったらPoEAAの設計パターンを思い出す",
+      "link": "https://zenn.dev/o8n/articles/644ae584a15ff0",
+      "summary": "TypeScriptのプロジェクトでORMを選定するとき、選択肢の多さに困った経験はないでしょうか。Prisma、TypeORM、Drizzle、MikroORM、Sequelize…それぞれ人気があり、どれを選んでも動くものは作れます。 しかし「なんとなく流行っているから」で選んでみて後になって「...",
+      "published": "2026-09-22T16:00:07Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23e9c366edfe97a9e055c68550600299",
+      "title": "Introducing Claude Opus 5.5",
+      "link": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "We’re introducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 4...",
+      "published": "2026-09-22T16:34:29Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ed230c90bf345067209a3887a8803bf",
+      "title": "OpenAIは「数学の成果横取り」 フィールズ賞教授が非難 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN221FZ0S6A920C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】人工知能（AI）で数学の難問を解き進める米オープンAIと数学界の摩擦が激しくなっている。フィールズ賞受賞者のマーティン・ハイラー教授は「AI企業の成果横取りは研究者の知の共有を妨げる」と同社を批判した。「数学のノーベル賞」とも呼ばれるフィールズ賞の受賞者25人は11日、...",
+      "published": "2026-09-23T00:21:29Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dbec5b8e74a5e1b903337641f480d67",
+      "title": "50代プログラミング未経験者が7年かけてAtCoderで入緑した話 - Qiita",
+      "link": "https://qiita.com/rinrion/items/b381ccf563d6d8e96ce9",
+      "summary": "こんにちは！AtCoderユーザーの rinrion です。 2026年9月19日に行われたJIJプログラミングコンテスト 2026（AtCoder Beginner Contest 476）にて、アルゴリズムレートで入緑することができました。 AtCoder歴7年4か月、コンテスト参加193回、5...",
+      "published": "2026-09-22T11:23:52Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a53bf6cb29d9b9946bba51fff45e7d6",
+      "title": "Introducing Amazon CloudWatch Omni: AI-powered observability for generative AI and agentic workloads | Amazon Web Services",
+      "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "summary": "On-prem databases weren't built for agentic AI. Amazon RDS is",
+      "published": "2026-09-22T23:45:10Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3e52dc4cadf08b072a90347f968cc5d",
+      "title": "`@ts-expect-error`を組み合わせた`vitest --typecheck`の実践例 - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/9491b785-f6c4-5fb9-748a-5494826bfdc0",
+      "summary": "Valibot は vitest --typecheck をフル活用しているライブラリで、*.test-d.ts という型テスト専用のファイルが 250 ファイル・約 16,000 行 あります。ところで Valibot は @ts-expect-error を使い、以下のようなテストをしています。...",
+      "published": "2026-09-23T03:50:21Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef9a2ba7ddfeb0c5f45e692f63b82d6d",
+      "title": "Apple、ロンドンにライブ会場「Apple Music Hall」を開設 空間オーディオ収録や配信設備付き",
+      "link": "https://www.itmedia.co.jp/news/article/2609/23/2000001677/",
+      "summary": "米Appleは9月21日（現地時間）、英ロンドンの再開発地区バタシー・パワーステーション内にライブ音楽会場「Apple Music Hall」を開設したと発表した。Apple Music Hallは、アーティストがファンの前で小規模なライブを行い、その場で空間オーディオ（Spatial Audio）...",
+      "published": "2026-09-23T03:41:08Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28711a3c3db3a1ab7a87ddaa153ecbde",
+      "title": "リクエストーク | PHPカンファレンス関西2026",
+      "link": "https://requestalk-2026.kphpug.jp/",
+      "summary": "あなたの「聞きたい」が、次のトークのきっかけに。PHPカンファレンス関西のトークリクエストボード。",
+      "published": "2026-09-23T02:54:16Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7eda8ef725d6746e4220d692084ae45",
+      "title": "Jev的なDecision Modelの実現方式を分類してみる",
+      "link": "https://blog.monochromegane.com/blog/2026/09/21/jev/",
+      "summary": "JevはTypeSafe AI社からリリースされた意思決定のためのモデルです。その推論速度と汎用性の高さから注目されていますが、具体的なアーキテクチャは公開されておらず、モデルの再現を試みる取り組みも活発に行われています。 自分自身もJevそのものを使って遊ぶというより、その方式の解明や、それを通し...",
+      "published": "2026-09-22T03:33:42Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cca3e353b9015cde9929b27a4672e859",
+      "title": "富裕層向けカードの潮流が変化 アメックス、三井住友、ダイナース、ラグジュアリーカードが狙う“特別な体験価値”とは？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/22/news022.html",
+      "summary": "富裕層向けカードの潮流が変化 アメックス、三井住友、ダイナース、ラグジュアリーカードが狙う“特別な体験価値”とは？（1/2 ページ） 富裕層向けのプレミアムカードでは、会員特典として、レストランやホテルの優待、国内外の空港ラウンジの利用、コンシェルジュサービスなどが受けられるのが一般的だ。 だが最近...",
+      "published": "2026-09-22T02:07:08Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f8a8b488f29c1273649985df42f5cbe",
+      "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock | Amazon Web Services",
+      "link": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+      "summary": "On-prem databases weren't built for agentic AI. Amazon RDS is",
+      "published": "2026-09-22T19:55:57Z",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13a81f8ba7985609087d3f483993310a",
+      "title": "Nemotron 3.5 Lightning の判定役を、Jev のように生成しない 1 トークン判定にしてみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-lightning-judge-single-token-jev-inspired/",
+      "summary": "Nemotron 3.5 Lightning の LLM ルーター判定役を、投機デコード、Jev への置き換え、1 トークン読みの SFT で速くしてみました。同じ重みで 1.18 秒が 0.95 秒、1 トークン化で 0.25 秒。速さは読み出しの形で決まり、判定の質は学習データの課題の形で決まり...",
+      "published": "Wed, 23 Sep 2026 06:53:43 GMT",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f92cfeb0162333c6d2060b69a907b860",
+      "title": "Canary / Linear / Blue-Green に対応した Amazon ECS コンソールの「デプロイ」タブを試してみた",
+      "link": "https://dev.classmethod.jp/articles/ecs-console-deployment-tab-canary-linear-blue-green/",
+      "summary": "Fargate の Canary デプロイで、10% / 90% のトラフィックシフト、イメージ取得失敗時のロールバック、Amazon Q による原因調査を試しました。段階的な ECS デプロイを運用する際に、「デプロイ」タブをどう活用できるかを紹介します。",
+      "published": "Tue, 22 Sep 2026 17:39:13 GMT",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d35a9439025aced7aeefc4a67cbc4f53",
+      "title": "[AWS Technical Support Note] เมื่อทำการ Backup EC2 ด้วย AWS Backup สามารถยกเว้น Volume เฉพาะบางรายการได้หรือไม่",
+      "link": "https://dev.classmethod.jp/articles/tsnote-thai-aws-backup-ec2-exclude-specific-volumes/",
+      "summary": "เมื่อทำการ Backup EC2 Instance ด้วย AWS Backup สามารถยกเว้น EBS Volume เฉพาะบางรายการได้หรือไม่? การ Backup ในระดับ EC2 ไม่สามารถยกเว้นได้ แต่สามารถแก...",
+      "published": "Mon, 21 Sep 2026 08:54:19 GMT",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2562ed012308d70c2dbfffd6ac8b72e1",
+      "title": "James Hype reveals ridiculous new 16-DECK DJ rig – and Deadmau5 loves it",
+      "link": "https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/",
+      "summary": "It's a truly ambitious setup... but Hype hilariously admits he's “still got to learn how to actually DJ on it”. The post James Hype reveals ridiculous...",
+      "published": "Wed, 23 Sep 2026 08:55:25 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "8520bd7bb941c51f7e847200cb94051f",
+      "title": "Best DAWs for producers, songwriters, engineers and DJs right now",
+      "link": "https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/",
+      "summary": "Life has many DAWs…but which should you open? Here’s the best software for everything from recording beats to scoring movies The post Best DAWs for pr...",
+      "published": "Tue, 22 Sep 2026 23:00:21 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fd3d6051cd029c3fdf1f4835d26188b4",
+      "title": "Mixture of Experts 基礎技術メモ",
+      "link": "https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo",
+      "summary": "はじめに 最近のオープンウェイトLLMを見渡すと、DeepSeek-V4.1-Flash(552B)、Kimi K3(2.8T)、MiMo-V2.6(1T)など、トップクラスのモデルのほぼすべてがMixture of Experts（以下、MoE）を採用している。本記事ではMoEに関する基礎的な技術...",
+      "published": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "fetched_at": "2026-09-23T08:57:42.518142+00:00",
+      "feed_name": "iwashi.co",
+      "category": "blog"
     }
   ],
-  "updated_at": "2026-09-23T02:46:06.655161+00:00"
+  "updated_at": "2026-09-23T08:57:42.518142+00:00"
 }

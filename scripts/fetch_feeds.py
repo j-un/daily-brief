@@ -21,6 +21,7 @@ import re
 import feedparser
 import httpx
 import yaml
+from brief_config import ConfigError, parse_brief_config
 
 
 def clean_html(text: str) -> str:
@@ -179,9 +180,14 @@ def main():
     args = parser.parse_args()
 
     with open(args.config, "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f)
-    feeds = config["feeds"]
-    exclude_keywords = [k.lower() for k in config.get("interests", {}).get("exclude_keywords", [])]
+        raw = yaml.safe_load(f)
+    try:
+        config = parse_brief_config(raw)
+    except ConfigError as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        sys.exit(1)
+    feeds = raw["feeds"]
+    exclude_keywords = list(config.exclude_keywords)
 
     state = load_json(args.state_file, {"last_run": None, "seen_ids": {}})
     pool = load_json(args.pool_file, {"articles": []})

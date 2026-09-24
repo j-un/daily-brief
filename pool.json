@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "629776ac3834ec9e1dc63b3eae229169",
-      "title": "Saving another 100TB of RAM with math (and Rust) | Cloudflare Blog",
-      "link": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Saving another 100TB of RAM with math (and Rust)",
-      "published": "22 Sep 2026 23:55 +0000",
-      "fetched_at": "2026-09-23T02:46:06.655161+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "6b0072df9d2158eac53de73865fd038a",
       "title": "Introducing TIN: full-text search for Postgres — PlanetScale",
       "link": "https://planetscale.com/blog/introducing-tin",
@@ -459,7 +449,407 @@
       "fetched_at": "2026-09-24T02:28:15.129627+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "27eca26e58d58d39933f2cffdd1f0f88",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://thenewstack.io/github-copilot-anthropic-rust-migration/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub and Anthropic used their own agents for major Rust rewrites — but with very different playbooks",
+      "published": "24 Sep 2026 06:56 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45e611e90851d5e30c1f4c3fa37d20b0",
+      "title": "Getting started with runtime security and Falco | Sysdig",
+      "link": "https://webflow.sysdig.com/blog/intro-runtime-security-falco",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Getting started with runtime security and Falco",
+      "published": "24 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45908f3b778593373ff09ff8c700fc3a",
+      "title": "Nail your narrative",
+      "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Nail your narrative",
+      "published": "24 Sep 2026 02:55 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1041a288b60a30f501976bda9c36334e",
+      "title": "Ideas on modernizing the open-source desktop",
+      "link": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1095425/2d9f411252325784/ Comments URL: https://news.ycombinator.com/item?id=49825642 Points: 109 # Commen...",
+      "published": "Thu, 24 Sep 2026 02:52:09 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "baca2a12694ac815baee653e29696c8a",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "link": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "summary": "Article URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411 Comments URL: https://news.ycombinator.com/...",
+      "published": "Thu, 24 Sep 2026 01:24:00 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "476a5a477dca3c8939921802bb76ceb0",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "link": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
+      "summary": "Article URL: https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign Comments URL: https://news.ycombinator.com/item?id=49824686 Points: 2...",
+      "published": "Thu, 24 Sep 2026 00:41:31 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d47949a4f1cbfe17559c3c1a8153ea9",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "link": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/ Comments URL: https://news.ycombinator.com/item?id=49823664 Points...",
+      "published": "Wed, 23 Sep 2026 22:45:49 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90d4523e6f1742ff87fd8373ce4f7499",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "link": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "Article URL: https://artificialanalysis.ai/models/mercury-2-5 Comments URL: https://news.ycombinator.com/item?id=49823348 Points: 101 # Comments: 61",
+      "published": "Wed, 23 Sep 2026 22:16:19 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "289a78801c32a40be46fd4b965575e28",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "summary": "Article URL: https://blog.cloudflare.com/vary-support/ Comments URL: https://news.ycombinator.com/item?id=49823195 Points: 119 # Comments: 29",
+      "published": "Wed, 23 Sep 2026 22:03:21 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bf97a38489ff459c4f7b77183872a3e",
+      "title": "Making Tailscale Faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "summary": "Article URL: https://tailscale.com/blog/making-tailscale-faster Comments URL: https://news.ycombinator.com/item?id=49819880 Points: 160 # Comments: 65",
+      "published": "Wed, 23 Sep 2026 17:49:07 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5474cc89c2e57d184d88fb118a1a1a57",
+      "title": "Amazon Timestream for InfluxDB 3 の機能とワークフロー",
+      "link": "https://aws.amazon.com/jp/blogs/news/features-and-workflows-with-amazon-timestream-for-influxdb-3/",
+      "summary": "本記事は 2026 年 4 月 29 日に公開された、Features and workflows with […]",
+      "published": "Thu, 24 Sep 2026 08:41:18 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd68dff106a439b526c49d374803613f",
+      "title": "週刊生成AI with AWS – 2026/9/14 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20260914/",
+      "summary": "今週の週刊生成 AI with AWSでは、AI の「正しさ」をどう測るかという話題が目立ちました。Byron Cook 氏による自動推論の翻訳記事 3 本もあわせて公開されています。国内事例では、第一興商のカラオケ聴感採点 AI、レスターの営業情報プラットフォーム、NTTドコモの AI-DLC 実...",
+      "published": "Thu, 24 Sep 2026 04:49:26 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee83d45d0447e0e6ebbc1fe251471c2f",
+      "title": "AWS ウィークリーラウンドアップ：AWS Builder Center モバイルアプリ、Amazon Connect Talent の一般提供開始、Amazon Corretto 27 など（2026 年 9 月 21 日）",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-builder-center-mobile-apps-amazon-connect-talent-ga-amazon-corretto-27-and-more-september-14-2026/",
+      "summary": "オランダに住んでいる私は、電車で過ごす時間がかなり多く、たいていその時間を使って、ビルダーコミュニティが発信し […]",
+      "published": "Thu, 24 Sep 2026 04:30:50 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "584fd31d77d435e4d32e5d5bdbeccedd",
+      "title": "Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/",
+      "summary": "Starting today, Amazon DynamoDB global tables with multi-Region strong consistency (MRSC) is available in five additional AWS Regions: Canada (Central...",
+      "published": "Wed, 23 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fb9fe6de866124e264e94796a7021f1",
+      "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
+      "link": "https://labo.hatenastaff.com/entry/2026/09/24/150000",
+      "summary": "はてな匿名ダイアリーは、2026年9月24日に20周年を迎えました。ご利用いただいている皆さまに、あらためて感謝申し上げます。 はてな匿名ダイアリーは、「名前を隠して楽しく日記。」を掲げる場所として続いてきました。 サービスを長く運営していく中で、利用のされ方や取り巻く環境も変化してきました。 これ...",
+      "published": "2026-09-24T06:30:19Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d378122657f12fc97202ca252d98718d",
+      "title": "Rails World 2026 DHHキーノートの日本語要約",
+      "link": "https://komagata.github.io/public-notes/rails-world-2026/",
+      "summary": "写真と開発の大衆化元の配信の時刻：34:11高価で時間のかかる肖像画から、大衆向けカメラ、さらに手間も費用もほとんど意識せず撮れるスマートフォンの写真へ。制作の費用が下がると、作る人と作られるものの数が大きく増え、専門家の役割も変わる、というたとえです。 DHH自身はOpus 4.5を転換点と捉え、...",
+      "published": "2026-09-24T01:20:33Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c3d34a565f0f655bdd0ec4b14ee6b75",
+      "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
+      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001689/",
+      "summary": "セルシスのイラスト・マンガ制作ツール「CLIP STUDIO PAINT」向け素材共有サービス「CLIP STUDIO ASSETS」で9月22日までに、多くの投稿素材が一斉に非公開になった。人物の3Dモデルなどに加え、ペン素材や食事用ナイフの素材が削除されたとの報告もあり、「非公開の基準が分からな...",
+      "published": "2026-09-24T03:24:14Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e21546aeade04cbb029e8fc7501bbad9",
+      "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
+      "link": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
+      "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
+      "published": "2026-09-24T05:23:52Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "200e6491e21a7232258d65268c9a8782",
+      "title": "MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露",
+      "link": "https://www.itmedia.co.jp/news/article/2609/24/2000001688/",
+      "summary": "米Metaは9月23日（現地時間）、年次カンファレンス「Meta Connect 2026」を開催した。同月発表したばかりのパーソナルAIエージェント「Muse」や新スマートグラスを中心としたイベントだった。マーク・ザッカーバーグCEOはイベントの最後に「One more thing」として、Mus...",
+      "published": "2026-09-24T04:35:24Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "730a3cbe6d73048c4a8abf7f536430e1",
+      "title": "IAM Identity CenterのSSOは、サインインの裏で何が起きているのか - NRIネットコムBlog",
+      "link": "https://tech.nri-net.com/entry/what_happens_behind_the_scenes_during_signin",
+      "summary": "本記事は 2年目ウィーク 4日目の記事です。 📈 3日目 ▶▶ 本記事 ▶▶ 5日目 ✒️ はじめに アクセス許可セットが、各アカウントにIAMロールを配っている サインインしてから操作するまで セッションは二層になっている CLI（aws sso login）の裏側 おわりに 出典 こんにちは。山...",
+      "published": "2026-09-24T02:09:03Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "464e550d24acc3d66ad09b4fa712a1a3",
+      "title": "「早く仕上げるほど売上は減る」。富士通・時田社長が語るSIerが「人月の通用しない時代」で稼ぐ方法 | Business Insider Japan",
+      "link": "https://www.businessinsider.jp/article/2609-fujitsu-ceo-tokita-sier-business-model-in-ai-agent-era/",
+      "summary": "「人月モデルの脱却と言って、もう何年でございますかね。随分と時が経ってしまいました」 5月28日、富士通が開いた「中長期経営ビジョン2035」の説明会。質疑応答で筆者がシステムインテグレーション（SI）事業の収益モデルについて尋ねると、時田隆仁社長は人月モデルへの課題感をこう語った。 「人月をベース...",
+      "published": "2026-09-23T23:19:11Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcb44f07d86f6a1143cf6ed2a2e0807a",
+      "title": "お堅い？銀行はアジャイルで何を変えたのか──北國銀行が取り組んだ「関係性の再設計」 - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2026/09/24/103000",
+      "summary": "金融持株会社であるCCIグループ（旧・北國フィナンシャルホールディングス）の中核を担う北國銀行（石川県金沢市）は、北陸地方のリーディングバンクとして金融サービスを展開しています。 金融機関を取り巻く環境が激変する中、同行はデジタル技術を生かしたサービス提供を加速。個人向けインターネットバンキング「北...",
+      "published": "2026-09-24T01:35:28Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b43f8f88994e24f12615250af7b2d128",
+      "title": "わずか4Bの小型AIを強化学習したらPostgreSQLより1.81倍高速なクエリプランを生成できたという報告",
+      "link": "https://gigazine.net/news/20260924-qorl/",
+      "summary": "データベースにおけるクエリ最適化を小型LLMに肩代わりさせる研究を進めたところ、Postgresのデフォルトクエリプランを上回るパフォーマンスを発揮するクエリプランを生成できたと、バックエンドエンジニアのロハン・バンサル氏によって報告されました。 Training a 4B model to pro...",
+      "published": "2026-09-23T22:58:05Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9eb59629b05c42d5534f0b4b63d6920a",
+      "title": "Apple、Qwen3.5-9BベースのLLMモデル「LensVLM-9B」を公開 | NEWS | Mac OTAKARA",
+      "link": "https://www.macotakara.jp/news/entry-51882.html",
+      "summary": "LensVLM-9B Appleが、Hugging Faceにて、Qwen3.5-9BベースのLLMモデル「LensVLM-9B」を公開しています。 これは、長い文書をテキストではなく圧縮されたページ画像に変換してとして読み取りすることでトークンを節約し、その後、質問に関連するページのみの全文を抽出...",
+      "published": "2026-09-24T00:11:58Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05305fa21641abd8b28062c2170801f9",
+      "title": "Meta、初のグラス型VRデバイス「Meta VR Glasses」を27年春に1299.99ドルで発売 VRの新時代へ | PANORA",
+      "link": "https://panora.tokyo/archives/157611",
+      "summary": "Metaは米国時間の23日、年次の開発者向けイベント「Meta Connect 2026」の基調講演にてグラス型VRデバイス「Meta VR Glasses」を発表した。日本を含む世界で2027年春の発売を予定しており、価格は1299.99米ドル（日本価格は未定、1ドル160円換算なら約20万800...",
+      "published": "2026-09-24T00:07:18Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f504b823e0178795ac924befb39c72c3",
+      "title": "定型作業の自動化スクリプトを選ぶタスクを Jev に任せたら Codex の 52% の時間でできた話 | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/jev-codex-script-selection-time-reduction/",
+      "summary": "Codex が行う定型的な判断の一部を Jev に任せる構成を検証しました。検証用環境では、回答の正確さを保ちながら、所要時間を 51.8%、コストを 36.0% にできました。 はじめに Codex に任せる仕事には、毎回同じ手順で進められるものがあります。こうした手順は、Python スクリプト...",
+      "published": "2026-09-23T04:49:20Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdba0986e99adb7287645b525523ecce",
+      "title": "「AIっぽい」スライドを見ると、なぜ聞く気がなくなるのか｜Nakashima Takaya",
+      "link": "https://note.com/nakashima_takaya/n/nb3bb5dc261b9",
+      "summary": "学会でスライドを見て、「あ、これAIで作ったんだろうな」と思った瞬間に、発表を聞く気が少し薄れてしまうことがあります。 内容の間違いを見つけたわけでも、発表者が準備しているところを見たわけでもありません。それなのに、続きを聞く気がしなくなる。自分でも、少し不思議な反応だと思います。 私は臨床医として...",
+      "published": "2026-09-23T20:18:02Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da15c057131e3fbb779ab3a897dc8283",
+      "title": "オードリー・タン氏が警告 AIが考え人が従う「逆ケンタウロス」の罠 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC074OJ0X00C26A9000000/",
+      "summary": "天才的なプログラマーで台湾の初代デジタル担当相として知られるオードリー・タン氏に、自分の頭で「考えない人」が増えるリスクへの対処法や、AI時代の仕事と教育、デジタル技術を社会に生かすための条件を聞いた。――子どもから大人まで、あらゆることをAIに相談する人が増えています。人間が自分で考えないようにな...",
+      "published": "2026-09-24T02:03:27Z",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a90d342e2181a92761dda9340af4081e",
+      "title": "GitHub - affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. · GitHub",
+      "link": "https://github.com/affaan-m/ECC",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 affaan-m / ECC ⭐ 263,358 (+1,012) 🗒 JavaScript The agent harness performance optimization system. Skills, instinct...",
+      "published": "20 Sep 2026 19:17 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d38198487e1c3075ef60e8cf2ccf15f",
+      "title": "型安全・低コスト・低遅延なJSON Modeのすごいやつ？ - TypeSafe AIのJevをSDKから使ってみて、その仕組みを考えてみた",
+      "link": "https://dev.classmethod.jp/articles/typesafe-ai-jev-architecture/",
+      "summary": "TypeSafe AIのモデル「Jev」を解説。テキスト生成を捨て、型安全・低コスト・低遅延で判定や分類に特化した仕組みや、従来のJSON Modeとの違い、アーキテクチャと実務での注意点を紹介します。",
+      "published": "Thu, 24 Sep 2026 08:26:53 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "283b0e9389ba24789104132e47754278",
+      "title": "Grafana OSS版でLoki / Tempo / AMPをテナントごとに分けて、見えるデータを分離してみた",
+      "link": "https://dev.classmethod.jp/articles/grafana-oss-multitenant-loki-tempo-amp/",
+      "summary": "GrafanaのOrganizationとLoki / Tempo / AMPを組み合わせて、複数テナントのデータを完全に分離できるか試してみました。結果、データソースのヘッダー設定でテナントIDを明示することで、同一のGrafana・ストレージを共有しながらも、他テナントのデータを完全に隔離できる...",
+      "published": "Thu, 24 Sep 2026 08:02:57 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "24f1671f870ca02fd3d8afcfe47949c3",
+      "title": "M365 Copilot 「リサーチツール」 を使ってみた",
+      "link": "https://dev.classmethod.jp/articles/20260911_mbt_copilot_reserch_tool/",
+      "summary": "Microsoft 365 Copilotの 「リサーチツール」 を使ってみました。その使い勝手や効果について、実際の操作画面を交えながらレポートします。",
+      "published": "Thu, 24 Sep 2026 07:57:48 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e08e459f9b1727bfff63d9c83528314",
+      "title": "[小ネタ] WindowsのCloudWatch Agentで設定の適用に失敗したときの挙動を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/202609-cloudwatch-agent-fetch-config-failure-detection/",
+      "summary": "WindowsのCloudWatch Agentは、設定ファイルの適用に失敗しても、statusではrunning / configuredと返ることがあります。失敗のパターンごとに終了コード・例外・statusの挙動を確認し、スクリプトで失敗を判定する方法をまとめました。",
+      "published": "Thu, 24 Sep 2026 07:31:26 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "32ff9baae373e9460afb193b61a78e2e",
+      "title": "Claude Code v2.1.281 の主要アップデート - attribution: false の追加と rm -rf の確認強化",
+      "link": "https://dev.classmethod.jp/articles/20260924-cc-updates-v2-1-281/",
+      "summary": "Claude Code v2.1.281がリリースされました。危険なrmコマンドの確認強化やautoモードの挙動変更など、無人実行に関わる重要な変更もまとめています。本日は、Claude のコミットのトレーラーが付かなくなる attribution: false を試してみました。",
+      "published": "Thu, 24 Sep 2026 06:21:47 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9c059700dbb275be3e02b4208ba85dc",
+      "title": "AI開発ほど丁寧な開発が大切なのかもと思った話",
+      "link": "https://dev.classmethod.jp/articles/gijiro-windows-tips/",
+      "summary": "「ギジロー」のWindows移植に挑戦したら、思ったより大変だった話。",
+      "published": "Thu, 24 Sep 2026 05:24:25 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d722eec9ddb61d732b8a3a44e81abe7c",
+      "title": "【Amazon Connect Customer】オフラインセミナー「AIチームメイトが変える次世代コンタクトセンター」を開催しました！",
+      "link": "https://dev.classmethod.jp/articles/260904-amazon-connect-seminar/",
+      "summary": "Amazon Connect Customerと生成AIを活用した次世代コンタクトセンターについて、9月に開催したオフラインセミナーのレポートをお届けします。AIと人が協働する業務の実践例やデモ、参加者の具体的な質問と回答をご紹介します。",
+      "published": "Thu, 24 Sep 2026 04:21:51 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5bc5030439cda6d00554a8620d12f1f5",
+      "title": "[アップデート] Amazon CloudWatch Omni が一般提供開始されました！",
+      "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-omni-agent-observability/",
+      "summary": "CloudWatch Omniが一般提供開始されました！作ったのAIエージェントの情報を一箇所で色々と見れるようになったので触ってみました！",
+      "published": "Thu, 24 Sep 2026 03:33:58 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b7b88ac5168346872ccb4d5377b682f",
+      "title": "TiDB Cloud LakeをClaude CodeからMCPで操作してみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-lake-mcp-claude-code/",
+      "summary": "TiDB Cloud LakeのMCPサーバーをClaude Codeに繋いで、AIがデータベースの調査や操作をする様子を試してみました。セーフモードの動きや権限管理についても合わせて確認しています。",
+      "published": "Thu, 24 Sep 2026 03:01:46 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "99cb060498c8fa85df9df442a48499c0",
+      "title": "Google Cloud コンソールで API キーを作成するために必要な IAM ロールを教えてください",
+      "link": "https://dev.classmethod.jp/articles/gtsnote-googlecloud-create-api-key/",
+      "summary": "Google Cloud コンソールで API キーがグレーアウトされてクリックできない場合の原因と、必要な権限設定について解説します。",
+      "published": "Thu, 24 Sep 2026 02:40:58 GMT",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cd18ff632584605144eae96baf8c175",
+      "title": "Inside 5 of Los Angeles’s best hi-fi bars: Where they are and why they sound so good",
+      "link": "https://musictech.com/features/hi-fi-bars-los-angeles/",
+      "summary": "LA had some of the first hi-fi bars in the US, and now they’re all over the city The post Inside 5 of Los Angeles’s best hi-fi bars: Where they are an...",
+      "published": "Thu, 24 Sep 2026 08:00:04 +0000",
+      "fetched_at": "2026-09-24T08:53:22.261675+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-24T02:28:15.129627+00:00"
+  "updated_at": "2026-09-24T08:53:22.261675+00:00"
 }

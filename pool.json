@@ -1479,7 +1479,217 @@
       "fetched_at": "2026-09-24T19:39:30.646899+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "36f9042fec76ee71109c03e270bafa29",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "link": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "summary": "Article URL: https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4 Comments URL: https://news.ycombinator.com/item?id=49834825 Points: 135 # Co...",
+      "published": "Thu, 24 Sep 2026 18:24:52 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8634cc1b388e0745378bade0a8b838e6",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents...",
+      "published": "Thu, 24 Sep 2026 17:21:36 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce1adce9b1d2f0a97d2cff00b57ef04d",
+      "title": "Why is the liver so weirdly regenerative?",
+      "link": "https://dynomight.substack.com/p/liver",
+      "summary": "Article URL: https://dynomight.substack.com/p/liver Comments URL: https://news.ycombinator.com/item?id=49832938 Points: 167 # Comments: 118",
+      "published": "Thu, 24 Sep 2026 16:23:00 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a8a710ec024d5e343f32621376c800c",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "link": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us Comments URL: https://news.ycombinato...",
+      "published": "Thu, 24 Sep 2026 12:23:41 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57338c904fc4a03254ef07d5e38b5f13",
+      "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
+      "summary": "AWS Lambda durable functions are now available in the AWS European Sovereign Cloud. Lambda durable functions enable developers to build reliable multi...",
+      "published": "Thu, 24 Sep 2026 18:29:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5c8c1966b24fa20eb23c7697b3b2f68",
+      "title": "Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/",
+      "summary": "Starting today, Amazon RDS for PostgreSQL 19 Beta 4 is available in the Amazon RDS Database Preview Environment, allowing you to evaluate the pre-rele...",
+      "published": "Thu, 24 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4068ecc1e203999f32d4382c103ae91b",
+      "title": "AWS Network Security Manager is now generally available in US East (N. Virginia) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/",
+      "summary": "Today, AWS announces the general availability of AWS Network Security Manager, a comprehensive network security management solution designed to simpli...",
+      "published": "Thu, 24 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "38e5ef385d5baf79efd0b0886a9ec979",
+      "title": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/",
+      "summary": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing S...",
+      "published": "Thu, 24 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "81487b47038b7101bf9fa66c770a55a6",
+      "title": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/",
+      "summary": "Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache S...",
+      "published": "Thu, 24 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fb78ce376c53db40ade72fddaef0015",
+      "title": "Amazon GameLift Servers now available in 5 new regions and 8 Local Zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026",
+      "summary": "Amazon GameLift Servers is a fully managed service for deploying, operating, and scaling dedicated game servers for multiplayer games. High latency ca...",
+      "published": "Thu, 24 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bac462f5b12070929ec94a502734dc5d",
+      "title": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Multi-AZ deployments using Always On Availability Groups for SQL Server De...",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "303c4e579d00f3923ed3568c7f0f69a5",
+      "title": "Amazon ElastiCache Global Datastore now supports tagging and tag-based access control",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging/",
+      "summary": "Amazon ElastiCache now supports resource tagging and tag-based access control (TBAC) for Global Datastore. Previously, ElastiCache supported tagging o...",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdcb7faae63f99bea75569f5e61821b5",
+      "title": "みんなJevの話してる。やってないの俺だけ",
+      "link": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
+      "summary": "はじめに 2026年9月中旬あたりから、タイムラインが急に「Jev」の話題で埋まりました。「LLMより200倍速い」「出力トークン無料」「ハルシネーションしない」と景気のいい言葉が並ぶ一方で、自分はまだAPIキーすら持っていません。 やってないのは俺だけか…という焦りを燃料に、Jevとは何か、なぜ騒...",
+      "published": "2026-09-24T08:41:14Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b3de83d6abacf201bc86dce0b9a83d8",
+      "title": "AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/09/24/173000",
+      "summary": "最近AIにブログ記事やドキュメントを書かせることが増えた。しかしAIに書かせると、余計な前提や補足が多くて一番言いたいことが埋もれてしまう。かといって「もっと短くして」と指示すると、今度は具体例など本当に大事な部分まで削られ、スカスカで伝わらない文書になる。「この補足は消して、この具体例は残して」と...",
+      "published": "2026-09-24T13:05:41Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e87d0f5b10b7143f30414ccc39087a6",
+      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
+      "summary": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描画を用いた高速なユーザーインターフェイスを備...",
+      "published": "2026-09-24T18:36:01Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "518ba74ad1d03828c25f91a3825d3dd8",
+      "title": "ソフトウェアエンジニアとしてのぼくは、もう死んでいた｜choo",
+      "link": "https://note.com/choo/n/nf2a81eced17b",
+      "summary": "もう一年近くコードを一切書いていない。 ぼくは以前、ソフトウェアエンジニアとしてコードをかなり書いていたという自信がある。 仕事としては15年近く主にコードを書く職種だったし、個人開発を本格的に始めた6年くらい前からは、フロントエンド、バックエンド問わず、ガリガリコードを書いていた。 「どういうWe...",
+      "published": "2026-09-24T13:20:05Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fc9120882ec405dcbb43a6d416daf29",
+      "title": "教育現場、生成AI使用の全面禁止が必要 酒井邦嘉氏 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCD220GY0S6A820C2000000/",
+      "summary": "ポイント○読書の習慣減り学生の読解力は大幅低下○デジタル教科書は記憶しにくくなる面も○AIに頼ると自分の能力向上の機会失うパソコンやタブレット端末で使うデジタル教科書を学校の正式な教科書とする改正学校教育法が、6月に成立した。今後、教育の現場でデジタル教科書や人工知能（AI）などの使用が進んでいく可...",
+      "published": "2026-09-24T01:13:18Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18af7a450593605182bef7595ada5a3d",
+      "title": "AWS DevOps Agent の堅牢性",
+      "link": "https://zenn.dev/cscloud_blog/articles/9968d12b332c03",
+      "summary": "どうもセキュリティエンジニアの西川です。シルバーウィーク楽しみましたか？私は今回ご紹介する AWS DevOps Agent のセキュリティについてほとんどの時間を使いました。（汗）ということで、ぜひご覧ください（笑） と言いつつも、記事を読む前に Elevated Role や Directed ...",
+      "published": "2026-09-24T03:08:38Z",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "80727f8df044ed80a5788f31b2e20488",
+      "title": "GitHub - FxEmbed/FxEmbed: Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others · GitHub",
+      "link": "https://github.com/FxEmbed/FxEmbed",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 FxEmbed / FxEmbed ⭐ 5,265 (+165) 🗒 TypeScript Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, t...",
+      "published": "24 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a12a80c573180ca3ed1f05a9b7880e55",
+      "title": "[アップデート] Kiro Crew v0.7.0 で新規チャットのデフォルトメモリモードを設定できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/kiro-crew-v070-default-chat-memorymode/",
+      "summary": "これは嬉しい！！！",
+      "published": "Thu, 24 Sep 2026 21:44:24 GMT",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "800ac7eb9ba40b4279fc5641d7c07e67",
+      "title": "What is compression, and why do we use it in music?",
+      "link": "https://musictech.com/glossary/compression/",
+      "summary": "Compression is one of the most widely used processors in recording, mixing and mastering, adding dynamic control, solidity and cohesion to audio. The ...",
+      "published": "Thu, 24 Sep 2026 20:50:53 +0000",
+      "fetched_at": "2026-09-24T22:40:35.234013+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-24T19:39:30.646899+00:00"
+  "updated_at": "2026-09-24T22:40:35.234013+00:00"
 }

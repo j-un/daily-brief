@@ -969,7 +969,177 @@
       "fetched_at": "2026-09-26T13:58:39.574921+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "01942aebe0618507f9a2ace3dbf68dd6",
+      "title": "I'm the Mom in That Viral Giants Clip. Let Me Tell You About My Husband",
+      "link": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
+      "summary": "Article URL: https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip Comments URL: https://news.ycombinator.com/item?id=49857899 P...",
+      "published": "Sat, 26 Sep 2026 16:12:18 +0000",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "be12ec4645bf216ed7152c40c4dd6a17",
+      "title": "Floci: Locally emulating any cloud service",
+      "link": "https://floci.io",
+      "summary": "Article URL: https://floci.io Comments URL: https://news.ycombinator.com/item?id=49854416 Points: 111 # Comments: 23",
+      "published": "Sat, 26 Sep 2026 08:31:02 +0000",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b26bd71e83fa7e4fc58131d335ac4c2",
+      "title": "高負荷プロダクション環境におけるAWS Lambdaのリアル 〜スケールとコストを左右する実行ライフサイクルの技術仕様〜",
+      "link": "https://speakerdeck.com/maimyyym/the-reality-of-aws-lambda-in-high-load-production",
+      "summary": "JAWS-UG KYUSHU QUEST 2026 in Fukuoka https://jawsug-fukuoka.connpass.com/event/403616/",
+      "published": "2026-09-26T08:34:54Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38e7b172a928fefd38d553e272a5d332",
+      "title": "AIの内部に「痛み」特有の活動パターンを発見――強めると人間を傷つけてでも痛みから逃れる選択がほぼゼロから最大7割に - ナゾロジー",
+      "link": "https://nazology.kusuguru.co.jp/archives/200119",
+      "summary": "ドイツのルール大学ボーフム（RUB）などで行われた研究によって、AIの内部に、恐怖や怒りとは別の「痛み」の概念に特有の活動パターンがあることが示されました。 また研究でこの概念を強めたAIは、痛みから逃れるために、人間に害が及ぶ選択肢まで選ぶようになりました。 また研究では、このパターンは調べた25...",
+      "published": "2026-09-26T09:05:52Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5611c5febf4ede6de86538a11872c0ab",
+      "title": "人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike",
+      "link": "https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike",
+      "summary": "Platform Engineering Kaigi 2026 https://www.cnia.io/pek2026/sessions/f5c5abcb-19e9-4983-8521-c863d26f802c/",
+      "published": "2026-09-26T07:25:41Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cce9e9c13c2a4a748a11bcb34bb4f7ef",
+      "title": "個人開発はCloudflareにすべて賭けろ",
+      "link": "https://speakerdeck.com/ashunar0/kojin-kaihatsu-ha-cloudflare-ni-subete-kakero",
+      "summary": "Findyテックハッカソン2026",
+      "published": "2026-09-26T09:36:17Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f45c829b7525fbc595ea4699ce7a52b1",
+      "title": "GitHub - nwiizo/rust-learning-lab: Learn and review Rust through syntax, rationale, practice, and debugging. A bilingual plugin for Codex and Claude Code.",
+      "link": "https://github.com/nwiizo/rust-learning-lab",
+      "summary": "English | 日本語 Understand the syntax. Explain the decisions. Verify the behavior. A learning and code review plugin for Codex and Claude Code. Read Rus...",
+      "published": "2026-09-25T22:48:58Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "addb557dac7980cfc705f50404a3c0c9",
+      "title": "interfaze-ai/lev · Hugging Face",
+      "link": "https://huggingface.co/interfaze-ai/lev",
+      "summary": "\",\"pad_token\":\"\",\"unk_token\":null},\"chat_template_jinja\":\"{%- set image_count = namespace(value=0) %}\\n{%- set video_count = namespace(value=0) %}\\n{%...",
+      "published": "2026-09-26T08:04:48Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f5166683a18d4e6304da124dbd76691",
+      "title": "チャットGPTの投稿画像、意図せず画像共有サイトに流出 オープンAIが明らかに（2026年9月26日掲載）｜日テレNEWS NNN",
+      "link": "https://news.ntv.co.jp/category/international/5db536133c6c4e8281e735075eeabd92",
+      "summary": "アメリカのAI大手オープンAIは25日、チャットGPTの利用者が投稿した画像が、AIによって、意図せず画像共有サイトに流出していたことを明らかにしました。 オープンAIによりますと、チャットGPTの利用者が投稿した画像が、AIによって意図しない形で画像共有サイトに流出した事例が53件あったということ...",
+      "published": "2026-09-26T06:15:59Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "949f539dc824b85b3006392862c0b981",
+      "title": "Notion | Where teams and agents work together",
+      "link": "https://contrastive-lm.notion.site/",
+      "summary": "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connecte...",
+      "published": "2026-09-25T04:44:39Z",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c87c96c74c1c3fd9402c46c82aa84c8",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mobile-…",
+      "link": "https://github.com/mobile-next/mobile-mcp",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mobile-next / mobile-mcp ⭐ 7,068 (+143) 🗒 TypeScript Model Context Protocol Server for Mobile Automation and Scraping...",
+      "published": "26 Sep 2026 14:17 +0000",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3257d531a3c4d8943e81b60e8f94a95",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 obra…",
+      "link": "https://github.com/obra/superpowers",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 obra / superpowers ⭐ 290,436 (+528) 🗒 Shell An agentic skills framework & software development methodology that wo...",
+      "published": "23 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ce9bb1ce57982bd2427194a476c2441",
+      "title": "判断特化型AI「Jev」互換のOSSモデル「Kev」を Docker上で試してみた",
+      "link": "https://dev.classmethod.jp/articles/kev-oss-jev-compatible-docker/",
+      "summary": "TypeSafe AI の判断特化型 AI「Jev」と同じ `POST /v1/systemone` API を持つ OSS モデル「Kev」を、Apple M1・メモリ 16GB・GPU なしの Linux 環境で Docker から起動し、必要なリソースと回答の傾向を確かめました。",
+      "published": "Sat, 26 Sep 2026 17:29:47 GMT",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "aea1c0551ada847414cb7f67acca8dc2",
+      "title": "[アップデート] Agent Toolkit for AWS で AWS Startup Advisor プラグインが利用可能になったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/20260927-aws-startup-advisor/",
+      "summary": "AWS Startup Advisor プラグインを Claude Code で試してみました。AWS Startup ソリューションアーキテクトが スタートアップ企業のステージである Pre-revenue や Series A 等、成長段階に合わせた構成の助言とレビューを実際に受けてみたので、そ...",
+      "published": "Sat, 26 Sep 2026 17:16:10 GMT",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9f520492157ba2329cac064452cd7dd",
+      "title": "生成しない決定モデル CLM を、Switchyard の判定役として DGX Spark で試してみた",
+      "link": "https://dev.classmethod.jp/articles/clm-contrastive-language-model-switchyard-judge/",
+      "summary": "決定モデル CLM を DGX Spark で動かし、Switchyard の weak / strong 判定を Jev と同じ 528 件で測りました。zero-shot では届かず。ただ head だけを 8 分ほどで学習し直すと、未見 237 件の AUC が 0.892 と Jev の 0...",
+      "published": "Sat, 26 Sep 2026 16:36:27 GMT",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "531a9571e9480b13fe0db17f7dc75649",
+      "title": "[SO-ARM101] 模倣学習のデータセット（LeRobot Dataset v3.0 / v2.1）の中身を実データで確認してみました",
+      "link": "https://dev.classmethod.jp/articles/lerobot-dataset-so-arm101/",
+      "summary": "LeRobotの2つのデータセット形式（v3.0とv2.1）を開いて、画像・関節角・言語指示がどこにどのように保存されているのか、その内部構造を確認してみました。",
+      "published": "Sat, 26 Sep 2026 16:14:55 GMT",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "980275aec6e1df4d1c26ec0987c79670",
+      "title": "OpenCode で ChatGPT Plus のサブスクリプションを使って OpenAI のモデルを動かしてみた",
+      "link": "https://dev.classmethod.jp/articles/opencode-chatgpt-plus-subscription/",
+      "summary": "OpenCodeでGPT-6を使いたくなったので、ChatGPT Plusを契約して試してみました。ブラウザ認可だけでOpenAIと接続でき、定額プランで最新モデルが利用できることがわかったので、その手順と結果をまとめます。",
+      "published": "Sat, 26 Sep 2026 15:04:33 GMT",
+      "fetched_at": "2026-09-26T17:38:34.937467+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-26T13:58:39.574921+00:00"
+  "updated_at": "2026-09-26T17:38:34.937467+00:00"
 }

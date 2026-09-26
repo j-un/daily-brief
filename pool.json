@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "43d350bf8a5dbcd2fa3b2ac0a5fdc513",
-      "title": "AWS DevOps Agentの調査指示がSlackで完結！Slack双方向通信機能が追加 - CyberAgent SRG #ca_srg",
-      "link": "https://ca-srg.dev/3df4358b43f78098b08fc5f38e12fb98",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS DevOps Agentの調査指示がSlackで完結！Slack双方向通信機能が追加 - CyberAgent SRG #ca_srg",
-      "published": "25 Sep 2026 06:55 +0000",
-      "fetched_at": "2026-09-25T09:14:07.099697+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "916fdd455a6e6721d9ff200e167a2793",
-      "title": "毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog",
-      "link": "https://developers.cyberagent.co.jp/blog/archives/65910/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 毎秒数十万スパンを扱う、高トラフィック環境での分散トレーシング基盤の構築 | CyberAgent Developers Blog",
-      "published": "25 Sep 2026 02:55 +0000",
-      "fetched_at": "2026-09-25T09:14:07.099697+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b80f5f7a3b9e0671f9eebab932ebb7a8",
       "title": "SPAを丸ごと差し替えながら、画面単位で新基盤へ引っ越した話 - freee Developers Hub",
       "link": "https://developers.freee.co.jp/entry/spa_react_upgrade",
@@ -609,7 +589,387 @@
       "fetched_at": "2026-09-26T08:57:12.643835+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "405cd6320d2b70b3ee7776d440b8ec4e",
+      "title": "Amazon Bedrock AgentCoreでAIエージェント「minneコンシェルジュ」を開発しました - Pepabo Tech Portal",
+      "link": "https://tech.pepabo.com/2026/09/18/minne-concierge-bedrock-agentcore/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon Bedrock AgentCoreでAIエージェント「minneコンシェルジュ」を開発しました",
+      "published": "26 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de0eb653ca9a3b94a90d7633f5a9a497",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 225 # Comments...",
+      "published": "Sat, 26 Sep 2026 10:55:56 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c676766cdfff12cfdd6e0a785798ac8e",
+      "title": "One Month Without AI",
+      "link": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "summary": "Article URL: https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html Comments URL: https://news.ycombinator.com/item?id=49855018 Points: 104...",
+      "published": "Sat, 26 Sep 2026 10:08:21 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "56fbd23bf9d8816114727b178b0256fe",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points...",
+      "published": "Sat, 26 Sep 2026 09:13:41 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a81ab2860858778ef7e71b610d1a39c",
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "link": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "summary": "Article URL: http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html Comments URL: https://news.ycombinator.com/item?id=498531...",
+      "published": "Sat, 26 Sep 2026 04:20:58 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20733020b7264b9c33667febf25093a4",
+      "title": "ローカルLLMで使えるWeb検索まとめ｜npaka",
+      "link": "https://note.com/npaka/n/n1d86b2196515",
+      "summary": "ローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 ...",
+      "published": "2026-09-26T07:44:27Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "013b8d4177b5367f56d9d7daa14bae7b",
+      "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
+      "link": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+      "summary": "Platform Engineering Kaigi 2026",
+      "published": "2026-09-26T08:12:20Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "296c776ab4e08ebd090ef53bb38ac9dd",
+      "title": "アマゾンのアフィリエイトが閉鎖された話 | Colorful Pieces of Game",
+      "link": "http://www.highriskrevolution.com/wp/gamelife/2026/09/26/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AE%E3%82%A2%E3%83%95%E3%82%A3%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%88%E3%81%8C%E9%96%89%E9%8E%96%E3%81%95%E3%82%8C%E3%81%9F%E8%A9%B1/",
+      "summary": "10年以上、アフィリエイトに参加していた。正確にはいつからやっていたか覚えていないが、韓国で仕事をしていたときにはアカウントを作っていたと思うので、20年を超えるかもしれない。 このアカウントが、まさに突然閉鎖された。 閉鎖された理由は「お客様のウェブサイト、アプリ、ソーシャルメディアアカウントは、...",
+      "published": "2026-09-26T09:27:42Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7af8c5a7c7114b9e8e2b66f5deb15bb2",
+      "title": "ナッツを多く食べる人、認知テストで高成績の傾向 豪州チームが1700人以上を分析",
+      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+      "summary": "研究チームは、アメリカの健康調査「フラミンガム心臓研究」（FHS）のデータを用い、参加者を脳卒中の経験がないグループと脳卒中生存者のグループに分け、過去の食事データに基づくナッツの平均摂取量と、認知機能のテスト結果、MRIで測定した脳の体積、血液中に含まれる脳神経を保護する成分「BDNF」「VEGF...",
+      "published": "2026-09-26T03:35:04Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1951c5556f3e77463a836778bf4801c",
+      "title": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..",
+      "link": "https://anond.hatelabo.jp/20260926111613",
+      "summary": "妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれなれしくされたりして嫌、ということを言う 俺がベビーカーを押しているときは、特にそんな奴はいないし、エレベーターも道もみんな譲ってくれる これ、思うに、男女差もあるのよね 女性の場合、未婚であればちやほや大事にされるのに、ベビーカー...",
+      "published": "2026-09-26T02:19:48Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73816fadc66b63cbe50601bfa035d694",
+      "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/docker-skills",
+      "summary": "Docker⁠⁠、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 DockerのArnaud Héritier氏は2026年9月24日、同社がAIコーディングエージェント向けの公式スキル集「Docker Skills」を公開したことを、自身のXやBlueskyで案内...",
+      "published": "2026-09-26T07:12:52Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "12bc226b24477118dacabe7922f333f9",
+      "title": "【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805",
+      "link": "https://note.com/blue_pen5805/n/nb124b104c28b",
+      "summary": "みなさん ChatGPT とか Claude とか使ってますか？ はい、そうですね Gemini は使ってないですね 今回はそんな Gemini の有料サブスクの中で 最も一般的なプランである Google AI Pro （月額 2,900円）について 全特典の価値をすべて計算したら実はめちゃくちゃ...",
+      "published": "2026-09-26T06:52:37Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8739e1b462530bb29e8c743b890f37dc",
+      "title": "Kubernetes入門：Podが動くまでに中で何が起きているのか、クラスタの構成要素を整理する - Qiita",
+      "link": "https://qiita.com/yushibats/items/16b6b3c8ec5acd6bdc8b",
+      "summary": "はじめに Kubernetesは、コンテナの配置や運用を自動化するソフトウェアですが、中でどんな部品が動いていて、どうやって自動化しているのかを説明できますか？ この記事は、Kubernetesを構成する部品を、kubectl apply というコマンドを実行してからコンテナが動き出すまでの流れに沿...",
+      "published": "2026-09-25T09:05:50Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06ec6b7f6e7b3cdb333989f544be2cd6",
+      "title": "【速報】米中両首脳は、ＡＩの呼称をスーパーインテリジェンス（ＳＩ）とすることで合意した：時事ドットコム",
+      "link": "https://www.jiji.com/jc/article?k=2026092600302&g=flash",
+      "summary": "【速報】米中両首脳は、ＡＩの呼称をスーパーインテリジェンス（ＳＩ）とすることで合意した 2026年09月26日15時19分配信 米中両首脳は、ＡＩの呼称をスーパーインテリジェンス（ＳＩ）とすることで合意した（ワシントン時事） ＡＩ危機管理へ連絡経路 米中は「ＳＩ」と呼称―首脳会談 ニュース速報 最終...",
+      "published": "2026-09-26T09:04:32Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c3abf3c0fe9da4574a4ae10380bc732",
+      "title": "グーグル、AIエージェント向けPostgreSQL基盤 本番DBに影響なく毎秒300万クエリ（ビジネス＋IT） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/a67a6d9e0ce30b83eb60670472e2d87b8c90e091",
+      "summary": "グーグル・クラウドがAlloyDBの新機能「PostgreSQL for agents」を発表（出典：グーグル・クラウド） 米グーグル・クラウドは、AlloyDBにAIエージェント向けの新基盤「PostgreSQL for agents」を追加し、プレビュー提供を始めた。エージェントごとに隔離したイ...",
+      "published": "2026-09-25T13:36:35Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "02c958090742890da3296d3989252d03",
+      "title": "Gmailの未読メールにさよなら！ 20年使い倒した達人が教える便利ハック10選 | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2609-10-gmail-hacks-to-bring-your-inbox-under-control-dhf/",
+      "summary": "私はメインのGmailアカウントを20年ほど使い続けていますが、今の状態にはかなりの自信を持っています。 受信トレイが未読メールで溢れかえることもなければ、ストレージが一杯になることもありません。 そこで今回は、私が実践しているGmailハックを余すことなくお伝えします。 1. 情報過多を卒業！メル...",
+      "published": "2026-09-26T01:42:23Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d00d7c2fe970b59b2bf7722263206f55",
+      "title": "翻訳業の25年度の最終利益9億円、22年度比71%減 AI台頭響く - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC247ST0U6A920C2000000/",
+      "summary": "東京商工リサーチは2025年度の翻訳業者の最終利益合計が9億円だったと発表した。22年度比で71%減った。人工知能（AI）台頭による機械翻訳の精度向上と普及が響いた。業績を5期連続で比較できる100社を分析した。売上高合計は22年度比10%減の392億円だった。23年度から3期連続で減収減益となった...",
+      "published": "2026-09-24T23:11:44Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5937dc0d6a9c3498a227f3badc42954d",
+      "title": "新しくなったCopilot を発表 - Home、Code、Autopilot が登場 - 吉田の備忘録",
+      "link": "https://memo.tyoshida.me/copilot/new-copilot-code-autopilot-announcement/",
+      "summary": "2026年9月25日、Microsoft 公式ブログで「新しい Copilot」が発表されました（原文はこちら）。 今回はかなり大きな発表で、Copilot アプリそのものの形が変わります。概要れベルで言うと、「聞く」「任せる」「作る」「自分がいない間も動いてもらう」が、すべて Copilot の中...",
+      "published": "2026-09-25T22:18:55Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4f172cba1959bb8eb4e04f2c2141274",
+      "title": "mruby VMをつくった👍📱 - hanachin temporary",
+      "link": "https://hanachin.hateblo.jp/entry/2026/09/26/015735",
+      "summary": "Chiburuというmruby VMを書いた。1 スマホと親指を使って。2 何を書けばいいのか? ChatGPTに頼んでリポジトリに記録させていることはリポジトリを見ればわかる。そのため出来上がったものに対して書くことがあんまり思い浮かばない。 記録させていないことを書くしかない。 親指駆動開発はじ...",
+      "published": "2026-09-26T08:15:14Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "149992fbbc3848b6af9d7b9744657155",
+      "title": "「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に",
+      "link": "https://gigazine.net/news/20260926-iphone-18-pro-camera-example/",
+      "summary": "2026年9月18日に登場した「iPhone 18 Pro」は背面に3個のカメラを搭載しており、メインカメラにはiPhoneシリーズとして初めて物理的な絞り羽根が搭載されました。そんなiPhone 18 Proのカメラ性能を検証するべく、実際にいろいろ撮影してみました。なお、記事内の作例写真は記事用...",
+      "published": "2026-09-26T04:58:52Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d37abbf953fce23c186c525ea6a43ac5",
+      "title": "AI Slopを生まないPlatform Service設計",
+      "link": "https://speakerdeck.com/skijima404/ai-slop-o-umanai-platform-service-sekkei",
+      "summary": "AI Slopを生まない Platform Service設計 価値仮説と効果測定ってどうやるの？ PEK2026",
+      "published": "2026-09-26T05:28:44Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a889b027dad0a351885869453cd76d5",
+      "title": "ドメイン閲覧履歴は安全じゃない？ 地域・習慣・時間で個人情報が特定される仕組みと普及しない防御法 - Qiita",
+      "link": "https://qiita.com/uturned0/items/da90a2c3be5bc2da07dc",
+      "summary": "ドメイン閲覧履歴のリスクは軽んじられているが、それは誤りだ インターネット利用者の多くは、「ドメイン閲覧履歴は漏れても問題ない」と軽視しがちです。単にどのドメイン名を見たかだけなら大した情報ではないと考え、あまり意識しません。しかし、この認識は大きな誤りです。 ドメイン閲覧履歴は単なるアクセス情報....",
+      "published": "2026-09-25T11:21:49Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "112550d1d571b002651ec1c0b7ab80a3",
+      "title": "NVIDIA RTX Spark - 最大128GBメモリのWindows AI PCまとめ｜npaka",
+      "link": "https://note.com/npaka/n/n82358351b2c5",
+      "summary": "まもなく発売の「NVIDIA RTX Spark」についてまとめました。 1. RTX Spark2026年、NVIDIAはWindows PC向けプラットフォーム「RTX Spark」を発表しました。Blackwell世代の「RTX GPU」とArmベースの「Grace CPU」を統合し、ローカル...",
+      "published": "2026-09-26T04:57:16Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b70592d8fbdfb1a1e2d0644f2796c0b",
+      "title": "顔面に電気を流すと記憶力アップ？ あごにパッチ電極を貼り人間で実験、結果は……",
+      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001710/",
+      "summary": "頭蓋骨を開けずに、顔の皮膚の上から神経（三叉神経）を電気で刺激する認知機能への応用が研究されている。これまで医療現場などで使われてきた機器は、一定の強さで絶え間なく電気を流し続けるものが一般的だった。 しかし、脳が記憶を定着させる自然なプロセスには、刺激だけでなく休止のリズムが重要と考察。研究チー....",
+      "published": "2026-09-26T03:35:19Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56941f9341c5489665c732d5df06e07e",
+      "title": "Branded Type のテストパターンを考える - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/168f94a5-da73-de91-8b53-165ac23b6088",
+      "summary": "Branded Type は、string のような同じ型の値を用途ごとに区別するためのテクニックです。アプリケーションで使っている方も多いと思いますが、Branded Type そのものの型をテストしているプロジェクトは多くないのではないでしょうか。 今回は、スキーマライブラリの Valibot ...",
+      "published": "2026-09-26T08:59:56Z",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "429ceefb7bccd659498f2e08bee83c9e",
+      "title": "📦 microsoft / vscode ⭐ 192,963 (+78) 🗒 T…",
+      "link": "https://github.com/microsoft/vscode",
+      "summary": "📦 microsoft / vscode ⭐ 192,963 (+78) 🗒 TypeScript Visual Studio Code",
+      "published": "26 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ee7bbdff9a9a62437060ff2b769b120",
+      "title": "【iOS 27】現場で話した1日の作業を日報の要約にする機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-construction-daily-report-trial/",
+      "summary": "建設現場の日報作成を自動化するため、現場担当者の話した内容をApple Intelligenceで要約する機能を作り、iPhone 15 Proで実際に測ってみました。電波の届かない現場でも端末内で動作し、音声認識から要約までの精度を検証した結果をお話しします。",
+      "published": "Sat, 26 Sep 2026 11:30:28 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a50c4674f488fd79465c0b2b4c8cc98",
+      "title": "【iOS 27】赤ちゃんのミルクとおむつを話して育児記録の下書きにする機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-baby-care-log-trial/",
+      "summary": "育児記録アプリに話しかけるだけで記録できる機能をApple Intelligenceで実装し、iPhone 15 Proで実測してみました。記録すべき項目の91.7%が正しく入り、話していない出来事は作られませんでした。",
+      "published": "Sat, 26 Sep 2026 11:30:28 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "251a9a5ac0f3f710ddd4d579ec6b1411",
+      "title": "【iOS 27】店舗スタッフが話したメモに売場と依頼の種類のタグを付ける機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-store-memo-tagging-trial/",
+      "summary": "店舗スタッフの引継ぎメモを売場・依頼の種類・急ぎのタグに自動振り分けするiPhoneアプリを作り、実際の音声で測定してみました。Apple Intelligenceを活用した実装と、思わぬ落とし穴の対策について紹介します。",
+      "published": "Sat, 26 Sep 2026 11:30:00 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "28a541d05725b1928121d955adab360f",
+      "title": "【iOS 27】売場の写真を欠品あり・なしに仕分ける機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-shelf-photo-trial/",
+      "summary": "前回の設計を実装して、iPhone 15 Proで精度を測ってみました。店舗の棚をAIが「欠品あり」「欠品なし」に見立てる精度は、想定通り8割を超えることが分かります。実際の結果と、試してみて気付いた課題についてお話しします。",
+      "published": "Sat, 26 Sep 2026 11:30:00 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5c42e511cd077ead11f64c6d80964ab",
+      "title": "【iOS 27】パスポートと免許証を撮って宿泊者名簿の下書きにする機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-passport-license-trial/",
+      "summary": "ホテルの事前チェックインで、パスポートや運転免許証をiPhoneで撮影して名簿を自動作成できるか、実際にアプリを作って精度と速度を測ってみました。AIモデルと文字認識を組み合わせた結果から見えてきた、本当に必要な技術を紹介します。",
+      "published": "Sat, 26 Sep 2026 11:30:00 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "28d40e70fa8d1648208b2f95d2186cb7",
+      "title": "【iOS 27】訪問看護で話した内容を記録の下書きに書き直す機能を作って、iPhone 15 Proで測ってみた",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-home-nursing-records-trial/",
+      "summary": "訪問看護の記録をiPhoneだけで下書きにできるか、実際にアプリを組んで測ってみました。話した内容を記録の文体に書き直し、様式の欄に振り分けるまでを、Apple Intelligenceでどこまで成立させられるのか、その結果をお伝えします。",
+      "published": "Sat, 26 Sep 2026 11:30:00 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "05fff450ea0b57926dc63587dbcbd327",
+      "title": "【iOS 27】赤ちゃんのミルクとおむつを話すだけで、育児記録アプリの下書きにできないか",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-baby-care-log/",
+      "summary": "育児の記録入力が大変という声をよく聞きます。iPhoneの中だけで動くAIを使って、話すだけで授乳やおむつの記録を自動で項目分けできる設計を考えてみました。",
+      "published": "Sat, 26 Sep 2026 11:00:23 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "708be260e3bd9c08a4dc1c16dcda4172",
+      "title": "【iOS 27】訪問看護の記録は、話した内容をどこまで下書きにできるか",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-home-nursing-records/",
+      "summary": "訪問看護の記録業務は、看護師が毎日数十分を費やしています。個人情報保護の制約があるなか、iPhone内で動作するApple Intelligenceを使って、音声から記録の下書きまでを端末内で完結させる設計を、実装前の仮説として紹介します。",
+      "published": "Sat, 26 Sep 2026 11:00:10 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b678880f3b104c9708f9fdd134224617",
+      "title": "【iOS 27】売場の写真を「欠品あり」「欠品なし」に仕分けてから本部へ送る",
+      "link": "https://dev.classmethod.jp/articles/apple-intelligence-shelf-photo-report/",
+      "summary": "大手チェーンストアの店舗スタッフが毎日送る棚の写真。その確認作業に本部は膨大な時間を費やしています。iPhone内のAIで欠品の見立てを一次判定し、本部の負担を減らす仕組みを試してみました。",
+      "published": "Sat, 26 Sep 2026 11:00:09 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c95dc3868e307f084f8fd448fb1a80cb",
+      "title": "Claude Code on the web の設定項目を整理する：環境変数・API認証情報・ネットワーク・スクリプト",
+      "link": "https://dev.classmethod.jp/articles/claude-code-cloud-environment-settings/",
+      "summary": "Claude CodeのWeb版の環境設定について、環境変数・セットアップスクリプト・ネットワークアクセス・API認証情報それぞれの挙動を実際に検証しました。設定の役割の違いと、変更がセッションにどう反映されるかを確認した内容をお届けします。",
+      "published": "Sat, 26 Sep 2026 10:36:58 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "314ae36d869813abfc840693064a8981",
+      "title": "AWS Security AgentのペネトレーションテストがメールMFAに対応したので試してみた",
+      "link": "https://dev.classmethod.jp/articles/2026-09-26-security-agent-email-mfa/",
+      "summary": "AWS Security Agent（現在はAWS Continuumの一部）のペネトレーションテストがメールMFAに対応したので、自作のメールMFAアプリを使ってワンタイムコードの読み取りからログイン完了までを検証しました。",
+      "published": "Sat, 26 Sep 2026 09:43:55 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "01e7a8a4c770fa0d81bd48608ec95a64",
+      "title": "S3に置いたログをTiDB Cloud Lakeへ継続的に取り込んでみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-lake-s3-continuous-ingest/",
+      "summary": "S3に出力されるアプリログをTiDB Cloud Lakeで継続的に取り込むため、AWS – SQS(S3)データソースとIntegration Taskを試してみました。設定方法から実際の動作、エラーハンドリングまで、実装の流れを紹介します。",
+      "published": "Fri, 25 Sep 2026 07:32:57 GMT",
+      "fetched_at": "2026-09-26T13:58:39.574921+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-26T08:57:12.643835+00:00"
+  "updated_at": "2026-09-26T13:58:39.574921+00:00"
 }

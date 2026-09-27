@@ -579,7 +579,457 @@
       "fetched_at": "2026-09-27T13:25:58.620982+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "559b1d392ee5201e92003e1a90aea2bf",
+      "title": "ボトムアップの文化と「Policy as Code」とともにステップアップするgrasys流大規模インフラエンジニアリング | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/grasys",
+      "summary": "記事中には「Open Policy Agent（OPA）のRego言語などのポリシーエンジンを利用することで、仕組み化を実現できます。」と書かれているが、一般的説明のように見える。実際の運用では何を採用してるんだろ。",
+      "published": "27 Sep 2026 15:30 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45a03e4068a2825d4ef86c7ca5fc4b41",
+      "title": "Ollaya · Run decision models locally",
+      "link": "https://ollaya.dev/",
+      "summary": "ローカルで動かせるJevのような意思決定モデルをOllamaと同様に管理/実行できるツールだ。すでにモデルが沢山用意されてる。ポート番号は11435。ollamaの11434の次か。11474とかの方が良かったのでは。",
+      "published": "27 Sep 2026 15:23 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07077e44f19a5a07247e00bb37cbc3d9",
+      "title": "Omarchy Tokyo Night - connpass",
+      "link": "https://omarchy-tokyo.connpass.com/event/407638/",
+      "summary": "現地開催",
+      "published": "27 Sep 2026 15:16 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eefad314ddb6aed7e8473c37e6eea222",
+      "title": "Fearless SIMD v1.0 is here - Linebender",
+      "link": "https://linebender.org/blog/fearless-simd-1-0/",
+      "summary": "RustでunsafeなしにSIMD実装を書けるfearless_simdがバージョン1.0に。めでたい。",
+      "published": "27 Sep 2026 15:12 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "289a78801c32a40be46fd4b965575e28",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/vary-support/",
+      "summary": "CloudflareがVaryレスポンスヘッダーをサポート。おーすごい。VarnishあらためVinylも対応しているが効率良くキャッシュを利かせるのは結構むずい問題あるよね。ちなみにCloudFrontも制約付きでサポートしてたはず。",
+      "published": "27 Sep 2026 15:09 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a520ad18aac0bdaa49c9a571ab13dac2",
+      "title": "Swap, ZRAM, Zswap and Hibernate on NixOS",
+      "link": "https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/",
+      "summary": "swap領域を圧縮する実装として主にZRAMとZswapがあるが、ハイバネーションを実現するためにはZRAMは使えないらしい。Zswapを採用しましょう。知見だ。",
+      "published": "27 Sep 2026 15:04 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8128309eed1253afeed6289dd708198c",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on · blog.szypowi.cz",
+      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "summary": "Claude Code、CLAUDE.mdがなければAGENTS.mdを読み込むようになったが、テレメトリを無効にしてるとAGENTS.mdを読み込まないらしい。なんじゃそりゃ。",
+      "published": "27 Sep 2026 14:48 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6e8e4c74f2b6cdd4abb759fb988c74d",
+      "title": "DuckDB and Hugging Face: Querying Datasets Directly – DuckDB",
+      "link": "https://duckdb.org/2026/09/25/hugging-face",
+      "summary": "DuckDBから `hf://` でHuggingFaceのデータセットに直接クエリーが可能に。SELECT * FROM 'hf://datasets/datasets-examples/doc-formats-csv-1/data.csv'; わいわい",
+      "published": "27 Sep 2026 14:46 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b5a6b1b7805cb55e4337abf643bf137",
+      "title": "Amazon CloudWatch Omni のご紹介：生成 AI およびエージェント型ワークロード向けの AI を活用したオブザーバビリティ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-ai-powered-observability-for-generative-ai-and-agentic-workloads/",
+      "summary": "ん？こっちも紹介記事か？",
+      "published": "27 Sep 2026 14:44 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "005477f3f5973d73b54e3f79f9a9619a",
+      "title": "Amazon CloudWatch Omni のご紹介：アプリケーション向けのコラボレーション型 AI を活用したオブザーバビリティ | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-cloudwatch-omni-collaborative-ai-powered-observability-for-your-applications/",
+      "summary": "AI時代のオブザーバビリティ。日本語記事きてた",
+      "published": "27 Sep 2026 14:43 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd52cbfb30419cf33a192fbdc9538f03",
+      "title": "低コストでバースタブルな新しいインスタンス Amazon EC2 T8i が一般提供開始 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/new-low-cost-burstable-amazon-ec2-t8i-instances-are-generally-available/",
+      "summary": "日本語記事きてた。T3インスタンスから一気にT8iインスタンスへジャンプ。T8iインスタンスはt8i.mediumまでで、large以上が用意されていない点は要注意だな。",
+      "published": "27 Sep 2026 14:41 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d95b2fe5f5c2c02d08dfbfe55c641931",
+      "title": "CUTT System: 高速化プログラミング入門 第2版",
+      "link": "https://www.cutt.co.jp/book/978-4-87783-569-9.html",
+      "summary": "「古典的高速化手法やコンパイラオプションの活用から、キャッシュメモリの有効活用、モダンな最適化手法、C++17並列アルゴリズム、OpenMPによるマルチスレッド化、SIMDを活用した最新の高速化手法まで」2026年10月10日発売",
+      "published": "27 Sep 2026 14:34 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2e07492efceb2d82db6e9fbb23e34dd",
+      "title": "はじめてのGoogle Antigravity入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15883-5",
+      "summary": "gihyoから。2026年9月28日発売",
+      "published": "27 Sep 2026 14:31 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "095e642204eb636916d27b210277bd0f",
+      "title": "Go-Expect入門: Goで対話型CLIを自動操作する",
+      "link": "https://zenn.dev/nonejp/articles/329a841632fd93",
+      "summary": "expectコマンド懐かしいな。昔はよく使ってた。本家expectコマンドはTcl実装だったはず。",
+      "published": "27 Sep 2026 14:28 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c31a3933273a8ac8a22ac2a931db3a7",
+      "title": "aws-actions/configure-aws-credentials で AWS アカウント ID をマスキングできる mask-aws-account-id - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/09/24/121121",
+      "summary": "ほう。mask-aws-account-idメモ",
+      "published": "27 Sep 2026 14:18 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "159354771ee93801e833a3c71e5a55dd",
+      "title": "AIによりセキュリティで「防御側が勝てる時代が来た」のか？ - YAMDAS現更新履歴",
+      "link": "https://yamdas.hatenablog.com/entry/20260924/tada-tadashi",
+      "summary": "リンク先も見たけど、自分の頭では「防御側優位」の理屈がよくわからなかった。",
+      "published": "27 Sep 2026 14:15 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5aa3f762b871e796665c8c73d6a6f4fb",
+      "title": "iPhoneやiPadなどをmacOSのセカンドディスプレイにできるアプリ。RE…",
+      "link": "https://github.com/peetzweg/opendisplay",
+      "summary": "iPhoneやiPadなどをmacOSのセカンドディスプレイにできるアプリ。READMEによるとAndroid",
+      "published": "27 Sep 2026 13:57 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da5e5927e73ccafc1103cb1e58364a2e",
+      "title": "これか。Go 1.22のnet/httpをベースにしたWebフレームワーク。…",
+      "link": "https://github.com/mrshabel/mach",
+      "summary": "これか。Go 1.22のnet/httpをベースにしたWebフレームワーク。",
+      "published": "27 Sep 2026 13:51 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8ce2fbae9aaa432fa2dd2966ce976c9",
+      "title": "Goの軽量WebフレームワークMachを触ってみる：標準net/http時代の薄いラッパーという選択",
+      "link": "https://zenn.dev/nonejp/articles/58b4439323c814",
+      "summary": "ほうMach初耳。",
+      "published": "27 Sep 2026 13:50 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed144f89df75bba7c1d797c371140af0",
+      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
+      "link": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
+      "summary": "記事の後半にも書かれてるけど、ChromebookとAndroidは現状でもDebianを利用できるし、そこから大きな進展がありそうではない。Linuxデスクトップ元年の根拠としては弱い。",
+      "published": "27 Sep 2026 13:45 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "412039d144e9fcf15c45ce743b1a4fd7",
+      "title": "Can gzip be a language model?",
+      "link": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "gzip万能説だ。わいわい",
+      "published": "27 Sep 2026 13:39 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "964553c183fd70b16360c0dbe0218e6c",
+      "title": "複数のAIコーディングエージェントが並列で同じgitリポジトリ上の編集を行う際に…",
+      "link": "https://github.com/naw103/foremerge",
+      "summary": "複数のAIコーディングエージェントが並列で同じgitリポジトリ上の編集を行う際に、変更内容を競合させないためのツール。ファイル単位の競合だけならgitでも検知できるが、関数など意味的・構造的競合を検知できると。",
+      "published": "27 Sep 2026 13:28 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f60ecffa5dface01ac2acd3a209a212",
+      "title": "There are no \"rogue\" AI agents",
+      "link": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 110 #...",
+      "published": "Sun, 27 Sep 2026 16:19:46 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41c4515f5924eedc2044060cb766c782",
+      "title": "The Normalization of Inexplicable Failures",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "summary": "Article URL: https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html Comments URL: https://news.ycombinator.com/item?id=49867486...",
+      "published": "Sun, 27 Sep 2026 15:26:40 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f0a5dba34d2bd72d0e91b9b77959e55",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "link": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": "Article URL: https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/ Comments URL: https://news.ycombinator.com/item?id=4986...",
+      "published": "Sun, 27 Sep 2026 14:45:07 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44943de4b70680f2faab9e74a8126aee",
+      "title": "10 Tells of a Slop UI",
+      "link": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "summary": "Article URL: https://hereticpleb.vercel.app/blog/10-tells-of-slop Comments URL: https://news.ycombinator.com/item?id=49867038 Points: 251 # Comments: ...",
+      "published": "Sun, 27 Sep 2026 14:41:26 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d534438426736f0ff71d9dc3a1f8f22",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html Comments URL: https://news.ycombinator.com/item?id=49858676 Points: 105 # Comment...",
+      "published": "Sat, 26 Sep 2026 17:26:54 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "364be7b7dfd89809c70ebc7f6f99ccf3",
+      "title": "ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ",
+      "link": "https://www.sunafuki.com/entry/chatgpt_English",
+      "summary": "はじめに 今回はChatGPTが急速な進化を続けるなかで、ChatGPTを使った英語学習の効果や問題点を第二言語習得研究の理論と照らし合わせつつ、私自身の使用経験を踏まえて、今後のAIとの付き合い方を考えていきたいと思います。 巷では、ChatGPTへのプロンプトは時代遅れだと言われており、AIをエ...",
+      "published": "2026-09-27T10:01:52Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d695e3186d49f07802381a7e6d75adf3",
+      "title": "JevでXのタイムラインを浄化する拡張機能を作った",
+      "link": "https://zenn.dev/midorisawa07/articles/58411e9ee7e990",
+      "summary": "昨今のXのタイムラインがドブ川の様相を呈していることは、皆さんご存じのとおりです。 Xのアルゴリズムは、ユーザーに対して「今日はこの話題で怒りましょう」と義憤を煽り、「今日はこの人を嘲笑しましょう」とマウント欲を刺激する。義憤もマウント欲も太古から備わるヒトの本能であるため、アルゴリズムの誘いに乗っ...",
+      "published": "2026-09-27T15:17:24Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "78287f27e1441b746d6055c962f2c8fd",
+      "title": "グーグル、全アカウント保持者に無料の1080p AI動画生成を開放 — BigGo ファイナンス",
+      "link": "https://finance.biggo.jp/news/07c65cc5-d4c3-44a6-a1cd-cf009de26a8d",
+      "summary": "グーグルは9月23日、Googleアカウントを持つすべてのユーザーが、Google Vids上でGemini Omni 1.1 Flashモデルを用いた1080pのAI動画を無料で生成できるようになったと発表した。個人アカウントは月6本まで。シーン延長、正確なシーン長設定、旧クリップのアップスケーリ...",
+      "published": "2026-09-27T09:50:17Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43e673350e1e1da8fbef2dd05760134a",
+      "title": "5000円と2万円のキーボード、何が4倍違うんですか？",
+      "link": "https://ascii.jp/elem/000/004/437/4437268/",
+      "summary": "価格は4倍、でも性能も4倍？ 家電量販店やPCショップのキーボード売り場には、2000～3000円で買える製品から、1万円、2万円を超える高級モデルまで並んでいます。 たとえば、5000円と2万円なら価格差は4倍。では、2万円のキーボードは文字を4倍速く入力できるのか、ゲームで4倍強くなれるのか。 ...",
+      "published": "2026-09-27T10:45:11Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be973a182521a668ec2664925909eaec",
+      "title": "Platform Engineering Kaigi 2026 登壇資料まとめ",
+      "link": "https://zenn.dev/key60228/articles/d4f2591a42a876",
+      "summary": "こんにちは、@key60228 です。 Platform Engineering Kaigi 2026 に参加してきました！ 原理的な Platform Engineering の話から、AI 基盤としての Platform の話、組織論的な話、はたまた Kubernetes の Controlle...",
+      "published": "2026-09-27T03:21:00Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "da79c1d155aa80e06c2fc1d12d303a41",
+      "title": "目にみえる作業を電子化しても使えるシステムにならないので業務やってる人がAI使ってシステム作っても使い物にならないがち - きしだのHatena",
+      "link": "https://nowokay.hatenablog.com/entry/2026/09/27/115507",
+      "summary": "AIでだれでもちょっとしたプログラムを作れるようになっているので、業務をやってる人がシステム開発したけども全然使えない、みたいな話を聞くようになりました。 それで「業務をしっててもシステムは作れないのか」みたいな話が出ますが、システムを作れるほど「業務をしってる」という人はなかなかいなくて、多くは業...",
+      "published": "2026-09-27T03:36:26Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd83890b7f62c9d2dcd509b7b52baf99",
+      "title": "購入した｢iPhone｣のディスプレイはSamsung製? それともLG製?? ｰ 中国では毎年話題に | 気になる、記になる…",
+      "link": "https://taisy0.com/2026/09/27/228062.html",
+      "summary": "Apple関連の情報でもお馴染みのリーカーのIce Universe氏によるXの投稿（1/2）により、購入した「iPhone 18 Pro」シリーズのディスプレイがSamsung Display製とLG Display製のどちらかであるかを確認することが話題になっています。 同氏曰く、中国では毎年多...",
+      "published": "2026-09-27T09:15:26Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6f88bf631109204add0ddd0a05648b4",
+      "title": "年収1000万円は「貰えて当然」ではなくなった──経営者が気持ちよくお金を出す条件｜久松剛",
+      "link": "https://comemo.nikkei.com/n/n0b3f54556a70",
+      "summary": "定期的に盛り上がるITエンジニアの年収のお話です。ここのところ年収1000万円についての話題がXで多く見られました。 この1年で、年収を上げるのは難しくなりました。上げた年収を維持するのが難しくなったのも事実です。特に事業会社は厳しい傾向にあります。クライアントワークの場合は、顧客を掴めていたり、コ...",
+      "published": "2026-09-27T02:09:49Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "70eba410fec8f766d61f63d15f028944",
+      "title": "WDXL Lubrifont JP N - Google Fonts",
+      "link": "https://fonts.google.com/specimen/WDXL+Lubrifont+JP+N",
+      "summary": "",
+      "published": "2026-09-27T12:49:01Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc9b9181f49145f5980e5768837b64d5",
+      "title": "macOS 27 Golden GateではiPhoneミラーリングがDRMビデオをサポート。",
+      "link": "https://applech2.com/archives/20260927-macos-27-golden-gate-iphone-mirroring-support-drm-video.html",
+      "summary": "macOS 27 Golden GateではiPhoneミラーリングがDRMビデオをサポートしています。詳細は以下から。 Appleが日本時間2026年09月15日にリリースした「macOS 27 Golden Ga […] The post macOS 27 Golden GateではiPhone...",
+      "published": "2026-09-27T03:21:15Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b0d844fb4dc97e2e784c58e6d928dd2",
+      "title": "超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない",
+      "link": "https://gigazine.net/news/20260925-godlike-civilization/",
+      "summary": "「超高度な文明」がどのようなものか想像した時、別の恒星まで宇宙旅行をしたり他の惑星へ入植したりするような、外に拡大していくタイプの文明を想像する人は多いはず。ところが教育系YouTubeチャンネルのKurzgesagtは、「超高度な文明は外に拡大していくのではなく内の世界を自由自在に操作するのかもし...",
+      "published": "2026-09-25T13:55:34Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03e1ba98960d4ded431528b4349e4bae",
+      "title": "高額な「iPhone Duo」を横目にどう選ぶ？ Androidフォルダブルスマホをお得に買う方法【2026年9月版】",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news010.html",
+      "summary": "10月23日に発売される「iPhone Duo」は、Apple初のフォルダブルスマホとして注目を集めています。しかし、価格は36万4800円からと、なかなか手が出る価格ではありません。 その点、Androidでは以前からフォルダブルスマホが発売されており、ハイスペック機種からミドルまで選べます。そこ...",
+      "published": "2026-09-27T03:25:21Z",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e64e48f562436da4ba53d33aefb7ed5",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mvschwa…",
+      "link": "https://github.com/mvschwarz/openrig",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 mvschwarz / openrig ⭐ 663 (+114) 🗒 TypeScript Multi-agent harness that runs Claude Code and Codex together as one sys...",
+      "published": "27 Sep 2026 17:17 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6af4cf3b14be143b5962d364ba9800d",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 willfau…",
+      "link": "https://github.com/willfaust/Madeira",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 willfaust / Madeira ⭐ 709 (+171) 🗒 C Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "published": "27 Sep 2026 15:17 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37e781f3ddfda52b3191f363ff2e22b7",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Infinit…",
+      "link": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 InfinityLoop1308 / PipePipe ⭐ 6,421 (+139) 🗒 Shell An open-source Android app to let you browse YouTube and other ser...",
+      "published": "27 Sep 2026 14:17 +0000",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e018439f110f57040aa4bf8229d814cc",
+      "title": "AWS DevOps AgentをClaude Codeから使えるようにセットアップしてみた（Agent Toolkit for AWS）",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-claude-code-agent-toolkit-setup/",
+      "summary": "AWS DevOps Agentのユーザーガイドにある「エージェントのセットアップ」からClaude Codeをセットアップし、プラグインでDevOps Agentに接続して調査を実行してみました。",
+      "published": "Sun, 27 Sep 2026 16:21:24 GMT",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "65204d96c8b6e75d4978797081543eab",
+      "title": "Cognito で AdminInitiateAuth を使ったときの SSO を試してみた",
+      "link": "https://dev.classmethod.jp/articles/slug-aws-cognito-sso-oidc-adminInitiateAuth/",
+      "summary": "Cognito ユーザープールを認証基盤にした Web アプリが AdminInitiateAuth でログインしている場合に、別アプリへ OIDC でログインするとどうなるかを検証しました。",
+      "published": "Sun, 27 Sep 2026 14:57:14 GMT",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "62e7cd2cdcb6c985fe69d2ea6b04dd27",
+      "title": "Strands Agentsに「Strands harness」が追加されました！",
+      "link": "https://dev.classmethod.jp/articles/strands-harness-vs-agent/",
+      "summary": "Strands Agentsから新しく「Strands harness」が公開されました！今までのSDKと何が違うんでしょうか・・・！実際に触ってみました！Strands CLIのカエルが可愛いです！",
+      "published": "Sun, 27 Sep 2026 14:11:49 GMT",
+      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-27T13:25:58.620982+00:00"
+  "updated_at": "2026-09-27T18:00:12.067192+00:00"
 }

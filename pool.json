@@ -9,7 +9,77 @@
       "fetched_at": "2026-09-26T08:57:12.643835+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "81b8d83dee50f2daf40a86fe4c60854c",
+      "title": "楽楽明細における、障害対応時の動き方の話 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20260917/incident",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 楽楽明細における、障害対応時の動き方の話",
+      "published": "26 Sep 2026 23:55 +0000",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1577025999003427d035513516d7ae48",
+      "title": "Japan moves to tighten rules for foreigners",
+      "link": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "summary": "Article URL: https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt Comments URL: https:/...",
+      "published": "Sat, 26 Sep 2026 17:43:11 +0000",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a56823c4d8c788bd6a39d6112d866be9",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 100 # Comments: 32",
+      "published": "Sat, 26 Sep 2026 15:56:34 +0000",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "81a4701db82f11372e4e177d42e99340",
+      "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
+      "link": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
+      "summary": "自分は Go Proposal Weekly Digest というサイトを個人で運用しています。 Go 言語の Proposal と呼ばれる言語機能追加の提案を毎週 Claude Code がまとめるサイトで、公開してからそろそろ 8か月程度が立つものになります。 ありがたいことにユーザーが一定数付...",
+      "published": "2026-09-26T17:18:10Z",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ed163f8fb9782fae18b0ea0fe1719ba",
+      "title": "AI が書く Go コードの品質を劇的に向上させる Linter: “declscope”",
+      "link": "https://zenn.dev/yumemi_inc/articles/go-declscope-file-scoped-private",
+      "summary": "旧題: 「Go のフラットなパッケージにファイル単位の private を持ち込む Linter “declscope”」 はじめに Go は「誰が書いても同じようになる」言語 Go には表現の選択肢が多くありません。三項演算子もなければ例外もなく，メタプログラミングで遊ぶ文化も薄い。 if err...",
+      "published": "2026-09-26T10:09:00Z",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7af8c5a7c7114b9e8e2b66f5deb15bb2",
+      "title": "ナッツを多く食べる人、認知テストで高成績の傾向 豪州チームが1700人以上を分析",
+      "link": "https://www.itmedia.co.jp/news/article/2609/26/2000001711/",
+      "summary": "研究チームは、アメリカの健康調査「フラミンガム心臓研究」（FHS）のデータを用い、参加者を脳卒中の経験がないグループと脳卒中生存者のグループに分け、過去の食事データに基づくナッツの平均摂取量と、認知機能のテスト結果、MRIで測定した脳の体積、血液中に含まれる脳神経を保護する成分「BDNF」「VEGF...",
+      "published": "2026-09-26T03:35:04Z",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d501c6ac5243d2109a2313226b6f3083",
+      "title": "AIと小説を書くということ (2026/09/26版）｜erukiti",
+      "link": "https://note.com/erukiti/n/nbedfd9bcbae1",
+      "summary": "AIに小説を書かせることが当たり前の時代になりましたが、AIにポン出しで小説を書かせると品質の低い小説が生成されることも珍しくありません。 昨今、AI slop（スロップ）という、AIの吐き出した低品質な生成物を会社や学校や取引先などに提出してしまうという問題が、社会問題となりつつあります。これは小...",
+      "published": "2026-09-26T02:06:10Z",
+      "fetched_at": "2026-09-27T00:04:36.852516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-26T23:06:51.339129+00:00"
+  "updated_at": "2026-09-27T00:04:36.852516+00:00"
 }

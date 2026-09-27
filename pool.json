@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c5c4cad2b5441dbcd66fc0dc93e05615",
-      "title": "AWS Continuum now supports credential testing and accessible domain suggestions",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/",
-      "summary": "AWS Continuum for penetration testing is a frontier agent that proactively secures applications throughout the development lifecycle by offering on-de...",
-      "published": "Fri, 18 Sep 2026 18:34:00 GMT",
-      "fetched_at": "2026-09-26T08:57:12.643835+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "81b8d83dee50f2daf40a86fe4c60854c",
       "title": "楽楽明細における、障害対応時の動き方の話 - RAKUS Developers Blog | ラクス エンジニアブログ",
       "link": "https://tech-blog.rakus.co.jp/entry/20260917/incident",
@@ -399,7 +389,197 @@
       "fetched_at": "2026-09-27T07:23:52.124271+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "2bfdbda47642a8b182f0e82804623b0b",
+      "title": "vLLMとRDMAで構築するローカルLLMクラスタ (11)：レビュー指摘を直し、開発サイクルを閉じる - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20260917",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 vLLMとRDMAで構築するローカルLLMクラスタ (11)：レビュー指摘を直し、開発サイクルを閉じる",
+      "published": "27 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7df6b7007536889ece9f61442b7e0bc",
+      "title": "QAとSREの境界を埋める品質保証の3実践 - Topotal Blog",
+      "link": "https://blog.topotal.com/entry/2026/09/18/101435",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 QAとSREの境界にある品質保証の空白を埋める3つの実践",
+      "published": "27 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aed9aa2f984c79be65ca859de8de3f27",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "link": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "summary": "Article URL: https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/ Comments URL: https://news.ycombinator...",
+      "published": "Sun, 27 Sep 2026 08:44:04 +0000",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12a3f4b4740236de5a3c44659033e2cc",
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "summary": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Sun, 27 Sep 2026 06:19:33 +0000",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "464d6abf4a76652d9f4e18e43d307043",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.The core idea is to craft the input prompt so that the first out...",
+      "published": "Sat, 26 Sep 2026 15:49:04 +0000",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5672e58b5b80733571a473403039e335",
+      "title": "「SuicaがJR東海エリアで使えない」問題、ついに解消か JR東海社長「勉強している」",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html",
+      "summary": "鉄道会社間の広域利用が依然として課題となっている中、JR東海の丹羽俊介社長は会見で他社とのまたがり利用実現に向け模索しているとのコメントを発表した。現状、どのような課題があるのかを含め、整理してお伝えする。 境界の非対応区間を解消 Suicaエリア一体化による広域乗車と自由度の進化 JR東日本では、...",
+      "published": "2026-09-27T09:10:52Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "875adcacf607ecc1447c61df770aa897",
+      "title": "リモートワークを続けるためにやるべきこと - モヒカン技術ブログ",
+      "link": "https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work",
+      "summary": "コロナ禍が明け、リモートワークから出社への回帰が少しずつ増えている。 私個人としては労働者として「リモート最高！リモートしか勝たん」という気持ちと、管理職として「とは言え難しさがあるよね」という気持ちなので、それらを踏まえてリモートワークを続けたいなら労働者も一定の工夫をすると良い、という話をする....",
+      "published": "2026-09-27T07:03:07Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "397b54d1d2f9a0f78551344ad9e0e753",
+      "title": "ローカルLLMのためのメモリ基礎知識｜npaka",
+      "link": "https://note.com/npaka/n/n0ee92a316be3",
+      "summary": "ローカルLLMのためのメモリ基礎知識をまとめました。 1. CPU・GPU とメモリ1-1. CPU・GPU・RAM・VRAMの役割PCのスペックでは、 CPU / GPU / RAM / VRAM という4つの言葉がよく出てきます。 まず押さえておきたいのは、これらは同じ種類の部品ではないというこ...",
+      "published": "2026-09-27T04:00:05Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55045129a1938cd797d33080bc4dd2e6",
+      "title": "はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり",
+      "link": "https://honeshabri.hatenablog.com/entry/hatebu-veil",
+      "summary": "はてブのコメント欄には、有用なコメントも確かにある。 ただ、不毛な罵倒で消耗したくはない。 だから、Jevで攻撃的で役に立たないコメントを隠すChrome拡張を作った。 人気でも、攻撃的で役に立たない判定なら隠す 何を作ったのか はてなブックマークのコメント欄には、記事の補足や別視点の指摘など、読む...",
+      "published": "2026-09-27T12:26:03Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6110d1f5f7760e93ec0f589818f2a0d4",
+      "title": "「LLMへ渡したくない仕事」を考える",
+      "link": "https://zenn.dev/algoartis/articles/73f4da4aa13dcc",
+      "summary": "はじめに この記事は、2026年9月17日、福岡で開かれた 【仕事が捗りまくる】非ITの人にも難しくない生成AIを活用した業務効率化の知恵が集まる会 vol.2 で、大トリとして話させてもらった内容を記事にしたものです。 （大好評で嬉しかったので、記事にさせてもらいました） 「LLMに何をやらせるか...",
+      "published": "2026-09-27T12:09:53Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "080cbf06191b1d5c0816830f13a0868e",
+      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
+      "link": "https://note.com/npaka/n/n557fb948c3cf",
+      "summary": "AIデバッグはなぜ収束しないのかについてまとめました。 1. はじめにCodexなどのAIコーディングエージェントでは、 レビュー → 問題を修正 → 再レビュー というデバッグを繰り返すことができます。 Codexを使ったコードレビューでは、発見した問題を「P0〜P3」のような優先度で整理すること...",
+      "published": "2026-09-27T07:32:58Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de9f274401e6baa579807edbd48992c2",
+      "title": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20260927de52694",
+      "summary": "東京メトロは不正アクセスを受け、ポイントサービスに登録している会員のメールアドレスおよそ5万9000件が外部に流出した可能性があると発表しました。鉄道の運行に影響はないということです。 東京メトロ…",
+      "published": "2026-09-27T06:57:31Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93a483959a112c74987cb78e522ba7a8",
+      "title": "オープンAIのAIが暴走 米教育省、商務省、SECのサイト標的",
+      "link": "https://www.cnn.co.jp/tech/35253009.html",
+      "summary": "米オープンAIは25日、同社のAIエージェントの一部が今夏に暴走して米政府のウェブサイトを探っていたと明らかにした/Thomas Fuller/SOPA Images/LightRocket/Getty Images （CNN） 米オープンAIは25日、同社の一部のAI（人工知能）エージェントが今夏...",
+      "published": "2026-09-27T06:46:51Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cb0aa96a5d4b710d3fdf5a70897a9ba",
+      "title": "「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度",
+      "link": "https://gigazine.net/news/20260927-apple-watch-ultra-4-review/",
+      "summary": "2026年9月18日(金)、Apple Watchの最上位モデルとなる「Apple Watch Ultra 4」が発売されました。ハイエンドモデルのApple Watch Ultra 4の性能やいかにということで、普段Apple Watch Series 3を使っているGIGAZINE編集部員が、実...",
+      "published": "2026-09-27T01:07:08Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8634cc1b388e0745378bade0a8b838e6",
+      "title": "GitHub - devdotfast/whiteboard: open-source canvas for thoughtful software design",
+      "link": "https://github.com/devdotfast/whiteboard",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-27T08:03:53Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc7c44a10d6b7516907693c1c4be53ee",
+      "title": "情シス全員がグローバル管理者になっていませんか？ ～ Microsoft Entra PIM で始める特権管理 - Qiita",
+      "link": "https://qiita.com/carol0226/items/5b42b547f102fa8a17a4",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに あなたの組織では、情報システム部...",
+      "published": "2026-09-26T22:14:49Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "185ca528428d9a11e8e29b89bf6b4a78",
+      "title": "高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜 - Qiita",
+      "link": "https://qiita.com/ast-24/items/454fc975b095230565c7",
+      "summary": "こんにちは！とある高校のSE志望の学生です。 今年の文化祭で、私のクラスは模擬店としてホットドッグを販売することになりました。 そこで、注文から受け渡しまでを担うPOSシステムを1から開発・運用してみました！ インフラには一番手軽に使えて自由度も高いCloudflareを採用しました。 予行を含めた...",
+      "published": "2026-09-25T23:27:08Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c51c544068c4faa83f22ccaa0b961f90",
+      "title": "ランサムウェア攻撃によるシステム障害に関するお知らせとお詫び | お知らせ | 京王電鉄",
+      "link": "https://www.keio.co.jp/news/update/announce/nr260926v13404/",
+      "summary": "２０２６年９月２６日 京王電鉄株式会社 ランサムウェア攻撃によるシステム障害に関するお知らせとお詫び 京王電鉄株式会社（以下「当社」）は、ランサムウェアによる攻撃の影響でシステム障害が発生していることを２０２６年９月２６日未明に確認いたしました。現在、当社の事業に関する機密事項やお客様に関する情報な...",
+      "published": "2026-09-26T14:20:29Z",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "936ec47441d05d8d8043ce56fd5c667f",
+      "title": "Kiro Crew の Auto (Jev) によるモデルルーティングをローカル Kev で試してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-crew-auto-jev-model-route-local-kev/",
+      "summary": "プロンプトの複雑さに応じて haiku・sonnet・opus を自動で使い分ける Kiro Crew 0.7 のプレビュー機能を確認しました。判定エンジンは既定の Jev ではなく、互換 API を持つ Kev を M4 Mac の MLX でローカルに動かして使っています。",
+      "published": "Sun, 27 Sep 2026 07:43:49 GMT",
+      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-27T07:23:52.124271+00:00"
+  "updated_at": "2026-09-27T13:25:58.620982+00:00"
 }

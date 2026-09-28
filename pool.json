@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "573e8884e7be4be5953258d4e4b12016",
-      "title": "Why MCP Was Always a Bad Idea",
-      "link": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "summary": "Why MCP Was Always a Bad Idea Recently I went to an all-day event centered around the latest and greatest in the MCP world. While all of the presenter...",
-      "published": "2026-09-21T02:25:14Z",
-      "fetched_at": "2026-09-27T07:23:52.124271+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "8634cc1b388e0745378bade0a8b838e6",
-      "title": "GitHub - devdotfast/whiteboard: open-source canvas for thoughtful software design",
-      "link": "https://github.com/devdotfast/whiteboard",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
-      "published": "2026-09-27T08:03:53Z",
-      "fetched_at": "2026-09-27T13:25:58.620982+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "8128309eed1253afeed6289dd708198c",
       "title": "Claude Code reads AGENTS.md only when telemetry is on · blog.szypowi.cz",
       "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
@@ -869,7 +849,487 @@
       "fetched_at": "2026-09-28T10:20:37.370351+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "book"
+    },
+    {
+      "entry_id": "7a4f2e20b37940118fffddd42384657e",
+      "title": "Debian、開発者向けに無料のAI推論サービス「Debian Inference Portal」を提供開始 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/09/daily-linux-260925",
+      "summary": "Debian DeveloperやDebian Maintainerが対象。いい試みだと思う。",
+      "published": "28 Sep 2026 12:37 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "06525be964d56bcb6d83e1e06c4c1231",
+      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント - Speaker Deck",
+      "link": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+      "published": "28 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18d398716f5aa44d8cea717bb7bb96a9",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5 Comments URL: https://news.ycombinator.com/item?id=49881850 Points: 186 # Comments: 135",
+      "published": "Mon, 28 Sep 2026 17:58:11 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4986d362fe63a7bf4e4bc392595b1004",
+      "title": "Definitely not Windows (Win 11 parody)",
+      "link": "https://definitelynotwindows.com/",
+      "summary": "Article URL: https://definitelynotwindows.com/ Comments URL: https://news.ycombinator.com/item?id=49881747 Points: 161 # Comments: 45",
+      "published": "Mon, 28 Sep 2026 17:51:24 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "131bb1843cdb41f57dce44507ee088a4",
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Mon, 28 Sep 2026 16:11:42 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "feab8152bb49bd3e97efa1ffebd494cb",
+      "title": "Pirating the Pirates",
+      "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates Comments URL: https://news.ycombinator.com/item?id=49880036 Points: 180 # Comment...",
+      "published": "Mon, 28 Sep 2026 15:54:15 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1297c1839baf226d182a364cd69076a",
+      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+      "link": "https://www.thisamericanlife.org/897/transcript",
+      "summary": "Article URL: https://www.thisamericanlife.org/897/transcript Comments URL: https://news.ycombinator.com/item?id=49879697 Points: 139 # Comments: 92",
+      "published": "Mon, 28 Sep 2026 15:35:09 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9be216d320b16572b647fa8cf26aee17",
+      "title": "MongoDB CEO resigns to join Meta",
+      "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
+      "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/ Comments URL: https://news.yco...",
+      "published": "Mon, 28 Sep 2026 14:54:21 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e748149a191409a1cf68b922062749d",
+      "title": "Israel Keeps Expanding into Gaza Despite Cease-Fire, Satellite Images Show",
+      "link": "https://www.nytimes.com/interactive/2026/09/28/world/middleeast/israel-gaza-cease-fire-palestinian-territory.html",
+      "summary": "Article URL: https://www.nytimes.com/interactive/2026/09/28/world/middleeast/israel-gaza-cease-fire-palestinian-territory.html Comments URL: https://n...",
+      "published": "Mon, 28 Sep 2026 14:14:29 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e667ad8b61fe069d1abed7d5824b17a9",
+      "title": "Coding Is Not Solved",
+      "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+      "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved Comments URL: https://news.ycombinator.com/item?id=49877988 Points: 344 # Comments: 3...",
+      "published": "Mon, 28 Sep 2026 13:52:57 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3500ed56f6866fdee4c91009afad5a3b",
+      "title": "Has Violence Against Teachers Become Accepted by Society?",
+      "link": "https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/",
+      "summary": "Article URL: https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Mon, 28 Sep 2026 13:40:28 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "74393005f3ec31041468dc7ec310c85e",
+      "title": "Show HN: Hntui – A TUI for Hacker News",
+      "link": "https://github.com/ahmd-sh/hntui",
+      "summary": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like ...",
+      "published": "Mon, 28 Sep 2026 12:11:20 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f44798cde92913d64c8a69e398f53fa4",
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "link": "https://git.mills.io/prologic/parley",
+      "summary": "Article URL: https://git.mills.io/prologic/parley Comments URL: https://news.ycombinator.com/item?id=49875913 Points: 248 # Comments: 124",
+      "published": "Mon, 28 Sep 2026 10:30:54 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f0b338548c6ba86d3ecb7b97b520d85",
+      "title": "SpaceX's Starship launching to orbit for first time ever today",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+      "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-w...",
+      "published": "Mon, 28 Sep 2026 09:15:04 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cb2df5ff338bb0ece6c511251ca7715",
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "link": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "summary": "Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to...",
+      "published": "Mon, 28 Sep 2026 08:35:40 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ead39dbbf34b7631bd05b78992337ae",
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "link": "https://www.habibicode.org/thedrawnworld",
+      "summary": "Article URL: https://www.habibicode.org/thedrawnworld Comments URL: https://news.ycombinator.com/item?id=49875142 Points: 145 # Comments: 31",
+      "published": "Mon, 28 Sep 2026 08:35:10 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d32bc05baed91cc685e19afa4ac37d46",
+      "title": "Prompting Claude Opus 5.5",
+      "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "summary": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5 Comments URL: https://news.ycombinator...",
+      "published": "Mon, 28 Sep 2026 07:33:29 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aad30ad78edc2b03bf696dce2243cfcb",
+      "title": "Armada: Encrypted, Open-Source, Discord Alternative (Built on Nostr)",
+      "link": "https://soapbox.pub/armada",
+      "summary": "Article URL: https://soapbox.pub/armada Comments URL: https://news.ycombinator.com/item?id=49873048 Points: 121 # Comments: 13",
+      "published": "Mon, 28 Sep 2026 02:55:27 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "583e8be1bf1c49c0672a7fd7cb7bde20",
+      "title": "Nissan's third generation e-POWER powertrain",
+      "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ Comments URL: https://news.ycombinator.com/item?id=49872883 ...",
+      "published": "Mon, 28 Sep 2026 02:31:23 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6aaaa01e8112e179efe3cb9c46b15766",
+      "title": "週刊AWS – 2026/9/21週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20260921/",
+      "summary": "Claude Opus 5.5 が AWS で利用可能に、Amazon CloudWatch Omni: エージェントとアプリケーションのための AI ファーストオブザーバビリティ、スケーラブルな LLM 推論のための Amazon SageMaker HyperPod Inference Gate...",
+      "published": "Mon, 28 Sep 2026 14:15:05 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cff73ce94414c6e8da5aeaa335bd55e1",
+      "title": "オムロン、祖業を売却 電子部品事業「重い決断」 | NEWSjp",
+      "link": "https://news.jp/i/1477171752691761383",
+      "summary": "オムロンが、祖業の電子部品事業を10月1日付で米投資ファンドに売却する。中国勢の台頭で競争が激化し「大変重い決断だったが、グループとしての企業価値向上のために必要」（辻永順太社長）としている。主力の制御機器事業を中心に、データビジネスと親和性の高い分野に経営資源を集中し収益力を高める。 電子部品事業...",
+      "published": "2026-09-28T08:11:38Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "965d1afe3a451afb7a6356e2b9714168",
+      "title": "Yahoo!きっずサービス終了のお知らせ - Yahoo!きっずからのお知らせ - Yahoo!きっず",
+      "link": "https://kids.yahoo.co.jp/info/archives/20260928_1.html",
+      "summary": "みんなへ Yahoo!きっずは、2026年12月4日にサービスを終了します。 びっくりした人や、さみしいなと思った人もいるかもしれません。 Yahoo!きっずは、27年間、みんなの「知りたい！」を応援してきました。 調べものをしたり、ゲームで遊んだり、タイピングに挑戦したり。 みんなと過ごした時間は...",
+      "published": "2026-09-28T14:44:53Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b52c17afe9e2989b87726f0c36f3217",
+      "title": "昔の「ビデオCD」がWindowsのエクスプローラーを破壊するという報告",
+      "link": "https://gigazine.net/news/20260928-windows-explorer-video-cd/",
+      "summary": "WindowsでビデオCDの内容をエクスプローラーからPCへコピーすると、転送速度が0になって停止し、その後WindowsのUIやエクスプローラーが正常に動作しなくなる場合があることが報告されています。この問題はWindows 10とWindows 11で確認されており、報告者の検証では2023年前...",
+      "published": "2026-09-28T12:42:47Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8059407617fb9e323347169e845653e5",
+      "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+      "link": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+      "summary": "September 28, 2026EmDash 1.0: the stable CMS with a secure plugin registry When we introduced EmDash on April 1 as the “spiritual successor to WordPre...",
+      "published": "2026-09-28T14:04:54Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff5c2ddf1f75d50aba83e1cb82811b20",
+      "title": "優秀なエンジニアの定義 - pospomeのプログラミング日記",
+      "link": "https://www.pospome.work/entry/2026/09/28/152221",
+      "summary": "（補足）なぜ \"優秀なエンジニア\" の定義が重要なのか pospomeが思う \"優秀なエンジニア\" とは \"最大のボトルネック\" を見つけるのは意外と難しい \"現実的に解消できる最大のボトルネック\" を探す 重要なのは \"ボトルネックを探し続けること\" まとめ 宣伝 株式会社カミナシで VPoE を...",
+      "published": "2026-09-28T06:39:20Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a77c6fe5a07622a9c43cb4a4450e1f35",
+      "title": "GitHub - akkie76/code-review-skills: Evidence-based code review skills for Codex and Claude Code",
+      "link": "https://github.com/akkie76/code-review-skills",
+      "summary": "日本語 Code Review Skills is an evidence-driven code-review workflow for AI coding agents. It helps Codex and Claude Code find actionable defects while a...",
+      "published": "2026-09-28T05:54:55Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3d03e85a084791043395c562677249c",
+      "title": "primeNumberを退職し(て)ました | tk3fftk.dev",
+      "link": "https://blog.tk3fftk.workers.dev/diary/2026-09-28/",
+      "summary": "3行まとめ 2026/08/31付けでprimeNumberを退職しました (最終出社は7月半ばくらいでした) 2026/09/01から、弁護士ドットコム株式会社でSREとして働いています(Platform & Reliability Engineering部所属, not クラウドサインのSRE)...",
+      "published": "2026-09-28T13:16:33Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f370107910c3ed709eab9351261ae70",
+      "title": "GitHubに「悪質な模倣ソフト」を通報しても3週間以上放置されたがネットで話題になると10分で削除されたとの報告",
+      "link": "https://gigazine.net/news/20260928-github-removed-imitation-software-sns-buzz/",
+      "summary": "2026年9月、ソフトウェア開発者のアンディ・ブライス氏が、ソフトウェア開発プラットフォームのGitHubに「悪質な模倣ソフトがある」と報告したものの、3週間以上放置されたという内容のブログを投稿しました。GitHubは3週間以上ブライス氏の報告に対処しなかったにもかかわらず、このブログがソーシャル...",
+      "published": "2026-09-28T11:15:39Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64b2e04565c23bafbdb7c10f024f3826",
+      "title": "日本郵便とKDDI、石川県珠洲市の郵便局にドローンポート設置 AIドローンの社会実装に向けて実証をスタート",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2143635.html",
+      "summary": "",
+      "published": "2026-09-28T03:49:10Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8af233cca07143acfa7a38bffc4cc2bc",
+      "title": "全社員がAIを「使う」の次へ ーノンエンジニア1,500人が安全に業務を作り変えるゴールデンパスとガードレール",
+      "link": "https://speakerdeck.com/lmi/pek2026-link-and-motivation",
+      "summary": "リンクアンドモチベーション登壇資料（2026/9/26） 全社員がAIを「使う」の次へ ーノンエンジニア1,500人が安全に業務を作り変えるゴールデンパスとガードレール #リンモチ #リンクアンドモチベーション #PEK2026 #PlatformEngineering =========…",
+      "published": "2026-09-26T09:17:07Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a23526bdbc409fb9d97a00504a8135eb",
+      "title": "AIに「推測するな」と指示するだけで架空データが70％から20％に減少したという実験結果",
+      "link": "https://gigazine.net/news/20260928-ai-do-not-guess/",
+      "summary": "生成AIにウェブページから情報を抜き出させる際に「ページに値がなければnullを使い、推測しないでください」と指示するだけで、存在しない値を作り出す割合が70.7％から20.2％まで低下したという実験結果をAIエージェント向けマーケットプレイスのEarn an Honest Dollarが公開しまし...",
+      "published": "2026-09-28T07:36:59Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00683a0e73455abd617020967bbc29e9",
+      "title": "富士通が脱人月モデルへ CROが説く「AI時代のバリュープライシングへの転換」とは",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2609/28/news080.html",
+      "summary": "DX（デジタルトランスフォーメーション）、さらにはAX（AIトランスフォーメーション）が進むにつれ、ITベンダーがITサービスをユーザーに提供する料金形態において、従来の人月計算から提供価値をプライシングする形への移行に迫られている。こうした中、富士通が自らの取り組みについて明らかにした。その内容が...",
+      "published": "2026-09-28T05:29:04Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f14448fef836b7a67a32138e75a920c1",
+      "title": "墨消しが得意な無料PDF編集ソフト「PDF MARIN」、国会図書館の縦書きAI-OCRでテキスト起こしも強化／写真やスキャンの表を「Excel」へ書き出し、印鑑機能も改善",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2143764.html",
+      "summary": "",
+      "published": "2026-09-28T07:48:20Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d6d401a298e062eaaa45350edcb9944",
+      "title": "日系SIerの「御用聞き」は流行りの「FDE」に花開くか？ 日立が語る“時代の変化”",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2609/28/2000001784/",
+      "summary": "「昔は、ぶっちゃけ“御用聞き”でした」――日立製作所（以下、日立）で「FDE」（Forward Deployed Engineer）として顧客の現場に入る中村憲吾氏は、こう振り返る。 「御用聞き」は、顧客の要件通りに開発するSIerの受け身の姿勢を揶揄（やゆ）する言葉だ。一方、AIプラットフォーマー...",
+      "published": "2026-09-28T04:31:57Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8d4a9c095a93c6bcda7cc35f56f3947",
+      "title": "我々はAI認知負債を増やしつつある - だからこそ、学習を再設計しなくてはならない - arclamp",
+      "link": "https://arclamp.hatenablog.com/entry/2026/09/28/093718",
+      "summary": "AIを使えば、これまで自分で考えていたことの多くを、短い時間で進められるようになります。 一方で、自分で考え、試し、間違え、直す機会は減っていきます。仕事は速くなっても、その仕事を通じて身につけていた力まで失っているかもしれません。 AIを使うこと自体が問題なのではありません。問題は、AIに任せるこ...",
+      "published": "2026-09-28T05:02:08Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40571441fcd7f34d9b74e00057c5f317",
+      "title": "タイムズカー約660万件情報漏えい - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6596854",
+      "summary": "カーシェアリングサービス「タイムズカー」を運営するタイムズモビリティ（パーク24グループ）は9月28日、不正アクセスを受けたシステムから、会員情報約660万件が漏えいしたと発表した。漏えいした情報には、運転免許証画像などの本人確認書類情報も含まれている。",
+      "published": "2026-09-28T08:29:19Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bf303b7fdad8c0c51c8e3dd76806f26",
+      "title": "Rails作者DHHが描くプログラミングの未来。AI時代にLinuxデスクトップが勝つ理由。Omarchyとは何か。",
+      "link": "https://www.youtube.com/watch?v=U5DGGiXWDMw",
+      "summary": "omarchy公式サイト https://omarchy.org/ 何かと話題のDHH。彼の極端な主張が覇権を取る日は来るのだろうか。中国アリババはOmarchyに出資しAI NativeなOS搭載端末開発が噂されてもいます。ちなみに2026年の10月のKaigi on RailsでDHHが来日予定...",
+      "published": "2026-09-27T02:52:42Z",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2dc16e18a1e2d3779a65384b54b6903",
+      "title": "GitHub - byoungd/up: An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 · GitHub",
+      "link": "https://github.com/byoungd/up",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 byoungd / up ⭐ 64,354 (+310) 🗒 JavaScript An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离...",
+      "published": "28 Sep 2026 15:17 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb57e84ba2ef0af9a61898447aa0883d",
+      "title": "GitHub - cs341-illinois/coursebook: Open Source Introductory Systems Programming Textbook for the University of Illinois · GitHub",
+      "link": "https://github.com/cs341-illinois/coursebook",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 cs341-illinois / coursebook ⭐ 2,233 (+265) 🗒 TeX Open Source Introductory Systems Programming Textbook for the Un...",
+      "published": "28 Sep 2026 13:17 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9044a443cc06c1711f2c92fea37c2c3c",
+      "title": "GitHub - NawfalMotii79/PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system · GitHub",
+      "link": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 NawfalMotii79 / PLFM_RADAR ⭐ 25,606 (+145) 🗒 PLSQL Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "published": "28 Sep 2026 12:17 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1daa46e6500157f59de1de8091b8df14",
+      "title": "【PostgreSQL】pg_trgmによる文字列の類似度検索を試す",
+      "link": "https://dev.classmethod.jp/articles/postgresql-pg-trgm-string-similarity-search/",
+      "summary": "PostgreSQLの拡張機能、pg_trgmを使い、表記が異なるデータに対して類似度検索ができるかを検証しました。",
+      "published": "Mon, 28 Sep 2026 11:30:23 GMT",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8833b9f6ed105006c149b02bb555322",
+      "title": "Jevで動くブラウザエージェントとClaude Code + Playwright MCPに同じ操作を任せて比べてみた",
+      "link": "https://dev.classmethod.jp/articles/jev-browser-agents-vs-claude-code-playwright-mcp/",
+      "summary": "判断と確率だけを返すモデルJevでブラウザを操作するOSS、jev-ultrafastとlaya-ultrafastをClaude Code + Playwright MCPと14シナリオで比べました。英語の検索や並べ替えは数秒で終わる一方、パスワード欄の除外、入力後のEnterなし、日本語の渡し方...",
+      "published": "Mon, 28 Sep 2026 10:21:09 GMT",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4945031fede1301f351903295485e7cd",
+      "title": "Mortal FM Kombat: Plogue’s meticulous OPMZ Yamaha emulation totally slaps",
+      "link": "https://cdm.link/chipsynth-opmz-review/",
+      "summary": "We're awash with emulations at the moment, but this one is on another level. The chip that powered everything from Yamaha’s little-known CX5M computer...",
+      "published": "Mon, 28 Sep 2026 15:02:38 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "cf8813f3065f887499a39c6d4ed813af",
+      "title": "“I don’t hear too many women using that effect”: The mystery number one item UNIIQU3 would have in her dream studio",
+      "link": "https://musictech.com/news/gear/the-mystery-number-one-item-uniiqu3-would-have-in-her-dream-studio/",
+      "summary": "“I think it’s kind of a dude thing,” says the DJ, producer and Jersey Club legend. The post “I don’t hear too many women using that effect”: The myste...",
+      "published": "Mon, 28 Sep 2026 12:07:42 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "35f394e37bf8ad67545cc1ed3199cc1f",
+      "title": "VocAlign 7: Syncing vocals has never been easier",
+      "link": "https://musictech.com/features/vocalign-7/",
+      "summary": "In one of the biggest upgrades of VocAlign’s 30-year history, version 7 now offers a multi-track workflow, per-clip time and pitch editing, and a long...",
+      "published": "Mon, 28 Sep 2026 08:00:46 +0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fda39252af757a2abc9fc9e2a8c1fea3",
+      "title": "The Tape Label Report, September 2026",
+      "link": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-september-2026",
+      "summary": "5 more tape labels to know and love. How have we not run out yet. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 28 Sep 2026 17:25:26 -0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "3a3b34b17d24c36c15720038dab1e40b",
+      "title": "The Best Hip-Hop on Bandcamp, September 2026",
+      "link": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-september-2026",
+      "summary": "Our guide to the month’s crucial hip-hop LPs. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 28 Sep 2026 13:31:27 -0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "61e18fe8efac6cd42dbfe6bfae6d41e2",
+      "title": "Big Flowers & shemar, “i love nature!”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/big-flowers-shemar-i-love-nature-review",
+      "summary": "The New York City rapper and producer's collaboration contains a single directive: Go touch grass. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 28 Sep 2026 13:31:01 -0000",
+      "fetched_at": "2026-09-28T19:01:12.081608+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-28T10:20:37.370351+00:00"
+  "updated_at": "2026-09-28T19:01:12.081608+00:00"
 }

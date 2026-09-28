@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8128309eed1253afeed6289dd708198c",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on · blog.szypowi.cz",
-      "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "summary": "Claude Code、CLAUDE.mdがなければAGENTS.mdを読み込むようになったが、テレメトリを無効にしてるとAGENTS.mdを読み込まないらしい。なんじゃそりゃ。",
-      "published": "27 Sep 2026 14:48 +0000",
-      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "159354771ee93801e833a3c71e5a55dd",
-      "title": "AIによりセキュリティで「防御側が勝てる時代が来た」のか？ - YAMDAS現更新履歴",
-      "link": "https://yamdas.hatenablog.com/entry/20260924/tada-tadashi",
-      "summary": "リンク先も見たけど、自分の頭では「防御側優位」の理屈がよくわからなかった。",
-      "published": "27 Sep 2026 14:15 +0000",
-      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ed144f89df75bba7c1d797c371140af0",
-      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
-      "link": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
-      "summary": "記事の後半にも書かれてるけど、ChromebookとAndroidは現状でもDebianを利用できるし、そこから大きな進展がありそうではない。Linuxデスクトップ元年の根拠としては弱い。",
-      "published": "27 Sep 2026 13:45 +0000",
-      "fetched_at": "2026-09-27T18:00:12.067192+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "cfa84694265d3538bb4e7a7545a16d89",
       "title": "Googleドキュメント、Gemini Notebookを参照可能に ——ノートブックの情報をもとに文章を生成 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/09/google-docs-with-gemini-notebook",
@@ -1329,7 +1299,277 @@
       "fetched_at": "2026-09-28T19:01:12.081608+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "13f1b2f89f9d015409d0f9cf417b7b96",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "link": "https://github.com/firelex/jeff",
+      "summary": "Article URL: https://github.com/firelex/jeff Comments URL: https://news.ycombinator.com/item?id=49883844 Points: 139 # Comments: 38",
+      "published": "Mon, 28 Sep 2026 20:23:36 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "80accab252a21cb66fd315668d517027",
+      "title": "World Labs Is Joining AMD",
+      "link": "https://www.worldlabs.ai/blog/amd-announcement",
+      "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement Comments URL: https://news.ycombinator.com/item?id=49883760 Points: 130 # Comments: 45",
+      "published": "Mon, 28 Sep 2026 20:18:05 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86b377b2ee8eb31902d0a619e0a90d1b",
+      "title": "It's Time to Investigate the AI Labs",
+      "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/ Comments URL: https://news.ycombinator.com/item?id=49883471 Points: 160 # Com...",
+      "published": "Mon, 28 Sep 2026 19:53:35 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d98aa8c059a11501b9a25e26a5b81fdf",
+      "title": "So long Google, and thanks for all the nudes",
+      "link": "https://lecaro.me/20260921-google-less.html",
+      "summary": "Article URL: https://lecaro.me/20260921-google-less.html Comments URL: https://news.ycombinator.com/item?id=49881951 Points: 196 # Comments: 79",
+      "published": "Mon, 28 Sep 2026 18:04:47 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f28d02ffed6c736c289ebac5f5ca0127",
+      "title": "Hijacking the PS5's RTMP stream",
+      "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+      "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/ Comments URL: https://news.ycombinator.com/item?id=49879702 Points: 167 # Comments:...",
+      "published": "Mon, 28 Sep 2026 15:35:23 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce4860d2047c078370c4e8986908b224",
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "link": "https://hn.watch/",
+      "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugge...",
+      "published": "Mon, 28 Sep 2026 15:16:13 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa87528791b82e07378611d43f8756fe",
+      "title": "What would a serious AI product look like?",
+      "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html Comments URL: https://news.ycombinator.com/item?id=49876148 Points: 122 # Comments:...",
+      "published": "Mon, 28 Sep 2026 11:02:12 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "45ffdf01aefb58b8193cc0b925afd894",
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "link": "https://github.com/seamusc/papermono-shopping-list",
+      "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink touchscreen), synced with a phone web app over Wi-Fi. Works offline, ~2,400 lines...",
+      "published": "Mon, 28 Sep 2026 10:14:41 +0000",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cec4abbf89f689179ad180c069dd8b6",
+      "title": "Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/",
+      "summary": "Amazon EC2 Future-dated Capacity Reservations let you secure capacity up to 120 days in advance by specifying the capacity you need, the start date, a...",
+      "published": "Mon, 28 Sep 2026 21:17:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "973aff214e18042f35ef0f3bddb4cd01",
+      "title": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/",
+      "summary": "Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check received a low score and how users cou...",
+      "published": "Mon, 28 Sep 2026 20:41:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1920fe987d077bc43af03d75e3cf8b7b",
+      "title": "Claude Sonnet 5.5 now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
+      "summary": "AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower ...",
+      "published": "Mon, 28 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "520a147d840325c64ddb5705398dda0b",
+      "title": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/",
+      "summary": "AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work wi...",
+      "published": "Mon, 28 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aaf1f21e88ef50f73ee69f8aed4e3a84",
+      "title": "Amazon Corretto September 2026 Patch Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/",
+      "summary": "On September 25, 2026, Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) and Feature Release (FR) versions of ...",
+      "published": "Mon, 28 Sep 2026 14:00:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "496e26cf45ea975b820015c81a4e902b",
+      "title": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/",
+      "summary": "AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that allows...",
+      "published": "Mon, 28 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "82325c6f49b4007529d4bfa4746bd598",
+      "title": "Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/27/120017",
+      "summary": "はじめに Codexが修正している途中で、「なぜ、その判定を変えるのか」と聞きたくなることがあります。理由を知りたいだけなのか、その変更を止めてほしいのか。途中で送る一文にも、別の目的があります。 長い仕事を続ける /goal、途中の質問を分ける /side、実行中の指示変更と予約送信。それぞれ、作...",
+      "published": "2026-09-27T07:55:43Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "caa83ef1b44762f04347eda05ba86d30",
+      "title": "タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/09/28/214857",
+      "summary": "2026年9月25日、タイムズモビリティとパーク24は、カーシェアリングサービス「タイムズカー」のWebサイトが不正アクセスを受け、会員の個人情報が外部に漏えいした可能性があると公表しました。その後の調査で、対象システムに保存されていた会員情報の一部が第三者に取得されたことが判明しています。ここでは...",
+      "published": "2026-09-28T14:43:54Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc356236f820c657b4704055870ca9ed",
+      "title": "NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー",
+      "link": "https://www.nipponrentacar.co.jp/info/202609.html",
+      "summary": "2026年9月26日（土） このたび、ニッポンレンタカーサービス株式会社が運営する「ニッポンレンタカーアプリ」のシステムに対し、第三者による不正アクセスが発生し、会員様の情報が不正に閲覧されたおそれのあることを確認いたしました。 本件の対象となる会員様は41名であり、閲覧されたおそれのある情報は、氏...",
+      "published": "2026-09-28T17:03:58Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21cbf3644c6d8039d132202a3955cebd",
+      "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+      "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "summary": "September 28, 2026Introducing cf: the agentic CLI for the entire Cloudflare API Over the last year, agent use of Wrangler has skyrocketed. In March 20...",
+      "published": "2026-09-28T16:16:09Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a17ae04636e3155c5aa08c57ce32bfed",
+      "title": "職種の境界が溶けた先、プロダクトマネージャーはどこへ行くのか──ログラス・Ubie・RightTouchが出した3つの答え",
+      "link": "https://codezine.jp/article/detail/29771",
+      "summary": "AIによって「作る」コストが下がり、プロダクトづくりの職種の境界は溶けていく。8月31日にログラスが開いた公開イベントで、登壇した3社はこの前提を共有していた。一方で、溶けた先にプロダクトマネージャーが向かう先として示した答えは、3社ばらばらだった。ログラスは「事業責任者になる」、Ubieは「作る側...",
+      "published": "2026-09-28T01:23:48Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f027163ed3b5b02ab60ca6e2b0fab8a0",
+      "title": "Yahoo!きっずサービス終了のお知らせ（先生、保護者のみなさまへ） - Yahoo!きっずからのお知らせ - Yahoo!きっず",
+      "link": "https://kids.yahoo.co.jp/info/archives/20260928_2.html",
+      "summary": "いつもYahoo!きっずをご利用いただき、誠にありがとうございます。 この度、Yahoo!きっずは2026年12月4日をもちましてサービスを終了させていただくことになりました。 これまで長きにわたり、サービスをご愛用いただきました皆さまに、心より感謝申し上げます。 Yahoo!きっずの終了は、子ども...",
+      "published": "2026-09-28T21:28:12Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a38e245892b8d48e5b368f2b81f8722d",
+      "title": "GitHub - awslabs/aws-service-eol-data: Machine-readable JSON dataset of AWS service version end-of-support and extended-support dates across EKS, RDS, Aurora, Lambda, ElastiCache, OpenSearch, MSK, Amazon MQ, and DocumentDB. Each entry includes lifecycle s",
+      "link": "https://github.com/awslabs/aws-service-eol-data",
+      "summary": "NOT AN OFFICIAL AWS API. This is a community-maintained dataset provided on a best-effort basis. It is not an official AWS product, service, or commit...",
+      "published": "2026-09-25T11:21:21Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "708263ee80f5c5ad34ba04c96b11fc38",
+      "title": "MySQLクライアントをTrilogyへ移行しました - inSmartBank",
+      "link": "https://blog.smartbank.co.jp/entry/mysql2-to-trilogy",
+      "summary": "こんにちはスマートバンクでプロダクトエンジニアをしているyuhi(@yuhi_junior)です。 先日Reliability委員会（委員会制度について）の活動としてMySQLクライアントを mysql2 から Trilogy へ移行しました。Rails 7.1公開時に話題となったものの、実際の移行...",
+      "published": "2026-09-28T12:08:03Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c92e8082300194b49f51df2ada7701ca",
+      "title": "GitHub - docker/skills: A collection of Docker skills for AI coding agents to help them build, test, debug, and optimize containerized apps with consistent, reusable workflows.",
+      "link": "https://github.com/docker/skills",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-09-26T10:20:51Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2c363ba69ba09b6afe5b28cdcb93236",
+      "title": "開発者とSREが同じ仕組みを使う、ローカルに閉じない自律AIエージェントのつくり方 | ドクセル",
+      "link": "https://www.docswell.com/s/WN_Tech-PR/ZY8QXP-2026-09-07-111839",
+      "summary": "スライド概要 2026年9月26日に開催された「Platform Engineering Kaigi 2026」で使用した資料です。 詳細：https://www.cnia.io/pek2026/sessions/8f889fe9-be49-4a29-93af-0c3af28646eb/",
+      "published": "2026-09-28T05:28:56Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cefd139e3a1b66e71f782e5cc9cb34fe",
+      "title": "3人で1000GPU超を統合運用する？マルチクラウド＆オンプレを跨ぐ、構築と運用のリアル！",
+      "link": "https://speakerdeck.com/kazukun0716/3-hito-de-1000gpu-chou-o-tougou-unyou-suru-o-matagu-kouchiku-to-unyou-no-riaru",
+      "summary": "Turingでは、完全自動運転AIの開発を支える1,000基超のGPU学習基盤を、少人数のインフラチームで運用しています。対象は、オンプレミスのGC1、国内IaaSのGMO クラウド、AWS、Google Cloudの4環境です。チームはCFP提出時の3人から現在は4人になりましたが、基盤の拡大や障...",
+      "published": "2026-09-28T08:31:36Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f559d2559f147afdaf0954a79f3ed34",
+      "title": "Excel、40年続く原則を変更へ 1個のセルで複数の値を扱う新機能",
+      "link": "https://www.itmedia.co.jp/news/article/2609/28/2000001820/",
+      "summary": "米Microsoftは9月24日（現地時間）、表計算ソフト「Excel」で、1つのセルに複数のデータを入力し、それぞれを絞り込みや計算に使える新機能「Lists」を発表した。Windows版とMac版の一部ユーザー向けに、プレビュー版として順次提供する。同社は、40年続いた「1セルに1つの値」という...",
+      "published": "2026-09-28T10:20:41Z",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e46fbe25a3dc1d4f6460ab81d826c85",
+      "title": "Amazon Bedrock で利用可能になった Claude Sonnet 5.5 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-claude-sonnet-5-5/",
+      "summary": "Amazon Bedrock で利用可能になった Claude Sonnet 5.5 を東京リージョンから Converse API で呼び出してみました。Sonnet 5 比で 30% 以上の高速化と最大 30% のコスト削減を謳いつつ、Bedrock の料金は Sonnet 5 と同額です。",
+      "published": "Mon, 28 Sep 2026 19:48:40 GMT",
+      "fetched_at": "2026-09-28T23:02:14.036292+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-28T19:01:12.081608+00:00"
+  "updated_at": "2026-09-28T23:02:14.036292+00:00"
 }

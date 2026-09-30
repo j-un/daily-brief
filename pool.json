@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f08142cb1bd6c5832588e10e4c74afbc",
-      "title": "Python Workers are now generally available | Cloudflare Blog",
-      "link": "https://blog.cloudflare.com/python-workers-ga/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Python Workers are now generally available",
-      "published": "29 Sep 2026 03:55 +0000",
-      "fetched_at": "2026-09-29T07:42:50.242025+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "ce7ed0292332a013a2eb05ef21ff8ae5",
       "title": "Secret Weblog • Coding with a Sigh",
       "link": "https://blog.startifact.com/posts/sigh-coding/",
@@ -749,7 +739,517 @@
       "fetched_at": "2026-09-30T07:45:57.084130+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "df82cc054c0d70c61ce33c64bf1880c1",
+      "title": "Shopifyのネイティブ回帰、DuckDBとTailwindの買収、ZFSでつくるDBブランチ── クラウド／インフラ話題7選 - Findy Media | IT/Webエンジニアの転職・求人サイトFindy – GitHubからスキル偏差値を算出",
+      "link": "https://findy-code.io/media/articles/modoku-netmarkjp-202609",
+      "summary": "今月も書きました！ 個人的に特にZFSでつくるDBブランチがアツい。 Shopifyのネイティブ回帰、DuckDBとTailwindの買収、ZFSでつくるDBブランチ── クラウド／インフラ話題7選 - Findy Media",
+      "published": "30 Sep 2026 11:00 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa60bcb3abb3df0ed3519cd4912e02df",
+      "title": "なぜ、SREはロールであるべきか - Speaker Deck",
+      "link": "https://speakerdeck.com/ntk221/naze-sre-ha-rorudearubeki-ka",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 なぜ、SREはロールであるべきか",
+      "published": "30 Sep 2026 10:56 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "641a1923f781e5c96d6184310e1fb2f0",
+      "title": "SREの視点で考えるSIEM活用術 〜AWS環境でのセキュリティ強化〜 - Speaker Deck",
+      "link": "https://speakerdeck.com/cscengineer/leveraging-siem-from-an-sre-perspective",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 SREの視点で考えるSIEM活用術 〜AWS環境でのセキュリティ強化〜",
+      "published": "30 Sep 2026 10:55 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b142ccc272f033305ca050464d07da01",
+      "title": "数値変えただけで年間約100万円コスト削減した話 - Speaker Deck",
+      "link": "https://speakerdeck.com/syossan27/suuchi-kaeta-dakede-nenkan-yaku-100-manen-kosuto-sakugen-shita-hanashi",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 数値変えただけで年間約100万円コスト削減した話",
+      "published": "30 Sep 2026 08:56 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3618b3e9cfa9e0c0c7ecfab26e9b41e",
+      "title": "EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/09/25/162348",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話",
+      "published": "30 Sep 2026 08:55 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee42bcc304fbbddf192474b7da22ae40",
+      "title": "ZOZOTOWN Androidのリリース準備を自動化 ── Jira AutomationとGitHub Actionsで手作業を減らす - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/zozotown-android-release-automation",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ZOZOTOWN Androidのリリース準備を自動化 ── Jira AutomationとGitHub Actionsで手作業を減らす",
+      "published": "28 Sep 2026 03:55 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bec13e21ca4132adf7d37bfb503a3897",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "summary": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use Comments URL: https://news.ycombinator.com/item?id=499...",
+      "published": "Wed, 30 Sep 2026 10:49:32 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "39fa3efedfed2cde1d8fc0d26e0f0c61",
+      "title": "Pi.dev: You Said No MCP",
+      "link": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/ Comments URL: https://news.ycombinator.com/item?id=49906637 Points: 297 # Comments: 150",
+      "published": "Wed, 30 Sep 2026 09:55:23 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2de83f06b6134d9c7da650a6d3e7beb4",
+      "title": "Why Is Sam Altman a Free Man?",
+      "link": "https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/",
+      "summary": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/ Comments URL: https://n...",
+      "published": "Wed, 30 Sep 2026 07:32:40 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40aff9c1f3a86c4b506efa4b2b7f3d14",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/ Comments URL: https://news.ycombinator.com/item?id=49905487 Points...",
+      "published": "Wed, 30 Sep 2026 07:12:31 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b5f6a0d22c58ad2ba214cbec751d5fc",
+      "title": "Tesla takes on $30B in credit as it approaches unprofitability",
+      "link": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
+      "summary": "Article URL: https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/ Comments URL: https://news.ycombinat...",
+      "published": "Wed, 30 Sep 2026 04:37:37 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e0145b5b98717169af121ecd32cf0ca",
+      "title": "RSS Feeds for Last.fm",
+      "link": "https://lfm.xiffy.nl/",
+      "summary": "Article URL: https://lfm.xiffy.nl/ Comments URL: https://news.ycombinator.com/item?id=49903862 Points: 100 # Comments: 29",
+      "published": "Wed, 30 Sep 2026 03:00:05 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1920fe987d077bc43af03d75e3cf8b7b",
+      "title": "Claude Sonnet 5.5 now available on AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/",
+      "summary": "AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower ...",
+      "published": "Mon, 28 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "59e41adcedbf616204e0d12bf6b72137",
+      "title": "AWS Batch now supports bulk job cancellation and termination",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/",
+      "summary": "AWS Batch now supports bulk job cancellation and termination, enabling you to cancel or terminate up to 50 jobs with a single API call. The new Cancel...",
+      "published": "Thu, 17 Sep 2026 17:23:00 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "08b7109e8e0ae72e957aca9c2556e14f",
+      "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
+      "link": "https://timescar-lawsuit.com/",
+      "summary": "タイムズカー 情報漏洩 集団訴訟 会員の方、退会済みの方は、まずご登録ください。 2026年9月に公表された不正アクセスによる会員情報の漏えいについて、被害を受けた会員が共同で運営会社等に損害賠償を求める訴訟です。",
+      "published": "2026-09-30T00:05:51Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "683320eccdc7a1bbdfe7d78b87978293",
+      "title": "一休もお漏らしかよ",
+      "link": "https://anond.hatelabo.jp/20260930121339",
+      "summary": "平素より 一休.com をご愛顧賜りまして、誠にありがとうございます。 弊社にて発生した掲題の事象について重要なご連絡があり、本メールをお送りしております。 このたび、弊社の開発用データベース（一休.comサービスの開発に使用するデータのみを格納したデータベース）に対し、 第三者による不正アクセスが...",
+      "published": "2026-09-30T03:14:47Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "19cf76ec4b4454553fa66b70baa1dc35",
+      "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
+      "link": "https://speakerdeck.com/minodriven/designing-for-code-reading",
+      "summary": "このイベントの登壇資料です。 今こそ聞きたいソフトウェア設計 #2 設計次第で、AIコードの読む量は減らせる https://findy.connpass.com/event/405803/",
+      "published": "2026-09-30T10:31:41Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "238a27148d1bd69915ae70e6c50a8850",
+      "title": "情報セキュリティ白書2026 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/publish/wp-security/2026.html",
+      "summary": "編集・発行元 独立行政法人情報処理推進機構（IPA） 発行日 2026年10月19日（先行公開PDF：2026年9月30日） サイズ ソフトカバーA4判 ページ数 208ページ ISBN ISBN 978-4-905318-82-8 定価 定価：2,200円（本体価格2,000 円＋税10％） 書籍...",
+      "published": "2026-09-30T10:11:27Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9ddc16dc21b4510b4bf893161af1632",
+      "title": "待望のエネループ用USB-C充電器が登場 - 家電 Watch",
+      "link": "https://kaden.watch.impress.co.jp/docs/news/2144373.html",
+      "summary": "",
+      "published": "2026-09-30T05:50:30Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f503fe8fc4434a66dd3246f46f3ba7c",
+      "title": "AIと風通しの悪い日々 - Lambdaカクテル",
+      "link": "https://blog.3qe.us/entry/2026/09/30/174024",
+      "summary": "最近まったくブログを書けていなかった。なんだか最近は風通しの悪い日々を過ごしていて、筆が乗らなかったというか、なんというか興醒めな毎日だったので、自分を奮い立たせることに失敗していたのだ。 雨 まず雨だ。梅雨ですらこんなに降らなかったぞという勢いで恵みの雨が降り続いており、どうにも体調が優れない。....",
+      "published": "2026-09-30T08:44:33Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41b1d8bdcc714bbaeaa06f778b19c786",
+      "title": "「写真で一言 ボケて」きょう午後8時にサービス終了 18年・1億超のボケに幕",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001904/",
+      "summary": "大喜利の投稿サイトとして知られる「写真で一言 ボケて」（bokete）が9月30日午後8時に、Web版、アプリ版共にサービスを終了する。公式Xアカウントは同日、「18年間ありがとうございました」と投稿し、利用者への感謝を伝えた。",
+      "published": "2026-09-30T10:07:31Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8849fb9afe5033f5534e7f8dd6b6a1b7",
+      "title": "ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは",
+      "link": "https://gigazine.net/news/20260930-chatgpt-drive-car/",
+      "summary": "ChatGPTなどに使われる汎用(はんよう)AIモデルに本物の自動車のハンドル・アクセル・ブレーキを任せてみる実験を、サンフランシスコ・ベイエリアの技術者3人によるプロジェクト「DrivingBench」が実施しました。 Report · DrivingBench https://drivingbe...",
+      "published": "2026-09-30T08:41:38Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f06a7346e4da022cc13f265da85105f",
+      "title": "AIレビューは３層でまわす | ドクセル",
+      "link": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358?__readwiseLocation=",
+      "summary": "レビューは3層で回す AI ローカル・PR時・デイリー、サブスクの範囲で 自走環境整備・運用スペシャル #6 ／ 2026年9月15日（火） AI 篠田 敬廣 篠田 敬廣 経歴 大手SIerでインフラ構築・設計、プロジェクトマネジメントに 従事したのち独立 現在 Waalsforce コミュニティ ...",
+      "published": "2026-09-30T03:53:00Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cce41f5487c03c23d5e1fe305d3fea7",
+      "title": "「ここから先は残したい」ですぐ録音 AIリング「Vocci」はAIと仕事をする人にちょうどいいデバイスだった",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001884/",
+      "summary": "ライターという仕事をやっていると、発表会や取材の最中に「これは後でちゃんと聞き返したい」と思う瞬間が多々あります。スマートフォンを取り出して録音を始めることもできますが、そうすると視線はどうしても画面へ。話を聞くことと、記録を残すこと。その2つをもう少し自然に両立できないか、と思うことも少なくあり....",
+      "published": "2026-09-30T06:08:36Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c560db078ba5c1e5d9756f6340091f1",
+      "title": "タイムズカーシェアの情報流出について",
+      "link": "https://anond.hatelabo.jp/20260930090618",
+      "summary": "パスワードの平文が流出しているのではないか、という心配が拭えない。 公式からハッシュ化されて保持していたというアナウンスがあったことは承知しているけど、それでも。 以前、タイムズからユーザーに対して、脆弱なパスワードから複雑なパスワードに変更してください、という依頼アナウンスがあった。 その際に「平...",
+      "published": "2026-09-30T00:08:31Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a380136deb8c08918beef57b95aad29",
+      "title": "WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由 | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/wsl-containers-ga-summary/",
+      "summary": "Microsoftは9月29日(現地時間)、「WSLコンテナ(WSL containers)」を正式にリリースしました。Windows上でLinuxコンテナを直接扱える仕組みで、AI開発やクラウドネイティブなワークロードをローカル環境でより自然に運用できるようになります。 WSLコンテナを有効化する...",
+      "published": "2026-09-30T11:34:10Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "695deaaa1c0d06600471a604efe05c6a",
+      "title": "ドメインの壁を超えて顧客価値を生み出すAI Native開発〜そして全社展開へ〜 - enechain Tech Blog",
+      "link": "https://techblog.enechain.com/entry/ai-native-beyond-domain",
+      "summary": "はじめに AI Native開発で見えたもの ドメインエキスパート中心のSDDとその課題 動くモックで営業→フィードバックループの早期化 開発期間と工数の削減 全社展開戦略 開発：ガイドレール・ゴールデンパス・ガードレール 運用：コンテキストエンジニアリングと標準化 組織：ドメインエキスパート中心の...",
+      "published": "2026-09-30T09:44:06Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89e8bbda9216925d569ee2338ca2c68e",
+      "title": "なぜフランス政府はDeepSeekを使い倒しているのか？ 「技術に懐疑的」な国で見たAIとの向き合い方、第三の道。｜安野貴博",
+      "link": "https://note.com/takahiroanno/n/n9ed37aee1f18",
+      "summary": "なぜフランス政府はDeepSeekを使い倒しているのか？ 「技術に懐疑的」な国で見たAIとの向き合い方、第三の道。 2026年9月初旬にパリに訪問した。計26セッションのインタビューを行い、フランスでのAIに関する考え方を探った。相手は政府機関、国会議員、数学者、研究者、スタートアップ、アートセンタ...",
+      "published": "2026-09-30T01:10:54Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51a5374db8fcd51f7e8f38271e8c38fa",
+      "title": "OpenAIが「Codex CLI」を大幅刷新＆Codexをクラウド上で動作させる「Codex Cloud」も登場",
+      "link": "https://gigazine.net/news/20260930-openai-codex-cli-cloud/",
+      "summary": "ターミナルからコードの検査、編集、実行が可能なOpenAIのツール「Codex CLI」が刷新され、いくつかの機能改善が行われました。 Codex CLI just got a major refresh, with a new look and powerful new capabilities....",
+      "published": "2026-09-30T03:00:04Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e219352998fc7d7c440bc9095d7cf4a",
+      "title": "AI臭い文章とは何なのか",
+      "link": "https://speakerdeck.com/nasuvitz/ai-kusai-bunshou-toha-nanina-no-ka?slide=17",
+      "summary": "2026/9/28 豊洲会 教育用途にご利用ください",
+      "published": "2026-09-30T04:26:51Z",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39402161fcfb811303ef6fefa23f92bc",
+      "title": "[2026年9月30日号]個人的に気になったModern Data Stack情報まとめ",
+      "link": "https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20260930/",
+      "summary": "Modern Data Stack界隈で日々発信される多くの情報の中から、この2週間で私が気になった最新情報をまとめてみました。",
+      "published": "Wed, 30 Sep 2026 14:20:37 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "93fa9124318cc4ee20ab61004a5ac8d9",
+      "title": "【小ネタ】WSLで \\\\wsl.localhost\\Ubuntu にアクセスできなくなったときの解決方法",
+      "link": "https://dev.classmethod.jp/articles/wsl-localhost-ubuntu-access-error/",
+      "summary": "Windows エクスプローラーから \\\\wsl.localhost\\Ubuntu へアクセスできなくなったらまずは再起動！！！",
+      "published": "Wed, 30 Sep 2026 14:02:02 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "557560bcd29661d3903ec2bee5357542",
+      "title": "iOS 27 で機密情報が写ったスクショを自動で非表示にするショートカットを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/ios27-confidential-info-auto-hide-shortcut/",
+      "summary": "iOS 27 で追加されたスクリーンショット保存時のトリガーと「写真を非表示」アクションを使い、個人情報などが写ったスクショをオンデバイスモデルで判定して自動で非表示にするショートカットを作ってみました。",
+      "published": "Wed, 30 Sep 2026 13:46:38 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8faca22d99c8e19275473c1797de9153",
+      "title": "EC2를 온프레미스 Active Directory에 도메인 참가시킬 때의 DNS 구성 3가지 비교",
+      "link": "https://dev.classmethod.jp/articles/comparison-of-3-dns-configurations-when-joining-ec2-to-on-premises-ad-kr/",
+      "summary": "Windows Server EC2를 온프레미스 Active Directory에 도메인 참가시킬 때 필요한 DNS 구성 방법을 비교합니다. NIC 정적 지정, DHCP 옵션, Route 53 Resolver 세 가지 방식의 동작 원리와 설정, 운영상 차이를 구체적으로 살...",
+      "published": "Wed, 30 Sep 2026 13:29:28 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f880ee7d8e1360ddd005200e37ca3b5",
+      "title": "【Amazon Connect】データテーブルの値をオペレータの CCP 画面に表示させてみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-view-datatable-ccp/",
+      "summary": "Amazon Connectで顧客入力の情報をオペレータのCCP画面に表示させる方法について紹介します。データテーブルとビューを活用して、製品コードなどの情報をリアルタイムで確認できる仕組みを実装してみました。",
+      "published": "Wed, 30 Sep 2026 12:10:03 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7417a40f59800329e6813bf2bd36b62b",
+      "title": "帳票の成り立ちを調べたら、作るべき画面が変わった話",
+      "link": "https://dev.classmethod.jp/articles/form-design-manufacturing/",
+      "summary": "製造業のお客様から、既存のExcel帳票をシステム化してほしいというご依頼をいただきました。開発の途中でエンジニアから「この作りは実装が重い」と指摘を受け、帳票がなぜその形をしているのかを問い直したところ、成果物の形が大きく変わった一連の出来事をまとめました。",
+      "published": "Wed, 30 Sep 2026 12:00:35 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "045484e3183e61acf5426d5848e50901",
+      "title": "「Lambda MicroVMsが分からなすぎたので使い所を1から考えてみた」というタイトルで登壇しました #jawsugibaraki #jawsug",
+      "link": "https://dev.classmethod.jp/articles/jaws-ug-ibaraki-17-lt/",
+      "summary": "JAWS-UG 茨城のLTイベントで登壇した、AWS Lambda MicroVMsの使い所について紹介します。分からなすぎたサービスの仕様を整理し、向き不向きの境界が見えてきたので、その内容を補足と共に共有します。",
+      "published": "Wed, 30 Sep 2026 11:00:55 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2ca22802f21d3085d24a888831a43bf",
+      "title": "ลองสร้าง Active Directory บน EC2 Instance (การกำหนดค่า AD)",
+      "link": "https://dev.classmethod.jp/articles/ec2-active-directory-ad-server-th/",
+      "summary": "บทความนี้เป็นส่วนหนึ่งของซีรีส์บทเรียนที่จะพาทุกท่านเรียนรู้การตั้งค่า AD Server เพื่อรองรับการเชื่อมต่อจาก User Server ผ่านโครงสร้างเครือข่ายบน AWSคร...",
+      "published": "Wed, 30 Sep 2026 10:50:52 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bf9d35297d78e5287d0a73e5dfa0494",
+      "title": "Datadog のCross-org Paging で複数組織のOn-Call Team を1つの組織に集約する",
+      "link": "https://dev.classmethod.jp/articles/datadog-on-call-cross-org-paging-setup/",
+      "summary": "On-Call Team を管理する組織がdestination org、アラートを送る組織がsource org です。Cross-org Paging の接続はsource org 側で作成します。",
+      "published": "Wed, 30 Sep 2026 10:05:42 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ad73e8e75152e55d79e3e662228cdef",
+      "title": "[sumo-rl] 機械学習で交差点の信号制御を最適化してみた",
+      "link": "https://dev.classmethod.jp/articles/traffic-signal-ml-sumo-rl/",
+      "summary": "大規模交通シミュの「SUMO」とその機械学習用ラッパー「SUMO-RL」で信号間隔の制御を最適化してみました。",
+      "published": "Wed, 30 Sep 2026 09:43:01 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "03011a68ff3722f49dca8b46a3c02e21",
+      "title": "ลองสร้าง Active Directory บน EC2 Instance (Infrastructure Edition)",
+      "link": "https://dev.classmethod.jp/articles/ec2-active-directory-aws-infra-th/",
+      "summary": "บทความนี้เป็นส่วนหนึ่งของซีรีส์บทเรียนที่จะพาทุกท่านเรียนรู้การจัดการทรัพยากรด้วยแนวคิด Infrastructure as Code (IaC) ผ่าน Terraform ซึ่งช่วยให้สามารถ ...",
+      "published": "Wed, 30 Sep 2026 09:27:08 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "18996accf7167a64a7eb92557366c4a4",
+      "title": "Claudeの「Artifacts」だけで社内セミナー資料を作ってみた",
+      "link": "https://dev.classmethod.jp/articles/claude-artifacts-seminar-slides/",
+      "summary": "Claude Codeでセミナー用スライドを作ってみました。PowerPointなしで、Claudeとの対話だけで「時間管理・目次ジャンプ・進捗表示付き」の自動進行スライドショーが完成。作り方のコツを紹介します。",
+      "published": "Wed, 30 Sep 2026 09:23:15 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d429d452243f43002af3db73dc363117",
+      "title": "【登壇資料】「データ品質を壊しながらSnowflakeのAIに分析させてみた」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/dataquality-on-snowflake-devio2026/",
+      "summary": "データ品質をぐちゃぐちゃにしながらSnowflakeのAIであるCortexに分析して様子を見てみました。AIは非常に頭が良くて正確なSQLを生成します。しかしデータ自体が悪くなっていれば、その結果に意味なんてないのです。データ品質、だいじ。",
+      "published": "Wed, 30 Sep 2026 09:04:27 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b48be197ce6db22dd31fdfe666644eb6",
+      "title": "GuardDuty AI Protectionは日本語のプロンプトインジェクションを本当に防げるのか？",
+      "link": "https://dev.classmethod.jp/articles/guardduty-ai-protection-bedrock-guardrails-tier-verification/",
+      "summary": "GuardDuty AI Protectionが新しく登場した今、プロンプトインジェクションなどのAI脅威にどう対抗するのか、Bedrock Guardrailsとの連携を実際に検証してみました。",
+      "published": "Wed, 30 Sep 2026 08:39:17 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "42c9b643c3d37e09381939f1b4342fc1",
+      "title": "Tableau Server のユーザーID、ユーザー名を変更する方法を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-tableau-server-username-change/",
+      "summary": "Tableau Server ではユーザー ID やユーザー名を直接変更できないため、新しいユーザーを作成して所有コンテンツを移譲する手順を、実際の画面を交えて解説します。",
+      "published": "Wed, 30 Sep 2026 08:37:54 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d997cd4c9df6536a63d1e5c3c717b4fa",
+      "title": "Claude Code v2.1.285 の主要アップデート - バックグラウンドコマンドの時間制限と allowedProviders の追加",
+      "link": "https://dev.classmethod.jp/articles/20260930-cc-updates-v2-1-285/",
+      "summary": "Claude Code v2.1.285がリリースされました。今回は136件の変更が入り、セキュリティ機能の強化と権限周りの修正が目立ちます。本記事では、新しい環境変数`CLAUDE_CODE_DISABLE_WEB_FETCH`を中心に、注目のアップデートを紹介します。",
+      "published": "Wed, 30 Sep 2026 08:05:00 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebf0e2bea9abfebc1b20abcd8a857698",
+      "title": "Xcode 27 の公式スキルを Claude Code から使ってみた",
+      "link": "https://dev.classmethod.jp/articles/xcode-agent-skills-claude-code/",
+      "summary": "Xcode 27 に同梱されたスキルを Claude Code プラグインとして読み込んで試してみました。",
+      "published": "Wed, 30 Sep 2026 08:01:39 GMT",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9f2f1ede62b5b0b80083eca557fea73",
+      "title": "BandLab Technologies appoints new CEO, Ivan Chen",
+      "link": "https://musictech.com/news/industry/bandlab-technologies-ceo-ivan-chen/",
+      "summary": "The company's previous CEO, Meng Ru Kuok, will stay with the company as executive chairman. The post BandLab Technologies appoints new CEO, Ivan Chen ...",
+      "published": "Wed, 30 Sep 2026 14:01:33 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "b55fdae920be028207515a5f48d68520",
+      "title": "GamesSoundCon 2026: Your chance to network with the composers for Call of Duty, Assassin’s Creed and Fallout",
+      "link": "https://musictech.com/news/events/gamessoundcon-2026/",
+      "summary": "The massive event will return to Los Angeles on 20-21 October. The post GamesSoundCon 2026: Your chance to network with the composers for Call of Duty...",
+      "published": "Wed, 30 Sep 2026 11:42:56 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "1c62cb665abb93d5b3bb8a9b237592e4",
+      "title": "Arturia releases Pigments Play, a slimmed-down free version of its mainstay soft synth",
+      "link": "https://musictech.com/news/gear/arturia-pigments-play/",
+      "summary": "Get started producing with a familiar UI and an impressively wide range of functions. The post Arturia releases Pigments Play, a slimmed-down free ver...",
+      "published": "Wed, 30 Sep 2026 11:29:18 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "3bb6e0f4d24ae050f8a42a10d8b33142",
+      "title": "Technics continues its commitment to premium sound fidelity with new flagship EAH-A1000 wireless headphones",
+      "link": "https://musictech.com/news/gear/technics-eah-a1000/",
+      "summary": "While these can’t connect to a DJ mixer running Technics’ historic turntables, they were designed to maintain the same level of audio excellence. The ...",
+      "published": "Wed, 30 Sep 2026 11:15:17 +0000",
+      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-09-30T07:45:57.084130+00:00"
+  "updated_at": "2026-09-30T14:27:39.703184+00:00"
 }

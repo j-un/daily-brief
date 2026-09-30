@@ -1649,7 +1649,307 @@
       "fetched_at": "2026-09-30T20:25:30.402783+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "445ecd27631acaed04b62dabb7b3b887",
+      "title": "Gemini 4 Argon",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://ne...",
+      "published": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f578a51841c3f1eb1516932fd939467",
+      "title": "America.gov goes crazy on \"play Minecraft\"",
+      "link": "https://america.gov/chat",
+      "summary": "Article URL: https://america.gov/chat Comments URL: https://news.ycombinator.com/item?id=49913255 Points: 103 # Comments: 38",
+      "published": "Wed, 30 Sep 2026 19:34:03 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "320b81eee547d757b0ade09a12bfa9a8",
+      "title": "EDG C++ front-end goes public",
+      "link": "https://edgcpp.org/#transition",
+      "summary": "Article URL: https://edgcpp.org/#transition Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 113 # Comments: 39",
+      "published": "Wed, 30 Sep 2026 19:26:37 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f51b72af43a25a93b5b0851825437c0",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "link": "https://github.com/magnitudedev/magnitude",
+      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardwar...",
+      "published": "Wed, 30 Sep 2026 17:37:40 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f004aca7aa502f335b38281467ff78f3",
+      "title": "Commit description as a thinking tool",
+      "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/ Comments URL: https://news.ycombinator.com/item?id=49911757 Points: 103 # C...",
+      "published": "Wed, 30 Sep 2026 17:18:13 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "38a96f6973ce9867a0bab7b53f9eb41c",
+      "title": "What TLA+ can and can't check",
+      "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/ Comments URL: https://news.ycombinator.com/item?id=49909056 Point...",
+      "published": "Wed, 30 Sep 2026 13:57:06 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5020f68afaa5868d6324b417549163a",
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "link": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "summary": "Related: https://www.bbc.com/news/articles/cqzjzr893yv4o Comments URL: https://news.ycombinator.com/item?id=49906432 Points: 105 # Comments: 33",
+      "published": "Wed, 30 Sep 2026 09:27:04 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c354d0e9866dbc6a816a51e78184db8",
+      "title": "REST API を Amazon Bedrock AgentCore Gateway で MCP サーバー化する ― オリックス「PATPOST」での取り組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/agentcore-gateway-patpost/",
+      "summary": "オリックス株式会社の SaaS「PATPOST」の既存 REST API を、Amazon Bedrock AgentCore Gateway で MCP サーバー化した取り組みをご紹介します。既存資産に手を入れずに MCP サーバー化する方法を解説します。",
+      "published": "Wed, 30 Sep 2026 22:55:36 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e1a2c2d944fd1fa527ecd01dcd6ed93",
+      "title": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/",
+      "summary": "Today, AWS expanded the AWS Command Line Interface (CLI) commands for the Agent Toolkit for AWS with two new capabilities that make it easier to keep ...",
+      "published": "Wed, 30 Sep 2026 20:16:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e25073e5ace305fbe170c05f4ed72775",
+      "title": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/",
+      "summary": "Amazon S3 Vectors now supports pre-filtering, which evaluates metadata filters before running similarity search, returning up to 5x more of the matchi...",
+      "published": "Wed, 30 Sep 2026 20:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a50fce8391843a875bbe4f4b4298e28",
+      "title": "Amazon Managed Grafana now supports creating Grafana 13.2 workspaces",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces",
+      "summary": "Amazon Managed Grafana now supports creating new workspaces with Grafana version 13.2. This release brings features from open-source Grafana versions ...",
+      "published": "Wed, 30 Sep 2026 19:30:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b4553f85d588072de845bfc3ce4e0ad",
+      "title": "AWS Parallel Computing Service now supports scaling logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/",
+      "summary": "AWS Parallel Computing Service (AWS PCS) now supports scaling logs, which record how AWS PCS scales the compute node groups in your cluster. Each log ...",
+      "published": "Wed, 30 Sep 2026 19:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5adffbbab35cc0e708d8c3c5f903fdb",
+      "title": "AWS accounts now support phone number verification",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-accounts-phone-number-verification/",
+      "summary": "AWS Accounts now support phone number verification for primary contact phone numbers. Previously, phone numbers in AWS account contact information wer...",
+      "published": "Wed, 30 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1eb3859d66f338354a6588525b3355b4",
+      "title": "AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns/",
+      "summary": "AWS IAM Identity Center's Identity Store APIs now accept the Amazon Resource Name (ARN) for a user, group, group membership, or identity store anywher...",
+      "published": "Wed, 30 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7be2e2be2bc725d9ca8c4abea19dc361",
+      "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-tables-iceberg-v3-data-types",
+      "summary": "Amazon S3 Tables add support for geometry, geography, unknown, and nanosecond timestamp data types, along with column default values, as defined in th...",
+      "published": "Wed, 30 Sep 2026 04:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4ab2431e0619f3c584ff99b2ac333dc",
+      "title": "AWS Billing and Cost Management now provides billing context for your account through a new API",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/",
+      "summary": "AWS Billing and Cost Management now offers the ListBillingViewSegments API, which returns the billing context of your account over a time period you s...",
+      "published": "Fri, 25 Sep 2026 00:58:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "19266d7e6225b28bec68894fb3c67e0d",
+      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
+      "summary": "AWS Security Hub AI Inventory now supports discovering and cataloging AI assets running on self-hosted instances in Microsoft Azure. This expansion ex...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdee8dabd9bc52dbe6bd65b798f1c6a6",
+      "title": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/",
+      "summary": "Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on. Today, Kimi K3 from M...",
+      "published": "Fri, 18 Sep 2026 15:15:00 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "06521aa88ff3aa25ed6319f8bdbb92b5",
+      "title": "GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+      "link": "https://github.com/nanaism/yomiyasu",
+      "summary": "『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 開発背景や言語学的病理の分析、複数のコーパ...",
+      "published": "2026-09-30T18:28:31Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5740923548d9166cd5084b9c953357f4",
+      "title": "凸凹育児とエンジニアを両方やるということ - yprestoの非技術ブログ",
+      "link": "https://ypresto.hatenablog.jp/entry/2026/09/30/233500",
+      "summary": "tech-blog-v2-opal.vercel.app これを見て、非常にわかるとなった。わたしは27の時に子どもが生まれてるので、かれこれ10年ぐらい子ども中心の生活をしていて、もどかしさも感じている。 (ただしわたしの場合、子どもが幼児のころコロナ禍のころに10人未満のスタートアップに参画した...",
+      "published": "2026-09-30T15:08:58Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6930fe3c65fa15d2df7a5a6f1d91517",
+      "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "link": "https://zenn.dev/algoartis/articles/0b1c731881b25c",
+      "summary": "興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が...",
+      "published": "2026-09-30T19:49:24Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a80dfed2f9f4bf84775bdd89187e78e",
+      "title": "アンケート結果をダウンロードしたら他社の従業員情報が…… ベネフィット・ワン、1万3460人分漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001908/",
+      "summary": "福利厚生サービスを手掛けるベネフィット・ワンは9月30日、企業・団体の担当者向けサービス「ベネワン・プラットフォーム」で個人情報が漏えいしたと発表した。対象は2322企業・団体の1万3460人。担当者がアンケート結果をダウンロードする際、本来アクセスできない他社などの従業員情報が表示される状態になっ...",
+      "published": "2026-09-30T13:38:46Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a5697d96f4cdf2d9c3d2bc8f650430e9",
+      "title": "アップグレードして大丈夫？ 「Windows 11 バージョン 26H2」で確認済みの問題は3件／基本的には問題がないが、いくつか注意点も",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2144521.html",
+      "summary": "",
+      "published": "2026-09-30T09:16:04Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ac625d21c8dee1077f70e6f2b024335",
+      "title": "Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/09/29/161928",
+      "summary": "はじめに Codex CLIには、会話を要約する /recap、出力をコピーする /copy、会話全体を書き出す /export があります。いずれも会話に蓄積された情報を扱う機能ですが、対象と用途が異なります。 この記事では、3つのコマンドの役割と、関連する /compact・/status・/d...",
+      "published": "2026-09-30T13:28:33Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40484f619679547846032012b99a9a18",
+      "title": "Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース",
+      "link": "https://www.publickey1.jp/blog/26/vercelnextjscloudflare_workersaws_lambdavercelvinext_10.html",
+      "summary": "Next.jsアプリをCloudflare WorkersやAWS LambdaなどVercel以外のサーバレス基盤へデプロイできる「Vinext 1.0」リリース Cloudflareは、代表的なWebアプリケーションフレームワークであるNext.jsを用いて開発したアプリケーションを、Cloud...",
+      "published": "2026-09-30T15:51:50Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b37d5122571db72336b4381dc602882e",
+      "title": "セイコーマート、会員のほぼ半数に当たる情報漏えい 約57万人分",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001906/",
+      "summary": "セイコーマートは9月30日、スマートフォンアプリ「セイコーマートアプリ」の情報を管理するサーバに不正アクセスを受けた件を巡り、同サービスに登録したことがある会員のうち57万2022人分の情報が第三者に閲覧されたと発表した。全会員の49％に当たる人数という。 同社は29日に被害の可能性を発表。約57万...",
+      "published": "2026-09-30T11:15:39Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0973d64b5aff39cf566af2e48432a35",
+      "title": "フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001899/",
+      "summary": "デリバリー・テイクアウトサービス「menu」が9月30日午後8時、約6年半の歴史に幕を下ろす。運営のmenu社（東京都新宿区）は同日午前、公式Xアカウントで「本日、2026年9月30日20時をもちまして、menuはサービスを終了いたします」と投稿した。「支えてくださったすべてのみなさまに、スタッフ一...",
+      "published": "2026-09-30T11:07:24Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "834523c164f619c01975413573a0d6dc",
+      "title": "集英社のブロガー管理システムに不正アクセス 2835人分の個人情報漏えい、結婚状況や子の有無も",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001898/",
+      "summary": "集英社は9月28日、同社のファッション誌メディアで活動するブロガーの情報管理・連絡用システム「HAPPY PLUS COMMUNITY」に不正アクセスがあったと発表した。ブロガー2835人分の個人情報のほか、同システムから送信したメールの情報や取引先情報も漏えいしたという。 漏えいした個人情報には、...",
+      "published": "2026-09-30T08:56:26Z",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b50254409ec38137ff1f41d2373df858",
+      "title": "GitHub - modelcontextprotocol/servers: Model Context Protocol Servers · GitHub",
+      "link": "https://github.com/modelcontextprotocol/servers",
+      "summary": "📦 modelcontextprotocol / servers ⭐ 90,707 (+48) 🗒 TypeScript Model Context Protocol Servers",
+      "published": "30 Sep 2026 21:17 +0000",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec3eac48a1e92f3f6d5d65206f008352",
+      "title": "2026 年 9 月の AWS テクニカルサポートノートまとめ",
+      "link": "https://dev.classmethod.jp/articles/summary-of-aws-technical-support-notes-for-september-2026/",
+      "summary": "",
+      "published": "Wed, 30 Sep 2026 22:43:09 GMT",
+      "fetched_at": "2026-09-30T23:05:11.694581+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-30T20:25:30.402783+00:00"
+  "updated_at": "2026-09-30T23:05:11.694581+00:00"
 }

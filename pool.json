@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "6735a429cdea691fbf356478c89d8a27",
-      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
-      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
-      "published": "30 Sep 2026 02:55 +0000",
-      "fetched_at": "2026-09-30T07:45:57.084130+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b3618b3e9cfa9e0c0c7ecfab26e9b41e",
       "title": "EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog",
       "link": "https://tech.timee.co.jp/entry/2026/09/25/162348",
@@ -759,7 +749,587 @@
       "fetched_at": "2026-10-01T08:04:47.750763+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "book"
+    },
+    {
+      "entry_id": "5666f597a5f53600479aefc8b1aeadee",
+      "title": "メルカリにおける AI エージェント時代の Platform API - Slidev",
+      "link": "https://azr.sh/slides/platform-api-in-the-ai-agent-era-at-mercari/1",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 メルカリにおける AI エージェント時代の Platform API",
+      "published": "01 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e413e7b5b7e02e74009f3edabe60d888",
+      "title": "AIに書かせて、プラットフォームで縛る ― EKSプラットフォームで実践した責任境界と権限設計 - Speaker Deck",
+      "link": "https://speakerdeck.com/elmodev09/designing-responsibility-boundaries-and-authorization-on-the-eks-platform",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIに書かせて、プラットフォームで縛る ― EKSプラットフォームで実践した責任境界と権限設計",
+      "published": "01 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "013b8d4177b5367f56d9d7daa14bae7b",
+      "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」 - Speaker Deck",
+      "link": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」",
+      "published": "01 Oct 2026 08:56 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b66f6c5df962c64c019ff72fed0ec578",
+      "title": "Argo CDとAtlantisで実現するインフラ管理のセルフサービス化──小規模SREチームで支えるプラットフォーム | Platform Engineering Kaigi 2026",
+      "link": "https://www.cnia.io/pek2026/sessions/91c5eecd-3e0b-424b-bfd6-14733ae280d3",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Argo CDとAtlantisで実現するインフラ管理のセルフサービス化──小規模SREチームで支えるプラットフォーム",
+      "published": "01 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "702b0f994475df9a8a5be31c7de34466",
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html Comments URL: https://news.ycombinator.com/item?id=49921118...",
+      "published": "Thu, 01 Oct 2026 13:05:51 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca1a016b5fac1dfa29c20666df71e148",
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html Comments URL: https://news.ycombinator.com/item?id=49921050 Points: 13...",
+      "published": "Thu, 01 Oct 2026 13:00:55 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "256a9ed1cb52ef725af9e41f6f4e35d6",
+      "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
+      "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
+      "summary": "Article URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/ Comments URL: https://news.ycomb...",
+      "published": "Thu, 01 Oct 2026 12:55:27 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "18f82ca5d2c1ca773723d07d23d90710",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026 Comments URL: https:/...",
+      "published": "Thu, 01 Oct 2026 12:48:59 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21daef866aa2b619b78877d529a50a9b",
+      "title": "How to speed up the Rust compiler in September 2026",
+      "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+      "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html Comments URL: https://news.ycombinator....",
+      "published": "Thu, 01 Oct 2026 12:44:38 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "595b8e25cf3f7257eeee59a004f801df",
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/ Comments URL: https://n...",
+      "published": "Thu, 01 Oct 2026 11:13:59 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "852f63c12efc171621529352f2272c80",
+      "title": "StreetComplete on iOS is now in public beta",
+      "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421 Comments URL: https://news.ycombinator.com/item?id=49920160 Points: 377 # Co...",
+      "published": "Thu, 01 Oct 2026 10:59:57 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2109c6dcb8a35acba1753116ca948102",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design Comment...",
+      "published": "Thu, 01 Oct 2026 10:21:36 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c437863b6177e26c4cde150a11782bb6",
+      "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
+      "link": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
+      "summary": "Article URL: https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f Comments URL: https:/...",
+      "published": "Thu, 01 Oct 2026 01:40:50 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24884ce16e3be11f74525d3dea0b071f",
+      "title": "Dear Software Makers",
+      "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/ Comments URL: https://news.ycombinator.com/item?id=49913364 Points: 115 # Comment...",
+      "published": "Wed, 30 Sep 2026 19:45:38 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19266d7e6225b28bec68894fb3c67e0d",
+      "title": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/",
+      "summary": "AWS Security Hub AI Inventory now supports discovering and cataloging AI assets running on self-hosted instances in Microsoft Azure. This expansion ex...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "53f9d200cf5833c216a64e9c3b9096b6",
+      "title": "免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp",
+      "link": "https://news.jp/i/1478299651827581816",
+      "summary": "個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当...",
+      "published": "2026-10-01T08:09:10Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2ec76fe7a33423f25302828f162b153",
+      "title": "全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利",
+      "link": "https://eiji.page/blog/ai-skill-eli5-is-great",
+      "summary": "AIを使った開発によってスピードが上がっているのは実感するものの、それと引き換えに 自分がちゃんと理解できなくてふわっとした部分 が増えてきました。 そんなとき、自分の理解が合っているか音声入力でバーっと喋ってAIとやりとりします。 他の人が書いたコードの機能の概要・ロジックなんかも同じです。 ただ...",
+      "published": "2026-10-01T10:09:45Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a22d587f909b8a219a9d112ea1663ea",
+      "title": "怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査",
+      "link": "https://news.denfaminicogamer.jp/news/261001u",
+      "summary": "『現地確認記録』は、AI生成のタグが付いた、一人称視点で描かれるアナログホラー映像作品。本作では、通常の調査員では対応困難と判断された事案にのみ投入される現地対処員・佐藤周一の記録を映している。佐藤は、「恐怖反応」「危険認識」「身体能力」の項目すべてが一般的な基準から大きく逸脱しており、「異常には....",
+      "published": "2026-10-01T06:47:26Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "efac6bbfe390fb95452c08591ccfd846",
+      "title": "佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001933/",
+      "summary": "佐川急便は10月1日、前日に公表した「お荷物問い合わせサービス」への不正アクセスについて、調査の結果、顧客の個人情報が外部に流出した可能性があると発表した。同サービスは、同社Webサイトで荷物の輸送状況を確認できるもの。被害の拡大を防ぐため、荷物の問い合わせや集荷受付など、Webサービスの一部を停止...",
+      "published": "2026-10-01T07:26:23Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f2d74c924ef795d0fea8b0e8ef2eaa9",
+      "title": "日本原子力機構に不正アクセス 研究者の個人情報が漏えい | NEWSjp",
+      "link": "https://news.jp/i/1478318653420880862",
+      "summary": "日本原子力研究開発機構は1日、茨城県東海村にある研究用原子炉「JRR3」の利用手続きサイトに不正アクセスがあり、外部の研究者の運転免許証画像など計2419件の登録情報が漏えいしたと公表した。施設の安全や警備に影響する情報は含まれないという。 機構によると、漏えいした情報のうち免許証やパスポートの画像...",
+      "published": "2026-10-01T10:02:04Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "473ce7828d33984a5b2a7f87b2c093a4",
+      "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
+      "link": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
+      "summary": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Tes...",
+      "published": "2026-09-30T11:30:09Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "364673abd69d531d2de57c6af9a6afcc",
+      "title": "ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応",
+      "link": "https://gigazine.net/news/20261001-magnitude/",
+      "summary": "AIエージェントでオープンモデルをローカル実行する際に、使用中のハードウェアに合わせて処理を自動調整するオープンソースの推論エンジン「Magnitude」が公開されています。Magnitudeはモデルを実行するための処理を端末上でコンパイルして調整する仕組みを備えており、特定の条件では「llama....",
+      "published": "2026-10-01T13:09:44Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ef66e150218c743674229dfefc0dd3f",
+      "title": "サイバー攻撃より怖い？ ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」でヒューマンエラーを防げるか",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/01/news077.html",
+      "summary": "サイバー攻撃より怖い？ ドラッグ＆ドロップの操作ミス、原始的な「ファイルを選択」でヒューマンエラーを防げるか（1/2 ページ） TOPPANが運用を受託する「保険料控除証明書発行サービス」で、損害保険ジャパンの契約者17万7426人分のデータが他の損害保険会社1社に誤って送付されてしまうというインシ...",
+      "published": "2026-10-01T08:22:14Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5edc4364751467ba021856caaa5dfc9",
+      "title": "VRAM 32GBの「Intel Arc Pro B70」で「Hermes Agent」のローカルAIを実行、4ビット量子化したQwen3.8-27Bを動かしてみた",
+      "link": "https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/",
+      "summary": "AIエージェント「Hermes Agent」は、ウェブ検索やブラウザ操作、コマンド実行などのツールをAIが自律的に使いながらタスクを進められるのが特徴です。これまでGIGAZINEでは、実際にHermes Agentをインストールして「GIGAZINEの記事を取得して要約する」といった作業を任せたり...",
+      "published": "2026-10-01T05:59:16Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cd899bd430e9097d1599c8363cc8b23",
+      "title": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/",
+      "summary": "米OpenAIは9月30日（現地時間）、同社のAIモデルから保護された推論過程を抜き出そうとする組織的な行為を特定し、阻止したと発表した。この行為は“敵対的蒸留”（あるモデルの出力や推論を無断かつ体系的に利用し、別のモデルの訓練や再現、性能向上に役立てること）に当たるとしている。活動の中核については...",
+      "published": "2026-10-01T06:16:55Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ccd89b80f24a6328fdd59be6e4bc8ad",
+      "title": "HotCell README: 信頼できない入力の処理を別コンテナに隔離するgem（翻訳）｜TechRacho by BPS株式会社",
+      "link": "https://techracho.bpsinc.jp/hachi8833/2026_10_01/160077",
+      "summary": "現在はこれらのgemをまとめて開発しているので、リポジトリは1個です。今後、Active Storage関連のgemを別のリポジトリに切り出す可能性もあります。 🔗 HotCellの構成要素 セル（cell） セルは「ホットサイド（hot side）」のデプロイ単位であり、「スーパバイザ」とそこから...",
+      "published": "2026-10-01T08:38:17Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2c72aed97662be2ca93edd7acee7fbd",
+      "title": "オブザーバビリティのAIエージェントをどう評価するか",
+      "link": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
+      "summary": "はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に...",
+      "published": "2026-10-01T09:39:19Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "356774b4f52772c85f3c3d70c792b3a3",
+      "title": "DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う",
+      "link": "https://gigazine.net/news/20261001-deepseek-huawei-ascend/",
+      "summary": "中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、...",
+      "published": "2026-10-01T08:08:41Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7e353ffd42d797dc532655ed89b201a",
+      "title": "コーディングも法務もGPT-6 Astra超え。Google「Gemini 4 Argon」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2144721.html",
+      "summary": "",
+      "published": "2026-10-01T03:01:55Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b0238e390a0ae9742803393a8972ae6",
+      "title": "最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」",
+      "link": "https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/",
+      "summary": "ひとたびリリースされたAIモデルの性能はずっと変わらないと思っている人もいるかもしれませんが、過去にはリリース後にAIモデルの性能が低下した事例がたびたび報告されています。そんなリリース後のAIモデルがひそかに劣化しているかどうかを検出するためのベンチマークが「livenerf」です。 GitHub...",
+      "published": "2026-10-01T06:15:03Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a66ac183a2b2224cff6cab559d4a437",
+      "title": "Explore It! を 地図にする",
+      "link": "https://speakerdeck.com/sadonosake/explore-it-o-chizu-ni-suru?slide=26",
+      "summary": "https://wingarc1st-spqi.connpass.com/event/404025/",
+      "published": "2026-10-01T09:15:50Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f232218c4f2469fb8e33657bef1d68b0",
+      "title": "中古アニメグッズ「らしんばん」に不正アクセス 口座情報や本人確認書類の番号など漏えいの恐れ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001927/",
+      "summary": "中古アニメグッズの買取・販売を手掛けるらしんばん（東京都豊島区）は10月1日、同社が運営するサービスに第三者による不正アクセスがあり、利用者の個人情報が外部に漏えいした可能性があると発表した。 漏えいした可能性があるのは、氏名、郵便番号、住所、メールアドレス、電話番号、生年月日、性別、職業、本人確認...",
+      "published": "2026-10-01T07:08:00Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d932c7d83e8d26b533975bc12a67820",
+      "title": "Intel・NVIDIAのコンパイラを支えた6人の会社EDG、38年分のC++コードをオープンソースに",
+      "link": "https://joho-todai.com/edg-compiler-cpp-open-source/",
+      "summary": "Intel、NVIDIA、Microsoftのコンパイラ製品を裏で支えてきたC++フロントエンドの開発元Edison Design Groupが、会社としての歴史を閉じた。38年分のコードはThe C++ Allianceに移管され、現地時間9月30日にオープンソースとして公開された。 この記事のポ...",
+      "published": "2026-10-01T05:17:31Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "170c7dc0d073cf5880865b9d3f4e13d4",
+      "title": "AI生成タンパク質に「見えない透かし」を埋め込む「SynthID Bio」が登場、機能を保ったまま生成元を確認可能に",
+      "link": "https://gigazine.net/news/20261001-google-deepmind-synthid-bio/",
+      "summary": "Google DeepMindが2026年9月30日、AIが設計したタンパク質などに検出可能な「透かし」を埋め込む技術「SynthID Bio」を発表しました。タンパク質の働きを維持しながらAIによる設計物だと識別できる仕組みで、デジタル上のデータだけでなく実際に合成されたタンパク質からも透かしを確...",
+      "published": "2026-10-01T02:17:12Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "900ab6ac796acef4fdf9f02026f16e94",
+      "title": "Google Storeで「Pixel 10a」が1万2900円値上げ 9万2800円から",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html",
+      "summary": "Googleの直販ストア「Google Store」において、10月1日付でAndroidスマートフォン「Pixel 10a」が値上げされていることが判明した。値上げ幅はストレージ容量を問わず1万2900円で、改訂前後の価格は以下の通りとなる。 128GBモデル：7万9900円→9万2800円 25...",
+      "published": "2026-10-01T08:22:29Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "968aa73da8b3de8d8084f4b3cd7ad021",
+      "title": "素材と完成動画を見せるだけ “型”を覚えたAIに動画編集をどこまで託せるか GPT-6 Astraで試す",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001910/",
+      "summary": "8月下旬に、「ChatGPT」に米Adobeのプラグインを導入してクラウド上のツールを使って画像処理させるという方法を試した。静止画はかなりうまく動作するのに対し、動画は機能的にまだプアなこと、クラウド上に映像をアップロードしなければならないことなどの制約があり、十分とはいえない結果となった。 一方...",
+      "published": "2026-10-01T00:08:58Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a05a39676cce6bcb0c59085bc760159b",
+      "title": "吉野家HD、バイト応募者の個人情報5366件漏えい 元委託先に不正アクセス 契約終了もデータ残存",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001928/",
+      "summary": "吉野家ホールディングス（HD）は9月30日、傘下の吉野家とはなまるの情報が漏えいしたと発表した。吉野家とはなまるが過去に採用業務を一部委託していた、ApplyNow（東京都渋谷区）の採用管理プラットフォームが第三者による不正アクセスを受けた。2社とApplyNowの契約は終了していたが、ApplyN...",
+      "published": "2026-10-01T06:02:57Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "698ca0faaf5d208153588bcc7b949815",
+      "title": "業界初のバスパワー駆動Thunderbolt 5接続の10Gigabit Ethernetアダプタが登場",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2144860.html",
+      "summary": "",
+      "published": "2026-10-01T08:47:40Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed40f4fbe081c7fff12f3c09b0e1f041",
+      "title": "メモリメーカーのMicronが2026年第4四半期の決算発表、AIインフラの需要急増で爆発的に成長し売上高前年同期比379％増・純利益1078％増・データセンター部門売上高1000％増",
+      "link": "https://gigazine.net/news/20261001-micron-q4-2026/",
+      "summary": "アメリカで唯一AIに不可欠な高帯域幅メモリを製造するメーカーであるMicronは2026年9月30日に、2026年度第4四半期(2026年9月3日終了)および通期の決算を発表しました。決算によると前年同期比で約4.8倍、純利益は前年比で10倍近くまで跳ね上がっており、AI需要の高まりにより大きく成長...",
+      "published": "2026-10-01T04:54:46Z",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56b0660a888ca8afac61c243a36db1d6",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 tile-ai…",
+      "link": "https://github.com/tile-ai/tilelang",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 tile-ai / tilelang ⭐ 7,976 (+157) 🗒 Python Domain-specific language designed to streamline the development of high-pe...",
+      "published": "01 Oct 2026 16:17 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "313f5b1e67ddc488cba4ff140f913bea",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 Hunx…",
+      "link": "https://github.com/HunxByts/GhostTrack",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 HunxByts / GhostTrack ⭐ 16,128 (+635) 🗒 Python Useful tool to track location or mobile number",
+      "published": "01 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2392dd34c858f0db0124e900f1aa286d",
+      "title": "【登壇資料】DevelopersIO 2026 Osakaで「爆速でフルスタックなアプリケーションが作れる！？ Nx Plugin for AWSに入門しよう！」というタイトルで登壇しました！ #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-osaka-nx-plugin-for-aws-introduction/",
+      "summary": "DevelopersIO 2026 Osakaで登壇した「Nx Plugin for AWS」について、そこで話した内容をまとめました。モノレポ管理とAWSを組み合わせることで、フルスタックなアプリケーションを素早く構築できるこのツールについて紹介します。",
+      "published": "Thu, 01 Oct 2026 12:27:31 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "73d7083e3e2979bc12a6018a9ebac2a5",
+      "title": "Vinextでv1.0のリリースが行われたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/try-vinext-v1/",
+      "summary": "Cloudflareが公開したVinextを使ってNext.jsアプリケーションをAWS Lambda上でSSR化する方法について、プロジェクト構築からデプロイまでの実装例を紹介します。",
+      "published": "Thu, 01 Oct 2026 10:53:37 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3dadaae64692575ab3c8fe0623b3bca2",
+      "title": "Claude Code v2.1.286 の主要アップデート - --bare の変更とプラグインの npm ソース制限",
+      "link": "https://dev.classmethod.jp/articles/20261001-cc-updates-v2-1-286/",
+      "summary": "Claude Code v2.1.286がリリースされました。`--bare`の動作変更やプラグインのnpmソース制限など、既存の使い方に影響する破壊的変更が7件含まれています。注目の変更内容と、本日は、プラグインの npm ソース制限を試してみました。",
+      "published": "Thu, 01 Oct 2026 10:03:20 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "588a0c7c5db6064e845debfed3a8e36c",
+      "title": "リテールアプリ共創部にジョインしたOzzie（井上）です！",
+      "link": "https://dev.classmethod.jp/articles/202610-ozzie-joined-classmethod/",
+      "summary": "リテールアプリ共創部にジョインしたOzzie（井上）です。いろいろな業界でのサービス／プロダクト立ち上げ経験を活かして、クラスメソッドのチーム＆関わるみなさんと一緒に、世の中の様々な課題を解決していきたいです！",
+      "published": "Thu, 01 Oct 2026 09:50:32 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "05522d708aed60e5a1659eff070c2c6f",
+      "title": "運用イノベーション部にジョインした三ツ口です。",
+      "link": "https://dev.classmethod.jp/articles/202610-mitsuguchi-joined-classmethod/",
+      "summary": "クラスメッドに新しくジョインしました、三ツ口寛太です。オンプレからAWSまで幅広い基盤構築経験を経て、国内最高峰のAWS技術と知見、そしてモダン領域への積極的な取り組みに魅力を感じて入社を決めました。がんばります。",
+      "published": "Thu, 01 Oct 2026 09:44:48 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b36c0cc41528625bda73157c9a1fd2dd",
+      "title": "クラスメソッドテクノロジーズにジョインした巻幡です！",
+      "link": "https://dev.classmethod.jp/articles/202610-makihatat-joined-classmethod/",
+      "summary": "クラスメソッドテクノロジーズに新しくジョインした巻幡知己です。 オンプレミス環境でのインフラ経験を活かし、お客様の課題に深く向き合い、チーム一丸となって貢献していきたいと考えています。 よろしくお願いいたします！",
+      "published": "Thu, 01 Oct 2026 09:34:58 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3432b49e3566c614d14e8225019992d8",
+      "title": "運用イノベーション部にジョインしました、小形（オガタ）です",
+      "link": "https://dev.classmethod.jp/articles/202610-ogata-joined-classmethod/",
+      "summary": "クラスメソッドにジョインした小形勇翔です。ポケモン対戦と野球観戦が趣味で、DevelopersIOの技術発信に憧れて入社しました。新しい環境での挑戦と、素敵なメンバーとの出会いが楽しみです。",
+      "published": "Thu, 01 Oct 2026 09:34:01 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "748dad23131617425396455fee5e4197",
+      "title": "クラスメソッドテクノロジーズにジョインした大関です",
+      "link": "https://dev.classmethod.jp/articles/202610-kenji-joined-classmethod/",
+      "summary": "鉄道企業とSES企業での実務経験を経て、クラウド技術に本格的に携わりたいと考えています。DevelopersIOの記事で培ったAWS知識を活かしながら、IaCなどの新領域にも挑戦し、インフラ構築で貢献していきたいです。",
+      "published": "Thu, 01 Oct 2026 09:28:42 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d265e421db2f170c4a5eb8d9ac3ae71d",
+      "title": "クラウド事業統括本部 コンサルティング部にジョインしました連山です！",
+      "link": "https://dev.classmethod.jp/articles/202610-tsure-joined-classmethod/",
+      "summary": "2026年10月にクラウド事業統括本部コンサルティング部にジョインした連山颯太です。インフラエンジニアとしての経験を活かしながら、設計から構築まで一貫した業務に取り組む覚悟と、クラスメソッドでの新しいチャレンジへの想いについてお話しします。",
+      "published": "Thu, 01 Oct 2026 09:14:22 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e336a9b7951cccb43483644497313d7c",
+      "title": "【登壇資料】「Claude起点の仕様駆動開発」というタイトルでDevelopersIO 2026 Osakaに登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/claude-spec-driven-development-developersio-2026-osaka/",
+      "summary": "Claude起点の仕様駆動開発に挑戦し、デザインを仕様書の役割を持たせることで、人間がドキュメントやソースコードを書かないプロダクト開発ができるかを試してみました。道半ばながら、MCP連携とツールの役割分担で見えてきたものをお話しします。",
+      "published": "Thu, 01 Oct 2026 09:00:06 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e263793d021eb565918b290d4a457f6",
+      "title": "東日本営業本部アカウント営業部にジョインした金子研造（かねこ けんぞう）です",
+      "link": "https://dev.classmethod.jp/articles/join-kaneko-20261001/",
+      "summary": "食品メーカーの営業から、クラウドやAIなど未経験のIT業界へ飛び込みました。クライアントの「仕組み化」と「人材不足」という根本的な課題解決に貢献したいという想いで、新たなキャリアをスタートさせた金子研造の自己紹介です。",
+      "published": "Thu, 01 Oct 2026 08:27:07 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "77a846e1bf3f57a8a87a67a66383d202",
+      "title": "Aurora PostgreSQL の新機能「aurora_analytics」で S3・S3 Tables の直接クエリを試してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-postgresql-aurora-analytics-parquet-iceberg/",
+      "summary": "Aurora PostgreSQL 17.11 でサポートされた aurora_analytics 拡張を使い、S3 の Parquet ファイルと S3 Tables の Iceberg テーブルを外部テーブルとして定義し、Aurora の業務データと ETL なしで JOIN できました。",
+      "published": "Thu, 01 Oct 2026 08:26:45 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "94264f59745d5a57aeb5d4316117f606",
+      "title": "NocoBase のワークフローから HTML メールを送信してみた",
+      "link": "https://dev.classmethod.jp/articles/nocobase-workflow-html-email/",
+      "summary": "NocoBase のワークフローから HTML メールを送信してみました。Email Manager の内部 API を使って Gmail から送る方法と、標準のメール送信ノードから Amazon SES の SMTP で送る方法について、Google グループのアドレスを送信元にする設定手順と注意...",
+      "published": "Thu, 01 Oct 2026 08:06:23 GMT",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "535da2fefd0b012212e614e3570d5d53",
+      "title": "Is too much gear a bad thing? Hazel Mills says “option paralysis is very real” – and it could be killing your creativity",
+      "link": "https://musictech.com/news/gear/hazel-mills-my-forever-studio-option-paralysis/",
+      "summary": "“I’m a real advocate of limitations. You can actually be more creative by using one piece of gear for a year and really getting to know it.” The post ...",
+      "published": "Thu, 01 Oct 2026 16:47:08 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "1ba7cfd71e1e36558eeb0fc07476b864",
+      "title": "Meet the FLpad – a Novation 8×8 grid controller designed specifically for FL Studio",
+      "link": "https://musictech.com/news/gear/novation-flpad/",
+      "summary": "Boasting 64 RGB-backlit pads, plus a suite of controls for navigating FL Studio. The post Meet the FLpad – a Novation 8×8 grid controller designed spe...",
+      "published": "Thu, 01 Oct 2026 15:00:07 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "f7c5c03ef419f46e1a3da263ef408057",
+      "title": "All of the best deals on Plugin Boutique right now: UJAM, Soundtoys, XLN Audio and more",
+      "link": "https://musictech.com/news/gear/best-deals-plugin-boutique-october-2026/",
+      "summary": "After a long hot summer, we’ve found some great plugin deals so you can get creative while staying warm indoors. The post All of the best deals on Plu...",
+      "published": "Thu, 01 Oct 2026 10:54:27 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "d0e588ce55c771260b5a3218b8a8bfaf",
+      "title": "AI時代の勉強法(2026)",
+      "link": "https://iwashi.co/2026/10/01/how-to-study-in-ai-era",
+      "summary": "はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている...",
+      "published": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "fetched_at": "2026-10-01T16:48:13.445197+00:00",
+      "feed_name": "iwashi.co",
+      "category": "blog"
     }
   ],
-  "updated_at": "2026-10-01T08:04:47.750763+00:00"
+  "updated_at": "2026-10-01T16:48:13.445197+00:00"
 }

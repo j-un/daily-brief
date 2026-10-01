@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "ce7ed0292332a013a2eb05ef21ff8ae5",
-      "title": "Secret Weblog • Coding with a Sigh",
-      "link": "https://blog.startifact.com/posts/sigh-coding/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Coding with a Sigh",
-      "published": "29 Sep 2026 23:56 +0000",
-      "fetched_at": "2026-09-30T00:55:43.651687+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "6735a429cdea691fbf356478c89d8a27",
       "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
       "link": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
@@ -269,7 +259,507 @@
       "fetched_at": "2026-10-01T00:56:50.074701+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "715548d82446a7c94cfd73cde9450535",
+      "title": "Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+      "published": "01 Oct 2026 06:56 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e87d0f5b10b7143f30414ccc39087a6",
+      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+      "published": "01 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "046a91aa01ae7c2d531d5ef6bfabf562",
+      "title": "AIエージェント時代のPlatform as a Product —— テックリードがPdMとして回す発見・導入・計測 / Platform as a Product in the AI Agent Era - Speaker Deck",
+      "link": "https://speakerdeck.com/toshi0607/platform-as-a-product-in-the-ai-agent-era",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェント時代のPlatform as a Product —— テックリードがPdMとして回す発見・導入・計測 / Platform as a Product in the AI Agent Era",
+      "published": "01 Oct 2026 05:56 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d5447c037f37c4418d144913ca56be4",
+      "title": "OpenTelemetryで作るセルフサービステレメトリー基盤",
+      "link": "https://zenn.dev/ymotongpoo/books/observability-platform-with-otel",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetryで作るセルフサービステレメトリー基盤",
+      "published": "01 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5611c5febf4ede6de86538a11872c0ab",
+      "title": "人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike - Speaker Deck",
+      "link": "https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike",
+      "published": "01 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02c67daf268ec870b9ab3e8a19fe8ccd",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://github.com/skijima404/pek2026-value-stream-to-practice",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub - skijima404/pek2026-value-stream-to-practice: Platform Engineering Kaigi 2026のお土産置き場",
+      "published": "01 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a112344a34586a64fb282f631b6d3f8a",
+      "title": "実行できる手順書「LC4RI」で 快適な運用ライフを送ろう！ | ドクセル",
+      "link": "https://www.docswell.com/s/ma_anago/ZJW12G-2026-09-26-130252",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 実行できる手順書「LC4RI」で 快適な運用ライフを送ろう！",
+      "published": "01 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aecd46fc745d91382343815357e685d",
+      "title": "Agentic Platform Engineering on AWS - Speaker Deck",
+      "link": "https://speakerdeck.com/matsyuj/agentic-platform-engineering-on-aws",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Agentic Platform Engineering on AWS",
+      "published": "01 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c427545ae23434beae515e4d1b7a33ea",
+      "title": "入門 実践LC4RI",
+      "link": "https://zenn.dev/yasutakatou/books/0ac6588b7c9a83",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 入門 実践LC4RI",
+      "published": "01 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "145e387b8f95450620ff87ae988c45a3",
+      "title": "100人が同時に使うPlatform Cityの裏側 | Platform Engineering Kaigi 2026",
+      "link": "https://www.cnia.io/pek2026/blog/platform-city-internals.md",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 100人が同時に使うPlatform Cityの裏側",
+      "published": "01 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3bef84e835a7c26d5f6c1d26ab3e723",
+      "title": "Fuck Android Developer Verification Program",
+      "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
+      "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182 Comments URL: https://news.ycombinator.com/item?id=49917761 Points: 208 # Comment...",
+      "published": "Thu, 01 Oct 2026 04:32:38 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43c31f7bfb71e63a45e728bcd5e36559",
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "link": "https://56k.rip/",
+      "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 156 # Comments: 75",
+      "published": "Wed, 30 Sep 2026 22:08:50 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "311e0517abad1aed3843ffaa5737af89",
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "summary": "See also: Gemini 4 Argon - https://news.ycombinator.com/item?id=49913571 Comments URL: https://news.ycombinator.com/item?id=49914236 Points: 101 # Com...",
+      "published": "Wed, 30 Sep 2026 20:50:28 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "15ca27e21b312da40e2338f8c558c4a7",
+      "title": "CS240 AI Cheating Retrospective",
+      "link": "https://turkeyland.net/thoughts/ai.php",
+      "summary": "Article URL: https://turkeyland.net/thoughts/ai.php Comments URL: https://news.ycombinator.com/item?id=49913458 Points: 105 # Comments: 91",
+      "published": "Wed, 30 Sep 2026 19:54:29 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58f9ce836fb642064605a4f1c6c089f8",
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "link": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 120 # Comments: 9",
+      "published": "Wed, 30 Sep 2026 19:44:37 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89c95e9396145f3b2fe9db468294fcf6",
+      "title": "Before pixels: Modular industrial dashboards",
+      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Poin...",
+      "published": "Wed, 30 Sep 2026 18:49:06 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e328d54b297b79bae5f14222e07aa4b1",
+      "title": "Kiro で SAP モダナイゼーションを加速 – ベンチマークとユースケース",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-modernization-with-kiro-benchmarks-and-use-cases/",
+      "summary": "Kiro ベースのサンプルエージェントを使った SAP モダナイゼーションの6つのユースケースについて、社内ベンチマークとパートナー・お客様の成果を詳しく紹介します。SAP ECC の ABAP コード88オブジェクトを4.5時間で SAP S/4HANA 準拠に変換して工数を87%削減したほか、S...",
+      "published": "Thu, 01 Oct 2026 07:31:17 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "06209f42486d1e988108808a29818177",
+      "title": "Kiro で SAP モダナイゼーションを加速",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-modernization-with-kiro/",
+      "summary": "AWS の AI 搭載エンジニアリングエージェント Kiro をベースにしたサンプルエージェントを公開しました。カスタム SAP ABAP プログラム、SAP BW、SAP PI/PO のモダナイゼーションを単一のプロンプトで一括実行でき、社内ベンチマークでは ABAP コードのモダナイゼーション工...",
+      "published": "Thu, 01 Oct 2026 07:31:07 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e061e8676e88a97fd6081afac0448f6",
+      "title": "AWS Weekly Roundup: Amazon Bedrock の GPT-6 Sol/Luna および Claude Opus 5.5、Strands ハーネスなど (2026 年 9 月 28 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-gpt-6-sol-and-luna-claude-opus-5-5-on-amazon-bedrock-strands-harness-and-more-september-28-2026/",
+      "summary": "2026 年 9 月 21 日週を表現するテーマが 1 つあるとすれば、「選択」ではないでしょうか。フロンティ […]",
+      "published": "Thu, 01 Oct 2026 05:40:49 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa24cf2da97e438c8cff0470b27db3c8",
+      "title": "OCC が AWS 上に構築したエージェンティック AI 調査ソリューションでセキュリティオペレーションを強化",
+      "link": "https://aws.amazon.com/jp/blogs/news/occ-strengthens-security-operations-with-an-agentic-ai-investigation-solution-built-on-aws/",
+      "summary": "世界最大の株式デリバティブ清算機関である The Options Clearing Corporation (OCC)® は、Amazon Bedrock で構築した AI 搭載のセキュリティ調査エージェント「SOC エージェント」を導入しました。本記事では、エージェンティックループによってセキュリ...",
+      "published": "Thu, 01 Oct 2026 04:36:35 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "18fb1281ed25e5d7b5a220580647d1c6",
+      "title": "Amazon OpenSearch Ingestion と Amazon RDS および Amazon Aurora の統合",
+      "link": "https://aws.amazon.com/jp/blogs/news/integrating-amazon-opensearch-ingestion-with-amazon-rds-and-amazon-aurora-2/",
+      "summary": "Amazon Aurora および Amazon RDS（MySQL / PostgreSQL）と Amazon OpenSearch Service の統合が一般提供開始されました。Amazon OpenSearch Ingestion を使うと、ETL パイプラインを自前で組まずに、データベース...",
+      "published": "Thu, 01 Oct 2026 03:15:12 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "627d834db3b13bec65fc96433d754887",
+      "title": "自動推論チェックで回答を書き換えてハルシネーションを抑えるチャットボットのリファレンス実装",
+      "link": "https://aws.amazon.com/jp/blogs/news/automated-reasoning-checks-rewriting-chatbot-reference-implementation/",
+      "summary": "Amazon Bedrock Guardrails の自動推論チェックを活用し、大規模言語モデル (LLM) の回答を反復的に書き換えて改善するオープンソースのサンプルチャットボットを紹介します。検出結果の種類 (VALID、INVALID、SATISFIABLE など) に応じた優先順位付けと書き...",
+      "published": "Thu, 01 Oct 2026 02:25:38 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "742205bbeeb24e95a0ce39fc22795043",
+      "title": "Kiro workflows のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-workflows/",
+      "summary": "本日、Kiro workflows を発表します。複数のエージェントを使い、少ない監督で複雑なタスクを最初から最後までやり遂げられる機能です。私たちは Kiro 自体の開発にも workflows を使ってきました。新しいクラウド構成、クラウドセッション、そして workflows 体験の大部分がそ...",
+      "published": "Thu, 01 Oct 2026 01:59:12 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "79a149a9a5bd09b066f9c69db45ad2f0",
+      "title": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/",
+      "summary": "Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xe...",
+      "published": "Wed, 30 Sep 2026 23:59:00 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7728645a924bbc752a3cdd70213daf4b",
+      "title": "Amazon Bedrock expands Claude models in-region support in the UK (London)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/",
+      "summary": "We're excited to announce in-region support for Anthropic's Claude Opus 5.5 and Claude Sonnet 5 on Amazon Bedrock in the UK (London) Region. Customers...",
+      "published": "Wed, 30 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b12b52286c3e387048bb8af256231bb4",
+      "title": "Gboard チームからの新しいキーボードのご提案 2026",
+      "link": "https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/",
+      "summary": "第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマー...",
+      "published": "2026-10-01T01:25:00Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cac500ecf1d80ae6e192546041ee442",
+      "title": "睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？ 米MITが人間で実験 Science系列誌で発表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001901/",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-10-01T03:02:41Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d740d0495285ddcc28d58b157baa875",
+      "title": "[みんなのケータイ]「毎週1500円」のクリーナーアプリが平然と存在するアプリストアの問題点",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/2144672.html",
+      "summary": "",
+      "published": "2026-09-30T15:17:23Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "670140270c7e2247b2a1edeae551740a",
+      "title": "Googleの「謎キーボード」に今年も新作 “ベルトコンベヤー”でキーが流れてくる「くるくるバージョン」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001907/",
+      "summary": "Google Japanは10月1日、ベルトコンベヤー型キーボード「Gboard くるくるバージョン」を発表した。毎年恒例の“謎キーボード”の新作で、ベルトコンベヤーの上にキーを並べ、回転して手元に流れてくるキーをタイプする仕組みだ。発売予定はなく、自作できる設計図をオープンソースとして公開する。 ...",
+      "published": "2026-10-01T01:18:18Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67a1357671b1e00c5b39370f86c9ba0e",
+      "title": "ロボットは人間の肉体労働の74％をすでに実行可能だが「人間より安く働ける仕事」に限るとわずか0.3％という調査結果",
+      "link": "https://gigazine.net/news/20261001-robot-job/",
+      "summary": "AIの登場で頭脳労働がAIに取って代わられるというのは何となく想像できますが、肉体労働はまだまだ人間に任せられるところが多いように思えます。Anthropicの調査では、実は既にロボットが肉体労働のほとんどを担うことが可能だと判明したそうです。 Can we predict the jobs rob...",
+      "published": "2026-10-01T04:36:46Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b6536308e97a720827b0b4ee255c503",
+      "title": "『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）",
+      "link": "https://zenn.dev/kmizu/articles/2026-09-parser-book",
+      "summary": "はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn....",
+      "published": "2026-09-30T17:48:11Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fda05786c787b7ebdc328e96eb1821a",
+      "title": "「能動的サイバー防御」きょう開始 警察・自衛隊などが攻撃元サーバを無害化 高市首相も狙いを説明",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001918/",
+      "summary": "政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。国や基幹インフラへの攻撃を確認した場合、警察や自衛隊がネットワークを介して発信元のサーバにアクセスし、不正プログラムの消去や、攻撃者がサーバを使えなくする設定変...",
+      "published": "2026-10-01T03:38:19Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98f7ccb6c108c4940cb3083c95032c31",
+      "title": "AI時代、求められるのは技術力か、創造力か。ビジネス創造に越境するエンジニアに必要なもの | 人と今を伝える採用メディア | HADOH(はどう) | 博報堂テクノロジーズ",
+      "link": "https://recruit.hakuhodo-technologies.co.jp/hadoh/3752/",
+      "summary": "・小黒 陽弘（フルスタックエンジニア） Web系スタートアップや大企業子会社で、ゲーム・EC・SaaS・AIプロダクトの新規開発に従事。その後、博報堂テクノロジーズに入社し、発話解析プロダクトの立ち上げからグロースまでをリードエンジニアとして牽引。並行して新規事業部門のPoC支援や技術相談も担う。 ...",
+      "published": "2026-10-01T02:00:15Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa7c8f3d34f2e826f064348266b89ff3",
+      "title": "米戦争省、次世代戦争技術の検討プロジェクト始動 イーロン・マスク氏とパルマー・ラッキー氏が共同責任者に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001924/",
+      "summary": "米戦争省は9月30日（現地時間）、次世代の戦場で米軍の技術的優位を確保するための新プロジェクト「Project Meridian」を立ち上げると発表した。米TeslaやSpaceXを率いるイーロン・マスク氏、米Anduril Industries創業者のパルマー・ラッキー氏、元米下院議長のニュート・...",
+      "published": "2026-10-01T04:32:40Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a61a1676c48592d5c78d9da6e5b13be",
+      "title": "Reddit、RSSフィードを11月13日に終了 公開APIも2027年3月に閉鎖へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
+      "summary": "米Redditは9月30日（現地時間）、RSSフィードのサポートを11月13日に終了すると発表した。また、従来の公開データAPIについても2027年3月までにアクセスを終了し、これを使うアプリやボットを開発者プラットフォーム「Developer Platform」に移行させる方針を示した。いずれも8...",
+      "published": "2026-10-01T03:38:04Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c02008544f951698a487d1b12f390fc",
+      "title": "AI に伴走してもらうチームマネジメントの試み - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/ai-empowered-team-management",
+      "summary": "LayerX の Ai Workforce (AiW) 事業部の開発部で Engineering Manager をしている mootoh といいます。ちょうど本日、入社して丸1年を迎えました。1年前とは景色がまるで変わっていて、激動のAI時代に生きていることを実感しますね… ここでは、この半年で取...",
+      "published": "2026-10-01T02:54:02Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fb83283d367f17bf3482dcbc2758a2d",
+      "title": "米Micron、AI需要で売上高は前年同期比4.8倍、純利益は11.8倍と過去最高を更新",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001914/",
+      "summary": "米半導体メモリ大手のMicron Technologyは9月30日（現地時間）、2026年度第4四半期（7月～9月期）と2026年度通期の決算を発表した。四半期、通期ともに売上高は過去最高だった。同社はAI需要と適切な事業運営を好業績の要因に挙げ、2027年度も過去最高の業績を見込む。 Micron...",
+      "published": "2026-09-30T22:56:13Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04763f4e45e4b0973c6f620ff6e5e687",
+      "title": "大規模言語モデル「LLM-jp-4.1」シリーズを公開 ｜ 国立情報学研究所 大規模言語モデル研究開発センター",
+      "link": "https://llmc.nii.ac.jp/topics/llm-jp-4-1/",
+      "summary": "国立情報学研究所 大規模言語モデル研究開発センター（LLMC）は、オープンかつ日本語に強い大規模言語モデル「LLM-jp-4.1」シリーズを公開します。本シリーズは、2026年4月より順次公開している「LLM-jp-4」シリーズの事後学習を改善したものです。主な改良点は、STEM（科学・技術・工学・...",
+      "published": "2026-09-29T00:39:58Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76d8a6fcd1b8d56821bf3d009850392d",
+      "title": "AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html",
+      "summary": "",
+      "published": "2026-09-30T23:45:51Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73949acb88dcdeaa51090baa703c4d6d",
+      "title": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表",
+      "link": "https://built.itmedia.co.jp/bt/articles/2609/30/news112.html",
+      "summary": "AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ） 日本HPは、建設業界向けクラウドプラットフォーム「HP Build Workspace 日本語版」の提供を開始した。紙図面とデジタル図面を一元管理し、QRコードによる最新版確認やA...",
+      "published": "2026-09-30T22:56:32Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a08d5e86fa7fae0278322cd9b0c3604",
+      "title": "ビル・ゲイツが「AI規制はサイバー攻撃やバイオテロを防ぐために必要」「AIは人間の仕事を奪う」とインタビューで語る",
+      "link": "https://gigazine.net/news/20261001-bill-gates-warning-ai-ezra-klein/",
+      "summary": "by Bill Gates Microsoftの創業者であり億万長者のビル・ゲイツ氏は近年、さまざまな場面でAIに対する懸念を表明しています。日刊紙のニューヨーク・タイムズに掲載されたジャーナリストのエズラ・クライン氏とのインタビューでも、ゲイツ氏はAIのさまざまなリスクや必要な対策、そしてAIが人...",
+      "published": "2026-09-30T22:01:53Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b952ea9f3218a446ca5a0d36870e74b6",
+      "title": "ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/10/01/090000",
+      "summary": "はじめに こんにちは、モノタロウでコンテナ基盤グループに所属している田中です。 以前の記事では、ArgoCDを活用した検証環境の自動生成について紹介しました。今回は、その ArgoCD 運用の裏側で発生していた「ログインに時間がかかりすぎる問題」と「Google 障害でリリースができなくなる問題」を...",
+      "published": "2026-10-01T01:11:49Z",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e39ec2390d0765af9cb618192dae87a",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Composi…",
+      "link": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ComposioHQ / awesome-claude-skills ⭐ 75,951 (+118) 🗒 Python A curated list of awesome Claude Skills, resources, and t...",
+      "published": "01 Oct 2026 01:17 +0000",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e378a3ddbbeec7beba434688bb295e2",
+      "title": "DevOps AgentにMCPサーバーを追加してEC2のOS調査をしてみた",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-mcp-ec2-os-investigation/",
+      "summary": "カスタムMCPサーバーを使うことで参照のみの権限に抑えながらInvestigation内でのOS情報取得を実現できます！",
+      "published": "Thu, 01 Oct 2026 05:21:12 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f07c99ca41390c41b9df6bb391548d5",
+      "title": "Claude Codeにうっかり貼ってしまった秘密情報・個人情報を、送信前に止めるフックを自作してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-hook-block-secrets-pii-before-send/",
+      "summary": "Claude Codeを使った開発時に、うっかり秘密鍵やAPIトークン、顧客のメールアドレスなどをClaudeに送信してしまうのを防ぐため、送信前フックで自動検出・ブロックする仕組みを実装してみました。ダミーデータもまとめてキャッチし、マスク済みテキストをクリップボードに用意するので、手間なく安全に...",
+      "published": "Thu, 01 Oct 2026 05:09:07 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "865a3245f630f7044fb166aefc4f5ac1",
+      "title": "Alteryx One 契約更新時の確認事項と対応手順（2026 年 10 月版）",
+      "link": "https://dev.classmethod.jp/articles/alteryx-one-license-renewal-todo-202610/",
+      "summary": "Alteryx One の契約更新を控えている組織の管理者およびユーザー向けに、更新前後に必要な作業をまとめました。アカウント管理者の確認からライセンスキーの棚卸し、再アクティベーションまで、契約更新時の確認をスムーズに進めるための手順をご紹介します。",
+      "published": "Thu, 01 Oct 2026 05:05:53 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "394d4e4ba9021f1880de879c9f493713",
+      "title": "DevelopersIO 2026 Osakaで「サーバーフルコンピューティング？AWS Lambda」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-osaka-lambda-histtory/",
+      "summary": "最近はLambdaでも必要に応じてある程度サーバーの存在を意識した使い方が選択できるよ という話をしました",
+      "published": "Thu, 01 Oct 2026 04:46:10 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0374d58c75bde179b1b060a628e7f755",
+      "title": "Amazon Aurora / RDS で AMD EPYC 搭載の db.r8a がサポートされました",
+      "link": "https://dev.classmethod.jp/articles/aurora-postgresql-r8a-pg-settings/",
+      "summary": "db.r8a.large（AMD EPYC 5th Gen / SMT 無効）で Aurora PostgreSQL 17.4 を起動し、Data API でワーカー関連パラメータの既定値を確認しました",
+      "published": "Thu, 01 Oct 2026 04:19:21 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c0baebc11e7c34edee242ebcd06ce23",
+      "title": "NocoBaseワークフローを月末に実行する",
+      "link": "https://dev.classmethod.jp/articles/nocobase-workflow-exec-eom/",
+      "summary": "NocoBaseワークフローを月末のみに実行させる設定方法を紹介します。スケジュールイベントとFormula.jsを組み合わせた実装方法を、ノード設定の詳細とともに解説します。",
+      "published": "Thu, 01 Oct 2026 02:45:19 GMT",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4f15e1aff50456d50b9bebe1b2035a0",
+      "title": "詳解 Active Directory & Windowsインフラ・ペネトレーションテスト",
+      "link": "http://www.oreilly.co.jp/books/9784814401734/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "ランサムウェアや情報漏えいなどのサイバー攻撃が高度化・組織化する中、多くの企業で内部ネットワークの根幹を支えるWindowsインフラやActive Directoryは、常に脅威にさらされています。高度な攻撃を防ぐには、攻撃者が用いる戦術や技術を深く理解することが不可欠です。本書では、安全に試せるラ...",
+      "published": "2026-10-23T00:00:00+09:00",
+      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "book"
     }
   ],
-  "updated_at": "2026-10-01T00:56:50.074701+00:00"
+  "updated_at": "2026-10-01T08:04:47.750763+00:00"
 }

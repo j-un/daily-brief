@@ -39,7 +39,237 @@
       "fetched_at": "2026-09-30T14:27:39.703184+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "bfc5793f58a643824715b7c1cc8f8984",
+      "title": "技術選定の現場から「AIにも人間にも最適なWebフレームワークはどれ？」 - KAKEHASHI Tech Blog",
+      "link": "https://kakehashi-dev.hatenablog.com/entry/2026/09/24/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 技術選定の現場から「AIにも人間にも最適なWebフレームワークはどれ？」",
+      "published": "30 Sep 2026 23:56 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "59fb90a707c998facf14be8bcba5a326",
+      "title": "あけおめLINE 傾向とその対策 - Speaker Deck",
+      "link": "https://speakerdeck.com/nasa9084/ake-ome-line-keikou-to-sono-taisaku",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 あけおめLINE 傾向とその対策",
+      "published": "30 Sep 2026 23:55 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af5a86f799b9a35a9f4dbb1ab9a654a8",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "link": "https://www.thespacereview.com/article/4951/1",
+      "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 104 # Comments: 29",
+      "published": "Wed, 30 Sep 2026 22:03:04 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78e54296c6b731f76d85dbd0c064bd34",
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinat...",
+      "published": "Wed, 30 Sep 2026 19:04:50 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "905eee66cd88e2ae650fc9c7a5fb4c1a",
+      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 111...",
+      "published": "Wed, 30 Sep 2026 18:17:45 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6f70cf3edfe4d1e49f2b59c8427b1e1",
+      "title": "Amazon Aurora PostgreSQL がデータレイク上の Apache Iceberg と Parquet データへの直接クエリをサポート",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/",
+      "summary": "Amazon Aurora PostgreSQL で、データレイクに保存された Apache Iceberg および Apache Parquet 形式のデータを直接クエリできるようになりました。DuckDB が Aurora PostgreSQL に組み込まれ、ETL パイプラインなしで運用データ...",
+      "published": "Wed, 30 Sep 2026 23:35:23 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a28caf112bc46e8de19be80f71ff3c99",
+      "title": "Amazon Aurora and RDS now support AMD-based R8a instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/",
+      "summary": "Amazon Aurora and Amazon RDS now support R8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your...",
+      "published": "Wed, 30 Sep 2026 17:00:00 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "496e26cf45ea975b820015c81a4e902b",
+      "title": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/",
+      "summary": "AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that allows...",
+      "published": "Mon, 28 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f09c6f252e5c59f34064f0a4626cdf69",
+      "title": "Amazon Transcribe adds customer-managed KMS keys for custom resources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/",
+      "summary": "Amazon Transcribe now lets you encrypt your custom vocabularies, custom vocabulary filters, and custom language models at rest with a customer-managed...",
+      "published": "Fri, 25 Sep 2026 19:19:00 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "94b8ce576c8f6fcf3aba58d3d45ee1e4",
+      "title": "AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/",
+      "summary": "AWS Identity and Access Management (IAM) outbound identity federation now supports Amazon Virtual Private Cloud (VPC) endpoints for the OpenID Connect...",
+      "published": "Fri, 25 Sep 2026 17:54:00 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc5cbe870d8f6f9eb66f66e2bd646803",
+      "title": "ChatGPT連携初日の増田で何が起きていたか",
+      "link": "https://anond.hatelabo.jp/20261001070030",
+      "summary": "昨日、増田にChatGPT連携が来た。 はてラボの告知が出たのが9月30日15:15。 https://labo.hatenastaff.com/entry/2026/09/30/151500 ChatGPTから増田を検索したり、読んだり、そして''そのまま投稿したりできる''ようになった。 で、初...",
+      "published": "2026-09-30T22:05:08Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a73c0e1d53b441357999867c5cdd7aa",
+      "title": "【Hothotレビュー】 ルーターが固まっても勝手に復活！神デバイス「ezJack」を試してみた",
+      "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2144666.html",
+      "summary": "",
+      "published": "2026-09-30T21:22:42Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8016f5bdbc3a67d2814602c9687ae6cd",
+      "title": "さよならイルカショー",
+      "link": "https://blog.tinect.jp/?p=91526",
+      "summary": "新江ノ島水族館 秋の連休、おれは鎌倉と江の島に行った。観光である。おれは鎌倉で生まれ育ったが、藤沢により近い津西の出なので、あまり寺社仏閣だの大仏だのが身近にあったわけでもない。 だからといって江の島を遊び場にしていたかというとそうでもない。地元の人間は地元の観光地にあまり行かない。 江ノ電も、ぜん...",
+      "published": "2026-09-30T23:23:44Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e622c1e795e318bb542c621f7f8937c9",
+      "title": "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一",
+      "link": "https://www.publickey1.jp/blog/26/javascriptvite_10.html",
+      "summary": "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一 JavaScript用ビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、Viteを含むJavaScri...",
+      "published": "2026-09-30T16:14:03Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37839fba007f3147ee7ebd371e143377",
+      "title": "佐川急便の荷物追跡サービスに不正アクセス 利用を一部制限",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001911/",
+      "summary": "佐川急便は9月30日、同社Webサイトで荷物の輸送状況を確認できる「お荷物問い合わせサービス」で、同日に第三者による不正アクセスを確認したと発表した。 対策の一環として、同サービスへのアクセスを一部制限しており、サービスにアクセスしづらい状態になる場合があるとしている。",
+      "published": "2026-09-30T22:01:32Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67bc0474473c4c7762a35a7240079d8e",
+      "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+      "link": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
+      "summary": "米Googleは9月30日（現地時間）、次世代のフロンティアAIモデル「Gemini 4 Argon」を発表した。複雑で長時間にわたるワークフローの処理に重点を置き、ソフトウェア開発、金融・法務などの業務、サイバーセキュリティ防御で高い性能を発揮するとしている。まず「Fairwind Program...",
+      "published": "2026-09-30T22:23:04Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee66f1085136410f646b77ae603a5d61",
+      "title": "【特集】 ミニPCでローカルAIエージェントはどこまで動く？「LM Studio Bionic」で試した",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2144569.html",
+      "summary": "",
+      "published": "2026-09-30T21:32:40Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54449d7470222da8964af4f3316c4129",
+      "title": "Google、次世代AIモデル「Gemini 4 Argon」を発表、100万トークンに対応",
+      "link": "https://sumahodigest.com/?p=72381",
+      "summary": "Googleは9月30日、次世代のフロンティアモデルとなる「Gemini 4 Argon」を発表しました。複雑で長時間にわたるタスクの推論を重視したモデルで、コーディングや知識業務、サイバーセキュリティ、クリエイティブ分野などで高い性能を発揮することを目指しています。 Gemini 4 Argonで...",
+      "published": "2026-09-30T20:39:10Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b74ab947b4cb15d25fb57b076527a88",
+      "title": "Windows 11のうっとうしいポップアップ連発を凝縮体験できる「Windows 11½」",
+      "link": "https://gigazine.net/news/20260930-windows-11-1-2/",
+      "summary": "Windows 11のユーザー体験で、改善はされたもののそれでもうっとうしいポップアップをこれでもかと体験させてくれる、「Windows 11½」という誰が喜ぶのかわからないサイトが公開されています。 Definitely Not Windows — Windows 11½ https://defi...",
+      "published": "2026-09-30T14:30:47Z",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0bd21c2cf11fc945041c46e569bfc6c6",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 opencla…",
+      "link": "https://github.com/openclaw/openclaw",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 openclaw / openclaw ⭐ 390,829 (+136) 🗒 TypeScript The AI that really does things. Any OS. Any Platform. The lobster w...",
+      "published": "01 Oct 2026 00:17 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c09473f1ffc3548297ddeaf6d49c5b3",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 har…",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 harry0703 / MoneyPrinterTurbo ⭐ 127,253 (+338) 🗒 Python 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short vide...",
+      "published": "30 Sep 2026 23:17 +0000",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "012fcdd083db3d6fb504e20d9e455705",
+      "title": "Amazon Connect Customer の会話分析ルールで各お問い合わせ内容を分類し、ダッシュボードに表示してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-conversation-analytics-categories-dashboard/",
+      "summary": "Amazon Connectの会話分析ルールで、生成AIを活用した「自然言語 – セマンティック一致」条件を使い、日本語チャットを「プラン変更」「解約」に自動分類してみました。顧客が直接その言葉を使わないチャットでもカテゴリが付与されるか、ダッシュボードの見方とあわせて検証結果をお伝えします。",
+      "published": "Thu, 01 Oct 2026 00:42:11 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "118159a52a37f742f9a8108710f21cc6",
+      "title": "「BedrockとLambdaで作る リアルタイム進行型推理ゲーム」 というタイトルで、Developers IO Osaka 2026 に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/morino-jikembo-devio2026-osaka/",
+      "summary": "「BedrockとLambdaで作る リアルタイム進行型推理ゲーム」 というタイトルで、Developers IO Osaka 2026 に登壇しました #devio2026",
+      "published": "Thu, 01 Oct 2026 00:11:49 GMT",
+      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-09-30T23:05:11.694581+00:00"
+  "updated_at": "2026-10-01T00:56:50.074701+00:00"
 }

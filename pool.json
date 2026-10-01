@@ -49,7 +49,57 @@
       "fetched_at": "2026-10-01T16:48:13.445197+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "b9faa91ea0b90810eba3a66ea4bad337",
+      "title": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/",
+      "summary": "Amazon Aurora serverless now scales in even larger steps, adding up to 16 ACUs to its current capacity within a second and continuing to scale up to 2...",
+      "published": "Wed, 30 Sep 2026 17:50:00 GMT",
+      "fetched_at": "2026-10-01T22:10:51.190559+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5aaec894401e58a13339065f859f1673",
+      "title": "Amazon Aurora now supports PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/",
+      "summary": "Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.6, 17.11, 16.15, 15.19, and 14.24, which include bug fixes from the Po...",
+      "published": "Tue, 29 Sep 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-01T22:10:51.190559+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "57338c904fc4a03254ef07d5e38b5f13",
+      "title": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/",
+      "summary": "AWS Lambda durable functions are now available in the AWS European Sovereign Cloud. Lambda durable functions enable developers to build reliable multi...",
+      "published": "Thu, 24 Sep 2026 18:29:00 GMT",
+      "fetched_at": "2026-10-01T22:10:51.190559+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bac462f5b12070929ec94a502734dc5d",
+      "title": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Multi-AZ deployments using Always On Availability Groups for SQL Server De...",
+      "published": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-01T22:10:51.190559+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "99293554a5486194a01b7b31b56f59ce",
+      "title": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/",
+      "summary": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts, providing local, managed recursive DNS resolution directly on y...",
+      "published": "Tue, 22 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:10:51.190559+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-01T22:05:44.269704+00:00"
+  "updated_at": "2026-10-01T22:10:51.190559+00:00"
 }

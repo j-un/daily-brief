@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b3618b3e9cfa9e0c0c7ecfab26e9b41e",
-      "title": "EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog",
-      "link": "https://tech.timee.co.jp/entry/2026/09/25/162348",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話",
-      "published": "30 Sep 2026 08:55 +0000",
-      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ee42bcc304fbbddf192474b7da22ae40",
-      "title": "ZOZOTOWN Androidのリリース準備を自動化 ── Jira AutomationとGitHub Actionsで手作業を減らす - ZOZO TECH BLOG",
-      "link": "https://techblog.zozo.com/entry/zozotown-android-release-automation",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ZOZOTOWN Androidのリリース準備を自動化 ── Jira AutomationとGitHub Actionsで手作業を減らす",
-      "published": "28 Sep 2026 03:55 +0000",
-      "fetched_at": "2026-09-30T14:27:39.703184+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "bfc5793f58a643824715b7c1cc8f8984",
       "title": "技術選定の現場から「AIにも人間にも最適なWebフレームワークはどれ？」 - KAKEHASHI Tech Blog",
       "link": "https://kakehashi-dev.hatenablog.com/entry/2026/09/24/090000",
@@ -1329,7 +1309,557 @@
       "fetched_at": "2026-10-01T16:48:13.445197+00:00",
       "feed_name": "iwashi.co",
       "category": "blog"
+    },
+    {
+      "entry_id": "11ad6e13661a4d8c1d359d9d40a534e5",
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 445 # Comments: 155",
+      "published": "Thu, 01 Oct 2026 19:33:05 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "09afaa60ad7d929bca1f704d44d72a3b",
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "summary": "Article URL: https://earendil.com/posts/pi-durable/ Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 114 # Comments: 10",
+      "published": "Thu, 01 Oct 2026 19:24:08 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d808a70725e5fb41cb80867893b8bbd",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256 Comments URL: https://news.ycombinator.com/item?id=49924179 Points: 161 # Comments: 179",
+      "published": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89d073630f45098d6fd53a6dd84bc9fe",
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 357 # Comments: 142",
+      "published": "Thu, 01 Oct 2026 16:18:57 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2ec9c41090be740129dd23d5cc3baaf",
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 238 # Comments: 62",
+      "published": "Thu, 01 Oct 2026 16:01:56 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "63ab1fa689f14601f889a7e93b8efc0f",
+      "title": "Red Hat being phased out of existence?",
+      "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+      "summary": "Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml Comments URL: https://news.ycom...",
+      "published": "Thu, 01 Oct 2026 15:33:26 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea5167b93aa977b7caa54f0dbafaaa71",
+      "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
+      "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
+      "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454 Comments URL: https://news.ycombinator.com/item?id=49922729 Points: 163 # Comm...",
+      "published": "Thu, 01 Oct 2026 15:10:46 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da502e13bc1345866994a9fcb0658c30",
+      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+      "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+      "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/ Comments URL: https://news...",
+      "published": "Thu, 01 Oct 2026 15:07:42 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c1466a9e4c255271a01e47ef83d1187",
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "link": "https://news.ycombinator.com/item?id=49922569",
+      "summary": "Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not ...",
+      "published": "Thu, 01 Oct 2026 15:02:07 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a63c7c108611565e9a9a3cf93066163e",
+      "title": "RacketCon Is Saturday",
+      "link": "https://con.racket-lang.org/",
+      "summary": "Article URL: https://con.racket-lang.org/ Comments URL: https://news.ycombinator.com/item?id=49922515 Points: 116 # Comments: 31",
+      "published": "Thu, 01 Oct 2026 14:58:13 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3994e7b7c398222957dae4d1d708b4cb",
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "summary": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/ Comments URL: https://news.ycombinator.com/item?id=49...",
+      "published": "Thu, 01 Oct 2026 14:38:35 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5075d06cf1eec1d7e3bc62b079f7cb7",
+      "title": "Cloudflare K2: serverless event streams",
+      "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+      "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/ Comments URL: https://news.ycombinator.com/item?id=49921923 Points: 166 # Comments: 70",
+      "published": "Thu, 01 Oct 2026 14:09:10 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c10af149b185cc2e1ef9ca93e84d23a",
+      "title": "AWS Well-Architected Agent is now available in preview",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/",
+      "summary": "AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Well-A...",
+      "published": "Thu, 01 Oct 2026 20:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fe134106f9996a06b2d53c2bb485bea",
+      "title": "Amazon Redshift now supports cross-Region queries for your data lake",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake",
+      "summary": "Amazon Redshift now supports querying Amazon S3 data lake tables located in a different AWS Region. With enhanced VPC routing, data lake query traffic...",
+      "published": "Thu, 01 Oct 2026 18:41:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e005a6a9ef1d628ad425ea826e186ca9",
+      "title": "Amazon DynamoDB introduces filtered export to Amazon S3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export/",
+      "summary": "Amazon DynamoDB export to Amazon S3 allows you to export your table data for analytics, data sharing, and other offline uses, as either a full export ...",
+      "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b32f0c040f5cc4367b00d3a7932a482a",
+      "title": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/",
+      "summary": "Today, AWS announces the availability of Amazon DynamoDB Accelerator (DAX) in 17 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Hyder...",
+      "published": "Thu, 01 Oct 2026 16:44:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "877b067608f20247c9d0feeb169e70ba",
+      "title": "Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/",
+      "summary": "Amazon GuardDuty now supports AWS Organizations declarative policies, enabling you to centrally enable GuardDuty threat detection across every account...",
+      "published": "Thu, 01 Oct 2026 16:01:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "53ae55c3ed67cc9c29d8884b6414fce4",
+      "title": "Amazon Corretto 8 September 2026 Patch Updates",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/",
+      "summary": "On September 30, 2026, Amazon announced a patch update for the following Amazon Corretto Long-Term Support (LTS) version of OpenJDK: Corretto 8u504 is...",
+      "published": "Thu, 01 Oct 2026 14:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e99225b0e68793a6670795ac67f25131",
+      "title": "Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/",
+      "summary": "Amazon S3 Object Lock support for variable retention with event holds is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West). Amazon S3...",
+      "published": "Thu, 01 Oct 2026 13:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ee9a304f9ebe1ed110f05a0ea79a2ad",
+      "title": "AWS Security Hub introduces remediation plans to prioritize and fix security exposures",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/",
+      "summary": "AWS Security Hub now offers remediation plans that group related exposure findings sharing a root cause. Instead of addressing each exposure individua...",
+      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "40bdb4b376afbb1c6396a3f6ef11317d",
+      "title": "AWS Transfer Family now supports custom CloudWatch log groups for managed workflows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-cloudwatch-log-groups/",
+      "summary": "AWS Transfer Family now lets you choose a custom log group in Amazon CloudWatch Logs for managed workflow execution logs. You can organize workflow lo...",
+      "published": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "33eb7de96ba27926a57e589ed55076fe",
+      "title": "AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg V3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/",
+      "summary": "AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg Version 3 (V3) tables. With these new capabilities,...",
+      "published": "Thu, 01 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0f7e58b3b4c2479cd1ec6d5642b466c",
+      "title": "Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/",
+      "summary": "Amazon EMR Serverless now offers enhanced serverless storage capabilities with support for up to 1TB shuffle operations, raising the previous 200 GB p...",
+      "published": "Thu, 01 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "354a95aaac98a1c50decad0772faa89e",
+      "title": "Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/",
+      "summary": "Route 53 Global Resolver and DNS Firewall now provide DNS analytics and insights through native Amazon CloudWatch integration. These new capabilities ...",
+      "published": "Thu, 01 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "098b0c7ee798faa108393cddf5addfe7",
+      "title": "AWS IAM Identity Center extends multi-Region support to more AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions",
+      "summary": "IAM Identity Center helps you connect your workforce identities to AWS once and streamline access management to AWS accounts and applications. You can...",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "183d796a9a7c052d6b20bf4c0e095c14",
+      "title": "Improve your secrets security posture with actionable recommendations in the AWS Secrets Manager console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-secrets-manager-security-posture-recommendations",
+      "summary": "​​​AWS Secrets Manager now integrates with the AWS Recommended Actions framework to surface contextual, actionable suggestions for your secrets direct...",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b093b9a796f19fb470ffbaf99414d33",
+      "title": "Amazon S3 Tables now support up to 100 table buckets per AWS Region in an AWS account",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-tables-table-bucket-increase",
+      "summary": "Amazon S3 Tables now support up to 100 table buckets per AWS Region in an AWS account, increased from 10. This allows you to create up to 1 million ta...",
+      "published": "Thu, 01 Oct 2026 04:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3dd0a38e9ff261a8f9dbc44b36efb2c",
+      "title": "Apache Iceberg materialized views now support system-managed write protection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/system-managed-iceberg-materialized-views",
+      "summary": "Today, AWS announces system-managed materialized views for Apache Iceberg. Materialized views let you precompute an expensive query once and reuse the...",
+      "published": "Wed, 30 Sep 2026 21:19:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c226788850ff098629c0cf3477603d9e",
+      "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
+      "summary": "Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City....",
+      "published": "Wed, 30 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f61a550cb127972926187686b6cfbed",
+      "title": "Amazon Redshift simplifies access to secure logging with federated permissions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-secure-logging-permissions/",
+      "summary": "Amazon Redshift now makes it easier to troubleshoot and audit queries on data protected by federated permissions with fine-grained access control (FGA...",
+      "published": "Wed, 30 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "92b9af64092993c6f425bdcf81267689",
+      "title": "Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis-video-streams-vpc-privatelink/",
+      "summary": "Amazon Kinesis Video Streams now supports interface VPC endpoints powered by AWS PrivateLink, providing private connectivity from your Amazon Virtual ...",
+      "published": "Wed, 30 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c14d359913ecaebc46b9c7f599cc77bb",
+      "title": "AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita",
+      "link": "https://qiita.com/TamakiSeki/items/ac268db56f92b991970b",
+      "summary": "はじめに 生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。 文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にとどまり、業務全体の改善につな...",
+      "published": "2026-10-01T14:10:57Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d790970dc4683b3fa99324a2d2d52e4",
+      "title": "「この勢いは驚き」タイムズカー情報流出で「集団訴訟」呼びかけ、わずか1日で参加希望2000人超 - 弁護士ドットコムニュース",
+      "link": "https://www.bengo4.com/c_1015/c_1885/c_1888/n_20995/",
+      "summary": "カーシェアサービス「タイムズカー」の会員情報が不正アクセスによって漏えいした問題をめぐり、運営会社などに損害賠償を求める集団訴訟への参加希望が、2000人を超えたことがわかった（10月1日午後6時）。呼びかけている牧野裕貴弁護士が同日、弁護士ドットコムニュースの取材に明らかにした。 牧野弁護士は9月...",
+      "published": "2026-10-01T11:45:11Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8bd19d27357bcb335c72218fcdb9f82b",
+      "title": "dotfiles を AI agent のために作り変えた",
+      "link": "https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
+      "summary": "最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うため...",
+      "published": "2026-10-01T14:35:59Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0db066c257ee36325ab9796916059d0",
+      "title": "米政府の新AIチャットボット、トランプ氏の主張と矛盾する回答 直後に一部質問を制限",
+      "link": "https://www.afpbb.com/articles/-/3655649",
+      "summary": "【10月1日 AFP】ドナルド・トランプ米大統領は今週、政府ウェブサイト向けの人工知能（AI）チャットボットを披露し「非常に素晴らしい」と称賛した。しかし、トランプ氏の政治的主張と矛盾する回答をしたことで注目を集め、公開の翌日には一部の政治的な質問を受け付けなくなった。 ウェブサイト「America...",
+      "published": "2026-10-01T12:17:15Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1f691efdf04ea42d5bca1db22069b81",
+      "title": "OpenAIが「中国のAI企業が1万5000以上のユーザーを使ってモデルの思考を盗み取る蒸留攻撃を実行していた」と報告",
+      "link": "https://gigazine.net/news/20261001-openai-model-distillation-campaign/",
+      "summary": "OpenAIが「1万5000人以上のユーザーによる組織化された敵対的蒸留攻撃」を検出したことを発表しました。OpenAIは「攻撃活動の中心を担ったのは、Kimiシリーズの開発元である中国企業のMoonshot AIに関係する人物であると推測される」と述べています。 Disrupting a coor...",
+      "published": "2026-10-01T02:22:39Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c27fe837d019ddfa231c3e24e38cdf6",
+      "title": "「Oracle JDK 21」は無償の「NFTC」ライセンスの対象外に、10月「CPU」以降で／「Oracle JDK」を無償で商用運用したいなら「Oracle JDK 25」への移行を",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2144856.html",
+      "summary": "",
+      "published": "2026-10-01T08:38:40Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "64156cdfbbeabe290b4d0170d9167045",
+      "title": "Appleのジョン・ターナスCEOは新製品のリリース頻度をもっと上げようと考えている",
+      "link": "https://gigazine.net/news/20261001-apple-john-ternuss-strategy/",
+      "summary": "Appleの新CEOに就任したジョン・ターナス氏が、製品開発のスピードを上げ、組織をスリム化するために経営体制を見直していると報じられました。春と秋に集中していた製品発表を年間に分散させるほか、エンジニアと経営幹部の間にある管理職の階層を減らすことなどを検討しています。 What Is Ternus...",
+      "published": "2026-10-01T02:57:52Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "092619fbeae37923674dc12b335ceb3a",
+      "title": "世界はこの本の通りに動いている――今一番話題のAI本『超知能AIをつくれば人類は絶滅する』電子書籍版が「99円」に。10月2日（金）～10月4日（日）の3日間限定",
+      "link": "https://prtimes.jp/main/html/rd/p/000000061.000073162.html",
+      "summary": "株式会社早川書房（本社：東京都千代田区、代表：早川淳）は、2026年10月2日（金）～4日（日）の3日間、エリーザー・ユドコウスキー＆ネイト・ソアレス『超知能AIをつくれば人類は絶滅する』（櫻井祐子訳）電子書籍版を99円で提供します。 ■ AIの暴走事例が相次ぎ、世界が揺らぐ AIの暴走事例が相次ぎ...",
+      "published": "2026-10-01T03:20:38Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "34d8cb178e1562b7d137a250f024659d",
+      "title": "DiPlay — CarPlay for compatible Android head units",
+      "link": "https://shihabal3amri.github.io/DiPlay/",
+      "summary": "PUBLIC PREVIEW · 0.2.8Your iPhone. At home in your car.Maps, music and conversations on your car display. DiPlay brings wired and wireless CarPlay to ...",
+      "published": "2026-10-01T01:43:52Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0b2bd3793a2b565edf55f766692967d",
+      "title": "Google、新フロンティアモデルGemini 4 Argon発表 出力100万トークンで長期の自律推論に強み、法務や業務自動化でOpus 5.5やAstraに大差 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/10/01/5543.html",
+      "summary": "Google が新たなフロンティアAIモデル Gemini 4 Argon を発表しました。",
+      "published": "2026-10-01T09:57:19Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cdf3dc05976016d7ce9046027ae4bf45",
+      "title": "LayerXのFDEインターンに参加した話 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/2026/09/30/200852",
+      "summary": "※本記事は、2026年7月までLayerXのAi Workforce事業部でFDEインターンとして活躍してくれたakatuki（あかつき）さんによる執筆です。本人のインターン期間終了に伴い、LayerX の maruchiho（まるちほ）が代理で投稿いたします。 はじめに こんにちは、名古屋工業大学...",
+      "published": "2026-10-01T04:49:19Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "122003f829259f4bf06cace0dec4ceaf",
+      "title": "Amazonの配達員向けスマートグラスは生成AIマッピング用に配送先の私有地でも静止画を撮影、2027年までに2万人以上の配達員が着用へ",
+      "link": "https://gigazine.net/news/20261001-amazon-smart-glasses-privacy/",
+      "summary": "Amazonが配達員向けに導入を進めるスマートグラスについて、配達中に周囲の画像を繰り返し撮影し、配送の改善に活用する仕組みが報じられました。同社は配送の迅速化や誤配の削減が目的だと説明しています。一方、住宅の敷地内や人の姿が写り込む可能性があり、撮影を断る選択肢や画像の管理方法が課題となっています...",
+      "published": "2026-10-01T05:59:08Z",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26697818f6511424ba2a3158da8f923b",
+      "title": "GitHub - pablostanley/yoinks: yoink any video from your terminal. no shady ads. · GitHub",
+      "link": "https://github.com/pablostanley/yoinks",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 pablostanley / yoinks ⭐ 2,598 (+356) 🗒 TypeScript yoink any video from your terminal. no shady ads.",
+      "published": "01 Oct 2026 19:17 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0493a442bc16c3954c0c79512a52b59",
+      "title": "GitHub - Friedrich-M/UniMate: [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons · GitHub",
+      "link": "https://github.com/Friedrich-M/UniMate",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Friedrich-M / UniMate ⭐ 936 (+225) 🗒 Python [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Sk...",
+      "published": "01 Oct 2026 18:18 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea5c9fb1bd69449c1ceacf27ebbdb53a",
+      "title": "[アップデート] Amazon Quick Sight に階層フィルターが追加され、ドリルダウンを1つのコントロールにまとめられるようになりました",
+      "link": "https://dev.classmethod.jp/articles/quick-hierarchy-filter/",
+      "summary": "ついに、ついに階層フィルダーが！！",
+      "published": "Thu, 01 Oct 2026 21:37:40 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b60175d2bdc5dd5ba2a48057c648ec76",
+      "title": "Amazon RDS データベースプレビュー環境で MySQL 26.7 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/rds-mysql-26-7-preview-environment/",
+      "summary": "MySQL 26.7 は「年.月」形式の新バージョン体系で登場した最初の Innovation リリースです。9.7 LTS との違い、プレビュー専用エンドポイントでの起動手順、performance_schema で Change Stream Applier の設定カラムを確認した結果と、60日...",
+      "published": "Thu, 01 Oct 2026 21:28:32 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a378fa111fc7d5f8277ae139860016e7",
+      "title": "S3 Vectors の新機能「メタデータプレフィルタリング」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/s3-vectors-enhanced-metadata-prefiltering/",
+      "summary": "Amazon S3 Vectors の ENHANCED モードで、公開年や文字列の前方一致によるメタデータプレフィルタリングを 60,785件の実データで検証しました。QueryVectors のフィルター構文と、従来の CLASSIC モードとの topK の動作の違いも整理しています。",
+      "published": "Thu, 01 Oct 2026 21:14:02 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f25a9e6b08162c3e8fd2214556be9825",
+      "title": "Aurora Serverless v2 の16 ACUスケーリングを実測してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-serverless-v2-instant-16-acu-scaling/",
+      "summary": "2026年9月30日に発表された Aurora Serverless v2 のスケーリング強化を実測しました。MinCapacity の変更から18秒後に 1 ACU から 17 ACU へ1秒で急増し、30 ACU には178秒で到達。PlatformVersion 3・4 のクラスターなら設定変...",
+      "published": "Thu, 01 Oct 2026 19:17:03 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "10c91f2bb03c3a10087683a7add2dfef",
+      "title": "ElastiCache Serverless の新機能「パブリックエンドポイント」のスループットを計測してみた",
+      "link": "https://dev.classmethod.jp/articles/elasticache-serverless-public-endpoint-benchmark/",
+      "summary": "ElastiCache for Valkey Serverless のパブリックエンドポイントの性能をレイテンシ・スループットで計測しました。接続を使い回せば VPC 内の Serverless とほぼ同水準で利用できます。都度接続では 200 倍以上遅くなるため、接続の使い回しが前提になります。",
+      "published": "Thu, 01 Oct 2026 18:05:45 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e35b6e9030d289849d9254e4c1b850aa",
+      "title": "Nemotron-3-Diarizationで手元のMacでローカル話者分離してみたら、約27分の会議データでも6秒で話者分離できた",
+      "link": "https://dev.classmethod.jp/articles/nemotron-3-diarization-local-mac/",
+      "summary": "NVIDIAが公開した軽量な話者分離モデル「Nemotron-3-Diarization」をMacで動かし、会議の録音データに対して実際に試してみました。推論結果を可視化するViewerも合わせて紹介します。",
+      "published": "Thu, 01 Oct 2026 17:01:38 GMT",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "45337af84cc57ecb7378924f266002a4",
+      "title": "FLpad 8×8 grid comes to FL Studio — can you add a grid to a speedrun?",
+      "link": "https://cdm.link/flpad-8x8-grid-comes-to-fl-studio/",
+      "summary": "The Novation Launchpad grid has its original lineage in Ableton Live integration. But it's now come to the land of Fruity Loops. FLpad is available in...",
+      "published": "Thu, 01 Oct 2026 15:16:51 +0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "a582100b2e16e6cad7a3ca9be7a71d44",
+      "title": "The Best Metal on Bandcamp, September 2026",
+      "link": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026",
+      "summary": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 01 Oct 2026 16:07:41 -0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "26768b9afa3e9821fe2358bd291f55c8",
+      "title": "Kaitlyn Aurelia Smith, “Ruin: It’s Not Just Music”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review",
+      "summary": "Kaitlyn Aurelia Smith plunges headlong into dance music on her thrilling new LP. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 01 Oct 2026 16:07:08 -0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "d155d63b0562d7061a23ca1679dfac87",
+      "title": "The Best Ambient Music on Bandcamp, September 2026",
+      "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-september-2026",
+      "summary": "Our guide to the month’s crucial electronic music. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 29 Sep 2026 14:13:49 -0000",
+      "fetched_at": "2026-10-01T22:05:44.269704+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-01T16:48:13.445197+00:00"
+  "updated_at": "2026-10-01T22:05:44.269704+00:00"
 }

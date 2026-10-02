@@ -1539,7 +1539,157 @@
       "fetched_at": "2026-10-02T21:38:27.370693+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "13c13bd04ec43aca741201225da0af33",
+      "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/worker-previews/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing Worker Previews: isolated preview environments for every change your agent makes",
+      "published": "02 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b563909f878c6a767a4baf7d9a69e289",
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html Comments URL: https://news.ycombinator.com/item?id=49938521 Points: 183 # Comments...",
+      "published": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5cb8735d1d50829d60cf3d44546a6b1",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "summary": "Article URL: https://dwarfstar.sh/ Comments URL: https://news.ycombinator.com/item?id=49936575 Points: 120 # Comments: 35",
+      "published": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "edddeb38183b56fa1b8bdb6fd201ba5c",
+      "title": "On social reality in China",
+      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "summary": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china Comments URL: https://news.ycombinator.com/item?id=49932402 ...",
+      "published": "Fri, 02 Oct 2026 11:42:26 +0000",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e8a93bf9a02f7edf5423ae4be9043fa",
+      "title": "AWS Transfer Family now supports downloading multiple files and folders in web apps",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-web-apps-download-multiple-files-folders",
+      "summary": "AWS Transfer Family now lets web app users download multiple files and folders at once. End users can select any combination of files and folders and ...",
+      "published": "Tue, 29 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0aeccbdb5d2989c580034baee8c477af",
+      "title": "Amazon CloudWatch Logs Insights now lets you estimate bytes scanned before running a query",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-logs-estimate-bytes-scanned/",
+      "summary": "Amazon CloudWatch Logs Insights now lets you estimate the volume of log data, in bytes, that a query would scan over your selected log groups and time...",
+      "published": "Tue, 29 Sep 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbb70de1f3a9f4e4f5fd731fc1addea7",
+      "title": "タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録 責任追及へ弁護士が開設",
+      "link": "https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/",
+      "summary": "カーシェアリングサービス「タイムズカー」への不正アクセスで免許証画像などが流出した問題で、集団訴訟に向けた準備が進んでいる。東京弁護士会の牧野裕貴弁護士がサイトを開設し、2日午後1時までに、1万人以上が登録。牧野弁護士は「企業側の責任を追及するために多くの人の協力が必要だ」と呼びかけた。 サイトへの...",
+      "published": "2026-10-02T10:30:35Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d36ace2a7ce21a108feac74d6299c15f",
+      "title": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？",
+      "link": "https://zenn.dev/sc30gsw/books/080faba713547b",
+      "summary": "【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、ps...",
+      "published": "2026-10-02T14:24:04Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8a89f8780004079507dec191d8f3743",
+      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
+      "link": "https://linuc.org/textbooks/network/",
+      "summary": "ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科...",
+      "published": "2026-10-02T22:00:08Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2186ae2eb2ad3f37162af24b66259724",
+      "title": "Free Offline PDF Editor — No Login, No Cloud ｜ RevPDF",
+      "link": "https://revpdf.com/",
+      "summary": "The PDF editor that stays on your device. Edit text and images, redact, sign, compress, split, merge and convert PDFs, entirely on your own machine. N...",
+      "published": "2026-03-20T02:41:10Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f60d696be37fa8f97a322712119e3e36",
+      "title": "AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる",
+      "link": "https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023",
+      "summary": "はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 g...",
+      "published": "2026-10-02T08:42:07Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b7caf8fd002161fab80c901ab1bf908",
+      "title": "レジデンシャルプロキシ対策｜警察庁Webサイト",
+      "link": "https://www.npa.go.jp/bureau/cyber/what-we-do/alliance.html",
+      "summary": "レジデンシャルプロキシ対策アライアンス 社会全体でのレジデンシャルプロキシに係る不正なIoT機器のセキュリティ対策を推進するため、多岐に渡る主体が連携して対応を協議する「レジデンシャルプロキシ対策アライアンス」を設立しています。 設立概要（令和８年７月21日） 家庭用IoT機器を悪用したサイバー攻撃...",
+      "published": "2026-10-02T12:36:29Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "602d3fe17de6287ba01810dac961951f",
+      "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/daily-linux-261001",
+      "summary": "Linux Daily Topics vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” Linuxカーネルは現在、10月中旬（10/18または10/24）に予定されている「Linux 7.3」の正式リリースに向けてリリース候補版（RC）を重...",
+      "published": "2026-10-02T02:49:10Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b3862c33c295ca99b5bf16dc1ce3074",
+      "title": "Qwen3.8-27Bの精度98%を維持しつつ9倍小型化しiPhoneでも動く「Bonsai-2-27B」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/10/02/5549.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第161回）は、高度な画像編集ができるオープンウェイトな画像生成AI「Qwen-Image-2.1」や、XiaomiのオープンソースAIモデル「MiMo-V2.6」を取り上げます。 また、Blac...",
+      "published": "2026-10-02T08:03:02Z",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d37649da1014b56f72bca964c789003b",
+      "title": "GitHub - earendil-works/pi: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI · GitHub",
+      "link": "https://github.com/earendil-works/pi",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 earendil-works / pi ⭐ 110,922 (+294) 🗒 TypeScript AI agent toolkit: unified LLM API, agent loop, TUI, coding agen...",
+      "published": "01 Oct 2026 15:17 +0000",
+      "fetched_at": "2026-10-02T23:58:55.413146+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-02T21:38:27.370693+00:00"
+  "updated_at": "2026-10-02T23:58:55.413146+00:00"
 }

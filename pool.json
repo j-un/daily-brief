@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "3e87d0f5b10b7143f30414ccc39087a6",
-      "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/goiderune.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
-      "published": "01 Oct 2026 06:55 +0000",
-      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5611c5febf4ede6de86538a11872c0ab",
-      "title": "人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike - Speaker Deck",
-      "link": "https://speakerdeck.com/kohbis/rethinking-iac-guardrails-for-humans-and-ai-alike",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 人にやさしく、AIにやさしく、書き手を選ばないIaCのガードレール再考 / Rethinking IaC Guardrails for Humans and AI Alike",
-      "published": "01 Oct 2026 03:56 +0000",
-      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a112344a34586a64fb282f631b6d3f8a",
-      "title": "実行できる手順書「LC4RI」で 快適な運用ライフを送ろう！ | ドクセル",
-      "link": "https://www.docswell.com/s/ma_anago/ZJW12G-2026-09-26-130252",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 実行できる手順書「LC4RI」で 快適な運用ライフを送ろう！",
-      "published": "01 Oct 2026 02:56 +0000",
-      "fetched_at": "2026-10-01T08:04:47.750763+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "013b8d4177b5367f56d9d7daa14bae7b",
       "title": "メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」 - Speaker Deck",
       "link": "https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca",
@@ -1009,7 +979,307 @@
       "fetched_at": "2026-10-02T10:11:38.379243+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "4a9479fad4ba9b1606930795c2626660",
+      "title": "AI Makes Me Sad",
+      "link": "https://mondobe.com/ai-makes-me-sad",
+      "summary": "Article URL: https://mondobe.com/ai-makes-me-sad Comments URL: https://news.ycombinator.com/item?id=49934487 Points: 153 # Comments: 163",
+      "published": "Fri, 02 Oct 2026 15:18:00 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e103d9d1719416cc3930ffd80cdd97",
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "link": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "summary": "Article URL: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/ Comments URL: https://news.ycombinator.com...",
+      "published": "Fri, 02 Oct 2026 14:57:22 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22300f3b74559ff852fbd02e277c7375",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf Comments URL: https://news.ycombinator.com/item?id=49933235 Points: 137 # Comments: 77",
+      "published": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d082b9fbd30c691d7b3d350cb8580e8e",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "link": "https://github.com/kvoltmer/Audionaut",
+      "summary": "Article URL: https://github.com/kvoltmer/Audionaut Comments URL: https://news.ycombinator.com/item?id=49931031 Points: 108 # Comments: 38",
+      "published": "Fri, 02 Oct 2026 08:05:48 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50147ad0520753c09f27a9c115e7a25d",
+      "title": "今月の AWS オブザーバビリティ: 2026 年 8 月と 9 月",
+      "link": "https://aws.amazon.com/jp/blogs/news/this-month-in-aws-observability-august-september-2026/",
+      "summary": "8 月と 9 月は、Amazon CloudWatch Omni が一般提供となりました。アラームにはウォームアップ期間とウォールクロック評価ウィンドウが追加されました。データベースのオブザーバビリティは自己管理型 PostgreSQL と Amazon Aurora DSQL にも対応しました。A...",
+      "published": "Fri, 02 Oct 2026 11:22:51 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5175b9d0753770fc70ede84f77083729",
+      "title": "「ｅ－Ｔａｘ」で不具合 贈与税申告内容が閲覧される状態に | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53960",
+      "summary": "税金の電子申告や納税ができる国税庁のシステム「e－Tax」で、贈与税の申告内容が本人以外からも閲覧される状態になる不具合があったとして、国税庁は謝罪しました。 国税庁によりますと、e－Taxのシス…",
+      "published": "2026-10-02T12:19:52Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e75fc0255ec84e31d38a85305484200",
+      "title": "普通のメガネなのに網膜投影 TDKがレンズに埋め込める透明ミラー",
+      "link": "https://www.watch.impress.co.jp/docs/news/2145266.html",
+      "summary": "",
+      "published": "2026-10-02T12:11:08Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c7145387a43c6d84b2660c613bca6ed",
+      "title": "［社説］パーク24の情報管理はずさんすぎる - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQODK026BY0S6A001C2000000/",
+      "summary": "パーク24が運営するカーシェアサービス「タイムズカー」のシステムが不正アクセスを受け、およそ660万アカウントの個人情報が漏洩した。約160万件には運転免許証や学生証の画像など本人確認書類の情報が含まれる。悪用されるリスクが高い個人情報を大量に抱えながら、あまりにずさんな管理だったと言わざるを得ない...",
+      "published": "2026-10-02T10:33:09Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddc166d1d60251f42ab8dd392e49730e",
+      "title": "「タイムズカー」免許画像など漏えい 集団訴訟の登録者1万人超 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261002de53951",
+      "summary": "カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像などが漏えいした問題で、集団訴訟に向けて弁護士が開設したサイトに登録した人が1万人以上にのぼることが分かりました…",
+      "published": "2026-10-02T10:49:59Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93e20c2d5f68f64df5ffda7ba403f993",
+      "title": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
+      "link": "https://gigazine.net/news/20261002-pi-1-0/",
+      "summary": "機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕...",
+      "published": "2026-10-02T08:55:01Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fa2468e8e88a073388716531c6a07ea",
+      "title": "Claude Codeを自分好みにカスタムできるMod機能が登場",
+      "link": "https://gigazine.net/news/20261002-claude-code-customize-mod/",
+      "summary": "AIコーディングエージェントのClaude Codeに、動作やUIを自分好みにカスタムできるMod機能が追加されました。ModはTypeScriptで記述可能で、Claude Code自身にModの作成を依頼することもできます。 Claude Code mods / claude.dev Blog ...",
+      "published": "2026-10-02T03:24:03Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4c9e9414d0db52e39eaa42389f24c22",
+      "title": "MicronのCEOがメモリ不足が2028年かそれ以降も続く可能性があると警告、「顧客は今年支払った価格よりも『はるかに高い価格』を支払うことになるだろう」",
+      "link": "https://gigazine.net/news/20261002-micron-ceo-ram-supply/",
+      "summary": "メモリメーカーのMicronが、メモリとストレージの供給不足は2027年と2028年にさらに深刻化するとの見通しを示しました。サンジェイ・メロートラCEOは需要と供給が均衡する時期を見通せないと説明し、不足が2028年以降も続く可能性を示唆しています。また、2027年向けの高帯域幅メモリ(HBM)に...",
+      "published": "2026-10-02T04:22:20Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4906bf140376c991f2251d4c36708ac",
+      "title": "グーグル、最先端AI「ジェミニ4アルゴン」の一般公開見送り 安全上の懸念",
+      "link": "https://www.afpbb.com/articles/-/3655570",
+      "summary": "【10月1日 AFP】米グーグルは9月30日、同社で最も強力な人工知能（AI）モデル「ジェミニ4アルゴン」の一般公開を当面見送る方針を明らかにした。ハッカーによる悪用が懸念されるためとしている。一般公開までは、特定のサイバーセキュリティー専門家チームにのみアクセス権限が付与されるという。 一般公開の...",
+      "published": "2026-10-01T06:35:20Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "400c878ac5d737d34635f59a72700135",
+      "title": "Androidにも「マイナアプリ」提供へ 20日から 物理カードなしでも本人確認など可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001968/",
+      "summary": "デジタル庁は10月2日、「Androidのマイナンバーカード」の提供を20日に始める予定だと発表した。既存の「Androidスマホ用電子証明書搭載サービス」を刷新するもので、Android端末でも実物のカードを提示せずに、スマートフォンで対面の本人確認や年齢確認などを受けられるようになる。 従来のサ...",
+      "published": "2026-10-02T06:36:30Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6313bf26d732c1d78863bb17a22c8e09",
+      "title": "「完全国産」AI、KDDI傘下のELYZAが無料公開 「LLM-jp-4」ベースに性能強化",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/02/2000001965/",
+      "summary": "KDDIグループのAI開発企業ELYZA（東京都文京区）は10月2日、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を無料で公開した。国立情報学研究所（NII）が開発したオープンなAIモデル...",
+      "published": "2026-10-02T08:31:13Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9b64c705aafb001abe0317c22ea477e",
+      "title": "日本企業「ハッキングされないでくれ」ランキング - Qiita",
+      "link": "https://qiita.com/konaito/items/16a6d2c5da7d144efe95",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 漏れたら困るのは、お金だけじゃない。 パス...",
+      "published": "2026-10-02T12:51:27Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69362808c7a78a851a4792b77bd2b95b",
+      "title": "メモリ64GB版「DGX Spark」登場。4,999ドルで、128GB版は値上げ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2145000.html",
+      "summary": "",
+      "published": "2026-10-02T13:30:41Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3414058c3e6a85f9a46c204151cccc7a",
+      "title": "MCPゲートウェイを作って運用してわかったこと — Agent時代の権限管理の現在地",
+      "link": "https://speakerdeck.com/mtpooh/20261001-des37-mcpass",
+      "summary": "https://forkwell.connpass.com/event/404425/ での登壇資料です #DataEngineeringStudy",
+      "published": "2026-10-01T20:29:50Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a58dc8a2443076a0e58d909da9533580",
+      "title": "e2e: The open source AI testing framework",
+      "link": "https://tester.army/e2e",
+      "summary": "Open Source AI testing frameworkCustomizable TypeScript testing framework for web, mobile apps and more.",
+      "published": "2026-10-01T18:25:45Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4019a73e1ede1a56fb9ebbc04e8d8048",
+      "title": "Claude Codeが拡張機能「mod」対応、UIや動作をカスタマイズ。Claude書かせて作成も | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/10/02/5550.html",
+      "summary": "Anthropicが、AIコーディングツール「Claude Code」の外観や動作をユーザーの好みで拡張できる新機能「mod」を公開しました。 CLI版とデスクトップアプリで、Claude Code v2.1.287以降ならば設定不要で使えます。 ■ プロンプトもツール呼び出しも画面も書き換え可能m...",
+      "published": "2026-10-02T11:02:36Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "919f24a94818d23eec9cb887539830b8",
+      "title": "自動運転バスを10月2日から運行 茨城・つくば市、27年度の「運転手なし走行」目指す",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001970/",
+      "summary": "茨城県つくば市と筑波大、関東鉄道、KDDIなどは10月2日、同市内で自動運転バスの運行を始める。5段階の自動化レベルのうち、運転操作の一部をシステムが担う「レベル2」で運行し、来年度には、特定の条件下なら運転手なしで走行できる「レベル4」への移行を目指す。運転手不足などを背景に路線の廃止や減便が相次...",
+      "published": "2026-10-02T08:10:59Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c0fe31723e3a6d4eb3a0d3364c265e3",
+      "title": "テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2145211.html",
+      "summary": "",
+      "published": "2026-10-02T06:27:28Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67305fdee5cfb155d943a80e9ac6e9f4",
+      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001945/",
+      "summary": "米OpenAIは10月1日（現地時間）、ChatGPTのリリースノートを更新し、ショッピング関連の新機能と、カメラで書類をスキャンする新機能を紹介した。 ショッピング関連では、服やアクセサリーをバーチャル試着できる機能を追加した。Webおよびモバイル版で利用可能だ。「秋物のシャツを探して」などと頼む...",
+      "published": "2026-10-01T22:28:17Z",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b23db1627e2efe536b6e5164e6e82672",
+      "title": "Claude Code v2.1.287 の主要アップデート - Claude Mods の追加とシェル書き込みの安全策強化",
+      "link": "https://dev.classmethod.jp/articles/20261002-cc-updates-v2-1-287/",
+      "summary": "Claude Code v2.1.287がリリースされました。本記事では、Claude Code の画面表示や動作を変更できる新機能「Claude Mods」を実際に試してみながら、主要なアップデート内容をご紹介します。",
+      "published": "Fri, 02 Oct 2026 11:47:23 GMT",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "10c91f2bb03c3a10087683a7add2dfef",
+      "title": "ElastiCache Serverless の新機能「パブリックエンドポイント」のスループットを計測してみた",
+      "link": "https://dev.classmethod.jp/articles/elasticache-serverless-public-endpoint-benchmark/",
+      "summary": "ElastiCache for Valkey Serverless のパブリックエンドポイントの性能をレイテンシ・スループットで計測しました。接続を使い回せば VPC 内の Serverless とほぼ同水準で利用できます。都度接続では 200 倍以上遅くなるため、接続の使い回しが前提になります。",
+      "published": "Thu, 01 Oct 2026 18:05:45 GMT",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "271effa25c2cfac79a17fd3a061f7679",
+      "title": "Pure Data (Pd) 0.57 inbound, enduring free software for tinkering with sound",
+      "link": "https://cdm.link/pd-0-57-inbound/",
+      "summary": "Technology keeps asking us to speed up. Pd is happy to let you slow down: tinker, patch, make mistakes, obsess over a number or signal routing, and do...",
+      "published": "Fri, 02 Oct 2026 10:18:13 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "46d5383e48ac502060c17a64b435f478",
+      "title": "Meet the Loewe neo, a high-end portable speaker with built-in ambient lighting",
+      "link": "https://musictech.com/news/gear/loewe-neo/",
+      "summary": "“It represents not only the next chapter of premium personal audio, but the future of Loewe.” The post Meet the Loewe neo, a high-end portable speaker...",
+      "published": "Fri, 02 Oct 2026 16:01:40 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "f1172438fc3ff6b483f985b9b4d85a4d",
+      "title": "“It frustrates me to hear people bashing something that’s so amazing”: Todd Edwards is optimistic about AI in music production",
+      "link": "https://musictech.com/news/music/todd-edwards-is-optimistic-about-ai-in-music-production/",
+      "summary": "“If you’re using Splice packs, you’re using other people’s sounds… that’s no different, in my mind. The hypocrisy in the industry is insane…” says the...",
+      "published": "Fri, 02 Oct 2026 11:42:57 +0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fc2079949d2d38328c3a62bc76f37c9e",
+      "title": "The Hotlist, Fall 2026",
+      "link": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026",
+      "summary": "These are the upcoming albums that Bandcamp fans are excited about. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 02 Oct 2026 13:31:56 -0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "30d3a6e844060517ccdce9f172a3fb12",
+      "title": "Stef Chura, “Dancing Alone on the Concrete”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review",
+      "summary": "The Detroit artist puts the weight of experience into her torchy third full-length. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 02 Oct 2026 13:31:47 -0000",
+      "fetched_at": "2026-10-02T17:08:29.883352+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-02T10:11:38.379243+00:00"
+  "updated_at": "2026-10-02T17:08:29.883352+00:00"
 }

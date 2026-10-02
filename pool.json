@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "bfc5793f58a643824715b7c1cc8f8984",
-      "title": "技術選定の現場から「AIにも人間にも最適なWebフレームワークはどれ？」 - KAKEHASHI Tech Blog",
-      "link": "https://kakehashi-dev.hatenablog.com/entry/2026/09/24/090000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 技術選定の現場から「AIにも人間にも最適なWebフレームワークはどれ？」",
-      "published": "30 Sep 2026 23:56 +0000",
-      "fetched_at": "2026-10-01T00:56:50.074701+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "3e87d0f5b10b7143f30414ccc39087a6",
       "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/goiderune.html",
@@ -619,7 +609,407 @@
       "fetched_at": "2026-10-02T03:23:07.124186+00:00",
       "feed_name": "O'Reilly Japan - 新刊・近刊",
       "category": "book"
+    },
+    {
+      "entry_id": "d9b4d684120b1b8daa24b3f531cda2da",
+      "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
+      "link": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How to prepare for AI-driven code modernization projects",
+      "published": "02 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bf97a38489ff459c4f7b77183872a3e",
+      "title": "We're making Tailscale faster",
+      "link": "https://tailscale.com/blog/making-tailscale-faster",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 We’re making Tailscale faster",
+      "published": "02 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68c91fe3fa42f59847a69c534ba8a5f3",
+      "title": "Exploring the OpenTelemetry Instrumentation Ecosystem | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/exploring-instrumentation-ecosystem/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Exploring the OpenTelemetry Instrumentation Ecosystem",
+      "published": "02 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32324948d9d0b4b607d045b1e22c57a3",
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/ Comments URL: https://news.ycombinator.com/item?id=49930047 Points: 105 # Comments: 16",
+      "published": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5300b97f808fc849ce7c02dc5042f656",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "summary": "Article URL: https://www.deepseek.com/en/harness/ Comments URL: https://news.ycombinator.com/item?id=49929489 Points: 237 # Comments: 119",
+      "published": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3daf4626455a73259a13494797f8122",
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator....",
+      "published": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba3c7664c547c5c9abdf50f5c3c4203e",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "summary": "Article URL: https://www.frogandtoad.ai/ Comments URL: https://news.ycombinator.com/item?id=49927760 Points: 167 # Comments: 37",
+      "published": "Thu, 01 Oct 2026 22:23:38 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1deebd0a5ee6a97e469388ec4564f33c",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "summary": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 109 # Comments: 27",
+      "published": "Thu, 01 Oct 2026 21:21:32 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "075062b9a2dfc42d21ad5d5f17c5f9ca",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 ...",
+      "published": "Thu, 01 Oct 2026 20:48:37 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b94fcdb67019ffff0921c349d68c12f",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: https://news.ycombinator.com/item?id=49926512 Points: 117 # Co...",
+      "published": "Thu, 01 Oct 2026 20:12:15 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67647e20769f19eda24cff5eb41aa71f",
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570 Comments URL: https://news.ycombinator.com/item?id=49925742 Points: 103 ...",
+      "published": "Thu, 01 Oct 2026 19:03:42 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d4a92b3e0b7118335eef53cddb89c1d",
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "link": "https://tangled.org/burrito.space/bez",
+      "summary": "Article URL: https://tangled.org/burrito.space/bez Comments URL: https://news.ycombinator.com/item?id=49925036 Points: 116 # Comments: 48",
+      "published": "Thu, 01 Oct 2026 18:08:03 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87380d4c6c02a4950b04b2292884c191",
+      "title": "Amazon S3 Tables では、Apache Iceberg V3 のすべてのデータ型がサポートされるようになりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
+      "summary": "Amazon S3 テーブルは、Apache アイスバーグ V3 仕様のすべてのデータタイプをサポートするよう […]",
+      "published": "Fri, 02 Oct 2026 07:01:32 +0000",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "08220c8832056e5d25cb48b0dccff5fb",
+      "title": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/",
+      "summary": "Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspec...",
+      "published": "Fri, 02 Oct 2026 03:35:00 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "844339685caac1140257e0227f06dfe5",
+      "title": "OpenPOI API — 日本全国337万件のPOI検索API",
+      "link": "https://openpoiapi.com/",
+      "summary": "渋谷駅のまわりで「カフェ」を探した状態から始まります。入力すると地図の範囲を優先した候補が出ます（/v1/suggest）。施設を選ぶと地図がその場所へ移動します。入力がカテゴリ名と完全に一致していれば、Enter を押すとそのカテゴリを表示中の地図の範囲を中心に近い順で検索します（/v1/sear...",
+      "published": "2026-10-02T02:14:44Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c7eb4d31f05be75cf46cb295cd67e68",
+      "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
+      "link": "https://labo.hatenastaff.com/entry/2026/10/02/113000",
+      "summary": "はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりで...",
+      "published": "2026-10-02T02:39:19Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dac4cc82261c89ca0aed48212cdda92c",
+      "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
+      "link": "https://otakuma.net/archives/2026100202.html",
+      "summary": "よくある「ローソンを騙った偽メール」とは、少し事情が違います。今回は、ローソンのメールサーバーそのものが第三者に不正利用されました。ローソンは10月1日、同社のメールサーバーが第三者に不正利用され、外部に不審な英文メールが送信されていたことを発表しました。送信件数は推計約70万件にのぼります。 Pu...",
+      "published": "2026-10-02T01:51:28Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "67148c1a5d44cc429241afef3be8b957",
+      "title": "文字画像APNGメーカー｜TRPG WEBツール観測所",
+      "link": "https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/",
+      "summary": "",
+      "published": "2026-10-01T22:02:21Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd0e6052fba019a2f93238a0f33d2fce",
+      "title": "第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001971/",
+      "summary": "第一ライフグループと第一生命保険は10月2日、2社が使う人事システムが不正アクセスを受け、従業員情報約12万人分が漏えいした可能性があると発表した。うち7万人分は退職者の情報という。 漏えいした可能性がある情報は、対象者の従業員番号、氏名、住所、電話番号、性別、所属、職位、職務、上長の名前。2社から...",
+      "published": "2026-10-02T08:01:49Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e41f5093a1dbc548fdb446812972acb4",
+      "title": "Incremental HTTP",
+      "link": "https://speakerdeck.com/kazuho/incremental-http",
+      "summary": "Rapid Start: Faster Internet Connections, with Ruby's Help",
+      "published": "2026-10-02T00:57:41Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b1a70a74ebecccebf27ad0ec8a5cddd",
+      "title": "Qwen3.8-Flash-NextがゲーミングPCで爆速に動く「Strata」登場",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2145142.html",
+      "summary": "",
+      "published": "2026-10-02T04:34:07Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6244fb5d03629f3e4fd64b6b7201896f",
+      "title": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+      "summary": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスで...",
+      "published": "2026-10-02T06:51:08Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d67f701718743de1d521033ea5227bad",
+      "title": "【速報】ヤマト運輸、不正アクセスで顧客情報流出か",
+      "link": "https://www.47news.jp/15026982.html",
+      "summary": "ヤマト運輸は2日、インターネット通販向けの決済サービスに不正アクセスがあり、顧客の氏名や住所、電話番号などの個人情報が流出した可能性があると発表した。クレジットカード情報やパスワードは含まれていないという。",
+      "published": "2026-10-02T09:50:04Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8f061b288d310c9d149f3bf4b934c09",
+      "title": "「Androidのマイナンバーカード」、20日スタート",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145170.html",
+      "summary": "",
+      "published": "2026-10-02T07:06:40Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2518de0265419ef668843014b20db815",
+      "title": "API仕様書・リファレンス | OpenPOI API",
+      "link": "https://docs.openpoiapi.com/",
+      "summary": "日本全国のPOI検索API。Overture Maps と食品営業許可・届出オープンデータを統合した約337万件を検索できるAPIです。 APIを試す 全画面のプレイグラウンドで試す ベースURL",
+      "published": "2026-10-02T03:26:34Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f290dc26fe48a130a780788cdafa27b",
+      "title": "履修修正の締め切り当日にシステム障害、大阪公立大 全授業を休講する事態に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/02/2000001953/",
+      "summary": "大阪公立大学は10月2日、基盤システムに大規模な障害が発生したため、全キャンパスで同日の授業を終日休講にすると発表した。履修登録や教材の閲覧に使うシステムのほか、公式アプリや教職員向けのシステムなど、学内の幅広いサービスに影響が出ている。 障害は同日午前0時30分ごろに発生。基盤システムや学内ネット...",
+      "published": "2026-10-02T04:27:15Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c3c7631bb577b9f2163037b4451d757",
+      "title": "アマゾン配達員のAIスマートグラス、視界を次々撮影 プライバシーに懸念",
+      "link": "https://japan.cnet.com/article/35253182/",
+      "summary": "数日前、筆者は少し変わった眼鏡をかけたAmazonの配送ドライバーとすれ違った。2025年に筆者が報じた新しいAIスマートグラスなのか、それとも単に眼鏡の好みが特徴的なのかと、ふと考えた。しかし米国時間9月30日の報道を受け、好奇心は懸念へと変わった。 BloombergのDave Lee記者はこの...",
+      "published": "2026-10-02T02:34:34Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d0ca43e902ce948da28fe8a57367426",
+      "title": "「iPhone Duo」のディスプレイに経年劣化で生じる「折り目」は3200円で交換可能",
+      "link": "https://gigazine.net/news/20261002-iphone-duo-cover-layer/",
+      "summary": "Apple初の折りたたみ式スマートフォン「iPhone Duo」は、他のApple製品と同様に修理サービスのAppleCareに対応しています。AppleCareではバッテリーやディスプレイなど損傷箇所を細かく分類して別個に修理することが可能なのですが、iPhone Duoには他のiPhoneとは違...",
+      "published": "2026-10-02T03:44:46Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b592bccdb7d35805b0182319ed2913c0",
+      "title": "「キャリアは一本道ではなく振り子のように」マネージャーとプレイヤーの行き来がもたらす価値 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_937/",
+      "summary": "ITエンジニアのキャリアパスは、「プレイヤーからマネージャーへ、そして経営レイヤーへ」という一直線だけではありません。「マネジメント職を経て、再び現場に戻る」といったキャリアも、選択肢の一つです。 松木雅幸（Songmu）さんと小田中育生（いくお）さんは、まさにそんな生き方を体現されています。松木さ...",
+      "published": "2026-10-02T04:00:53Z",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43c999e65c2141e61eba6afed99558bc",
+      "title": "Cloudflare WorkersのService Bindingsを使って別Workerの関数を呼び出す",
+      "link": "https://dev.classmethod.jp/articles/calling-functions-in-another-worker-using-cloudflare-workers-service-bindings/",
+      "summary": "Cloudflare Workersで複数のWorker間の処理を共有したいとき、Service Bindingsという機能を使うと便利です。今回はRPCベースのService Bindingsを実装して、wranglerコマンドとcfコマンドの両方で試してみました。",
+      "published": "Fri, 02 Oct 2026 09:34:03 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f12cbfe8861de87c0b72c2c2add63f0a",
+      "title": "原材料投入が正しくできたかをQRコードとVLMでAWS上で判定してみた",
+      "link": "https://dev.classmethod.jp/articles/charge-verification-qr-vlm-aws/",
+      "summary": "食品工場の投入工程で「ちゃんと入れたか」を映像で客観的に証跡として残せないかと考え、AWS上でQRコードとVLMを組み合わせた判定パイプラインを構築・検証してみました。11袋の投入に対して未投入・部分投入の見逃しゼロを達成できた結果をお話しします。",
+      "published": "Fri, 02 Oct 2026 09:00:05 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e1f76f1e7ec9d8fe48344ff4e34307e",
+      "title": "Claude Codeでプロンプトインジェクションされたくないので調べてみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-prompt-injection-webfetch-domain-allowlist/",
+      "summary": "Claude CodeのAuto Mode利用時における、プロンプトインジェクション対策について検討・実装した内容をまとめます。入口制御とホワイトリスト方式で、セキュリティと利便性のバランスを取る工夫を紹介します。",
+      "published": "Fri, 02 Oct 2026 08:46:50 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "659416a8aa67f1029237032eff78f425",
+      "title": "ลองตั้งค่า Active Directory บน EC2 Instance (การเข้าร่วม Domain)",
+      "link": "https://dev.classmethod.jp/articles/ec2-active-directory-ad-user-th/",
+      "summary": "บทความนี้เป็นส่วนหนึ่งของซีรีส์บทเรียนการตั้งค่า Windows Active Directory (AD) Server เพื่อรองรับการเชื่อมต่อจาก AD User ผ่าน Remote Desktop Protocol ...",
+      "published": "Fri, 02 Oct 2026 08:27:27 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b8360a384c4a57dbec7002b1d492341",
+      "title": "[アップデート] Amazon GuardDuty の有効化を AWS Organizations の宣言型ポリシーで一元管理できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/guardduty-org-enablement-policies/",
+      "summary": "Amazon GuardDuty の有効化が AWS Organizations の宣言型ポリシーで一元管理できるようになりました。組織、OU、アカウント単位で設定でき、リージョン個別の設定もできます。",
+      "published": "Fri, 02 Oct 2026 08:00:10 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b34b5c417c6ca4474f36078f64daf9d",
+      "title": "Amazon WorkSpaces - Windows マシンの D:ドライブ と C:ドライブを CloudShell から拡張してみる",
+      "link": "https://dev.classmethod.jp/articles/windows-workspace-expand-disk-volume/",
+      "summary": "Amazon WorkSpaces のディスク拡張作業を CloudShell から実施した際の手順と注意点を紹介します。C:ドライブと D:ドライブの拡張方法、制約事項、進捗監視のコマンドまでまとめました。",
+      "published": "Fri, 02 Oct 2026 07:32:54 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "41b50b16c9b5b79c68a57625280893f8",
+      "title": "共変量に欠損があるとChronos-2の予測はどう変わるか",
+      "link": "https://dev.classmethod.jp/articles/how-chronos-2-forecast-changes-when-covariates-are-missing/",
+      "summary": "Amazonの時系列予測モデルChronos-2を3つのPythonパッケージ（chronos-forecasting、AutoGluon-TimeSeries、Darts）で利用する際、共変量の欠損値処理がパッケージごとに異なることを確認しました。その仕組みと差異を詳しく解説します。",
+      "published": "Fri, 02 Oct 2026 07:15:17 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cc9d68b0944ac5efdd6cf2cd52c6aa8",
+      "title": "サクッと画像生成AIモデルを作ってみた【GAN】",
+      "link": "https://dev.classmethod.jp/articles/building-gan-with-ease/",
+      "summary": "画像生成AIの仕組みを理解したい方へ。この記事では、GANという手法を使って「実在しない服」の画像を生成するモデルを、150行ほどのコードで実装しながら解説します。生成器と識別器が競い合う仕組みから、学習を安定させるコツまで、基礎をしっかり押さえていきましょう。",
+      "published": "Fri, 02 Oct 2026 06:04:24 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b68f9207699e09917d2c136354073167",
+      "title": "予測対象の過去データに欠損があるとChronos-2の予測はどう変わるか",
+      "link": "https://dev.classmethod.jp/articles/how-chronos-2-forecast-changes-when-past-target-is-missing/",
+      "summary": "Amazonの時系列予測モデル「Chronos-2」を3つのPythonパッケージから使う際、過去データに欠損がある場合の予測結果がなぜ異なるのか、その仕組みを検証してみました。",
+      "published": "Fri, 02 Oct 2026 05:57:57 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c3f12e42e5016c8da4eb2cf4108f09c",
+      "title": "クラスメソッドオペレーションズにジョインしました、菊谷です",
+      "link": "https://dev.classmethod.jp/articles/202610-kikuya-joined-classmethod-operations/",
+      "summary": "インフラエンジニアからカスタマーサクセス部へ新しいスタートを切った菊谷が、クラスメソッドオペレーションズへの入社の経緯と、これからの挑戦への想いについてお話しします。",
+      "published": "Fri, 02 Oct 2026 05:33:24 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d32702972c48693841d68bdf722fbcb5",
+      "title": "クラスメソッドオペレーションズにジョインしました、佐藤です！",
+      "link": "https://dev.classmethod.jp/articles/202610-showgo-joined-classmethod-operations/",
+      "summary": "クラスメソッドオペレーションズ カスタマーサクセス部 SERチーム にジョインしました、佐藤聖悟（さとう しょうご）です。物流→ITに転身して4年目。クラウド技術のとして前向きにチャレンジしていきます。",
+      "published": "Fri, 02 Oct 2026 05:11:19 GMT",
+      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-02T03:23:07.124186+00:00"
+  "updated_at": "2026-10-02T10:11:38.379243+00:00"
 }

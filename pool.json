@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d2c363ba69ba09b6afe5b28cdcb93236",
-      "title": "開発者とSREが同じ仕組みを使う、ローカルに閉じない自律AIエージェントのつくり方 | ドクセル",
-      "link": "https://www.docswell.com/s/WN_Tech-PR/ZY8QXP-2026-09-07-111839",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 開発者とSREが同じ仕組みを使う、ローカルに閉じない自律AIエージェントのつくり方",
-      "published": "02 Oct 2026 02:55 +0000",
-      "fetched_at": "2026-10-02T03:23:07.124186+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d9b4d684120b1b8daa24b3f531cda2da",
       "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
       "link": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
@@ -459,7 +449,257 @@
       "fetched_at": "2026-10-03T07:21:40.617816+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "9f298f378d9282bc8513b1285a0eb4fb",
+      "title": "Announcing the 2026 Observability Forecast | New Relic",
+      "link": "https://newrelic.com/blog/observability/announcing-the-2026-observability-forecast?is_us=true",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Announcing the 2026 Observability Forecast",
+      "published": "03 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66f97f9ff2ea74c90d79f059592e545f",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://openai.com/ja-JP/index/scaling-storage-one-billion-users-part-one/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 10 億人超の ChatGPT ユーザーを支えるオンラインストレージの急速な拡張 | OpenAI",
+      "published": "03 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ea3b5b977986170c519524d02f82773",
+      "title": "Cloudflare OHTTP gateway",
+      "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/ Comments URL: https://news.ycombinator.com/item?id=49941091 Points: 104 ...",
+      "published": "Sat, 03 Oct 2026 03:15:05 +0000",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e328d54b297b79bae5f14222e07aa4b1",
+      "title": "Kiro で SAP モダナイゼーションを加速 – ベンチマークとユースケース",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-your-sap-modernization-with-kiro-benchmarks-and-use-cases/",
+      "summary": "Kiro ベースのサンプルエージェントを使った SAP モダナイゼーションの6つのユースケースについて、社内ベンチマークとパートナー・お客様の成果を詳しく紹介します。SAP ECC の ABAP コード88オブジェクトを4.5時間で SAP S/4HANA 準拠に変換して工数を87%削減したほか、S...",
+      "published": "Thu, 01 Oct 2026 07:31:17 +0000",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "75c367557cc715acce69884a1c33ac23",
+      "title": "Codex Security ・ Claude Security 入門｜npaka",
+      "link": "https://note.com/npaka/n/n2b9c36c471b6",
+      "summary": "「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付...",
+      "published": "2026-10-01T04:08:11Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c71df10ab978995139b794307ef6df3f",
+      "title": "2026 年 10 月前半の LLM 利用状況",
+      "link": "https://voluntas.ghost.io/2026-10-first-half-llm/",
+      "summary": "あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V...",
+      "published": "2026-10-03T08:13:44Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b66b971d21facc372df297d45ffc864",
+      "title": "無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能",
+      "link": "https://gigazine.net/news/20261003-ministack/",
+      "summary": "AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環...",
+      "published": "2026-10-03T03:06:02Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1e451959905bab3de29e28c9627b9ab",
+      "title": "ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府",
+      "link": "https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html",
+      "summary": "内閣府規制改革推進室 内閣府科学技術・イノベーション推進事務局人工知能政策推進室 デジタル庁戦略・組織グループ 経済産業省経済産業政策局産業創造課 令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り...",
+      "published": "2026-10-02T23:40:34Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a4e9b28b5869261c56e7d035169078c",
+      "title": "アマゾンが新型の「Fire TV Stick 4K」、電源アダプター不要に",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2145167.html",
+      "summary": "",
+      "published": "2026-10-02T09:00:22Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a6004ffdeb11a53bea6697112de71b5",
+      "title": "「決め方」の渡し方 / How to hand over the \"decision-making process\"",
+      "link": "https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process",
+      "summary": "【Startup in Agile #7 】ボトルネックは人の意思決定？「決め方」の変遷教えて https://startup-in-agile.connpass.com/event/386112/",
+      "published": "2026-04-09T04:25:23Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8197de6f6748e3eabc6ca5a622895e94",
+      "title": "CEDEC 2025 『ゲームにおけるリアルタイム通信への QUIC導入事例の紹介』",
+      "link": "https://speakerdeck.com/segadevtech/cedec-2025-gemuniokeruriarutaimutong-xin-heno-quicdao-ru-shi-li-noshao-jie",
+      "summary": "CEDEC 2025 にて講演した『ゲームにおけるリアルタイム通信への QUIC導入事例の紹介』の資料です。 ※講演者メモ付きの資料を入手したい場合は CEDiL (https://cedil.cesa.or.jp/cedil_sessions/view/3064.html) より .pptx をご...",
+      "published": "2025-08-04T03:36:08Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "622fd6b86596ac8a31202c7df8f49d7f",
+      "title": "宮本佳林『非エンジニアがAIでライブツアー用アプリを作った流れ。』",
+      "link": "https://ameblo.jp/miyamotokarin-official/entry-12980415652.html",
+      "summary": "かりんだよ5周年記念ライブツアーに向けて、ファン参加型のWebアプリをAIコーディングツールで作っています。セットリストを投稿したり、RPG風の遊びやスタンプを楽しんだりできるサイトです。詳しい仕組みは1本目を見てね宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorker...",
+      "published": "2026-10-02T14:56:24Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0725078814118321479a7a7059f46b3",
+      "title": "ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致",
+      "link": "https://gigazine.net/news/20261002-opendlss-nr/",
+      "summary": "NVIDIAが発表したAIによるアップスケーリング技術「DLSS 5」を「Vulkan」で再実装するプロジェクト「OpenDLSS-NR」が登場しました。 GitHub - maanHimself/OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's ...",
+      "published": "2026-10-02T11:12:18Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c74160f0c9c9ca9123f4c573e3cb685c",
+      "title": "貧乏な子どもが“稼げる大人”になる条件とは？ 米ハーバード大などがFacebook7000万アカウント超から分析 2022年にNature掲載",
+      "link": "https://www.itmedia.co.jp/news/article/2610/03/2000001935/",
+      "summary": "2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が...",
+      "published": "2026-10-03T05:54:31Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d568850f25c14ebb0f478ee7c9d4fef",
+      "title": "Jev-IDS: System One Models for Network Intrusion Detection",
+      "link": "https://arxiv.org/abs/2610.01079",
+      "summary": "Machine-learning Network Intrusion Detection Systems (IDS) depend on substantial labeled datasets and task-specific training, whereas Large Language M...",
+      "published": "2026-10-02T23:19:07Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2998311665177d1045de6ffd3e3cfe23",
+      "title": "鉄管スロープの鑑賞 - ぬかよろこび通信Q",
+      "link": "https://utsumikeiichi.hateblo.jp/entry/20260917/1789639680",
+      "summary": "以下は瀬戸内海歴史民俗資料館「瀬戸内海、ぷかぷか目玉の路上観察」の展示解説テキストです。 鉄管スロープの鑑賞 内海慶一 見たことあるのに見えてなかった 東京から来た知人が、「それ」を指差して言った。 「こういうの、岡山にはよくあるんですか？」 それは鋼管（鉄製のパイプ）でできた段差スロープだった。駐...",
+      "published": "2026-10-03T00:34:21Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e083e7516592e140d0508ca8f03782f",
+      "title": "無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す",
+      "link": "https://gigazine.net/news/20261002-thunderbird-for-ios/",
+      "summary": "無料のメールクライアント「Thunderbird」を開発するThunderbirdチームが2026年10月1日にiPhone・iPad向けの「Thunderbird for iOS」の開発状況を公開しました。メールアカウントの簡単な追加やバックグラウンド同期、メールの閲覧・作成といった開発中の主要機...",
+      "published": "2026-10-02T11:39:35Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbf716de8395ef01bc44f95d4be41483",
+      "title": "ついに時代が来る？--「Linux」がデスクトップの主役になる5つの理由",
+      "link": "https://japan.zdnet.com/article/35253148/",
+      "summary": "「Linux」コミュニティー（筆者自身も含む）は長年、「今年こそLinuxデスクトップが主役の年になる」と言い続けてきた。 これは（特に初期の頃は）、単なる希望的観測に過ぎないこともあった。ところが、ここ数年、その可能性がますます現実味を帯びてきているように思える。 1. 「Snapdragon X...",
+      "published": "2026-10-02T02:08:34Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c4c9a0d64e3b8ae967cbcb8aa960bfc",
+      "title": "損保ジャパンはなぜ「COBOL」を捨てなかったのか？ 脱メインフレームの真相",
+      "link": "https://techtarget.itmedia.co.jp/tt/article/2610/02/2000001917/",
+      "summary": "「リビルド」「リライト」に潜むリスク 損保ジャパンはなぜ「COBOL」を捨てなかったのか？ 脱メインフレームの真相 メインフレーム刷新は企業の急務だが、全面的なリビルドやリライトには費用面とリスク面での懸念が残る。損保ジャパンの事例から、既存資産を生かした「リホスト」選定のロジックと意思決定の基準を...",
+      "published": "2026-10-02T08:23:53Z",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f513a9762cf3e189731eea647e28b50e",
+      "title": "📦 meituan-longcat / LongCat-Video ⭐ 8,60…",
+      "link": "https://github.com/meituan-longcat/LongCat-Video",
+      "summary": "📦 meituan-longcat / LongCat-Video ⭐ 8,601 (+43) 🗒 Python",
+      "published": "03 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df06600597f8b39708fc82823cd9e9c7",
+      "title": "Aurora DSQLの部分インデックスをオプトインと論理削除で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-dsql-partial-index-use-cases/",
+      "summary": "Aurora DSQLの部分インデックスを通常インデックスと比較。オプトインと論理削除では、UPDATEの書き込みDPUは下がった一方、読み取りが軽くなったのは有効会員が全体の2割まで減った場合だけで、述語に合わない行を引くクエリはFull Scanになりました。",
+      "published": "Sat, 03 Oct 2026 12:42:12 GMT",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4f7f85f4a2e6448f812c7bfabe65311",
+      "title": "Claude Code v2.1.288 の主要アップデート - /code-review の --max-findings 追加と bash -c 内の危険な rm の確認漏れ修正",
+      "link": "https://dev.classmethod.jp/articles/20261003-cc-updates-v2-1-288/",
+      "summary": "Claude Code の v2.1.288（2026-10-02 公開）がリリースされました。本記事では主要な変更点を整理し、本日は`/code-review` に追加された `--max-findings` を試してみました。",
+      "published": "Sat, 03 Oct 2026 11:17:35 GMT",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d67b502cb3f9fb6385be86e7bc8545c",
+      "title": "Claude Code の blockReadsOutsideWorkingDirectories で作業ディレクトリ外の読み取りを拒否してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-block-reads-outside-working-directories/",
+      "summary": "",
+      "published": "Sat, 03 Oct 2026 10:37:00 GMT",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5cf4472a465809b827689bf7af6b97d",
+      "title": "[アップデート] Amazon Aurora DSQL でパーシャルインデックスが使えるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aurora-dsql-partial-indexes/",
+      "summary": "また互換性がひとつ向上しました",
+      "published": "Sat, 03 Oct 2026 08:42:46 GMT",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9241933f2790ce626f6044c3b3802fbd",
+      "title": "クラスメソッド データアナリティクス通信(AWSデータ分析編) – 2026年10月号",
+      "link": "https://dev.classmethod.jp/articles/cm-news-analytics-202610/",
+      "summary": "2026年9月のAWSデータ分析関連アップデートについてお届けします。Amazon Quickの機能強化や、Apache Icebergへの対応が複数サービスで強化される中、Aurora PostgreSQLからの直接クエリやAmazon EMRの長期サポートリリースなど、データレイク活用の選択肢が...",
+      "published": "Sat, 03 Oct 2026 08:10:35 GMT",
+      "fetched_at": "2026-10-03T12:53:30.850343+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-03T07:21:40.617816+00:00"
+  "updated_at": "2026-10-03T12:53:30.850343+00:00"
 }

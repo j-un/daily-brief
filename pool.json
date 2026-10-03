@@ -29,7 +29,107 @@
       "fetched_at": "2026-10-02T23:58:55.413146+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "039ff34f92444f382767be3fe3ab8a59",
+      "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+      "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression Comments URL: https...",
+      "published": "Fri, 02 Oct 2026 19:45:06 +0000",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10ec71f8c0a60d1d055e94050c52bef2",
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw Comments URL: https://news.ycombinator.com/item?id=49937631 Points: 102 # Comments: 63",
+      "published": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25d7fadb2c58a4c1549adeaccd08089c",
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "summary": "Article URL: https://gadgets.muse.ai Comments URL: https://news.ycombinator.com/item?id=49937504 Points: 113 # Comments: 59",
+      "published": "Fri, 02 Oct 2026 19:26:54 +0000",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2297c2c2f4a4aba090c4824f632b1a5",
+      "title": "Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports built-in blue/green, linear, and canary deployment strategies for ECS services using Amazon...",
+      "published": "Fri, 02 Oct 2026 20:18:00 GMT",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "79b03ed8600d5cfef6f5a0d62dc20ed6",
+      "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita",
+      "link": "https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14",
+      "summary": "はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整ってい...",
+      "published": "2026-10-02T15:17:29Z",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d181c4672fc8590588f5ea5ba385ea6b",
+      "title": "「Androidのマイナンバーカード」は10月20日スタート予定 今の「スマホ用電子証明書」と何が違う？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html",
+      "summary": "デジタル庁は10月2日、Androidスマートフォン向けの「≪Androidのマイナンバーカード」を10月20日から提供する予定であることを明らかにした。このカードは「Google ウォレット」アプリに格納して利用するもので、一定の基準を満たすセキュリティチップを搭載した機種で利用可能となる見通しだ...",
+      "published": "2026-10-02T12:52:24Z",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a2fb2875108cdf64bfbe5eb65ef357d",
+      "title": "自作GPTにKVキャッシュを実装し、プロンプトキャッシュの仕組みを学んだ - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/10/02/214736",
+      "summary": "『つくりながら学ぶ！LLM自作入門』を理解するために、1層1ヘッドの最小構成のGPTから少しずつ発展させながら実装を進めている。前回の記事で、自作GPTに日本語GPT-2モデルを読み込み生成まで出来た。 『つくりながら学ぶ！LLM自作入門』を1層1ヘッドの最小構成から始めてみている 1層1ヘッドのG...",
+      "published": "2026-10-02T13:19:29Z",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6691f8c1218f2fd72578cac35fc7acc5",
+      "title": "Introducing Strands Decider 2B: a small, open source, decision model",
+      "link": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "summary": "Introducing Strands Decider 2B: a small, open source, decision modelStrands Decider 2B is a small, open source, decision model optimized for fast expe...",
+      "published": "2026-10-01T23:31:29Z",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3414058c3e6a85f9a46c204151cccc7a",
+      "title": "MCPゲートウェイを作って運用してわかったこと — Agent時代の権限管理の現在地",
+      "link": "https://speakerdeck.com/mtpooh/20261001-des37-mcpass",
+      "summary": "https://forkwell.connpass.com/event/404425/ での登壇資料です #DataEngineeringStudy",
+      "published": "2026-10-01T20:29:50Z",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "69c7eb76fe0b1fccaec44760ccc3d236",
+      "title": "GitHub - google/skills: Agent Skills for Google products and technologies · GitHub",
+      "link": "https://github.com/google/skills",
+      "summary": "📦 google / skills ⭐ 20,604 (+30) 🗒 Python Agent Skills for Google products and technologies",
+      "published": "03 Oct 2026 00:17 +0000",
+      "fetched_at": "2026-10-03T00:50:59.962997+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-02T23:58:55.413146+00:00"
+  "updated_at": "2026-10-03T00:50:59.962997+00:00"
 }

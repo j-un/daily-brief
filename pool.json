@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d9b4d684120b1b8daa24b3f531cda2da",
-      "title": "How to prepare for AI-driven code modernization projects | Claude by Anthropic",
-      "link": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How to prepare for AI-driven code modernization projects",
-      "published": "02 Oct 2026 08:55 +0000",
-      "fetched_at": "2026-10-02T10:11:38.379243+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "0aeccbdb5d2989c580034baee8c477af",
       "title": "Amazon CloudWatch Logs Insights now lets you estimate bytes scanned before running a query",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-logs-estimate-bytes-scanned/",
@@ -699,7 +689,267 @@
       "fetched_at": "2026-10-03T12:53:30.850343+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "6894805686a6799cff2962614c025fd8",
+      "title": "The Escalation of War in Ethiopia",
+      "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "summary": "Article URL: https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia Comments URL: https://news.ycombinator.com/item?id=49943451 ...",
+      "published": "Sat, 03 Oct 2026 11:54:24 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "705923829357ad755424fab94ce12f84",
+      "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "summary": "Article URL: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.com/item?id=49943034 Points: 372 # Comments: 150",
+      "published": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acd05619cf666288017e8f85ead84993",
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "summary": "Article URL: https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/ Comments URL: https://news.ycombinator.com/item?id=4994...",
+      "published": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3fbc1d918e468e1242929326d8aa089",
+      "title": "An Update on Orion for Linux and Windows",
+      "link": "https://blog.kagi.com/update-orion-linux-windows",
+      "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows Comments URL: https://news.ycombinator.com/item?id=49941447 Points: 144 # Comments: 84",
+      "published": "Sat, 03 Oct 2026 04:53:57 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a27b6782ce7862df9d7154d09355fc3a",
+      "title": "Make Tmux the OS",
+      "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/ Comments URL: https://news.ycombinator.com/item?id=49937540 Points: 151 # Comme...",
+      "published": "Fri, 02 Oct 2026 19:29:07 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a86a784890967b5a095fee6d3ceabdd",
+      "title": "AI増田判定、便利すぎて本文を読まなくて済むようになってる",
+      "link": "https://anond.hatelabo.jp/20261003152005",
+      "summary": "AI増田判定、便利すぎて本文を読まなくて済むようになってる 9月30日、はてな匿名ダイアリーがChatGPTから検索、閲覧、投稿できるようになった。10月2日にはClaudeからも使えるようになった。 はてな匿名ダイアリーがChatGPTから使えるようになりました はてな匿名ダイアリーがClaude...",
+      "published": "2026-10-03T06:30:05Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c78c648d157f97cbaefa6d9d21c67112",
+      "title": "CSS の margin-trim でコンテナーの端の余白を取り除く",
+      "link": "https://azukiazusa.dev/blog/css-margin-trim/",
+      "summary": "2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合...",
+      "published": "2026-10-02T15:01:33Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "435c2848482c9e0af86fe7486d2f4abb",
+      "title": "Changes to Gemini model access and limits - Gemini Apps Help",
+      "link": "https://support.google.com/gemini/answer/17004136?hl=en",
+      "summary": "Tips: For each available model, you can also select the model’s effort level from low, medium, and high. This will increase the model’s ability to com...",
+      "published": "2026-05-19T08:36:45Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "efceda8defc56e9753f1d72de2ae552c",
+      "title": "情報処理安全確保支援士の資格登録を削除する - misc.log",
+      "link": "https://www.backyrd.net/entry/20210812/1628735525",
+      "summary": "背景 資格削除手続き なにがあったのか セキスペの資格、結果的にどうだったか 関連エントリー 背景 2009年の12月に、情報セキュリティスペシャリストの試験に合格し、2018年に現在の会社で「会社の指示により」情報処理安全確保支援士の資格取得費用を出してもらって資格を維持していましたが、以下の理由...",
+      "published": "2021-09-28T08:23:37Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a985b38f0f4eeebce538ddf9dab2157c",
+      "title": "AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける",
+      "link": "https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/",
+      "summary": "現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 Updates to Full Disk Access in macOS - Latest News - Apple Develo...",
+      "published": "2026-10-03T02:17:15Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be7060d3978d1c6e509a650628740d49",
+      "title": "バグの発見と修正を支援するオープンソースの AI ハーネス、Mantis のスタートガイド | Google Cloud 公式ブログ",
+      "link": "https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs",
+      "summary": "Yulong ZhangSenior Staff Security Engineer, Google ※この投稿は米国時間 2026 年 9 月 3 日に、Google Cloud blog に投稿されたものの抄訳です。 AI モデルは、人間の手をほとんど、あるいはまったく介さずに脆弱性を発見して悪...",
+      "published": "2026-10-02T09:33:46Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ce0715f9485a7b2b1869fd7588de032",
+      "title": "実務において敵対的レビューはどの程度有効なのか",
+      "link": "https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef",
+      "summary": "目次 背景 やったこと 検証結果 考察 付記：レビューと自動修正のループで指摘が収束しない問題 感想 1. 背景 AI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差分を通常どおりレビューして問題を探すだけでなく、「この変更で誤った結果やエラーを起こす入力...",
+      "published": "2026-10-02T18:40:46Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa5dc1983d0a6c451c40a23a04ea9412",
+      "title": "ドコモがほぼ全ての料金プランを値上げ それよりも端末の値上げが気になるこの頃",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html",
+      "summary": "ITmedia Mobileにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia Mobile Weekly Top10」。今回は2026年9月24日から9月30日までの7日間について集計し、まとめました。 今回のアクセス数の1位は、12月にNTTドコモが実施する“料金値上...",
+      "published": "2026-10-03T04:46:04Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "83df4c9fb3bdd4ce01f727eb3157e881",
+      "title": "Book of Shapes",
+      "link": "https://bookofshapes.com/",
+      "summary": "Book of Shapes A collection of minimal, generative and customizable SVG-patterns. Created by Nikolaj Sokolowski. grid (25)flow (18)radial (18)noise (1...",
+      "published": "2026-10-01T11:23:45Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01e9aa4f40f27b0d11fcfc263a416d15",
+      "title": "MacBook Pro（OLED）や新型iPad miniなど複数の新製品を今月発表？ - iPhone Mania",
+      "link": "https://iphone-mania.jp/mac-606895/",
+      "summary": "Appleが現在、macOS 27.2 Golden Gateをインストールした有機EL（OLED）ディスプレイ搭載MacBook Proの社内テストを行っており、早ければ10月中にも発表される可能性があると、Bloombergのマーク・ガーマン記者が予想しています。 その場合、Appleは10月中...",
+      "published": "2026-10-02T23:43:13Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1ac42df8244afccfe23e24cfdd7fb90",
+      "title": "東京が3億円で電気をかき集めた夏、カリフォルニアは家の蓄電池を束ねて乗り切った | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/sunrun-tesla-home-battery-power-plant/",
+      "summary": "去る9月9日の夕方、カリフォルニア。 気温はぐんぐん上がり、エアコンがいっせいに唸りだす時間帯です。そのとき、14万軒のガレージで、壁に備え付けられた蓄電池がじわっと放電を始めました。 合計580MW（58万kW）。ガス火力の発電所2〜3基ぶんの電気が、住宅街から送電網へ流れ込んだそうです。 住宅用...",
+      "published": "2026-10-03T09:35:46Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dae466875a9841a23091c2cdba35e645",
+      "title": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/",
+      "summary": "開発支援ツール「Claude Code」は、コードの作成だけでなく、既存コードの調査や修正、テストまでこなすようになっている。最近では、人間が細かな作業を一つずつ指示しなくても、与えられた目標に向けて自ら作業を進めるケースも報告されている。 そんな中、「Claude」の開発元であるAnthropic...",
+      "published": "2026-10-02T09:38:21Z",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "657ca5d400cd8d9131f56773016acb7d",
+      "title": "📦 cloudflare / cloudflare-os ⭐ 10,391 (+…",
+      "link": "https://github.com/cloudflare/cloudflare-os",
+      "summary": "📦 cloudflare / cloudflare-os ⭐ 10,391 (+84) 🗒 TypeScript Agent workspace built on Cloudflare Workers for creating documents, building apps, and runnin...",
+      "published": "03 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f08d8cf2c7baf95fd61fd19a3441e4e4",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 thedotm…",
+      "link": "https://github.com/thedotmack/claude-mem",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 thedotmack / claude-mem ⭐ 95,253 (+115) 🗒 TypeScript Persistent Context Across Sessions for Every Agent – Captures ev...",
+      "published": "03 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0493a442bc16c3954c0c79512a52b59",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Fri…",
+      "link": "https://github.com/Friedrich-M/UniMate",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Friedrich-M / UniMate ⭐ 936 (+225) 🗒 Python [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Sk...",
+      "published": "01 Oct 2026 18:18 +0000",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2add79a934b59e1ef662cdb495c2923",
+      "title": "DynamoDBのS3エクスポートにフィルタ指定が追加。FullとIncrementalで試してみた",
+      "link": "https://dev.classmethod.jp/articles/dynamodb-filtered-export-s3/",
+      "summary": "DynamoDBのExport to S3に追加されたフィルタ指定を、FullとIncrementalで試しました。更新の多いテーブルのスナップショットなどで、必要な項目だけを出力できるかを確認しています。",
+      "published": "Sat, 03 Oct 2026 17:05:42 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e47809c0eac26c34cf4601696adaea10",
+      "title": "Decision 2.0 を Strands Decider と同じ 20 問で M4 Mac の MPS で試してみた",
+      "link": "https://dev.classmethod.jp/articles/decision2-strands-decider-20q-m4-mps/",
+      "summary": "判定専用モデル Decision 2.0 の Eos-0.8B・Sol-2B・Nox-4B を Strands Decider 2B と同じ 20 問で動かし、想定内の件数、応答時間、メモリを並べました。Kev・Decider との仕組みの違いも紹介します。",
+      "published": "Sat, 03 Oct 2026 15:25:45 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b765285d0d92b47d54a79ab498028347",
+      "title": "2026年9月にリリースされたSnowflakeの新機能・変更点のまとめ #SnowflakeDB",
+      "link": "https://dev.classmethod.jp/articles/snowflake-latest-info-202609/",
+      "summary": "Snowflake 2026年9月のリリースで、Semantic Studioの一般提供やDCM Projectsの機能拡張、フェイルオーバーグループの最適化など、データ基盤とガバナンスを強化する多くの新機能がリリースされました。本記事では、特筆すべき変更点をピックアップしてご紹介します。",
+      "published": "Sat, 03 Oct 2026 14:18:59 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d4d039f9e05221c161a161257ce8238",
+      "title": "I've joined Classmethod Malaysia, I'm Kong Jun Sieng, Nice to meet you~",
+      "link": "https://dev.classmethod.jp/articles/202610-AnonymousPenguin-joined-classmethod/",
+      "summary": "Hi everyone! I'm Kong-san, an Associate Software Engineer at Classmethod Malaysia. Before joining, I explored AI agents, built a personal portfolio wi...",
+      "published": "Sat, 03 Oct 2026 13:11:40 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b13fb140fc4ed51b2fb0bdc0eff45283",
+      "title": "AWS MCP Server が東京リージョンをサポートしたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-mcp-server-tokyo-region/",
+      "summary": "AWS MCP Server の東京リージョンを日本国内の実行環境から試し、STS GetCallerIdentity（aws___run_script）の応答時間をバージニアと比べました。東京のほうが3割以上短くなりました。",
+      "published": "Sat, 03 Oct 2026 13:06:04 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1c7afa71d401230a66b288544fea637",
+      "title": "【登壇資料】DevelopersIO 2026 Osakaで「Claude Code × 複数タスクで セッション乱⽴！「Orca」の意外な使い⽅で まるごと整理してみた」というタイトルで登壇しました！ #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-osaka-claude-code-orca-task-organization/",
+      "summary": "DevelopersIO 2026 Osakaで登壇した「Claude Code × 複数タスク」についてのセッション内容をご紹介します。Claude Codeで複数タスクを並行推進する際の課題を、意外な使い方のツール「Orca」を活用して解決した経験をまとめました。",
+      "published": "Sat, 03 Oct 2026 12:57:26 GMT",
+      "fetched_at": "2026-10-03T17:42:01.494686+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-03T12:53:30.850343+00:00"
+  "updated_at": "2026-10-03T17:42:01.494686+00:00"
 }

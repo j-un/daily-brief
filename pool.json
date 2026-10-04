@@ -9,7 +9,37 @@
       "fetched_at": "2026-10-02T23:58:55.413146+00:00",
       "feed_name": "AWS Recent Announcements",
       "category": "main"
+    },
+    {
+      "entry_id": "ccf7f86c8d21899ea6ced7a5ffd498d1",
+      "title": "AIエージェントにJev連携の判断ステップを追加できるワークフローDSL。Pi…",
+      "link": "https://github.com/Parcha-ai/agentrun",
+      "summary": "AIエージェントにJev連携の判断ステップを追加できるワークフローDSL。Pi extensionにも対応。",
+      "published": "04 Oct 2026 00:00 +0000",
+      "fetched_at": "2026-10-04T00:16:11.504158+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df521b2b4c4d1b54463dfaa2abfa0187",
+      "title": "ソースコード上の似通ってるところを見つけるCLIツール。tree-sitterを…",
+      "link": "https://github.com/dsummersl/treepeat",
+      "summary": "ソースコード上の似通ってるところを見つけるCLIツール。tree-sitterを使用するので言語構造を解釈した上での検知が可能。いいね。Python実装。",
+      "published": "03 Oct 2026 23:46 +0000",
+      "fetched_at": "2026-10-04T00:16:11.504158+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40a612341063b9b7953b9bc22608023e",
+      "title": "Amazon Corretto 2026年9月版の内容とバージョンの見分け方を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-corretto-september-2026-patch-tzdata/",
+      "summary": "Amazon Corretto 2026年9月版が8月版に続きリリースされました。CHANGELOG に CVE の記載はなく、タイムゾーンデータの更新と、一部バージョンのバグ修正が中心でした。ビルド番号で8月版と9月版を判別できます。",
+      "published": "Sat, 03 Oct 2026 23:39:11 GMT",
+      "fetched_at": "2026-10-04T00:16:11.504158+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-03T23:25:24.945224+00:00"
+  "updated_at": "2026-10-04T00:16:11.504158+00:00"
 }

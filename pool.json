@@ -1,76 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "59cc36e7cef5e9bfcb152c00a6e3db18",
-      "title": "GitHub Actionsにロックファイルが来るぞ #GitHubActions - Qiita",
-      "link": "https://qiita.com/access3151fq/items/70a93f08bffd9c5f09a5",
-      "summary": "現在Technical Preview。gh extension install github/gh-actions-lock",
-      "published": "04 Oct 2026 07:09 +0000",
-      "fetched_at": "2026-10-04T07:36:45.499312+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "73816fadc66b63cbe50601bfa035d694",
-      "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/09/docker-skills",
-      "summary": "Dockerfileの改善からエージェントの構築⁠・実行までやってくれると。",
-      "published": "04 Oct 2026 04:08 +0000",
-      "fetched_at": "2026-10-04T07:36:45.499312+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2d5447c037f37c4418d144913ca56be4",
-      "title": "OpenTelemetryで作るセルフサービステレメトリー基盤",
-      "link": "https://zenn.dev/ymotongpoo/books/observability-platform-with-otel",
-      "summary": "わいわい",
-      "published": "04 Oct 2026 03:23 +0000",
-      "fetched_at": "2026-10-04T07:36:45.499312+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "38d7f6256971e491f19a46631d01f776",
-      "title": "AI感のないAWS構成図をAIエージェントに描かせたい！ #ClaudeCode - Qiita",
-      "link": "https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c",
-      "summary": "「draw.io MCP、draw.io プラグイン、Claude Code の3パターンがいい感じ」メモ",
-      "published": "04 Oct 2026 03:00 +0000",
-      "fetched_at": "2026-10-04T07:36:45.499312+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ef43f3570f677122d3fb0bce2b95a154",
-      "title": "Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由",
-      "link": "https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
-      "summary": "Jujutsuまだちょろっと試した程度しかやってない。もうちょっとガッツリ触ってみないとな。",
-      "published": "04 Oct 2026 08:43 +0000",
-      "fetched_at": "2026-10-04T13:35:06.281919+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "602d3fe17de6287ba01810dac961951f",
-      "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/10/daily-linux-261001",
-      "summary": "「CPUを公平に配るだけではなく、キャッシュや仮想化といった実際の実行環境を考慮しながら、タスクをできるだけ効率よく前に進める方向へ進化」わいわい",
-      "published": "04 Oct 2026 08:17 +0000",
-      "fetched_at": "2026-10-04T13:35:06.281919+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "742205bbeeb24e95a0ce39fc22795043",
-      "title": "Kiro workflows のご紹介 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/introducing-workflows/",
-      "summary": "日本語記事きてた",
-      "published": "04 Oct 2026 07:51 +0000",
-      "fetched_at": "2026-10-04T13:35:06.281919+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "6dd77a176ebd242157d503fb380fb6f8",
       "title": "日本語ベンチマークでJevの性能を検証する",
       "link": "https://zenn.dev/ivry/articles/65c1c4242e1156",
@@ -589,7 +519,577 @@
       "fetched_at": "2026-10-05T08:00:17.494659+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "160b93c198632ee9176fc1d99f8deed3",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://github.com/sagochiko/aws-drawio-diagram-skill",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub - sagochiko/aws-drawio-diagram-skill: AWS の構成図を draw.io の形式で描く Claude Code の Skill",
+      "published": "05 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b01e5d1cd825ac3442c939a9681d6dc5",
+      "title": "日々の覚書: ALTER DATABASE .. READ ONLY = 1の使いどころ",
+      "link": "https://yoku0825.blogspot.com/2026/09/alter-database-read-only-1.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ALTER DATABASE .. READ ONLY = 1の使いどころ",
+      "published": "05 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "00f3cd9bd1f7a24f6925100422efb7be",
+      "title": "YAPC::Tokyo 2026 で Transformer 道場をやります - As a Futurist...",
+      "link": "https://blog.riywo.com/2026/09/transformer-dojo-at-yapc-tokyo-2026/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 YAPC::Tokyo 2026 で Transformer 道場をやります - As a Futurist...",
+      "published": "04 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f566252c3ba5c572714d82b385bac535",
+      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk Comments URL:...",
+      "published": "Mon, 05 Oct 2026 17:01:27 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b710f0821ab548c8e55d8eb4ed76d40f",
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "summary": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped Comments URL: https:...",
+      "published": "Mon, 05 Oct 2026 13:02:25 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e4e41222cd6949989282b5ba4dbf722",
+      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+      "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+      "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0 Comments URL: https://news.ycombinator.com/item?id=49963385 Points: 170 # Comments: 92",
+      "published": "Mon, 05 Oct 2026 11:17:18 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50758f77dbbeafa8776cf6bc0a3cbd5b",
+      "title": "Germany’s RobCo hits $1B valuation",
+      "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Mon, 05 Oct 2026 11:13:51 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d62c9900ce58d9c54ad885e718bc95e",
+      "title": "Web Search API",
+      "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Mon, 05 Oct 2026 10:47:06 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d876a6afd582c16f85a2b848201aa07",
+      "title": "Nobel Prize in Physiology or Medicine 2026",
+      "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/ Comments URL: https://news.ycombinator.com/item?id=49963094 Points: 134 # ...",
+      "published": "Mon, 05 Oct 2026 10:35:59 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "55362049521bf0f3b4d533d388eb023a",
+      "title": "Apple and a Hacker's Future",
+      "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/ Comments URL: https://news.ycombinator.com/item?id=49962857 Points: 162 # Commen...",
+      "published": "Mon, 05 Oct 2026 10:05:02 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82fced8b971efa21685a4f61927e7cba",
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger Comments URL: https://news.yc...",
+      "published": "Mon, 05 Oct 2026 08:09:36 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3949804f53f260c9429e904a1ffec796",
+      "title": "Huawei and Qualcomm announce broad patent license agreement",
+      "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "summary": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-... Comments URL: https://news.ycombinator.com/item?id=49961861 Points: 151 # Comments: 89",
+      "published": "Mon, 05 Oct 2026 07:46:10 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5a4292b91e9f18d17743a2ac50bfe3f",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html Comments URL: https://news.ycombinator...",
+      "published": "Mon, 05 Oct 2026 05:37:40 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6dfa0e498aba74773eb953507c99f11",
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "link": "https://frn.sh/go-gc/",
+      "summary": "Article URL: https://frn.sh/go-gc/ Comments URL: https://news.ycombinator.com/item?id=49959654 Points: 104 # Comments: 117",
+      "published": "Mon, 05 Oct 2026 01:11:56 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "92e366800846a8f8219c5ba5fb036b3b",
+      "title": "The technology to eradicate mosquito-borne disease exists",
+      "link": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
+      "summary": "Article URL: https://worksinprogress.co/issue/mosquitoes-are-a-choice/ Comments URL: https://news.ycombinator.com/item?id=49956290 Points: 176 # Comme...",
+      "published": "Sun, 04 Oct 2026 18:06:04 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "719fcc06bb22a16f8eacb22afde5dfef",
+      "title": "AWS Private CA now provides detailed certificate issuance logs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/",
+      "summary": "AWS Private CA announces detailed certificate issuance logs, a new AWS CloudTrail service event that records the complete certificate content, issuing...",
+      "published": "Mon, 05 Oct 2026 09:00:00 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "47bc3bf9d4c021717194c5b0f5c4d267",
+      "title": "Amazon Q Developer now delivers enhanced visualizations in the AWS Management Console",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-q-developer-enhanced-visualizations-aws-management-console",
+      "summary": "Today, AWS announces enhanced visualization for Amazon Q Developer in the AWS Management Console. Amazon Q now reasons across hundreds of AWS APIs to ...",
+      "published": "Thu, 01 Oct 2026 17:43:00 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "552ea7a558ac21249e849a15e29fa999",
+      "title": "焼肉きんぐに不正アクセス、1078万人分の情報流出 アプリ登録者ほぼ全員が対象",
+      "link": "https://ascii.jp/elem/000/004/440/4440100/",
+      "summary": "焼肉きんぐを運営する物語コーポレーションは10月5日、公式アプリの会員管理システムが第三者から不正アクセスを受け、会員情報1078万8963件が流出したと発表した。アプリのユーザー登録数は1080万8784件で、ほぼすべてのユーザーが対象となる。 流出した情報には、会員番号、氏名（アプリ登録名）、メ...",
+      "published": "2026-10-05T09:05:31Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "877ffc3d4dfb03edaac04709dba27b99",
+      "title": "アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ",
+      "link": "https://japan.cnet.com/article/35253230/",
+      "summary": "Amazon傘下のAudibleは、オーディオブック配信サービス「Audible」の没入感を高めようとしている。同社は米国時間10月1日、本を聴く体験を広げるため、AIを活用した3つの新機能を発表した。これにより、ユーザーは登場人物のガイドを確認し、物語に参加するとともに、聴いている本に登場する都市...",
+      "published": "2026-10-05T06:43:08Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a759c8ed8369a10e360e86b6320f5dd6",
+      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/31834/",
+      "summary": "転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミングAI 生成AIは「コードを書く」というエンジニアの仕事を急速に...",
+      "published": "2026-10-05T07:03:43Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f9bde4f6c583bb136421cb820177517",
+      "title": "本当に「判断」していますか？",
+      "link": "https://zenn.dev/dyoshikawa/articles/do-you-desicion",
+      "summary": "はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿な...",
+      "published": "2026-10-05T05:48:22Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0af5c5dbdc9801d9bd73754f18f956e1",
+      "title": "AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー",
+      "link": "https://weekly.ascii.jp/elem/000/004/439/4439882/",
+      "summary": "わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃...",
+      "published": "2026-10-05T08:05:24Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8526008cb74b1e1e6cf4011a90484c9c",
+      "title": "Googleが黒塗りで報告したデータセンターの水使用量と最大電力容量がコピペによって明らかに",
+      "link": "https://gigazine.net/news/20261005-google-data-center-usage/",
+      "summary": "Googleがアメリカ・ネブラスカ州リンカーンで2026年に稼働を開始したデータセンターについて、ネブラスカ州水・エネルギー・環境局(DWEE)に年次報告書を提出しました。データセンターがどれだけの電力と水を使用しているかは一部の州法に基づいて企業秘密にできると主張してGoogleは当該部分の数値を...",
+      "published": "2026-10-05T11:11:01Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e330d0a664522f459a5e972b2aa331bf",
+      "title": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54760",
+      "summary": "全国で370店舗以上を展開する「焼肉きんぐ」を運営する「物語コーポレーション」は、会員を管理するシステムに不正アクセスがあり、アプリに登録した1000万余りのユーザーに関する情報が漏えいしたと発表しま…",
+      "published": "2026-10-05T09:03:57Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e21b5b14819f93bb09826afbf31ebf5",
+      "title": "パーク管理におけるガイドライン違反行為 - Hatena Policies",
+      "link": "https://policies.hatena.ne.jp/entry/2026/10/05/151435",
+      "summary": "はてなパークスに開設されたパーク内の投稿への通報に対し、パークの管理権限を持つユーザー(以下「パーク管理者」)が「一線を越えた誹謗中傷もなんでもあり」として、通報を却下している状況が確認された。 はてなパークスでは、パーク管理者に管理権限があり、独自のルールを設定して不適切な投稿の公開を停止したり、...",
+      "published": "2026-10-05T07:34:26Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad69312b43d41968f08cf4cfaba15225",
+      "title": "タイムズカー、情報保護法を軽視 160万件の免許証画像流出 | NEWSjp",
+      "link": "https://news.jp/i/1479745429830238822",
+      "summary": "カーシェアリングサービス「タイムズカー」への不正アクセスにより約160万件の運転免許証の画像が漏えいした問題で、画像の保存期間を「退会から7年」と設定していたことが5日、運営するパーク24への取材で分かった。個人情報保護法はデータが不要になった事業者に「遅滞なく消去するよう努めなければならない」と要...",
+      "published": "2026-10-05T09:16:54Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "deccc12ab5adf3523181404be24aea6f",
+      "title": "SystemVerilogの話 | ドクセル",
+      "link": "https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222",
+      "summary": "自己紹介 • ASIC, ASSPてきな • アナデジ混載系 • 検証エンジニア （リスペクト元: AUDIYさん） 何か小さくて黒っぽい 集積回路みたいなやつ にゃーんと言いながら SystemVerilogで戦ってます",
+      "published": "2026-10-05T14:04:59Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6e086a7f39f5bb1d46fd14ea07c066f",
+      "title": "大阪公立大システム障害 ランサムウエアによるサイバー攻撃か | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54843",
+      "summary": "大規模なシステム障害で授業が休講している大阪公立大学は、5日に記者会見を開き、身代金要求型のコンピューターウイルス「ランサムウエア」によるサイバー攻撃を受けたという見方を示しました。 大阪市と堺市…",
+      "published": "2026-10-05T10:44:37Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ce4c04d16a7278ea275a825faa30814",
+      "title": "iOS27の「ショートカット」に35以上の新アクション・機能改善が追加！ - iPhone Mania",
+      "link": "https://iphone-mania.jp/ios-607006/",
+      "summary": "iOS27では、iPhoneの高速化や、ロック画面の新機能、子どもの安全機能など様々な強化が行われています。 「ショートカット」アプリでは、作成手順をスムーズにする機能をはじめ、新規アクションや既存機能の強化、新たなオートメーション条件などあわせて35以上の新機能が追加されました。 本記事では、追加...",
+      "published": "2026-10-05T08:55:51Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ddadf668104515ad91c35a102db08184",
+      "title": "Claude Codeのルーティンを利用した開発フローの自動化 - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines",
+      "summary": "目次 はじめに サマリ 人間はタスクを完全には並列処理できない 以前にも承認待ちの課題は存在していた 作った仕組みと設計上の工夫 issueの選定条件を明確にする 1回の実行で1 issueだけ扱う 複数のリポジトリを横断してコンテキストを集める まとめ 参考文献 はじめに AIにコードを書いてもら...",
+      "published": "2026-10-05T06:24:18Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c247872f9b50e1ffb44bce1c4b26e02e",
+      "title": "【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b",
+      "summary": "",
+      "published": "2026-10-05T08:18:28Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35e250362ef3475348e5debac5322152",
+      "title": "AWSにログインする方法8選",
+      "link": "https://zenn.dev/aws_japan/articles/aws-login-methods",
+      "summary": "この表から読み取れるベストプラクティスは、失効しない長期的なクレデンシャルを端末に置かないことです。長期アクセスキーは削除するまで有効なので、漏れればそのまま使われ続けます。一時クレデンシャルも漏れれば使われますが、最長でも 12 時間で失効します。 また、MFA が求められるのは、コンソールや I...",
+      "published": "2026-10-05T02:06:00Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a5418261ddd928698f91c074d05571e",
+      "title": "無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す",
+      "link": "https://gigazine.net/news/20261005-artcraft-crafting-apps/",
+      "summary": "AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなど...",
+      "published": "2026-10-05T07:26:43Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1f5c99dc3cb143472c95448eab585e3",
+      "title": "大起水産 不正アクセスで約17万5000人分の個人情報漏えいか | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261005de54848",
+      "summary": "大阪・堺市に本社がある関西のすしチェーン「大起水産」は、外部から不正アクセスを受け、会社の公式アプリに登録されているおよそ17万5000人分の個人情報が外部に漏えいした可能性があると発表しました。現時…",
+      "published": "2026-10-05T10:45:21Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4d3bdcf557b33d50a8f27b143230dce",
+      "title": "DeepSeek製コーディングエージェント「DeepSeek Harness」のデスクトップ版が登場",
+      "link": "https://gigazine.net/news/20261005-deepseek-harness/",
+      "summary": "中国のAI企業であるDeepSeekがAIコーディングエージェント「DeepSeek Harness」のバージョン0.2を2026年10月1日にリリースしました。WindowsとmacOS向けのデスクトップアプリも登場しています。 DeepSeek Harness | Explore the lim...",
+      "published": "2026-10-05T03:18:16Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "139d41624e3ecd99d6cb4f1f7e9ab2f5",
+      "title": "大阪公立大 サイバー攻撃受け障害 - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6597639",
+      "summary": "今月2日に基盤システムにトラブルが発生し、休講が続いている大阪公立大学が5日、会見を開いて謝罪し、システム障害の原因はランサムウェアによるサイバー攻撃を受けたと判断していることを明らかにしました。",
+      "published": "2026-10-05T10:42:06Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7ff0a7201b4288e6c132d119426fa27",
+      "title": "Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘",
+      "link": "https://gigazine.net/news/20261005-debian-security-advisory/",
+      "summary": "Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 Debian alert DSA-6528-1 (kernel) [LW...",
+      "published": "2026-10-05T08:20:18Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac19a85d1a4303a343e8a94de441c1f9",
+      "title": "結局、Looped Transformerってなんや？ - Qiita",
+      "link": "https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e",
+      "summary": "何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらいで止まっていました。 そこで今...",
+      "published": "2026-10-05T02:16:46Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "536f1ec52593b9e08d82f2aa06244bf8",
+      "title": "API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた - Qiita",
+      "link": "https://qiita.com/songchong/items/02672765fe53f911a1a0",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "published": "2026-10-05T00:15:05Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e764c52ab7304650480c78f4546ccef9",
+      "title": "パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス 行動エリアやプロフ写真など流出か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002003/",
+      "summary": "オンラインゲームの開発・運営を手掛けるサミーネットワークス（東京都品川区）は10月2日、同社が運営するパチンコ・パチスロ店向け入場抽選アプリ「777CON-PASS」で第三者による不正アクセスがあり、利用者の個人情報が流出した可能性があると発表した。位置情報から生成した行動エリアやプロフィール写真な...",
+      "published": "2026-10-05T07:02:03Z",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f14baa5319dcdc490a4a49fae72432e",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 Duar…",
+      "link": "https://github.com/DuarteSantos8/openGym",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 DuarteSantos8 / openGym ⭐ 3,464 (+570) 🗒 JavaScript Self-hosted gym & body-weight tracker — plan routines, log wor...",
+      "published": "05 Oct 2026 18:17 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1de8441fc5bce948646a69089e40f1e8",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 boyk…",
+      "link": "https://github.com/boykopovar/AnyPS5",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 boykopovar / AnyPS5 ⭐ 4,407 (+994) 🗒 C++ Tool for automatic PS5 executables porting to Linux and Windows",
+      "published": "05 Oct 2026 12:18 +0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5df38ab2ee03c111f77ac86226f335ec",
+      "title": "[アップデート] AWS Health にバージョンカタログが追加され、サービスのサポート期限を一覧で確認できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aws-health-version-catalog/",
+      "summary": "AWS Health に、AWS サービスのソフトウェアバージョンとサポート期限を 1 か所で確認できるバージョンカタログが追加されました。マネジメントコンソールと AWS CLI で確認し、Lambda・RDS・EKS についてはサービスごとの API やドキュメントの情報とも比べてみました。",
+      "published": "Mon, 05 Oct 2026 14:11:16 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f94aaef5bbf64a1ab66bb283011ad9c",
+      "title": "CloudWatch Logs の新機能「自動インデックス」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-cloudwatch-logs-auto-indexing/",
+      "summary": "CloudTrail のログを出力した CloudWatch Logs のロググループで、自動インデックスを試しました。Logs Insights で利用したフィールドに自動でインデックスが作成されることと、スキャン件数が減ることを確認できました。",
+      "published": "Mon, 05 Oct 2026 12:45:03 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7bcc11034901a136a224c913892ad63",
+      "title": "「AIエージェントに買い物をさせる ― Universal Commerce Protocol（UCP）の紹介」というタイトルで DevelopersIO 2026 【会場・Day】に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/ai-agent-shopping-universal-commerce-protocol-developersio-2026-osaka-day2-devio2026/",
+      "summary": "DevelopersIO 2026 Osaka で登壇した「AIエージェントに買い物をさせる ― Universal Commerce Protocol（UCP）の紹介」について、登壇資料と発表の要点をまとめました。",
+      "published": "Mon, 05 Oct 2026 12:31:01 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a03a73296a4e237934ed3742244bd60",
+      "title": "トヨタ・ウーブン・シティを訪問してみた Woven City Pay 利用編",
+      "link": "https://dev.classmethod.jp/articles/toyota-woven-city-pay/",
+      "summary": "Toyota Woven City の場内で使える決済サービス「Woven City Pay」を使ってみました。Woven City アプリの利用開始とチャージの手順と、食堂、コンビニ、自動販売機「HAKU」の 3 か所で支払った様子を紹介します。",
+      "published": "Mon, 05 Oct 2026 12:15:18 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd2b802819b464463fffc9cfb87b3e06",
+      "title": "【登壇資料】「AIアプリを使い分けるための共通ツール基盤を考えてみる」というタイトルで DevelopersIO 2026 Osaka Day 2に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026osaka-day2-ai-app-tool/",
+      "summary": "業務機能をAIから利用できるようにするにはどうするとよいか、何が大事かについて登壇駆動で考えてみました。",
+      "published": "Mon, 05 Oct 2026 10:13:43 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "042a0ce1f262b97d6ec3ad61a36f9f9d",
+      "title": "Cloudflare Artifactsがオープンベータになったので試してみる",
+      "link": "https://dev.classmethod.jp/articles/trial-cloudflare-artifacts-in-open-beta/",
+      "summary": "Cloudflare Artifactsがオープンベータになったので、実際に試してみました。Git互換インターフェースを持つバージョン管理ストレージの基本的な使い方から、Workerとの連携までを紹介します。",
+      "published": "Mon, 05 Oct 2026 10:10:23 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ad854c1326fc3978e020eecfc8e91b8",
+      "title": "デプロイのやり直しでAWS Configの料金が膨らんでいたので対策してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-config-cost-repeated-deploy/",
+      "summary": "検証用AWSアカウントのコスト増加の原因はAWS Configでした。デプロイを繰り返したことで構成項目の記録が膨らみました。対策をまとめました。",
+      "published": "Mon, 05 Oct 2026 09:50:25 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bc4d47b282419aafd65e1120d1dca8b",
+      "title": "ECS のタスクをクラウド開発環境として使う",
+      "link": "https://dev.classmethod.jp/articles/ecs-task-sandbox/",
+      "summary": "AWS上でECSを使ったセキュアなクラウド開発環境の構築方法を紹介します。ユーザーごとに隔離された開発環境を動的に作成・削除する構成例と、実装時の注意点をまとめました。",
+      "published": "Mon, 05 Oct 2026 08:37:33 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "42b93bb558bf19f31341bc9ec08088f8",
+      "title": "t4g.nanoのAmazon Linux 2023でyumが止まる問題を、インスタンスタイプを上げずにswapfileで解決してみた",
+      "link": "https://dev.classmethod.jp/articles/al2023-t4g-nano-yum-swapfile/",
+      "summary": "t4g.nanoのAmazon Linux 2023で、ユーザーデータのyumがメモリ不足で止まりました。自動で有効になるzram swapでは足りず、Inspectorのyumと重なると失敗が増えます。本記事では、インスタンスタイプを上げずに、swapfileを1GB足して解決した方法とその仕組み...",
+      "published": "Mon, 05 Oct 2026 08:32:27 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e7998b821c8f2d4573c99a7560c6dc8",
+      "title": "Claude Code v2.1.289 の主要アップデート - sandbox auto-allow 時の Bash deny ルール修正と agent.spawn の teammate 対応",
+      "link": "https://dev.classmethod.jp/articles/20261005-cc-updates-v2-1-289/",
+      "summary": "Claude Code v2.1.289がリリースされました。セキュリティ修正5件を含む27件の変更が入り、特にsandboxのauto-allow時のBash deny ルール適用問題が修正されています。本記事では変更点を整理したうえで、実際に環境変数プレフィックス付きコマンドがdeny ルールで...",
+      "published": "Mon, 05 Oct 2026 08:15:59 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbc7f7d5e545aa6be0e8c813cba848d5",
+      "title": "自分の PC(Mac) に入れるならどっち？oMLX と TensorFold の違いを見る",
+      "link": "https://ca-srg.dev/3f04358b43f780d88fcbc756558136b8",
+      "summary": "メディア統括本部 サービスリライアビリティグループ（SRG）の長谷川（@rarirureluis）です。 #SRG（Service Reliability Group）は、主に弊社メディアサービスのインフラを横断的にサポートし、既存サービスの改善や新規サービスの立ち上げ、OSS への貢献などを行うグ...",
+      "published": "Mon, 05 Oct 2026 08:23:06 GMT",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "CyberAgent SRG",
+      "category": "main"
+    },
+    {
+      "entry_id": "80f836adb11f8429945dac5f5c0388e6",
+      "title": "Spotlight on Hurdy-Gurdy",
+      "link": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide",
+      "summary": "An ancient instrument finds its place in all styles of contemporary music. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 05 Oct 2026 18:24:06 -0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "54c55436631915674f4caa35879dd584",
+      "title": "Behind The Iron Curtain, Maťkovia Staged A Post-Punk Revolution",
+      "link": "https://daily.bandcamp.com/features/matkovia-1982-1986-feature",
+      "summary": "The Slovak band spent 40 years hiding from the censors; now, their music is finally seeing the light of day. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 05 Oct 2026 13:35:12 -0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "ab9adc77be656f2070c376273a4f0001",
+      "title": "Head Phone Home: The Yummy Fur Rings Again",
+      "link": "https://daily.bandcamp.com/features/the-yummy-fur-everybody-talks-about-the-weather-feature",
+      "summary": "Fixtures of the late '90s indie scene in Glasgow, the Yummy Fur return with a triumphant new record. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 05 Oct 2026 13:32:01 -0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "b5c898a8157a17a2de7245bfb83dc556",
+      "title": "Yayoba, “Matkat”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review",
+      "summary": "Three musical explorers chart strange terrain. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 05 Oct 2026 13:31:50 -0000",
+      "fetched_at": "2026-10-05T18:58:40.500187+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-05T08:00:17.494659+00:00"
+  "updated_at": "2026-10-05T18:58:40.500187+00:00"
 }

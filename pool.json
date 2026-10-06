@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "080cbf06191b1d5c0816830f13a0868e",
-      "title": "AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由｜npaka",
-      "link": "https://note.com/npaka/n/n557fb948c3cf",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIデバッグはなぜ収束しないのか - P2がいつまでも消えない理由",
-      "published": "05 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-05T08:00:17.494659+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "160b93c198632ee9176fc1d99f8deed3",
       "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
       "link": "https://github.com/sagochiko/aws-drawio-diagram-skill",
@@ -719,7 +709,437 @@
       "fetched_at": "2026-10-06T08:22:38.456022+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "11f5b958fd547504cc5dffe796ad71f2",
+      "title": "【3冊セット】監視・運用を継続収益の柱に。「SIerのためのMSP事業立ち上げガイド」を公開しました - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス",
+      "link": "https://ja.mackerel.io/info/whitepaper-msp-guide",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【3冊セット】監視・運用を継続収益の柱に。「SIerのためのMSP事業立ち上げガイド」を公開しました",
+      "published": "06 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e961852ab9ee9de3b9cbcb11232b5a2",
+      "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/awsaistrandsllm.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ",
+      "published": "06 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf2a7195c96af63996f708865f8a69c2",
+      "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+      "published": "06 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0dbb32bed9b2d56605efda8668b01450",
+      "title": "Vibecoding isn't as fun as writing code by hand",
+      "link": "https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/",
+      "summary": "Article URL: https://www.autodidacts.io/vibecoding-isnt-as-fun-as-writing-code-by-hand/ Comments URL: https://news.ycombinator.com/item?id=49979306 Po...",
+      "published": "Tue, 06 Oct 2026 14:45:02 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44d50d6d0c38b855c6615218b83a0c03",
+      "title": "Mistral Large 4: \"Le Chonk\"",
+      "link": "https://mistral.ai/news/mistral-large-4/",
+      "summary": "Article URL: https://mistral.ai/news/mistral-large-4/ Comments URL: https://news.ycombinator.com/item?id=49978116 Points: 446 # Comments: 53",
+      "published": "Tue, 06 Oct 2026 13:25:50 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b113a58596f44a9e67f5e39391cda9a7",
+      "title": "Mistral Large 4",
+      "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "summary": "Article URL: https://docs.mistral.ai/models/mistral-large-4-0 Comments URL: https://news.ycombinator.com/item?id=49977979 Points: 795 # Comments: 463",
+      "published": "Tue, 06 Oct 2026 13:15:49 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0680a7205fa114c8b88821c93aeb239d",
+      "title": "Meta's Muse Is an Adorable Privacy and Security Dumpster Fire",
+      "link": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
+      "summary": "Article URL: https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/ Comments URL: https://news.ycombinator....",
+      "published": "Tue, 06 Oct 2026 12:45:49 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36bdc6e215c270259eca6554f474f098",
+      "title": "Release of Polars 2.0",
+      "link": "https://pola.rs/posts/release-polars-2/",
+      "summary": "Article URL: https://pola.rs/posts/release-polars-2/ Comments URL: https://news.ycombinator.com/item?id=49977177 Points: 236 # Comments: 38",
+      "published": "Tue, 06 Oct 2026 11:59:01 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b6eba6147db00e01f7ba31a241950d2",
+      "title": "JetBrains reported a net financial loss first time in its tracked history",
+      "link": "https://www.helgilibrary.com/companies/jetbrains",
+      "summary": "Article URL: https://www.helgilibrary.com/companies/jetbrains Comments URL: https://news.ycombinator.com/item?id=49977072 Points: 396 # Comments: 398",
+      "published": "Tue, 06 Oct 2026 11:45:55 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c27e5e6d6b154cf89f0fcf2c6ff75d49",
+      "title": "Nature's capacity to 'bounce back' when species are lost is vastly overestimated",
+      "link": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "summary": "Article URL: https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html Comments URL: https://news.ycombinator.com/item?id=49976823 Points...",
+      "published": "Tue, 06 Oct 2026 11:11:51 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82daff4d034835dc523c966ccb0a1afb",
+      "title": "Nobel Prize in Physics goes to Francis Halzen",
+      "link": "https://www.nobelprize.org/prizes/physics/2026/",
+      "summary": "Article URL: https://www.nobelprize.org/prizes/physics/2026/ Comments URL: https://news.ycombinator.com/item?id=49976265 Points: 326 # Comments: 97",
+      "published": "Tue, 06 Oct 2026 09:48:46 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8cc2b1b8ae7b41e49275f835aa9093f",
+      "title": "Gleam doesn't compile to Erlang source anymore",
+      "link": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+      "summary": "Article URL: https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/ Comments URL: https://news.ycombinator.com/item?id=49975619 Points:...",
+      "published": "Tue, 06 Oct 2026 08:08:20 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffbccea6f0dacd9dbfc7e200c6428391",
+      "title": "We are going to kill \"unalive\"",
+      "link": "https://www.anildash.com/2026/10/06/kill-unalive/",
+      "summary": "Article URL: https://www.anildash.com/2026/10/06/kill-unalive/ Comments URL: https://news.ycombinator.com/item?id=49975083 Points: 112 # Comments: 122",
+      "published": "Tue, 06 Oct 2026 06:49:39 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5d15bfbf0a48bac07e70e45e358d53c",
+      "title": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink",
+      "summary": "AWS Certificate Manager (ACM) now supports AWS PrivateLink for ACME public certificate issuance, allowing you to request and renew public TLS certific...",
+      "published": "Tue, 06 Oct 2026 14:01:00 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e86064c0b440f805b481fdafd5c61313",
+      "title": "AWS Control Tower AFT now supports plan-only customization runs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/",
+      "summary": "AWS Control Tower Account Factory for Terraform (AFT) now supports plan-only customization runs, giving administrators the ability to preview Terrafor...",
+      "published": "Mon, 05 Oct 2026 19:31:00 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9931d9bcda61a1c3d6961e9e9c5b11ce",
+      "title": "Amazon EC2 introduces shared tags for Amazon Machine Images",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags",
+      "summary": "Amazon EC2 now supports AMI tag sharing, a new feature that lets AMI owners make selected tags visible to all AWS accounts an AMI is shared with. Whet...",
+      "published": "Mon, 05 Oct 2026 17:28:00 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "80a104c5cd0e616bf2bec96bfa845f2a",
+      "title": "AIは不思議のダンジョンを突破できるのか - AIエージェントに『トルネコの大冒険』を遊ばせてみた - 5.1さらうどん",
+      "link": "https://giginet.hateblo.jp/entry/2026/09/22/114642",
+      "summary": "シルバーウィークに以前からやってみたかった「AIエージェントにローグライクをプレイさせてみる」という挑戦をしてみることにした。 ローグライクはターン制で入力が忙しくない、かつ、長期的な目での思考・推論が必要で、AIが解く課題に最適だ。僕自身も生粋のシレンジャーであり、ドメイン知識も豊富。 目指すは『...",
+      "published": "2026-10-06T11:57:42Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a29631288f693ae94a6b7047b06a68ee",
+      "title": "漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた",
+      "link": "https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
+      "summary": "2026年10月6日追記：いま話題になっているのは9〜10月の事案なのに、件数については2026年6月までの統計でしか検討できておらず、不十分でした。そこで9月の件数を自分で数え直し、記事の最後に「追記：9月のペースをどう見るか」として補足しています。 9月の終わりごろから、情報漏洩のニュースをやた...",
+      "published": "2026-10-06T06:19:59Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "768b0d5485278d18ba1c934309ce4302",
+      "title": "見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking",
+      "link": "https://speakerdeck.com/minodriven/invisible-requirement-thinking",
+      "summary": "こちらのイベントの登壇資料です。 AIでコード書く前に、要求・要件定義足りてる？ミノ駆動さんと改めて考える ドメイン駆動設計 https://offers-jp.connpass.com/event/405681/",
+      "published": "2026-10-06T10:41:46Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74e71564cb4e432a159648fc00b75f2f",
+      "title": "チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」 相次ぐ情報漏えい受け「対応を急ぐ必要がある」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
+      "summary": "チームみらいの安野貴博党首は10月6日、サイバー攻撃能力の高いAIモデルが拡散しているとの認識を示した。「データの漏えい事故も相次いでおり、対応を急ぐ必要がある」と指摘している。自身のXアカウント（@takahiroanno）に投稿した。 安野氏は、米AnthropicのAIモデル「Claude M...",
+      "published": "2026-10-06T12:14:13Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29b6ef3b22ccd0451490fb0345fa7d4d",
+      "title": "説明スキルの比較：ELI5、Archify、Explainer",
+      "link": "https://blog.lai.so/eli5-archify-explainer-skills/",
+      "summary": "Anthropicのコミュニティプラグイン用リポジトリに、ELI5というスキルが公開されています。これは大きな絵と少ない言葉を使ったHTMLで、対象を視覚的に説明するスキルです。 私たちがAIに仕事をどんどん任せている一方で、コーディングではソースコード本体を読む機会が減り、より上位レイヤーの構造を...",
+      "published": "2026-10-06T09:24:13Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d64180dd9c9d301acaff55acdf5bbe30",
+      "title": "［半角/全角］キーなしで日本語・英語を打ち分ける無料日本語入力アプリ「Meltype」が登場／タイプすれば勝手によしなに変換されていく",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2146012.html",
+      "summary": "",
+      "published": "2026-10-06T07:11:44Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8daf113fad85998989bde60dc0d88c83",
+      "title": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261006de55037",
+      "summary": "不正アクセスで企業から大量の個人情報が漏えいする被害が相次いでいます。 セキュリティー会社ではことし7月以降、被害が増加していることから、サイバー攻撃にAIが悪用されている可能性が高いとして、対策を強…",
+      "published": "2026-10-06T08:38:54Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "203592a941b031c4cdb9a898292bbe81",
+      "title": "ゆうちょ銀、ファミマのATMを終了 27年1月から",
+      "link": "https://www.watch.impress.co.jp/docs/news/2145985.html",
+      "summary": "",
+      "published": "2026-10-06T08:25:11Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fbf5a336fa0998085916637d28f85fe",
+      "title": "相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2610/06/2000002060/",
+      "summary": "デジタル庁の古川俊治大臣は10月6日の記者会見で、相次ぐ不正アクセスによる個人情報の流出を受け、パスワードの管理など被害を防ぐための対策を国民に呼び掛けた。 古川大臣は、流出する情報は氏名や住所にとどまらず、IDやパスワード、クレジットカード情報、運転免許証などに及ぶ場合があり、なりすましや不正送金...",
+      "published": "2026-10-06T09:48:20Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "99589c78e610fb08e86b8c7eddea7ec5",
+      "title": "技術ブログの衰退、もしくはこれから",
+      "link": "https://zenn.dev/northward/scraps/4981c56d70dbaf",
+      "summary": "データをどのように集めているかなどの詳しい説明は以下の記事に書いています。ざっくり言えば、 2026年に投稿された約52,000件の記事のデータを収集しています。 投稿時刻、ユーザーが押したLikeの数(=非ログインLikeを含まないLikeの数)や所属Publicationの情報などを集め、このス...",
+      "published": "2026-10-06T10:00:35Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0774819fbccbb52a94b7051c59574787",
+      "title": "ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現",
+      "link": "https://gigazine.net/news/20261006-tavus-griffin/",
+      "summary": "AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 Griffin:...",
+      "published": "2026-10-06T13:10:15Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fc3499866d408eb087fea921709d939",
+      "title": "川崎重工、ロボット企業へトランスフォーム 全事業にフィジカルAI - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC040EZ0U6A001C2000000/",
+      "summary": "川崎重工業がロボット事業に集中投資する。今後4年間で5500億円を投じ、船舶や航空機などすべての製造現場にフィジカルAI（人工知能）を投入する。主力事業の生産性を高めるとともに外販で稼ぐ「ロボ総合重工」へのトランスフォームを進める。羽田空港を望む同社のロボット開発拠点で6日、中長期経営戦略に関する説...",
+      "published": "2026-10-06T10:40:00Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5e7aeeb445e6cbd67b775c9ed46b2f3",
+      "title": "AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある",
+      "link": "https://gigazine.net/news/20261006-ai-swarm-chasing-group/",
+      "summary": "試験中のAIが外部の機関に不正アクセスを行うという事例が相次いでいます。こうしたAIは大抵、外部へのアクセスを遮断されている中で、独自のルートを見いだして不正な手段でアクセスを試みます。こうしたAIの痕跡を見つけ出すコミュニティが、いくつか発達しつつあります。 The Sleuths Who Exp...",
+      "published": "2026-10-06T11:12:50Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f09f9b1b5596e9180f9c8d4e181ef8b",
+      "title": "技術ブログはゆるやかに衰退している",
+      "link": "https://zenn.dev/northward/articles/decline-of-tech-blogs",
+      "summary": "7月以前と8月のデータを比べて施策の効果を見る Publicationに紐づいた記事とそうでない記事に分け、Like数の偏りの変化や0Likeの記事の割合の変化を見ていきます。 特に、アルゴリズムの導入が完全に完了したあとの8月とそれ以前を比較してデータを見ます。 ジニ係数の推移 0Likeの記事の...",
+      "published": "2026-10-06T09:13:48Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4554cd58fc63e9113cfe908373e711e4",
+      "title": "VRChat における若年層ユーザーのバーチャルセックスの実態",
+      "link": "https://www.jstage.jst.go.jp/article/digrajproc/15/0/15_139/_article/-char/ja",
+      "summary": "現実世界の日本社会では、若者の性的関心・行動の減少が指摘される一方で、メタバースの一種であるソーシャルVR、その中でも若年層がユーザーの大半を占めるVRChat では、バーチャルセックスが一つの文化として根付きつつあるという言説が広がっている。本発表では、VRChat の日本人コミュニティへのWeb...",
+      "published": "2026-10-06T05:06:13Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f12b991d6ecd59787157d35c3fa4cbb",
+      "title": "待ち時間短縮！GPT-6 AstraとGPT-6.1 Solが約50%高速化",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2145903.html",
+      "summary": "",
+      "published": "2026-10-06T08:41:13Z",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0135e142dae8043247f7f971630c426d",
+      "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries. · GitHub",
+      "link": "https://github.com/morluto/rea",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 morluto / rea ⭐ 6,898 (+2,963) 🗒 TypeScript Reverse engineer anything with agents, from app behavior down to nativ...",
+      "published": "06 Oct 2026 15:18 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03031fdab20d394854377f6962e171ff",
+      "title": "最近の私の学習方法について #devio2026 大阪で話しました",
+      "link": "https://dev.classmethod.jp/articles/how-to-learn-devio-osaka-2026/",
+      "summary": "アイキャッチ画像結構気に入ってます",
+      "published": "Tue, 06 Oct 2026 10:08:26 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "48620b17c5dd6c146dc997e07b32b724",
+      "title": "ホテル・旅館の予約から到着までの顧客体験を向上させるLINE公式アカウントとLINEミニアプリの活用方法",
+      "link": "https://dev.classmethod.jp/articles/hotel-line-oficial-account-and-line-miniapp-advance-checkin/",
+      "summary": "ホテル・旅館のフロント混雑解消とDXを実現しつつ、LINE公式アカウントとLINEミニアプリを活用し予約後の事前チェックインから宿泊者名簿入力、旅前に合わせた観光・オプション案内までを自動化。旅館業法に準拠した実装方法や仕組みを徹底解説します",
+      "published": "Tue, 06 Oct 2026 10:01:45 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "383f4f9cf34fc7d6a02f5484e7ecebd3",
+      "title": "SGのルール削除をしても通信が切れない！Connection Trackingを検証してみた",
+      "link": "https://dev.classmethod.jp/articles/202610-mitsuguchi-connectiontracking-kensho/",
+      "summary": "AWS環境でセキュリティグループのルール削除後も既存接続が残ってしまう現象に遭遇しました。その原因であるConnection Trackingの仕組みを検証し、インシデント対応時に確実に通信を遮断する方法をお伝えします。",
+      "published": "Tue, 06 Oct 2026 09:46:22 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4a842f8fcc528e50dfbd5e6a9dca346",
+      "title": "cfコマンドを使ってViteで作成したReactアプリをCloudflare Workersにデプロイする",
+      "link": "https://dev.classmethod.jp/articles/deploy-vite-react-to-cloudflare-workers-with-cf/",
+      "summary": "Cloudflare Workersの新しいcfコマンドが登場したので、Viteで作成したReactアプリをデプロイしてみました。ベータ版ツールの使い方から実際のデプロイまで、全ステップを紹介します。",
+      "published": "Tue, 06 Oct 2026 09:28:55 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fc9e26e5d8cfbdd70edbce7d95540e7",
+      "title": "DGX Spark 上でリアルタイムに文字起こしや翻訳、話者分離する議事録用 Chrome 拡張機能を作る",
+      "link": "https://dev.classmethod.jp/articles/reona-shoki-realtime-transcription/",
+      "summary": "クラウドに音声を出さず、手元の DGX Spark と Chrome 拡張機能で会議の文字起こしと議事録作成を実現する Chrome 拡張機能を作りました。",
+      "published": "Tue, 06 Oct 2026 08:47:54 GMT",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "45c35363c69499d1564cec2627c2112a",
+      "title": "Watch what Herbie Hancock had to say about technology in 1984",
+      "link": "https://cdm.link/watch-what-herbie-hancock-had-to-say-about-technology-in-1984/",
+      "summary": "It's time to dig into the archives. I'd seen this before, but it hits differently now. Herbie Hancock jams out in the studio with Quincy Jones in a 19...",
+      "published": "Tue, 06 Oct 2026 07:48:15 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "b3b1d44cb6385ef03f42321720648cd3",
+      "title": "The LARYNX – a new feature-packed hard synth from AnalogFX – is available now",
+      "link": "https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/",
+      "summary": "Its initial production run is limited to just 50 units. The post The LARYNX – a new feature-packed hard synth from AnalogFX – is available now appeare...",
+      "published": "Tue, 06 Oct 2026 15:21:47 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "0821545faf3abad5976c1bc2b239d29f",
+      "title": "Fancy a free Minimoog Model D emulation plugin? Idle Foundry’s CA-72 has got you covered",
+      "link": "https://musictech.com/news/gear/minimoog-model-d-plugin-model-ca-72-free/",
+      "summary": "CA-72 is available to download for free from GitHub and comes loaded with 24 presets to get the ball rolling. The post Fancy a free Minimoog Model D e...",
+      "published": "Tue, 06 Oct 2026 15:00:45 +0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "964d184d50556fa3ed2cd84e6b0b8707",
+      "title": "IVM Trio, “Explain Yourselves”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review",
+      "summary": "Post-club music through the looking glass. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 06 Oct 2026 13:58:05 -0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "9337783b6335ea6d40c739daf234fc44",
+      "title": "M. Geddes Gengras Is Still Figuring It Out",
+      "link": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide",
+      "summary": "For the synth wizard, the journey is as important as the destination. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 06 Oct 2026 13:57:49 -0000",
+      "fetched_at": "2026-10-06T16:24:41.699040+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-06T08:22:38.456022+00:00"
+  "updated_at": "2026-10-06T16:24:41.699040+00:00"
 }

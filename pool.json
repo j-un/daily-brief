@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "0aeccbdb5d2989c580034baee8c477af",
-      "title": "Amazon CloudWatch Logs Insights now lets you estimate bytes scanned before running a query",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-logs-estimate-bytes-scanned/",
-      "summary": "Amazon CloudWatch Logs Insights now lets you estimate the volume of log data, in bytes, that a query would scan over your selected log groups and time...",
-      "published": "Tue, 29 Sep 2026 08:00:00 GMT",
-      "fetched_at": "2026-10-06T22:04:40.587157+00:00",
-      "feed_name": "AWS Recent Announcements",
-      "category": "main"
-    },
-    {
       "entry_id": "76a49aa83efe15d1f6b42a7019150e7c",
       "title": "KestraとAmazon EKSのキャパシティプランニング - JVMに思いを馳せながら - エムスリーテックブログ",
       "link": "https://www.m3tech.blog/entry/2026/09/28/170000",
@@ -89,7 +79,347 @@
       "fetched_at": "2026-10-07T23:56:45.303369+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "06abc6434eea6108914f956cc0feaf92",
+      "title": "How to use Muse's Tailscale integration to control access to your network.",
+      "link": "https://tailscale.com/blog/meta-muse-ai-agent-tailscale",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Your agent, your network: How Meta’s Muse agent works with Tailscale",
+      "published": "08 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "743c7b399356fb855661f8f346712c9b",
+      "title": "Designing Neki for performance — PlanetScale",
+      "link": "https://planetscale.com/blog/designing-neki-for-performance",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Designing Neki for performance — PlanetScale",
+      "published": "08 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0cde21c5d914435d03bf5ea68e002c4",
+      "title": "Q2 2026 Drive Stats: Hard Drive Failure Rates",
+      "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Q2 2026 Drive Stats: Hard Drive Failure Rates",
+      "published": "08 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c35ef9ad42bf29869084bbd73a47e77",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Personalization without user identity | by Wei Jiang | The Airbnb Tech Blog | Sep, 2026 | Medium",
+      "published": "08 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2c72aed97662be2ca93edd7acee7fbd",
+      "title": "オブザーバビリティのAIエージェントをどう評価するか",
+      "link": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 オブザーバビリティのAIエージェントをどう評価するか",
+      "published": "08 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dec5e4e05e5f938fe7be268a81a927a5",
+      "title": "gocredits v1をリリースしました | おそらくはそれさえも平凡な日々",
+      "link": "https://songmu.jp/riji/entry/2026-09-27-gocredits-v1.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 gocredits v1をリリースしました | おそらくはそれさえも平凡な日々",
+      "published": "07 Oct 2026 08:56 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89a3fcb5a4585702d99b9484205b1020",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "link": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+      "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 121 # Comment...",
+      "published": "Wed, 07 Oct 2026 18:43:18 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c746ecb8b9ead12c873a37dd744cae8",
+      "title": "Why were Victorian elites so effective?",
+      "link": "https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/",
+      "summary": "Article URL: https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/ Comments URL: https://news.ycombinator.com/item?id=49993...",
+      "published": "Wed, 07 Oct 2026 15:09:33 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc5bd5f9e360c32d0508803a7cf725cf",
+      "title": "SynthID Detector",
+      "link": "https://synthid.com/",
+      "summary": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news.ycombinator.com/item?id=49993188 Points: 102 # Comments: 89",
+      "published": "Wed, 07 Oct 2026 14:16:44 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9170f3519cacb3d745abc9d2e1ae531e",
+      "title": "Timestream for InfluxDB 3 のワークロード分析とベストプラクティス",
+      "link": "https://aws.amazon.com/jp/blogs/news/timestream-for-influxdb-3-workload-analysis-and-best-practices/",
+      "summary": "本記事は、Timestream for InfluxDB 3 workload analysis and be […]",
+      "published": "Thu, 08 Oct 2026 03:12:19 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3732e6c4fca8a0702c6f5001118f9f2e",
+      "title": "AWS ウィークリーまとめ：OpenAI を搭載した Amazon Bedrock マネージドエージェント、Q3 のサービス可用性アップデート、Kiro ワークフローなど（2026 年 10 月 5 日）",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/",
+      "summary": "2026 年 9 月 28 日週、OpenAI を搭載した Amazon Bedrock マネージドエージェン […]",
+      "published": "Thu, 08 Oct 2026 01:56:49 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f614b58b1510ba25fa38c19b97380ce",
+      "title": "AWS Continuum が自律型コードセキュリティの新たな基準を確立: CyberGym-E2E で成功率 89.0% を達成",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-continuum-sets-a-new-standard-in-autonomous-code-security/",
+      "summary": "AI モデルの進化により脆弱性への迅速な対応が求められるなか、AWS Continuum for code vulnerabilities は、マシンスピードで動作する自律型セキュリティによって脆弱性の発見、検証、修復を加速します。脆弱性ライフサイクル全体を評価する CyberGym-E2E ベンチ...",
+      "published": "Thu, 08 Oct 2026 01:36:38 +0000",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "16ed91e989049ad81f4ef05690e9ccd2",
+      "title": "直近で相次いでいる国内組織における不正アクセスに関する注意喚起",
+      "link": "https://www.jpcert.or.jp/at/2026/at260030.html",
+      "summary": "JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握...",
+      "published": "2026-10-08T02:17:29Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f35d7d745406ff0bf774f3050f81936",
+      "title": "PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が日本語フォント、UIの日本語化に対応",
+      "link": "https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html",
+      "summary": "10/5に紹介した、PhotoshopやIllustratorをオープンソースで再構築した「Crafting Apps」が早くも日本語フォント、UIの日本語化に対応した模様。 下記の画像はCrafting AppsのPhotoCraftで、PSDを作成し、レイヤーを作成し、日本語フォントを使用したも...",
+      "published": "2026-10-08T00:48:05Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba2b0c91bf188b580ecd56f8433d269b",
+      "title": "トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 - エルミタージュ秋葉原",
+      "link": "https://www.gdm.or.jp/pressrelease/2026/1007/655190",
+      "summary": "トラックボールの“玉”をフッ素コーティング。約5秒で乾くエレコム「M-TAFD01」 2026.10.07 13:43 更新 2026.10.07 配信 フッ素コーティングで摩擦を軽減、汚れの付着や水濡れも抑制 エレコム株式会社（本社：大阪府大阪市）は2026年10月7日、トラックボール用ボールメン...",
+      "published": "2026-10-07T09:44:28Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7baa8c6244b61b513f06b11745f7125e",
+      "title": "何もできないC言語が好き。『猫でもわかるプログラミング』を30年運営する医師に迫る - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_941/",
+      "summary": "医師／「粂井ネット」代表 粂井 康孝（くめい・やすたか） 1955年生まれ。1980年に旭川医科大学を卒業後、内科医に。現在は社会医療法人アンリー・デュナン会 深川第一病院の副院長を務め、糖尿病専門医として診療にあたる。本業の傍ら、1996年にプログラミング初学者向け学習サイト「猫でもわかるプログラ...",
+      "published": "2026-10-08T01:14:18Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afe948395468860124af131e51ee00ca",
+      "title": "「Windows」アプリの「リモート PC」接続が一般提供に、RDC接続もこのアプリにお任せ／職場または学校のアカウントは不要",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2146580.html",
+      "summary": "",
+      "published": "2026-10-07T23:39:51Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d58ad9cc77e01ff41844fc870840062",
+      "title": "【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか - Qiita",
+      "link": "https://qiita.com/shinkai_/items/4c6c12324e115a125621",
+      "summary": "このほか、Gyazoでユーザー関連データ約2,362万件、ムラウチドットコムで771万6,811件の個人情報の持ち出しが確認されたと報じられています。 ただしGyazoの件数は、メールアドレス未登録の匿名ユーザーも含みます。 件数を単純に足しても意味がないので、数字は規模感の目安として見るのがよさそ...",
+      "published": "2026-10-08T00:13:18Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74fa9d812267084c277fef869973cb0a",
+      "title": "文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった - Qiita",
+      "link": "https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080",
+      "summary": "はじめに 社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。 要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。 速かった理由は、AI の実装力ではありません。要件定義の順序を変えたことです。文章...",
+      "published": "2026-10-05T10:03:47Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cc9103858d7fba4b9f2932c927ae3a1",
+      "title": "衛星はもっと低くなる スターリンクと中国が競う「超低軌道」通信 日本にも先行技術",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2144938.html",
+      "summary": "",
+      "published": "2026-10-08T01:03:38Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e30ebf2e6b3994ff92f187d9e0fd93a",
+      "title": "「IDCFクラウド」障害で止まった「MTクラウド版」、「Googleクラウド」のバックアップで「さくらのクラウド」に移行へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002120/",
+      "summary": "IDCフロンティアの「IDCFクラウド」の一部サーバがランサムウェア攻撃で停止している問題で、シックス・アパートが提供するCMS「Movable Type（MT） クラウド版」でも10月7日未明、「IDCFクラウドプラン」のサーバ31台が止まった。 シックス・アパートによると「IDCFクラウド上で復...",
+      "published": "2026-10-08T02:52:59Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fb293017bc2e8249f5571dabfc9bc16",
+      "title": "How abliterated models can get you pwned | ProjectDiscovery Research",
+      "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+      "summary": "← ResearchHow abliterated models can get you pwnedOct 6, 2026 · Prince Chaddha Any open model whose weights have been edited can carry a backdoor, whe...",
+      "published": "2026-10-07T04:46:56Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e64152752b4a50f2e572ae4a2d52488",
+      "title": "「IDCFクラウド」障害の原因はランサムウェア攻撃、ニッスイ、茨城県など495の企業や自治体に影響",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2146594.html",
+      "summary": "",
+      "published": "2026-10-08T00:56:56Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "84ae72242721562ef6b44689057457a1",
+      "title": "APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方 - 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2026/10/07/235338",
+      "summary": "こんにちは。レッドハットコンサルティングチームの木嶋です。 最近ニュースでは、情報漏洩事件が日々話題になっていますね。 AIの高度化に伴い、攻撃側によるAIの活用についても報告されるようになりました。 話題に上がる事件の中には、APIが攻撃経路の一つとなったと考えられるケースも含まれています。 この...",
+      "published": "2026-10-07T22:54:27Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cb916720880e660aa62265ddebd4c8d",
+      "title": "止まらない不正アクセス、背景にAIの“超高速攻撃”か 識者「使われていない方が不自然」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002101/",
+      "summary": "不正アクセス被害の発表が止まらない。運転免許証の画像が漏えいし、物議を醸すタイムズカーシェアを筆頭に、1000万件超の情報が漏えいした焼肉きんぐ、ポイントが不正換金につながったGMO子会社など、さまざまな企業とそのサービスで被害が明らかになっており、その影響は甚大だ。 一連の攻撃を巡っては、自律的に...",
+      "published": "2026-10-08T03:04:58Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c93d9ae73cf4b4bf58b5b745aa44359",
+      "title": "tensorlake ソフトウェアサプライチェーン攻撃の概要と対策指針 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/tensorlake_compromise",
+      "summary": "2026年10月8日、npm パッケージ tensorlake に悪性コードが注入されました。 注入された悪性コードは、Infostealer機能を持つマルウェアです。preinstall フック経由で実行され、AWS・GitHub・Kubernetes・Vault などの認証情報を盗み出して送出す...",
+      "published": "2026-10-08T03:50:36Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1613e21488c0f7b7b2093411ff6aa512",
+      "title": "ニッスイ子会社で入出荷停止 IDCFクラウド影響か 委託先データセンターに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002113/",
+      "summary": "報道によると日水物流は、IDCフロンティアのサービスを利用しているという。同社は同日、クラウドサービス「IDCFクラウド」の東日本リージョン1がランサムウェア攻撃を受け、同サービスを契約する495の企業や自治体に影響が出ていると発表した。 ニッスイグループが管理する個人情報や顧客データの外部への流出...",
+      "published": "2026-10-08T00:04:51Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7df69856e0b9143996ecb6c7cf596da7",
+      "title": "プレス発表 令和8年度前期試験の申込受付におけるアクセス集中による障害発生について | プレスリリース | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/pressrelease/2026/press20261008.html",
+      "summary": "10月6日（火曜日）に発生した情報処理技術者試験・情報処理安全確保支援士試験の令和8年度前期試験の申込受付でのアクセス集中によるシステム負荷の影響によって、一部の受験申込みにおいて正しい処理が行われていないことが判明いたしました。 お申込みされた皆様には、多大なご迷惑とご心配をおかけしておりますこと...",
+      "published": "2026-10-08T00:15:57Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e80c6044d83270e06861c9cabf04e55c",
+      "title": "玄関前に異変、まさかクマ！？ ネットワークカメラを設置しました。そこに映っていたのは……【奥川浩彦の「岐阜の山奥に移住しました」第15回】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/ijuu/2145481.html",
+      "summary": "",
+      "published": "2026-10-07T22:18:17Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b5c027698980b3b8a1f6b3913acb7d2",
+      "title": "Rails8.2に入る機能で気になったもの - おもしろwebサービス開発日記",
+      "link": "https://blog.willnet.in/entry/2026/10/07/152734",
+      "summary": "今日(2026/10/07)時点でまだRails8.2はリリースされていませんが、今日開催のGinza.rb 第99回 でRails8.2特集をするので、これまでにRails8.2用に入った変更をまとめました。 これまでは節ごとにリンクが付与されるのが便利でgistに書いていたのですが、どうやら最近...",
+      "published": "2026-10-07T07:19:36Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e084a8165f13e8b630e47eae89bf0e83",
+      "title": "必要なToolだけをAgentに渡すことで46.9%のトークン消費を抑える方法",
+      "link": "https://zenn.dev/knowledgesense/articles/f053192a51613f",
+      "summary": "導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、コーディングAgentを提供するCursorが実運用で取り入れている、Agentのトークン消費を抑えるための工夫について紹介します。 サマリー 開発の場面でAgentの利用は進んでいますが、LLMを繰り返し使う都合上、利用にはお金がか...",
+      "published": "2026-10-06T04:28:56Z",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eba1d95ea749573595aaf3445120358",
+      "title": "[アップデート] AWS Continuum のペネトレーションテストが CI/CD パイプライン統合に対応したので GitHub Actions で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-continuum-penetration-testing/",
+      "summary": "CI/CD統合できるようになった。料金的に頻繁に呼び出せるものではないが...",
+      "published": "Thu, 08 Oct 2026 02:47:24 GMT",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f34f31634644ee33ae024e96bca03769",
+      "title": "AWS Health Dashboard の Actionability が「アクションが必要です」から変わらない場合の対処法",
+      "link": "https://dev.classmethod.jp/articles/tsnote-health-dashboard-actionability-action-required-not-changing/",
+      "summary": "AWS Health Dashboard の「Actionability」が「アクションが必要です」から変わらない理由と、正しい対応状況の確認方法について解説します。",
+      "published": "Thu, 08 Oct 2026 01:42:27 GMT",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d662ae7c00707e815bf755274f885e0",
+      "title": "ACM の ACME 証明書発行が PrivateLink に対応したので、IGW も NAT Gateway もない VPC で試してみた",
+      "link": "https://dev.classmethod.jp/articles/acm-acme-privatelink-closed-network/",
+      "summary": "AWS Certificate Manager（ACM）の ACME 証明書発行が AWS PrivateLink に対応しました。IGW も NAT Gateway もない VPC の EC2 から certbot で証明書を発行し、Nginx で HTTPS を提供できました。別 VPC からの...",
+      "published": "Thu, 08 Oct 2026 00:16:44 GMT",
+      "fetched_at": "2026-10-08T04:20:41.834067+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-07T23:56:45.303369+00:00"
+  "updated_at": "2026-10-08T04:20:41.834067+00:00"
 }

@@ -1279,7 +1279,107 @@
       "fetched_at": "2026-10-08T19:35:05.848572+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "efcafabf934524d17f768d48c37b16ec",
+      "title": "Theranos.world",
+      "link": "https://www.theranos.world/",
+      "summary": "Article URL: https://www.theranos.world/ Comments URL: https://news.ycombinator.com/item?id=50009295 Points: 140 # Comments: 75",
+      "published": "Thu, 08 Oct 2026 17:51:49 +0000",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaeff1db6f3decacc28e65bc81ff8c47",
+      "title": "Orkut.com",
+      "link": "https://orkut.com/",
+      "summary": "Article URL: https://orkut.com/ Comments URL: https://news.ycombinator.com/item?id=50006012 Points: 114 # Comments: 76",
+      "published": "Thu, 08 Oct 2026 14:09:53 +0000",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3628e06215300f622bdd45a558e5072c",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "link": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 207 # Comments...",
+      "published": "Thu, 08 Oct 2026 00:14:48 +0000",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "251c9d110754bdadacb5d27425b28205",
+      "title": "Amazon EC2 C8gb instances now generally available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/",
+      "summary": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances, powered by the latest-generation AWS Graviton4 processors, are available in ...",
+      "published": "Wed, 07 Oct 2026 18:26:00 GMT",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c226788850ff098629c0cf3477603d9e",
+      "title": "Amazon Quick adds Hierarchy Filter for guided dashboard drill-down",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter",
+      "summary": "Amazon Quick now supports the hierarchy filter, a single control that lets readers drill through related dimensions such as Region, Country, and City....",
+      "published": "Wed, 30 Sep 2026 15:00:00 GMT",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "28c60812604c9904f0bcc1fa3669038d",
+      "title": "IDCフロンティアへのランサム攻撃、495の企業・自治体に影響",
+      "link": "https://xtech.nikkei.com/atcl/nxt/news/24/03418/",
+      "summary": "ソフトバンク子会社のIDCフロンティアは2026年10月7日、クラウドサービス「IDCFクラウド」が第三者によるランサムウエア攻撃を受け、495の契約先企業・自治体に影響が出ていると明らかにした。 障害は同日午前3時40分ごろに東日本リージョン1で発生。同社はその後、第三者からのランサムウエア攻撃に...",
+      "published": "2026-10-08T13:03:04Z",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51bb43d96b509fc25229718ec1c0a6a5",
+      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "summary": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表 さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える...",
+      "published": "2026-10-08T14:42:37Z",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e4c4d09a3abe2e6635027a8bec7f55f",
+      "title": "ChatGPTで「音声ファイルの文字起こし」ができるように | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2610-chatgpt-audio-transcription-update/",
+      "summary": "ファイルサイズの上限は512MB。対応フォーマットは、以下の通りです。 WAVMP3/MPEGOGG/OGA音声のみのWebMPCMFLACAACM4A音声のみのMP4 iPhone版・Mac版アプリで実際に文字起こしできました。 精度はかなりいいと思います。以下はある本の一節を読み上げた音声を文字...",
+      "published": "2026-10-08T02:01:58Z",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e68fcbfc7d1b6307bf74dbf494745bad",
+      "title": "MicrosoftとNVIDIA、パソコンのAI利用「プロ仕様」 Appleと競う - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN080KM0Y6A001C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトは7日、米エヌビディアの高性能半導体を搭載したパソコンを発表した。クラウドを介さず端末側で基盤モデルを実行でき、パソコンの人工知能（AI）利用を変える。プロ仕様の上位機種で米アップルとの頂上決戦に挑む。マイクロソフトが米サンフランシスコ市で発表会を開き新...",
+      "published": "2026-10-08T07:44:05Z",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7de7ad4ccfe4155506d15b43ea198e3",
+      "title": "モス、ライスバーガーの“具だけ”発売 焼肉・豚生姜焼き",
+      "link": "https://www.watch.impress.co.jp/docs/news/2146718.html",
+      "summary": "",
+      "published": "2026-10-08T07:13:17Z",
+      "fetched_at": "2026-10-08T21:50:42.818803+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-08T19:35:05.848572+00:00"
+  "updated_at": "2026-10-08T21:50:42.818803+00:00"
 }

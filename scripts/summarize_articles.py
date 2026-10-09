@@ -50,6 +50,71 @@ def extract_json(text: str) -> dict:
     return json.loads(text)
 
 
+def salvage_summaries(text: str) -> list[dict]:
+    """閉じ括弧まで届かなかった出力から、完結した summary オブジェクトだけを拾う。"""
+    decoder = json.JSONDecoder()
+    found: list[dict] = []
+    idx = 0
+    while True:
+        start = text.find("{", idx)
+        if start < 0:
+            break
+        try:
+            obj, end = decoder.raw_decode(text, start)
+        except json.JSONDecodeError:
+            idx = start + 1
+            continue
+        if (
+            isinstance(obj, dict)
+            and "id" in obj
+            and isinstance(obj.get("summary_jp"), str)
+        ):
+            found.append(obj)
+        idx = end
+    return found
+
+
+def parse_summaries(text: str) -> list[dict]:
+    try:
+        data = extract_json(text)
+        summaries = data["summaries"]
+        if not isinstance(summaries, list):
+            raise TypeError("summaries is not a list")
+        return summaries
+    except (json.JSONDecodeError, KeyError, TypeError) as exc:
+        salvaged = salvage_summaries(text)
+        if not salvaged:
+            raise exc
+        print(
+            f"WARNING: 要約JSONが不完全なため、完結した {len(salvaged)} 件だけを採用します。",
+            file=sys.stderr,
+        )
+        return salvaged
+
+
+def usable_summary(value: object) -> str | None:
+    if not isinstance(value, str) or not value.strip() or "\ufffd" in value:
+        return None
+    return value
+
+
+def take_summary(item: dict, idx: int) -> str | None:
+    value = item.get("summary_jp")
+    if isinstance(value, str) and "\ufffd" in value:
+        print(
+            f"WARNING: id={idx} の要約に文字化けがあるため再取得します。",
+            file=sys.stderr,
+        )
+        return None
+    return usable_summary(value)
+
+
+def _raw_preview(text: str) -> str:
+    if len(text) <= 500:
+        return text
+    return f"{text[:240]} ... {text[-240:]}"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="LLM で選定済み記事を要約し summaries.json を生成"
@@ -123,11 +188,10 @@ def main() -> None:
     )
 
     try:
-        result_json = extract_json(result_text)
-        summaries_list = result_json["summaries"]
+        summaries_list = parse_summaries(result_text)
     except Exception as e:
         print(f"ERROR: JSON parse failed: {e}", file=sys.stderr)
-        print(f"Raw output: {result_text[:500]}", file=sys.stderr)
+        print(f"Raw output: {_raw_preview(result_text)}", file=sys.stderr)
         sys.exit(1)
 
     errors = []
@@ -142,8 +206,9 @@ def main() -> None:
             errors.append(f"id out of range in summaries: {idx}")
             continue
         eid = idx_to_eid[idx]
-        if s.get("summary_jp", "").strip():
-            summaries[eid] = s["summary_jp"]
+        text = take_summary(s, idx)
+        if text:
+            summaries[eid] = text
     if errors:
         for e in errors:
             print(f"ERROR: {e}", file=sys.stderr)
@@ -174,6 +239,7 @@ def main() -> None:
                 + json.dumps(retry_payload, ensure_ascii=False, separators=(",", ":"))
                 + f"\n\n上記 {len(retry_payload)} 件すべてに対して summary_jp を返すこと。"
             )
+            retry_text = None
             try:
                 retry_text, retry_usage, retry_cost = llm_cli.call_llm(retry_prompt, role="summarize")
                 print(
@@ -185,17 +251,22 @@ def main() -> None:
                     ),
                     file=sys.stderr,
                 )
-                retry_list = extract_json(retry_text)["summaries"]
+                retry_list = parse_summaries(retry_text)
             except Exception as e:
                 print(f"ERROR: リトライ {attempt} 失敗: {e}", file=sys.stderr)
-                break
+                if retry_text:
+                    print(f"Raw output: {_raw_preview(retry_text)}", file=sys.stderr)
+                continue
             for s in retry_list:
                 try:
                     ridx = int(s["id"])
                 except (TypeError, ValueError, KeyError):
                     continue
-                if ridx in retry_idx_to_eid and s.get("summary_jp", "").strip():
-                    summaries[retry_idx_to_eid[ridx]] = s["summary_jp"]
+                if ridx not in retry_idx_to_eid:
+                    continue
+                text = take_summary(s, ridx)
+                if text:
+                    summaries[retry_idx_to_eid[ridx]] = text
             missing = sent_eids - summaries.keys()
             if not missing:
                 break

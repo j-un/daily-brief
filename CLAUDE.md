@@ -33,7 +33,7 @@ render_brief.py → docs/brief-YYYY-MM-DD.md # Markdown 描画（LLM 不使用�
 | LLM | 選定 | 要約 |
 | --- | --- | --- |
 | Claude | Sonnet | Haiku |
-| Cursor | cursor-grok-4.7-high | composer-2.5 |
+| Cursor | grok-4.7-high | composer-2.5 |
 
 モデル上書き: `DAILY_BRIEF_SELECT_MODEL` / `DAILY_BRIEF_SUMMARIZE_MODEL`
 

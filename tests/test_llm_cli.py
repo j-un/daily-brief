@@ -123,7 +123,7 @@ class TestCallLlm:
         assert "--output-format" in argv
         assert "json" in argv
         assert "--force" not in argv
-        assert argv[argv.index("--model") + 1] == "cursor-grok-4.7-high"
+        assert argv[argv.index("--model") + 1] == "grok-4.7-high"
 
     def test_cursor_summarize_uses_composer_model(self, monkeypatch):
         monkeypatch.delenv("DAILY_BRIEF_SUMMARIZE_MODEL", raising=False)

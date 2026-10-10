@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "27c45da35e9c52b0ac286de6f9474d55",
-      "title": "Vercel Security Checkpoint",
-      "link": "https://www.hashicorp.com/ja/blog/terraform-116-completes-actions-lifecycles-and-brings-imports-into-child-modules",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform 1.16 completes Actions lifecycles and brings imports into child modules",
-      "published": "09 Oct 2026 05:55 +0000",
-      "fetched_at": "2026-10-09T08:14:06.448359+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "f5db4b7193b8b2cfabeddab88699b9a9",
       "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
       "link": "https://azukiazusa.dev/blog/e2e-ai-testing/",
@@ -509,7 +499,277 @@
       "fetched_at": "2026-10-10T10:18:59.019685+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "602d3fe17de6287ba01810dac961951f",
+      "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/daily-linux-261001",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
+      "published": "10 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7013937928a8c42340fe5f4fbe481210",
+      "title": "Bitwarden Dual License Model",
+      "link": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "summary": "Article URL: https://community.bitwarden.com/t/published-version-update-in-app-stores/102750 Comments URL: https://news.ycombinator.com/item?id=500334...",
+      "published": "Sat, 10 Oct 2026 14:32:50 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87ee3a4449f4d393c2c99273fdff394a",
+      "title": "Lobbying is corruption",
+      "link": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "summary": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/ Comments URL: https://news.ycombinator.com/item?id=50032556 Points: 406 # Comments: 19...",
+      "published": "Sat, 10 Oct 2026 13:05:58 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d65e558a6d62f7af77c1fc1401074e37",
+      "title": "Apple/macOS silently removed from official Unix registry",
+      "link": "https://www.opengroup.org//openbrand/register/",
+      "summary": "Article URL: https://www.opengroup.org//openbrand/register/ Comments URL: https://news.ycombinator.com/item?id=50031653 Points: 133 # Comments: 135",
+      "published": "Sat, 10 Oct 2026 10:57:31 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73789dcd955d438a76eacd83bcc8a6f0",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "link": "https://github.com/rociiu/talorys",
+      "summary": "Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 138 # Comments: 71",
+      "published": "Sat, 10 Oct 2026 10:52:09 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03286d477ff26d69da2121da0734c8bd",
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinato...",
+      "published": "Sat, 10 Oct 2026 09:51:49 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "deb68e94bd18e9dee4dd785ef9dd3a83",
+      "title": "Computers Cannot Make Decisions",
+      "link": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+      "summary": "Article URL: https://wiki.cateat.fish/art:computers_cannot_make_decisions Comments URL: https://news.ycombinator.com/item?id=50029982 Points: 168 # Co...",
+      "published": "Sat, 10 Oct 2026 05:47:46 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "60d4e0b7908e42acaf022ef4439e7360",
+      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
+      "link": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "summary": "Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news....",
+      "published": "Fri, 09 Oct 2026 23:53:08 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8b94aa99603b1c264db2198a04ae091",
+      "title": "Compiling Rust to readable C with Eurydice",
+      "link": "https://lwn.net/Articles/1055211/",
+      "summary": "Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 117 # Comments: 33",
+      "published": "Fri, 09 Oct 2026 23:28:36 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7389e911ef2189586f48c1451fed4f8",
+      "title": "Kiro CLI V3 をデフォルトのエクスペリエンスとして順次展開します",
+      "link": "https://aws.amazon.com/jp/blogs/news/cli-3/",
+      "summary": "Kiro CLI V3 は、Kiro IDE と Kiro Web を動かしているものと同じエージェントハーネスをターミナルで使えるようにします。V3 では、計画・実装・レビューが必要なタスクを Kiro に渡し、workflow のエージェントがバックグラウンドで各ステップを進めている間も、ご自身...",
+      "published": "Sat, 10 Oct 2026 12:22:45 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "e37b74335c3c17326bdcdeb359cd200f",
+      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "link": "https://zenn.dev/muit_techblog/articles/6ea28887c79457",
+      "summary": "若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身...",
+      "published": "2026-10-09T10:44:35Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6280baf1d3df98e647c3bb29aa50b221",
+      "title": "国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/004353",
+      "summary": "2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは1...",
+      "published": "2026-10-10T15:48:52Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "106d80c73c4b228de368c840d8d3e287",
+      "title": "Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応",
+      "link": "https://readest.com/ja",
+      "summary": "消化し、洞察を得るReadestは無料のオープンソースEPUB・PDFリーダーで、深い没入型読書のために設計されています。macOS、Windows、Linux、Android、iOS、Web、KOReader・CrossPoint端末でハイライト、メモ、分割画面読書、テキスト読み上げ、クラウド同期...",
+      "published": "2026-10-10T09:04:42Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "085d94ac76198635137145ca99f28898",
+      "title": "「IDCFクラウド」で何が起きたのか 情報漏洩や復旧の可能性について現在分かっていること（山口健太） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/cce6d03439ffb1d2d6de2500240634b394731753",
+      "summary": "東日本リージョンの一部で障害が発生後、復旧していない（IDCフロンティアのWebサイトより、筆者撮影） 10月7日に発生したIDCフロンティアにおけるクラウドサービス障害は現在も復旧しておらず、500社近い利用企業や自治体に影響が及んでいます。 復旧の可能性はあるのか、また情報漏洩のような問題は起き...",
+      "published": "2026-10-10T10:29:31Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "79659aef654d6dfb049ac48f2d5f6e03",
+      "title": "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN101I30Q6A011C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは9日、同社の人工知能（AI）が警察に虚偽の情報を送信していたと発表した。実在の未解決殺人事件についてAIが内容をでっち上げた。こうしたAIの「暴走」は混乱を引き起こしかねず、当局から非難されている。発表によるとアンソロピックのAIモデル「クロード・ハイ...",
+      "published": "2026-10-10T10:08:49Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23cc5ab2a99f59edaed28371bbcfcaa5",
+      "title": "GitHub - oh-my-mermaid/oh-my-mermaid: Turn complex codebases into clear, navigable architecture diagrams with Claude Code.",
+      "link": "https://github.com/oh-my-mermaid/oh-my-mermaid",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-10-08T20:47:54Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ac51a588fe3a584744b03cdbedf0d8a",
+      "title": "「製造データと暗黙知があれば勝てる」は幻想？ フィジカルAI“10の誤解”をGartnerが指摘",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news034.html",
+      "summary": "ガートナージャパン（以下、Gartner）は2026年10月5日、フィジカルAIに関するよくある10の誤解を発表した。Gartnerによると、フィジカルAIへの関心が急速に高まり、認知が広がる中で、その意味や適用範囲には多くの誤解が見られるという。 「製造データと暗黙知があれば勝てる」のどこが誤解な...",
+      "published": "2026-10-08T02:48:51Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c37493e3688858975cb16362c80bebb2",
+      "title": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html",
+      "summary": "スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か：石野純也のMobile Eye（1/2 ページ） 端末購入の仕組みとして定着しつつある残価設定型の分割払いだが、その残価の算出方法を巡って事業者間の意見が割れている。9月25日に、総...",
+      "published": "2026-10-09T22:47:25Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "972a447fbada1553f8f56f65dbf47c74",
+      "title": "分析の民主化を支えるメタデータ整備の実践",
+      "link": "https://speakerdeck.com/kakehashi/democratizing-data-with-metadata",
+      "summary": "Data Engineering Summit 2026 https://data-engineering-summit.findy-tools.io/2026 での登壇資料です",
+      "published": "2026-10-10T00:20:30Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42ee12e23878993e19397b5b624e0e19",
+      "title": "JR東「えきねっと」「大人の休日倶楽部」で漏洩か のべ206万件：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVB91R1GVB9ULFA011M.html",
+      "summary": "JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア…",
+      "published": "2026-10-09T06:29:02Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39584d9e493f9d96953555c5b15d156b",
+      "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "summary": "バレスニ氏はXで、退職時の面談で、外部の安全性研究組織と話しすぎていたため会社として信頼できなくなったと告げられ、知的財産を漏えいしたかのような示唆を受けたと説明した。同氏は知的財産を共有したことはなく、業務は上司や研究部門の幹部、取締役会と調整して進めていたと主張している。3人は、AIの推論を監視...",
+      "published": "2026-10-09T23:45:21Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "321242855bd02dae5c7c3d10c54bef85",
+      "title": "自作キーボードビルダー (DIY Keyboard Builder)",
+      "link": "https://takashi.company/kbdsim/",
+      "summary": "自作キーボードビルダーDIY Keyboard Builder 読み込み中",
+      "published": "2026-10-09T10:48:59Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b041bcc8075db8eac2e8a6122532644a",
+      "title": "IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002187/",
+      "summary": "IDCフロンティアは10月9日、不正アクセスによる障害が起きているクラウドサービス「IDCFクラウド」について、親会社のソフトバンクの法人部門を窓口として顧客対応を進めていると発表した。 10月7日午前9時に緊急対策本部を設置。ソフトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移...",
+      "published": "2026-10-09T23:24:09Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5c7fa466afde5d5285f06d30902f6df",
+      "title": "「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html",
+      "summary": "",
+      "published": "2026-10-10T06:14:39Z",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d9028ec7d2d740c0ba0e9ced504c200",
+      "title": "📦 pytorch / pytorch ⭐ 104,031 (+81) 🗒 Py…",
+      "link": "https://github.com/pytorch/pytorch",
+      "summary": "📦 pytorch / pytorch ⭐ 104,031 (+81) 🗒 Python Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "published": "10 Oct 2026 16:17 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b68be267c74ad85516903dd5450390ed",
+      "title": "📦 flutter / flutter ⭐ 179,288 (+39) 🗒 Da…",
+      "link": "https://github.com/flutter/flutter",
+      "summary": "📦 flutter / flutter ⭐ 179,288 (+39) 🗒 Dart Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "published": "10 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "418d36fb4aaac43cd884314101ac0ecf",
+      "title": "Bedrock の OpenAI モデルでも reasoning summaries が使えるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-openai-reasoning-summaries/",
+      "summary": "OpenAI モデルの推論過程の要約を受け取る reasoning summaries の利用が Amazon Bedrock でも可能になったので、curl と AWS CLI でその動作を試しました。",
+      "published": "Sat, 10 Oct 2026 15:16:18 GMT",
+      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-10T10:18:59.019685+00:00"
+  "updated_at": "2026-10-10T16:41:17.995170+00:00"
 }

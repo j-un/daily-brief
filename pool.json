@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "f5db4b7193b8b2cfabeddab88699b9a9",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://azukiazusa.dev/blog/e2e-ai-testing/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 自然言語で操作し、結果を検証するテストフレームワーク e2e",
-      "published": "09 Oct 2026 23:55 +0000",
-      "fetched_at": "2026-10-09T23:59:04.824794+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "12fcd2b7b25e1e379eb1c9c9ca5524f6",
-      "title": "原因不明のメモリ高騰を追う！GCEの「見掛け上のメモリ増加」解明による50%コスト削減 [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "link": "https://engineering.dena.com/blog/2026/10/gce-e2-memory-rightsizing/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 原因不明のメモリ高騰を追う！GCEの「見掛け上のメモリ増加」解明による50%コスト削減 [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "published": "10 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-10T03:37:09.427941+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "602d3fe17de6287ba01810dac961951f",
       "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/10/daily-linux-261001",
@@ -89,7 +69,447 @@
       "fetched_at": "2026-10-11T00:35:43.655438+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "3b6629fef45cd3354ee2279b2899d98d",
+      "title": "AIエージェントを対象としたtopコマンド。トークン使用量やAIエージェントのプ…",
+      "link": "https://github.com/graykode/abtop",
+      "summary": "AIエージェントを対象としたtopコマンド。トークン使用量やAIエージェントのプロセス、使用しているポートなどを把握と。Rust実装",
+      "published": "11 Oct 2026 04:36 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d4179cafeb36d3aae8257fb50a85091",
+      "title": "Just a moment...",
+      "link": "https://kawarimidoll.com/posts/202610051/",
+      "summary": "「対話プロンプトを使わずにhunkや行範囲でのステージやコミット分割ができるgit-surgeon」ほう",
+      "published": "11 Oct 2026 04:33 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed1ae6824e98f40e00e5418ef9120683",
+      "title": "Agent Mode in the DuckDB CLI – DuckDB",
+      "link": "https://duckdb.org/2026/10/09/agent-mode",
+      "summary": "AIエージェントからDuckDBが使いやすくなったと。わいわい",
+      "published": "11 Oct 2026 04:02 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "31874e5e4c1c20e9b6ef8b4c0f442f33",
+      "title": "Let’s Encryptが2027年2月から証明書の有効期間を64日間に短縮 - GIGAZINE",
+      "link": "https://gigazine.net/news/20261009-lets-encrypt-cuts-certificate-lifetimes-64-days/",
+      "summary": "2027年2月10日から。まぁ従来が90日間なので影響はさほどないと思いますが、更新スケジュールの調整が必要ないかだけご確認ください。",
+      "published": "11 Oct 2026 03:17 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bbbe242e5d3a0e11f87f6ca9de009a7",
+      "title": "中古のRyzen 7 5800X3Dが原因でVALORANTからBAN。前の所有者がチーターだったため。これが本当なら中古で買うの怖すぎるんだが…… | ニッチなPCゲーマーの環境構築Z",
+      "link": "https://www.nichepcgamer.com/archives/post-132766.html",
+      "summary": "記事に書いていることが本当ならブラックリストに登録されるのはCPUだけでなくマザーボード、ストレージも該当と読めるな。だとするとGPUもか。",
+      "published": "11 Oct 2026 03:07 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fd1b1e17b79b21f1ee4add0db2a5273",
+      "title": "Merkle Tree Certificatesによるポスト量子認証局の構築 | Cloudflare ブログ",
+      "link": "https://blog.cloudflare.com/ja-jp/pq-ca-with-mtcs/",
+      "summary": "今後サイズが大きいポスト量子暗号の証明書が登場することを考えればMerkle Tree Certificatesが主力になると思われる。",
+      "published": "11 Oct 2026 02:29 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "35f5bc488dc4a85e5148992c0f4b1891",
+      "title": "データ指向アプリケーションデザイン 第2版 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp//books/9784814401802/",
+      "summary": "2026年11月5日発売",
+      "published": "11 Oct 2026 02:16 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "069104df52a97be67806de8157a8a221",
+      "title": "AI×統計データ分析超入門 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15965-8",
+      "summary": "R+Antigravity。「AIコーディングを活用することで面倒なコード作成から解放され、データ分析に専念したいすべての人のための1冊」2026年10月26日発売",
+      "published": "11 Oct 2026 02:12 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68ed6618cfc2ac7124cb7c15c291a76c",
+      "title": "オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ",
+      "link": "https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
+      "summary": "おー面白い。確かに先行事例として参考になりそう。トラブルシューティング力は維持しておこうな。",
+      "published": "11 Oct 2026 01:59 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4a54258af1d1bb066f5a6372cf4b805",
+      "title": "x86-64向けのRaspberry Pi Desktopが2026年10月5日…",
+      "link": "https://www.raspberrypi.com/news/raspberry-pi-desktop-now-available-for-pc-and-mac/",
+      "summary": "x86-64向けのRaspberry Pi Desktopが2026年10月5日リリース。普通のDebian/Ubuntuよりも軽量になるように調整されていて、Raspberry Piとの連携もしやすくなっていると。古のノートPCなどを復活させる選択肢としてアリだな。",
+      "published": "11 Oct 2026 01:37 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8a89f8780004079507dec191d8f3743",
+      "title": "Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan",
+      "link": "https://linuc.org/textbooks/network/",
+      "summary": "2026年10月1日リリース。無料。",
+      "published": "11 Oct 2026 01:22 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bae3f9c35caf9a156abf11917cde9d28",
+      "title": "MySQLからバイナリログを受け取りParquetファイルを定期的に生成するツー…",
+      "link": "https://github.com/dbtrail/dbtrail",
+      "summary": "MySQLからバイナリログを受け取りParquetファイルを定期的に生成するツール。Go実装。S3への出力も可能。生成されたParquetファイルはDuckDBなどでクエリーすればok。",
+      "published": "11 Oct 2026 00:50 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65f659968a56f12fc453a1a2f3425826",
+      "title": "AI×アーキテクト | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+      "summary": "「特定のツールの使い方を教える本ではありません。何をAIに委ね、何を決して手放さないのか。その線を自分の言葉で引けるようになるための、AI時代のアーキテクトの教科書」2026年10月27日発売",
+      "published": "10 Oct 2026 23:49 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2731a38db5c1b1eb0e9882eb113ca301",
+      "title": "ALL for AI | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15947-4",
+      "summary": "「プロダクトマネージャーの新しい武器［生成AI］の使い方」2026年10月23日発売",
+      "published": "10 Oct 2026 23:48 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bda229fbc14f536b6efe5785536b2f78",
+      "title": "Rust実装でマルチプラットフォーム対応のアプリランチャー。macOSではSwi…",
+      "link": "https://github.com/kunkka19xx/look",
+      "summary": "Rust実装でマルチプラットフォーム対応のアプリランチャー。macOSではSwiftUI、WindowsとLinuxではTauriを使用。",
+      "published": "10 Oct 2026 23:45 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da19896a170ca137ade8edfca4f91ea3",
+      "title": "AIインフラの最新動向 2026",
+      "link": "https://dancing-valkyrie-6e0e9d.netlify.app/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIインフラの最新動向 2026",
+      "published": "11 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b528544a3f8df999b23519936c756b50",
+      "title": "理解をどこまで手放すかは、リスク許容度と仕組みで決まる - カレーの恩返し",
+      "link": "https://euglena1215.hatenablog.jp/entry/2026/09/27/113320",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 理解をどこまで手放すかは、リスク許容度と仕組みで決まる",
+      "published": "11 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "238301c6ad3488be092482920c155df6",
+      "title": "Architecting Agentic Engineering Platforms - Google Slides",
+      "link": "https://docs.google.com/presentation/d/1mi5b58f3lLvSdLQvmM__FX-_TSD9yMBhpK8xWKtGIqY/edit?slide=id.h144b1699510ca52_12_12#slide=id.h144b1699510ca52_12_12",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Architecting Agentic Engineering Platforms",
+      "published": "11 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89fd032da38c59b22088731e8d2c3c56",
+      "title": "空想世界をつくる社会の教科書 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15937-5",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 空想世界をつくる社会の教科書 | 技術評論社",
+      "published": "11 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b0c428a39cf65b8c9e7037fa2b3b95e",
+      "title": "【改訂新版】作って理解するOS x86系コンピュータを動かす理論と実装 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15921-4",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【改訂新版】作って理解するOS x86系コンピュータを動かす理論と実装 | 技術評論社",
+      "published": "11 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f64ff60ec791bd3a26cd67397ed86b3e",
+      "title": "Show HN: WallHop – 12ft.io is gone, so I built a replacement",
+      "link": "https://wallhop.io/",
+      "summary": "Hi HN, I'm Josh. WallHop is a free paywall bypass: paste an article URL (or prefix any URL with wallhop.io/) and you get the readable article without ...",
+      "published": "Sun, 11 Oct 2026 00:46:48 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0c967eeba62fb7cad02f6c5bd8ce640",
+      "title": "Build your own decision model",
+      "link": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 253 # Comments: ...",
+      "published": "Sat, 10 Oct 2026 22:50:10 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "399078d34fe07364cc84dfcec670570b",
+      "title": "Takeshi's Castle",
+      "link": "https://en.wikipedia.org/wiki/Takeshi%27s_Castle",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Takeshi%27s_Castle Comments URL: https://news.ycombinator.com/item?id=50036119 Points: 108 # Comments: 37",
+      "published": "Sat, 10 Oct 2026 19:12:55 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "023067b8df4da15d97f03b742c216ca7",
+      "title": "Unikernels were hard. key word: were",
+      "link": "https://ghuntley.com/unikernels/",
+      "summary": "Article URL: https://ghuntley.com/unikernels/ Comments URL: https://news.ycombinator.com/item?id=50033357 Points: 147 # Comments: 64",
+      "published": "Sat, 10 Oct 2026 14:27:09 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03286d477ff26d69da2121da0734c8bd",
+      "title": "`123456' password used in Danish CPR data breach",
+      "link": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "summary": "Article URL: https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/ Comments URL: https://news.ycombinato...",
+      "published": "Sat, 10 Oct 2026 09:51:49 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4553acb05e939aa97a86272818627a90",
+      "title": "Food processing influences metabolism and brain activity",
+      "link": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "summary": "Article URL: https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html Comments URL: https://news.ycombinator.com/item?id=50029830 Po...",
+      "published": "Sat, 10 Oct 2026 05:22:30 +0000",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c98fbf824c4d9317e1906b5d78cf63bf",
+      "title": "「男は狩り、女は採集」はどこまで本当？ 約8割で女性も狩り、乳児連れの例も 過去100年の狩猟採集社会を調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002038/",
+      "summary": "人類の狩猟採集生活における性別分業は、一般的に男性が狩猟者、女性が採集者という役割分担として認識されてきた。 しかし、これまでには、ペルーで発見された約9000年前の女性の遺骨のそばに大型動物を狩るための道具が置かれていたり、スウェーデンで発掘されたヴァイキングの戦士の骨が実は女性だったりと、過去の...",
+      "published": "2026-10-10T05:13:38Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9164ba5605023561f7d0cad7430d12e2",
+      "title": "Yandexのデータセンター障害についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/011521",
+      "summary": "2026年10月8日、ロシアIT大手が運営するYandex Cloudはru-central1-bで電源が途絶し、サービスが利用できない状態になっていると告知しました。その後、Yandexはデータセンターがドローン攻撃を受けて火災が起き、稼働が完全に停止したと公表しています。ここでは関連する情報をま...",
+      "published": "2026-10-10T21:06:31Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d2d3c8261a0141e0f3ea8674a1de93e",
+      "title": "CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能",
+      "link": "https://gigazine.net/news/20261011-hayamimi/",
+      "summary": "「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0...",
+      "published": "2026-10-11T04:33:54Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "448b245187a46164a2c02a1348e72f6d",
+      "title": "子育てエンジニアの可処分時間が減っても成長を諦めない戦い方",
+      "link": "https://speakerdeck.com/sudoakiy/kosodate-enjinia-no-kashobun-jikan-ga-he-temo-seichou-o-akiramenai-tatakaikata",
+      "summary": "2026.10.10（Sat）「子育てエンジニアリングMeetup #1 」 登壇資料 すどう @sudoakiy",
+      "published": "2026-10-10T10:53:55Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "666c6975f8744bcdc533eb8ab717ec62",
+      "title": "AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/11/012014",
+      "summary": "2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の...",
+      "published": "2026-10-10T21:06:39Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "555d52259fbed5b375fb767ad59feff4",
+      "title": "AIと共生する開発者プラットフォーム：バクラクのモノレポ×マイクロサービス基盤",
+      "link": "https://speakerdeck.com/sakajunquality/sre-next-2026-bakuraku-sakajunquality",
+      "summary": "AIと共生する開発者プラットフォーム：バクラクのモノレポ×マイクロサービス基盤 SRE NEXT2026 https://sre-next.dev/2026/schedule/#slot076",
+      "published": "2026-07-13T03:24:05Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0135e142dae8043247f7f971630c426d",
+      "title": "GitHub - morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "link": "https://github.com/morluto/rea",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-10-06T03:09:33Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4a52e6cd27528dfff519ad7c8a11f60",
+      "title": "音声合成の日本語化手法が一般化した話",
+      "link": "https://zenn.dev/mkj/articles/0576d194771c08",
+      "summary": "入社エントリーに記載しましたが、この記事ではAI日本語音声合成について解説していきます。音声合成について、知識が無くても読めるようにしています。テックブログという事もあり、フランクに書いています。 はじめに 日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して以降、大きく品質を上げまし...",
+      "published": "2025-12-09T00:55:28Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f73fde8085d5b8a085a223c813e0099a",
+      "title": "【今すぐ読みたい！人気記事】SSD換装+OS丸ごとデータ移行を無料ソフト「Clonezilla」でやろう - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/topic/readitnow/2147255.html",
+      "summary": "",
+      "published": "2026-10-10T01:00:38Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca3aeba57ec3bc951626c913d2eaa668",
+      "title": "d先生BANは残当だけどさ",
+      "link": "https://anond.hatelabo.jp/20261010225331",
+      "summary": "セルクマで新着埋めるとかほぼ荒らしだったしな っても、今AIが同じことしてるけど対応してくれるんスか？ 連投NGならAIも消えるだろうから嬉しいけどさ、AI呼び込んだの運営だしやらないでしょ",
+      "published": "2026-10-10T14:04:39Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "745e884bccce51600551ec9374153535",
+      "title": "Windows版CodexがMXCに対応、セットアップを高速化 ——ChatGPTの全プランでオートレビューを無料化、Pro向けにメッセージ予測機能をベータ提供 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/windows-codex-mxc",
+      "summary": "Windows版CodexがMXCに対応⁠⁠、セットアップを高速化 —⁠—ChatGPTの全プランでオートレビューを無料化⁠⁠、Pro向けにメッセージ予測機能をベータ提供 OpenAIは2026年10月9日、公式XアカウントのOpenAI Developersで、Windows上のCodex向けに、...",
+      "published": "2026-10-10T10:56:00Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a4b8f86bcacfaf3ab5870a2953148ce",
+      "title": "個人情報保護法を改悪強行した高市政権「自分の情報は自分で守れ」の支離滅裂｜日刊ゲンダイDIGITAL",
+      "link": "https://www.nikkan-gendai.com/articles/view/news/394097",
+      "summary": "不正アクセスによる個人情報漏洩が止まらない。9日もJR東日本が、会員のメールアドレスなど約206万件が漏洩した可能性があると発表。中古品販売を手掛けるブックオフグループホールディングスは最大約643万件、航空券予約サイト「スカイチケット」の運営会社も約1464万件の会員情報が流出した可能性があると公...",
+      "published": "2026-10-10T07:23:49Z",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ace7bf90f94acb86fc3842165ec8f0a9",
+      "title": "AmphetamineでClaudeの実行中だけMacをスリープさせないようにする",
+      "link": "https://dev.classmethod.jp/articles/amphetamine-keep-mac-awake-for-claude/",
+      "summary": "Claude使用時にMacを閉じても処理が停止しないようにするため、Amphetamineというアプリのトリガー機能を使った設定方法をまとめます。",
+      "published": "Sun, 11 Oct 2026 07:36:38 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2959f1fc4c5d8d2494c5a3ba96c8425e",
+      "title": "【SwiftUI】 Xcode 27 でアラートが Bool なしで出せるようになった",
+      "link": "https://dev.classmethod.jp/articles/swiftui-alert-binding-xcode27/",
+      "summary": "Xcode 27で追加されたSwiftUIの新しい`alert`APIを試してみました。Optional の Binding を渡すだけで表示でき、表示フラグの`Bool`が不要になる便利な機能です。従来の書き方との違いと実装のポイントをまとめます。",
+      "published": "Sun, 11 Oct 2026 06:54:41 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8eaf55ae0ca21ec69621c9bc80ee6b67",
+      "title": "pnpm 12.9.1でWebContainers版を@pnpm/wasmへ分離、本体は約4MBへ戻った",
+      "link": "https://dev.classmethod.jp/articles/pnpm-12-9-1-webcontainer-wasm-split/",
+      "summary": "pnpm 12.9.0でWebContainer向けWebAssembly版が同梱され、本体の展開サイズは約55MBに増えました。12.9.1で@pnpm/wasmへ分離され約4MBに戻ったことをtarballで実測し、@pnpm/wasmのlatestタグの注意点もまとめます。",
+      "published": "Sun, 11 Oct 2026 05:17:01 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1155d95b0dbf1c93e00eb7c4dddbfcb",
+      "title": "Cloudflare Workersのサイズ上限が全プラン一律・非圧縮64 MBになった件をwranglerで確認する",
+      "link": "https://dev.classmethod.jp/articles/cloudflare-workers-64mib-size-limit/",
+      "summary": "Cloudflare Workersのサイズ上限が、圧縮後3MB/10MBから全プラン共通の非圧縮64MBに変わりました。Freeプランのアカウントで、圧縮後6MB超のWorkerがデプロイできること、64MB超はcode 10027で拒否されることを確かめました。",
+      "published": "Sun, 11 Oct 2026 04:29:13 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "118b2afa4291cb04e37ccd9391f4ba7c",
+      "title": "OpenAI の Decisions API に書類画像(日本語)を見せて、OCR 結果の誤りを見つけさせてみた",
+      "link": "https://dev.classmethod.jp/articles/openai-decisions-ocr-verification-ja/",
+      "summary": "OpenAI の Decisions API が日本語の書類検証で Clef とどう比較されるのか、実際に検証してみました。その結果と特徴をまとめます。",
+      "published": "Sun, 11 Oct 2026 01:44:12 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9211b431e61fb7c182f0cbcb19f34ba",
+      "title": "OpenAI の Decisions API に書類画像(英語)を見せて、OCR 結果の誤りを見つけさせてみた",
+      "link": "https://dev.classmethod.jp/articles/openai-decisions-ocr-verification/",
+      "summary": "VLM で書類から抽出した値の検証精度を確かめるため、OpenAI の Decisions API と Cloudflare の Clef を比較してみました。注入した36件の誤りをすべて検出できたものの、正しい値を誤りと判定する誤検知が5件発生。出力確率の特性や処理速度の違いについて、実測データを...",
+      "published": "Sun, 11 Oct 2026 01:27:09 GMT",
+      "fetched_at": "2026-10-11T08:04:06.726568+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-11T00:35:43.655438+00:00"
+  "updated_at": "2026-10-11T08:04:06.726568+00:00"
 }

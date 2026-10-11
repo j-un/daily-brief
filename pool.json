@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "602d3fe17de6287ba01810dac961951f",
-      "title": "vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/10/daily-linux-261001",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 vCPUを減らせばVMが速くなる！？ Linux 7.4でマージが期待される“Steal Governor” | gihyo.jp",
-      "published": "10 Oct 2026 10:55 +0000",
-      "fetched_at": "2026-10-10T16:41:17.995170+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "e93d6b0a70bdf07d15ef279148fcf564",
       "title": "free-threaded Pythonでasyncioイベントループを複数動かす ―速くなる処理、速くならない処理 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/09/monthly-python-2609",
@@ -939,7 +929,67 @@
       "fetched_at": "2026-10-11T16:04:29.694349+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "19d8a0519a6dae566ebf10d612bea562",
+      "title": "ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs",
+      "link": "https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/",
+      "summary": "シンジです。 ついさっき、うちのすかんくが「AI時代のゼロトラストがキツい件について」という記事を書きました。OpenAIとHugging Faceのインシデントを起点に、ゼロトラストの前提を疑い、デセプションと復旧全振りを検討し、最後は「答えは出ていませんし、出すつもりも正直無いです」と言い切って...",
+      "published": "2026-08-10T23:08:46Z",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5d5acb04d6936a9532fb1081637568a",
+      "title": "PHPカンファレンス関西2025 基調講演",
+      "link": "https://speakerdeck.com/sugimotokei/phpkanhuarensuguan-xi-2025-ji-diao-jiang-yan",
+      "summary": "ソフトウェア・デザインに向かおう ～ 世界を（ちょっとだけ）変えるソフトウェアを目指して ～ by 杉本啓",
+      "published": "2025-07-19T05:48:27Z",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "822cd43c0e7740e716d4fcfcf04ae7a8",
+      "title": "Zed 1.23.2でJSONL / NDJSONのログをテーブル表示する",
+      "link": "https://dev.classmethod.jp/articles/zed-1-23-jsonl-ndjson-table-preview/",
+      "summary": "Zed 1.23.2でテーブルデータプレビューがJSONL / NDJSONに対応しました。ログ風のJSONLを開き、列ごとのソートや値での絞り込み、キーが行ごとに異なる場合やネストしたオブジェクトの表示を実際に試した結果をまとめます。",
+      "published": "Sun, 11 Oct 2026 18:06:45 GMT",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "425bb04213f9c8ad435475ca87eca301",
+      "title": "Claude CodeにMCP経由で複数のAWSアカウントを参照させてみる",
+      "link": "https://dev.classmethod.jp/articles/claude-code-aws-mcp-multi-account/",
+      "summary": "Claude Codeに複数のAWSアカウントを参照させたいという思いから、AWS MCP Serverを使った設定方法をまとめました。 安全かつ効率的にマルチアカウント環境を参照させる方法を紹介します。",
+      "published": "Sun, 11 Oct 2026 17:03:36 GMT",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9700c443e0e9add71f531937db45d87",
+      "title": "CursorのSide Chatで本線の文脈を引き継げるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/cursor-side-chat-context/",
+      "summary": "CursorのSide Chatが本線の文脈を引き継げるか、3.22.7で実機検証しました。ダミーの合言葉で引き継ぎを確認し、分岐先の情報を@参照で本線へ戻す手順をスクリーンショット5枚で紹介します。参照時に会話記録の読み取りが発生した結果も記載しています。",
+      "published": "Sun, 11 Oct 2026 16:53:24 GMT",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dea96a0a0d7c1e630dbcefd11bc2227b",
+      "title": "AWS Control TowerのメンバーアカウントをTerraformとYAMLでいい感じに管理する（AFTなし）",
+      "link": "https://dev.classmethod.jp/articles/control-tower-member-account-terraform-yaml/",
+      "summary": "AFTを使わずにControl TowerのメンバーアカウントをYAMLでアカウントを定義し、Terraformで管理する方法を試してみました。 メンバーアカウントをTerraformで管理したいけどAFTはちょっと…という方におすすめです。",
+      "published": "Sun, 11 Oct 2026 16:17:42 GMT",
+      "fetched_at": "2026-10-11T21:18:05.169441+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-11T16:04:29.694349+00:00"
+  "updated_at": "2026-10-11T21:18:05.169441+00:00"
 }

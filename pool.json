@@ -29,7 +29,147 @@
       "fetched_at": "2026-10-11T16:04:29.694349+00:00",
       "feed_name": "@matsuu (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "992c39912e4db5a205b03f7f72baa413",
+      "title": "GitHub - NVIDIA/OpenShell: OpenShell is the safe, private runtime for autonomous AI agents. · GitHub",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "summary": "AIエージェントをsandbox環境で分離するNVIDIA製ツール。ネットワークレベルのアクセス許可も設定可。Linux, macOS, WSL2などで動作。Rust実装だが各言語用SDKが用意されておりプログラムで制御可。brew install openshellでok",
+      "published": "12 Oct 2026 00:00 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "56ae83d6f90f48476f04fb7799ca5683",
+      "title": "GitHub - Harry-kp/vortix: Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding. · GitHub",
+      "link": "https://github.com/Harry-kp/vortix",
+      "summary": "OpenVPNとWireGuardによるトンネルの状況を把握できるTUIツール。ログ確認や設定。トラフィックなど。Rust実装",
+      "published": "11 Oct 2026 23:53 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "89abf528ba879469a996d0215e008188",
+      "title": "GitHub - skyhook-io/radar: The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary. · GitHub",
+      "link": "https://github.com/skyhook-io/radar",
+      "summary": "kubernetesの状況をダッシュボード形式で確認できるツール。k8s上へのインストールは不要。kubeconfigを見に行くのでkubectlを実行できる環境であれば利用可能。Go実装。",
+      "published": "11 Oct 2026 23:46 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cf43b81a643358dbc9b628031700dfe",
+      "title": "GitHub - nklmilojevic/sofka: A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up. · GitHub",
+      "link": "https://github.com/nklmilojevic/sofka",
+      "summary": "k9sインスパイアなTUIベースのkubernetes管理ツール。ArgoCDとFlux CDの制御機能を標準搭載。async-firstなのが良さそう。Rust実装。",
+      "published": "11 Oct 2026 23:20 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ca780b368ec889b89d78ad352162370",
+      "title": "1. 定期観測レポート（1）ブロードバンドトラフィックレポート〜安定成長が続くトラフィックと水面下の変化〜 | Internet Infrastructure Review（IIR）Vol.71 | IIJの技術 | インターネットイニシアティブ(IIJ)",
+      "link": "https://www.iij.ad.jp/dev/report/iir/071/01.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 1. 定期観測レポート（1）ブロードバンドトラフィックレポート〜安定成長が続くトラフィックと水面下の変化〜 | Internet Infrastructure Review（IIR）Vol.71 | IIJの技術...",
+      "published": "11 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99c413b6e72c988829e469c0c579190c",
+      "title": "Passkeys are a trap. Do not use them",
+      "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Poin...",
+      "published": "Sun, 11 Oct 2026 21:59:48 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a2cf2ec558389aa9e2fc568fcebda1e",
+      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
+      "link": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+      "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https...",
+      "published": "Sun, 11 Oct 2026 21:07:20 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "555a2b729c079321162b8aff56bebc0b",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "link": "https://twitter.com/karpathy/status/2109361546505966046",
+      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 213 # Comment...",
+      "published": "Sun, 11 Oct 2026 20:20:52 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f71ae5c055fa6db93ff9e8c8576f05e",
+      "title": "Cartographers of North Korea (2019)",
+      "link": "https://cartographers-nk.wonyoung.so/",
+      "summary": "Article URL: https://cartographers-nk.wonyoung.so/ Comments URL: https://news.ycombinator.com/item?id=50047091 Points: 169 # Comments: 29",
+      "published": "Sun, 11 Oct 2026 19:46:40 +0000",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e94e27b7998080681c305d7e74632906",
+      "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
+      "summary": "",
+      "published": "2026-10-11T22:07:57Z",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cfe3474a83f8a2499eab7eaa06c4b99",
+      "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
+      "link": "https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
+      "summary": "はじめに 2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。 その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。 また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる...",
+      "published": "2026-10-10T18:04:33Z",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "314ab5f44c90a3191b93a34b1f25df3e",
+      "title": "やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5)",
+      "link": "https://ascii.jp/elem/000/004/440/4440915/",
+      "summary": "健康診断の結果を見るたびに、そろそろ本気で体を立て直したいと思う。そんな人は多いはずです。私もその一人で、これまでいくつものスマートウォッチを試してきましたが、結局手元に残るのはApple Watchでした。9月に発売された12世代目の「Apple Watch Series 12」は、見た目こそ前の...",
+      "published": "2026-10-11T09:09:58Z",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "842d46a6ceb745938dd89c0cbf4863b5",
+      "title": "CloudWatch Omni をマルチアカウントで使うと他アカウントのテレメトリはどこまで見えるのか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/verify-cloudwatch-omni-multi-account-telemetry/",
+      "summary": "CloudWatch Omni をマルチアカウント構成で実際に試してみたので、中央の監視スペースから3つのアカウントのテレメトリがどこまで確認できるのかを、画面と数値で整理してみました。",
+      "published": "Mon, 12 Oct 2026 00:35:40 GMT",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "22efb8723241c0c38921a7e05962ace2",
+      "title": "OpenAI の Decisions API で書類の値の突合を試し、Jev・Clef と比べてみた",
+      "link": "https://dev.classmethod.jp/articles/openai-decisions-cross-match/",
+      "summary": "請求書と発注書の照合のような書類の突合で起きる表記ゆれを、OpenAI の Decisions API で検出できるか検証してみました。Jev や Clef との比較結果から、精度・費用・対応言語のバランスを探ります。",
+      "published": "Sun, 11 Oct 2026 23:58:09 GMT",
+      "fetched_at": "2026-10-12T00:52:17.032318+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-11T22:28:29.677613+00:00"
+  "updated_at": "2026-10-12T00:52:17.032318+00:00"
 }

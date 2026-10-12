@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "570743d49844f601661ce1b4d3462405",
-      "title": "本家よりも6.6倍高速を謳うHomebrew代替実装。homebrewの各種fo…",
-      "link": "https://github.com/zerobrewhq/zerobrew",
-      "summary": "本家よりも6.6倍高速を謳うHomebrew代替実装。homebrewの各種formulaを利用可能。Rust実装",
-      "published": "11 Oct 2026 10:13 +0000",
-      "fetched_at": "2026-10-11T16:04:29.694349+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "992c39912e4db5a205b03f7f72baa413",
       "title": "GitHub - NVIDIA/OpenShell: OpenShell is the safe, private runtime for autonomous AI agents. · GitHub",
       "link": "https://github.com/NVIDIA/OpenShell",
@@ -1259,7 +1249,117 @@
       "fetched_at": "2026-10-12T19:31:47.084623+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "ca147b6eb8ef1d31cf25b1f2b3fa8a60",
+      "title": "OpenFatigue™ – Open is the new closed",
+      "link": "https://openfatigue.ai/",
+      "summary": "Article URL: https://openfatigue.ai/ Comments URL: https://news.ycombinator.com/item?id=50061278 Points: 178 # Comments: 39",
+      "published": "Mon, 12 Oct 2026 19:08:21 +0000",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba2807e2c81f01d4531b13e2d692c2a8",
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "link": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "summary": "https://gist.github.com/svieira/619d60dea942a8d4498cba3bb6b1... Comments URL: https://news.ycombinator.com/item?id=50060269 Points: 133 # Comments: 61",
+      "published": "Mon, 12 Oct 2026 18:00:25 +0000",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e608286da4832853d6bb9ec9bb3d990",
+      "title": "Feds got warrants to use fake cell towers to hunt down Don Lemon's producer",
+      "link": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
+      "summary": "Article URL: https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/ Comments URL: https://news.ycombi...",
+      "published": "Mon, 12 Oct 2026 17:08:16 +0000",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5887a69a5ac88ca79e888b1b6706ba9",
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "link": "https://taylor.town/kk-ai-2026",
+      "summary": "Article URL: https://taylor.town/kk-ai-2026 Comments URL: https://news.ycombinator.com/item?id=50057668 Points: 108 # Comments: 32",
+      "published": "Mon, 12 Oct 2026 15:16:45 +0000",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6193bee4630e7a34416a9d29483b1091",
+      "title": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing",
+      "summary": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore Amazon Bedrock AgentCore memory now prices short-term memory (S...",
+      "published": "Mon, 12 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffb838629b16d3417790cf1b0a17b2e7",
+      "title": "AWS Secrets Manager adds managed external secrets support for Databricks and Twilio",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/",
+      "summary": "AWS Secrets Manager now extends its managed external secrets capability to include Databricks and Twilio, enabling you to automatically rotate the cre...",
+      "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "435e73cce6dadc1cf0528f35d5c75b30",
+      "title": "AWS now lets customers sign up for AWS and pay invoices using ACH direct debit",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-sign-up-invoices-ach-direct-debit/",
+      "summary": "Starting today, AWS customers in the United States can use a US bank account to sign up for AWS and pay for their AWS services through ACH direct debi...",
+      "published": "Sun, 11 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaa21b05b5da858f7042b745229886f2",
+      "title": "ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2147419.html",
+      "summary": "",
+      "published": "2026-10-12T14:49:00Z",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b68be267c74ad85516903dd5450390ed",
+      "title": "GitHub - flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond · GitHub",
+      "link": "https://github.com/flutter/flutter",
+      "summary": "📦 flutter / flutter ⭐ 179,288 (+39) 🗒 Dart Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "published": "10 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ace7bf90f94acb86fc3842165ec8f0a9",
+      "title": "AmphetamineでClaudeの実行中だけMacをスリープさせないようにする",
+      "link": "https://dev.classmethod.jp/articles/amphetamine-keep-mac-awake-for-claude/",
+      "summary": "Claude使用時にMacを閉じても処理が停止しないようにするため、Amphetamineというアプリのトリガー機能を使った設定方法をまとめます。",
+      "published": "Sun, 11 Oct 2026 07:36:38 GMT",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ac371dff2c3c9c28f238e68b8638524",
+      "title": "[アップデート] Route 53 Global Resolver DNS Firewall に 分析タブが追加されたので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/route-53-dns-analytics-insights/",
+      "summary": "Resolver DNS Firewall 触る良い機会になった",
+      "published": "Sat, 10 Oct 2026 09:07:32 GMT",
+      "fetched_at": "2026-10-12T22:40:19.960287+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-12T19:31:47.084623+00:00"
+  "updated_at": "2026-10-12T22:40:19.960287+00:00"
 }

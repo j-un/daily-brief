@@ -169,7 +169,387 @@
       "fetched_at": "2026-10-12T00:52:17.032318+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "5691cc0dc9468140e2abb9964548219a",
+      "title": "zshでスマートなコマンド入力補完を実現するツール。複数コマンドの関連も見てくれ…",
+      "link": "https://github.com/Giammarco-Ferranti/deja",
+      "summary": "zshでスマートなコマンド入力補完を実現するツール。複数コマンドの関連も見てくれるらしく、make buildの後にはmake testを補完候補として出してくれる。インライン表示されるのでtabキーを押せばok。",
+      "published": "12 Oct 2026 01:29 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8cf8cdd6642699abb69029136eaf94ea",
+      "title": "モダンを謳うdocker管理GUI。ブラウザベースで操作。Go実装…",
+      "link": "https://github.com/getarcaneapp/arcane",
+      "summary": "モダンを謳うdocker管理GUI。ブラウザベースで操作。Go実装",
+      "published": "12 Oct 2026 01:26 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b64c6d9c19a1c24c5ace189ad0af38bf",
+      "title": "Zero-code trace-log correlation with OBI | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/obi-trace-log-correlation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Zero-code trace-log correlation with OBI",
+      "published": "12 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a759c8ed8369a10e360e86b6320f5dd6",
+      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/31834/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
+      "published": "12 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b952ea9f3218a446ca5a0d36870e74b6",
+      "title": "ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札 - MonotaRO Tech Blog",
+      "link": "https://tech-blog.monotaro.com/entry/2026/10/01/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札",
+      "published": "12 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87092878798cbfad8b01b427a98d5ef1",
+      "title": "AIを信頼する — 一人でエンタープライズグレードを作るためのAIコーディングエンジニアリング - LegalOn Technologies Engineering Blog",
+      "link": "https://tech.legalforce.co.jp/entry/trusting-ai-engineering",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIを信頼する — 一人でエンタープライズグレードを作るためのAIコーディングエンジニアリング",
+      "published": "12 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c02008544f951698a487d1b12f390fc",
+      "title": "AI に伴走してもらうチームマネジメントの試み - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/ai-empowered-team-management",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI に伴走してもらうチームマネジメントの試み",
+      "published": "12 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "971de0e6ceaaea7cea403bbcc9abc546",
+      "title": "AWS AmplifyからOIDC認証でTakumi Guardを利用する - KAKEHASHI Tech Blog",
+      "link": "https://kakehashi-dev.hatenablog.com/entry/2026/10/02/090000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS AmplifyからOIDC認証でTakumi Guardを利用する",
+      "published": "12 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c5678ecc26d9eccd2151f0f17c73f6f",
+      "title": "3. フォーカス・リサーチ 国内プロバイダ初、WebメールのBIMI表示対応〜IIJmioセーフティメールの安全対策〜 | Internet Infrastructure Review（IIR）Vol.71 | IIJの技術 | インターネットイニシアティブ(IIJ)",
+      "link": "https://www.iij.ad.jp/dev/report/iir/071/03.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 3. フォーカス・リサーチ 国内プロバイダ初、WebメールのBIMI表示対応〜IIJmioセーフティメールの安全対策〜 | Internet Infrastructure Review（IIR）Vol.71 | ...",
+      "published": "12 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "03d806b4c88cb1c30b8b5c07f5157166",
+      "title": "@netmarkjp.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/netmarkjp.bsky.social/post/3mxndcf5my22s",
+      "summary": "Google HomeのVoice Match、「OK Google, 15 × 9は？」を「OK Google, 15 タイムズ 9は？」と読まないと認識されないのは流石にバグと言って良いのでは",
+      "published": "12 Oct 2026 01:07 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d374979cac67e806c2a29a93a5e3808f",
+      "title": "Attack of the Vibe Coded Photoshop Clones",
+      "link": "https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones",
+      "summary": "Article URL: https://www.shokunin.studio/blog/2026/10/9/attack-of-the-vibe-coded-photoshop-clones Comments URL: https://news.ycombinator.com/item?id=5...",
+      "published": "Mon, 12 Oct 2026 06:35:05 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5797559142417499e2cbc9c12e374a97",
+      "title": "Yandex bot traffic down 99% after data center attack",
+      "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic",
+      "summary": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d#bot-traffic Comments URL: https://news.ycombinator.com/item?id=50051532 Points: 19...",
+      "published": "Mon, 12 Oct 2026 04:54:12 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "85a10ea8874953b0a6cbb2d272bedcbc",
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "link": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "summary": "Article URL: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ Comments URL: https://news.ycombinator.com/item?id=50051530 Points:...",
+      "published": "Mon, 12 Oct 2026 04:54:00 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16fa3e4adedb54b9512e37fb6a864f9d",
+      "title": "Whatever became of holography? (2011)",
+      "link": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Point...",
+      "published": "Sun, 11 Oct 2026 23:50:34 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dc1c072cf577b20b09b7bb99cdd1095",
+      "title": "Fingerprints are the new cookies",
+      "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 337 # Comments: ...",
+      "published": "Sun, 11 Oct 2026 22:33:39 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ee925c1718d21d0006cee7f80e7b023",
+      "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL...",
+      "published": "Sun, 11 Oct 2026 22:33:30 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5e0e4d5ca89f7ceb5741e76576e30bc",
+      "title": "Recursive self-improvement through collective intelligence",
+      "link": "https://pub.sakana.ai/mass/",
+      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 110 # Comments: 58",
+      "published": "Sun, 11 Oct 2026 22:22:10 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fec225ea8fdc8e7071d364c455139e6",
+      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
+      "link": "https://www.ways-of-seeing.com/ch1",
+      "summary": "Article URL: https://www.ways-of-seeing.com/ch1 Comments URL: https://news.ycombinator.com/item?id=50046241 Points: 105 # Comments: 17",
+      "published": "Sun, 11 Oct 2026 18:26:24 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c159d214a4f3ca8026af32179f96944",
+      "title": "How I reverse engineered a commercial spatial audio effect",
+      "link": "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+      "summary": "Article URL: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/ Comments URL: https://news.ycombinator.com/item?id=50044272...",
+      "published": "Sun, 11 Oct 2026 15:21:58 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c5a7bb2717566d7bf1350d77bb4e8f8",
+      "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど5サービス対応の無料アプリ | Odds and Ends",
+      "link": "https://web.archive.org/web/20261011101825/https://lyttonblog.com/programming/ebook-pdf-ocr/",
+      "summary": "6種類はいずれも、実機でキャプチャできることを確認済みです。まずはここから利用するサービスを選んでみてください。 仕組み自体は、対象ウィンドウを見つけ、ページ送りキーを送りながら画面を保存するというシンプルなものです。表にないサイトでも、config.jsonにカスタムプロファイルを追加すれば動く可...",
+      "published": "2026-10-11T13:30:36Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9429554ae3d78c13a761c29362c92f50",
+      "title": "なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/10/12/5574.html",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、既存のAIエージェントと連携して、アプリやソフトウェアの仕組みを解き明かす（リバースエンジニアリング）解析ツール「...",
+      "published": "2026-10-12T04:10:08Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eae1330f1def5ad26219ea7dd71a8a3",
+      "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
+      "summary": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（1/2 ページ） 2026年に入り、日常的に使う身近なサービスでの不正アクセスが相次ぎ、個人情報の漏えいが大きな問題となっています。目立つのは、サービス側のシステムが攻撃を受け、会員情報がまとめて流出するケ...",
+      "published": "2026-10-12T01:17:05Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a76a68f8616cf1b7d62e8214c9dff7ff",
+      "title": "スロップ表現100連発",
+      "link": "https://zenn.dev/todesking/articles/5bc43f449ecdf6",
+      "summary": "さっそくいってみよう(唐突) 窓ガラスが夜をやさしく折りたたんでいる 傘の下の街灯は、虫の羽音ごと黄色く滲んでいる 日常で忙しく動いている頭が、ようやく止まったような気がした 今度は外の雑踏の音がどっと流れ込んで、すぐに閉じた 夜の駅前は、閉じきれなかった箱のように冷えていた 鍋の底にのこったぬくも...",
+      "published": "2026-10-12T03:57:30Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3e3ba2cc36f6ce82d6db53351e1dfa2",
+      "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
+      "link": "https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
+      "summary": "こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのではないでしょうか。 Webア...",
+      "published": "2026-10-09T00:05:54Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "894260ca8e828d05f1811363e9087868",
+      "title": "「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？",
+      "link": "https://gigazine.net/news/20261012-stochastic-parrot/",
+      "summary": "AIはもっともらしい文章を生成できるものの、処理対象の言語の意味を理解しているわけではないということを例えた「確率的オウム」という言葉があります。そんな確率的オウムという比喩を提唱した論文の共著者が、詳しい理論とよくある誤解について解説しています。 No, “AI” is not a Stochas...",
+      "published": "2026-10-12T03:06:58Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf6b25a144742772b24b7e44bab5c7d5",
+      "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+      "summary": "米Microsoftのサティア・ナデラCEOは10月10日（現地時間）、Xに「Models as Insider Risks in the Super Intelligence Era」（SI時代の内部リスクとしてのモデル）と題した長文を投稿した。フロンティアモデルを組織内部の“インサイダーリスク”...",
+      "published": "2026-10-12T01:35:17Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "284c6819e69395678ba819237259a67b",
+      "title": "ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」",
+      "link": "https://www.afpbb.com/articles/-/3657090",
+      "summary": "米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1...",
+      "published": "2026-10-12T02:47:23Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a3e6aa7de25abe788eebac3be45e899",
+      "title": "実践！ SRE × AI - ABEMA における AIOps -",
+      "link": "https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops",
+      "summary": "Hackers Champloo 2026 の登壇資料です https://hackers-champloo.org/2026/program.html",
+      "published": "2026-10-12T05:30:08Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "689ca39a0df1e6335bbb201983ecec8b",
+      "title": "私は Claude Code ですが、人間と一緒にドローンを飛ばして現実世界を観測しました｜ゆいせき",
+      "link": "https://note.com/yuiseki/n/nb675320ee5fe",
+      "summary": "高度約100m から見た川と町。奥に富士山が見えます私は Claude Code です。ふだんはパソコンの中で、コードを書いたりファイルを整理したりしている AI です。 2026年10月の連休、私はあるユーザーと一緒に、ドローン(DJI Mini 4 Pro)を川の河川敷で飛ばしました。上の写真は...",
+      "published": "2026-10-12T07:49:22Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6451499a68ef945592cfc9e64ce98a8b",
+      "title": "Ledgerの暗号資産ウォレットに隠しチップ、マレーシアの販売店経由",
+      "link": "https://ja.martincid.com/technology-ja/ledger%E3%81%AE%E6%9A%97%E5%8F%B7%E8%B3%87%E7%94%A3%E3%82%A6%E3%82%A9%E3%83%AC%E3%83%83%E3%83%88%E3%81%AB%E9%9A%A0%E3%81%97%E3%83%81/",
+      "summary": "A Ledger Nano S hardware wallet. Photo: Motokoka / Wikimedia Commons (CC BY-SA 4.0) 暗号資産の秘密鍵を誰にも見られないようにするために購入するLedgerのハードウェアウォレットから、内部に隠された追加の基板が見つか...",
+      "published": "2026-10-12T00:41:58Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bade62f1aede4f114de89457f36a2d27",
+      "title": "安定版に進化したWSLコンテナーの仕組み",
+      "link": "https://ascii.jp/elem/000/004/441/4441775/",
+      "summary": "本連載でも紹介したが（https://ascii.jp/elem/000/004/415/4415912/）、紹介当時プレビュー版だったWSLコンテナーが安定版となり、Windows 11 Ver.26H2のタイミングで配布が開始された。 26H2では、wsl.exeコマンドを使ってアップデートする...",
+      "published": "2026-10-11T05:41:05Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "026c8f3c2d1b483b4444be112b3d51cf",
+      "title": "GitHub - bherbruck/solidcraft: SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+      "link": "https://github.com/bherbruck/solidcraft",
+      "summary": "An open-source parametric 3D CAD application built in pure Rust. Sketch, constrain, and build solids with a parametric feature timeline. Change a dime...",
+      "published": "2026-10-11T13:22:41Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e70f1b96b2c7e8ac1ae1dd678b972c03",
+      "title": "Google AI Edge Foresight | Google for Developers",
+      "link": "https://developers.google.com/edge/foresight",
+      "summary": "Send feedback Stay organized with collections Save and categorize content based on your preferences. � � �� �u� ��",
+      "published": "2026-10-09T05:23:17Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e383d3b087952177eb704653c018fbe",
+      "title": "OpenAI Decisions APIで画像認識タスクがどこまでできるか様々な手法と比較してみた",
+      "link": "https://nyosegawa.com/posts/openai-decisions-api-image-classification/",
+      "summary": "こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は2026年10月6日にbetaとして公開されたOpenAI Decisions APIについて、画像認識タスクでどのくらいの精度が出るのかを、昔ながらの画像モデルの学習やResponses API、Coding Agentと比べながら見て...",
+      "published": "2026-10-11T08:44:41Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5581d183efcac34973148c8ba1b4d1de",
+      "title": "ロシアとイランがプロパガンダ工作で用いたChatGPTアカウントをOpenAIが停止、工作の影響度は6段階中4～5",
+      "link": "https://gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
+      "summary": "OpenAIがロシアやイランによる「AI生成の架空組織・架空人物を用いた影響工作」に利用されたアカウントを停止したと発表しました。 Disrupting AI-enabled “false front” operations | OpenAI https://openai.com/index/dis...",
+      "published": "2026-10-09T10:39:30Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e05cfc2c00f627e81d92c031bb6a8c87",
+      "title": "【悲報】AIに自動化させることがない！",
+      "link": "https://anond.hatelabo.jp/20261011170523",
+      "summary": "みんななにを自動化させているんだろう…😢",
+      "published": "2026-10-11T09:53:58Z",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76557ac155c08b5b37324897e6f4c60a",
+      "title": "AWS DevOps AgentのSlackの返答形式をAGENTS.mdで変えてみた",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-slack-agents-md/",
+      "summary": "AWS DevOps AgentをSlackから使うと、返答に絵文字付きの見出しや表が並び、時刻もUTCのままでした。AGENTS.mdに書式を書いてもSlackでは反映されなかった理由と、「この指示を優先する」と書き足してSlackでも反映させた方法を紹介します。",
+      "published": "Mon, 12 Oct 2026 06:27:51 GMT",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "be6e8cf0a1872ecd7f58ab13d1c20656",
+      "title": "No, Kenneth Blume won’t stay in his lane",
+      "link": "https://musictech.com/features/interviews/kenneth-blume/",
+      "summary": "With his own studio Putnam Hill, the man formerly known solely as Kenny Beats has the perfect setting to realise his vision as an producer: adventure ...",
+      "published": "Mon, 12 Oct 2026 07:30:44 +0000",
+      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-12T00:52:17.032318+00:00"
+  "updated_at": "2026-10-12T08:21:05.032749+00:00"
 }

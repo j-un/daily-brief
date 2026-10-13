@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "a759c8ed8369a10e360e86b6320f5dd6",
-      "title": "AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
-      "link": "https://type.jp/et/feature/31834/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type",
-      "published": "12 Oct 2026 06:55 +0000",
-      "fetched_at": "2026-10-12T08:21:05.032749+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "dc4554c5d328f08854e5090838bcfdfc",
       "title": "Micron’s Numbers Show Why HBM4 Memory Is Worth 15X Its Weight In Gold",
       "link": "https://www.nextplatform.com/store/2026/10/02/microns-numbers-show-why-hbm4-memory-is-worth-15x-its-weight-in-gold/5300701",
@@ -969,7 +959,547 @@
       "fetched_at": "2026-10-13T08:45:58.401851+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "7be74b1f7b6c987dba2e6b22028fb0ef",
+      "title": "LLM推論エンジンまとめ - llama.cppからStrata、TensorFold、Magnitudeまで｜npaka",
+      "link": "https://note.com/npaka/n/n974bea5ca338",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLM推論エンジンまとめ - llama.cppからStrata、TensorFold、Magnitudeまで",
+      "published": "13 Oct 2026 10:59 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68bcfea6c96038f434c3ea75e83ee2c1",
+      "title": "俺のAIプログラミング手法(2026/10/05)",
+      "link": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 俺のAIプログラミング手法(2026/10/05)",
+      "published": "13 Oct 2026 10:59 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28cd6ee36d06defb362dbfae84db61f0",
+      "title": "LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み",
+      "published": "13 Oct 2026 08:59 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f7abec9484bd63c6fed7b3719041ed4",
+      "title": "Terraform 1.16 でサポートされた「モジュール内の import ブロック」を試す - kakakakakku blog",
+      "link": "https://kakakakakku.hatenablog.com/entry/2026/10/05/085656",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Terraform 1.16 でサポートされた「モジュール内の import ブロック」を試す",
+      "published": "13 Oct 2026 08:58 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a615b4c8f9b3f9663cb9f2b83f38d733",
+      "title": "Gemini 4 Argon",
+      "link": "https://deepmind.google/models/gemini/",
+      "summary": "Article URL: https://deepmind.google/models/gemini/ Comments URL: https://news.ycombinator.com/item?id=50073879 Points: 281 # Comments: 243",
+      "published": "Tue, 13 Oct 2026 16:03:16 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "baba71261f5757b67f111cdaa220eacc",
+      "title": "Thunderbird for iOS",
+      "link": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "summary": "Article URL: https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/ Comments URL: https:...",
+      "published": "Tue, 13 Oct 2026 15:07:37 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "424b9551a74db3c384ddc81affb1cb28",
+      "title": "New Apple TV 4K",
+      "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/ Comments URL: https://news.ycombinator.com/item?id=50071310 Poi...",
+      "published": "Tue, 13 Oct 2026 13:21:35 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9d27224dd64fa08dbe0fab30df6e31e",
+      "title": "Apple HomeView",
+      "link": "https://www.apple.com/apple-homeview/",
+      "summary": "Article URL: https://www.apple.com/apple-homeview/ Comments URL: https://news.ycombinator.com/item?id=50071017 Points: 418 # Comments: 532",
+      "published": "Tue, 13 Oct 2026 13:02:12 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "753612589b56010754437d18e1450162",
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "link": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "summary": "Article URL: https://machinelearning.apple.com/research/distributed-gpu-cloud Comments URL: https://news.ycombinator.com/item?id=50070593 Points: 166 ...",
+      "published": "Tue, 13 Oct 2026 12:26:36 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11989993b638c28f29df79032115288e",
+      "title": "Mozilla Introduces Firefox Enterprise",
+      "link": "https://www.firefox.com/en-US/enterprise/",
+      "summary": "Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 350 # Comments: 160",
+      "published": "Tue, 13 Oct 2026 12:00:42 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf78b47f9e5b0ef3cb7d3cf4cde71b42",
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "link": "https://eg2.haku.sh/",
+      "summary": "Article URL: https://eg2.haku.sh/ Comments URL: https://news.ycombinator.com/item?id=50069971 Points: 298 # Comments: 69",
+      "published": "Tue, 13 Oct 2026 11:27:14 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4025dd5d6785c94740fb5bba517aeee4",
+      "title": "Character.ai Files for Bankruptcy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinat...",
+      "published": "Tue, 13 Oct 2026 11:24:08 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23d9079a8f65da12636c0ab315848729",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "link": "https://github.com/rust-lang/rust/issues/164250",
+      "summary": "Article URL: https://github.com/rust-lang/rust/issues/164250 Comments URL: https://news.ycombinator.com/item?id=50069499 Points: 516 # Comments: 302",
+      "published": "Tue, 13 Oct 2026 10:27:00 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6196eac68228ae8ee50eaeaa05b59d03",
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "link": "https://pdftomp3.com/connect-ai/",
+      "summary": "Article URL: https://pdftomp3.com/connect-ai/ Comments URL: https://news.ycombinator.com/item?id=50069337 Points: 131 # Comments: 66",
+      "published": "Tue, 13 Oct 2026 10:08:34 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95301f861c2f653a5657db9011133ac5",
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "link": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran Comments URL: htt...",
+      "published": "Tue, 13 Oct 2026 10:08:00 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cb0ac3651eca658ffc376999d998066",
+      "title": "Crypto thieves sell hardware wallets with secret eSIM",
+      "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+      "summary": "Article URL: https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html Comments URL: https://news.ycombinator.c...",
+      "published": "Tue, 13 Oct 2026 08:34:12 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3759bc564fa20873bc5075332195c39",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "link": "https://blog.character.ai/an-update-on-character-ai/",
+      "summary": "https://www.theverge.com/ai-artificial-intelligence/1009802/... https://techcrunch.com/2026/10/13/just-5-years-in-interactiv... https://www.reuters.co...",
+      "published": "Tue, 13 Oct 2026 07:28:34 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "af3ce559d02ff7b54ad4c49c01466b78",
+      "title": "Hittite royal archive found in Turkey",
+      "link": "https://www.thehistoryblog.com/archives/77107",
+      "summary": "Article URL: https://www.thehistoryblog.com/archives/77107 Comments URL: https://news.ycombinator.com/item?id=50067414 Points: 271 # Comments: 71",
+      "published": "Tue, 13 Oct 2026 06:02:51 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "52712c5294fb36b237710fa23afa91b6",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "summary": "Article URL: https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks Comments URL: https://news.y...",
+      "published": "Tue, 13 Oct 2026 05:57:32 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "026c8f3c2d1b483b4444be112b3d51cf",
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "link": "https://github.com/bherbruck/solidcraft",
+      "summary": "Article URL: https://github.com/bherbruck/solidcraft Comments URL: https://news.ycombinator.com/item?id=50064840 Points: 119 # Comments: 32",
+      "published": "Tue, 13 Oct 2026 00:11:04 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f3b3e4599579b7c157741c6674b290e",
+      "title": "「フィジカル AI 開発支援プログラム by AWS ジャパン」第2期の応募受付を開始",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-japan-physical-ai-development-support-program-wave2/",
+      "summary": "「フィジカル AI 開発支援プログラム by AWS ジャパン」第 2 期の応募受付を開始 AWS ジャパンは […]",
+      "published": "Tue, 13 Oct 2026 12:26:05 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cb00fd34baea741a1ea71f367b69b78",
+      "title": "エンタープライズ向けサインイン制御を強化しました",
+      "link": "https://aws.amazon.com/jp/blogs/news/sign-in-controls/",
+      "summary": "これまで、管理対象デバイスでエンタープライズユーザーが Kiro にどの方法でサインインするかを制御する手段はありませんでした。組織として IAM Identity Center の利用を必須にしていても、ユーザーは個人アカウント（Google、GitHub、Builder ID）で Kiro にサ...",
+      "published": "Tue, 13 Oct 2026 10:59:53 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "318e5dd4f4da6310e659a9f9245059fa",
+      "title": "GuardDuty 拡張脅威検出に 5 つの新しいインジケーターを追加: 攻撃シーケンスの検出を強化",
+      "link": "https://aws.amazon.com/jp/blogs/news/guardduty-extended-threat-detection-has-added-five-new-indicators-to-surface-attack-sequences/",
+      "summary": "Amazon GuardDuty 拡張脅威検出の攻撃シーケンスの検出結果に、5 つの新しいインジケーターが追加されました。Amazon Inspector、Amazon VPC Reachability Analyzer、Amazon Macie、AWS Security Hub から得られる脆弱性...",
+      "published": "Tue, 13 Oct 2026 08:52:20 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "26cd3d3b01c7054d47478c969fa3e0e6",
+      "title": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/",
+      "summary": "Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a sing...",
+      "published": "Tue, 13 Oct 2026 14:00:00 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8b681152877340b709efb247e0cda91",
+      "title": "米Getty Imagesが破産申請へ AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002234/",
+      "summary": "再建後は、創業家のゲッティ家と米投資会社Koch Equity Developmentの関連会社が株式を100％保有する。両者は最大5億3300万ドルを新たに出資するほか、債権者も金利負担の軽減や返済期限の延長などに応じた。 Getty Imagesを巡っては、競合の米Shutterstockとの合...",
+      "published": "2026-10-13T14:03:48Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d518443284cba41f7305a4cfe701eab7",
+      "title": "総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）",
+      "link": "https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html",
+      "summary": "お知らせ 令和8年10月13日 不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起） 大量の個人情報を取り扱う事業者等の情報システムが不正アクセスにより侵入され、個人情報を含むデータが窃取される事案が相次いで確認されていることを踏まえ、総務省...",
+      "published": "2026-10-13T07:55:36Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de03d9c4a3d6d0ff36e7f6a8111cb96c",
+      "title": "【速報】PayPay証券 障害で日本株の取引停止 14日の予約注文も停止 復旧めど立たず",
+      "link": "https://news.tv-asahi.co.jp/news_economy/articles/000539845.html",
+      "summary": "1 スマートフォン向けの証券会社「PayPay証券」でシステム障害が起きていて、日本株の取引ができなくなっています。 PayPay証券によりますと、13日午前10時15分以降、外部の接続先で障害が起き、日本株とETF（上場投資信託）のすべての銘柄の取引を停止しました。 その後、午前11時30分ごろか...",
+      "published": "2026-10-13T09:20:42Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dcdf2c29d794e8177642b7de1b47b1a5",
+      "title": "相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表",
+      "link": "https://www.watch.impress.co.jp/docs/news/2147764.html",
+      "summary": "",
+      "published": "2026-10-13T09:43:45Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d3e1656c852be4582723da10638a954",
+      "title": "【JMS2026】自工会による合同展示、マツダ「2ローターエンジン」やダイハツ「アンモニア/水素混焼エンジン」が目を引く「マルチパスウェイ」エリア",
+      "link": "https://car.watch.impress.co.jp/docs/news/2147588.html",
+      "summary": "",
+      "published": "2026-10-13T09:22:21Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1c03c39b2280a8ed4295749fc7331e9",
+      "title": "「パスキーは将来的にユーザーの自由を奪う可能性がある」との警告、その根拠と反論とは？",
+      "link": "https://gigazine.net/news/20261013-passkey-are-a-trap/",
+      "summary": "パスキーは従来のパスワードを入力せずにウェブサイトへログインできる仕組みです。スマートフォンの指紋認証や顔認証、PINコードなどを使って本人確認を行います。パスワードを盗み取ろうとする偽サイトにも強く、従来のパスワードより安全性が高いとされています。しかし、このパスキーについて「パスキーは罠だ。使っ...",
+      "published": "2026-10-13T10:09:59Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "898f2e03358aadc7b9ece82876cc9f2e",
+      "title": "PayPay証券 日本株とETFの全銘柄 取引停止 接続先の障害で | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58806",
+      "summary": "ネット証券のPayPay証券は外部の接続先のシステム障害によって、日本株とETF＝上場投資信託のすべての銘柄の取引を停止していると発表しました。 サイバー攻撃や不正アクセスが原因ではないとしています。…",
+      "published": "2026-10-13T12:01:54Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de4e35acfab5b48c0a0c892a023ed267",
+      "title": "キャッシュレスサービス「IDARE」、約13万人の個人情報漏えい 残高や取引履歴なども",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002233/",
+      "summary": "プリペイド式のキャッシュレスサービス「IDARE」を運営するFivotは10月13日、第三者からの不正アクセスにより、ユーザーの個人情報が外部に漏えいしたと発表した。対象は9月27日までにIDAREに登録した退会済みを含む12万9659人で、電話番号やメールアドレス、残高情報、取引履歴などが含まれる...",
+      "published": "2026-10-13T13:34:54Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "777bc5d37d07388b2d2fa199ef98d6f4",
+      "title": "【重要】支払い証明書の第三者閲覧の可能性について | その他のお知らせ | 楽天モバイル",
+      "link": "https://network.mobile.rakuten.co.jp/information/news/other/3888/",
+      "summary": "2026年10月13日 お客様各位 平素より楽天モバイルをご利用いただき、誠にありがとうございます。 この度、当社が実施した脆弱性診断テストにおいて、「my 楽天モバイル」からダウンロードできる支払い証明書が、第三者に閲覧される可能性があったこと（以下「本件」といいます）が判明いたしました。 本件に...",
+      "published": "2026-10-13T08:41:47Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "881956cec935f0a54365d7385861fba2",
+      "title": "【速報】複数の自治体がメールの配信を停止",
+      "link": "https://www.47news.jp/15075862.html",
+      "summary": "【速報】自治体の防災情報配信サービス、不正アクセスで個人情報漏えいの可能性 新潟県内でも複数自治体が利用か",
+      "published": "2026-10-13T11:13:17Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8db7aef66b3b5f48f2a949c3d8d68272",
+      "title": "【海外テックWatch】 乱立するエージェント標準の本命になれるか MetaとSierraが主導する「Personal Agent Protocol」",
+      "link": "https://cloud.watch.impress.co.jp/docs/column/techwatch/2147521.html",
+      "summary": "",
+      "published": "2026-10-13T06:23:25Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05bbc48adfc4761c68f6478e23488e54",
+      "title": "「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147319.html",
+      "summary": "",
+      "published": "2026-10-13T08:58:09Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39a96803878af639df77e1722a242c2a",
+      "title": "法務タスク特化型AI「GLM-Legal」が登場、GLM-5.3-Flashベースの中国製モデルでGPT-6 Astraに匹敵する性能",
+      "link": "https://gigazine.net/news/20261013-glm-legal/",
+      "summary": "中国に拠点を置くAI起業のZ.aiが法務タスクに特化したAIモデル「GLM-Legal」を発表しました。 GLM-Legal: Advancing Agentic Legal Intelligence https://z.ai/blog/glm-legal Introducing GLM-Legal...",
+      "published": "2026-10-13T09:25:37Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db243b46803b14ae4bc08a3ead629e8f",
+      "title": "自治体の防災メール配信 不正アクセスでアドレスなど漏えいか | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58789",
+      "summary": "全国の自治体向けに災害情報メールや防災アプリなどを提供するシステムを運営している「アルカディア」は、第三者による不正アクセスが疑われる事案を確認したと明らかにしました。この影響で、登録者のメールアドレ…",
+      "published": "2026-10-13T10:42:47Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb9ed761299f49a41014db2192aaa9a5",
+      "title": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261013de58643",
+      "summary": "宅配すしチェーン「銀のさら」などを運営する「ライドオンエクスプレスホールディングス」は13日、公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しました。 漏えい…",
+      "published": "2026-10-13T08:32:52Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94180b4dfa603723d9369fcfdace8239",
+      "title": "iPhone/iPad向けアプリ開発者に迫る「画面サイズ自由化」の難題、“iPad切り捨て”では逃げられない。更新か諦めるか、開発者に実態としんどさを訊く - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/20261013-473222/",
+      "summary": "iPhone/iPad向けアプリ開発者に迫る「画面サイズ自由化」の難題、“iPad切り捨て”では逃げられない。更新か諦めるか、開発者に実態としんどさを訊く iPadでは、対応しているアプリでユーザーが自由にアプリの表示サイズを変更できる。どういった対応が必要だったのか、実際にゲーム開発者のOtsuk...",
+      "published": "2026-10-13T10:55:28Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bc6024b8fcc2231d56af36c007a7ba3",
+      "title": "Unreal Engine手がけるEpic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20261013-473138/",
+      "summary": "Unreal Engine手がけるEpic Gamesのボス、ゲーム開発に「生成AI全力活用」を宣言。コードもアートも、全面的に“AIファースト” Epic GamesのCEO、Tim Sweeney氏は10月13日、同社のゲーム開発において生成AIを使った開発を加速させる方針を発表した。 Epic...",
+      "published": "2026-10-13T06:06:12Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9074e2ad88d348d78e694d6b8be793c2",
+      "title": "トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見",
+      "link": "https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/",
+      "summary": "リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコード...",
+      "published": "2026-10-13T04:53:09Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "748aca1fd2cc6ebf637fbc15726c249a",
+      "title": "「Windows Update」証明書が2027年5月、6月に期限切れ ～場合によっては更新不能に陥ることも／最新パッチの適用、サポート対象の新しいOSバージョンの利用などを心掛けよう",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147364.html",
+      "summary": "",
+      "published": "2026-10-13T01:48:13Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "396e85ff9010be190446c986a395e202",
+      "title": "あらゆる場所をディスプレイにする未来のPC「電球型コンピューター」のビジョン",
+      "link": "https://gigazine.net/news/20261013-lightbulb-computer/",
+      "summary": "Appleで8年間プロトタイプ開発者・デザイナーとして勤務した経験を持つソフトウェア＆インターフェースデザイナーであるギヨーム・アルドー氏が、プロジェクターとコンピュータービジョンを組み合わせた未来のPC「電球型コンピューター」を提案し、ビジュアルイメージを公開しています。 The Lightbul...",
+      "published": "2026-10-13T11:07:33Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "143fa889a5cb9d822c70129092abe5db",
+      "title": "世界のスマホ出荷台数は2012年以来14年ぶりの最低水準を記録",
+      "link": "https://gigazine.net/news/20261013-smartphone-market-decline-2026-q3/",
+      "summary": "市場調査会社Counterpoint Researchが、2026年第3四半期(7～9月)の全世界スマートフォン出荷台数の推計データを公開しました。これによると、2026年第3四半期のスマートフォン出荷台数は前年同期比で20％減となり、2012年以来の最低水準を記録したそうです。 Global Sm...",
+      "published": "2026-10-13T03:21:39Z",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07395ccee5b5871022eecc5ec1465d92",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 xtoo…",
+      "link": "https://github.com/xtool-org/xtool",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 xtool-org / xtool ⭐ 8,599 (+936) 🗒 Swift Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM ...",
+      "published": "13 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b3c164b2792acb41d8fe48e8b6a8bf8",
+      "title": "Lambda Web Functions と Lambda Web Adapter で、アセット数多めの Next.js（SSR）ページの配信性能を比べてみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-web-functions-vs-lwa-nextjs-assets/",
+      "summary": "同じ Next.js（SSR）アプリを Lambda Web Functions と Lambda Web Adapter（LWA）に載せ、ブラウザの表示と、k6 による 30 秒間のスループットを比べました。ページ/秒は Web Functions が LWA の約 1.3 倍でした。",
+      "published": "Tue, 13 Oct 2026 15:57:27 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc190071d215e820b022d1805110324d",
+      "title": "[アップデート] AWS Glue でシステム管理型の Iceberg マテリアライズドビューが利用可能になったので、通常のマテリアライズドビューと書き込みを比べてみた",
+      "link": "https://dev.classmethod.jp/articles/20261013-aws-glue-system-managed-iceberg-mv/",
+      "summary": "AWS Glue のシステム管理型 Apache Iceberg マテリアライズドビューが利用可能になったので、通常のマテリアライズドビューと並べて書き込み動作を検証してみました。",
+      "published": "Tue, 13 Oct 2026 14:55:46 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "383a36e08c6ccafb3f06f2d1f5d76ae5",
+      "title": "スマホ版 Claude のスケジュールを使って毎朝最新の IT 情報を通知してくれる機能を作ってみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-tried-creating-feature-to-notify-latest-it-information-every-morning-using-schedule-in-claude-smartphone-version/",
+      "summary": "Claude のスケジュール済みタスク機能を使って、毎朝スマホに IT ニュースの朝刊が届く仕組みを作ってみました。設定から実際の活用方法まで、その過程を紹介します。",
+      "published": "Tue, 13 Oct 2026 14:08:37 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "044c1fdb38b43f7b7bf3ae2e989a7160",
+      "title": "CloudFormation で Lambda Web Functions を CloudFront OAC の背後に置いてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-web-functions-cloudfront-oac/",
+      "summary": "AWS Lambda Web Functions を CloudFormation で作り、CloudFront の OAC を設定して試しました。IamAuth、OAC、リソースポリシーを組み合わせた結果、CloudFront 経由は 200、署名なしの直接アクセスは 403 でした。",
+      "published": "Tue, 13 Oct 2026 13:33:10 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "54bbe9899fdb7cde00cb8d19e877bbd4",
+      "title": "Lambda Web FunctionsでNext.jsを動かしてみる",
+      "link": "https://dev.classmethod.jp/articles/nextjs-on-lambda-web-functions/",
+      "summary": "AWS Lambda Web Functionsがリリースされたので、Next.jsアプリをデプロイしてみました。セットアップから AWS CLIでのデプロイまでの手順を紹介します。",
+      "published": "Tue, 13 Oct 2026 09:30:06 GMT",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "74217fa05f19eb969ed3253f44dbf051",
+      "title": "Don’t be fooled by the bland looks of Lewitt LW6 wireless studio headphones",
+      "link": "https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/",
+      "summary": "These personality-packed, studio cans are an incredible wireless option for producers and engineers The post Don’t be fooled by the bland looks of Lew...",
+      "published": "Tue, 13 Oct 2026 16:11:18 +0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "719bf9e85283d51e349401073d6dedc6",
+      "title": "Boy Harsher Pick Their Bandcamp Favorites",
+      "link": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups",
+      "summary": "Here's what the darkwave duo is listening to on Bandcamp right now. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 13 Oct 2026 13:44:07 -0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "1ad0b749cb48724bdc20f5a25fabb638",
+      "title": "Marina Herlop, “Dja Dja”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review",
+      "summary": "Herlop steps through the portal to enchanted world and invites us along for the ride. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 13 Oct 2026 13:44:02 -0000",
+      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-13T08:45:58.401851+00:00"
+  "updated_at": "2026-10-13T17:16:09.664770+00:00"
 }

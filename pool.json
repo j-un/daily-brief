@@ -349,7 +349,627 @@
       "fetched_at": "2026-10-13T01:44:15.223182+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "65f659968a56f12fc453a1a2f3425826",
+      "title": "AI×アーキテクト | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI×アーキテクト 〜『複雑性・不確実性』を構造で受け止める⁠〜 | 技術評論社",
+      "published": "13 Oct 2026 06:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90850c9a41ee2abeb683dd4be29a7fba",
+      "title": "EC2で動いていた社内システムをLambda+S3に載せ替えてコスト削減をした話 - Uzabase for Engineers",
+      "link": "https://tech.uzabase.com/entry/2026/10/06/150516",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 EC2で動いていた社内システムをLambda+S3に載せ替えてコスト削減をした話",
+      "published": "13 Oct 2026 06:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90ae01fe668b1922a70d3b90c328c613",
+      "title": "Datadog で始める AI エージェントのオンライン評価 - Uzabase for Engineers",
+      "link": "https://tech.uzabase.com/entry/2026/10/05/112837",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Datadog で始める AI エージェントのオンライン評価",
+      "published": "13 Oct 2026 05:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3efda36ba0dde1184b56369b1fd433db",
+      "title": "OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート - Mackerel ブログ #mackerelio",
+      "link": "https://mackerel.io/ja/blog/entry/weekly/20261006",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OTLP/HTTPのJSON形式（http/json）でトレースやログを送信できるようになりました ほか4件のアップデート",
+      "published": "13 Oct 2026 05:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "702383b252056184187afc225b39dc7b",
+      "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+      "published": "13 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "506f93e086293ef5aa00ba01329ae110",
+      "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+      "published": "13 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33b05f946e8ff520b742c66a76bb395f",
+      "title": "Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表",
+      "published": "13 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62cb7042ae1a06a2494eb1f7d3c85eff",
+      "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
+      "published": "13 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b7a390b69a0395fbc6216b95ea6e2c8",
+      "title": "Beyond the quick-win: Designing AI systems around critical human judgment | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/beyond-the-quick-win-designing-ai-systems-around-critical-human-judgment",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Beyond the quick-win: Designing AI systems around critical human judgment",
+      "published": "13 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c9ae5a53c938c488163658544bb8824",
+      "title": "Why context is the real bottleneck for AI agents | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/articles/context-challenge-ai-agents",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why context is the real bottleneck for AI agents",
+      "published": "13 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca2541243b063dcbea8daba31cd441c1",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "link": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 121 # Comments: 83",
+      "published": "Tue, 13 Oct 2026 02:46:43 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "938820eba55418315b468dbc603b0f17",
+      "title": "Leaving Tech",
+      "link": "https://ryanbigg.com/2026/10/leaving-tech",
+      "summary": "Article URL: https://ryanbigg.com/2026/10/leaving-tech Comments URL: https://news.ycombinator.com/item?id=50065892 Points: 151 # Comments: 160",
+      "published": "Tue, 13 Oct 2026 02:39:35 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe305c80ba704d45ba15c1bfe0bfe4f9",
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "link": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/ Comments URL: https://news.ycombinator.com/item?id=50065805 Point...",
+      "published": "Tue, 13 Oct 2026 02:25:00 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd2c1d532cdaa3b98fb1c45dfb0e7e05",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "link": "https://arxiv.org/abs/2610.13928",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 194 # Comments: 104",
+      "published": "Tue, 13 Oct 2026 02:07:08 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "705e786a5694fba1b9a352807d9f71c2",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "link": "https://doi.org/10.1111/acel.70751",
+      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 154 # Comments: 101",
+      "published": "Mon, 12 Oct 2026 23:34:22 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc922a05a5c0ba63557d3c7c76e01fa9",
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "summary": "Article URL: https://nirajrajgor.com/blog/kindle-photo-frame-with-ai Comments URL: https://news.ycombinator.com/item?id=50064318 Points: 143 # Comment...",
+      "published": "Mon, 12 Oct 2026 23:07:25 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2285f424d71b147b7aa03b4e7892935a",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "link": "https://github.com/prabanta-dev/janas",
+      "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 126 # Comments: 41",
+      "published": "Mon, 12 Oct 2026 22:05:43 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd720ec6fa2334275b249386b0da555f",
+      "title": "Phreak.ing – Internet Phone Switch",
+      "link": "https://phreak.ing/",
+      "summary": "Article URL: https://phreak.ing/ Comments URL: https://news.ycombinator.com/item?id=50063417 Points: 126 # Comments: 33",
+      "published": "Mon, 12 Oct 2026 21:39:32 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8881de420a0eb8f6808fba38d321985",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinat...",
+      "published": "Mon, 12 Oct 2026 21:35:35 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee8f47df66e65733b3773ec5e98e9c6c",
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "link": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "summary": "Article URL: https://www.markround.com/blog/2026/zx-spectrum-intro Comments URL: https://news.ycombinator.com/item?id=50061859 Points: 119 # Comments:...",
+      "published": "Mon, 12 Oct 2026 19:40:00 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2325bc8df3a5492931c6e2a5ec657414",
+      "title": "Making big downloads resumable in Firefox",
+      "link": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "summary": "Article URL: https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html Comments URL: https://news.ycombinator.com/item?id=50061791 P...",
+      "published": "Mon, 12 Oct 2026 19:36:02 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dddd20f5e8b0242a43f482e4b4916b9",
+      "title": "AWS における耐量子署名、パート 2: SCP と IAM による ML-DSA アルゴリズムポリシーの強制",
+      "link": "https://aws.amazon.com/jp/blogs/news/quantum-resistant-signing-on-aws-part-2-enforce-your-ml-dsa-algorithm-policy-with-scps-and-iam/",
+      "summary": "この記事では、組織の暗号アルゴリズムポリシーを AWS の予防的コントロールと発見的コントロールに変換する方法を紹介します。ML-DSA-65 と ML-DSA-87 を承認し、ML-DSA-44 を除外する例を用いて、kms:KeySpec 条件キーと SCP、IAM ポリシー、アクセス許可の境界...",
+      "published": "Tue, 13 Oct 2026 08:01:10 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9405c5d315ba09dedbba93eaed031653",
+      "title": "AWS における耐量子署名、パート 1: ML-DSA によるソフトウェアサプライチェーンの構築",
+      "link": "https://aws.amazon.com/jp/blogs/news/quantum-resistant-signing-on-aws-part-1-build-a-software-supply-chain-with-ml-dsa/",
+      "summary": "「今収集し、後で偽造する」脅威に備え、AWS KMS、AWS Private CA、IAM Roles Anywhere を組み合わせて、ML-DSA による耐量子ソフトウェアサプライチェーンを構築する方法を紹介します。ML-DSA PKI 階層の構築から、CI/CD パイプラインでのバイナリ、コン...",
+      "published": "Tue, 13 Oct 2026 07:59:14 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "31a1d36835271372d307017e486bbf40",
+      "title": "週刊AWS – 2026/10/05週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20261005/",
+      "summary": "Amazon Nova 2.5 Sonic が GA、Claude Haiku 5.5 が AWS で利用可能に、Amazon GuardDuty RDS Protection が Aurora / RDS のデータ流出と破壊を検知、AWS Security Hub が検出結果の S3 エクスポート...",
+      "published": "Tue, 13 Oct 2026 06:26:21 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "66242efe1bb53b9042f83e408c9569ac",
+      "title": "週刊生成AI with AWS – 2026/10/5 週",
+      "link": "https://aws.amazon.com/jp/blogs/news/weekly-genai-20261005/",
+      "summary": "今回の週刊生成 AI with AWSでは、Claude Haiku 5.5 や Amazon Nova 2.5 Sonic など、新モデルの提供開始が相次いだ 1 週間でした。 Claude Code on Amazon Bedrock を非エンジニア中心に全社展開したアテナ様の事例や、Kiro ...",
+      "published": "Tue, 13 Oct 2026 06:17:46 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "eac4a76f9a3a0868e14a5cfea3de526a",
+      "title": "フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃 温度が最高50度に上昇し食品大量廃棄に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002201/",
+      "summary": "フランスのスーパーマーケットで10月11日夜から12日（現地時間）にかけて、冷蔵・冷凍設備を標的とする大規模なサイバー攻撃が発生した。報道によると、冷蔵設備の温度が最高50度に上昇し、生鮮食品や冷凍食品が大量に廃棄される被害が出ている。被害は数百店舗に及び、フランス当局が捜査を開始した。 Super...",
+      "published": "2026-10-13T01:57:29Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "346b6c604dc407885d698051bd1493b2",
+      "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+      "summary": "米Anthropicは10月12日（現地時間）、小型のAIモデルがデータセンターを使わずに安価なIoT機器上で自己複製できるようになる可能性があるとする研究結果を発表した。同社のフロンティアレッドチームによるもので、30Bパラメータ以下の小型モデルが、スマートオーブンやノーブランドのAndroid ...",
+      "published": "2026-10-13T02:55:22Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa8a08175f6c7e28c69cc9ef0f1a8e00",
+      "title": "【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構",
+      "link": "https://www.nict.go.jp/press/2026/10/13-1.html",
+      "summary": "トップ>広報>プレスリリース>2026年>【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」",
+      "published": "2026-10-13T05:15:17Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98aefa0fe4231c3eb57439cda5ceabe9",
+      "title": "公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2147673.html",
+      "summary": "",
+      "published": "2026-10-13T06:32:40Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1146fdddc2b0a603d18e4c9b5c32dea",
+      "title": "「AIには、もう勝てない」。それでも日本語プログラミング言語「なでしこ」を作り続ける理由 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_940/",
+      "summary": "プログラマー／テクニカルライター クジラ飛行机（くじらひこうづくえ） 1976年生まれ。愛知県豊橋市出身。ソフト企画「くじらはんど」代表。2001年に日本語プログラミング言語「ひまわり」を手がけ、2004年には「未踏ユース」プロジェクトに採択され、後継となる「なでしこ」を開発。本業の傍ら、50冊以上...",
+      "published": "2026-10-13T02:24:37Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a13babbfd372341a66f3869c28326b7e",
+      "title": "サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス - ライブドアニュース",
+      "link": "https://news.livedoor.com/article/detail/32550772/",
+      "summary": "各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。 パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り場は空になっています。 サイバー攻撃は11日から12日にかけて起きました。 メディアによりますと、全土に店舗...",
+      "published": "2026-10-13T03:11:32Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11a764477b634404e34ea1e7275eebb9",
+      "title": "【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― | ライブラリー | サイバーセキュリティネクサス | NICT",
+      "link": "https://cynex.nict.go.jp/library/261013-01.html",
+      "summary": "【注意喚起】相次ぐ情報漏洩、その原因の一つは「アプリ解析からのサーバ攻撃」 ― AIで高度化する脆弱性探索、Androidアプリを手がかりにしたA2B攻撃に注意 ― 脅威情報分析チームLETTICEは、一般に公開されているAndroidアプリを解析し、その結果を利用して、アプリの裏側で動作するバック...",
+      "published": "2026-10-13T05:02:30Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "52594985a3e1afdcbf4f822c60003db8",
+      "title": "今注目の無料日本語入力アプリ「Meltype」に早速“大型アップデート”／「Meltype IME」、予測変換、「いま」「なう」で現在時刻変換などを導入",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147370.html",
+      "summary": "",
+      "published": "2026-10-13T04:53:46Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13f1d55fcfc67d607cdabbc8b8b9f50c",
+      "title": "「PowerPoint」のCopilotで自社デザインの適用や作業自動化が可能に／ブランドキットとスキルが一般提供開始、ブランド統一と効率化を促進",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147289.html",
+      "summary": "",
+      "published": "2026-10-12T23:24:18Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaa86bf212791e9a5221e100e2b70957",
+      "title": "AIが数学の未解決問題を解決しまくる現代に数学者テレンス・タオ氏が提言する「Math 2.0」とは？",
+      "link": "https://gigazine.net/news/20261013-terence-tao-math-2-0/",
+      "summary": "AIが数学の未解決問題を次々と解決できるようになる中、著名な数学者のテレンス・タオ氏がAI時代における数学研究の新たな方向性として、「Math 2.0」と題した公開講演をカリフォルニア工科大学で2026年10月9日に行い、その資料を翌10日に自身のブログで公開しました。タオ氏は従来の数学研究を「Ma...",
+      "published": "2026-10-13T06:07:56Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfa5373575363fb20c31a3d535d8748a",
+      "title": "動的アーキテクチャ図のすすめ | RECERQA Tech Blog",
+      "link": "https://techblog.recerqa.com/blog/20261013-dynamic-architecture-diagram/",
+      "summary": "こんにちは、リチェルカのソフトウェアエンジニアのもっち(X: mottyzzz)です。 この記事では、新しい環境でシステムの全体像をつかむためにやってみた「動的アーキテクチャ図」を紹介します。 入社して託されたテーマの1つが、デプロイやE2Eテストなど、システムのリリース周りの改善の検討でした。リチ...",
+      "published": "2026-10-13T04:45:36Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "77b2fa549f9de638ef6580bb17be0fd5",
+      "title": "楽天モバイルで情報漏えいのおそれ 過去に契約していた人も対象に",
+      "link": "https://ascii.jp/elem/000/004/442/4442187/",
+      "summary": "楽天モバイルは10月13日、「my 楽天モバイル」からダウンロードできる支払い証明書について、第三者が閲覧できる可能性があったとして、利用者にメールで通知した。利用料金や個人情報が第三者に見られる状態になっていた可能性がある。過去に契約していた利用者も通知の対象だ。 同社が実施した脆弱性診断テストで...",
+      "published": "2026-10-13T07:53:42Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e0197400cfcafdf3ccd22218bc5b364",
+      "title": "マイクロソフトが目指す「AIとWindows 11」の新しい関係【西田宗千佳のイマトミライ】",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2147435.html",
+      "summary": "",
+      "published": "2026-10-13T01:42:42Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ade34b1d4424a507c3009c5447e3d2cf",
+      "title": "国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始 | プレスリリース | SB Intuitions株式会社",
+      "link": "https://www.sbintuitions.co.jp/news/press/20261013_01/",
+      "summary": "〜6つのAIモデルを利用できるAPI機能とチャット機能を一般公開〜 2026年10月13日 SB Intuitions株式会社 SB Intuitions株式会社（本社：東京都港区、代表取締役社長 兼 CEO：井尻 善久、以下「SB Intuitions」）は、国産生成AI「Sarashina」を利...",
+      "published": "2026-10-13T03:44:58Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e6d392447b076749dff8bb6b5dbce17",
+      "title": "GAになった Lambda Web Functions を東京リージョンで試してみた | DevelopersIO",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-web-functions-ga-express/",
+      "summary": "東京リージョンを含む 5 リージョンで利用可能になった AWS Lambda Web Functions で、Express アプリをデプロイしました。1 コマンドで公開 URL を取得でき、SSE のイベントは約 1 秒間隔で逐次届きました。 はじめに 2026 年 10 月 12 日、AWS L...",
+      "published": "2026-10-13T03:46:39Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3aeab5a2f3e0eafb1d4dea0d4c0cd00",
+      "title": "AIキャラ会話サービス「zeta」でにじさんじVTuberを無断生成 ANYCOLORが削除要請",
+      "link": "https://kai-you.net/article/96808",
+      "summary": "AIチャットサービス「zeta（ゼタ）」が10月12日、VTuberグループ・にじさんじに関連するコンテンツを無断で使用した「プロット」の削除を進めていると発表した。 zetaの発表によると、にじさんじを運営するANYCOLOR株式会社から、同社が権利を有するコンテンツの無断使用について報告があり、...",
+      "published": "2026-10-13T02:51:48Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b4a2c8ab4db23db7558fa7af2fc0a37",
+      "title": "型なんとか - Object.create(null)",
+      "link": "https://susisu.hatenablog.com/entry/2026/10/11/124516",
+      "summary": "いろいろあって毎回説明するの大変なのでまとめておきます. 型変換 (type conversion) 基本的には明示的 / 暗黙的といった手段によらず, ランタイムの値を別の型に変換することを指していると思います. ランタイムの値が変わるのだから, 結果として静的な方の型も変わることにはなります. ...",
+      "published": "2026-10-11T11:08:52Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4214e5f9337e1130dea26fc60ce6bf1c",
+      "title": "【福田昭のセミコン業界最前線】 AI特需による異常な半導体不足がもたらす個人向け市場の「ディストピア」",
+      "link": "https://pc.watch.impress.co.jp/docs/column/semicon/2147451.html",
+      "summary": "",
+      "published": "2026-10-13T00:45:41Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33a650f170dd88658217ee2dc9e0343c",
+      "title": "Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減",
+      "link": "https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/",
+      "summary": "高性能なAIモデルを使って自分のAIモデルを学習する手法「蒸留」は、する側はコストを抑えて最先端モデルに近い性能を実現することができますが、される側は不要な負担を強いられるなどのデメリットがあります。こうした蒸留はしばしば「攻撃」と見なされ、対策が行われています。新たに、Anthropicが望まない...",
+      "published": "2026-10-13T06:22:45Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4484755bf40a8d48162ad53c8fa9fa8d",
+      "title": "AI時代のAppSec――AIセキュリティスキャナーは信頼に足るものなのか?【海の向こうの“セキュリティ”】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/security/2146074.html",
+      "summary": "",
+      "published": "2026-10-12T21:58:53Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f39ee83f4b910f75ddb73aab8b2d6e0",
+      "title": "REA — Reverse Engineering for Your Coding Agent",
+      "link": "https://rea.tools/",
+      "summary": "Reverse engineering, with your coding agent Find out how software works. REA gives your agent the tools to inspect a program and explain what it does.",
+      "published": "2026-10-10T01:14:12Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d50867c6acb5ca63d545e6b4fa8fb36b",
+      "title": "A modern web app in c | Corey Prophitt",
+      "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "summary": "## INTROIf you wanted a dynamic website in 1994, you wrote a C program, dropped it in a cgi-bin directory, and let Apache fork it per request. Thirty-...",
+      "published": "2026-10-12T19:25:05Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37eada83f6f76bbd046f9a2d0acd7917",
+      "title": "「Claude」でコードを1行も書かずに11日間で有料アプリを作った方法",
+      "link": "https://japan.zdnet.com/article/35253279/",
+      "summary": "2026年9月20日の昼頃、筆者はある「Mac」アプリのアイデアを思いついた。それから1週間後の同27日の昼頃、完成したアプリをAppleに提出した。4日後、Appleはそのツールを承認し、「App Store」で公開された。 本稿は、米ZDNETの編集者から思わぬ依頼、幸運な偶然、そしてバイブコー...",
+      "published": "2026-10-12T19:08:51Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a5ffd3dc4cdfc9617808be3227e58ff",
+      "title": "X・Grok・Cursorのサブスクを統合した「The X Subscription」が登場、1つのサブスクでX有料機能や有料AIを使用可能に",
+      "link": "https://gigazine.net/news/20261013-the-x-subscription/",
+      "summary": "SpaceXSI(旧称：SpaceXAI)がSNS「X」、AIサービス「Grok」、コーディングAIサービス「Cursor」の有料サブスクリプションプランを統合したことを発表しました。新たなサブスクリプションの名称は「The X Subscription」で、個人向けプランは「Free」「Plus」...",
+      "published": "2026-10-13T03:41:28Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3431da08cdb10f6429220e0cf3ec4636",
+      "title": "サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン",
+      "link": "https://www.fnn.jp/articles/-/1131558",
+      "summary": "フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。 パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り場は空になっています。 サイバー攻撃は11日から12日にかけて起きました。 フランスメディアによりま...",
+      "published": "2026-10-13T00:04:49Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "15e02fac94c03a9a7f701ecbf9eb0bfb",
+      "title": "Strengthening our defenses against distillation attacks",
+      "link": "https://www.anthropic.com/research/distillation-defenses",
+      "summary": "In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in ...",
+      "published": "2026-10-13T03:33:19Z",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a92f63bf14a6daefc05a1efeb7ff9f9",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 clou…",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 cloudflare / security-audit-skill ⭐ 25,615 (+538) 🗒 JavaScript A coding-agent skill for multi-phase security audit...",
+      "published": "07 Oct 2026 17:17 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "12fed9ad9b433ca26f6faeb636312b69",
+      "title": "Terraformの実行環境を、CFnでゼロから構築してみた！",
+      "link": "https://dev.classmethod.jp/articles/202610-mitsuguchi-terraform-ec2-kensho/",
+      "summary": "Terraformの実行環境をEC2とS3で一からセットアップする方法を、CloudFormationテンプレート付きで紹介します。Session Managerでの接続、S3ネイティブロックによる排他制御の動きまで実際に確認していきます！",
+      "published": "Tue, 13 Oct 2026 06:51:37 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a78dc5be4586651d8a6ff43863ee47d1",
+      "title": "Claude Code の sandbox で macOS から SSH の git pull / push が失敗するときの対処",
+      "link": "https://dev.classmethod.jp/articles/claude-code-sandbox-git-ssh-macos/",
+      "summary": "",
+      "published": "Tue, 13 Oct 2026 04:53:21 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c74ec8473a7c37c56be7db88f1b74b6",
+      "title": "AWS Capabilities by Region で対象リージョンに未提供の機能を洗い出して、提供開始の通知を設定してみた",
+      "link": "https://dev.classmethod.jp/articles/2026-10-13-aws-capabilities-by-region-unavailable-features-notifications/",
+      "summary": "AWS Capabilities by Regionで東京リージョンと大阪リージョンの提供機能の差分を洗い出し、2026年10月のアップデートで追加された機能単位の提供開始通知の設定まで検証し、本記事でまとめました。",
+      "published": "Tue, 13 Oct 2026 04:05:50 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "96821edbcefc157e77cacf5e24465fa0",
+      "title": "Fabricを手動で立ち上げて、PythonからEventstream経由でEventhouseにデータを送ってみた",
+      "link": "https://dev.classmethod.jp/articles/fabric-eventstream-eventhouse-send-data/",
+      "summary": "Microsoft Fabricを初めて触ってみたので、Pythonからのデータ送信→Eventstream→Eventhouseへの一連の流れを、画面操作の手順を画像つきでまとめました。最初は画面が多くて迷いましたが、今回のゴールであるKQLでのデータ確認まで無事にたどり着きました。",
+      "published": "Tue, 13 Oct 2026 04:00:10 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5362e80a06b9f3b20c06cd2e378b9af3",
+      "title": "Lambda Web Functions を CloudFront OAC で保護すると、POST / PUT の x-amz-content-sha256 が不要になる",
+      "link": "https://dev.classmethod.jp/articles/shuntaka-lambda-web-functions-cloudfront-oac/",
+      "summary": "AWS Lambdaに新しく追加されたWeb Functionsを、CloudFront OACと組み合わせてHonoで実装してみました。POST・Authorizationヘッダー・ストリーミングの挙動を確認します。",
+      "published": "Tue, 13 Oct 2026 03:02:17 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b2a4beb1dfe6ac58edda737af77aa6b",
+      "title": "【Amazon Connect】インスタンス間コンタクトフローを移植する方法（JSON インポート・エクスポート）",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-flow-migration-guide/",
+      "summary": "Amazon Connectのフローを別のインスタンスに移植したい場合、インポート・エクスポート機能を活用することで簡単に実現できます。本記事では、異なるAWSアカウント間での実際の移植手順をご紹介します。",
+      "published": "Tue, 13 Oct 2026 03:02:06 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1d2ec78b915906ec87b968212a35cba",
+      "title": "2026/11/2に追加される CloudTrail の S3 データイベントを Advanced Event Selector からオプトアウトしてみる",
+      "link": "https://dev.classmethod.jp/articles/20261102-cloudtrail-s3-dataevent/",
+      "summary": "2026年11月2日から CloudTrail の S3 データイベントにライフサイクルイベントと認証失敗イベントが追加されます。本記事では、オプトアウトの方法について紹介します。",
+      "published": "Tue, 13 Oct 2026 02:30:55 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c0042ca7040812874674e8a4c900675",
+      "title": "Pydantic AIとLangGraphで同じエージェントを書き比べてみる",
+      "link": "https://dev.classmethod.jp/articles/pydantic-ai-vs-langgraph/",
+      "summary": "LangGraphで書いてきたエージェント実装を、Pydantic AIで書き直して両者を比較してみました。基本的なエージェント、構造化出力、依存注入、プロバイダー切り替えの4つのパターンで、どこが対応していてどこが異なるのかを確認します。",
+      "published": "Tue, 13 Oct 2026 02:00:10 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cddffe29025c610f541e58c069cac238",
+      "title": "[小ネタ] Strands Agents に Model Routing が追加されていたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/strands-agents-model-routing/",
+      "summary": "Strands Agents の新機能「Model Routing」を試してみました！",
+      "published": "Tue, 13 Oct 2026 01:49:17 GMT",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2431abe840a3aa0bec55b9a7ae437470",
+      "title": "My Forever Studio: Caesar Edmunds already has a Forever Studio",
+      "link": "https://musictech.com/shows/podcasts/my-forever-studio/caesar-edmunds-battery/",
+      "summary": "The Battery studios resident keeps his fantasy studio build close to home—but with some high-value additions, of course. The post My Forever Studio: C...",
+      "published": "Tue, 13 Oct 2026 08:00:28 +0000",
+      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-13T01:44:15.223182+00:00"
+  "updated_at": "2026-10-13T08:45:58.401851+00:00"
 }

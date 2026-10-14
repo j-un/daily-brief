@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "68bcfea6c96038f434c3ea75e83ee2c1",
-      "title": "俺のAIプログラミング手法(2026/10/05)",
-      "link": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 俺のAIプログラミング手法(2026/10/05)",
-      "published": "13 Oct 2026 10:59 +0000",
-      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "28cd6ee36d06defb362dbfae84db61f0",
-      "title": "LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み - LayerX エンジニアブログ",
-      "link": "https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み",
-      "published": "13 Oct 2026 08:59 +0000",
-      "fetched_at": "2026-10-13T17:16:09.664770+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "872f606ea0abaeaefdbb2ad869d0bc7e",
       "title": "Security check",
       "link": "https://enterprisezine.jp/article/detail/25125",
@@ -1709,7 +1689,227 @@
       "fetched_at": "2026-10-14T19:52:50.582761+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "e736448d1bbbe6813efb83a617b488a3",
+      "title": "OpenCode 2.0",
+      "link": "https://anoma.ly/notes/opencode-2-0/",
+      "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 163 # Comments: 50",
+      "published": "Wed, 14 Oct 2026 20:48:24 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4221b03dd1105755cfbc17a6cd1ce6b1",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "summary": "Article URL: https://sunshowers.io/posts/anthropic-mononoke/ Comments URL: https://news.ycombinator.com/item?id=50094694 Points: 183 # Comments: 69",
+      "published": "Wed, 14 Oct 2026 20:30:54 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a6ffac093d89255c88e9d686bc8951a",
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "link": "https://blog.cloudflare.com/yandex-outage/",
+      "summary": "Article URL: https://blog.cloudflare.com/yandex-outage/ Comments URL: https://news.ycombinator.com/item?id=50094673 Points: 155 # Comments: 47",
+      "published": "Wed, 14 Oct 2026 20:29:13 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d34b8045fd0bb694ad671216e3324a44",
+      "title": "Things to know when you get cancer – 2026 Edition",
+      "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 52...",
+      "published": "Wed, 14 Oct 2026 19:26:30 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4aab71411e408a8b2e87b1f26f4fe7b0",
+      "title": "Suicide rates highest ever among middle-aged men",
+      "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+      "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/ Comments URL: https://news.ycombinator.com/...",
+      "published": "Wed, 14 Oct 2026 19:03:58 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2aa10e32dff5ebbab5b2823e803a6a06",
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "summary": "Article URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/ Comments URL: https://news.ycomb...",
+      "published": "Wed, 14 Oct 2026 18:32:52 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd413d841994f12351090d52856d645d",
+      "title": "America didn't lose its rare earth industry, it sold it",
+      "link": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+      "summary": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it Comments URL: https://news.ycombinator.com/i...",
+      "published": "Wed, 14 Oct 2026 17:50:26 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "889e2801d76d8dc40e0858aa8b78b9dc",
+      "title": "Tesla's Robotaxis Blow Through School Zones, NHTSA Petition Alleges",
+      "link": "https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges",
+      "summary": "Article URL: https://www.extremetech.com/cars/teslas-robotaxis-blow-through-school-zones-nhtsa-petition-alleges Comments URL: https://news.ycombinator...",
+      "published": "Wed, 14 Oct 2026 16:45:19 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d95daa121dd60661207a4f4f1165808d",
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "summary": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years Comments URL: https://...",
+      "published": "Wed, 14 Oct 2026 16:09:00 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ea0f2825b9cdeda077f21110da880b3",
+      "title": "ARC Region switch adds four new capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/",
+      "summary": "Amazon Application Recovery Controller (ARC) Region switch helps you orchestrate the failover of multi-Region applications to achieve a bounded recove...",
+      "published": "Wed, 14 Oct 2026 17:38:00 GMT",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b76a0de38d52b944652ac07cac2c0848",
+      "title": "Amazon RDS Proxy now supports SQL Server 2022",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022",
+      "summary": "Amazon RDS Proxy, a fully managed, highly available database proxy for Amazon Relational Database Service (RDS), now supports Amazon RDS for SQL Serve...",
+      "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b08de64a3199d319c45e1893d0406c3e",
+      "title": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0",
+      "summary": "Amazon S3, including S3 Tables and S3 Vectors, is now available on the Vercel Marketplace and v0 by Vercel. Developers can create and connect S3 resou...",
+      "published": "Wed, 14 Oct 2026 04:00:00 GMT",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b209c7063e40af5fb5bf0f9b92d74571",
+      "title": "AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/",
+      "summary": "AWS Brazil now provides an automated distribution workflow through the AWS Brazil 2P Distribution Program. Eligible non-Brazilian independent software...",
+      "published": "Fri, 02 Oct 2026 16:30:00 GMT",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbdd68ba89d2a367094f278b4777c08c",
+      "title": "WAF でブロックする前に確かめていること",
+      "link": "https://zenn.dev/azunyan/articles/7a105969d7d16c",
+      "summary": "🧱 はじめに WAF の運用で、既知の攻撃を止めるルールをすり抜けてくる迷惑なアクセスや、攻撃ばかりを送ってくるアクセスを調べ、その送信元をブロックしています。 この記事では、そのときに気をつけていることと、前提になる基礎知識をまとめます。ポイントは次の 3 つです。 止める前に、巻き添えになる正規...",
+      "published": "2026-10-14T06:30:40Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5361c8ecae7e8a086bf00995db4461e8",
+      "title": "みずほが数千人をAI開発者に転換 事務や営業、日本企業の働き方転機 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0722M0X01C26A0000000/",
+      "summary": "みずほフィナンシャルグループは営業や事務の社員を人工知能（AI）の開発人材に転換する。5万人の全社員から順次選び、10年後に数千人規模への拡大を目指す。金融サービスや社内業務のAIシステムを作る。既存部門を減らし、競争力の要であるAI分野に集中する体制を整える。銀行など金融機関の社員はホワイトカラー...",
+      "published": "2026-10-14T19:37:56Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "55b0c11f9b241ce5c3179a875d5773dd",
+      "title": "ポスドクの転職は「敗北」とは限らない―数学博士がアカデミアの外で見つけた新たな生き方｜ポスドクの転職体験記",
+      "link": "https://note.com/postdoc_career/n/nc9dcfe5ea3d3",
+      "summary": "はじめに 早速ですが、獣医師である私の“数学者”としての約10年半の人生が間もなく終わりを迎えようとしています。訳がわからないでしょうから、まずは簡単に経歴を紹介させて下さい。 ・獣医学科を卒業後の数年間、大動物臨床獣医師として勤務 ・数学者を目指して退職し、翌年に大学院数理科学科修士課程に入学 ・...",
+      "published": "2026-10-14T07:59:11Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c97de8dc1b4ec2484f47b89ec1d7901",
+      "title": "フロントエンドのモデルに境界を引く",
+      "link": "https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku",
+      "summary": "フロントエンドカンファレンス関西2026スライド",
+      "published": "2026-10-14T13:47:11Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9cc6d71918be21ed8b6dab921cd4917",
+      "title": "八潮の道路陥没事故を国際圧入学会で総括 道路陥没メカニズムと最新技術による復旧の全貌",
+      "link": "https://built.itmedia.co.jp/bt/articles/2610/14/news078.html",
+      "summary": "埼玉県八潮市で2025年に発生した大規模な道路陥没事故について、国際圧入学会のセミナーで全プロセスが報告された。発生メカニズムや復旧工事のプロセス、毎秒4トンの汚水が流れる過酷な現場に対応した「圧入工法」の役割など、原因解明から復旧までの道のりをレポートで詳報する。",
+      "published": "2026-10-14T11:00:30Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1693f7b195519f09ea99ff0edd6b968",
+      "title": "GoogleのEmbeddingGemma 2を音声認識モデルに変換した「Embedding Gemma Transcribe」、オフライン環境のMacなら15分の音声をわずか約3秒で爆速文字起こし可能",
+      "link": "https://gigazine.net/news/20261014-embetting-gemma-transcribe/",
+      "summary": "音声をテキストに変換する文字起こしには一般的に音声認識専用のAIモデルが使われます。しかし、文章の意味を数値で表現する埋め込みモデルのEmbeddingGemma 2を利用して音声を文字起こしするという一風変わったアプローチを採用した「Embedding Gemma Transcribe」が登場しま...",
+      "published": "2026-10-14T13:13:34Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dd2e0c94389c2687fbb6892e800c64c",
+      "title": "100時間かけて動画編集AIを作ったら、気が狂いそうになった。",
+      "link": "https://www.youtube.com/watch?v=QFhHNBcPelo",
+      "summary": "【PR：Surfshark】 プロモリンク https://surfshark.com/yurucom にアクセスするか、チェックアウト時にプロモコード yurucom を使用すると、Surfshark VPN が4か月分追加されます！ 30日間の返金保証付き！ぜひご利用ください！ 動画編集AIを作...",
+      "published": "2026-10-14T13:28:51Z",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "234827182dce38ddd9c71e5cd566bb63",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ntdevla…",
+      "link": "https://github.com/ntdevlabs/tiny11builder",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ntdevlabs / tiny11builder ⭐ 20,030 (+132) 🗒 C# WinUI app for building smaller, customized Windows 11 images.",
+      "published": "14 Oct 2026 21:17 +0000",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "624f31ab4f3f10f48d110f49326f6463",
+      "title": "Amazon ECS マネージドインスタンスに SSH などでアクセスできますか？",
+      "link": "https://dev.classmethod.jp/articles/tsnote-ecs-can-i-access-amazon-ecs-managed-instances-via-ssh-etc/",
+      "summary": "",
+      "published": "Wed, 14 Oct 2026 22:40:55 GMT",
+      "fetched_at": "2026-10-14T22:53:38.380665+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-14T19:52:50.582761+00:00"
+  "updated_at": "2026-10-14T22:53:38.380665+00:00"
 }

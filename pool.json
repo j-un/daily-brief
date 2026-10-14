@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "65f659968a56f12fc453a1a2f3425826",
-      "title": "AI×アーキテクト | 技術評論社",
-      "link": "https://gihyo.jp/book/2026/978-4-297-16033-3",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI×アーキテクト 〜『複雑性・不確実性』を構造で受け止める⁠〜 | 技術評論社",
-      "published": "13 Oct 2026 06:56 +0000",
-      "fetched_at": "2026-10-13T08:45:58.401851+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "68bcfea6c96038f434c3ea75e83ee2c1",
       "title": "俺のAIプログラミング手法(2026/10/05)",
       "link": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
@@ -929,7 +919,397 @@
       "fetched_at": "2026-10-14T09:10:08.505617+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "2fad944bcfb671eafbf9ab4a12aaa83c",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://cloud.google.com/blog/ja/topics/customers/jr-east-implements-touch-trigger-using-spanner-and-cloud-run",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 JR東日本: Spanner と Cloud Run で「タッチトリガー」を実現し、改札データを起点に新たなコミュニケーションと価値を創出",
+      "published": "14 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b08684a851cadf4380fc0d9c91d72b29",
+      "title": "Example.com Just Launched The Biggest Redesign In Decades | DebugBear",
+      "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Example.com Just Launched The Biggest Redesign In Decades",
+      "published": "14 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62cb7042ae1a06a2494eb1f7d3c85eff",
+      "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
+      "published": "13 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68a3144d4ec35b5f6af84f5f6546d402",
+      "title": "Switzerland proposes banning profiling-based ads to minors",
+      "link": "https://www.admin.ch/en/newnsb/NMn5s24l8NjQ",
+      "summary": "Article URL: https://www.admin.ch/en/newnsb/NMn5s24l8NjQ Comments URL: https://news.ycombinator.com/item?id=50087328 Points: 184 # Comments: 115",
+      "published": "Wed, 14 Oct 2026 13:20:02 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d2a3822c9122693baebc43eea9ff952",
+      "title": "Amazon pushes up prices across the Internet",
+      "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "summary": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50084757...",
+      "published": "Wed, 14 Oct 2026 09:28:17 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f1c8c36943d2cc3098aadfc7704ce56",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "link": "https://typeof.net/Iosevka/",
+      "summary": "Article URL: https://typeof.net/Iosevka/ Comments URL: https://news.ycombinator.com/item?id=50084240 Points: 378 # Comments: 134",
+      "published": "Wed, 14 Oct 2026 08:27:59 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8a49590ba293f631137282e382deedf",
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+      "link": "https://blumify.io/people",
+      "summary": "Article URL: https://blumify.io/people Comments URL: https://news.ycombinator.com/item?id=50081151 Points: 111 # Comments: 73",
+      "published": "Wed, 14 Oct 2026 01:09:13 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6afe69eb19e3bb945f39e8968ee3cbf1",
+      "title": "日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス",
+      "link": "https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw",
+      "summary": "「ヒトラーに例える論証」というものがあります。 例えば、 「彼のやり口は民主主義を破壊したヒトラーのやり方と全く同じだ。」 みたいなやつです。 ところで、ヒトラー以前もこのような論法はあったようです。 現代においては一般にヒトラーが引き合いに出されるが、この手の論理的誤謬は、第二次世界大戦以前から存...",
+      "published": "2026-10-14T09:29:50Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e12cc937a2b42fc4308c761cee2095b5",
+      "title": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z",
+      "link": "https://note.com/shi3zblog/n/ncb38d2978074",
+      "summary": "Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる 実はClaude Codeは長時間動画を見ることができる。見るだけでなくてそこで何が起きているか、どんな会話がなされているかもみれる。 しかもただ見るだけでない。編集もできるしテロップも...",
+      "published": "2026-10-14T06:49:13Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08a787e6c340f2ce029fe217b75a3a63",
+      "title": "【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア",
+      "link": "https://www.idcf.jp/news/topics/20261014001",
+      "summary": "2026年10月14日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 2026年10月7日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスによる障害について、現時点までの調査で新たに以下の事実が判明...",
+      "published": "2026-10-14T08:41:42Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "492ae3908d0549c807f232530c5dabe5",
+      "title": "AIエージェントによるウェブサイトへの攻撃の注意喚起",
+      "link": "https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html",
+      "summary": "技術者ブログ クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。 金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！ AIエージェントによる攻撃を観測しました 皆様おそらくご存知の...",
+      "published": "2026-10-14T08:44:43Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d95b045428ac75ee3a2125f56159af8",
+      "title": "米キャラクターAI、破産法申請 10代の自殺めぐる訴訟相次ぎ",
+      "link": "https://www.cnn.co.jp/tech/35253536.html",
+      "summary": "「キャラクターAI」を手がけるキャラクター・テクノロジーズが13日、米連邦破産法11条の適用を申請した/Gabby Jones/Bloomberg/Getty Images ニューヨーク（CNN） 人工知能（AI）を使ったチャットサービス「キャラクターAI」を手がけるキャラクター・テクノロジーズが1...",
+      "published": "2026-10-14T08:14:08Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "272d84ef05495ddcfda036f39657311f",
+      "title": "楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148168.html",
+      "summary": "",
+      "published": "2026-10-14T11:08:25Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41115588a21b148e611928e7b7f65fd6",
+      "title": "JVN#47427200: 楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題",
+      "link": "https://jvn.jp/jp/JVN47427200/index.html",
+      "summary": "JVN#47427200 楽天モバイルの複数のスマートフォンのAndroid Verified Boot機能において既知のテスト用鍵がそのまま使用されている問題 楽天モバイル株式会社が提供する複数のスマートフォンでは、Android Verified Boot（AVB）機能にAOSPのテスト用鍵が使...",
+      "published": "2026-10-14T09:30:46Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3522f1d455a0ba585f8c0497a4f01553",
+      "title": "「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+      "summary": "自らの後継システムを訓練できるほど強力なAIが2027年に登場する確率は50％以上――米Anthropicの共同創業者で公共利益部門責任者のジャック・クラーク氏は10月13日、東京大学大学院の松尾・岩澤研究室が主催した講演でこう述べた。年初に公表した「2027年に30％、2028年末までに60％」と...",
+      "published": "2026-10-14T08:06:09Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0979157cfee355a4e893e6e77a9d9f10",
+      "title": "「LFM2.5-24B-A2B」が登場、Gemma 4 26B-A4BやQwen3.6 35B-A3Bより高性能でローカルエージェントとして能力を発揮",
+      "link": "https://gigazine.net/news/20261014-lfm2-5-24b-a2b/",
+      "summary": "AI開発企業のLiquid AIが「LFM2.5-24B-A2B」を公開しました。LFM2.5-24B-A2Bは自身より規模の大きなGoogle製モデルやAlibaba製モデルより高い性能を発揮し、ローカルでAIエージェントを実行させる用途に適しているとアピールされています。 LFM2.5-24B-...",
+      "published": "2026-10-14T07:37:01Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91e1dd99c9026ab05d93b75bb5894dbe",
+      "title": "Getty Imagesの再建に思うこと。フリー素材サイト「ぱくたそ」の15年と、AI時代の写真素材とは - ぱくたそ公式ブログ",
+      "link": "https://www.pakutaso.com/blog/getty-images.html",
+      "summary": "出資するKEDの担当者は、Gettyを \"a unique and critical source of authentic imagery\"（かけがえのない、本物の画像の源）と表現しています。Getty自身も、許諾を得たコンテンツで学習した画像生成AIを提供していて、AIを否定しているわけではあり...",
+      "published": "2026-10-14T03:15:54Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "436a8743c7b7dd6bc19de629c51ff2be",
+      "title": "「VS Code」とローカルAIで記事執筆アプリを2時間で無料作成した方法",
+      "link": "https://japan.zdnet.com/article/35253351/",
+      "summary": "ある週末、筆者は特定の執筆ツールが必要だと考えが、そのようなものは見つからなかった。試したものは使いづらかったり、機能が足りなかったり、あるいは高価であった。 そんな折、知人で作家のHugh Howey氏が約10年前に独自の執筆アプリ「NEO」の開発に着手していたことを知った。元ソフトウェアエンジニ...",
+      "published": "2026-10-14T02:26:16Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a39e7005263423c75c442dbb047b0a9b",
+      "title": "いま、AIでWebサイトを実装するということ。マネックス証券イントロサイトにおけるアニメーション実装の裏側",
+      "link": "https://mount.jp/magazine/monex-dev-with-ai/",
+      "summary": "2026.10.14 いま、AIでWebサイトを実装するということ。 マネックス証券イントロサイトにおけるアニメーション実装の裏側 メンバー AIをつかってWebサイトを実装することについて、自分なりに言葉にしてみたい。 AIによる気分の浮き沈みというのは、きっと多くの制作者が日々感じているはず。 ...",
+      "published": "2026-10-14T06:00:03Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad8b8faa4fd1c7d81f48c82a8cc8b711",
+      "title": "「apple.com」に見えて実はキリル文字。Chromeの偽装対策をすり抜けるURLが見つかる | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2610-chrome-phishing-domain-bypass/",
+      "summary": "URLだけじゃ、見分けられないかもしれません。 フィッシング詐欺を避けるには、アクセス先のURLを確認するのが基本。でも、そのURLが本物そっくりに表示されていたらどうでしょう。 偽装ドメインの検知サービス「Have I Been Squatted」が、Google Chrome（グーグル・クローム...",
+      "published": "2026-10-14T03:04:59Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0172e6643951d82253ece965d0a0c0c6",
+      "title": "デンマークの880万人分流出、原因はパスワード「123456」 ハッカー「侵入は難しくなかった」 現地報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002257/",
+      "summary": "デンマークの中央個人登録簿「CPR」から約880万人分の個人番号などが流出した問題で、侵入の足掛かりは照会権限を持つ民間企業だった可能性が判明した。同社で使われていたパスワードは「123456」だったという。攻撃者を名乗る匿名のハッカーが、デンマーク紙Politikenに手口を明かした。 Polit...",
+      "published": "2026-10-14T06:10:06Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85b281f0bf27a81a8920df7abdddca88",
+      "title": "AI時代にアジャイルは時代遅れなのか｜mtx2s",
+      "link": "https://note.com/mtx2s/n/n4c65f0913304",
+      "summary": "ソフトウェア開発のAI化が進む中で、アジャイルはもう“時代遅れ”なのでしょうか。そうした意見を、ちらほらと見かけるようになりました。 それらの声は、AIによる開発の速さや、開発ワークフローの変化を実感する中で生まれているようです。たとえば、前者がスクラムイベントをオーバーヘッドと感じさせ、後者がドキ...",
+      "published": "2026-10-13T23:29:46Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ee075bb72f753515b7a95bd9d44877a",
+      "title": "AIにコードを書かせた先で、ボトルネックはどこに移ったか —4つの詰まりどころを追いかけて - Findy Media",
+      "link": "https://findy-code.io/media/articles/aisaji-gota_bara",
+      "summary": "Gotaです。普段はAIエージェント関連の新規プロダクト開発全般に携わっています。個人では仕様駆動開発ツールのcc-sddをつくったり、エージェントハーネス周りのエコシステムで個人開発しています。 普段はCodex、Claude Code、Cursorなど幅広く触っていますが、最近はツールの使い分け...",
+      "published": "2026-10-13T23:31:35Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "827dcff830bd9f0230462b7590af0169",
+      "title": "DGX Sparkでゼロから始めるAIワークステーション リアルタイム文字起こしが可能な「Nemotron 3.5 ASR」で24時間音声メモ化ツールを作ってみた",
+      "link": "https://ai.watch.impress.co.jp/docs/serial/dgxspark/2147532.html",
+      "summary": "",
+      "published": "2026-10-14T10:49:07Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "638cf87cd3f7f4bccbc344c40afa5d5e",
+      "title": "自治体の防災情報配信などに使われる「SpeeCAN RAIDEN」、不正アクセスで個人情報漏えいの可能性 さいたま市、横須賀市をはじめ多数の自治体に影響",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2148069.html",
+      "summary": "",
+      "published": "2026-10-14T07:30:05Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a58dc70ca8e97615e0df1ce3303fcc4a",
+      "title": "世界最長の海底沈埋トンネル建設がサイバー攻撃で停止",
+      "link": "https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/",
+      "summary": "デンマークとドイツを結ぶ世界最長の海底沈埋トンネル「フェーマルン・ベルトトンネル」の建設事業者がサイバー攻撃を受け、工事に大きな支障が生じていることが明らかになりました。現地メディアによると、作業員の入場カードや建設用の船舶、クレーンなどが使用できなくなり、建設作業が停止する事態に陥っています。 ....",
+      "published": "2026-10-14T03:42:30Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "548f652b9906e69d850727558a32f705",
+      "title": "プログラムができたらGitHub Copilotにテスト用コードを作成させよう",
+      "link": "https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2117327.html",
+      "summary": "",
+      "published": "2026-10-14T03:46:41Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbfd5d7ad4869d4939672e0a0683b59f",
+      "title": "アンソロピック、日本は「最も成長が早い市場」 データセンター構築にも意欲",
+      "link": "https://www.watch.impress.co.jp/docs/news/2147983.html",
+      "summary": "",
+      "published": "2026-10-14T05:42:49Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae6e8447237c50577f10d13009b30d00",
+      "title": "楽天モバイルでシステム脆弱性、第三者に住所や電話番号など閲覧される可能性",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2147800.html",
+      "summary": "",
+      "published": "2026-10-13T16:45:55Z",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "637c4b19860f8e9ed36925fc67b19ada",
+      "title": "GitHub - ifixai-ai/iFixAi: Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. · GitHub",
+      "link": "https://github.com/ifixai-ai/iFixAi",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 ifixai-ai / iFixAi ⭐ 26,617 (+2,143) 🗒 Python Independent Auditing of AI Agents. Run by human or the agent itself,...",
+      "published": "14 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "82a059bb7c040a267993656630875e68",
+      "title": "miseの--affectedで未コミットの変更に応じてタスクを実行する",
+      "link": "https://dev.classmethod.jp/articles/mise-affected-working-tree/",
+      "summary": "miseの--affectedを使うと、Gitの変更に関係するプロジェクトのタスクを選んで実行できます。未コミットの編集と新規ファイルを対象にするコマンドを紹介し、2つのプロジェクトで選択結果と実行前の確認方法を試します。",
+      "published": "Wed, 14 Oct 2026 12:36:07 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "05e56f026189aa4c2f470a3885b60aa9",
+      "title": "Claude Code v2.1.297〜v2.1.299 の主要アップデート - アイドル時コンパクションの追加と Write の文字コード変換の修正",
+      "link": "https://dev.classmethod.jp/articles/20261014-cc-updates-v2-1-299/",
+      "summary": "Claude Code v2.1.299のアップデート内容をまとめました。アイドル時コンパクションの追加やメンションをパスで渡す CLAUDE_CODE_DISABLE_FILE_MENTIONSがありました。本日はBOM 付き UTF-16LE のファイルの Read と、Shift-JIS のフ...",
+      "published": "Wed, 14 Oct 2026 12:35:11 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "718e657325be8670300e1e4509f4f5e6",
+      "title": "AWS Glue Studioでビジュアル ETLを維持しつつ複数の文字コードが混在するファイルを処理してみました",
+      "link": "https://dev.classmethod.jp/articles/glue-studio-mix-char-code-transform/",
+      "summary": "AWS Glue StudioではビジュアルETLを利用することでGUIでの直感的なETLの構築を実現可能ですが、Glueの特性として処理するファイルはUTF-8が前提であり異なる文字コードは直接対応していません。今回は任意のスクリプトを部分的に埋め込めるCustom Transformを利用して文...",
+      "published": "Wed, 14 Oct 2026 11:59:44 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e46d417420a764300f7ce2e48efaf5c",
+      "title": "Lambda Web Functions の VPC 接続を試してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-web-functions-vpc-network-connector/",
+      "summary": "cdkd で VPC、Lambda Web Functions、Network Connector をデプロイし、複数の Web Functions でコネクタを共用して VPC 内のリソースに接続できることを確かめました。",
+      "published": "Wed, 14 Oct 2026 11:12:58 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "897cbf194d6ae4007b7e12e8a832fbe2",
+      "title": "Hono + ViteでLambda Web FunctionsにAPIをデプロイする",
+      "link": "https://dev.classmethod.jp/articles/deploy-hono-vite-api-to-lambda-web-functions/",
+      "summary": "Lambda Web Functionsへのデプロイをシンプルにするため、ViteとHonoを使ってビルド・バンドルする方法を試してみました。セットアップから本番環境でのデプロイまでの全プロセスを紹介します。",
+      "published": "Wed, 14 Oct 2026 09:28:58 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f744a7d280216971405aba4bed6ecaf3",
+      "title": "Claude Code のセッションを長くしすぎないために入れた工夫3つ",
+      "link": "https://dev.classmethod.jp/articles/claude-code-keep-sessions-short/",
+      "summary": "Claude Codeの使用量リミット超過の原因を突き止めた私が、長いセッションでの消費を抑えるために実装した3つの工夫を紹介します。コンテキスト管理の自動化から手動運用まで、実践的なアイデアをお伝えします。",
+      "published": "Wed, 14 Oct 2026 09:18:23 GMT",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "93872bf5add25d0354391d98bab30a7c",
+      "title": "Bitwig now lets you import tracks directly from rekordbox – here’s what you need to know",
+      "link": "https://musictech.com/news/industry/bitwig-rekordbox-alphatheta-partnership/",
+      "summary": "It marks the start of a new partnership between Bitwig and AlphaTheta. The post Bitwig now lets you import tracks directly from rekordbox – here’s wha...",
+      "published": "Wed, 14 Oct 2026 13:48:03 +0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "c332af308e3f941a4f146e0cbfa59e8f",
+      "title": "Kou Records Builds Community the Old-School Way",
+      "link": "https://daily.bandcamp.com/label-profile/kou-records-label-profile",
+      "summary": "The cutting-edge Brooklyn label are driven by process, not genre. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 14 Oct 2026 13:47:13 -0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "e5cb970c7dfdc0c219e7a63dd009def9",
+      "title": "Esoctrilihum, “Annochiül Xar Sorthïlazur”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review",
+      "summary": "Another mindbending masterpiece from France’s mad scientist of black metal. Read full story on the Bandcamp Daily.",
+      "published": "Wed, 14 Oct 2026 13:47:04 -0000",
+      "fetched_at": "2026-10-14T14:47:54.087456+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-14T09:10:08.505617+00:00"
+  "updated_at": "2026-10-14T14:47:54.087456+00:00"
 }

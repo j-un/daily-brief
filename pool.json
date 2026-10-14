@@ -29,7 +29,407 @@
       "fetched_at": "2026-10-13T17:16:09.664770+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "872f606ea0abaeaefdbb2ad869d0bc7e",
+      "title": "Security check",
+      "link": "https://enterprisezine.jp/article/detail/25125",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ZOZOの情シスはCTO下で“開発を速める存在”へ──Claude利用を止めないガードレールの育て方",
+      "published": "14 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "178705304f24814041587838ed01f87d",
+      "title": "開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築 - Sansan Tech Blog",
+      "link": "https://buildersbox.corp-sansan.com/entry/ai-assisted-toolkit-jp",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 開発が高速化した先で、QAはどう追随したか — AI支援によるテスト実行ツールキットの構築",
+      "published": "14 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf51f25aa6e278fefa46e2024df6ad74",
+      "title": "AIペネトレーションテストツール「ARTEX」についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/06/121225",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIペネトレーションテストツール「ARTEX」についてまとめてみた",
+      "published": "13 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "864af521cc29f4965f4c7e2a1d148d57",
+      "title": "AWS Builder Center で Amazon Connect Customer のサンドボックス環境を無料提供",
+      "link": "https://aws.amazon.com/jp/blogs/news/free-sandbox-environments-for-amazon-connect-customer-on-aws-builder-center/",
+      "summary": "AWS Builder Center の無料サンドボックス環境を使って、Amazon Connect Customer のワークショップが利用可能になりました。この記事では AWS アカウントやクレジットカードなしで、AI を活用したコンタクトセンターの構築をハンズオンで体験する方法を解説します。",
+      "published": "Wed, 14 Oct 2026 01:20:30 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba323bc8d7d7de4178abc49f4f9a5a44",
+      "title": "AWS Customer Incident Response Team (CIRT) のご紹介: セキュリティイベント発生時の支援と公開リソース",
+      "link": "https://aws.amazon.com/jp/blogs/news/welcoming-the-aws-customer-incident-response-team/",
+      "summary": "私たち AWS Customer Incident Response Team (CIRT) は、AWS 責任共有モデルにおけるお客様の責任範囲で進行中のセキュリティイベントへの対応を支援する、24 時間 365 日体制のグローバルチームです。この記事では、AWS CIRT の支援範囲と支援の依頼方...",
+      "published": "Wed, 14 Oct 2026 00:47:20 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e13bc35d1ac5ddd1e62bd03ea81aafc",
+      "title": "EC2 インスタンス構成証明でセルフマネージド型データベースのゼロオペレーターアクセス (ZOA) を実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/zero-operator-access-for-self-managed-databases-using-ec2-instance-attestation/",
+      "summary": "この記事では、Amazon EC2 インスタンス構成証明、NitroTPM、Attestable AMI を使用して、セルフマネージド型データベースでゼロオペレーターアクセス (ZOA) を実現する方法を説明します。Nix Flakes で再現可能な AMI をビルドして PCR 測定値を算出し、A...",
+      "published": "Wed, 14 Oct 2026 00:39:34 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e4efe13425b78bf8ea51c51192cca9b",
+      "title": "L1TF Reloaded に対する Amazon EC2 の防御の仕組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/ec2-defenses-against-l1tf-reloaded/",
+      "summary": "一時的実行攻撃「L1TF Reloaded」は、ハーフ Spectre ガジェットと L1TF を組み合わせてゲストデータを漏洩させます。しかし、AWS Nitro System と Nitro Hypervisor を使用するお客様のゲストデータは影響を受けず、追加の対応も不要です。本記事では、攻...",
+      "published": "Wed, 14 Oct 2026 00:32:18 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c5486c116850140484801ad93e8406d",
+      "title": "月刊 AWS 製造 2026 年 10月号",
+      "link": "https://aws.amazon.com/jp/blogs/news/monthly-manufacturing-202610/",
+      "summary": "みなさまこんにちは。自動車・製造インダストリーソリューションアーキテクトの 小川 です。10月に入っても関東は […]",
+      "published": "Wed, 14 Oct 2026 00:13:57 +0000",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "097186837ed3b4f57c8384a4abc9ec4a",
+      "title": "AWS Security Hub now supports resource criticality for prioritization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+      "summary": "Today, AWS Security Hub adds resource criticality to exposure prioritization, helping central security teams focus on the exposures that threaten thei...",
+      "published": "Wed, 14 Oct 2026 01:00:00 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "312610fbee61fee42f6403e233df910d",
+      "title": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/",
+      "summary": "Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively runnin...",
+      "published": "Tue, 13 Oct 2026 22:00:00 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a9fe63ada6604b05973b6f80119c8d8",
+      "title": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground",
+      "summary": "Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API vis...",
+      "published": "Tue, 13 Oct 2026 18:46:00 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "61d8aa17af91933ed1f8929cadd2d563",
+      "title": "AI、家電乗っ取り増殖の恐れ アンソロピック「デジタル粘菌」と警告 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN140170U6A011C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは12日、人工知能（AI）がインターネット接続するテレビなどのスマート家電を乗っ取り、自ら増殖する能力を持つ可能性があると警告した。無数の機器に「粘菌」のようにAIが広がれば、セキュリティーリスクを生むと指摘した。同社でAIの安全対策などに取り組む研究者...",
+      "published": "2026-10-13T23:42:29Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30bb61f30ad7c28b775199bd0c35dc9a",
+      "title": "「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147842.html",
+      "summary": "",
+      "published": "2026-10-13T17:22:11Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d42277092c87a3b779302f5b3a7d54c",
+      "title": "【やじうまミニレビュー】 宇宙ヤバイ！ベランダでアンドロメダ星雲が撮れるスマート望遠鏡DWARF mini",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147381.html",
+      "summary": "",
+      "published": "2026-10-13T23:36:02Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c3fd0b40024a99349d1ff56131a3ba2",
+      "title": "OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002236/",
+      "summary": "社内の監視カメラの映像には、装置の発見前に同容疑者が複数回にわたって役員会議室の付近に現れる様子が映っていた。同容疑者には、この会議室への立ち入りや会議への参加の権限はなかった。訴状によると、この会議室では独自の研究や製品計画、事業開発の機会に加え、技術的な進捗や戦略上の判断、政府との関わり、商.....",
+      "published": "2026-10-13T22:35:12Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13000f001aba2ff1627533614796ae43",
+      "title": "無償のオフィススイート「ibisOffice」が登場、お絵描きアプリ「ibisPaint」の姉妹ソフト／高速動作と再現性の高さがウリ、「Rust」＋「GPUI」で高速動作、7万ものテストで「MS Office」再現性を検証",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147849.html",
+      "summary": "",
+      "published": "2026-10-14T00:44:08Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c532441e436ff8da1d035c3fa6d58be5",
+      "title": "Yandexデータセンター攻撃の前後でXの日本語親ロ投稿を数えてみた｜一田和樹のメモ帳",
+      "link": "https://note.com/ichi_twnovel/n/nc23602343127",
+      "summary": "2026年10月、ウクライナは無人機で、「ロシアのグーグル」と呼ばれることが多いIT大手Yandex（ヤンデックス）のデータセンター3か所を攻撃した。BBCによればサソボ（リャザン州）が7日から8日にかけての夜、カルーガが9日朝、ニュースサイトのMezhaによればウラジーミル州が11日である（いずれ...",
+      "published": "2026-10-13T14:07:30Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2aedf7342a3838fc420aa03bdb03a074",
+      "title": "オレオレ詐欺がAIで極悪進化。無言電話に返した自分の声が、家族をだますヤバすぎる手口 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2610-ai-voice-clone-scam/",
+      "summary": "Image: FTC米国の消費者保護を担う連邦取引委員会（FTC）は2023年3月、AIで家族の声を複製し、お金をだまし取ろうとする手口について注意をよびかけました。 短い音声と声を複製するプログラムがあれば、本人に似た声を作れるのだそう。 ネットに投稿された動画などが、声を拾われるきっかけにもなる...",
+      "published": "2026-10-13T18:56:17Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4a19d012ff2d9e9f2e950111728a83b",
+      "title": "Windows Updateが使えなくなる場合も。2027年に証明書が期限切れ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2147744.html",
+      "summary": "",
+      "published": "2026-10-13T21:41:06Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aff2c9dc3dc0fb594460a41d339dcc3e",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all ...",
+      "published": "2026-10-13T16:24:25Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dbe3879a6e61974b86a8a0ea5bb0ec2",
+      "title": "質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能",
+      "link": "https://gigazine.net/news/20261014-rea-tools/",
+      "summary": "「REA(Reverse Engineer Anything)」はバイナリ・アプリケーション・ランタイム動作全体にわたるリバースエンジニアリングを行うための包括的なプラットフォームです。ソースコードがない場合でも、対象を調査して機能の仕組みや根拠を明らかにし、同様の機能を実装することが可能であるため...",
+      "published": "2026-10-13T22:07:33Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a95717b43c868f650dca14ba10fa3baa",
+      "title": "「AI投資の4割が頓挫する」現実 ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/14/news022.html",
+      "summary": "「AI投資の4割が頓挫する」現実 ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？（1/3 ページ） 「2027年末までに、AIエージェントプロジェクトの40％超がコスト高騰や成果不透明で途中で投げ出される」 米調査会社Gartner（ガートナー）の未来予測は、AI投資の盲点を突き付けている...",
+      "published": "2026-10-13T22:18:48Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c805248ace3b6cbc578a9285496c8ad2",
+      "title": "国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開 6つのAIモデルが呼び出せるAPIも",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002224/",
+      "summary": "SB Intuitions（東京都港区）は10月13日、国産生成AI「Sarashina」を試せる「Sarashinaサービス」の無償β版の提供を始めた。6つのAIモデルを呼び出せるAPI機能と、Web上でAIとの対話や翻訳を体験できるチャット機能を一般公開。Googleアカウントでログインすれば、...",
+      "published": "2026-10-13T09:37:35Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "548fdcf4afdcc9bd877958d93a4f00a6",
+      "title": "PM×SE Conference 2026公式サイト｜Findy Tools",
+      "link": "https://pm-se-con.findy-code.io/2026",
+      "summary": "大規模・ミッションクリティカルな受託開発の現場では、生成AIの活用が広がる中で、 開発プロセスやプロジェクトマネジメントのあり方も問い直されています。 「顧客自身も明確な答えを持っていない要求を、どのように捉え、形にしていくのか」 「既存の大規模・複雑なシステムにAIをどのように組み込んでいくのか」...",
+      "published": "2026-10-14T00:18:35Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a7421fd55f75388ea30e87b3e489c77",
+      "title": "Character.ai、米連邦破産法11条を申請 Disney系が一部IPのライセンス取得で先行入札",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+      "summary": "AIキャラクターとのチャットサービス「Character.ai」を運営する米Character Technologiesは10月12日（現地時間）、米連邦破産法第11条（チャプター11）の適用をデラウェア州の連邦破産裁判所に自主的に申請したと発表した。 チャプター11は、裁判所の監督下で資産の全部ま...",
+      "published": "2026-10-13T23:24:57Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed9d0ceaa318f8171807d359c40620ae",
+      "title": "鳥にナメられ続けた人類、AI搭載レーザー砲台を生み出す | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2610-ai-laser-bird-repeller/",
+      "summary": "目玉バルーンなんて、鳥からしたらオモチャですよ。 見た目がかわいいのであまり意識することはないかもしれませんが、鳥ってけっこう迷惑な生き物です。農作物を食い荒らしたり、ゴミを散らかしたり。駅に入りこんだハトのフン害なんかは身近な問題ですよね。 そんな鳥たちを追い払うために、人類はこれまでさまざまな....",
+      "published": "2026-10-13T14:38:55Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f8c332289f21d2ab122bba1064c6818",
+      "title": "[FT]目論見書「人類滅ぼすかも」 奇妙なアンソロピック上場計画 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOCB130B20T11C26A0000000/",
+      "summary": "成長著しいテック企業にとって、新規株式公開（IPO）は重要な通過儀礼だ。「世界をより良い場所にする」と宣言した米グーグルから、「意識の光を星々に広げる」と大志を掲げた米スペースXまで、各社のIPOは世界中の人々の心をつかんできた。理想的な将来像を描いてみせた上で、この企業こそ勝ち組になるに違いないと...",
+      "published": "2026-10-13T20:42:35Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3468f476341b52961836e9721cc26977",
+      "title": "【速報】Apple Home Collection発表！LGなどと防犯カメラ・スマートロックを開発 - iPhone Mania",
+      "link": "https://iphone-mania.jp/apple-607447/",
+      "summary": "Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発したスマートホーム機器の新シリーズ「Apple Home Collection」を発表しました。防犯カメラやスマートロック、室温を調整するサーモスタットなどを揃え、iPhoneから簡単に設定・操...",
+      "published": "2026-10-13T15:50:14Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf8f1824d23065b3c9b72c3cebe10c5b",
+      "title": "Apple、「Welcome home」イベントで発表されたことまとめ 日本でも2製品予約開始",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002235/",
+      "summary": "米Appleは10月13日（現地時間）、ニューヨークで開催したイベントで、スマートホーム関連の新製品を発表した。発表した製品は以下の通り。 「Apple HomeView」（日本での販売予定なし） 「Apple TV 4K」（第4世代）（日本では11月13日発売、4万9800円） 「HomePod ...",
+      "published": "2026-10-13T21:51:58Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0abd40322d4e5fb6bc82de7d65af8c1",
+      "title": "相次ぐ情報漏えいの一因に「A2B攻撃」 公開アプリを解析し裏側のサーバを狙う手口、NICTが公表",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002230/",
+      "summary": "国内で相次ぐ情報漏えい事案の原因の一つとして、公開済みのAndroidアプリを解析し、接続先のサーバを狙う攻撃を確認した――情報通信研究機構（NICT）の脅威情報分析チーム「LETTICE」（レティス）は10月13日、「A2B攻撃」（App-to-Backend Attack）と名付けた手法を公表し...",
+      "published": "2026-10-13T11:38:19Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b1657a8534a06284d3e547a299ab917",
+      "title": "LLM の 23 秒を 0.3 秒にした — decision-only モデル Jev を日本語校正プラグインに実測投入した話",
+      "link": "https://zenn.dev/bamboo_nova/articles/c6176164dcffd0",
+      "summary": "概要 結論から書きます。LLM が 23〜24 秒かけていた文脈判断 20 問を、Jev は約 300ms で返しました。中央値の比較で約 77 倍です。 方式 文脈判断 20 問の所要時間 生の一致率 この記事は、自作の日本語明晰化プラグイン meiseki に Jev を組み込み、速度と精度を測...",
+      "published": "2026-10-13T00:50:57Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00bf4bb6a331916d32ef10f6ef360704",
+      "title": "アップル、音楽も再生できるスマートホームハブ「HomeView」",
+      "link": "https://av.watch.impress.co.jp/docs/news/2147828.html",
+      "summary": "",
+      "published": "2026-10-13T14:27:37Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5dbe67f878ff870553c71d6ae445f55f",
+      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+      "summary": "Googleは10月13日（現地時間）、同社最先端のモデル「Gemini 4 Argon」（以下、Argon）の一般提供を開始した。 有料サブスクリプション「Google AI」の「Pro」（月額2900円）、「Ultra 5x」（同14500円）、「Ultra 10x」（同32000円）加入者は「...",
+      "published": "2026-10-14T00:47:40Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f22e3360625bb3ba8db9372d99f73ba4",
+      "title": "「銀のさら」「釜寅」「すし上等」のライドオンエクスプレス、サイバー攻撃で最大約650万件の個人情報漏えいの可能性 公式サイト・アプリを停止中",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2147767.html",
+      "summary": "",
+      "published": "2026-10-13T11:23:15Z",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f789fea910e7dc059fc1ab13bd6646a",
+      "title": "Jamf Pro の Blueprints 適用状況を確認する方法",
+      "link": "https://dev.classmethod.jp/articles/jamf-pro-blueprints-status/",
+      "summary": "Jamf Pro の Blueprints で展開した設定が、端末に正しく適用されているか確認する方法を紹介します。API を使って DDM のステータスを取得し、グループ内の複数端末をまとめて検証する手法を解説しますので、参考にしてみてください。",
+      "published": "Wed, 14 Oct 2026 01:52:20 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cf49a46b56cf8f6d7e14aee1e4c76a3",
+      "title": "AWS Partner Centralのファンドリクエストで「ACCESS allocation is required」エラーが出た際の原因と対策",
+      "link": "https://dev.classmethod.jp/articles/aws-partner-central-access-allocation-required/",
+      "summary": "AWS Partner Centralでファンドリクエストを提出する際に「ACCESS allocation is required to submit benefit application.」というエラーが発生しました。原因はAWSマネジメントコンソールから操作するだけではなかなか気づけないもの...",
+      "published": "Wed, 14 Oct 2026 01:38:07 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5f7f2d6ae46534b084a32a8bffbb30f",
+      "title": "速いSQLは安いSQLなのか？ TiDB Cloudで検証してみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-starter-sql-latency-vs-ru/",
+      "summary": "TiDB Cloud Starter で、3 種類の方法で速くした SQL の実行時間と RU を計測しました。実行時間とともに RU も大きく削減できたのは SQL が読むデータを減らした場合だけで、並列度を上げて速くした場合の RU は変わらず、ロック待ちをなくした場合の RU の削減は実行時間...",
+      "published": "Wed, 14 Oct 2026 01:27:06 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "da1d66b466d0addb4fdccd483c7a6a03",
+      "title": "【アップデート】 AWS Config で新たに 77 種類のリソースタイプがサポートされました",
+      "link": "https://dev.classmethod.jp/articles/aws-config-77-new-resource-types-2026-10/",
+      "summary": "AWS Config が 77 個の新しいリソースタイプに対応しました！",
+      "published": "Wed, 14 Oct 2026 01:15:44 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5abdd46e4d5f4c61760cecb74136e87c",
+      "title": "Next.jsのApp Router ISRをLambda Web Functions + CloudFront OACで動かしてみる",
+      "link": "https://dev.classmethod.jp/articles/shuntaka-nextjs-app-router-isr-lambda-web-functions/",
+      "summary": "Lambda Web Functions 上で Next.js の ISR がどう動作するか検証してみました。CloudFront のキャッシュとの相互作用に焦点を当て、ページの更新タイミングと内容の古さがどの程度になるのかを動画で追跡しています。",
+      "published": "Wed, 14 Oct 2026 01:08:40 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "144aa52eaf36ff9b4c737e3dc6f57edc",
+      "title": "Amazon Connect Customer のパフォーマンス評価で生成 AI バージョンを選択できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-performance-evaluation-generative-ai-version/",
+      "summary": "Amazon Connect のパフォーマンス評価で、自動評価に使用する生成 AI バージョンを選択できるようになりました。最新版への自動アップグレード、プレビュー版の事前試用、特定バージョンの継続使用から選べる仕組みを、設定画面と各バージョンの変更内容とともに紹介します。",
+      "published": "Tue, 13 Oct 2026 23:27:45 GMT",
+      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-13T22:38:24.277108+00:00"
+  "updated_at": "2026-10-14T02:55:10.315569+00:00"
 }

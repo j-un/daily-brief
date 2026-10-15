@@ -819,7 +819,467 @@
       "fetched_at": "2026-10-15T08:42:56.257096+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "975fe2c668b1754d30f82647dab46197",
+      "title": "Deno is joining Cloudflare | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Deno is joining Cloudflare",
+      "published": "15 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffbff0c6f9b68f8f513df78ef6685b8f",
+      "title": "Codex Cloud shipped with Tailscale support. Nobody told us.",
+      "link": "https://tailscale.com/blog/codex-cloud-tailscale",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Codex Cloud shipped with Tailscale support. Nobody told us.",
+      "published": "15 Oct 2026 10:56 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cc0e2e54af8e9ce746302bf8e2ad028",
+      "title": "熟練者の知見を、チームの力に。「Mackerelログ機能のご紹介」を公開しました - Mackerel（マカレル）: 新世代のサーバー管理・監視サービス",
+      "link": "https://ja.mackerel.io/info/whitepaper-log-overview",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 熟練者の知見を、チームの力に。「Mackerelログ機能のご紹介」を公開しました",
+      "published": "15 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fbc78eb7342172709f92664a5504bfd",
+      "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+      "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say C...",
+      "published": "Thu, 15 Oct 2026 12:58:32 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "50edc5f3b99e3bc6c15265fdfe014592",
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "link": "https://libreboot.org/news/libreboot2610.html",
+      "summary": "Article URL: https://libreboot.org/news/libreboot2610.html Comments URL: https://news.ycombinator.com/item?id=50102923 Points: 101 # Comments: 41",
+      "published": "Thu, 15 Oct 2026 12:52:16 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f83ecc76c69a65c38d10a122b1b7b634",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "link": "https://unfenced.land/",
+      "summary": "Article URL: https://unfenced.land/ Comments URL: https://news.ycombinator.com/item?id=50102247 Points: 103 # Comments: 59",
+      "published": "Thu, 15 Oct 2026 11:38:57 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "535b258f3cdf57f8f1e6796c8a780907",
+      "title": "AI was great until it was not",
+      "link": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "summary": "Article URL: https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not Comments URL: https://news.ycombinator.com/item?id=50100791 Points: ...",
+      "published": "Thu, 15 Oct 2026 08:18:38 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65952d47ff304c807d58f4cff3238f2f",
+      "title": "Amazon Bedrock を使った AWS Systems Manager Session Manager ログの AI による異常検知",
+      "link": "https://aws.amazon.com/jp/blogs/news/ai-powered-anomaly-detection-for-aws-systems-manager-session-manager-logs-using-amazon-bedrock/",
+      "summary": "Session Manager のセッションで実行されたコマンドはトランスクリプトとして記録されますが、数百台のノードで毎日数千件になると、SOC チームが手作業で確認することはできません。このブログでは、Amazon Bedrock、AWS Lambda、Amazon S3、Amazon Bedr...",
+      "published": "Thu, 15 Oct 2026 13:48:23 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a53cefca66c1f7480807141431f38e7",
+      "title": "Aurora DSQL コンソールと CloudWatch アラームで Amazon Aurora DSQL のコストをモニタリングする",
+      "link": "https://aws.amazon.com/jp/blogs/news/monitor-amazon-aurora-dsql-costs-with-the-aurora-dsql-console-and-cloudwatch-alarms/",
+      "summary": "Amazon Aurora DSQL の DPU 料金モデルと、CloudWatch メトリクスと請求額の対応関係を解説します。Aurora DSQL コンソールの Usage and cost パネルでコストを確認する方法、1 時間あたりの DPU 使用量を監視する CloudWatch アラーム...",
+      "published": "Thu, 15 Oct 2026 09:28:09 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b114e6200247b5014c31ce24872935b",
+      "title": "AI 定着の現在地 ― 先行企業のリアルに学ぶ AWS AI Day in Nagoya 開催報告",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-ai-day-in-nagoya-2026/",
+      "summary": "こんにちは。Amazon Web Services Japan のソリューションアーキテクトの福嶋です。 20 […]",
+      "published": "Thu, 15 Oct 2026 09:07:58 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "abbff6f3cdb1c5f4ae0c4cbe6006c563",
+      "title": "プライベートアクセスでデータ境界を AWS マネジメントコンソールまで拡張",
+      "link": "https://aws.amazon.com/jp/blogs/news/extend-your-data-perimeter-to-the-aws-management-console-with-private-access/",
+      "summary": "AWS マネジメントコンソールプライベートアクセスが、インターネット接続のない VPC に対応し、一般提供を開始しました。認証フロー、静的アセット、コンソール専用 API を含むコンソールトラフィックを、AWS PrivateLink の VPC エンドポイント経由でルーティングできます。この記事で...",
+      "published": "Thu, 15 Oct 2026 08:46:01 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "03725027474bf76d70d3e64bb1b2606a",
+      "title": "AWS Weekly Roundup:数字で見るプライムデー2026、クロード・ハイク 5.5、Amazon Nova 2.5 Sonic など (2026 年 10 月 13 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-prime-day-2026-by-the-numbers-claude-haiku-5-5-amazon-nova-2-5-sonic-and-more-october-13-2026/",
+      "summary": "数字の中には、しばらく向き合ってみないと想像しにくいものもあります。2026 年 10 月 5 日週、プライム […]",
+      "published": "Thu, 15 Oct 2026 08:45:13 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e1b95c2187755556bbda6a01a7150da",
+      "title": "当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト",
+      "link": "https://www.sourcenext.com/support/i/2026/1015_info/",
+      "summary": "このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因....",
+      "published": "2026-10-15T08:49:13Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd9d886ce8d46b14747386eaaba9c5a8",
+      "title": "ソースネクスト、最大2251万件の情報流出 パスワード再設定を",
+      "link": "https://www.watch.impress.co.jp/docs/news/2148547.html",
+      "summary": "",
+      "published": "2026-10-15T10:52:15Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6093cf8210c75853128e568edad792de",
+      "title": "連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes",
+      "link": "https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html",
+      "summary": "JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知...",
+      "published": "2026-10-15T08:02:36Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d82f04ec59cbcad2434033aceefb403",
+      "title": "なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細",
+      "link": "https://av.watch.impress.co.jp/docs/topic/2148483.html",
+      "summary": "",
+      "published": "2026-10-15T09:06:56Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf06f1e78c7145d98106983080eb0219",
+      "title": "不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ",
+      "link": "https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf",
+      "summary": "",
+      "published": "2026-10-15T07:55:30Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "930a43e390e87b5277b914b507956497",
+      "title": "How to be more ambitious: A tutorial for humans with models",
+      "link": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "summary": "I work on Claude. It's an interesting experience: Every day I learn about yet another feat accomplished with or by Claude that I hadn't considered, di...",
+      "published": "2026-10-15T06:51:18Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b3b9f85bcc88c4e30e912fc7400beba",
+      "title": "ソースネクスト 顧客情報 約2251万件が情報漏えいか | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de60043",
+      "summary": "年賀状ソフトなどを手がけるソースネクストは、顧客の情報およそ2251万件が流出した可能性があると発表しました。 流出した可能性があるのは顧客のメールアドレスや氏名、住所などのほか、サービスにログイン…",
+      "published": "2026-10-15T10:26:12Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "81c51346fe98a8951d91c08de1bd8527",
+      "title": "AndroidスマホにログインしたGoogleアカウントすべてに電話番号が自動で紐づけられることが判明",
+      "link": "https://gigazine.net/news/20261015-google-account-link-phone-number/",
+      "summary": "Googleアカウントへの電話番号登録は必須ではありませんが、Android端末にGoogleアカウントを登録すると、端末で使用している電話番号が自動でアカウントに紐付けられるようになっていることが分かりました。 Google is silently linking your phone numbe...",
+      "published": "2026-10-15T07:15:17Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7769f1c17e28d6f83848f3a8723abafd",
+      "title": "声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59778",
+      "summary": "生成AIによって声が無断で利用されるケースが相次ぐ中、声優などが加入する団体が15日、記者会見を開いて、声のAI利用に関する初めてのガイドラインを作成したことを発表しました。 こうした“声”を守る動…",
+      "published": "2026-10-15T10:14:26Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "651352550585798ea09827d55b5851f7",
+      "title": "AIのスピードに負けないための開発フロー",
+      "link": "https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo",
+      "summary": "https://sotas.connpass.com/event/398322/ Sotas×カミナシ×estie｜AIのスピードに開発組織はどう追いつくのか？ (2026/10/15) 登壇資料",
+      "published": "2026-10-15T07:19:45Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1b00eb540a5b8f30c126924d4c308c6",
+      "title": "メールアドレスが流出しても迷惑メールを自動拒否、最初の送信元からしか受信できない「Clova.Email」が登場",
+      "link": "https://gigazine.net/news/20261015-clova-email/",
+      "summary": "登録するサービスごとに専用のメールアドレスを作成し、最初にメールを送ってきた相手以外からのメールを自動的に拒否するサービス「Clova.Email」が登場しました。メールアドレスが流出しても第三者からの迷惑メールを受け取らずに済む仕組みで、無料プランでもメールアドレスを無制限に作成できます。 Clo...",
+      "published": "2026-10-15T10:10:09Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c32123a4855835d9caadee1124a64ca",
+      "title": "【Mac Info】 Safariの機能拡張が文章で作れる！macOS 27の新機能",
+      "link": "https://pc.watch.impress.co.jp/docs/column/macinfo/2148205.html",
+      "summary": "",
+      "published": "2026-10-14T21:28:33Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e844a22f828236dac742eaf43687ef94",
+      "title": "「自分のためのアプリ」をAIで作成、Google Play経由で実行可能に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2148391.html",
+      "summary": "",
+      "published": "2026-10-15T06:37:18Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "101bb75bc3f0bf1b5988e52f131f665c",
+      "title": "Microsoft、3つの国際的な犯罪ネットサービスを解体へ 日本狙った詐欺がきっかけ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002299/",
+      "summary": "米Microsoftは10月14日、国際的な非営利団体Health-ISACと共同で、フィッシング詐欺に使うアカウントやWebサイトなどを提供する3つの犯罪支援サービスの解体に着手したと発表した。日本を狙った詐欺に関する警察庁からの情報提供をきっかけに調査を進め、米裁判所の命令に基づくドメインの差し...",
+      "published": "2026-10-15T08:58:29Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e0f3a0b7176e6b1c6b71eee4d99d728",
+      "title": "ソースネクスト情報流出か 最大2251万件（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d",
+      "summary": "セキュリティー対策ソフトなどを手がけるソースネクストは15日、第三者からの不正アクセスを受け、顧客の氏名や電話番号、パスワードなど最大で約2251万件の個人情報が流出した可能性があると発表した。クレジットカードの情報は含まれていない。 ソースネクストによると、登録した住所のほか、勤め先や役職などの情...",
+      "published": "2026-10-15T11:19:55Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bab421d4ce53441084b1e9a2373c98d9",
+      "title": "「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2148273.html",
+      "summary": "",
+      "published": "2026-10-15T03:11:35Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "766c92d48ce695c9036377f3de60e142",
+      "title": "AIによる相次ぐハッキング事件は「AIの暴走」ではなく「AI企業がセキュリティの基本を無視しているため」という指摘",
+      "link": "https://gigazine.net/news/20261015-ai-agents-not-going-rogue/",
+      "summary": "世界最大級のサイバーセキュリティ専門メディアであるCSO Onlineが、2026年になって複数回起きている「AIエージェントによるハッキング事件」は、AIの暴走が原因ではなく、AI企業がセキュリティの基本を怠ったことが原因であると解説しています。 AI agents aren’t ‘going r...",
+      "published": "2026-10-15T08:19:46Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7718b370f6312fec8add56c31e457828",
+      "title": "GitHub - MaryCache/imozuru: 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル",
+      "link": "https://github.com/MaryCache/imozuru",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-10-15T03:54:48Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8a50d28d4e607568a8da410195a1e9d",
+      "title": "OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘",
+      "link": "https://gigazine.net/news/20261015-rise-ai-image-nude/",
+      "summary": "セキュリティ研究企業のWhite Circleが、OpenAIやGoogleの画像生成AIの安全対策を回避し、性的な画像などを生成させる新たな攻撃手法「RISE」を発表しました。検証では、OpenAIのDALL·E 3やGoogleのNano Banana 2などで安全対策の回避に成功したほか、より...",
+      "published": "2026-10-15T06:43:03Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c39d492948a84b4dd13f4bc06debe4cc",
+      "title": "Amazonはインターネット全体で商品価格をつり上げている",
+      "link": "https://gigazine.net/news/20261015-amazon-push-up-all-internet-price/",
+      "summary": "Amazonは価格設定に関するポリシーで「他のサイトより著しく高い価格でAmazonに出品する行為」などにペナルティを科しています。こうした慣行や手数料により、出品者はあらゆる場所で価格を引き上げざるを得ない状況に陥っているとして、ジャーナリストのアマンダ・シェンドルク氏が問題点を解説しています。 ...",
+      "published": "2026-10-15T13:15:54Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7db85c0800c1dece88bacdab5b63ec5",
+      "title": "ネコと飼い主、オキシトシン濃度が相関―ネコとの近さは飼い主の活力とも関連―",
+      "link": "https://www.kyoto-u.ac.jp/ja/research-news/2026-10-15",
+      "summary": "概要 ネコは世界で最も人気のある伴侶動物の1種ですが、彼らと暮らすことが飼い主の心身にどう関わるのかは、よくわかっていません。イヌでは飼い主とイヌのホルモン濃度が関連することが知られていますが、ネコでは調べられていませんでした。 京都大学白眉センター／人と社会の未来研究院 高木佐保 特定助教、麻布大...",
+      "published": "2026-10-15T07:20:58Z",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a16f8b0667e86a09db947a02e7293a1",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ruvnet…",
+      "link": "https://github.com/ruvnet/ruflo",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 ruvnet / ruflo ⭐ 74,789 (+146) 🗒 TypeScript 🌊 The original agent harness. Deploy intelligent multi-player swarms, coo...",
+      "published": "15 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f1aa947f6cd9708e20189684dc8a22b",
+      "title": "📦 lightseekorg / tokenspeed ⭐ 2,295 (+25…",
+      "link": "https://github.com/lightseekorg/tokenspeed",
+      "summary": "📦 lightseekorg / tokenspeed ⭐ 2,295 (+25) 🗒 Python TokenSpeed is a speed-of-light LLM inference engine.",
+      "published": "15 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e35bfc52a2d96ceb198e630d61166ba2",
+      "title": "Splunk Universal ForwarderのアップデートをAWS System Manager Documentsでテンプレート化して一括で適用できるようにしてみました(Linux向け)",
+      "link": "https://dev.classmethod.jp/articles/splunk-uf-update-used-ssm-document-linux/",
+      "summary": "Splunk Universal Forwarderのアップデート処理をSystems Managerを利用して自動化してみました",
+      "published": "Thu, 15 Oct 2026 13:12:48 GMT",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "370a0010f92068aa6a17bd0cdab958d3",
+      "title": "MultiRegion な Lambda Web Functions を OAC 付きの CloudFront で公開する構成を試してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-web-functions-multiregion-cloudfront-oac/",
+      "summary": "Lambda Web Functions の MultiRegion エンドポイントを OAC 付きの CloudFront で公開しても、最寄りのリージョンにルーティングされることを確認しました。あわせて、東京の障害に備えたオリジンフェイルオーバーによる切り替えも検証しました。",
+      "published": "Thu, 15 Oct 2026 10:53:33 GMT",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4df3429730c811b54268e1ec3952adc",
+      "title": "Lambda Web FunctionsでCold Startがどの程度の間隔で起きるのか計測してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-web-functions-cold-start-intervals/",
+      "summary": "Lambda Web Functionsのコールドスタート特性を理解するため、実際に実行環境の稼働時間を計測してみました。",
+      "published": "Thu, 15 Oct 2026 09:36:06 GMT",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "48aba8e83680d4acc627acaf107d80c0",
+      "title": "【Security Hub修復手順】[SSM.6] SSM Automation では CloudWatch ログ記録が有効になっている必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-ssm-6/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Thu, 15 Oct 2026 09:32:15 GMT",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8865c54df6ce013d1e0cee4e70c003f6",
+      "title": "Lambda durable functions の上限引き上げ(operation 数3万と checkpoint サイズ1MB)を試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-durable-functions-limit-increase/",
+      "summary": "AWS Lambda durable functions の上限が引き上げられ、operation 数は3,000から30,000に、checkpoint サイズは256 KBから1 MBになりました。どちらも旧上限を超える実行を試し、1つの durable execution のまま完了することを...",
+      "published": "Thu, 15 Oct 2026 08:50:02 GMT",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "35332230dc03640fedea61fae759a19b",
+      "title": "IK Multimedia、スタンドアロンで使用できる音響補正システム、「ARC Studio+」を発表…… 待望のサブ・ウーファーに対応、マイク入力やデジタル入出力も搭載",
+      "link": "https://icon.jp/archives/27961",
+      "summary": "IK Multimediaが新製品、「ARC Studio+（アーク・スタジオ・プラス）」を発表。待望のサブ・ウーファー／2.1chに対応、マイク入力やデジタル入出力も備えたARC Studioの上位モデルの登場です。 […]",
+      "published": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "22c075b7e230d27e2005f48808a23423",
+      "title": "If you don’t ask, you don’t get – how one email led to a rookie Caesar Edmunds producing Led Zeppelin",
+      "link": "https://musictech.com/news/music/caesar-edmunds-cold-email-to-alan-moulder/",
+      "summary": "The producer also calls to save Battery Studios recording complex; “There's so much history... Robbie Williams’ Angels was mixed in my room.” The post...",
+      "published": "Thu, 15 Oct 2026 13:52:25 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "2e4b9543387800603c99ae6acbe16ccf",
+      "title": "Cables restricting your movement during DJ sets? AlphaTheta’s new HDJ-F9 headphones might just be the ticket",
+      "link": "https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/",
+      "summary": "Featuring a wireless design with AlphaTheta’s proprietary SonicLink ultra-low-latency technology. The post Cables restricting your movement during DJ ...",
+      "published": "Thu, 15 Oct 2026 10:24:33 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "716bf413ed9b64c16219a3c9c8be868e",
+      "title": "Plugin Boutique launches new tiered membership programme that rewards you based on how many plugins you buy",
+      "link": "https://musictech.com/news/gear/plugin-boutique-membership/",
+      "summary": "There’s a Member Tier – everyone with a Plugin Boutique account starts here – plus Silver and Gold Tiers for producers who have spent $100 and $200 in...",
+      "published": "Thu, 15 Oct 2026 09:41:53 +0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "9ccf25f97f78ac34c22d9224c0ae0642",
+      "title": "Bassist and Composer Mali Obomsawin Builds a Bridge Across Time",
+      "link": "https://daily.bandcamp.com/features/mali-obomsawin-automatic-feature",
+      "summary": "The First Nations musician draws a line back to her heritage as a member of the Abenaki Nation. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 15 Oct 2026 13:39:51 -0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "d00491f91d1e471468b0dd325ee2dd00",
+      "title": "Witchthroat Serpent, “Demons Left To Roam”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/witchthroat-serpent-demons-left-to-roam-review",
+      "summary": "The riff, then the rhythm, then the rest goes the hierarchal order on the doom band's latest. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 15 Oct 2026 13:39:46 -0000",
+      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-15T08:42:56.257096+00:00"
+  "updated_at": "2026-10-15T14:34:13.018563+00:00"
 }

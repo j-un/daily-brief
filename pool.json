@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cf51f25aa6e278fefa46e2024df6ad74",
-      "title": "AIペネトレーションテストツール「ARTEX」についてまとめてみた - piyolog",
-      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/06/121225",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIペネトレーションテストツール「ARTEX」についてまとめてみた",
-      "published": "13 Oct 2026 23:55 +0000",
-      "fetched_at": "2026-10-14T02:55:10.315569+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "0f28605d366eabcc465e80cf621aad01",
       "title": "Deno is joining Cloudflare | Deno",
       "link": "https://deno.com/blog/cloudflare",
@@ -349,7 +339,487 @@
       "fetched_at": "2026-10-15T02:34:11.655608+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "24c5f4fe9d82b012d165832ea0490e01",
+      "title": "FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測",
+      "published": "15 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51bb43d96b509fc25229718ec1c0a6a5",
+      "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+      "published": "15 Oct 2026 05:56 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1264799089accdde6811b916bb715d3",
+      "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
+      "published": "15 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6012fa4317c639464f0d034dcd8fd1e",
+      "title": "AWS Security Hub の検出結果を CSV または JSON 形式で S3 にエクスポート可能に - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/security-hub-exports-s3-csv-json/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Security Hub now exports findings to S3 in CSV or JSON format",
+      "published": "15 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "65ea9db86afc0727582f1c76bdee1806",
+      "title": "株式会社アテナが Claude Code on Amazon Bedrock で実現した、非エンジニア向け生成 AI 全社展開 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/claude-code-case-study-atena/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 株式会社アテナが Claude Code on Amazon Bedrock で実現した、非エンジニア向け生成 AI 全社展開 | Amazon Web Services",
+      "published": "15 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "14c4585844fc7913b50c62c52cc676df",
+      "title": "Amazon DynamoDB から Amazon S3 へのフィルター付きエクスポート機能のご紹介 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-filtered-export-from-amazon-dynamodb-to-amazon-s3/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Amazon DynamoDB から Amazon S3 へのフィルター付きエクスポート機能のご紹介 | Amazon Web Services",
+      "published": "15 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3798207e4b39864011fd3e9632ff9e72",
+      "title": "数値で見る AWS が支える Amazon プライムデー 2026 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/all-the-numbers-amazon-prime-day-2026-powered-by-aws/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 数値で見る AWS が支える Amazon プライムデー 2026 | Amazon Web Services",
+      "published": "15 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "447c9cbac27353b806e7a7bdfb0387cc",
+      "title": "Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive",
+      "link": "https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive",
+      "summary": "Article URL: https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive Comments URL: https://news.ycombinator...",
+      "published": "Thu, 15 Oct 2026 01:07:15 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "83d869ed218b7887b06bb91d4c75ccb4",
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "summary": "Article URL: https://www.liquid.ai/blog/lfm2-5-24b-a2b Comments URL: https://news.ycombinator.com/item?id=50097369 Points: 199 # Comments: 44",
+      "published": "Wed, 14 Oct 2026 23:59:37 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "161441296edc1ddd0f1405fbf2de4aed",
+      "title": "Fancy Curl Sites",
+      "link": "https://nytpu.com/gemlog/2026-03-18",
+      "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 125 # Comments: 24",
+      "published": "Wed, 14 Oct 2026 19:29:12 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "64998f193be78872e695a4e9f6f2cb3b",
+      "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+      "link": "https://oxide.computer/blog/voxel-labs",
+      "summary": "Article URL: https://oxide.computer/blog/voxel-labs Comments URL: https://news.ycombinator.com/item?id=50092423 Points: 117 # Comments: 13",
+      "published": "Wed, 14 Oct 2026 18:21:14 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6bb2f394b3d8287be82349831b79f72",
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "link": "https://clova.email/",
+      "summary": "Infinite inboxes, including prefixes where you don't have to create inboxes before you use them -- they self create when you add a suffix.Three types ...",
+      "published": "Wed, 14 Oct 2026 17:00:59 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "374814c0729621ddfca9cba50f53a135",
+      "title": "Has AI tells",
+      "link": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1 Comments URL: https://news.ycombinator.com/item?id=50090799 Points: 12...",
+      "published": "Wed, 14 Oct 2026 16:52:42 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb44020a6e55fe0281e3b7d5647a6995",
+      "title": "AWS Continuum で実現するデプロイごとのペネトレーションテスト",
+      "link": "https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/",
+      "summary": "従来は定期的な診断で行われていたペネトレーションテストを、CI/CD パイプラインのデプロイ後ゲートとして組み込む方法を紹介します。AWS Continuum for penetration testing は、直前にデプロイした変更にスコープを限定し、AI エージェントを使用して悪用可能な脆弱性を...",
+      "published": "Thu, 15 Oct 2026 08:42:57 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "58e44679e12eba2562dfe25dbf6b09eb",
+      "title": "AWS Lambda ウェブ関数の発表",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "summary": "2026 年 10 月 12 日、コードをイベントハンドラーに書き直さずに標準の HTTP ウェブアプリケーシ […]",
+      "published": "Thu, 15 Oct 2026 07:41:27 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b5b2ec9b285cbf7445a44057d5b113d",
+      "title": "Kiro のローカルサンドボックス: エージェントが実行するコマンドを境界内にとどめる",
+      "link": "https://aws.amazon.com/jp/blogs/news/local-sandboxing/",
+      "summary": "Kiro IDE と Kiro CLI で、ローカルサンドボックスが一般提供されました。エージェントが実行するコマンドを OS カーネルが強制するサンドボックスで動かし、書き込み先をプロジェクトに限定し、認証情報パスの読み取りを拒否し、ネットワークをドメイン単位で制限します。本記事では、エージェント...",
+      "published": "Thu, 15 Oct 2026 07:40:28 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9016ca4785f5cad145704328ba5f8689",
+      "title": "株式会社東京会計パートナーズ様が Amazon Bedrock で実現した、事業承継相談の入口を開く生成 AI チャットボット",
+      "link": "https://aws.amazon.com/jp/blogs/news/tokyo-kaikei-partners-bedrock-business-succession/",
+      "summary": "本ブログは 株式会社東京会計パートナーズ 様、株式会社ゼネット 様と Amazon Web Services […]",
+      "published": "Thu, 15 Oct 2026 05:11:22 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "11b6b2dedfb2051d01e855a3cdd07ccc",
+      "title": "【資料公開 & 開催報告】Kiro Meetup #8 ～三菱電機・東海旅客鉄道・オープンアップシステムが語る、Kiro を組織に広げる工夫～",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-meetup-20260924-report/",
+      "summary": "アマゾン ウェブ サービス ジャパン（AWS ジャパン）は、2026 年 9 月 24 日に「Kiro Meetup #8」を開催しました。まず AWS から、前回の Kiro Meetup 以降の半年間のアップデートと、常駐型エージェント基盤 Kiro Crew の仕組みを紹介しました。続いて、三...",
+      "published": "Thu, 15 Oct 2026 02:54:36 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0c90b9ea2dc4550a2b49b7359a0a49d",
+      "title": "【資料公開 & 開催報告】Kiro ハンズオン「手を動かして実感する、Kiro が変える開発体験」",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-handson-20260924-report/",
+      "summary": "アマゾン ウェブ サービス ジャパン（AWS ジャパン）は、2026 年 9 月 24 日に Kiro のハンズオンイベント「手を動かして実感する、Kiro が変える開発体験」を開催しました。AWS Workshop Studio の教材から 4 つのラボを選び、Kiro の仕様駆動開発（Spec）...",
+      "published": "Thu, 15 Oct 2026 02:54:23 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cb50f66af3a657689d18b183c0b60bf",
+      "title": "Kiro CLI でセキュリティ調査を迅速化",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-security-investigations-with-kiro-cli/",
+      "summary": "Kiro CLI を使用して、「AWS セキュリティインシデント対応ガイド」のフレームワークに沿ってセキュリティ調査を迅速化する方法を紹介します。自然言語のプロンプトで Amazon GuardDuty の検出結果をトリアージし、EC2 インスタンスや IAM 権限を分析します。さらに、隔離用セキュ...",
+      "published": "Thu, 15 Oct 2026 02:41:29 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b56e86338069a2c949f05e884564349",
+      "title": "Kiro と Amazon Q でセキュリティポスチャを強化する 5 つの方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/five-ways-to-use-kiro-and-amazon-q-to-strengthen-your-security-posture/",
+      "summary": "この記事では、Kiro と Amazon Q Developer を使用して AWS のセキュリティポスチャを強化する 5 つの方法を紹介します。ステアリングファイルとルールによる永続的なコンテキストでセキュリティ標準を組み込む方法をはじめ、MCP サーバーを活用した AWS Security Hu...",
+      "published": "Thu, 15 Oct 2026 02:39:51 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b82e77df68b403c07ae18200b575731",
+      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 2",
+      "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-2/",
+      "summary": "本ガイドのパート 2 では、ウェブアプリケーションの SSRF の脆弱性を起点に、IMDSv1 からの認証情報の窃取、リージョンホッピングを経て Amazon Bedrock が不正使用されたマルチステージ攻撃を、AWS CloudTrail のログから分析します。userIdentity、read...",
+      "published": "Thu, 15 Oct 2026 02:37:35 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6800996e3d6dbbfab2db7d028c086436",
+      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1",
+      "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+      "summary": "AWS CloudTrail ログには、疑わしいアクティビティを調査するために必要な証拠が含まれています。このパート 1 では、AWS の Security Incident Response Team (SIRT) が実践する調査手法を、2 つの実際のシナリオに沿って紹介します。1 つは、設定ミス...",
+      "published": "Thu, 15 Oct 2026 02:35:15 +0000",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "17aed256ef84e6fe3ff5472b58a55444",
+      "title": "バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261015de59803",
+      "summary": "ハンバーガーチェーン「バーガーキング」の運営会社は、アプリのシステムに対する不正アクセスが確認され、会員の情報、およそ1118万件が外部に漏えいしたと発表しました。漏れたのは会員の氏名、電話番号、メー…",
+      "published": "2026-10-15T07:06:47Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ac665294d454b1c7621913811f3955c",
+      "title": "有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）",
+      "link": "https://note.com/shiba_program/n/nd2d72747f8c5",
+      "summary": "こんにちは。くるしばです。 エラー監視サービスのSentry社が自社の開発チームで使っているコードレビューの基準を、明日から自分のプロジェクトにそのまま適用できるとしたら、ちょっと試してみたくならないでしょうか。 Claude Codeの「スキル」という仕組みを使うと、これが簡単に実現できます。決ま...",
+      "published": "2026-10-15T04:24:08Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d120ecbfd597ad5f60552f3c141d8a37",
+      "title": "PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性",
+      "link": "https://gazlog.jp/entry/ps5-can-run-27b-llm/",
+      "summary": "脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LM...",
+      "published": "2026-10-15T03:54:24Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89329b26d2d146974f75a8ccb861391a",
+      "title": "異例の「iPhone Air」投げ売りはなぜ起きている？ 定価29.5万円の1TBモデルが、いま18.4万円で買える3つの理由",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html",
+      "summary": "Appleの「iPhone Air」が、Amazon.co.jpのセールで異例の大幅割引となっている。定価29万4800円の1TBモデルが18万3500円で販売される背景には、日本独自仕様による過剰在庫など複雑な要因が絡み合っている。その市場のゆがみを読み解く。",
+      "published": "2026-10-14T23:13:47Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f872a3df9bb4385ddccef01ff02b0bd1",
+      "title": "雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
+      "summary": "株式会社ビットキーの高橋秀一郎（しゅういちろ）です。 20年ほどSIerでの実装から要件定義、役割としてはプロジェクトマネージャや組織の長を経験したのち、2024年にビットキーへ入社しました。現在は社内のエンジニアリングマネージャー（EM）を支援する立場から、組織開発や技術広報に携わっています。 チ...",
+      "published": "2026-10-15T01:33:17Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb4917cbfb6cb926fbeaebac197e3247",
+      "title": "ワールドガチャ｜架空の町をガチャで作ってマンガの背景に",
+      "link": "https://tools.oyasumi-gamedev.com/worldgacha/",
+      "summary": "光方位330°高さ45°落ち影月と時刻月10時刻15:00空気物陰100%かすみ100%空トーン影100%固有色100%模様大きさ40%🎲不透明度100%塗りで表現するベタ範囲40%白抜き",
+      "published": "2026-10-15T04:01:12Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0a20094461d889e1a67069942d70600",
+      "title": "『RPGツクール』『ウディタ』『Bakin』『SRPG Studio』開発者が集結した濃厚対談。「ゲームを作るのは難しい」、その思い込みを壊したい - AUTOMATON",
+      "link": "https://automaton-media.com/articles/interviewsjp/twbs-20261015-473432/",
+      "summary": "誰しも一度は「自分だけのゲームを作ってみたい」と思い立ったことがあるのではないだろうか。そんな野望の実現を助け、日本のインディゲーム・フリーゲーム文化を支え続けてきたのが、国産のノーコードゲーム制作ツールの存在だ。 弊誌AUTOMATONでは、国内のノーコードゲーム制作ツールの開発者の方々にお声がけ...",
+      "published": "2026-10-15T03:02:45Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e9daad6fe4e94fbed134c02279c5a3e",
+      "title": "国家サイバー統括室、経済産業省、GitHubの登壇決定！10月28日開催「AI×Security Conference〜AI前提で変わる統制・防御・運用〜」申込受付中",
+      "link": "https://prtimes.jp/main/html/rd/p/000000279.000045379.html",
+      "summary": "ファインディ株式会社（東京都品川区、代表取締役：山田 裕一朗、以下「当社」）は、2026年10月28日（水）開催のカンファレンス「AI×Security Conference ～AI前提で変わる統制・防御・運用～」にて、基調講演に内閣官房 国家サイバー統括室とGitHub、特別登壇に経済産業省が登壇...",
+      "published": "2026-10-15T04:05:31Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1c0ae3ded6aad69a5d129aa17d93dd0",
+      "title": "Furifont: furigana built into the font",
+      "link": "https://furifont.antfu.me/",
+      "summary": "A Japanese font that shows furigana by itself.",
+      "published": "2026-10-15T04:23:01Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e1bb73cde04025ef26636dcf6687e7d",
+      "title": "E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20261015a/",
+      "summary": "古来よりDBにモックを使うとか使わないとか話題になるのは、DBというものをプログラムからコントロールするのに制約が多かったからではないかと思います。で、オンメモリのDBのH2を使うなり、SQLiteを使うなどしようとしても、今度は使うDBMSとの差が出てしまってテストとしての品質が上がらないと。 ト...",
+      "published": "2026-10-15T03:03:29Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "487a345ed07dece9a397852847de81c4",
+      "title": "Jevが画像入力に対応＆長大コンテキストに対応＆意思決定モデルのベンチマークテストも発表",
+      "link": "https://gigazine.net/news/20261015-jev-1-14/",
+      "summary": "大規模言語モデル(LLM)とは大きく異なる設計の「意思決定モデル」として注目を集めたAIモデル「Jev」が、改良版の「Jev 1.14.0」を2026年10月14日にリリースしました。Jev 1.14.0では新たに画像入力に対応したほか、より長いコンテキストといった実験的な機能も追加されています。 ...",
+      "published": "2026-10-15T03:35:29Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6023bccd0a2fb0057506d6224700cd9d",
+      "title": "Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮",
+      "link": "https://gigazine.net/news/20261015-apple-minions/",
+      "summary": "Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 ...",
+      "published": "2026-10-15T01:58:29Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44ce344c974b4604522ccc53d735fc40",
+      "title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信 報告書の隠しテキストで呼び込む",
+      "link": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
+      "summary": "AI研究者らのグループ「Swarmchasers」は10月14日（現地時間）、中国Tencentのクラウド上で稼働していたAIエージェント群に関する調査報告書「We found a Chinese fleet」を公開した。同グループは、タスクの範囲を逸脱して動くこのエージェント群に、自分たちの報告書...",
+      "published": "2026-10-15T00:14:49Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aab2af35c1ef977c0cf301ebd3024cb2",
+      "title": "米マイクロソフト、中国語圏の巨大詐欺ネットワークを遮断 日本の警察庁の情報がきっかけ",
+      "link": "https://japan.cnet.com/article/35253569/",
+      "summary": "Microsoftは米国時間10月14日、世界各国で10億通を超える詐欺メッセージの送信に使われた犯罪基盤の遮断に乗り出したと発表した。米国の裁判所命令に基づき、フィッシングサイトの作成ツールなどを提供していた3サービスの関連ドメインを差し押さえた。調査のきっかけとなったのは、日本の警察庁からの情報...",
+      "published": "2026-10-15T02:11:32Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5906803597d6c46e7fa9d1ab1048c8b3",
+      "title": "サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+      "link": "https://blog.cybozu.io/entry/2026/10/14/090000",
+      "summary": "はじめに こんにちは。ログ基盤チームの吉本です。 cybozu.com では、2018年のブログ記事でご紹介したログ基盤を長期にわたって運用してきましたが、このたびサイボウズの Kubernetes 基盤である Neco へ移行しました。 今回の移行では、旧ログ基盤が抱えていた課題や移行に伴う制約を...",
+      "published": "2026-10-14T13:02:13Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "179de910ba3df0e7b1b62f30c02a98f8",
+      "title": "Stripeサブスクの課金→解約→再課金、デプロイ前に全部ローカルで通す——Stripe CLIでハマった罠3つ",
+      "link": "https://zenn.dev/tyuya/articles/stripe-local-subscription-test",
+      "summary": "個人でAI献立アプリを準備しています。月500円のサブスクで、構成はCloudflare Worker + D1、決済はStripeです。実装はすべてClaude Code（AI）にやってもらい、私は動作とレシートを確認する係です。 課金まわりで一番怖いのは、「コードは書けた、たぶん動く」の状態で本...",
+      "published": "2026-10-14T12:03:00Z",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4a65f19a5f6737b2617f592d7158aec",
+      "title": "生成しない拡散モデル Nemotron Deciffusion 8B を DGX Spark で試してみた",
+      "link": "https://dev.classmethod.jp/articles/nemotron-deciffusion-8b-decision-model-dgx-spark/",
+      "summary": "文章を書かず、穴埋め 1 マスで判定だけを返す拡散モデル Nemotron Deciffusion 8B を DGX Spark で動かしました。手元のルーターの 528 件を流すと zero-shot で Jev と同じ水準、1 判定 138 ms。拡散モデルの意外な使い道と、足りなかったところを...",
+      "published": "Thu, 15 Oct 2026 07:55:57 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ece34b15750b45b8c1c94667a7f5503",
+      "title": "Lambda Web FunctionsのNode.jsでCPUバウンドな処理をすると、ほかのリクエストは待たされるか？",
+      "link": "https://dev.classmethod.jp/articles/shuntaka-lambda-web-functions-nodejs-cpu-bound/",
+      "summary": "Lambda Web Functions で CPU バウンドなリクエストが同時実行されたとき、本当にほかのリクエストを止めるのか、実際に測定して確かめました。結果は、空いている環境があれば Lambda は処理中の環境を避けます。どの環境も処理中なら Node.js は待たされ、Go は待たされな...",
+      "published": "Thu, 15 Oct 2026 07:40:20 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "28fba556b533799ccf81cfbb1e1333cb",
+      "title": "Amazon SES でトランザクションメール送信を設計するときの検討項目まとめ",
+      "link": "https://dev.classmethod.jp/articles/amazon-ses-transactional-email-design-notes/",
+      "summary": "Amazon SESでトランザクションメール送信を実装するにあたって、検証レコードの設定、サンドボックスの解除、送信履歴の保存、バウンス監視など、意外と多くの検討項目があることに気づきました。本記事では、実装時に検討した項目と対策をまとめています。",
+      "published": "Thu, 15 Oct 2026 07:29:14 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "66b845f6fca0cece124c743b72bd862d",
+      "title": "EC2の終了保護をシェルスクリプトで一括有効化してみた",
+      "link": "https://dev.classmethod.jp/articles/enable-termination-protection-2026-10-15/",
+      "summary": "おはようございます。gio です。 AWSの運用を始めると次第に管理するEC2インスタンスが多くなると思います。 そんなときに作業ミスなど予期せぬ事象でEC2インスタンスを誤って終了してしまうのを防ぐため、終了保護を一括で有効化するシェルスクリプトをAIと壁打ちしながら作成しました。 「数十台起動し...",
+      "published": "Thu, 15 Oct 2026 07:25:27 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1a3081e49d82c1af606e44dfadfa9a9",
+      "title": "Alteryx One プラットフォームにて Workspace Execution を実行する方法を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-alteryx-one-workspace-execution-202610/",
+      "summary": "Alteryx One プラットフォームで Designer Desktop のワークフローを自動・手動実行できる「Workspace Execution」機能について、具体的な操作手順を紹介します。",
+      "published": "Thu, 15 Oct 2026 06:26:57 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a64c46ea9fbfd7a74e26b216f6ed5b5b",
+      "title": "[新機能]SnowflakeのWITH GRANT OPTIONでロールの付与が可能に！部門ごとの管理者ロールにロール付与を委任するシナリオを試してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-try-with-grant-option-grant-role/",
+      "summary": "Snowflakeのロール付与に`WITH GRANT OPTION`が追加されました。この機能を使うと、ロール所有権を中央管理者に残したまま、部門管理者に特定ロールの付与権限を委任できます。実際の運用シナリオを交えながら、設定方法と動作を確認してみました。",
+      "published": "Thu, 15 Oct 2026 03:09:38 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d260e7add8d3a548932d7ca08d6c65b9",
+      "title": "アプリとDBの間の往復遅延が応答時間に与える影響を TiDB Cloud Starterで計測した",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-network-latency-app-response/",
+      "summary": "アプリと TiDB Cloud Starter の間の往復遅延と、1 リクエストあたりの SQL の回数を変えて応答時間を計測しました。応答時間の増分は、往復遅延と逐次の往復回数の積でおおむね決まってくると分かりました。SQL の集約で応答時間を 65% 以上、接続の使い回しで 70% 以上削減でき...",
+      "published": "Thu, 15 Oct 2026 02:46:08 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8b9e614e897b1bec5fcdf043c7157b0",
+      "title": "Amazon Bedrock AgentCore IdentityのOn-Behalf-Of（OBO）トークン交換機能を実際に試して理解を深めてみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-identity-obo-entra-id/",
+      "summary": "On-Behalf-Of（OBO）トークン交換を実際に試してみました！理解するのが難しいですね・・・！！！！",
+      "published": "Thu, 15 Oct 2026 02:44:23 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f99088e58b715e8c34d6e9a582999ac2",
+      "title": "Claude Code v2.1.300 の主要アップデート - OpenTelemetry の GenAI 属性追加 と Claude Platform on AWS の /advisor 対応",
+      "link": "https://dev.classmethod.jp/articles/20261015-cc-updates-v2-1-300/",
+      "summary": "Claude Code v2.1.300のアップデート内容をご紹介します。AWS上での運用やOpenTelemetryの監視設定、フック機能を活用している方に特に関係のある変更が多いリリースです。",
+      "published": "Thu, 15 Oct 2026 02:39:12 GMT",
+      "fetched_at": "2026-10-15T08:42:56.257096+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-15T02:34:11.655608+00:00"
+  "updated_at": "2026-10-15T08:42:56.257096+00:00"
 }

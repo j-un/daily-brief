@@ -29,7 +29,327 @@
       "fetched_at": "2026-10-15T14:34:13.018563+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "60bdcf15f3c0df1f9f2f1b8f038034b6",
+      "title": "NTS: Authenticated Time at Meta - Engineering at Meta",
+      "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 NTS: Authenticated Time at Meta",
+      "published": "16 Oct 2026 01:56 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5ea0f7de6ceb5a1f9413ceb2ffb167f",
+      "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+      "published": "15 Oct 2026 23:56 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36a31abb9f16d629404089d5a461cb4c",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+      "published": "15 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d600f4c050edf12ac98143ce4c16f1dd",
+      "title": "Tesla Roadster",
+      "link": "https://www.tesla.com/roadster",
+      "summary": "Article URL: https://www.tesla.com/roadster Comments URL: https://news.ycombinator.com/item?id=50112657 Points: 163 # Comments: 157",
+      "published": "Fri, 16 Oct 2026 01:32:45 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49cb201c395eefc4d127ee44303db57",
+      "title": "Using AI to reverse engineer hardware",
+      "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "summary": "Article URL: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/ Comments URL: https://news.ycombinator.com/item?id=50104299 Point...",
+      "published": "Thu, 15 Oct 2026 14:35:15 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f102bd16afea4705a9642261a8c59a66",
+      "title": "Kimi K3 が Kiro で利用可能になりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/kimi-k3/",
+      "summary": "本日、Moonshot AI の Kimi K3 モデルが Kiro で利用可能になったことをお知らせします。Kimi K3 は、Moonshot AI によると世界初の 2.8T パラメーターのオープンウェイトモデルで、これをエージェンティックな開発ワークフローの中で直接使えるようになります。10...",
+      "published": "Fri, 16 Oct 2026 01:31:37 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "94aef246e9d2a1b20a1fced5f95732f0",
+      "title": "経済産業省 GENIAC ロボット基盤モデルの研究開発における採択事業者への支援を開始",
+      "link": "https://aws.amazon.com/jp/blogs/news/geniac-cycle4-robotics-kick-off/",
+      "summary": "2026年9月9日、経済産業省と国立研究開発法人新エネルギー・産業技術総合開発機構 (NEDO) が実施する […]",
+      "published": "Fri, 16 Oct 2026 01:18:56 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9afa2d6a2f36d78491c5e29073cb483",
+      "title": "Amazon S3 Access Points で Amazon FSx for NetApp ONTAP 上のデータに AWS サービスからゼロコピーでアクセスする",
+      "link": "https://aws.amazon.com/jp/blogs/news/enable-zero-copy-access-to-aws-services-on-amazon-fsx-for-netapp-ontap-with-amazon-s3-access-points/",
+      "summary": "半導体の検証チームが毎晩生成する大量の EDA ログを、データを移動せずに AI で分析するアーキテクチャを紹介します。Amazon S3 Access Points を使って Amazon FSx for NetApp ONTAP 上のログに S3 API でアクセスし、Amazon Bedroc...",
+      "published": "Fri, 16 Oct 2026 00:56:58 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6acb377246c016cda8ae26e96d1f7e08",
+      "title": "エージェンティック AI への備え: 金融サービスにおけるセキュリティアプローチ",
+      "link": "https://aws.amazon.com/jp/blogs/news/preparing-for-agentic-ai-a-financial-services-approach/",
+      "summary": "金融サービスでエージェンティック AI をデプロイするには、AI 固有のリスクに対処する追加のセキュリティ統制が必要です。この記事では、説明可能性と説明責任を支える包括的なオブザーバビリティときめ細かなアクセス制御に焦点を当て、7 つの中核的な設計原則を説明します。さらに、Amazon Bedroc...",
+      "published": "Fri, 16 Oct 2026 00:07:00 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5011423ae62b49d9a9102e408dd896df",
+      "title": "エージェンティック AI システムのための 4 つのセキュリティ原則",
+      "link": "https://aws.amazon.com/jp/blogs/news/four-security-principles-for-agentic-ai-systems/",
+      "summary": "AWS が NIST CAISI の情報提供依頼 (RFI) に提出した回答を基に、エージェンティック AI の 4 つのセキュリティ原則を紹介します。4 つの原則は、セキュアな開発ライフサイクル、従来のセキュリティ制御の継続適用、エージェントの外部に置く決定論的な制御 (セキュリティボックス)、評...",
+      "published": "Fri, 16 Oct 2026 00:02:22 +0000",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd62925bc6477d93b776e426aaf7a7f9",
+      "title": "Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/",
+      "summary": "Web Search on Amazon Bedrock AgentCore is now available in four additional AWS Regions: US East (Ohio), US West (Oregon), Asia Pacific (Sydney), and A...",
+      "published": "Thu, 15 Oct 2026 20:40:00 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfc1d73e4c140a6dd65c48851678f60d",
+      "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+      "link": "https://gigazine.net/news/20261016-linus-torvalds-claude-code/",
+      "summary": "Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improv...",
+      "published": "2026-10-15T21:32:18Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9dbbd5e5968135c17ee55693f32d2c72",
+      "title": "速くて安いAI「Jev」でQAを自動化してみた - every Tech Blog",
+      "link": "https://tech.every.tv/entry/2026/10/15/125805",
+      "summary": "はじめに こんにちは！株式会社エブリーで1ヶ月間、iOS エンジニアとしてインターンをしていた木村風葉です。ヘルシカの iOS チームで、食事記録まわりの改善や無料会員向けの機能追加など、いくつかの機能開発に取り組みました。 この記事では、インターンの後半に取り組んだ「Jev」という新しいAIを使っ...",
+      "published": "2026-10-15T09:51:51Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7382b65be572372606c7830d873ee135",
+      "title": "2026年10月「Windows Update」でWi-Fi/VPNに接続できない問題、脱「NTLMv1」が影響／あらかじめ計画されていた変更、パッチの不具合ではない",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2148594.html",
+      "summary": "",
+      "published": "2026-10-15T23:16:45Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6d0f301c854c54b3d06d69d82fb85b9",
+      "title": "タイムズカー情報流出、信用機関に悪用防止要請殺到 クレカ発行に手間 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC084IG0Y6A001C2000000/",
+      "summary": "パーク24のカーシェアサービス「タイムズカー」における免許証画像流出を受け、信用情報機関に悪用防止の届け出が殺到している。クレジットカードの審査を厳格にして、なりすましを防ぐためだ。一方、本人でも発行までに手間がかかる可能性がある。システムへの不正アクセスによってタイムズカーでは約160万件分の免許...",
+      "published": "2026-10-15T21:42:04Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "678cdbac57464967de2c9426153f926d",
+      "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+      "link": "https://zenn.dev/solvio/articles/6d374a9224327a",
+      "summary": "Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropic...",
+      "published": "2026-10-15T12:35:58Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c50289be5b5213e780b8d67f535bb501",
+      "title": "「セキュリティソフトも売ってるのに」ソースネクスト会員情報漏えい、パスワード含む最大2252万件 API不正利用される",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002312/",
+      "summary": "流出した可能性がある情報は、メールアドレス、パスワード、氏名、氏名カナ、住所、性別、電話番号、FAX番号、生年月日、会社名、役職名、部署名、システム固有の識別情報（加入サービス・登録日・ログイン日など）。対象項目は登録状況により異なる。クレジットカード情報は対象システムに保存しておらず、流出の対象に...",
+      "published": "2026-10-15T22:45:27Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d100aa724e36671f5bede3e82c7d3cf5",
+      "title": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で",
+      "link": "https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html",
+      "summary": "AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 ...",
+      "published": "2026-10-15T14:34:05Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac06d2f41ce7e2be580f6ac6913afc4c",
+      "title": "Maintaining software with the GPT-6 family | OpenAI Developers",
+      "link": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family",
+      "summary": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.",
+      "published": "2026-10-15T16:48:54Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "506e027a2fd54185db1bdc5716effb31",
+      "title": "「『楽天カード公式』から詐欺メール」報告相次ぐ ドコモメールに公式マーク付きフィッシング、一部企業の認証設定に脆弱性",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002314/",
+      "summary": "「楽天カードの認証マーク付き詐欺メールが、ドコモメールに届いた」といった報告が、10月15日ごろからXで相次いでいる。送信ドメイン認証をすり抜けたとみられるフィッシングメールが出回っているようだ。 NTTドコモは15日、「ドコモメール」あてに届いたフィッシングメールに、「ドコモメール公式アカウント」...",
+      "published": "2026-10-16T01:57:36Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afa50d35d6c670cc5f01e57008a7e0e7",
+      "title": "NTTソルマーレの「コミックシーモア」閲覧停止に 不正アクセスか - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC15CEQ0V11C26A0000000/",
+      "summary": "電子書籍ストア「コミックシーモア」を運営するNTTソルマーレは15日、コミックシーモアのサーバーが外部から不正アクセスを受けた可能性が高いと発表し",
+      "published": "2026-10-15T22:05:36Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eaa78987dd0eb4d503b84de835fb300",
+      "title": "Deploy with Void",
+      "link": "https://blog.cloudflare.com/deploy-with-void/",
+      "summary": "VoidZero's tools such as Vite, Vitest, Oxc, and Rolldown — bundled in one toolchain as Vite+ — have made frontend development faster, but building ful...",
+      "published": "2026-10-15T14:36:02Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "93aaf63522e31e8fbabc2a633e44cc08",
+      "title": "宿泊予約管理サービス「TEMAIRAZU」に不正アクセス、予約者に不審なメッセージがあり判明 宿泊予約や緊急の支払い、カード情報の再入力を求めるメッセージに注意を",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2144711.html",
+      "summary": "",
+      "published": "2026-10-01T03:01:42Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a27bde415ca9e1ca3c2a9be271e2a5c",
+      "title": "MySQL の Functional Index で状態に応じた一意制約をかける - inSmartBank",
+      "link": "https://blog.smartbank.co.jp/entry/mysql-functional-index",
+      "summary": "こんにちは、スマートバンクでプロダクトエンジニアをしている yuhi（@yuhi_junior）です。 皆さんはレコードの状態を表すカラムの値に応じて一意制約をテーブルにかけたいと思ったことはありませんか？意図しない状態のレコードが混入しないことをデータベース層で担保できたら嬉しいですよね。 今回は...",
+      "published": "2026-10-15T08:26:37Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9fc00c75bc1719fc8fca125b221e6fb2",
+      "title": "老舗の高速ファイラー「As/R」がv20.0に、“なんだか大きな節目”／Shift JISのコードをUnicodeに、開発環境は「Visual Studio 2026」へ、MDIモードも廃止へ",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2147362.html",
+      "summary": "",
+      "published": "2026-10-15T09:51:05Z",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "74953cc495fca5fe0146cc9df8b7f906",
+      "title": "【アップデート】Gemini Enterprise アプリで Claude Opus 5.5 / Sonnet 5.5 が使えるようになりました",
+      "link": "https://dev.classmethod.jp/articles/gemini-enterprise-claude-opus-5-5-sonnet-5-5-update/",
+      "summary": "ついに来た！！！Gemini Enterprise アプリでもClaude Opus 5.5 / Sonnet 5.5が使えるようになって今後様々なモデルに対応しそうな予感っ！",
+      "published": "Fri, 16 Oct 2026 02:24:37 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e49f2ea1251c826622c717abb61d27b1",
+      "title": "Unitree Go2 がクラスメソッド名古屋オフィスに出張中です",
+      "link": "https://dev.classmethod.jp/articles/unitree-go2-visit-classmethod-nagoya/",
+      "summary": "クラスメソッド大阪オフィスに新しく仲間入りしたUnitree Go2が、現在名古屋オフィスに出張中です。",
+      "published": "Fri, 16 Oct 2026 01:55:39 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d77592d2e076982c7be1595f5615c3b7",
+      "title": "public previewのTiDB Cloud Filesystemを触ってみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-filesystem-trial/",
+      "summary": "TiDB Cloud Filesystemをpublic previewで試してみたので、Macへのマウント、CLI操作、Claude Codeでの利用まで、実際に使ってみた内容をお伝えします。",
+      "published": "Fri, 16 Oct 2026 01:55:38 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "689d09e9dc9d8a081c7a90d00099cf8e",
+      "title": "GitHub Actionsのworkflow lockfileを試す。actions.lockで依存をcommitに固定し、ズレたら実行前に止める",
+      "link": "https://dev.classmethod.jp/articles/github-actions-workflow-lockfiles/",
+      "summary": "GitHub Actionsのworkflow lockfileがpublic previewになりました。gh actions-lockでactions.lockを生成し、推移的依存の記録、未更新時の実行停止、タグが動いても固定commitで動くことを試しました。",
+      "published": "Fri, 16 Oct 2026 01:05:50 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f66d4424d66efa35f91680aa53507cf",
+      "title": "GA になった Lambda durable functions の Go SDK、所要時間を Python SDK と比較してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-durable-functions-go-sdk/",
+      "summary": "AWS Lambda durable functions の Go SDK が GA になりました。同じ逐次処理の所要時間を Python SDK と比較し、Go SDK と Python SDK 2.0.1 が 1.5.0 より短い時間で終わることを確認しました。",
+      "published": "Fri, 16 Oct 2026 00:56:10 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "94f54fb035f77f4e078065cdd1a66cb9",
+      "title": "PostgreSQL 19 RC1 を Amazon RDS Database Preview Environment で試してみた",
+      "link": "https://dev.classmethod.jp/articles/rds-preview-postgresql-19-rc1/",
+      "summary": "Amazon RDS Database Preview Environment の PostgreSQL 19 RC1 で、COPY の JSON 出力キーが別名になること、SQL/PGQ が含まれないことを確認しました。RC2 と GA の予定日も紹介します。",
+      "published": "Fri, 16 Oct 2026 00:33:05 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "acd2226bffeb0789d76b0645250b0919",
+      "title": "VPC origin がデュアルスタックをサポート。CloudFrontのオリジンリクエストが ALB まで IPv6 で届くか試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-cloudfront-vpc-origin-dualstack/",
+      "summary": "CloudFront VPC origin のデュアルスタック対応を、internal ALB への IPv6 接続で検証しました。VPC には通常の IGW が必要ですが、サブネットの IPv6 デフォルトルートを Egress-only IGW に向けた構成で作成できます。",
+      "published": "Thu, 15 Oct 2026 23:05:22 GMT",
+      "fetched_at": "2026-10-16T02:29:12.912654+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-15T22:52:08.445045+00:00"
+  "updated_at": "2026-10-16T02:29:12.912654+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "975fe2c668b1754d30f82647dab46197",
-      "title": "Deno is joining Cloudflare | Cloudflare Blog",
-      "link": "https://blog.cloudflare.com/deno-joins-cloudflare/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Deno is joining Cloudflare",
-      "published": "15 Oct 2026 10:56 +0000",
-      "fetched_at": "2026-10-15T14:34:13.018563+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "60bdcf15f3c0df1f9f2f1b8f038034b6",
       "title": "NTS: Authenticated Time at Meta - Engineering at Meta",
       "link": "https://engineering.fb.com/2026/10/06/production-engineering/nts-authenticated-time-at-meta/",
@@ -1099,7 +1089,287 @@
       "fetched_at": "2026-10-16T14:25:22.720024+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "0e6fd8656fe473b15c74baa13b8064e8",
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "summary": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 181 # Comm...",
+      "published": "Fri, 16 Oct 2026 17:08:38 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "783049044510a69549108ce0b8f7867e",
+      "title": "Desire to Move Permanently to U.S. at New Low",
+      "link": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+      "summary": "Article URL: https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx Comments URL: https://news.ycombinator.com/item?id=50120664 Points:...",
+      "published": "Fri, 16 Oct 2026 16:38:02 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e3b72cbd03ab2cdb6cd3ac4db271370",
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "link": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "summary": "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 101 # Comments: 77",
+      "published": "Fri, 16 Oct 2026 16:12:02 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "639d5c99d20f9515a83152837792e32a",
+      "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+      "link": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+      "summary": "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments...",
+      "published": "Fri, 16 Oct 2026 16:03:02 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6465daa73c7936ceea38b4f75cc9560",
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "summary": "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Commen...",
+      "published": "Fri, 16 Oct 2026 15:55:40 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de003deb04bc6428d004a24489cdfe03",
+      "title": "Hello Toronto – Waymo Is En Route",
+      "link": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "summary": "Article URL: https://waymo.com/blog/2026/10/waymo-in-toronto/ Comments URL: https://news.ycombinator.com/item?id=50118981 Points: 123 # Comments: 245",
+      "published": "Fri, 16 Oct 2026 14:44:17 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c80781eab0b83edfdb02e284015042a",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "link": "https://calif.io/research/big-fish",
+      "summary": "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 124 # Comments: 35",
+      "published": "Fri, 16 Oct 2026 14:44:02 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5446a6af193e11db151212962d8c6a25",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "link": "https://starskirmish.com/bench/v0-2/",
+      "summary": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropi...",
+      "published": "Fri, 16 Oct 2026 14:18:44 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a12b0ece6efe013faea6aa7b8ce75245",
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "summary": "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: ...",
+      "published": "Fri, 16 Oct 2026 13:43:48 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "968c331586a9c0118b0487072eb3a525",
+      "title": "I Love Software Rendering",
+      "link": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "summary": "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points:...",
+      "published": "Fri, 16 Oct 2026 12:52:08 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7541a667f339e6aa87824da352e8c3a6",
+      "title": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/",
+      "summary": "AWS Lambda durable functions are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. Lambda durable functions enable devel...",
+      "published": "Fri, 16 Oct 2026 18:26:00 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6027fede7862c1aa9981260cbb94f0dc",
+      "title": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/",
+      "summary": "NVIDIA's Nemotron 3.5 Super VL is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers...",
+      "published": "Fri, 16 Oct 2026 17:59:00 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1c529efbd0176d5332247e8bd7086d1",
+      "title": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/",
+      "summary": "Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI...",
+      "published": "Fri, 16 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e999abf46709057550b53424f5087300",
+      "title": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/",
+      "summary": "Today, AWS announced the general availability of application code conversion from Azure SDK to AWS SDK in AWS Transform, giving you an accelerated pat...",
+      "published": "Fri, 16 Oct 2026 13:50:00 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ccc7635b3c8ed07bc8c90957d0e727d",
+      "title": "漏えいが起きたときに最初に読んでほしい章を、発売前に公開します - 思い出したいことがある",
+      "link": "https://www.seko-law.com/entry/reort",
+      "summary": "1.今日のテーマ 今回は、2026年11月30日に有斐閣から発売される『個人情報保護法に基づくインシデント対応の実務』の一部を、発売に先駆けてこのブログで公開します。 公開するのは、本書第1部第1章「総論」の手元原稿です。インシデント対応の全体の流れと本書の読み方に加えて、個人情報保護委員会への報告...",
+      "published": "2026-10-16T12:50:09Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6eeaad66219a1df16028dd04d6b6e0c6",
+      "title": "Linux カーネルのネットワーク機能におけるページキャッシュの上書きが可能となるデータ検証不備の脆弱性（Scan Tech Report） | ScanNetSecurity",
+      "link": "https://scan.netsecurity.ne.jp/article/2026/10/16/56483.html",
+      "summary": "2026 年 5 月に修正された Linux カーネルの脆弱性を悪用するエクスプロイトコードが公開されています。",
+      "published": "2026-10-16T09:51:02Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d4bd9ac5f9e072ad4872d011df1fec2",
+      "title": "楽天モバイル、「iPhone Duo」の価格を発表 約43万円～",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2148880.html",
+      "summary": "",
+      "published": "2026-10-16T09:00:14Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8d2cdbabe7e1840712a11c6acd2ef4e",
+      "title": "TimeTreeはいかに国内外でアプリをグロースしていったのか―ad:tech tokyo 2024参加レポート（2）｜Moloco Japan",
+      "link": "https://note.com/moloco_japan/n/nacafc9a89df2",
+      "summary": "こんにちは！ Molocoです。「ad:tech tokyo 2024」のMolocoブースで開催したオリジナルセッションレポート第2弾です。アプリビジネスを営む方の最大の課題は「サービスの価値をいかに向上し、グロースさせていくか」という点に尽きると思います。そこでオリジナルセッションでは、2024...",
+      "published": "2026-10-16T14:30:05Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3760550fd4aaeea77e67c2544134e984",
+      "title": "コミックシーモアが不正アクセス確認 会員情報が漏えい | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60740",
+      "summary": "漫画を中心とした電子書籍を配信する「コミックシーモア」の運営会社は、不正アクセスによりメールアドレスなどの会員情報が流出したと発表しました。 電子書籍を配信する「コミックシーモア」は、外部からの不…",
+      "published": "2026-10-16T12:29:06Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7be801390a83ecc6a993fda833155d59",
+      "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
+      "link": "https://gigazine.net/news/20261016-openrouter-armor/",
+      "summary": "複数のAIモデルを利用できるサービス「OpenRouter」が、AIエージェントによる危険なツールの実行を防ぐ新機能「Armor」をリリースしました。ArmorはAIエージェントが実行しようとする操作を別のAIモデルで事前にチェックし、設定されたルールに違反する操作を自動的にブロックする機能です。記...",
+      "published": "2026-10-16T10:25:01Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ead06379599de0ea95e72c7cdb744008",
+      "title": "メモリ8GBのPCを救えるか。Windows 11、応答性が最大20%向上",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2148743.html",
+      "summary": "",
+      "published": "2026-10-16T06:15:17Z",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7fd2599762c2f9c8af3a2b3e5466d18",
+      "title": "Anthropicの蒸留攻撃対策レポートを読む：preserved thinkingでClaude APIの会話履歴の扱いがどう変わるか",
+      "link": "https://dev.classmethod.jp/articles/anthropic-distillation-defenses-preserved-thinking/",
+      "summary": "Anthropicが2026年10月12日に公開した蒸留攻撃対策の記事を読み、蒸留者が集められるデータを約90〜99%減らしたという3つの防御と、API連携側に影響するpreserved thinkingの仕様、遮断リクエストへの課金をドキュメントと突き合わせて整理します。",
+      "published": "Fri, 16 Oct 2026 18:49:41 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6da0b776083c6cd2d5682de41652bf6",
+      "title": "Claude CodeのCVE-2026-86063を手元で確かめる。git checkoutはコミットSHAより同名ブランチを優先する",
+      "link": "https://dev.classmethod.jp/articles/claude-code-plugin-sha-pin-bypass/",
+      "summary": "Claude Codeのプラグイン導入でコミットSHAの固定をすり抜けられた問題を、空コミットだけのローカルリポジトリで確かめました。git checkoutが同名ブランチを優先する仕組みと、SHA固定の取得を安全に書く方法を整理します。",
+      "published": "Fri, 16 Oct 2026 17:26:05 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fa880df19278cbc098243e09358288c",
+      "title": "AWS セキュリティ速報 2026-137-AWS（CVE-2026-99999）は通常の EC2 は対象外。影響範囲を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-security-bulletin-2026-137-kvm-kernel/",
+      "summary": "CVE-2026-99999 の対象を整理しました。EC2、Lambda、Fargate は対象外で、影響を受けるのは KVM を自己管理するホストです。ベアメタルやネスト仮想化で VM を動かす場合の見分け方と、Amazon Linux 2 / 2023 での修正方法をまとめます。",
+      "published": "Fri, 16 Oct 2026 16:47:32 GMT",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5257f2930ce0badcfe1dd3dd2aded6d",
+      "title": "The myth of Drexciya is coming to the Toronto Biennial — with playlist",
+      "link": "https://cdm.link/drexciya-toronto/",
+      "summary": "The myth of Drexciya is getting its moment at the Toronto Biennial, as retold by Underground Resistance. That's free through December 20th if you're i...",
+      "published": "Fri, 16 Oct 2026 14:59:10 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "1572e2c9ec603e760a0b67cd591ce81c",
+      "title": "Excite Audio bundle bargains – save on these huge plugin bundles at Plugin Boutique with up to 62% off",
+      "link": "https://musictech.com/news/gear/excite-audio-bundle-deals-plugin-boutique/",
+      "summary": "Go all out on the complete collection, or grab a bundle of artist plugins for less... The post Excite Audio bundle bargains – save on these huge plugi...",
+      "published": "Fri, 16 Oct 2026 16:20:12 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "859a51ba3ed13502aa25471401fed989",
+      "title": "Time to revamp your studio? Find huge savings on equipment across Sweetwater’s Studio & Recording deals event",
+      "link": "https://musictech.com/news/gear/sweetwater-studio-recording-gear-deals-2026/",
+      "summary": "Get ready to refresh your studio for 2027 with over 600 products on offer right now at Sweetwater... The post Time to revamp your studio? Find huge sa...",
+      "published": "Fri, 16 Oct 2026 14:35:18 +0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "5e68bf0e8bdeb126eea512eddb9a34fa",
+      "title": "The Best Latin Music on Bandcamp, September 2026",
+      "link": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026",
+      "summary": "The best Latin music releases from October. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 16 Oct 2026 15:46:35 -0000",
+      "fetched_at": "2026-10-16T19:08:59.143344+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-16T14:25:22.720024+00:00"
+  "updated_at": "2026-10-16T19:08:59.143344+00:00"
 }

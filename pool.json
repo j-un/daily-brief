@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2198930807482130b066d5343ebc70f4",
-      "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
-      "link": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Meta and Microsoft Limit Employee Use of Claude AI Tools",
-      "published": "15 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-15T02:34:11.655608+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "51bb43d96b509fc25229718ec1c0a6a5",
       "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表 － Publickey",
       "link": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
@@ -349,7 +339,437 @@
       "fetched_at": "2026-10-16T02:29:12.912654+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "233e6cb617f0a3e9c496d078e20c1603",
+      "title": "Why \"secure by design\" is the new standard for open source",
+      "link": "https://www.redhat.com/en/blog/why-secure-design-new-standard-open-source",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Why \"secure by design\" is the new standard for open source",
+      "published": "16 Oct 2026 06:56 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cf9ab159854e26dec1f652d3fc0b65a",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://medium.com/pinterest-engineering/from-activity-to-intent-generating-user-journeys-with-llms-9652b9417626",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 From Activity to Intent: Generating User Journeys with LLMs | by Pinterest Engineering | Pinterest Enginee...",
+      "published": "16 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f221bda3842400d413a915fec91a8a4e",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://medium.com/pinterest-engineering/metrics-board-building-an-agent-ready-metrics-layer-2c8fefe68756",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Metrics Board: Building an Agent-ready Metrics Layer | by Pinterest Engineering | Pinterest Engineering Bl...",
+      "published": "16 Oct 2026 05:56 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78197ff06d746b6a53f2751506b8ab94",
+      "title": "64-Day Certificate Lifetimes Coming Feb 2027 - Let's Encrypt",
+      "link": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 64-Day Certificate Lifetimes Coming Feb 2027",
+      "published": "16 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c97642e80c6eb2cd136fb0b9d687e236",
+      "title": "Python Release Python 3.15.0 | Python.org",
+      "link": "https://www.python.org/downloads/release/python-3150/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Python Release Python 3.15.0",
+      "published": "16 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ec94fe8261ddf14b0b83e0b27aa154c",
+      "title": "The Shift to cgroup v2 in Kubernetes: What You Need to Know | Kubernetes",
+      "link": "https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The Shift to cgroup v2 in Kubernetes: What You Need to Know",
+      "published": "16 Oct 2026 03:56 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "072454bcb870ff54c7b370ed92430390",
+      "title": "OpenTelemetry Collector Configuration for LLM Observability",
+      "link": "https://www.honeycomb.io/blog/otel-collector-llm-observability",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry Collector Configuration for LLM Observability",
+      "published": "16 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d3fe942a2a812a481111b02c0da3bbf",
+      "title": "Inside LinkedIn's data context layer: curating trustworthy context for humans and agents",
+      "link": "https://www.linkedin.com/blog/engineering/infrastructure/inside-linkedins-data-context-layer-curating-trustworthy-context-for-humans-and-agents",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Inside LinkedIn's data context layer: curating trustworthy context for humans and agents",
+      "published": "16 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d4e1669fdee952273a021d461fda746",
+      "title": "Any window from your Mac, on your iPhone and iPad",
+      "link": "https://github.com/Saffsanity/sill",
+      "summary": "Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 137 # Comments: 30",
+      "published": "Fri, 16 Oct 2026 01:43:17 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57ac3636e57abd8b2988b4a04f5d1e80",
+      "title": "RPKI now protects 70% of internet routes",
+      "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "summary": "Article URL: https://ipinfo.io/blog/rpki-protects-70-internet-routes Comments URL: https://news.ycombinator.com/item?id=50112330 Points: 144 # Comment...",
+      "published": "Fri, 16 Oct 2026 00:52:35 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f0db96337b968fd461c30f1800cacd2",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "summary": "Article URL: https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/ Comments URL: https...",
+      "published": "Thu, 15 Oct 2026 23:37:42 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "28e2cf6a4fb437ee51cff033a2e5bbc4",
+      "title": "BIPM decides to stop adding leap seconds to UTC",
+      "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+      "summary": "Article URL: https://www.bipm.org/en/cgpm-2026/resolution-5 Comments URL: https://news.ycombinator.com/item?id=50105777 Points: 168 # Comments: 77",
+      "published": "Thu, 15 Oct 2026 16:11:36 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "88a1380c792564509a291d3a089c7075",
+      "title": "Show HN: Proa – A Rust web framework with fast SSR and multi-target rendering",
+      "link": "https://proa.so/",
+      "summary": "Video: https://youtu.be/-CfCyvIKYyo?si=hCLuStkXxanCUJD1Video on multi-target rendering: https://youtu.be/pJx84jdBDKU?si=HRRd6dgUWXiqeWhqBenchmarks: ht...",
+      "published": "Thu, 15 Oct 2026 15:52:08 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c88c4bdc9fbd64084b4831e2d7489af5",
+      "title": "AWS での多段階攻撃の検出: サービス横断のシグナル相関分析ガイド",
+      "link": "https://aws.amazon.com/jp/blogs/news/detecting-multi-stage-attacks-on-aws-a-guide-to-cross-service-signal-correlation/",
+      "summary": "単一のアラートだけでは、多段階攻撃の全体像は見えません。この記事では、Amazon GuardDuty 拡張脅威検出に、データ分類、通常のアクセスパターン、リソースの所有関係、変更ウィンドウといったお客様のビジネスコンテキストを重ね合わせる方法を説明します。CloudTrail、VPC フローログ、...",
+      "published": "Fri, 16 Oct 2026 08:09:37 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "14971570fd271351bf5b5bb226d4988c",
+      "title": "AWS Security Agent (now part of AWS Continuum) が新たに公開された実在の CVE 37 件中 33 件のエクスプロイトに成功",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-security-agent-now-part-of-aws-continuum-exploited-33-of-37-new-real-world-cves/",
+      "summary": "自律型ペネトレーションテストエージェントである AWS Security Agent (now part of AWS Continuum) を、最近公開された実在の CVE 37 件で評価しました。その結果、37 件中 33 件 (89.2%) で、意図された脆弱性をエンドツーエンドでエクスプロイ...",
+      "published": "Fri, 16 Oct 2026 08:09:03 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c40d82467696d9499adfff1478e39c5",
+      "title": "日本通運の AI 搭載型物流 Web アプリ「DCX」— AWS で実現する次世代サプライチェーンの可視化と予測",
+      "link": "https://aws.amazon.com/jp/blogs/news/nx-dcx/",
+      "summary": "物流業界では、EC 市場の急拡大、販売チャネルの多様化、商品ライフサイクルの短期化が同時に進み、サプライチェー […]",
+      "published": "Fri, 16 Oct 2026 07:54:07 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a699b3695668a3ac91d46077a3647cf",
+      "title": "Amazon S3 が Vercel Marketplace と v0 by Vercel で入手可能になりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-s3-vercel-marketplace-v0/",
+      "summary": "Vercel でウェブおよび AI アプリケーションを構築している開発者は、Vercel Marketplac […]",
+      "published": "Fri, 16 Oct 2026 04:32:19 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "526babbb461c8e97abf73dd390f33c02",
+      "title": "SAP ネットワークのトラブルシューティングを数時間から数分へ加速する：エージェント型 AI アプローチ",
+      "link": "https://aws.amazon.com/jp/blogs/news/accelerate-sap-network-troubleshooting-from-hours-to-minutes-agentic-ai-approach/",
+      "summary": "Kiro-CLI と AWS MCP Servers を組み合わせ、複雑な SAP ランドスケープのネットワークトラブルシューティングを数時間から数分へ短縮するエージェント型 AI アプローチを解説します。VPC Flow Logs、セキュリティグループ、Transit Gateway などを自然言...",
+      "published": "Fri, 16 Oct 2026 03:26:37 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a28a03f93ea5bb54f225c9c14b4f900b",
+      "title": "Oracle Database@AWS supports aggregate and default routes for ODB peering",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-database-aws-aggregate-routes-odb/",
+      "summary": "Oracle Database@AWS (ODB) now supports advertising aggregate routes and a default route (0.0.0.0/0) when configuring ODB peering between applications ...",
+      "published": "Thu, 15 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb8788e953c600a6d7d40916d8577e4f",
+      "title": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/",
+      "summary": "AWS License Manager now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Support) instances to Ubuntu Pro available on AWS Marketplace. This a...",
+      "published": "Wed, 14 Oct 2026 17:04:00 GMT",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "049c265a7f76bb17a1aa6c8a56b31485",
+      "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
+      "link": "https://orangestar2.hatenadiary.com/entry/2026/10/16/140905",
+      "summary": "p.hatena.ne.jp 2026年10月6日に公開されたnoteの3Q決算説明資料を今更ながら確認した。はっきり言って衝撃だった。 全部の数字がすごかった。特に印象に残った数字を抜き出すと以下だ。 売上高14.53億円、前年同期比35.1%増 営業利益3.10億円、前年同期比約3倍。営業利益率...",
+      "published": "2026-10-16T05:54:14Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a49b2b1cbc9723eb2b8a3f46808fca82",
+      "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60395",
+      "summary": "宅配大手のヤマト運輸は、代金を後払いするサービスに不正アクセスがあり、530万件余りの個人情報が外部に流出したことを確認したと明らかにしました。 流出が確認されたのは、2018年10月1日から202…",
+      "published": "2026-10-16T05:56:04Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffc6d83d031113c68d5b68b0b3c64d9a",
+      "title": "Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002323/",
+      "summary": "米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付...",
+      "published": "2026-10-16T02:55:17Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de2b0bc00aae5797db79839cea2e6f76",
+      "title": "まるでSFの世界、テスラが「空飛ぶ車」をお披露目",
+      "link": "https://www.cnn.co.jp/business/35253632.html",
+      "summary": "オーバーハングした路面を離れ、ジェット噴射で空中での姿勢を制御するテスラの「ロードスター」/Youtube/@Tesla （CNN） 米電気自動車（EV）大手テスラのイーロン・マスク最高経営責任者（CEO）は15日、SFやアニメの世界だけのものだった「空飛ぶ車」をお披露目した。 マスク氏が経営するも...",
+      "published": "2026-10-16T05:18:18Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b1c8714092b01991b5fb603984aa2f4",
+      "title": "Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減",
+      "link": "https://www.watch.impress.co.jp/docs/news/2148683.html",
+      "summary": "",
+      "published": "2026-10-16T04:58:22Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4599cd558d56a6ecba7bed99df5fa45",
+      "title": "【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報） | 最新情報 | Studio",
+      "link": "https://studio.design/ja/whats-new/unauthorized-access-2026-10",
+      "summary": "【重要】不正アクセスによる情報流出に関するお詫びとお願い（第一報）弊社が利用するクラウド環境への第三者による不正アクセスにより、お客様の情報が外部に流出した可能性があることが判明しました。不正アクセスに利用された経路はすでに塞いでおります。経緯と、お客様にお願いしたいご対応をお知らせします。 平素....",
+      "published": "2026-10-16T01:45:58Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff4a18d0258f33799e03580d21f39b5b",
+      "title": "人気Web制作ツール「Studio」全ユーザーの情報漏えいか フォームに送信された内容、外部APIキーなども",
+      "link": "https://www.itmedia.co.jp/news/article/2610/16/2000002332/",
+      "summary": "第三者がデータを取得した事実は確認できていないが、取得されたものとみなして対応を進めている。 脆弱性を突かれ不正アクセス、発覚・対処まで約2週間 Studioは、ノーコードでWebサイトを構築できるプラットフォームで、スタートアップや中小企業のコーポレートサイトを中心に広く使われており、ユーザー数は...",
+      "published": "2026-10-16T06:12:06Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2027d9d3bd078db9d7fa9e28eb3858a",
+      "title": "ESP32×LoRaで屋外の温湿度を計測・記録する - 詩と創作・思索のひろば",
+      "link": "https://motemen.hatenablog.com/entry/2026/10/esp32-lora",
+      "summary": "Low-Rank AdaptationじゃなくてLong Rangeのほうです。 電子工作は数年前に自作キーボードではんだ付けを無限にやって懲りたのを最後に袂を分かったつもりだったが数年ぶりに頑張ってみた。 できたもの きっかけ 工作記 Day ~0 Day 1-6 LoRa通信ためす Day 7-...",
+      "published": "2026-10-16T01:00:03Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6705273c048ff29c16b97e31a0ee1f47",
+      "title": "【対策】“相次ぐ個人情報の流出” 私たちができることは | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60212",
+      "summary": "企業へのサイバー攻撃によって個人情報が流出した場合、2次被害を防ぐために個人でできる対応にはどんなことがあるのでしょうか。私たちがとるべき対策について、まとめました。 個人情報が流出したら? 情…",
+      "published": "2026-10-16T03:18:11Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a68643d6924d6e5cfe7129498b98c831",
+      "title": "有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか",
+      "link": "https://zenn.dev/hand_dot/articles/ecb391d4322330",
+      "summary": "2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していまし...",
+      "published": "2026-10-16T00:06:41Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "75663086cd1e5568df4fc0f437f2ecff",
+      "title": "はてなブックマークのコメント",
+      "link": "https://anond.hatelabo.jp/20261015205458",
+      "summary": "なんていうか大抵「偉そう」なんだけど、それは、100文字（だっけ？）しか書けないからなんだろうか。 100文字しか書けないから、「それはそうだけど、どうかな、僕はあまりそう感じないけど…でもそういうのもありかもしれない、それでも……（以下省略）」とかそうやってgdgd書けないんだよな。こんな感じの意...",
+      "published": "2026-10-15T13:00:10Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6b96093513250c077217bc4747bed01",
+      "title": "テスラがコールドガススラスター搭載で飛行可能な新型ロードスターを発表、宙に浮いて障害物を飛び越えるデモ映像も",
+      "link": "https://gigazine.net/news/20261016-tesla-unveils-new-roadster-rocket/",
+      "summary": "イーロン・マスク氏が率いる電気自動車メーカーのテスラが、現地時間の2026年10月15日に新型ロードスター(Roadster)を発表しました。公開されたデモンストレーション映像では、ロードスターが宙を浮いて障害物を飛び越える様子も確認できます。 Roadster – EVスポーツカー | Tesla...",
+      "published": "2026-10-16T04:57:00Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0a561a5f3355acc3578f8cbb007754a",
+      "title": "Claude Code の平文 API キーを 1Password CLI で安全に運用する",
+      "link": "https://zenn.dev/notahotel/articles/e85b2cdf9a5833",
+      "summary": "初めに 1Password CLI（op コマンド）を使って、設定ファイルやシェルに書かれていた平文の API キーをすべて op:// 参照に置き換えます。 参考: 1Password Blog — AI Agent Identity and Accountability なぜ op:// 参照に...",
+      "published": "2026-10-16T04:20:11Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91153157ebd052db6b5e47f69e62e525",
+      "title": "米国の8つの州がオープンAIを提訴 “子どもに危険な設計” | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261016de60299",
+      "summary": "生成AIの「ChatGPT」が自殺を促すなど子どもにとって危険な設計になっているとして、アメリカの8つの州が「ChatGPT」を開発した「オープンAI」を訴えました。 訴えを起こしたと14日に発表…",
+      "published": "2026-10-16T03:32:12Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8725126e7a134cdd8a7281a24bebd5d",
+      "title": "AIで引ければいい、から始めた運用ナレッジ - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20261016/claude-code",
+      "summary": "はじめに 楽楽販売を担当している梶です。 運用の知識をAIから引ける（AIが検索して参照できる）ようにして、開発フローの概要設計に運用影響の確認を組み込むところまで来たので、その経緯を書きます。最初から全体を設計していたわけではなく、気づきのたびに一段ずつ足してきた記録です。 運用への影響は、できる...",
+      "published": "2026-10-16T06:13:12Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "af2639aad4b84524aba57c69fe1a1de5",
+      "title": "アクセンチュアが従業員に「Claudeは毎月29ドル(約4600円)までしか使えない」と伝える",
+      "link": "https://gigazine.net/news/20261016-accenture-ai-limit/",
+      "summary": "by Alpha Photo コンサルティング大手のアクセンチュアが、従業員に対して1人当たりのAI使用量を制限すると通知し始めていることが分かりました。AIの使用量を極限まで増やす「トークンマキシング」の流れが終わろうとしています。 Accenture Tells Employees They C...",
+      "published": "2026-10-16T03:05:48Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58cde86f3a868ff603ebc4d58cc253db",
+      "title": "X民の言う「増田のコメ欄」がトラバなのかブコメなのかそろそろはっきりしてほしい",
+      "link": "https://anond.hatelabo.jp/20261015223046",
+      "summary": "増田のコメント欄にいる層ってTwitterでもそう見ない質の悪さでいつも見たこと後悔する— 脊髄 (@spinal_____) October 14, 2026 増田ってサイト、たびたび話題になってるの見るけど軒並みコメントの民度が終わってる— に・ま2 (@gorugonzopa) October...",
+      "published": "2026-10-15T13:38:35Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c36ca9f8723018643ecf0ae5a9c4877f",
+      "title": "わずか0.43GBでスマホ動作可能なAI「Ternary Bonsai 2」シリーズがオープンモデルとして登場、iPhone 18 Pro Maxで毎秒120トークンの高速処理が可能",
+      "link": "https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b/",
+      "summary": "AI開発企業のPrismMLがスマートフォンでローカル動作する小型AIモデル「Ternary Bonsai 2 2B」「Ternary Bonsai 2 4B」「Ternary Bonsai 2 9B」を現地時間の2026年10月15日に公開しました。すでにiPhoneで動作する環境が整備されていま...",
+      "published": "2026-10-16T01:40:33Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c7495dd8bf173ca99cc589ad200dae4",
+      "title": "【AWS】AWS Lambda Web Functionsから考えるAWS Lambdaとは何なのか - Qiita",
+      "link": "https://qiita.com/ymd65536/items/3bc00ba77b87808bda9b",
+      "summary": "記事のポイント AWS Lambdaはイベント駆動のFaaSとして登場し、AWSのサービス同士をつなぐコンポーネントとしても利用されてきた Lambda Web FunctionsやMicroVMsの登場により、AWS Lambdaは関数だけでなくHTTPサーバーや独立した実行環境も提供するようにな...",
+      "published": "2026-10-15T15:27:33Z",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a1b95af2d1923b2e298de8b09cf0eb3",
+      "title": "GitHub - LibreSpark/LibreTV: 一分钟搭建影视站，支持Docker等部署方式 · GitHub",
+      "link": "https://github.com/LibreSpark/LibreTV",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 LibreSpark / LibreTV ⭐ 18,169 (+978) 🗒 TypeScript 一分钟搭建影视站，支持Docker等部署方式",
+      "published": "16 Oct 2026 04:17 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df160320c5772a6e831bbbb5602dc1a9",
+      "title": "2 ビット量子化の MoE 「Nemotron 3.5 Bolt 74B-A9B」を DGX Spark で動かしてみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-bolt-74b-a9b-first-touch/",
+      "summary": "Expert の重みを 2 ビットに削り 24GB に収めた Nemotron 3.5 Bolt 74B-A9B を、公開翌日に DGX Spark の llama.cpp で動かしました。DFlash で単発 61.61 tok/s、日本語 8/9、コード 49 テスト全通過。24GB というサイ...",
+      "published": "Fri, 16 Oct 2026 06:57:22 GMT",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c9a955084fe4fb7875389247f41c733",
+      "title": "Claude Code v2.1.301 の主要アップデート - auto mode の判定を OpenTelemetry で区別可能に",
+      "link": "https://dev.classmethod.jp/articles/20261016-cc-updates-v2-1-301/",
+      "summary": "Claude Code v2.1.301がリリースされました。OpenTelemetry対応の強化やバイナリファイル判定の修正など、運用環境に大きく関わる51件の変更について、注目アップデートと試した内容をまとめます。本日は、Read のバイナリ判定修正を試してみました。",
+      "published": "Fri, 16 Oct 2026 05:03:54 GMT",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b73253a3fe4a788cf1a750adf3d031a1",
+      "title": "Audient smashes its way into the high-end interface market with Horizon",
+      "link": "https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/",
+      "summary": "Although well known for its iD range of audio interfaces for small-to-mid-sized studios, Audient’s reputation was established in somewhat grander surr...",
+      "published": "Fri, 16 Oct 2026 08:00:37 +0000",
+      "fetched_at": "2026-10-16T08:38:06.016046+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-16T02:29:12.912654+00:00"
+  "updated_at": "2026-10-16T08:38:06.016046+00:00"
 }

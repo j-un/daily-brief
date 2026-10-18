@@ -459,7 +459,577 @@
       "fetched_at": "2026-10-18T08:26:31.589580+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "3dc300879ec1284a804b12f158a3ee8b",
+      "title": "MongoDBクラスターでパフォーマンスなどに問題が発生していないかチェックする…",
+      "link": "https://github.com/zelmario/mongo-health",
+      "summary": "MongoDBクラスターでパフォーマンスなどに問題が発生していないかチェックするツール。diagnostic.dataとして記録されているデータを使って過去に遡って調査が可能。MongoDBをご利用の皆様。",
+      "published": "18 Oct 2026 13:40 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87a8a4ed2a2f24df8cc914f93a6d1f28",
+      "title": "Googlebook Linux ターミナル プレビューのご紹介: AI と開発のための VM ベースの環境 | Android Developers' Blog",
+      "link": "https://developer.android.com/blog/posts/googlebook-linux-terminal-preview-vm?hl=ja",
+      "summary": "お、Google公式ブログ記事だ。",
+      "published": "18 Oct 2026 13:33 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6072dc21c02907dad982f7612afb4a7d",
+      "title": "NGINX 1.31.7: Native GeoIP2 support, HTTP/2 priorities, and QUIC improvements – NGINX Community Blog",
+      "link": "https://blog.nginx.org/blog/nginx-1-31-7-native-geoip2-support-http-2-priorities-and-quic-improvements",
+      "summary": "nginx、1.31.7でGeoIP2/GeoLite2サポートきた。geoip2は従来NGINX Plusのものかgithubに上がってるサードパーティのnginx moduleを使う必要があったんだけど、それが必要なくなった。めでたい。",
+      "published": "18 Oct 2026 13:29 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb7991656aa333e5759843f9e2881d93",
+      "title": "ソースコードやgitの履歴などに機微情報が含まれていないかを調べるツール。CLI…",
+      "link": "https://github.com/praetorian-inc/titus",
+      "summary": "ソースコードやgitの履歴などに機微情報が含まれていないかを調べるツール。CLIだけでなく、Go実装、Burp Suite拡張、Chrome拡張も用意されている。Go実装。",
+      "published": "18 Oct 2026 13:18 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f8e7f8df647c759820f3030de66af90",
+      "title": "TCP/UDPに対応したポート番号に関するtop風TUIツール。ポート番号のほか…",
+      "link": "https://github.com/padovanl/portop",
+      "summary": "TCP/UDPに対応したポート番号に関するtop風TUIツール。ポート番号のほか、つかんでいるプロセス名、CPU使用率、トラフィック量などでソートが可能。確かにこういうtopコマンドは従来なかったかも。Go実装。",
+      "published": "18 Oct 2026 13:13 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22a7f984985306050455e4a05c5a8bb1",
+      "title": "知識ゼロから試せる 21のハッキング体験で学ぶWebセキュリティ | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-16007-4",
+      "summary": "よさそう。2026年11月6日発売。",
+      "published": "18 Oct 2026 13:04 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "790aa81ae3dbe8e7c8bf636f15a28c46",
+      "title": "漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/furifont",
+      "summary": "すごい。が、例外パターンが多くて今後のメンテが大変そう。",
+      "published": "18 Oct 2026 13:02 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b0c428a39cf65b8c9e7037fa2b3b95e",
+      "title": "【改訂新版】作って理解するOS x86系コンピュータを動かす理論と実装 | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-15921-4",
+      "summary": "2026年10月26日発売。64bitモードとUEFIにも対応。",
+      "published": "18 Oct 2026 13:00 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86f37bfaea6e478d018d6d7bc3e555d0",
+      "title": "ファイルの内容から探せるMac向けOSSアプリ「DigUp」、EmbeddingGemma 2をローカル実行 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/digup",
+      "summary": "ほう。ちょっとしたAI機能ならEmbeddingGemma 2ぐらいで十分というアプリは他にもあるだろうし、今後同様の使い方は増えてきそう。EmbeddingGemma 2のモデルは865MB。それなりに大きいな。",
+      "published": "18 Oct 2026 12:59 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb44020a6e55fe0281e3b7d5647a6995",
+      "title": "AWS Continuum で実現するデプロイごとのペネトレーションテスト | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/",
+      "summary": "従来AWS Security Agentと呼ばれていたものはAWS Continuum for penetration testingに名称が変わったらしい。",
+      "published": "18 Oct 2026 12:55 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58e44679e12eba2562dfe25dbf6b09eb",
+      "title": "AWS Lambda ウェブ関数の発表 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/",
+      "summary": "日本語公式ブログ記事きてた。複数リクエストを同時に処理するとのことなのでコスト効率はかなり良くなるはず。従来のLambdaでWebリクエストを受けるのは非効率だと思ってたけど、これなら大丈夫そう。",
+      "published": "18 Oct 2026 12:53 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0c90b9ea2dc4550a2b49b7359a0a49d",
+      "title": "【資料公開 & 開催報告】Kiro ハンズオン「手を動かして実感する、Kiro が変える開発体験」 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiro-handson-20260924-report/",
+      "summary": "ワークショップ教材が公開されているので後追いで手を動かして実感することが可能。皆様。",
+      "published": "18 Oct 2026 12:47 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6800996e3d6dbbfab2db7d028c086436",
+      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
+      "summary": "パート1とパート2の2部構成。皆様。",
+      "published": "18 Oct 2026 12:44 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c5e9fd1fc5d2ed1f557392c1f502dbc",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20261016-7c6fdc173f/",
+      "summary": "HPAのthresholdを決定/変更する際はtoleranceにも配慮しましょう。はい。",
+      "published": "18 Oct 2026 12:40 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ee91adef7aa881df69ce145bd7e3b60",
+      "title": "書籍詳細｜株式会社 C&R研究所",
+      "link": "https://www.c-r.com/book/detail/1639",
+      "summary": "「小中学生のためのドローンプログラミング入門」2026年11月11日発売予定。ビジュアルプログラミング言語と書かれてるので具体的に何かなと思ったらDRONE STAR プログラミングというものがあるらしい。",
+      "published": "18 Oct 2026 12:30 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3fa8a615b169e760facd96973c7449a7",
+      "title": "サイバーレジリエンスの教科書 | 日経BOOKプラス",
+      "link": "https://bookplus.nikkei.com/atcl/catalog/26/10/01/02833/",
+      "summary": "2026年10月26日発売。",
+      "published": "18 Oct 2026 12:25 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f43dd0b91b6b9c2c2737ae280e5b445e",
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+      "summary": "複数の隔離レベルを選択可能ってところが肝だなと思っている。",
+      "published": "18 Oct 2026 12:24 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6dccf5b40d143d23ce265fbb35b13be",
+      "title": "AI Bot Cosplay | Fastly",
+      "link": "https://www.fastly.com/blog/ai-bot-cosplay",
+      "summary": "AIエージェントによるクローラーかのように偽装（コスプレ）した悪意あるアクセスが急増していると。AISEOはUser-Agentだけで判断するなかれ。接続元IPアドレスなども見ようね、と。はい。",
+      "published": "18 Oct 2026 12:10 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5a98de0c2bd1670dbb49f9eb7a19747",
+      "title": "弱った下流を、全部止めずに少しだけ絞る：go-backpressure の適応型ロードシェディングを実測",
+      "link": "https://zenn.dev/nonejp/articles/ee58fdb042ceef",
+      "summary": "わいわい",
+      "published": "18 Oct 2026 11:51 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f87dff093c3f3e5a78fd42e9b525e9a2",
+      "title": "Checking your browser...",
+      "link": "https://securesky-plus.com/security/3700/",
+      "summary": "10/19にウェビナー開催。「相次ぐ情報漏えいを受けて、情報システム・IT管理者・Webサイト運営者向け」",
+      "published": "18 Oct 2026 11:37 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5906803597d6c46e7fa9d1ab1048c8b3",
+      "title": "サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新 - Cybozu Inside Out | サイボウズエンジニアのブログ",
+      "link": "https://blog.cybozu.io/entry/2026/10/14/090000",
+      "summary": "わいわい",
+      "published": "18 Oct 2026 11:17 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd1df1655050235edfef2571c91b2b5a",
+      "title": "あれ、従来Cloudflareでアクセスログを記録しようとするとEnterpri…",
+      "link": "https://blog.cloudflare.com/ja-jp/one-observability-platform/",
+      "summary": "あれ、従来Cloudflareでアクセスログを記録しようとするとEnterprise契約が必要だった認識だが、この記事に基づけば（従量課金ではあるものの）Free Planでもログを取得できるようになったってこと？",
+      "published": "18 Oct 2026 10:31 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce604ed399b413bcbbaf5bbb515f2980",
+      "title": "第281回 MySQL 26.7で変わったAUTO_INCREMENTのカウンター保存 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/mysql-rcn0281",
+      "summary": "AUTO_INCREMENTに連番を期待してはいけない。はい。",
+      "published": "18 Oct 2026 10:21 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e8239af79d7c1a65a269975e57f39b2",
+      "title": "DeNAにおけるAI時代のネットワーク管理システム [DeNA インフラ SRE] | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/10/nwcli/",
+      "summary": "「LambdaではAnsibleを実行することができません。必要な仮想デバイスが存在しないためです。しかしこれらのデバイスをPythonで再実装しモンキーパッチで実行時にねじ込むことでLambda上での実行を可能にしました」うおーー",
+      "published": "18 Oct 2026 10:17 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3011a5f130d60a94aff248d3e9624e56",
+      "title": "A plea not to use uv-build – Michał Górny",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+      "summary": "Rustに依存するとサポートするプラットフォームが限定される場合がある問題。たとえば rustix::fs はSPARCをサポートしてないなど。なるほどねぇ。",
+      "published": "18 Oct 2026 10:11 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a52c1e0ed95a6c9180abedc7549e2698",
+      "title": "ホンマでっかSRE勉強会 #3 - connpass",
+      "link": "https://honmadekka.connpass.com/event/409219/",
+      "summary": "現地開催（京都）",
+      "published": "18 Oct 2026 10:02 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "98c0b440c5bd79b557170f1a4884d9d3",
+      "title": "隙間時間を読書に変える超小型電子書籍リーダー「BOOX Picco」登場 | Ubergizmo JAPAN",
+      "link": "https://jp.ubergizmo.com/2026/10/12/27045/",
+      "summary": "短歌集やショートショートなどには向いてそう。ただ日本語フォント入れてくれるかねぇ。",
+      "published": "18 Oct 2026 08:53 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1a870706806d890c891dd711a9281be",
+      "title": "ターミナルでGitHub上のリポジトリ一覧、pull request, GitH…",
+      "link": "https://github.com/jorgeandrecastro/github-workflow",
+      "summary": "ターミナルでGitHub上のリポジトリ一覧、pull request, GitHub Actionsの結果ステータスなどを確認できるTUIツール。Rust実装",
+      "published": "18 Oct 2026 08:39 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e08c8f0cba8aad9ca25e1da6ad99232a",
+      "title": "Rebuild: 433: That Meeting Was So Jev (らんぶる)",
+      "link": "https://rebuild.fm/433/",
+      "summary": "Podcastから文字起こししたtimestamp付きの文書をJevに食わせてchapter分けする話、目から鱗だった。この発想ができれば様々なアイデアが出てきそう。1:20:43あたりから。 #rebuildfm",
+      "published": "18 Oct 2026 08:35 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d6e27f64c62c441e9c5c595f71e4867",
+      "title": "手元の環境でgit diffをGitHub上のようにブラウザでレビューできるツー…",
+      "link": "https://github.com/moritzwilksch/diffle",
+      "summary": "手元の環境でgit diffをGitHub上のようにブラウザでレビューできるツール。LSPに対応しており定義箇所へのジャンプなどが可能。レビュー内容はGitHubへ反映もできる。GitHubを使ってない環境でもレビューツールとして利用可。",
+      "published": "18 Oct 2026 08:29 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "05e861ccd0427b3a8a5f0d3ebae6bbc7",
+      "title": "Checking your browser...",
+      "link": "https://tech-lab.sios.jp/archives/55105",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 TimescaleDB って本当に早いのか？ | SIOS Tech Lab",
+      "published": "18 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d77672ac4e8fa5747923209aab40bcf5",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://medium.com/nttlabs/checkpointd-1619ed033e05",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 checkpointd: Automatic Crash Recovery of Stateful Agents from Memory Checkpoints on Kubernetes | by Kohei ...",
+      "published": "18 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b29a31c876ee673e044de24a7f565cd",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "link": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 308 # Comments: 148",
+      "published": "Sun, 18 Oct 2026 06:50:36 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e67cf50c2ef5a7eb08bf71ec0ad0daae",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "link": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "summary": "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments UR...",
+      "published": "Sun, 18 Oct 2026 05:09:14 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b9531cd42b2f2a4c1f399a87d6d1b65",
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+      "link": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "summary": "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 101 ...",
+      "published": "Sun, 18 Oct 2026 04:59:24 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e535b15b860772ec7d5350a3d31d178",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "link": "https://sphinx-six-theta.vercel.app/",
+      "summary": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you un...",
+      "published": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c1edfce1a389f8341f37f4b0a60e03c",
+      "title": "iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン",
+      "link": "https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/",
+      "summary": "iPhoneをiOS 27にアップデートした人のなかには、もうSiri AIやAppleのAIによる写真編集機能のいくつかを試してみた人もいるのではないでしょうか。 その一方で、別のことに気づいた人もいるかもしれません。 iPhoneのバッテリーのもちが悪くなっている、ということです。このアップデー...",
+      "published": "2026-10-18T09:18:39Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7df5c1671f61156c7d5f35ecbb1c0bf1",
+      "title": "変体仮名一覧表",
+      "link": "https://cid.ninjal.ac.jp/kana/list/",
+      "summary": "©2022 National Institute for Japanese Language and Linguistics",
+      "published": "2023-09-13T17:11:42Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11cf4bfa212c9d66f954330cd677389e",
+      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+      "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+      "summary": "はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ....",
+      "published": "2026-10-18T01:26:27Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9839b082901203c3f1540f34ea9e6cad",
+      "title": "Void でフルスタックアプリを構築して Cloudflare にデプロイする",
+      "link": "https://azukiazusa.dev/blog/void-vite-cloudflare-deploy/",
+      "summary": "Void は VoidZero が開発した、Vite でフルスタックアプリを構築して Cloudflare にデプロイするためのツールキットです。void/db などの import から必要なリソースを推論し、void deploy コマンド 1 つでD1 データベースの作成、ビルド、マイグレーシ...",
+      "published": "2026-10-18T08:20:03Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "86dae906ff97339f6b01b34b48eb7931",
+      "title": "Pele · Mermaid diagrams as themeable SVG",
+      "link": "https://pele.run/",
+      "summary": "Pele is a lightweight open source library that renders Mermaid diagrams to SVG, themed with CSS variables. Write Mermaid syntax, Pele renders it to SV...",
+      "published": "2026-10-17T23:49:20Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "842b6a7d6de7aeab6234a04b196a8802",
+      "title": "オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/",
+      "summary": "メンバーの立ち上げもAI Nativeに チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Co...",
+      "published": "2026-10-17T11:42:36Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a915e78d086118255ec1a7b4d53ff35",
+      "title": "日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS",
+      "link": "https://wirelesswire.jp/2026/10/94793/",
+      "summary": "最近、日本の企業がサイバー攻撃によって大変なことになっている。 2025年9月にはアサヒグループホールディングスがランサムウェア攻撃を受け、受注・出荷業務が停止した。翌10月にはアスクルが同様の攻撃を受け、通販サービスの受注・出荷が停止。サプライチェーン全体に影響が波及する事態となった。挙句、本来、...",
+      "published": "2026-10-18T01:39:42Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b34e84514ddf52f99ef345d852a30caa",
+      "title": "不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8",
+      "summary": "",
+      "published": "2026-10-18T10:16:23Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fcb33e72286c234b20f25a22bdf9b429",
+      "title": "Claude、暗号技術の「25年来の謎」を30分足らずで解明",
+      "link": "https://japan.cnet.com/article/35253671/",
+      "summary": "今回の謎は、電子署名などに使われる暗号方式「ECDSA」に関するものだ。ECDSAは「楕円曲線」と呼ばれる数学的な仕組みを利用する。米国立標準技術研究所（NIST）が2000年に公表した規格には、曲線の形を決める際に使う「シード」という数値が記載されていた。 NSAの元職員ジェリー・ソリナス氏は20...",
+      "published": "2026-10-18T01:39:48Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "737fdb5a3b0533fcbb5e5d7bec0320ac",
+      "title": "コネクタも API も無いサービスを、Claude Code に操作させる",
+      "link": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
+      "summary": "こんにちは、e-dash の中島です。 SRE として認証基盤やインフラを見ています。 Claude Code から外部サービスを操作するときは、MCP のコネクタを使います。 Notion や GitHub のように広く使われているサービスなら、だいたい用意されています。 自動化を進めていくと、コ...",
+      "published": "2026-10-18T04:21:04Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a76ea4548e107b269dfbb0efb2904c8e",
+      "title": "不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は? | TBS NEWS DIG",
+      "link": "https://newsdig.tbs.co.jp/articles/-/3020110",
+      "summary": "不正アクセスによる個人情報の漏えいが全国で急増していて、サイバーセキュリティ専門家は「日本国民で情報が漏れていない人の方が珍しい。100％防ぐことは困難だ」と指摘します。こうした中、私たちはどんな対策…",
+      "published": "2026-10-18T08:55:01Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13ae8158ead67879b4baf16a3c86a9e1",
+      "title": "衛星利用制限、マスク氏提案か トランプ氏も同意と英報道 | NEWSjp",
+      "link": "https://news.jp/i/1484341336457167841",
+      "summary": "【ロンドン共同】英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決め...",
+      "published": "2026-10-18T01:20:09Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3818f11105cb70744a43b617d00eca7d",
+      "title": "本番DBに不要なレコードを数千万件登録してしまった話",
+      "link": "https://zenn.dev/geekplus/articles/a615dfe41557d8",
+      "summary": "ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。 調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。 このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。 この記事では、無駄に増殖してしまったデータ...",
+      "published": "2026-10-17T14:08:09Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "725a2754543b3ea04266843f929a218f",
+      "title": "【ネットワークセキュリティ入門】VLANとACLだけで安全？管理プレーンの分離とマイクロセグメンテーションを整理してみた - Qiita",
+      "link": "https://qiita.com/maromaro_nw/items/2a191e16f1b32235886d",
+      "summary": "VLANごとにレイヤー2のネットワークは分離されますが、L3スイッチでVLAN間ルーティングを有効にすると、異なるVLAN間でも通信できるようになります。 そこでACL（Access Control List）を設定し、営業部から経理部への通信は拒否、営業部から業務サーバーへのHTTPS通信は許可、...",
+      "published": "2026-10-18T01:59:23Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "39d09178c299bfbbf1ca72c4427f14e6",
+      "title": "「タイムズカーWebシステム」への不正アクセスに関する対応について（第4報） | カーシェアリングのタイムズカー",
+      "link": "https://share.timescar.jp/news/2026/1016/1826.html",
+      "summary": "当社は、タイムズカーへの会員ご登録時にお客様からご提出いただいた運転免許証等の本人確認書類の画像を、会員期間中および退会後7年間保有しておりました。会員ご登録時のご本人確認手続きの実施に加え、不正利用が疑われる事案への対応、お問い合わせ対応および各種ご本人確認業務に利用することを目的として保有して....",
+      "published": "2026-10-16T08:01:21Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a23ea9e633545458f5cc3f34533042da",
+      "title": "Being Exemplary",
+      "link": "https://kimdavies.com/being-exemplary",
+      "summary": "I have a riddle for you: which website is one of the most popular on the Internet, but no one needs to visit it? The answer is example.com. The Intern...",
+      "published": "2026-10-06T05:54:42Z",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11d8c470fc9306fe1a21a2e15f4358b7",
+      "title": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Kruk2 /…",
+      "link": "https://github.com/Kruk2/jasna",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Kruk2 / jasna ⭐ 2,202 (+115) 🗒 Python Video restoration tool",
+      "published": "18 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22cd0d4cf2bc775eb0bddd70bcd6cbd6",
+      "title": "AWS Continuum for penetration testingでタスク時間の上限設定（予算管理）を試してみた",
+      "link": "https://dev.classmethod.jp/articles/2026-10-18-security-agent-pentest-budget/",
+      "summary": "AWS Continuum for penetration testingに追加されたタスク時間の上限設定を、20時間に設定して実行し上限で止まったときにコンソール・CLI・CloudWatch Logs・レポートにどう残るかまで確認しました。",
+      "published": "Sun, 18 Oct 2026 13:28:40 GMT",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "79880903c707922b4d98e2877061b96d",
+      "title": "AWS Continuum for penetration testingの検出結果の再検証を試してみた",
+      "link": "https://dev.classmethod.jp/articles/2026-10-18-security-agent-pentest-finding-revalidation/",
+      "summary": "AWS Continuum for penetration testingに追加された検出結果の再検証を、実際の検出結果に対してインフラ側の修正とアプリ側での修正の2パターンを入れて挙動を確認しました。",
+      "published": "Sun, 18 Oct 2026 13:28:35 GMT",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "65278956cd981bfeee4572a9cc91802b",
+      "title": "M5Stack StopWatchで技適未取得機器の特例制度を使ってみた",
+      "link": "https://dev.classmethod.jp/articles/giteki-tokurei-todokede/",
+      "summary": "AliExpressで購入した技適マークのないM5Stack StopWatchを国内で試すため、総務省の「技適未取得機器を用いた実験等の特例制度」で届出をしてみました。制度の概要と、アカウント発行から届出完了までの流れを紹介します。",
+      "published": "Sun, 18 Oct 2026 09:08:06 GMT",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c45faa548e1ac1028780612c7580629",
+      "title": "Abed Eyad is making beats in Gaza: interview, call for support",
+      "link": "https://cdm.link/abed-eyad-gaza-interview/",
+      "summary": "20-year-old Palestinian producer Abed Eyad is making beats from the rubble, surviving amidst genocide. He talks to us about what that's like, what dri...",
+      "published": "Sun, 18 Oct 2026 12:44:02 +0000",
+      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-18T08:26:31.589580+00:00"
+  "updated_at": "2026-10-18T13:41:34.420876+00:00"
 }

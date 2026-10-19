@@ -99,7 +99,287 @@
       "fetched_at": "2026-10-18T22:06:34.242804+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "fbb4ec6ea617bffd0ab5814176832716",
+      "title": "DeepSeek Harness を fork して使っている話",
+      "link": "https://voluntas.ghost.io/deepseek-harness-fork/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DeepSeek Harness を fork して使っている話",
+      "published": "19 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07da780069da562fbd68e211a419144f",
+      "title": "VPC Flow Logs で「6379 番ポートに外部 IP が…」と一瞬ひやっとした話 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/10/09/174640",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 VPC Flow Logs で「6379 番ポートに外部 IP が…」と一瞬ひやっとした話",
+      "published": "18 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e9ec10a9d27e0eebac848098d41667b",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "link": "https://arxiv.org/abs/2610.18861",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/h...",
+      "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d83bd341c6701427b8e285ad89b226d",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "link": "https://www.getlazarus.org/dynamic/",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 116 # Comments: 23",
+      "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6320b856b3e96947f8aa8f077794f75e",
+      "title": "Amazon Bedrock における最小権限アクセスの実装",
+      "link": "https://aws.amazon.com/jp/blogs/news/implementing-least-privilege-access-for-amazon-bedrock/",
+      "summary": "生成 AI アプリケーションでは、Amazon Bedrock や大規模言語モデル (LLM) などを組み合わせるため、さまざまなレベルでのアクセスコントロールが欠かせません。この記事では、モデルの選択、適応、テスト、運用の各フェーズで最小権限の原則を適用する方法を紹介します。サービスコントロールポ...",
+      "published": "Mon, 19 Oct 2026 00:08:27 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cd74b3fe7f92ec16cb86dd76c767ece",
+      "title": "AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順",
+      "link": "https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/",
+      "summary": "漏えいした長期的な認証情報 (アクセスキー) は、AWS Customer Incident Response Team (CIRT) が観測したセキュリティインシデントで、現在も脅威アクターに最も多く使われる侵入経路です。この記事では、Amazon Q Developer や AWS IAM Ac...",
+      "published": "Mon, 19 Oct 2026 00:06:18 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c4419ba96eaf97f14bfd7d18cd9a836e",
+      "title": "Amazon Bedrock API キーの保護: 実装と管理のベストプラクティス",
+      "link": "https://aws.amazon.com/jp/blogs/news/securing-amazon-bedrock-api-keys-best-practices-for-implementation-and-management/",
+      "summary": "Amazon Bedrock API キーを安全に実装、管理するためのベストプラクティスを紹介します。AWS STS の一時的な認証情報を優先し、使用できない場合は短期 API キー、最終手段として長期 API キーを選ぶという判断基準を整理します。そのうえで、SCP と条件キーによる作成と使用の制...",
+      "published": "Mon, 19 Oct 2026 00:04:08 +0000",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "64ccae7eb896cc0014223cbe59643e88",
+      "title": "CIで使うLambda MicroVMs 最高なんだよなぁ！",
+      "link": "https://speakerdeck.com/kuracchi_enj1/ci-de-tsukau-lambda-microvms-saikouna-nda-yonaa",
+      "summary": "JAWS-UG彩の国埼玉支部 #12 AWS re:Invent 2026準備回",
+      "published": "2026-10-18T13:08:54Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "53628b664fb95aa62eda46a474214c8a",
+      "title": "テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた - Qiita",
+      "link": "https://qiita.com/ebichan_88/items/f7c44c74e437875b1399",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
+      "published": "2026-10-18T10:34:03Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f5af84ad9d48ea0e998addbb2d7a6ba",
+      "title": "施策立案からQAまで：AIエージェントで回す開発フローの全体像とアーキテクチャ - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/10/16/120000",
+      "summary": "こんにちは。ファインディ株式会社でプリンシパルエンジニアをしている戸田です。 ファインディでは、施策の立案からIssueの生成、タスク分解、AIエージェントによる並列実装やQAまで、開発フローの各所にAIエージェントを組み込んでいます。 この記事では、開発フロー全体のアーキテクチャを図で示し、構成要...",
+      "published": "2026-10-16T03:30:41Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bf76ecdbbec971b328135f4c4dd27e7",
+      "title": "中小法人の現場で生じる課題に、いつも半歩先回りした通信サービスを提供し続けたい～朝日ネット VNE、「フレッツ 光25G」など、足元を着実に固めるISPが目指す「交流と創造」",
+      "link": "https://internet.watch.impress.co.jp/docs/special/30thinterview/2140761.html",
+      "summary": "",
+      "published": "2026-10-18T22:21:43Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb213f57e8877cd8e65f2160ffdd2606",
+      "title": "米紙が報じる「日本がサイバー攻撃の格好の標的になる理由」 | 脆弱なセキュリティインフラと対策の遅れ",
+      "link": "https://courrier.jp/news/archives/462989/",
+      "summary": "日本の企業や自治体がサイバー攻撃の被害に遭う事件が頻発し、個人情報の流出が相次いでいる。米紙「ニューヨーク・タイムズ」もこの一連の攻撃に注目して被害状況を伝えたうえで、「なぜ日本が狙われるのか」について次のように報じている。 サイバー能力は世界最低レベル 世界4位の経済規模を誇り、ロボットや自動車、...",
+      "published": "2026-10-18T19:47:23Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3e8e4ade24543c56a9a067e0c7e134b",
+      "title": "ファイルとGitとGitHubを1画面に並べるgrutが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202610181/",
+      "summary": "GitHub - jongio/grut: A terminal file explorer with full Git and GitHub integration, AI chat, and reactive panels that stay in sync as you navigate. A...",
+      "published": "2026-10-18T02:42:41Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d0d4665405c90405e66c8e4a0973240",
+      "title": "1年4カ月の休暇で、元サイボウズ・スクラムマスター天野祐介さんが「16年間のアジャイル実践記」を書いた理由 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_949/",
+      "summary": "アバロスプラス株式会社 代表取締役／変容実践家 天野 祐介 2009年にサイボウズ株式会社へ新卒入社し、kintoneの開発エンジニアを経て、社内初の専任スクラムマスターとして1チームから開発組織全体へアジャイルの実践を広げる。その後、アジャイルコーチ、スクラムマスター職能のマネージャーを務め、20...",
+      "published": "2026-10-19T01:31:34Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fec610c5ff903851a946bd7c4f397530",
+      "title": "Server-Side Kotlin Meetup vol.20 登壇レポート ~ Kotlin + Quarkus を Lambda SnapStart で動かす ~ - Nealle Developer's Blog",
+      "link": "https://nealle-dev.hatenablog.com/entry/2026/10/19/",
+      "summary": "こんにちは、ソフトウェアエンジニアの宮後（miya10kei）です。 最近、年明けのフルマラソンに向けてランニングの日々を送っています🏃💨 2026年10月14日に開催された「Server-Side Kotlin Meetup vol.20」で登壇させていただきました。 今回も前回に引き続きセッショ...",
+      "published": "2026-10-18T23:06:15Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "acb56e650308a14c34131d3047b476d2",
+      "title": "【第6報】バックアップサービスの提供再開について | IDCフロンティア",
+      "link": "https://www.idcf.jp/news/topics/20261018001",
+      "summary": "2026年10月18日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、提供を停止していた「IDCFクラウド バックアップ」について、安全性の確認が完了したことからサービスの提供...",
+      "published": "2026-10-18T05:07:27Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0797b0eb28a4b471bcb677322d431d73",
+      "title": "「アーキテクチャConference 2026」NOTA、Base44を含む特別登壇者4名を追加発表！AI時代の設計判断に確かな軸を、11月26日・27日開催。",
+      "link": "https://prtimes.jp/main/html/rd/p/000000280.000045379.html",
+      "summary": "「アーキテクチャConference 2026」NOTA、Base44を含む特別登壇者4名を追加発表！AI時代の設計判断に確かな軸を、11月26日・27日開催。昨年5,549名が参加申込、登壇者の著書・訳書24点を集めた記念フェアも2書店で初開催！ ファインディ株式会社（東京都品川区、代表取締役：山...",
+      "published": "2026-10-19T01:23:18Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f2a52a0490274eb3b0040576d3809ba",
+      "title": "AI時代のデジタルプロクダクトデザインの今｜こぎそ",
+      "link": "https://note.com/kgsi/n/n20675aad7e1b",
+      "summary": "コーディングエージェントやUI生成ツールの普及によって、短い指示文から画面の初稿や動くプロトタイプを起こすコストは大きく下がりました。ボタンを配置し、レスポンシブなグリッドを組み、見た目を素早く整える作業自体はかつてない速さで完了します。 一方で、制作や開発の現場を見渡すと、画面を量産できるようにな...",
+      "published": "2026-10-18T14:11:35Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a00fe5afb7899c96042e2abd4ebe4c6",
+      "title": "英AIデータセンター計画でマイクロソフト撤退 英新興に打撃 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR182GJ0Y6A011C2000000/",
+      "summary": "【ハイランド（スコットランド北部）=藤生貴子】英紙テレグラフは18日、米マイクロソフトが、英新興企業と進めていた英国のデータセンター建設計画から撤退したと報じた。契約相手で、人工知能（AI）に使うクラウドを手掛ける英エヌスケールが目指す新規株式公開（IPO）計画に打撃を与えかねない。報道によると、マ...",
+      "published": "2026-10-18T22:17:34Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3eabce173a0afdf195217cc05c99da45",
+      "title": "コーディングベンチでGPT-6 Astraを超えつつ超安価な中国製AIモデル「DeepSeek-V4.1-Flash-1017」が登場",
+      "link": "https://gigazine.net/news/20261019-deepseek-v4-1-flash-1017/",
+      "summary": "中国企業のDeepSeekがAIモデル「DeepSeek-V4.1-Flash-1017」を2026年10月17日に公開しました。 DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real | DeepSeek API Docs http...",
+      "published": "2026-10-19T01:50:56Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfa9ed7ff928b44b84a5d7f688ed2722",
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "summary": "米Anthropicは10月16日（現地時間）、2本の調査レポートを公開した。「How employment is changing at Anthropic」は、AIが同社内の雇用や働き方をどう変えたかを分析したもの。「The AI expectations gap」は、同社従業員と米国の一般市民...",
+      "published": "2026-10-18T23:45:01Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db68e5a15932d106c92b585793a43139",
+      "title": "Silicon Valley bets big on 'environments' to train AI agents | TechCrunch",
+      "link": "https://techcrunch.com/2025/09/21/silicon-valley-bets-big-on-environments-to-train-ai-agents/",
+      "summary": "For years, Big Tech CEOs have touted visions of AI agents that can autonomously use software applications to complete tasks for people. But take today...",
+      "published": "2026-10-18T13:17:11Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f8e7f8df647c759820f3030de66af90",
+      "title": "GitHub - padovanl/portop: htop for your ports. Inspect processes, Docker & systemd, detect port drift, audit Compose, and manage it all from TUI, Web or Cockpit.",
+      "link": "https://github.com/padovanl/portop",
+      "summary": "portop is an htop-style terminal UI for the TCP and UDP sockets on a machine. For every port it shows the process, its systemd unit or Windows service...",
+      "published": "2026-10-18T13:13:01Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d6e27f64c62c441e9c5c595f71e4867",
+      "title": "GitHub - moritzwilksch/diffle: A keyboard-first diff viewer with LSP support and GitHub integration.",
+      "link": "https://github.com/moritzwilksch/diffle",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-10-11T13:05:04Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "749af3afe20a4ea7713acc921bef87a4",
+      "title": "GitHub - gilnett/learned_index_lab: High-performance Piecewise Geometric Model (PGM) learned index implementation in pure Rust with strict epsilon error guarantees",
+      "link": "https://github.com/gilnett/learned_index_lab",
+      "summary": "A zero-dependency, production-grade implementation of Piecewise Geometric Model (PGM) Learned Index Structures in pure Rust. This repository demonstra...",
+      "published": "2026-10-18T12:57:42Z",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4eeb16f8cd248791239926f7178954b1",
+      "title": "Patch Manager で Windows Server のパッチ適用時に Run Command が Failed になったときの対処方法",
+      "link": "https://dev.classmethod.jp/articles/tsnote-ssm-patch-manager-external-reboot/",
+      "summary": "Patch Manager でパッチ適用が成功しているのに Run Command が Failed になる事象の対応方法を紹介します。",
+      "published": "Mon, 19 Oct 2026 02:26:22 GMT",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4c2a0ca1ac9e44c4bacdef6c48573a2",
+      "title": "[アップデート] Amazon Bedrock AgentCore Gatewayがプライベート認証局（CA）の証明書に対応したので、VPC内のMCPサーバーに接続してみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-gateway-private-ca/",
+      "summary": "Amazon Bedrock AgentCore Gatewayがプライベート認証局（CA）で署名されたTLS証明書に対応しました！VPC内のMCPサーバーにALBなしで接続してみました！",
+      "published": "Mon, 19 Oct 2026 02:15:33 GMT",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9dadb157d93424bca317084cce1edb7",
+      "title": "Playwright CLIをWSLで動かしてみた",
+      "link": "https://dev.classmethod.jp/articles/playwright-cli-wsl-setup/",
+      "summary": "Playwright CLIがWSL上で動作するのか気になったので、実際に検証してみました。必要な環境構築手順から、Claude Codeでの使用方法、さらにスキル設定の最適化まで、実践的な知見をまとめています。",
+      "published": "Mon, 19 Oct 2026 00:00:15 GMT",
+      "fetched_at": "2026-10-19T02:36:37.559418+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-18T22:06:34.242804+00:00"
+  "updated_at": "2026-10-19T02:36:37.559418+00:00"
 }

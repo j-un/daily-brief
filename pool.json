@@ -1,66 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cb44020a6e55fe0281e3b7d5647a6995",
-      "title": "AWS Continuum で実現するデプロイごとのペネトレーションテスト | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/",
-      "summary": "従来AWS Security Agentと呼ばれていたものはAWS Continuum for penetration testingに名称が変わったらしい。",
-      "published": "18 Oct 2026 12:55 +0000",
-      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a0c90b9ea2dc4550a2b49b7359a0a49d",
-      "title": "【資料公開 & 開催報告】Kiro ハンズオン「手を動かして実感する、Kiro が変える開発体験」 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/kiro-handson-20260924-report/",
-      "summary": "ワークショップ教材が公開されているので後追いで手を動かして実感することが可能。皆様。",
-      "published": "18 Oct 2026 12:47 +0000",
-      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "6800996e3d6dbbfab2db7d028c086436",
-      "title": "AWS CloudTrail を使ったインシデント調査・対応ガイド – パート 1 | Amazon Web Services ブログ",
-      "link": "https://aws.amazon.com/jp/blogs/news/incident-response-guide-for-aws-cloudtrail-investigations-part-1/",
-      "summary": "パート1とパート2の2部構成。皆様。",
-      "published": "18 Oct 2026 12:44 +0000",
-      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f43dd0b91b6b9c2c2737ae280e5b445e",
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "summary": "複数の隔離レベルを選択可能ってところが肝だなと思っている。",
-      "published": "18 Oct 2026 12:24 +0000",
-      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "5906803597d6c46e7fa9d1ab1048c8b3",
-      "title": "サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新 - Cybozu Inside Out | サイボウズエンジニアのブログ",
-      "link": "https://blog.cybozu.io/entry/2026/10/14/090000",
-      "summary": "わいわい",
-      "published": "18 Oct 2026 11:17 +0000",
-      "fetched_at": "2026-10-18T13:41:34.420876+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "8f4f9a3e82b7a24cc525da67d0215f29",
-      "title": "Better HTTP/1 connection reuse - The Go Programming Language",
-      "link": "https://go.dev/blog/http-connection-reuse",
-      "summary": "Go 1.27からHTTPレスポンスの処理時にBodyを読み捨てる必要がなくなると。 resp.Body.Close() は忘れずに。わいわい。",
-      "published": "18 Oct 2026 14:46 +0000",
-      "fetched_at": "2026-10-18T17:00:41.523205+00:00",
-      "feed_name": "@matsuu (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "41d48200baaeac3871de6b868efd1066",
       "title": "リクルート、カーセンサーの利用を一時停止 外部から不審なアクセス感知で 復旧は未定（日刊自動車新聞） - Yahoo!ニュース",
       "link": "https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e",
@@ -1309,7 +1249,277 @@
       "fetched_at": "2026-10-19T16:43:05.975197+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "feacba8fd15312f3871dd7d7d7f86e2d",
+      "title": "The reverts will continue until morale improves",
+      "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "summary": "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/it...",
+      "published": "Mon, 19 Oct 2026 18:42:32 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da90efce1cd716ecae76e8e102cc7636",
+      "title": "Europe EV sales rose 70.3% in September, 32.6% of market share",
+      "link": "https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/",
+      "summary": "Article URL: https://www.reuters.com/business/europe-ev-sales-rose-70-september-almost-30-market-share-2026-10-19/ Comments URL: https://news.ycombina...",
+      "published": "Mon, 19 Oct 2026 17:30:26 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cabd93d5efad9660dc1d835e893c4a6",
+      "title": "Mercury 3: Diffusion at scale",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "summary": "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 195 # Comment...",
+      "published": "Mon, 19 Oct 2026 17:27:11 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3c677ff06613921e5bd97f4cb986078",
+      "title": "Ukraine carries out aerial drone evacuation of a wounded soldier",
+      "link": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+      "summary": "Article URL: https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html Comments URL: http...",
+      "published": "Mon, 19 Oct 2026 17:26:38 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a65ef343d83cb15693c723215e333810",
+      "title": "Android apps running native on macOS",
+      "link": "https://github.com/kksimp/Mac.apk",
+      "summary": "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 201 # Comments: 82",
+      "published": "Mon, 19 Oct 2026 16:45:30 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8658eaddd74a3e84ffc53a5cf637102",
+      "title": "MiniMax M3.1 Flash",
+      "link": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154540 Points: 298 # Comments: 122",
+      "published": "Mon, 19 Oct 2026 16:39:09 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2bf8e8539917eef56c917e36807943eb",
+      "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+      "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+      "summary": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points...",
+      "published": "Mon, 19 Oct 2026 16:37:10 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0679f6eeb08f3c8817c74e1592ff43c",
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/8tzbpcnl75jp Comments URL: https://news.ycombinator.com/item?id=50153934 Points: 146 # Comments: 1...",
+      "published": "Mon, 19 Oct 2026 15:52:26 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b464e4cab2d015f88709cd97976fc295",
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "summary": "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 ...",
+      "published": "Mon, 19 Oct 2026 15:28:24 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d65b87e5af2bc5cf5d029ee1036f5270",
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+      "summary": "Article URL: https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf Comments U...",
+      "published": "Mon, 19 Oct 2026 15:10:20 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11a2db1cad35c3443e1d441a38aa7cf6",
+      "title": "Maybe There Was an Egg Cartel After All",
+      "link": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+      "summary": "Article URL: https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411 Comments URL: https://news.ycombinat...",
+      "published": "Mon, 19 Oct 2026 14:31:11 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73bad6807266d40edd4c5ad09b116efe",
+      "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+      "link": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+      "summary": "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=5...",
+      "published": "Mon, 19 Oct 2026 13:36:43 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bc26cf99ff90d6418d7dd7a7efb04fe",
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "link": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.y...",
+      "published": "Mon, 19 Oct 2026 12:06:03 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f221a79da3cf478e59aa5fdecc50ea98",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an enginee...",
+      "published": "Mon, 19 Oct 2026 11:24:34 +0000",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "110d07eeda4c46c0b856f64df4311dfa",
+      "title": "Amazon CloudWatch Omni is now available in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/",
+      "summary": "AWS announces that Amazon CloudWatch Omni is now available in eight additional AWS Regions. CloudWatch Omni is an AI-powered observability experience,...",
+      "published": "Mon, 19 Oct 2026 19:10:00 GMT",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5c1c436c73bdb6a020564000eb39a4e",
+      "title": "EC2 Image Builder now integrates with ASG for faster image builds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/",
+      "summary": "EC2 Image Builder now supports using existing instances from an Auto Scaling Group (ASG) for building images, enabling faster builds by eliminating th...",
+      "published": "Mon, 19 Oct 2026 17:30:00 GMT",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "77ada6a8bbb5db3d1014c97dcccd6b4d",
+      "title": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/",
+      "summary": "Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work in AWS GovCloud (US). Grok 4.7 bui...",
+      "published": "Mon, 19 Oct 2026 13:00:00 GMT",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fd9c5d8537b49b09db46c0215788099",
+      "title": "AWS Partner Central adds Solution Matching Engine performance insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance",
+      "summary": "AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The Solu...",
+      "published": "Sat, 17 Oct 2026 03:00:00 GMT",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "93642b2d7df360a8cfa04c99c48e2e5c",
+      "title": "JP Incident Monitor",
+      "link": "https://elkentaro.github.io/jp_incidents/",
+      "summary": "Cyber incidents in Japan Publicly reported cybersecurity incidents affecting Japanese organizations, collected from news, security publications, and o...",
+      "published": "2026-10-19T12:32:44Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8acf1507bbfc1f3a8c6fbeaf91885991",
+      "title": "サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡",
+      "link": "https://www.yomiuri.co.jp/national/20261019-GYT1T00477/",
+      "summary": "【読売新聞】 国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの 脆弱 （ ぜいじゃく ） 性を診断する中国語のＡＩ（人工知能）エージェントが一部の攻撃で悪用されたとみられることが１９日、日本のセキ",
+      "published": "2026-10-19T20:16:56Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f2b576f0d756b45fae1f00a4bdfe71a",
+      "title": "GitHub - carnot-tech/jinba-consulting-pptx-skill: AIにまじなPPTXを作らせる Claude Code / Codex スキル",
+      "link": "https://github.com/carnot-tech/jinba-consulting-pptx-skill",
+      "summary": "AIに「まじ」なPowerPointを作らせるためのClaude Codeスキル。 AIワークフロープラットフォーム Jinba を提供するメンバーにより作成されました。 スライドの設計規約、規約違反を見つける機械チェック、62型のHTMLパーツ集（基本27＋追加35）、型カタログPDFをまとめたも...",
+      "published": "2026-10-09T14:16:07Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6074ee6d96c58608e203433cb9e884b6",
+      "title": "AIが数学の難問を解く現状について数学者が「建設的に関わっていく方法が見いだせない」と語る",
+      "link": "https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/",
+      "summary": "存命する数学者の中で世界最高峰のひとりと評されるテレンス・タオ氏は、現在、ほとんど数学に取り組めていないそうです。カリフォルニア大学ロサンゼルス校で開かれた数学のワークショップに出席したタオ氏は、AIが数学界にもたらした存続の危機について「今は臨戦態勢です」と語りました。 Terry Tao Is ...",
+      "published": "2026-10-19T12:14:38Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2021b358a10922196493cad1094831b3",
+      "title": "相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘",
+      "link": "https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/",
+      "summary": "【読売新聞】 サイバーセキュリティー大手のトレンドマイクロ（東京）のエバ・チェン社長は１９日、都内で記者会見を開き、相次ぐ不正アクセスやサイバー攻撃について「ＡＩ（人工知能）による自動化攻撃が始まった」との見方を示した。「盗まれた情",
+      "published": "2026-10-19T11:24:02Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "346dcbedaf6e59ef8283207badbea327",
+      "title": "AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」",
+      "link": "https://gigazine.net/news/20261019-hybrid-reasoning-agents/",
+      "summary": "スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化...",
+      "published": "2026-10-19T13:11:14Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ff6be872e75207b0da4fee67af87265",
+      "title": "「Microsoft Publisher」がついにサポート終了、残されたPUBファイルに「LibreOffice」が救いの手／特定企業の独自ファイル形式の末路に警鐘を鳴らす【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2149112.html",
+      "summary": "",
+      "published": "2026-10-19T12:28:11Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb92a66dd5a4d72dccd4c495d3ca225b",
+      "title": "中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る - BBCニュース",
+      "link": "https://www.bbc.com/japanese/articles/cqly0vee2zm4o",
+      "summary": "中国の経済成長率は、9月末までの3カ月間で回復した。AIブームが輸出を押し上げ、3年ぶりの低水準から回復した。 中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。",
+      "published": "2026-10-19T07:47:40Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94dc0b251f6843941c89483abfb6efc5",
+      "title": "BASE子会社の「Eストアー」、2336万人の情報漏えい",
+      "link": "https://www.watch.impress.co.jp/docs/news/2149147.html",
+      "summary": "",
+      "published": "2026-10-19T06:57:11Z",
+      "fetched_at": "2026-10-19T21:53:11.450399+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-19T16:43:05.975197+00:00"
+  "updated_at": "2026-10-19T21:53:11.450399+00:00"
 }

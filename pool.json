@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5e697861ffb877161a591bcfed015409",
-      "title": "Quality is speed: Where engineering discipline moves in the AI era | Thoughtworks",
-      "link": "https://www.thoughtworks.com/insights/articles/quality-is-speed-AI-era",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Quality is speed: Where engineering discipline moves in the AI era",
-      "published": "16 Oct 2026 10:55 +0000",
-      "fetched_at": "2026-10-18T08:26:31.589580+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "39f153c0d5cd29249d81df5b3c863623",
-      "title": "Designing agentic delivery for bounded context and bounded human attention | Thoughtworks",
-      "link": "https://www.thoughtworks.com/insights/blog/architecture/designing-agentic-delivery-for-bounded-context-and-bounded-human-attention",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Designing agentic delivery for bounded context and bounded human attention",
-      "published": "16 Oct 2026 08:56 +0000",
-      "fetched_at": "2026-10-18T08:26:31.589580+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "cb44020a6e55fe0281e3b7d5647a6995",
       "title": "AWS Continuum で実現するデプロイごとのペネトレーションテスト | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/",
@@ -849,7 +829,487 @@
       "fetched_at": "2026-10-19T09:27:45.006791+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "84ae72242721562ef6b44689057457a1",
+      "title": "APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方 - 赤帽エンジニアブログ",
+      "link": "https://rheb.hatenablog.com/entry/2026/10/07/235338",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方",
+      "published": "19 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e70ca7a3346d3b14f4ae9b750f7b0780",
+      "title": "AI-DLCで大企業向け受注連携基盤を刷新する話 - ASKUL Engineering BLOG",
+      "link": "https://tech.askul.co.jp/entry/2026/10/08/162341",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI-DLCで大企業向け受注連携基盤を刷新する話",
+      "published": "17 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "19a3c0683bcc03feacacce932f943164",
+      "title": "Wine Ported to OpenBSD",
+      "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "summary": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 237 # Comments: ...",
+      "published": "Mon, 19 Oct 2026 13:35:34 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "49216b2f6e8e12aca3baaa66e37d00e8",
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "link": "https://100toolkit.com/blog/deslop-model/",
+      "summary": "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 104 # Comments: 85",
+      "published": "Mon, 19 Oct 2026 13:00:47 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9343bdaf0c2d550658748ccf49a7bb74",
+      "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "link": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "summary": "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 126 # Comme...",
+      "published": "Mon, 19 Oct 2026 12:07:41 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40d94d7c2ca8ff899e193d370b644e56",
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "link": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+      "summary": "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 167 # Commen...",
+      "published": "Mon, 19 Oct 2026 11:10:54 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9689e72935753f0bdd8f298d6b48ad28",
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "summary": "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: ...",
+      "published": "Mon, 19 Oct 2026 10:53:39 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d986096ebbdf851ebded074152ffeb5f",
+      "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+      "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "summary": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=5...",
+      "published": "Mon, 19 Oct 2026 10:45:14 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bdcc866d475b19af43ae0a60025437f",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "link": "https://mistral.ai/news/timestral/",
+      "summary": "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 344 # Comments: 58",
+      "published": "Mon, 19 Oct 2026 09:59:32 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "25ba6e05abc73eaf1887b0c20a9be8da",
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "summary": "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 120 # Comments: 84",
+      "published": "Mon, 19 Oct 2026 05:55:31 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9aa66ce7fdb202fbd2586df2678f89a2",
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "link": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "summary": "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Mon, 19 Oct 2026 04:40:18 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44dc34f3551d915d25f421836786af2a",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "link": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 134 # Comme...",
+      "published": "Mon, 19 Oct 2026 02:01:16 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a0bc4ec1e1291cbdfa52a99e1f3c0ae",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "link": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com...",
+      "published": "Sun, 18 Oct 2026 23:37:54 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ecf635432c95499ab7e2409a5cc5b32",
+      "title": "Personal software factories are a waste of time",
+      "link": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+      "summary": "Article URL: https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/ Comments URL: https://news.ycombinator.com/item?id=501441...",
+      "published": "Sun, 18 Oct 2026 19:02:11 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac09f1a2c10b0de7f565f1130c12aaf5",
+      "title": "週刊AWS – 2026/10/12週",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-20261012/",
+      "summary": "Amazon OpenSearch Service がインデックスレベル暗号化をサポート、Amazon Bedrock AgentCore の短期メモリに従量課金制を導入、AWS Lambda が Lambda Web Functions を発表、Agent Toolkit for AWS の AW...",
+      "published": "Mon, 19 Oct 2026 11:08:23 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbfb316b112ffa2698837c8f3029e71f",
+      "title": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/",
+      "summary": "Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detect p...",
+      "published": "Mon, 19 Oct 2026 16:01:00 GMT",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "06a6821d8be0f50ca8175683d5a6e47e",
+      "title": "Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出",
+      "link": "https://note.com/yukiedu/n/n4d25f5e1d590",
+      "summary": "Claude Codeに、全部任せて開発してる現場。 めっちゃ多いんですけど。 1〜2ヶ月後、ガチで地獄になるの、知ってます? 今、現場でリアルに起きてる現象なんですよ。 「検索機能、作って」 Claude Codeに、ポンって投げる。 バーって、コード出てくる。 動く。 「お、いけたな」って、マー...",
+      "published": "2026-10-19T08:46:35Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0793aa0bd80bf8cf81d4c94abb38b619",
+      "title": "相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ",
+      "link": "https://gmo-cybersecurity.com/blog/20261019/",
+      "summary": "GMOサイバー犯罪対策センターの福森です。 前回の記事の続報です。日本企業を狙った侵害事案において攻撃元インフラを調査したところ、AIによる自律型ペネトレーションテストシステムであるARTEXが使われていることを確認いたしました。前回の記事ではフォレンジックログからAIによる攻撃である可能性が高いと...",
+      "published": "2026-10-19T07:45:02Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1374aea1f65f28603ecc5ae2d0a3073",
+      "title": "デジタル庁、Androidのマイナカード対応機種を公開",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2149346.html",
+      "summary": "",
+      "published": "2026-10-19T09:08:25Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "be36ad5d1e27db97e022c90cb875574b",
+      "title": "お客さま向け会員サイト「My SoftBank」の一時的な停止について | 企業・IR | ソフトバンク",
+      "link": "https://www.softbank.jp/corp/news/press/sbkk/2026/20261019_01/",
+      "summary": "このたび、お客さま向け会員サイト「My SoftBank」の一部のシステムに対して、第三者による不正アクセスの試みがあったことが判明しました。そのため、お客さま情報の安全措置の一環として10月17日午前8時から「My SoftBank」「My Y!mobile」「My Menu」のウェブサイトを一時...",
+      "published": "2026-10-19T11:38:08Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0780c1012e79591c369aaf4eefe783a",
+      "title": "ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim",
+      "link": "https://note.com/timtarou/n/n5443f159e7bc",
+      "summary": "2026年7月9日付で、ISMS（ISO/IEC 27001:2022）の認証を取得しました。登録番号は 50301853 ISMS22 です。 コンサルには頼んでいません。ISMS専用のSaaSも使っていません。設立1年目のひとり会社が、AI社員と二人三脚で、マネジメントシステムそのものを自社で作...",
+      "published": "2026-10-19T14:05:36Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b430a984749412e73761ac53bc86f2dd",
+      "title": "【資料公開】AIで組織を加速させる勘所",
+      "link": "https://www.ryuzee.com/contents/blog/14627",
+      "summary": "みなさんこんにちは。@ryuzeeです。 仕事でAIを使うのは当たり前になっていて、もうAIがなかった頃には戻れないと考えている人も多いのではないかと思います。 一方で、「ある大手企業が1人あたりのAI利用額に月3000円くらいの上限を設けた」みたいな話も聞こえてきます。偉い人からすると、「全社で見...",
+      "published": "2026-10-19T08:53:21Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38f61d1ca5473ca50345256735224bda",
+      "title": "不正アクセスの経過と当社の対処について | 株式会社アルカディア",
+      "link": "https://raiden.site.ktaiwork.jp/wp-content/uploads/sites/2/2026/10/2026_10_19AccessIncident.pdf",
+      "summary": "不正アクセスの経過と当社の対処について ２０２６年１０月１９日 株式会社アルカディア 代表取締役社長 天白成一 このたびの不正アクセスにより多大なるご迷惑とご心配をおかけしておりますことを、深くお 詫び申し上げます。これまで公式ブログや管理者様向けメールなどを通じて随時情報更新に努 めてまいりました...",
+      "published": "2026-10-19T12:33:59Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bce92d66b9636ff66d22b51937bb9c0d",
+      "title": "老舗クリップボード履歴ソフト「CLCL」を手本に「Rust」で作り直した「CLCLR」／レジストリを汚さないポータブルアプリ。画像をWebP形式で圧縮保持するなどの工夫も【レビュー】",
+      "link": "https://forest.watch.impress.co.jp/docs/review/2149141.html",
+      "summary": "",
+      "published": "2026-10-19T06:05:43Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d32a1097b9df2102ddcb9ed3d44b93f4",
+      "title": "ニフティ、回線申し込み・受付管理システムに不正アクセス、最大約54万件の個人情報漏えいの可能性",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2149373.html",
+      "summary": "",
+      "published": "2026-10-19T08:45:19Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ea7ed0954d4c7506fe18ffdf791ca8f",
+      "title": "Credential Injection - Proxy-Based Secret Management for AI Agents",
+      "link": "https://nono.sh/credential-injection",
+      "summary": "Proxy-Based Secret ManagementCredential InjectionThe proxy acts as a reverse proxy for configured credential routes. The agent sends plain HTTP to loc...",
+      "published": "2026-10-19T08:39:46Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c399dbae1bca71b3adb292ed52fea207",
+      "title": "Windows 11の「フォト」アプリが作り直し、より軽快でローカル・クラウドを一元管理／HEICやWebPもそのまま編集、エディター起動も25％高速化、「OneDrive」や「iCloud」の写真もまとめて閲覧",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2149001.html",
+      "summary": "",
+      "published": "2026-10-19T08:50:48Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9c83c8f849c45b7ab39fa5edf31f185",
+      "title": "スクエニアカウントに不正ログイン、他社で流出の情報使用か 全アカウントのパスワード強制リセットも視野に",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002397/",
+      "summary": "ゲーム大手のスクウェア・エニックスは10月19日、「スクウェア・エニックス アカウント」への不正ログインを確認したと発表した。他社から流出したとみられるID・パスワードを悪用する、いわゆる「パスワードリスト型攻撃」によるもので、パスワードを使い回している利用者などに至急変更するよう呼びかけた。 他社...",
+      "published": "2026-10-19T10:03:09Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "204c1232bbfd34b223cddcc974a70346",
+      "title": "阪急阪神百貨店などの共通ID、ほぼ全会員分漏えい 約126万件 予約サイトに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002398/",
+      "summary": "エイチ・ツー・オー リテイリング（大阪市北区）は10月19日、子会社の阪急阪神百貨店が運営する「阪急百貨店・阪神百貨店予約サイト」などが第三者による不正アクセスを受け、グループ企業の共通会員ID「H2O ID」に関する個人情報約126万件の一部が漏えいしたと発表した。同日までに、漏えいした情報の不正...",
+      "published": "2026-10-19T09:59:26Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c4f0b24ccd0c41daa36d5ea68f5bd89",
+      "title": "ニフティ、54万件超漏えいの可能性 光回線の申し込みシステムに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002399/",
+      "summary": "ニフティは10月19日、同社の回線申し込みや受付管理に関するシステムが不正アクセスを受け、最大54万2513件の情報が漏えいした可能性があると発表した。 漏えいした可能性があるのは、2019年以降に同社のWebサイト以外から「＠nifty光」「＠nifty MAX光」「＠nifty auひかりプラス...",
+      "published": "2026-10-19T11:13:24Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e19e266a80c3dbcb60d415b295314269",
+      "title": "【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る【いまさら聞けないExcelの使い方講座】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2148977.html",
+      "summary": "",
+      "published": "2026-10-19T01:45:32Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "169cadb28ed6238c0ee998be546a9a7b",
+      "title": "ソフトバンク、「My SoftBank」「My Y!mobile」「My Menu」サイトを一時停止、不正アクセスの試行を受け アプリ版は利用可能",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2149432.html",
+      "summary": "",
+      "published": "2026-10-19T11:51:35Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28bcbbae363281cd41cfc0bdb13ff0c3",
+      "title": "Claudeが25年以上謎だった暗号規格の数値の起源を解明、NSAが説明なく提供した数値は「1990年代の乱数」だった",
+      "link": "https://gigazine.net/news/20261019-ecdsa-seed-origin/",
+      "summary": "AI開発企業のAnthropicは2026年10月16日、AIモデル「Claude」が広く使われている楕円曲線暗号規格「ECDSA」に関する長年の謎を解明したと発表しました。 Claude reveals ECDSA curve origins \\ Anthropic https://www.ant...",
+      "published": "2026-10-19T10:11:05Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "349d1076ecbcdd569c5202931a7c6751",
+      "title": "【第一報】当社回線申込・受付管理システムへの不正アクセスの発生について - ニフティ株式会社",
+      "link": "https://www.nifty.co.jp/newsrelease/nifty202610195434.htm",
+      "summary": "このたび、当社が管理する回線申込・受付管理システムにおいて、外部からの不正なアクセスを確認しました。 なお、本システムは当社側で情報登録をするための管理用ツールであり、お客様が直接アクセスして申し込むWebサイト（申込フォーム等）とは異なるシステムです。 お客様をはじめ、関係者の皆様に多大なるご迷惑...",
+      "published": "2026-10-19T09:00:21Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5764ddf824da9c3d444563ff6c0a8f4",
+      "title": "「ゲオ」「セカスト」運営元に不正アクセス 公式アプリや通販を停止、メンテナンス実施中",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002392/",
+      "summary": "ゲームやスマートフォンなどを販売する「ゲオ」や、リユースショップ「セカンドストリート」などを展開するセカンドリテイリングは10月17日、社内システムへの不正アクセスを確認したと発表した。二次被害を防ぐため、同日午後9時から両ブランドなどのアプリやWebサービスを停止し、システムメンテナンスを実施して...",
+      "published": "2026-10-19T08:12:10Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22ed1a568340fed8a329581128fe04ba",
+      "title": "「ふるさとチョイス」で不正アクセスの疑い サービス一時停止 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261019de61781",
+      "summary": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。 個人情報の漏えい…",
+      "published": "2026-10-19T09:36:08Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "09216941f5c3f311339727c4a941716d",
+      "title": "「ふるさとチョイス」不正アクセスの疑いでサービス停止",
+      "link": "https://www.itmedia.co.jp/news/article/2610/19/2000002391/",
+      "summary": "ふるさと納税ポータルサイト「ふるさとチョイス」（運営：トラストバンク）は、不正アクセスの疑いがある事象を検知したとして10月19日、サービスを一時停止したと発表した。 専門チームで調査し、事実関係・影響範囲を確認しているという。「被害拡大の防止と安全確保を最優先に」サービスを停止したとしている。 今...",
+      "published": "2026-10-19T07:45:37Z",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb26d76e5a0fe66441edc8863dba1d89",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 wit…",
+      "link": "https://github.com/withmarbleapp/os-taxonomy",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 withmarbleapp / os-taxonomy ⭐ 5,859 (+427) 🗒 JavaScript",
+      "published": "19 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa9f0509ee9eaa8b6842789b4023cc0e",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 hea…",
+      "link": "https://github.com/headroomlabs-ai/headroom",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 headroomlabs-ai / headroom ⭐ 75,989 (+317) 🗒 Python Compress tool outputs, logs, files, and RAG chunks before the...",
+      "published": "19 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fb619019c64b8d358066776ea75db22",
+      "title": "PrismMLのBonsai 2をGithub Actionsで動かしてみる",
+      "link": "https://dev.classmethod.jp/articles/run-prismml-bonsai-2-on-github-actions/",
+      "summary": "PrismMLが公開した超軽量LLM「Bonsai 2」をGithub Actions上で動かしてみました。2B〜27Bの4つのモデルサイズすべてを試し、ワークフロー定義からセットアップ方法、実行結果や処理時間の集計結果をまとめます。",
+      "published": "Mon, 19 Oct 2026 14:13:08 GMT",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e53da0dee6611ac0819251e8ae8ffbe4",
+      "title": "Gemini Intelligence 入門 ― AppFunctions と Gemini Nano #DevelopersIO 2026 Hiroshima #登壇レポート",
+      "link": "https://dev.classmethod.jp/articles/gemini-intelligence-developersio-2026-hiroshima/",
+      "summary": "AI がアプリを操作する時代が近づいています。 アプリ側で実装が必要な AppFunctions と それを支える Gemini Nano（オンデバイスのAIモデル） について、検証結果を交えて紹介した登壇の内容をまとめました。",
+      "published": "Mon, 19 Oct 2026 10:30:28 GMT",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "30195cdaefb1f40b6f47bbf8e8611fad",
+      "title": "「JWTアクセストークンとIDトークンは誰が何のために必要としているのか」というタイトルで DevelopersIO 2026 に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/20261016-devio2026-jwt-access-token-vs-id-token/",
+      "summary": "2026年10月16日に DevelopersIO 2026 Fukuokaに登壇した、「JWTアクセストークンとIDトークンは誰が何のために必要としているのか」についての記事です。2種類のトークンの違いと見極め方について解説します。",
+      "published": "Mon, 19 Oct 2026 10:00:12 GMT",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff8b5a0138fc9170ea00980b11b02ea4",
+      "title": "初めての Cognito Managed Login",
+      "link": "https://dev.classmethod.jp/articles/my-first-cognito-managed-login/",
+      "summary": "まぁ、簡単ではないと思うんですけどいかがでしょう",
+      "published": "Sun, 18 Oct 2026 14:42:02 GMT",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "64fc3fa89622132e1f8129393c056e0e",
+      "title": "Korg will unveil a new companion app for its innovative Phase8 acoustic synthesizer at ADE 2026",
+      "link": "https://musictech.com/news/gear/korg-will-unveil-a-new-companion-app-for-its-innovative-phase8-acoustic-synthesizer-at-ade-2026/",
+      "summary": "Attendees are invited to watch a sequencing and performance session hosted by Product Lead Lukas Hartmann and Lead Embedded Software Engineer Iarla Sc...",
+      "published": "Mon, 19 Oct 2026 16:08:20 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "4815dfb4ddc7dc8d03f08482eed222dc",
+      "title": "Solid State Logic modernise the Bus Compressor for the Bus Comp Classic",
+      "link": "https://musictech.com/news/gear/solid-state-logic-ssl-bus-comp-classic/",
+      "summary": "The Bus Comp Classic is available now for around £1,299, and it recaptures the immediacy of the original Bus Compressor. The post Solid State Logic mo...",
+      "published": "Mon, 19 Oct 2026 15:38:10 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "7ac08b3b9d0323bb23fa54c4b9799d5e",
+      "title": "The Bob Moog Foundation is hosting an online fundraising auction – here’s what’s up for grabs",
+      "link": "https://musictech.com/news/music/the-bob-moog-foundation-is-hosting-an-online-fundraising-auction-heres-whats-up-for-grabs/",
+      "summary": "Proceeds will benefit Dr. Bob’s SoundSchool, the Bob Moog Foundation Archives and the Moogseum. The post The Bob Moog Foundation is hosting an online ...",
+      "published": "Mon, 19 Oct 2026 14:53:36 +0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "51c02a0de67737dd1a55749b08422656",
+      "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
+      "link": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups",
+      "summary": "The Aussie producer and tastemaker's recommendations double as a vital scene report. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 19 Oct 2026 13:13:43 -0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "09f38b8ffe33297e8b58b93c47bebd19",
+      "title": "Various Artists, “Beirut City Pop”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review",
+      "summary": "Habibi Funk retraces the revolutionary arc of Lebanon's city pop scene in the ’70s and ’80s. Read full story on the Bandcamp Daily.",
+      "published": "Mon, 19 Oct 2026 13:13:33 -0000",
+      "fetched_at": "2026-10-19T16:43:05.975197+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-19T09:27:45.006791+00:00"
+  "updated_at": "2026-10-19T16:43:05.975197+00:00"
 }

@@ -9,7 +9,157 @@
       "fetched_at": "2026-10-19T16:43:05.975197+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "2c092fa6563057804113af47c1b1989a",
+      "title": "AI と CUE で始めるイベントモデリング - 弁護士ドットコム株式会社 Creators’ blog",
+      "link": "https://creators.bengo4.com/entry/2026/10/07/080000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI と CUE で始めるイベントモデリング",
+      "published": "19 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32c598d142f4c54fb819b4c88d499c92",
+      "title": "脅威の手口を解説: サブドメイン乗っ取りの仕組みと対策",
+      "link": "https://aws.amazon.com/jp/blogs/news/threat-tactic-spotlight-subdomain-takeover/",
+      "summary": "このブログ記事では、脅威アクターがダングリング DNS レコードを悪用し、トラフィックを攻撃者が管理するリソースにリダイレクトするサブドメイン乗っ取りの仕組みと対策を説明します。S3、CloudFront、Elastic Beanstalk など乗っ取りの対象になり得るリソースを整理し、具体的なシナ...",
+      "published": "Tue, 20 Oct 2026 00:25:43 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "35f793223322a1d28f85667ba8c268ae",
+      "title": "約 3 万人のAIネイティブエンジニア体制へ ― NEC は Claude Code をどう全社展開しているのか？ CoE・チャンピオン制度による取り組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/nec-claude-code-bedrock-coe-anthropic/",
+      "summary": "日本電気株式会社（以下、NEC）・Anthropic Japan 合同会社（以下、Anthropic）のご協力 […]",
+      "published": "Tue, 20 Oct 2026 00:21:57 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "80f6ed963ddf6332dee1fa3b8216b748",
+      "title": "リアルタイムのマルウェア防御: AWS Network Firewall のアクティブ脅威防御の活用",
+      "link": "https://aws.amazon.com/jp/blogs/news/real-time-malware-defense-leveraging-aws-network-firewall-active-threat-defense/",
+      "summary": "サイバー脅威は急速に進化しており、潜在的な問題を抱えるワークロードは 90 秒以内に脅威アクターに発見されます。この記事では、AWS Network Firewall のアクティブ脅威防御を紹介します。アクティブ脅威防御は、Amazon のハニーポットネットワーク MadPot の脅威インテリジェン...",
+      "published": "Tue, 20 Oct 2026 00:17:17 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "71b5c7e4b58fb2bd4e11500b011b9810",
+      "title": "データ流出の防止: AWS で実現するクラウドワークロードのエグレス制御",
+      "link": "https://aws.amazon.com/jp/blogs/news/prevent-data-exfiltration-aws-egress-controls-for-cloud-workloads/",
+      "summary": "見落とされがちなアウトバウンドトラフィックを悪用したデータ流出を防ぐため、AWS のサービスを組み合わせた多層的なエグレス制御の実装方法を紹介します。ハブアンドスポーク型アーキテクチャを基盤に、AWS Network Firewall と Amazon Route 53 Resolver DNS F...",
+      "published": "Tue, 20 Oct 2026 00:11:30 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b5860dcb2dfe9eb116a6194c3e62742",
+      "title": "AWS のサービスで構築する生成 AI アプリケーションのセキュアなネットワークアーキテクチャ",
+      "link": "https://aws.amazon.com/jp/blogs/news/build-secure-network-architectures-for-generative-ai-applications-using-aws-services/",
+      "summary": "生成 AI アプリケーションは、DDoS 攻撃、SQL インジェクション、悪意のあるボットなど、さまざまな外部脅威にさらされています。この記事では、AWS PrivateLink による Amazon Bedrock へのプライベート接続、AWS WAF と AWS Shield によるエッジでの保...",
+      "published": "Tue, 20 Oct 2026 00:06:49 +0000",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1119966d0331e0a8fd279c1165ca370",
+      "title": "AWS Elemental MediaConnect Router now supports high bitrate mode",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/",
+      "summary": "AWS Elemental MediaConnect Router now supports high bitrate modes with two new tiers: 250 Mbps and 500 Mbps. This allows professional broadcasters tha...",
+      "published": "Mon, 19 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f17aeeeb747788e3f706635843107587",
+      "title": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/",
+      "summary": "Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio envir...",
+      "published": "Thu, 15 Oct 2026 20:10:00 GMT",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d288d5f79b94ba7b61d676efef8e59a",
+      "title": "Amazon OpenSearch Service now supports index-level encryption",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption",
+      "summary": "Amazon OpenSearch Service now supports index-level encryption, letting you encrypt each index at rest with its own AWS Key Management Service (AWS KMS...",
+      "published": "Mon, 12 Oct 2026 02:30:00 GMT",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2aa43f681c8a6b5d735ad18b1743922f",
+      "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002404/",
+      "summary": "米Appleのワールドワイドマーケティング担当上級副社長、グレッグ・ジョズウィアック氏は10月19日（現地時間）、Xに「Can’t wait to pro and tell next week.」と投稿した。Appleのロゴを指で描くような動画が添えられている。",
+      "published": "2026-10-19T21:43:25Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eca4eaed3b3b2ea870e8fc67e9b7beb3",
+      "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+      "link": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+      "summary": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、H...",
+      "published": "2026-10-19T15:11:20Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e8a689adb5839beb9bdb00d54740b9f",
+      "title": "大学院生が研究ネタを見つける４つの方法（具体例付き） - SuzukiMasayuki@Hatena::Diary",
+      "link": "https://masayukipo.hatenadiary.org/entry/20130222/1361519320",
+      "summary": "今年３月に博士号取得予定です。 学部４年生のころから、ずっと同じ研究室に所属し続けたおかげか、自分の研究に加え、後輩との共同研究もたくさん行うことが出来ました。その結果、博士論文提出時のジャーナル・国際会議・国内会議の論文数をすべて合計すると、主著が２７本、共著は５９本もあります。質の面はまだまだ....",
+      "published": "2013-07-27T09:16:18Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "421b0fb88a962a4bd7474aa8731ba97f",
+      "title": "OSS Scanner",
+      "link": "https://red.anthropic.com/oss-scanner/",
+      "summary": "OSS Scanner is a service by Anthropic to scan open-source repositories for security vulnerabilities. It’s an opt-in service informed by our experience...",
+      "published": "2026-10-09T09:25:09Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1e88fa41e78015a93122874151e1fc3",
+      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令",
+      "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002405/",
+      "summary": "米国土安全保障省（DHS）は10月20日（現地時間）付の官報で、国土安全保障長官が中国DeepSeekの製品を連邦政府の民間行政機関の調達とITシステムから排除する命令を出したと公示した。 命令は2点。1つは、DeepSeekとその関連会社が開発したIT製品およびサービスを、連邦民間機関の調達対象か...",
+      "published": "2026-10-19T22:13:44Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "01efc9d3553ab64887cc16d9ac8b6e15",
+      "title": "Cloudflare Voidでつくったアプリをモバイルアプリでリリース！",
+      "link": "https://zenn.dev/rdlabo/articles/workers-capacitor-void-mobile",
+      "summary": "VoidでWebアプリがつくれる。Cloudflareへ公開して、URLを渡せば使ってもらえる。便利ですよね。 でも、ユーザがアプリを探す場所は、ブラウザだけではありません。iPhoneならApp Store、AndroidならGoogle Playで探したい。見つけたアプリをインストールして、いつ...",
+      "published": "2026-10-19T09:37:40Z",
+      "fetched_at": "2026-10-20T00:50:34.975033+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-19T22:57:53.666999+00:00"
+  "updated_at": "2026-10-20T00:50:34.975033+00:00"
 }

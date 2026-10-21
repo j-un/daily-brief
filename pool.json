@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "cf64b048bd4b9b1a7476319e3bce3bda",
-      "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力 － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力",
-      "published": "20 Oct 2026 06:55 +0000",
-      "fetched_at": "2026-10-20T06:55:29.442834+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4a1d9fb36f742b430fe7a61b305f221a",
       "title": "ソニー銀行が勘定系システムの開発に AI エージェントを適用し基本設計から結合テストまでの開発期間を 30% 短縮 | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/casestudy-sonybank-agent-in-development/",
@@ -959,7 +949,427 @@
       "fetched_at": "2026-10-21T09:00:28.884794+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "8d59c303fe7fe98a6dccc9637cd43e06",
+      "title": "生成AIの練習をするなら自分が欲しいアプリを作れという話 | Ryuzee.com",
+      "link": "https://www.ryuzee.com/contents/blog/14626",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 生成AIの練習をするなら自分が欲しいアプリを作れという話",
+      "published": "21 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "94ac01c3ea1a3251456f037bea279514",
+      "title": "フランス国内の小売チェーンで発生した冷凍冷蔵設備の遠隔操作についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/13/133936",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 フランス国内の小売チェーンで発生した冷凍冷蔵設備の遠隔操作についてまとめてみた",
+      "published": "21 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "601acd641774ec16c889d88e8f98954b",
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "link": "https://www.php.net/index.php",
+      "summary": "Article URL: https://www.php.net/index.php Comments URL: https://news.ycombinator.com/item?id=50180943 Points: 235 # Comments: 76",
+      "published": "Wed, 21 Oct 2026 13:50:05 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f96bca5f4aeb164eae1f67434fdf2de",
+      "title": "Updated PHP version released to GitHub",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "summary": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35 Comments URL: https://news.ycombinator.com/item?id=50180873 Points: 284 # Comments...",
+      "published": "Wed, 21 Oct 2026 13:45:33 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "017edac71ad0124d6abf4cf4d46bd9d8",
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "link": "https://www.wiz.io/blog/php2shell-php-rce",
+      "summary": "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 118 # Comments: 26",
+      "published": "Wed, 21 Oct 2026 13:43:19 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0ef34e37c36eed13f7d44b97b659aee",
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "link": "https://www.ncsc.nl/actueel",
+      "summary": "Article URL: https://www.ncsc.nl/actueel Comments URL: https://news.ycombinator.com/item?id=50179828 Points: 201 # Comments: 69",
+      "published": "Wed, 21 Oct 2026 12:31:28 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b52e6c29d9c15b00465913c1e982ddc4",
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "link": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+      "summary": "Article URL: https://www.hirundo.io/blog/qwen3-coder-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50179706 Points: 159 # Comment...",
+      "published": "Wed, 21 Oct 2026 12:22:39 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "38bfac373b4d4e1cc767be4cc44ebaf1",
+      "title": "Whatever Happened to Fire Escapes",
+      "link": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=501784...",
+      "published": "Wed, 21 Oct 2026 10:14:43 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e66077374df146dc3b9501e1c53e5f6",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Wed, 21 Oct 2026 09:08:08 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "040fb93c6dd5e8f5fbf6a4346c4608a2",
+      "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+      "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Poi...",
+      "published": "Wed, 21 Oct 2026 09:07:49 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11764f1fb2e7246ef07c6c02fd94d7b1",
+      "title": "Using Claude to reduce the attack surface of code",
+      "link": "https://www.anthropic.com/research/attack-surface-reduction",
+      "summary": "Article URL: https://www.anthropic.com/research/attack-surface-reduction Comments URL: https://news.ycombinator.com/item?id=50175779 Points: 104 # Com...",
+      "published": "Wed, 21 Oct 2026 03:36:43 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8786e221ab92075a33ec1dea0ab90bad",
+      "title": "C# now beats Rust on WASM size",
+      "link": "https://github.com/zion-sati/NetWasm",
+      "summary": "Article URL: https://github.com/zion-sati/NetWasm Comments URL: https://news.ycombinator.com/item?id=50175510 Points: 135 # Comments: 74",
+      "published": "Wed, 21 Oct 2026 02:53:47 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10c381a979c612844444330e9fd6c2a9",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/it...",
+      "published": "Wed, 21 Oct 2026 02:04:15 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec651eaac65a42dbe004117d30d6f2d4",
+      "title": "Kiro はどのように自らを修正し、その修正の正しさをどう担保しているか",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-kiro-fixes-itself/",
+      "summary": "Kiro のファイル読み取りツールと検索ツールの説明に、ハーネスの動作について事実と異なる主張をする一文がありました。この一文は数百のセッションで 61,742 回モデルに届いていました。何の役にも立っておらず、誰かがチケットを起票することもまずなかったでしょう。こうした問題は見つけるのが難しく、修...",
+      "published": "Wed, 21 Oct 2026 09:41:47 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f370af7af7f9f003ba65338a4af9839",
+      "title": "Kiro IDE と CLI にメモリ機能が登場",
+      "link": "https://aws.amazon.com/jp/blogs/news/memory-in-ide-cli/",
+      "summary": "本日、Kiro IDE と CLI にメモリ機能を導入します。Kiro は、あなたが好む作業の進め方、リポジトリ固有のコマンドや規約、受けた訂正、デバッグで得た知見、すでに除外したアプローチを覚えておけるようになります。それらが再び関係する場面になると、Kiro はあなたのコンテキストを引き継ぎます...",
+      "published": "Wed, 21 Oct 2026 09:38:21 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "62be864a02e57695602c3efcc9d78aa7",
+      "title": "修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/21/174516",
+      "summary": "2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチー...",
+      "published": "2026-10-21T08:57:42Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0726ced40975bc898d70210e786a241",
+      "title": "著名ITサービス相次いで緊急メンテへ コドモン、シャドバ、BASE、さくらのレンタルサーバなど 「PHP」脆弱性に起因か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002472/",
+      "summary": "保育園向けSaaS「コドモン」、ゲーム「Shadowverse: Worlds Beyond」「さくらのレンタルサーバ」といった著名サービスが相次いで緊急メンテナンスに入ったり、同日午後11時ごろからのメンテナンスを予告したりしている。Web開発で広く使われるプログラミング言語「PHP」で緊急性の高...",
+      "published": "2026-10-21T08:52:10Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0cad3a7f4d201ca4f52f9f745550535",
+      "title": "不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de62921",
+      "summary": "証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…",
+      "published": "2026-10-21T09:08:57Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45dbf54fb3c54401e8adbdff0a737f69",
+      "title": "委託事業者における個人情報漏えいについて",
+      "link": "https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004",
+      "summary": "令和8年10月9日、本学の全学教育用電子計算機システムの運用を委託している日本電気株式会社（以下「NEC」という。）から、令和8年9月26日に第三者により本学の個人情報を含むファイルがダウンロードされていたとの報告を受けました。 その後の調査により、本学に報告されていない協力会社が本業務の一部に関与...",
+      "published": "2026-10-21T11:16:28Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94e4add39fd1882164440ebd850009f5",
+      "title": "わずか2週間でGitHubスター30万超 AIでリバースエンジニアリングする「REA」が話題",
+      "link": "https://ascii.jp/elem/000/004/444/4444350/",
+      "summary": "morluto氏がGitHubで公開しているAIエージェント向けのリバースエンジニアリング支援ツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。10月2日時点で41件だったGitHubのスター数は、17日に30万件を突破。21日には34万7802件に達し...",
+      "published": "2026-10-21T04:48:18Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8d8ac27fb1c81b73bd605e22b6132ee6",
+      "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+      "link": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+      "summary": "Commercial support for versions past the Maintenance LTS phase is available through our OpenJS Ecosystem Sustainability Program partners Summary The N...",
+      "published": "2026-10-14T23:31:16Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58b25696a50705815625f02d5217aa62",
+      "title": "LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/litellm_2nd_compromise",
+      "summary": "2026年10月21日、PyPI パッケージ litellm に悪性コードが注入されました。2026年3月に発生した事案とは別の再侵害が発生しています。 注入された悪性コードは、Infostealer機能を持つマルウェアです。 本記事は、弊社が Takumi Guard の解析基盤をベースに観測＆分...",
+      "published": "2026-10-21T12:37:30Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "04a656b15e1815ec3de219268b1c2577",
+      "title": "ニコニコやpixivなど各種ウェブサイトおよびアプリがPHPの緊急パッチに対応するべくメンテナンス入り",
+      "link": "https://gigazine.net/news/20261021-php-php2shell-maintenance/",
+      "summary": "数多くのウェブサイトやアプリで使用されているプログラミング言語「PHP」に脆弱(ぜいじゃく)性が見つかり、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされています。この緊急パッチに対応するべく多くのサイトがメンテナンス入りしています。 ...",
+      "published": "2026-10-21T13:19:20Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2781fd91e6d8247c910d4f9b46c3303e",
+      "title": "「iPhone Duo」を1週間使って分かった、全部盛りではない“上質さ” 心地いい開閉ヒンジの内部を見るために“非破壊検査”してみた",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2610/21/news064.html",
+      "summary": "「iPhone Duo」を1週間使って分かった、全部盛りではない“上質さ” 心地いい開閉ヒンジの内部を見るために“非破壊検査”してみた（1/5 ページ） まず、価格の話はいったん脇に置きたい。手が届くかどうかは大切な問題だが、それを中心に議論をすると、あこがれのスポーツカーや高級時計といったものは作...",
+      "published": "2026-10-21T12:07:41Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03b4228e8f3104487b46109d439a55bb",
+      "title": "小説家になろうグループ臨時接続制限のお知らせ",
+      "link": "https://blog.syosetu.com/article/view/article_id/5277/",
+      "summary": "いつも小説家になろうグループをご利用いただきありがとうございます。 現在、当社サーバ上で利用しているミドルウェアに対して緊急性の高い脆弱性情報の修正が予告されており、外部からの攻撃による被害を受けかねない状況となっております。 そのため、緊急かつ臨時の措置ではありますが、一部の接続元からのアクセス....",
+      "published": "2026-10-21T08:55:48Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45b77a09cdb2e5a18f49d36c4c988836",
+      "title": "PHP 8.5.12 released with security fixes | The Dev Dispatch",
+      "link": "https://php-net.pro/en/news/php-8-5-12-released-with-security-fixes",
+      "summary": "The PHP project has released PHP 8.5.12: 90 fixes across 29 components of the 8.5 branch. The PHP project has released PHP 8.5.12, a maintenance updat...",
+      "published": "2026-10-21T13:59:53Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3e7b0190c984996510f1949ac44fc5e",
+      "title": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
+      "link": "https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html",
+      "summary": "【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開された...",
+      "published": "2026-10-21T14:07:21Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e628d9e1c250475ddeb417c7f5ee333",
+      "title": "大阪公立大のシステム障害、NECの再委託先へのサイバー攻撃が原因：朝日新聞",
+      "link": "https://www.asahi.com/sp/articles/ASVBP15NCVBPPTIL00MM.html",
+      "summary": "大阪公立大学は21日、今月2日に発生したシステム障害について、システムの保守と運用を委託しているNECの再委託先の事業者がサイバー攻撃を受けたことが原因だと、発表した。■大阪大でも個人情報7万8千人…",
+      "published": "2026-10-21T12:53:20Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fde4a84b04e04f4fae24b64d35460309",
+      "title": "情報処理推進機構“PHPでぜい弱性確認 速やかな対応を” | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261021de63209",
+      "summary": "ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び…",
+      "published": "2026-10-21T13:40:39Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bbb9a1e7950660349b7419d1fd5eae5",
+      "title": "AIを使えば、ソフトウェアエンジニアとしての規律は身につくのか｜柴田 芳樹",
+      "link": "https://note.com/yoshiki_shibata/n/n9b1a1bbfb4f1",
+      "summary": "この記事では、AIによってソフトウェア開発のあり方が大きく変わる中で、これからのエンジニアはどのように経験を積み、成長していくのだろうか、という問題を提起しました。 今回は、その問題をもう少し掘り下げてみたいと思います。 テーマは、ソフトウェアエンジニアとしての規律（Engineering Disc...",
+      "published": "2026-10-20T07:06:42Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "897ff3a198bb8f380f2df1ecefb68638",
+      "title": "AWS開発環境のOpenSearchの使い分け | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20261021a/",
+      "summary": "検索機能を持つサービスの開発をする場合、検索機能をどのように実現するかいくつか選択肢があります。AWSを使っていると、自前でElasticsearchをホスティングするか、マネージドなOpenSearchを使うか、ということになります。OpenSearchの方にはServerlessの選択肢もあり、...",
+      "published": "2026-10-21T08:57:51Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88e47602f8f755f2177f05c0de3d2395",
+      "title": "Oracle Java の脆弱性対策について(2026年10月) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構",
+      "link": "https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html",
+      "summary": "概要 2026年10月21日（日本時間）に Oracle Java に関するセキュリティ更新プログラムが公表されています。 これらの脆弱性を悪用された場合、アプリケーションプログラムが異常終了する、攻撃者によってパソコンを制御される、といった様々な被害が発生するおそれがあります。 攻撃が行われた場合...",
+      "published": "2026-10-21T08:10:34Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11b98a6d0dc6ac860e609c40ae107972",
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "link": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "summary": "October 21, 2026Cloudflare deploys protections against php2shell vulnerability Today, Calif.io, Wiz, OpenAI and Quarkslab disclosed two vulnerabilitie...",
+      "published": "2026-10-21T14:22:23Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58975bce3493c6689ecdb321acdc3b9a",
+      "title": "2010年から存在するWi-Fiの欠陥でパスワードを知らなくてもルーターを乗っ取れるバグが発覚、数百万台が影響を受ける可能性",
+      "link": "https://gigazine.net/news/20261021-wpsplinter/",
+      "summary": "BroadcomのSDKに少なくとも2010年から脆弱(ぜいじゃく)性が存在し、パスワードを知らなくてもルーターを乗っ取り任意のコード実行を可能にする恐れがあることが分かりました。 One Parser, Two Bugs, Many Routers: Exploiting Broadcom WiF...",
+      "published": "2026-10-21T12:12:33Z",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e29fc86ccac2cb56e41a270f6ded1569",
+      "title": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 str…",
+      "link": "https://github.com/strelov1/freehire",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 strelov1 / freehire ⭐ 2,017 (+405) 🗒 Go freehire — the open-source search engine for job seekers",
+      "published": "21 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f8025a60209d6b061b693dc3c998ce0",
+      "title": "GTC Berlin 2026 の Jensen Huang 基調講演をまとめてみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-gtc-berlin-2026-keynote-report/",
+      "summary": "GTC Berlin 2026 の基調講演を同日の公式発表をもとに整理しました。6 月の Taipei から組み直されたエージェントの 5 要素、DSX POD、OpenShell Reference Architecture、最後の Microduck のデモを紹介します。",
+      "published": "Wed, 21 Oct 2026 14:09:15 GMT",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fa6b5118019bf9736cf60b81338c891",
+      "title": "[レポート]dbt State で、runs を最適化 ～コンピュートの削減、データの鮮度向上、そしてより速い iterationを実現～ #dbtWTTokyo",
+      "link": "https://dev.classmethod.jp/articles/dbt-world-tour-tokyo-2026-dbt-state-optimize-runs-dbtwt-tokyo/",
+      "summary": "dbt World Tour Tokyo 2026のセッションレポート。9月にGA となったdbt Stateについて、ライブデモを交えながら仕組みと設定、活用方法を詳しく解説します。",
+      "published": "Wed, 21 Oct 2026 13:21:20 GMT",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f4855b197201fd0e543659b6d7ec54c",
+      "title": "Claude Code v2.1.305〜v2.1.306 の主要アップデート - allowedMcpServers の挙動変更と tool search 回帰修正",
+      "link": "https://dev.classmethod.jp/articles/20261021-cc-updates-v2-1-306/",
+      "summary": "Claude Code v2.1.305〜v2.1.306（2026年10月20日〜21日公開）のアップデートをまとめてご紹介します。Bedrock・Vertex などで生じた回帰の修正、多数の MCP ツール使用時のエラー表示問題の改善、`/usage` の修正案表示など、エラーや警告に関わる重要...",
+      "published": "Wed, 21 Oct 2026 10:52:07 GMT",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b537a19163e981ff41e53dbdcdc58be1",
+      "title": "1PasswordのSSH Agentを使ってLinuxサーバーにログインしようとしたらToo many authentication failuresとエラーが出た",
+      "link": "https://dev.classmethod.jp/articles/1password-ssh-agent-too-many-authentication-failures/",
+      "summary": "1PasswordのSSH Agentを使ってSSHの秘密鍵を端末に保存せずにsshしていたのですが、急にエラーが出ました。どういうエラーだったのか、どう対処したのかまとめました。",
+      "published": "Wed, 21 Oct 2026 09:30:14 GMT",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "647a24c6551827282097d4c6bbb885ee",
+      "title": "HAAi is a producer striving to stay “on the edge of being uncomfortable”",
+      "link": "https://musictech.com/features/interviews/haai-interview-digitise/",
+      "summary": "Electronic music auteur HAAi wants to expand her sonic world. Here’s how her latest album, Digitise, does exactly that The post HAAi is a producer str...",
+      "published": "Wed, 21 Oct 2026 12:19:26 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "2bdd15bba5fa93d256348cac6d0e63a1",
+      "title": "Stop sending me vibecoded AI plugins, I’m begging you",
+      "link": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
+      "summary": "My inbox is a trash trove of sloppy audio plugins that mostly do the same thing The post Stop sending me vibecoded AI plugins, I’m begging you appeare...",
+      "published": "Wed, 21 Oct 2026 10:04:18 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "8a2271d384be0fabf08f68a4c28a6560",
+      "title": "This is one of the most iconic punk albums of all time – here’s what you can learn from its production",
+      "link": "https://musictech.com/news/music/this-is-one-of-the-most-iconic-punk-albums-of-all-time-heres-what-you-can-learn-from-its-production/",
+      "summary": "Green Day's Dookie has no shortage of rapid-fire drum lines. Here's how producer Rob Cavallo kept things punchy. The post This is one of the most icon...",
+      "published": "Wed, 21 Oct 2026 09:27:39 +0000",
+      "fetched_at": "2026-10-21T14:46:36.014720+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-21T09:00:28.884794+00:00"
+  "updated_at": "2026-10-21T14:46:36.014720+00:00"
 }

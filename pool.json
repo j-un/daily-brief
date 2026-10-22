@@ -1589,7 +1589,187 @@
       "fetched_at": "2026-10-22T19:39:03.434418+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "967646337e6f9b0d40ff3b28d4775f3b",
+      "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+      "link": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+      "summary": "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 133 # Commen...",
+      "published": "Thu, 22 Oct 2026 19:14:01 +0000",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "69868b70a90fcbf0662b4b02b4bcca48",
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "summary": "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Point...",
+      "published": "Thu, 22 Oct 2026 16:08:00 +0000",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3ce84568ac7320785588023064b769f",
+      "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+      "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "summary": "Article URL: https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/ Comments URL: ht...",
+      "published": "Thu, 22 Oct 2026 11:42:03 +0000",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ec41e61c17c201531910079c9358238",
+      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+      "link": "https://news.ycombinator.com/item?id=50193416",
+      "summary": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects w...",
+      "published": "Thu, 22 Oct 2026 10:11:44 +0000",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02de4bf24613df8b1671df47843140a9",
+      "title": "Amazon Connect Customer Profiles now supports customizing what agents see",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp",
+      "summary": "Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is disp...",
+      "published": "Thu, 22 Oct 2026 21:10:00 GMT",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "33880076e80565356f58398e31c32c02",
+      "title": "AWS Continuum for code vulnerabilities is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available",
+      "summary": "Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities discovers, validates, prio...",
+      "published": "Thu, 22 Oct 2026 21:00:00 GMT",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "18ad703c9a1336e7d503f41865d5dd39",
+      "title": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/",
+      "summary": "Starting today, Amazon OpenSearch Serverless reduces the default refresh interval to 5 seconds for both search and vector collections. The refresh int...",
+      "published": "Thu, 22 Oct 2026 18:34:00 GMT",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "771c9f7c145db172c3398c9dcdd1ab52",
+      "title": "AWS Direct Connect announces 100G expansion in Bangalore, India",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/",
+      "summary": "Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing AWS Direct Connect location in the Netmagic DC2 data center near ...",
+      "published": "Thu, 22 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b77f138d606b98825c0097aaa1e021c3",
+      "title": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/",
+      "summary": "AWS DataSync Enhanced mode now supports Amazon FSx for OpenZFS as a source or destination location, NFS version 4.2 for on-premises NFS servers and FS...",
+      "published": "Tue, 13 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f8b509c03c03e7cdf56493f8705f886",
+      "title": "中国政府系集団がAI攻撃 米マイクロソフト確認（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879",
+      "summary": "米マイクロソフトのロゴ＝19日（ロイター＝共同）（KYODONEWS） 【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定か...",
+      "published": "2026-10-22T17:33:09Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b37dfa41f62e9c82874c3b3761f87e2b",
+      "title": "中国政府系集団がAI攻撃 米マイクロソフト確認",
+      "link": "https://www.47news.jp/15123277.html",
+      "summary": "【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり...",
+      "published": "2026-10-22T14:41:54Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0cbcae563f13931941c4038ef43828e5",
+      "title": "eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes",
+      "summary": "eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明⁠⁠、pip⁠⁠・uvなどの開発ツールに修正版 認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。...",
+      "published": "2026-10-22T14:46:48Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e07fcf30812a1aa77ce3c5917dc3905a",
+      "title": "中国政府系集団がAIで大規模攻撃 世界数百の組織標的に 米マイクロソフト確認",
+      "link": "https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/",
+      "summary": "米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピー...",
+      "published": "2026-10-22T16:56:24Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "32e51f1aeb98b9a3f54f90466af59ed9",
+      "title": "Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁",
+      "link": "https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22",
+      "summary": "ホームプレスルームStudio 株式会社における不正アクセスによる個人情報の漏えいの可能性について Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について 公開日：2026年10月22日 今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサ...",
+      "published": "2026-10-22T14:21:11Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d0266204a1bae582c3ad68f5e7a3f45",
+      "title": "中国政府関係のハッカー集団が大規模サイバー攻撃、ＡＩで世界数百の企業・組織に…米マイクロソフトが記録で確認",
+      "link": "https://www.yomiuri.co.jp/world/20261022-GYT1T00278/",
+      "summary": "【読売新聞】 【ニューヨーク＝木瀬武】米マイクロソフト（ＭＳ）は２１日、中国政府と関係するハッカー集団がＡＩ（人工知能）を使って、世界の数百の企業や組織を標的に大規模なサイバー攻撃を行ったと発表した。日本企業で相次ぐサイバー攻撃でも",
+      "published": "2026-10-22T11:14:03Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f2c11307ef72a53662254ba43ba2520",
+      "title": "ログ検索体験から逆算するログ基盤設計",
+      "link": "https://speakerdeck.com/hirosi1900day/rogu-kensaku-taiken-kara-gyakusan-suru-rogu-kiban-sekkei",
+      "summary": "tcpdump で追う Datastream 障害調査と Transit Gateway × VPN のリアーキテクチャ設計",
+      "published": "2026-10-22T13:10:31Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92a4d7ca6a838f2c9b990fb4b872e84e",
+      "title": "Information for Python users regarding eMudhra / emSign CA certificate security incident",
+      "link": "https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576",
+      "summary": "A security incident affecting eMudhra intermediate certificates has required removing the emSign root CA certificate from CA bundles such as “certifi”...",
+      "published": "2026-10-20T22:15:14Z",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c175a33fc9954c9bb003d4ac069a646c",
+      "title": "GitHub - shiyu-coder/Kronos: Kronos: A Foundation Model for the Language of Financial Markets · GitHub",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 shiyu-coder / Kronos ⭐ 41,321 (+355) 🗒 Python Kronos: A Foundation Model for the Language of Financial Markets",
+      "published": "19 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-22T22:14:23.398041+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-22T19:39:03.434418+00:00"
+  "updated_at": "2026-10-22T22:14:23.398041+00:00"
 }

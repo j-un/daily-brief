@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8e8239af79d7c1a65a269975e57f39b2",
-      "title": "DeNAにおけるAI時代のネットワーク管理システム [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "link": "https://engineering.dena.com/blog/2026/10/nwcli/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DeNAにおけるAI時代のネットワーク管理システム [DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "published": "21 Oct 2026 06:56 +0000",
-      "fetched_at": "2026-10-21T09:00:28.884794+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ce604ed399b413bcbbaf5bbb515f2980",
-      "title": "第281回 MySQL 26.7で変わったAUTO_INCREMENTのカウンター保存 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/10/mysql-rcn0281",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 第281回 MySQL 26.7で変わったAUTO_INCREMENTのカウンター保存 | gihyo.jp",
-      "published": "21 Oct 2026 06:55 +0000",
-      "fetched_at": "2026-10-21T09:00:28.884794+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "94310e7629d639b66f9bc7c700069a6c",
       "title": "Railway Security Disclosure",
       "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
@@ -859,7 +839,417 @@
       "fetched_at": "2026-10-22T09:03:03.771318+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "930a43e390e87b5277b914b507956497",
+      "title": "How to be more ambitious: A tutorial for humans with models",
+      "link": "https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How to be more ambitious: A tutorial for humans with models",
+      "published": "22 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "85b281f0bf27a81a8920df7abdddca88",
+      "title": "AI時代にアジャイルは時代遅れなのか｜mtx2s",
+      "link": "https://note.com/mtx2s/n/n4c65f0913304",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代にアジャイルは時代遅れなのか",
+      "published": "22 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2d8ebee40f66bae88c32525afd79207",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Thu, 22 Oct 2026 13:33:39 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c92334020f35e623e9b51595004528ce",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+      "link": "https://news.ycombinator.com/item?id=50194909",
+      "summary": "Press Release titled “eMudhra to Exit global SSL/TLS Certificate Business; Will Sharpen Focus on Core Enterprise Solutions and trust services other th...",
+      "published": "Thu, 22 Oct 2026 13:17:29 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "133285e9b3a21fdd70f872e95c8d0b37",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "link": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Thu, 22 Oct 2026 13:11:00 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "666ae0b7ad21159d547293e1f3f489b4",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/ ...",
+      "published": "Thu, 22 Oct 2026 11:50:36 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfa0dc4cfde26c41c5624ca4e26a87e3",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 152 # Co...",
+      "published": "Thu, 22 Oct 2026 11:12:37 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "db638d270e3e344a76685df23ce8b32a",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "link": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 128 # C...",
+      "published": "Thu, 22 Oct 2026 09:31:18 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da14d2a773116bfa402d29f7453e9bf8",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 323 # Comments: 109",
+      "published": "Thu, 22 Oct 2026 08:51:31 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "257b7beb66c6aab649cafe435f188d85",
+      "title": "Jailbreaking the Switch 2",
+      "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 345 # Comme...",
+      "published": "Thu, 22 Oct 2026 08:01:52 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4743c8583cc58325b3b0e1eea396a9b",
+      "title": "Amazon ECS ゲートウェイの紹介：ECS サービス向けの完全マネージド型イングレスソリューション",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "summary": "プラットフォームチームが Amazon Elastic Container Service (Amazon E […]",
+      "published": "Thu, 22 Oct 2026 14:45:10 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a25145517556c34a7099dbfe66d788c",
+      "title": "AWS ウィークリーラウンドアップ: AWS Lambda Web Functions、Vercel Marketplace の Amazon S3 など (2026 年 10 月 19 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-aws-lambda-web-functions-amazon-s3-on-the-vercel-marketplace-and-more-october-19-2026/",
+      "summary": "2026 年 10 月 13 日週に起きたことは、新しい種類のコンピュートを追加したわけではありません。代わり […]",
+      "published": "Thu, 22 Oct 2026 14:22:55 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe59c3a558b3059651dbeb12029fbd23",
+      "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
+      "link": "https://inside.pixiv.blog/2026/10/22/193321",
+      "summary": "こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続け...",
+      "published": "2026-10-22T10:38:41Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59601e5a28537212b953ed08522469f6",
+      "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+      "summary": "世界中の企業・組織が対応に追われているプログラミング言語「PHP」の脆弱性。高市早苗首相がSNSで対応を呼びかけたことから、テレビなどでも盛んに報じられ、これまでになく社会を騒がせている。開発プロジェクトは10月21日夜（日本時間、以下同）にセキュリティアップデートを配信したが、一部の企業・組織は2...",
+      "published": "2026-10-22T09:30:52Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "944a7263b05ec4e779405855be2a1d97",
+      "title": "高市総理、サイバーセキュリティの本を出していた しかも“PHP”から",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
+      "summary": "「今夜に対応して頂きたい大至急のお願い」――プログラミング言語「PHP」の緊急の脆弱性を巡り、高市早苗総理が10月21日夜、自身のXで修正パッチの適用準備を呼び掛けた。首相が個別のソフトウェアの脆弱性に言及するのは異例で、SNSでも話題になった。そんな高市総理、実はサイバーセキュリティの本を出版して...",
+      "published": "2026-10-22T08:18:13Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e7a9f272a2814b006407e2c18465ed6",
+      "title": "厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20",
+      "link": "https://zenn.dev/yuiseki/articles/54b01670841898",
+      "summary": "TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してくださ...",
+      "published": "2026-10-22T11:28:38Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbfd8f5df92192d3b1441660dd1d70d1",
+      "title": "（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）について（CVE-2026-94300） - バージョンアップを強く推奨 -",
+      "link": "https://jprs.jp/tech/security/2026-10-22-bind9-cve-2026-94300.html",
+      "summary": "--------------------------------------------------------------------- ■（緊急）BIND 9.xの脆弱性（DNSサービスの停止・リモートコード実行）に ついて（CVE-2026-94300） - バージョンアップを強く推奨 - 株...",
+      "published": "2026-10-22T08:03:31Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "13b0cbdd4e99214a92ebf2cb4516f3a4",
+      "title": "Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌",
+      "link": "https://aba.hatenablog.com/entry/2026/10/22/194027",
+      "summary": "Opus 5.5はゲームのアイデア作り、設計、実装、ビジュアル作成、作曲や効果音作成、などなど、ゲーム制作に必要な様々なタスクを高い水準でこなしてくれる。単に、こんな感じのゲームを作って、この辺が気に入らないから直して、という指示を与えてもゲームは作れるが、それにちょっとした工夫を加えることで、さら...",
+      "published": "2026-10-22T10:43:13Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6a9f9cc9b8dfd8b871b26add251b6b1",
+      "title": "「Oracle Java SE」にも致命的な脆弱性 ～リモートでデータの窃取・作成・削除・変更が可能／",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2150531.html",
+      "summary": "",
+      "published": "2026-10-22T12:14:04Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "49c993093abb7f5e9d2639fbd9535c29",
+      "title": "経産省「ホワイトハッカー」のチーム立ち上げへ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261022de63664",
+      "summary": "国内で不正アクセスによる被害が相次いでいることを受けて、経済産業省は、所管する独立行政法人に、サイバー攻撃の手法に詳しい「ホワイトハッカー」と呼ばれるエンジニアのチームを新たに立ち上げる方針を固めまし…",
+      "published": "2026-10-22T09:08:18Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9afb601cbba0af474484702e44ff0e12",
+      "title": "中国政府系ハッカー集団、AI「ARTEX」で攻撃 マイクロソフトが確認 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC22AUL0S6A021C2000000/",
+      "summary": "米マイクロソフトは米国時間21日、中国政府に関係するハッカー集団が中国系の人工知能（AI）ツール「ARTEX（アルテックス）」を使ってサイバー攻撃を仕掛けていたと発表した。日本企業を標的とした攻撃に関与したかは明らかになっていない。マイクロソフトが自社のクラウドサービスの記録などを調べた。「Stor...",
+      "published": "2026-10-22T12:41:17Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe3bacd9e2412bccb3634c5df9deeb2d",
+      "title": "PHPの影に隠れたもう一つの重大インシデント「eMudhra」の証明書問題、どう対処すれば？／OSやWebブラウザーなどの対応状況を整理、アプリ開発者などにはいくつか注意すべき点【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2150316.html",
+      "summary": "",
+      "published": "2026-10-22T08:23:27Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ea698950f896e30a35290f20b0bc4bc",
+      "title": "「長い目で見れば防御側が有利」はなぜ？ 守る側のAI活用法、本命は Webセキュリティ専門家に聞く",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
+      "summary": "2026年夏ごろから、サイバー攻撃による情報漏えいを公表する国内企業が相次いでいる。背景の一つとして指摘されるのが、攻撃者によるAIの利用だ。直近でもプログラミング言語「PHP」の脆弱性について、AIを使った攻撃者による悪用に注意するよう、米OpenAIなどが呼び掛けている。 攻撃が数でも速さでも人...",
+      "published": "2026-10-22T08:31:53Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afcbd90b077f04817128e8901b0bbefe",
+      "title": "モバイルSuicaの新決済「teppay」を早速試した 店員への伝え方や決済音は？ スムーズに決済できる？",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/20/news079.html",
+      "summary": "モバイルSuicaの新決済「teppay」を早速試した 店員への伝え方や決済音は？ スムーズに決済できる？ 10月20日11時に順次提供が開始されたモバイルSuicaの新コード決済サービス「teppay（テッペイ）」を、同日の報道向け説明会にて、実機で体験してきた。 実際の会計時の流れるような操作感...",
+      "published": "2026-10-22T08:56:27Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76ec173bacebf7a4f45f552946c403da",
+      "title": "外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/info/20261022-1-nulab/",
+      "summary": "外部メール配信サービスへの不正アクセスに伴う、お客様情報の流出の可能性について（第一報） 株式会社ヌーラボ（以下 「当社」）がお客様へのメール配信に利用している外部サービス「ブラストメール」（運営：株式会社ラクスライトクラウド）において、第三者による不正アクセスが発生し、一部の契約者の配信先リスト....",
+      "published": "2026-10-22T07:48:56Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e412a89b5820c1dcdbea9cea31773d98",
+      "title": "PHP「緊急」脆弱性悪用の試み、数百万件に CloudflareのCEOが報告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002516/",
+      "summary": "米Cloudflareのマシュー・プリンスCEOは10月22日（日本時間、以下同）、PHPの深刻な脆弱性「PHP2Shell」悪用の試みが、公表後の45分で数万件、2時間以内に数十万件に跳ね上がり、その後、数百万件に達したとXに投稿した。公表前の10時間は数千件だった。件数は同社ネットワーク全体で観...",
+      "published": "2026-10-22T07:38:05Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4378a590a3928a5e36b4b61b97afc302",
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社",
+      "link": "https://group.gmo/info/alert/20261022/",
+      "summary": "2026年10月22日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月22日 16：59時点 2026年10月21日にお知らせいたしました「お名前.com...",
+      "published": "2026-10-22T09:27:55Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dafd05edae0b008d59c6a7342b37056e",
+      "title": "Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/",
+      "summary": "Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他 セキュリティ研究者のHyunwoo Kim氏は2026年10月17日、Linuxカーネルの中核機能に存在する6件の脆弱性を...",
+      "published": "2026-10-22T13:11:34Z",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7166b39e50075007ef5efbc15fc1e765",
+      "title": "GitHub - php/php-src: The PHP Interpreter · GitHub",
+      "link": "https://github.com/php/php-src",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 php / php-src ⭐ 40,793 (+110) 🗒 C The PHP Interpreter",
+      "published": "22 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "803c97874b19a77a498bf8d80628ea7f",
+      "title": "AWS Security Hub CSPM 経由の検出結果を特定 OU 配下のアカウントに絞って通知する仕組みを Lambda で作ってみた",
+      "link": "https://dev.classmethod.jp/articles/security-hub-cspm-notify-specific-ou-lambda/",
+      "summary": "Security Hub CSPM 経由の検出結果を特定 OU 配下のアカウントに絞って通知する仕組みを Lambda で実装してみました。AWS Organizations の API を活用して対象アカウントを動的に判定し、SNS 経由で通知します。",
+      "published": "Thu, 22 Oct 2026 14:07:52 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "963a4a653e6110cdeb98db72e6b84bb8",
+      "title": "[新機能]Streamlit in Snowflake のアプリをロールを介さず個別ユーザーに共有できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-streamlit-share-app-with-users-ga/",
+      "summary": "Streamlit in Snowflakeの新機能「個別ユーザーへの共有」を、3つの付与方法で実際に試してみました。SQL・Share ダイアログ・Workspaces のデプロイダイアログから、権限管理の違いや閲覧者側の見え方を確認します。",
+      "published": "Thu, 22 Oct 2026 14:02:59 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "009c94a5203ee6e8ae8b381187162c47",
+      "title": "AWS Provider に aws_devopsagent_agent_space が追加されたので、AWS DevOps Agent の Agent Space を Terraform で作ってみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-terraform-aws-provider-agent-space/",
+      "summary": "",
+      "published": "Thu, 22 Oct 2026 11:32:09 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f367c187f0473d3d91bce61d7a464bb6",
+      "title": "Cloudflareがリリースした抽出モデルClairicを試してみた",
+      "link": "https://dev.classmethod.jp/articles/trying-cloudflare-clairic/",
+      "summary": "Cloudflareがリリースした新しい抽出モデル「Clairic」を試してみました。テキストや画像から指定したスキーマに従って情報を抽出・計算・推定・予測できるこのモデルの仕組みや使用例、実際の使ってみた結果をご紹介します。",
+      "published": "Thu, 22 Oct 2026 10:36:26 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab6c4da9e3587af9c3a1027430ce3db9",
+      "title": "OpenPLCに入門してみた",
+      "link": "https://dev.classmethod.jp/articles/ashnoa-web-engineer-tries-openplc/",
+      "summary": "PLC未経験のWeb系エンジニアがOpenPLCに入門してみました。いわゆる「Lチカ」の動作をStructured Textによるプログラムとして書き、シミュレーターで実行しました。わからない用語が出てくるたびに調べながら進めたので、その過程も含めてお届けします。",
+      "published": "Thu, 22 Oct 2026 09:39:35 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e32063f11839a0db912e2429ed1d17b3",
+      "title": "Reactのレビュー基準を公式ドキュメントに揃えたいので、Claude Codeで50項目のチェックリストを作ってみた話",
+      "link": "https://dev.classmethod.jp/articles/react-review-checklist-claude-code/",
+      "summary": "React公式ドキュメントを基にした、50項目のコードレビューチェックリストを作成しました。感覚的なコメントから脱却し、公式の推奨事項を根拠にしたレビューを実現する方法と、実際の適用結果を共有します。",
+      "published": "Thu, 22 Oct 2026 09:07:00 GMT",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb578a97ac947237feb5070a39a07d0e",
+      "title": "Roland TR-1000 1.5: keyboard mode, seamless kit switching, more",
+      "link": "https://cdm.link/roland-tr-1000-1-5-update/",
+      "summary": "Roland has one more announcement -- a 1.5 update for its flagship TR-1000 drum machine. That includes note sequencing, a must-requested keyboard mode ...",
+      "published": "Thu, 22 Oct 2026 13:05:31 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "9d61ce9273f93c5c5ddcecf2dca61bc1",
+      "title": "Daft Punk x LEGO: New creative partnership sees viral pyramid stage LEGO Ideas submission brought to life",
+      "link": "https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/",
+      "summary": "The partnership also brings a new short film with Thomas Bangalter and Guy-Manuel de Homem-Christo as LEGO figures. The post Daft Punk x LEGO: New cre...",
+      "published": "Thu, 22 Oct 2026 14:31:21 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "67da09536e4a9283c776507c725bf49a",
+      "title": "What the ultimate nostalgia gig showed me about the future of live sound",
+      "link": "https://musictech.com/features/interviews/l-acoustics-carlos-mosquera-interview-backstreet-boys-l-isa-spatial-audio/",
+      "summary": "Powered by L-Acoustics’ L-ISA system, the Backstreet Boys brought stadium-sized spatial audio to Düsseldorf The post What the ultimate nostalgia gig s...",
+      "published": "Thu, 22 Oct 2026 13:35:13 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fccee2d919b011333b3eb00c0f5fa760",
+      "title": "Tantrum Audio NEXUS: a compact hardware DSP processor built for room correction",
+      "link": "https://musictech.com/news/gear/tantrum-audio-nexus/",
+      "summary": "Available now for preorder, with shipping beginning from 17 November. The post Tantrum Audio NEXUS: a compact hardware DSP processor built for room co...",
+      "published": "Thu, 22 Oct 2026 11:51:39 +0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "ed530f1f5d8a70588a90e150778adfdd",
+      "title": "Kill Alters, “We Can Rot Together”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review",
+      "summary": "Bonnie Baxter dives into the digital detritus of modern life and emerges with a diamond. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 22 Oct 2026 13:50:30 -0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "cd3d249f697e8ff1dd655230324fbe05",
+      "title": "Return of the Dark Ages: The Rise of the Medieval Underground",
+      "link": "https://daily.bandcamp.com/scene-report/contemporary-medieval-music-scene-report",
+      "summary": "Artists of all genre are revisiting centuries past for inspiration. Read full story on the Bandcamp Daily.",
+      "published": "Thu, 22 Oct 2026 13:50:21 -0000",
+      "fetched_at": "2026-10-22T14:46:53.097487+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-22T09:03:03.771318+00:00"
+  "updated_at": "2026-10-22T14:46:53.097487+00:00"
 }

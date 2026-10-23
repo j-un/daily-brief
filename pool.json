@@ -359,7 +359,327 @@
       "fetched_at": "2026-10-23T02:45:14.828414+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "ceb1d19d82146458d397fb87e7e2062d",
+      "title": "Attention Required! | Cloudflare",
+      "link": "https://medium.com/google-cloud/iap-desktop-for-mac-how-i-reach-gcp-vms-with-no-public-ip-without-gcloud-7d5fdc1a1950",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 IAP Desktop for Mac: SSH, RDP and SFTP to GCP VMs | Google Cloud - Community",
+      "published": "23 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20b66b685f91361318f6c37d11b4bb5c",
+      "title": "Rewinding the exponential: How we keep hardware usage down | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Rewinding the exponential: How we keep hardware usage down",
+      "published": "23 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "23bf1b38da899cd776cecda4360d69c2",
+      "title": "How the Claude Code team does code review / claude.dev Blog",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How the Claude Code team does code review",
+      "published": "23 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11cf4bfa212c9d66f954330cd677389e",
+      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+      "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
+      "published": "23 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "198958a9fc35f45ea56fe501aadc7eae",
+      "title": "Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/websveltekit_3vite.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Webアプリフレームワークの「SvelteKit 3」正式リリース。設定をViteに集約、型安全やエラー処理の改善など",
+      "published": "23 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f43dd0b91b6b9c2c2737ae280e5b445e",
+      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
+      "published": "23 Oct 2026 02:56 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "563d7b6cffc9a1c10a43593eac5dd1b3",
+      "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+      "published": "23 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "caaadfe8de4b91b8f54530c0afe1bccd",
+      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+      "link": "https://berget.ai/en/blog/per-request-co2-press-release",
+      "summary": "Article URL: https://berget.ai/en/blog/per-request-co2-press-release Comments URL: https://news.ycombinator.com/item?id=50205229 Points: 111 # Comment...",
+      "published": "Fri, 23 Oct 2026 06:41:11 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d559e5f910385d063beac6afa9ac92ae",
+      "title": "Move Slow and Fix Things (2024)",
+      "link": "https://endler.dev/2024/move-slow-and-fix-things/",
+      "summary": "Article URL: https://endler.dev/2024/move-slow-and-fix-things/ Comments URL: https://news.ycombinator.com/item?id=50204754 Points: 139 # Comments: 25",
+      "published": "Fri, 23 Oct 2026 05:12:39 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "77fe8467c8dd367b608964fb088d986c",
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "summary": "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 153...",
+      "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b5f77223268ecaa4318be2c88be28a5",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "link": "https://edjefferson.com/localwiki/",
+      "summary": "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 311 # Comments: 80",
+      "published": "Thu, 22 Oct 2026 23:01:18 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51258c6dd5f7c0fb26b92996ef5378b6",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "link": "https://news.ycombinator.com/item?id=50200997",
+      "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?Couldn'...",
+      "published": "Thu, 22 Oct 2026 21:03:55 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6074cde1fffb1da6d4dab4a9bc48a31a",
+      "title": "【開催報告 & 資料公開】AWS 秋のクラウドオペレーション祭り 2026",
+      "link": "https://aws.amazon.com/jp/blogs/news/awsopsfes2026autumn/",
+      "summary": "みなさん、こんにちは。 シニアスペシャリストソリューションアーキテクトの加藤です。 2026 年 10 月 7 […]",
+      "published": "Fri, 23 Oct 2026 04:45:18 +0000",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "90d54f3a0ce57cc5b2d7edbebb0de3a1",
+      "title": "佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261023de64285",
+      "summary": "宅配大手の佐川急便は、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、荷物の送り主と送り先の氏名や住所など、最大で5323万件に上る可能性があると明らかにしました。 会…",
+      "published": "2026-10-23T07:16:43Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f832dea08c4092edfbbddfbc3940a90",
+      "title": "タイムズカー免許証画像流出、「お見舞い」1人3000円 146万人が対象 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/",
+      "summary": "パーク24は23日、カーシェアサービス「タイムズカー」の不正アクセスによる個人情報流出を受け、免許証などの本人確認書類の画像データが外部送信されたとみられる被害者に1人3000円を「お見舞い」として支払うと発表した。146万人あまりが対象となり、総額は単純計算で約44億円となる見込み。タイムズカーで...",
+      "published": "2026-10-23T08:20:32Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b94bff908ca33ee00c02813a377c57d",
+      "title": "日経新聞への不正アクセスで日経BPの利用者情報も約80万件漏えい テレ東などにも影響か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002544/",
+      "summary": "日経BPは10月21日、日本経済新聞社が16日に発表した同社システムへの不正アクセスによる183万件の個人情報漏えいで、日経BPのサービス利用者の情報が、現時点で約80万件含まれていることが分かったと発表した。 うち約5万件は、氏名、メールアドレス、住所、電話番号、生年月日のいずれかを含む。残る約7...",
+      "published": "2026-10-23T06:17:50Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6fd053e9ec0b6d9266ce847fee2a7e09",
+      "title": "PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪",
+      "link": "https://gigazine.net/news/20261023-php-rce-unknowingly/",
+      "summary": "ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に...",
+      "published": "2026-10-23T04:19:23Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "893580cc767ea8424ff43feb8d69345f",
+      "title": "「AIでエンジニア派遣は不要になる」のか？ 各社に肌感を聞いた 求められる人材、明確に変化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "summary": "生成AIがコードを書くようになれば、企業がわざわざ外部からエンジニアの派遣を受ける必要はなくなるのではないか――AIの進化に伴ってエンジニア不要論がささやかれる中、エンジニア派遣という業態についても同様に需要がしぼむのでは、という見方がある。 一方、10月21日から23日にかけて幕張メッセで開催中の...",
+      "published": "2026-10-23T00:32:06Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b385b0c0a2272be9a66585e390bf620a",
+      "title": "ZOZOTOWNフロントエンドのPR自動レビュー ── AIへの指示が守られない前提で、強制と指示を分ける設計 - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/zozotown-frontend-ai-review",
+      "summary": "はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取り組んでいます。 ZOZOTOWNのフロントエンド組織では、Pull Request（PR）を自動でレビューする仕組みを...",
+      "published": "2026-10-23T02:07:07Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c9955132697ea8eba76956e5871889b",
+      "title": "Regexp compilation fixes related to GitLab's CVE-2026-89078, CVE-2026-93577, CVE-2026-97229 and CVE-2026-110264 | Ruby",
+      "link": "https://www.ruby-lang.org/en/news/2026/10/23/regexp-fixes-for-gitlab-cves/",
+      "summary": "We have released Ruby 4.0.9, 3.4.12 and 3.3.13. They fix several bugs in Ruby’s regular expression engine (Onigmo) that GitLab found could be used for...",
+      "published": "2026-10-23T07:04:58Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29087825c8193623f8342340241c3d69",
+      "title": "古いPCが最新の大作ゲームが遊べるPCに生まれ変わる！「GeForce NOW」でGeForce RTX 5080を使ってみよう[Sponsored]",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/topic/special/2149411.html",
+      "summary": "",
+      "published": "2026-10-22T17:48:58Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "578b1ed9eaba58aab7c30d4264ebeaa6",
+      "title": "【PHPはオワコン】AIが書いたコードをなぜ信用できるのか？数学的証明で守る新しいサーバーサイド言語「QED Script」を作った",
+      "link": "https://wirelesswire.jp/2026/10/94824/",
+      "summary": "いつまで人類はPHPを使い続けるのか いきなり身内に喧嘩を売るようで恐縮だが、このWirelessWire NewsはWordPressで動いている。 WordPressといえばPHPである。 筆者はもう10年以上前からPHPを使うのをやめている。別にPHPで作られたWebサイトが即座に危険というわ...",
+      "published": "2026-10-23T00:59:03Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fde65431435e19d68e725ade2b9f215",
+      "title": "生成AIの画像、そこまで細かく指示していません。ボクが画像補正で大切にしていること - Quadro Diary 生成AI 過去日記",
+      "link": "https://quadro.hateblo.jp/entry/kakonikki_seiseiaino_to",
+      "summary": "生成AIが描いた部分まで、すべて指示したわけではない 画像補正は、AIが生成しすぎた表現を調整するため 髪型から作り直すために、費用をかけるのか AI画像補正の技術を、本当に必要なところで活用したい ボクが生成AIの画像に求めているもの 批評するのは得意でも、意見を求められると沈黙ですか？ 生成AI...",
+      "published": "2026-10-21T07:48:31Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e1c9694472adc5809484859b6319c17",
+      "title": "クリスタ、脆弱性対応で一部サービス「予告なく停止」の可能性 データの事前ダウンロード呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002546/",
+      "summary": "セルシスのペイントアプリ「CLIP STUDIO PAINT」（クリスタ）の公式Xアカウントは10月22日、「多くのWebサイトで利用されている技術の脆弱性へ対応するため」、予告なく緊急メンテナンスを行い、各種サービスを停止する可能性があると告知した。 CLIP STUDIO PAINTの利用はでき...",
+      "published": "2026-10-23T06:37:26Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec9fc87422e4da8c052e6663084bf395",
+      "title": "若者の間で流行する「ホビ垢」とは？ 実はホビーでもホビットでもない、“○○○する自分”が主役のSNSアカウント",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/23/news002.html",
+      "summary": "若者の間で流行する「ホビ垢」とは？ 実はホビーでもホビットでもない、“○○○する自分”が主役のSNSアカウント（1/2 ページ） 「ホビ垢」という言葉が若者の間ではやっているのをご存じでしょうか。「ホビだからホビー？ 趣味のアカウントのこと？」「ホビットのファンアカウント？」など、さまざまな想像が膨...",
+      "published": "2026-10-22T23:13:58Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f286f5c6fe49773fe9cb78bf9a19b058",
+      "title": "デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか Web制作ツール「Studio」不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
+      "summary": "デジタル庁は10月22日、Webサイトの運営に一部利用していたノーコードWeb制作サービス「Studio」が不正アクセスを受けた影響で、個人情報が漏えいした可能性があると発表した。問い合わせフォームで受け付けた情報、最大1万3323件が対象という。 漏えいした可能性があるのは、2021年5月から23...",
+      "published": "2026-10-23T05:30:25Z",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db23aa93f25648a94f0e6799e54573f4",
+      "title": "【Google Cloud】 Security Command Center で原因を解消したのに検出結果が「 INACTIVE 」にならない事象を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/myan-gcp-scc-etd-20261022/",
+      "summary": "Google Cloud の Security Command Center で、検出結果を解消しても状態が変わらないと感じたことはありませんか？今回はEvent Threat Detection と Security Health Analytics では検出結果の自動更新の仕様を実際に検証してみ...",
+      "published": "Fri, 23 Oct 2026 07:28:47 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2a927a5eda80cefb2978574046e26d8",
+      "title": "AWS WAF のマネージドルール PHP2Shell_BODY をカスタムルールと比べ、CloudFront の 64 KB ボディ検査で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-waf-php2shell-body-managed-rule/",
+      "summary": "AWS WAF のマネージドルール PHP2Shell_BODY は、カスタムルール PHP2Shell と同じリクエストを止めました。CloudFront でボディ検査上限を 64 KB にすると、ALB で検査できなかった 8 KB より後ろの文字列も、上限の位置までサイズルールなしで検出しまし...",
+      "published": "Fri, 23 Oct 2026 06:51:33 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b37e71b0dbf583300fe140cb00780999",
+      "title": "[アップデート] Amazon DynamoDB グローバルテーブルでレプリカの関連付けを解除できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/dynamodb-global-tables-disassociate/",
+      "summary": "レプリカを削除じゃなくて対象リージョンで単独テーブルに移行できるようになった感じ",
+      "published": "Fri, 23 Oct 2026 06:51:10 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab8c10708fb78b0f23a52f160a113ac9",
+      "title": "[レポート]dbt Wizard：データ開発における AI チームメイト #dbtWTTokyo",
+      "link": "https://dev.classmethod.jp/articles/dbt-world-tour-tokyo-2026-dbt-wizard-dbtwttokyo/",
+      "summary": "dbt World Tour Tokyo 2026で発表された「dbt Wizard」について、AI がコード生成の先にある検証や文脈をどう扱うのか、そして3つの利用形態とDesktopデモを紹介するセッションレポートです。",
+      "published": "Fri, 23 Oct 2026 06:41:05 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fca4bbb91f9a3afc030ddefacbda6a8",
+      "title": "Figmaで2FAを設定してみた",
+      "link": "https://dev.classmethod.jp/articles/figma-2fa-setup/",
+      "summary": "セキュリティ設定の見直しのため、Figmaの2FA（2要素認証）設定方法を認証アプリ・SMS両方の手順を含めてまとめました。公式ヘルプに画像がないので…",
+      "published": "Fri, 23 Oct 2026 05:45:39 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d30f609f59f27d1f4a68110b7deb98be",
+      "title": "Alteryx Designer Cloud で日本語の列名やデータ値はサポートされているか教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-alteryx-designer-cloud-japanese-column-support-202610/",
+      "summary": "Alteryx Designer Cloud で日本語の列名やデータ値がブログ執筆時点（2026/10/23）でサポートされているか紹介し、推奨案を提示しています。また、サポート外での挙動であることを念頭に、シンプルなワークフローをもとに検証した結果も併せて解説しています。",
+      "published": "Fri, 23 Oct 2026 03:40:51 GMT",
+      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-23T02:45:14.828414+00:00"
+  "updated_at": "2026-10-23T08:57:53.757871+00:00"
 }

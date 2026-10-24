@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "23bf1b38da899cd776cecda4360d69c2",
-      "title": "How the Claude Code team does code review / claude.dev Blog",
-      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How the Claude Code team does code review",
-      "published": "23 Oct 2026 05:55 +0000",
-      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "11cf4bfa212c9d66f954330cd677389e",
-      "title": "技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-      "link": "https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）",
-      "published": "23 Oct 2026 03:55 +0000",
-      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f43dd0b91b6b9c2c2737ae280e5b445e",
-      "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ － Publickey",
-      "link": "https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
-      "published": "23 Oct 2026 02:56 +0000",
-      "fetched_at": "2026-10-23T08:57:53.757871+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "11764f1fb2e7246ef07c6c02fd94d7b1",
       "title": "Using Claude to reduce the attack surface of code",
       "link": "https://www.anthropic.com/research/attack-surface-reduction",
@@ -679,7 +649,407 @@
       "fetched_at": "2026-10-24T08:31:35.826977+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "d22fe8786854fcb80e83557a2c8876ee",
+      "title": "Residential proxy confidence is lower for ISPs that share IPv4 addresses | MaxMind Developer Portal",
+      "link": "https://dev.maxmind.com/geoip/release-notes/2026-10-23-residential-proxy-confidence-is-lower-for-isps-that-share-ipv4-addresses/",
+      "summary": "レジデンシャルプロキシがcarrier-grade NAT配下に存在する場合があるためIPアドレスでのアクセス拒否が難しい問題。難しいね。",
+      "published": "24 Oct 2026 10:52 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "df01b64db7b82b1a8e0f0a3338ccd77b",
+      "title": "Sound Keeper v1.3.6 [2026/06/08] — VEG.BY",
+      "link": "https://veg.by/en/projects/soundkeeper/",
+      "summary": "HDMIやDisplayPort経由でスピーカーの音を鳴らしている場合に発生しやすい音の頭切れを抑制するWindows用アプリ。",
+      "published": "24 Oct 2026 08:59 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "62f53581b4b88e52b5ce347717db7734",
+      "title": "セルフホスト Langfuse のプロンプト配布と GCS へのミラー | CyberAgent Developers Blog",
+      "link": "https://developers.cyberagent.co.jp/blog/archives/66782/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 セルフホスト Langfuse のプロンプト配布と GCS へのミラー | CyberAgent Developers Blog",
+      "published": "24 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcc15528251d5b1e5c3123c8c03b7b5b",
+      "title": "example.com が刷新された話 | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2026-10-17/example.com.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 example.com が刷新された話 | blog.jxck.io",
+      "published": "24 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eaa78987dd0eb4d503b84de835fb300",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://blog.cloudflare.com/deploy-with-void/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Deploy with Void",
+      "published": "24 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a199b785407bbd7bf718211a1486600",
+      "title": "HTTPで、複数コネクション使って並列アップロードを可能にする仕様 - ASnoKaze blog",
+      "link": "https://asnokaze.hatenablog.com/entry/2026/10/19/002647",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 HTTPで、複数コネクション使って並列アップロードを可能にする仕様",
+      "published": "24 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "20b66b685f91361318f6c37d11b4bb5c",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Rewinding the exponential: How we keep hardware usage down",
+      "published": "23 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6e329444e3b4c498078d26e1ff94f45",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 135 # ...",
+      "published": "Sat, 24 Oct 2026 09:53:26 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93dc3afb30ff5c7ae8f82ce1545edc39",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "link": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "summary": "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinato...",
+      "published": "Sat, 24 Oct 2026 05:49:57 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ad5fba539c6396eca0107104cc2bdc3a",
+      "title": "OBS Studio 33",
+      "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary": "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 252 # Co...",
+      "published": "Sat, 24 Oct 2026 04:49:58 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd7cecd3d6cedad2540646ce4b6228ef",
+      "title": "How close can pure functional programming get to C?",
+      "link": "https://rtfeldman.com/fp-vs-c",
+      "summary": "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 159 # Comments: 30",
+      "published": "Sat, 24 Oct 2026 03:43:54 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "323caa8b4927eca761e9f5b6d49c77d7",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 112 # ...",
+      "published": "Sat, 24 Oct 2026 01:53:10 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b873417fa55b71f8eff3c8aa174902ce",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 273 # Commen...",
+      "published": "Sat, 24 Oct 2026 01:15:14 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba7755129d2d91899bf55f0f1b1d15dc",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "link": "https://corgi.computer/",
+      "summary": "Hey everyone,Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now.I think I improved on the ...",
+      "published": "Fri, 23 Oct 2026 19:46:38 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e2261fc5c7063fed2f40adb6c4e146e",
+      "title": "Building agents: When to fold subagents into your main agent loop",
+      "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "summary": "Building agents: When to fold subagents into your main agent loop When building agents in Claude Platform, using fewer subagents in favor of progressi...",
+      "published": "2026-10-24T04:26:57Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d2151befaf2ecdd6a49323c8476fde0",
+      "title": "社内SEがAIでやらかして職場が阿鼻叫喚の地獄絵図に陥った",
+      "link": "https://anond.hatelabo.jp/20261024120028",
+      "summary": "ガチで社内が阿鼻叫喚の地獄絵図になっていた。 理由はここ最近騒がせてるPHPの脆弱性ではない。 我が社でもAIを業務支援に導入するっていう話を、協力にIT部門の社内SEのおっさん…まあ俺は結構仲がよかったというか、共通趣味で向こうからよく話しかけてくる人なんだが、が推し進めていて、それをIT部門だけ...",
+      "published": "2026-10-24T03:11:39Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f3471352c0939a19197b6357f0d59c20",
+      "title": "iPhone Duoを使って痛感した「Face ID」のありがたさ 充電スタンドに置いたまま通知が見られない不便さに苦しむ",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news015.html",
+      "summary": "iPhone Duoを使って痛感した「Face ID」のありがたさ 充電スタンドに置いたまま通知が見られない不便さに苦しむ（1/2 ページ） Appleの折りたたみスマートフォン「iPhone Duo」を使い始めた。大画面を持ち歩ける楽しさはある一方で、使えば使うほど気になってくるのが「Face I...",
+      "published": "2026-10-24T04:12:06Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "90866e9ec69fded6efccf472d5512cdc",
+      "title": "ダイソーで1100円の「USB Type-C to HDMIケーブル」でスマホの画面をテレビに映すとどうなる？ 対応機種なら試してみる価値あり",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news012.html",
+      "summary": "「DisplayPort Alternate Mode」対応のUSB Type-C端子で使える 本製品は、対応するスマートフォンやPCなどのUSB Type-C端子と、TVやディスプレイのHDMI入力端子をつないで映像を投影するためのケーブルだ。伝送できる最大解像度は3840×2160ピクセル（4K...",
+      "published": "2026-10-24T02:12:29Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb144914b72c871bc3f24323641167c1",
+      "title": "‎iPod 25周年 - Apple Music",
+      "link": "https://music.apple.com/jp/ipod",
+      "summary": "2001年10月23日を振り返りましょう。25年前、Appleは1,000曲をポケットに入れて持ち運べる画期的なデバイス、初代iPodを発表しました。",
+      "published": "2026-10-24T02:59:49Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ef3c17d5b9ef9a2d8736ec8b19108d1",
+      "title": "Ruby で任意のユーザー入力を渡してはいけないメソッド - @znz blog",
+      "link": "https://blog.n-z.jp/blog/2026-10-09-ruby-insecure-methods.html",
+      "summary": "「Ruby」の正規表現エンジン「Onigmo」にリモートコード実行の問題、セキュリティ更新を実施 - 窓の杜 のように Ruby 本体としては、そこに任意のユーザー入力を渡しているのはプログラム側の問題で Ruby 本体の脆弱性としては扱わない、 という方針になっているメソッドがあるので、思い付く限...",
+      "published": "2026-10-24T04:02:12Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dd9b53a17412b143ad7d4999b5dcba5",
+      "title": "C言語を置き換える言語はどうあるべきか | 雑記帳",
+      "link": "https://blog.miz-ar.info/2026/10/replacing-c-language/",
+      "summary": "C言語は今でも重要な言語ではあるが、安全性に欠けるのは周知の通りである。「C言語よりも安全である」と謳うプログラミング言語はいくらでもあるが、その実装には何らかの形でC言語が使われていることが多い（Goあたりは例外かもしれない）。Python、PHPやRubyの「中」が安全でも、「基礎」にC言語で書...",
+      "published": "2026-10-23T14:58:02Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "22d3a35de36a1eb24e005d1523fd231f",
+      "title": "顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発",
+      "link": "https://www.cnn.co.jp/fringe/35253896.html",
+      "summary": "顔のさまざまな部位の分析から生物学的年齢とがん生存率を判定するAIモデルが開発された/Mass General Brigham via CNN Newsource （CNN） 顔写真を撮るだけでがん患者の全般的な健康状態や余命が判定できるという人工知能（AI）モデルが開発された。医師によるがん患者の...",
+      "published": "2026-10-24T05:30:04Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "68de61adcc37f96e1b4137853e115ec7",
+      "title": "GitHub Actions Self-hosted runnerをお手軽にスケールさせる ghalet | おそらくはそれさえも平凡な日々",
+      "link": "https://songmu.jp/riji/entry/2026-10-24-scaling-github-actions-runners-with-ghalet.html",
+      "summary": "https://github.com/Songmu/ghalet https://junkyard.song.mu/ghalet/ tl;dr: 単一のGoデーモンで、GitHub ActionsのSelf-hosted runnerをお手軽にスケールさせられるOSSを作ったのでぜひご利用下さい。ご...",
+      "published": "2026-10-24T07:15:09Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "42efcfc6b511dceb4ec740f1ebacbdb0",
+      "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？ 大手銀行やインフラの鍵も 米スタンフォード大などが調査（ITmedia NEWS） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/5aecb0f168d08b9ac6c7ed414b24df995fb25eb7",
+      "summary": "",
+      "published": "2026-10-24T02:11:54Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "940de7c8807dda3e658edd58b861b73e",
+      "title": "AI悪用の保険金不正増加 車写真加工で事故偽装（共同通信） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/5a3202a5fbb60ada6b2272dbed8b81f9741fef7f",
+      "summary": "生成AIを使い、車に傷がついたように加工された偽造写真（三井住友海上火災保険提供）（KYODONEWS） 生成人工知能（AI）を悪用した保険金の不正請求が増えている。自動車の写真を加工することで事故を装うなどして保険金をだまし取るといった手口だ。AIでは簡単に高精度の偽造ができるため、目視で真偽を判...",
+      "published": "2026-10-24T03:20:58Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c7ae4571f2862b6ace66d7741a11db1",
+      "title": "「Androidのマイナンバーカード」がスタートするもフル機能対応機種が少ない件 ポイントは「StrongBox」という仕組み",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2610/24/news013.html",
+      "summary": "今回のアクセス数の1位は、10月20日に運用が始まった「Androidのマイナンバーカード」の対応機種をまとめた記事です。この記事の影響もあり、10位にもAndroidのマイナンバーカードについて説明した記事がランクインしています。 Androidのマイナンバーカードは、従来Androidスマートフ...",
+      "published": "2026-10-24T04:11:41Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "32417d782202dbfddf81bdc1e0580c2b",
+      "title": "GitHub - anthropics/sandbox-runtime: A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+      "link": "https://github.com/anthropics/sandbox-runtime",
+      "summary": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container....",
+      "published": "2025-10-22T04:32:11Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "575748dfab689a60e63fc1a2b732adc5",
+      "title": "Event-Driven Architecture という言葉が指す4つのパターン",
+      "link": "https://zenn.dev/moriwm77/articles/20250308-eda-by-martin-fowler",
+      "summary": "Event-Driven Architecture という言葉が指す4つのパターン この記事では、Martin Fowler氏のGOTO 2017での講演で紹介された「Event-Driven Architecture」という言葉が指しうる4つのパターンを要約/解説します。 Martin Fowle...",
+      "published": "2026-03-25T18:33:45Z",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c88c01cfd244fd4bd6cd9c6ae3c7544b",
+      "title": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 Nutl…",
+      "link": "https://github.com/Nutlope/hallmark",
+      "summary": "🎉 Celebrating！ 🎉 (500+ new stars) 📦 Nutlope / hallmark ⭐ 31,509 (+567) 🗒 CSS Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "published": "24 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30b9061ce840cd2c8ef8ddab38ac425c",
+      "title": "SQS のデッドレターキューの中身を、受信の回数を増やさずに確認できるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/sqs-dlq-peek-receive-count/",
+      "summary": "Amazon SQS のデッドレターキュー（DLQ）を調べるときは、受信の回数が増えて再処理に影響するのではないかと心配になります。可視性タイムアウトを 0 にして読む方法を試し、DLQ の確認と再処理の手順を検証してみました。",
+      "published": "Sat, 24 Oct 2026 13:35:19 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a03d8021f45d35abe4b0a950247e6ac6",
+      "title": "「その判定、LLM じゃなくていい」というタイトルで DevelopersIO 2026 Tokyo で登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-decision-model-report/",
+      "summary": "DevelopersIO 2026 Tokyoでの登壇内容をスライドに沿ってまとめます。LLMの判定コストと精度の課題を解決する「Decision Model」の活用方法、そして確率を使って「迷ったら人間」にエスカレーションする実践的な閾値設計について、書類判定の事例を交えてお話しします。",
+      "published": "Sat, 24 Oct 2026 12:48:37 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4411b455698ddb0c1bbb09225de2c321",
+      "title": "【登壇レポート】 DevelopersIO 2026 Tokyo で 「CloudFormation のスタック、 どこで分けていますか？」 というタイトルで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/myan-devio-tokyo-2026/",
+      "summary": "DevelopersIO 2026 Tokyoにて、入社後初めての登壇でCloudFormationのスタック分割についてお話ししました。運用性を考慮したスタック設計の考え方や、実務での試行錯誤の経験を共有します。皆さんが改めて考えるきっかけになれば幸いです。",
+      "published": "Sat, 24 Oct 2026 12:39:17 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "00daa553d6c563b24934b5451bf43b0c",
+      "title": "CloudWatch Logs のデータ保護ポリシーでメールアドレスをマスクして、ログの読み方・出力先ごとの見え方を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-logs-data-protection-policy-mask-outputs/",
+      "summary": "CloudWatch Logs のデータ保護ポリシーでメールアドレスをマスクしたとき、ログの読み方や出力先によって見え方がどう変わるのかを検証してみました。コンソール・Logs Insights・メトリクスフィルター・S3 エクスポートなど、6 つの出力ポイントでの動作をまとめています。",
+      "published": "Sat, 24 Oct 2026 12:10:07 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f54f778714770e6f12ddc3efe536a679",
+      "title": "[アップデート] ElastiCache Serverless for Valkey がオンライン移行に対応したので EC2 の Redis OSS から移してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-elasticache-serverless-valkey-online-migration/",
+      "summary": "ElastiCache の移行機能",
+      "published": "Sat, 24 Oct 2026 11:52:48 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c60e9cf7f1bd589878902c91dd1bd9e",
+      "title": "[登壇レポート] DevelopersIO 2026 Tokyoで 「Claude Code をローカルとサーバー上で利用した際の Bedrock 利用料をユーザー単位で一本化してみる 」というタイトルで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/202610-developersio-2026-tokyo-bedrock-user-cost-calculation/",
+      "summary": "DevelopersIO 2026 Tokyo での登壇資料を共有します。CUR 2.0 を用いて Amazon Bedrock の利用料をユーザー単位で一本化する手法についてまとめます。",
+      "published": "Sat, 24 Oct 2026 11:28:50 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2a6d816023fa28a36cad7cf7bed7e90",
+      "title": "【登壇資料】「株式トレーディングエージェントに学ぶAI Agent設計」というタイトルで DevelopersIO 2026 Tokyo に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/kabushiki-toredingu-ejento-ni-manabu-ai-agent-sekkei/",
+      "summary": "DevelopersIO 2026 Tokyonのはpの発表資料",
+      "published": "Sat, 24 Oct 2026 11:23:27 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e3f2295820ec86eb364f79ba0120628",
+      "title": "AWS CDK でデプロイした Lambda 関数を以前のコードに戻したいです。以前のアセットはどこに残っていますか",
+      "link": "https://dev.classmethod.jp/articles/tsnote-cdk-lambda-rollback-asset-s3-cdk-gc/",
+      "summary": "AWS CDK で Lambda 関数をデプロイした後、コードに不具合が見つかった時の切り戻し方法について解説します。ブートストラップ S3 バケットにアセットがどう残るのか、`cdk gc` で削除される仕組み、そして素早く対応するための方法をまとめました。",
+      "published": "Sat, 24 Oct 2026 11:10:06 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7385dac9f8a33eb6f61a56699473412f",
+      "title": "DevelopersIO 2026 TOKYOで 「バックアップは“消されないこと”が9割 〜AWS Backupで考えるランサムウェア対策とVaultの選び方〜」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026tokyo-aws-backup-ransomware/",
+      "summary": "DevelopersIO（Tokyo）でランサムウェア対策とAWS Backupについて登壇してきました！初めての登壇で緊張もありましたが、満席のご来場をいただき、無事に終えることができたので、その様子をお伝えします。",
+      "published": "Sat, 24 Oct 2026 11:08:49 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "37aa8d9f875fd61258f22f54747730f2",
+      "title": "DevelopersIO 2026 TOKYOで「生成AIを使ってエンジニアとタッグを組んだ話」を発表しました",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tag-with-engineers-using-generative-ai/",
+      "summary": "PMMの私が、生成AI（Claude）を使ってエンジニアとタッグを組み、職種の違いによる「前提条件」「言葉」「ゴール」のズレを埋めた経験をお話しします。相互理解が劇的に早くなった工夫と、他職種との協働にも使える聞き方の型をご紹介します。",
+      "published": "Sat, 24 Oct 2026 10:55:23 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2dea0e480cef3f298ff6962a82f92f31",
+      "title": "「現時点の衛星通信サービスの現状を整理してみる」というタイトルでDevelopersIO 2026 TOKYOで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-satellite-communications/",
+      "summary": "DevelopersIO Tokyo 2026 で衛星通信の現状について話してきました。",
+      "published": "Sat, 24 Oct 2026 09:04:57 GMT",
+      "fetched_at": "2026-10-24T13:45:14.062505+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-24T08:31:35.826977+00:00"
+  "updated_at": "2026-10-24T13:45:14.062505+00:00"
 }

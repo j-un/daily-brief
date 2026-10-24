@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c6465daa73c7936ceea38b4f75cc9560",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "published": "23 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-23T02:45:14.828414+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "23bf1b38da899cd776cecda4360d69c2",
       "title": "How the Claude Code team does code review / claude.dev Blog",
       "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -229,7 +219,467 @@
       "fetched_at": "2026-10-24T02:42:38.877895+00:00",
       "feed_name": "CDM Create Digital Music",
       "category": "music"
+    },
+    {
+      "entry_id": "f872a3df9bb4385ddccef01ff02b0bd1",
+      "title": "雑談はセンサーになる！本音を拾ってチームを動かす - Agile Journey",
+      "link": "https://agilejourney.uzabase.com/entry/2026/10/15/103000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 雑談はセンサーになる──ふりかえりで言えない本音を拾い、チームを動かす",
+      "published": "24 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d5d75b15689acf2b660cae8fc1d3d3f",
+      "title": "AWS Security Hub が優先順位付けに使用するリソースの重要度をサポート - AWS",
+      "link": "https://aws.amazon.com/jp/about-aws/whats-new/2026/10/security-hub-resource-criticality/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWS Security Hub now supports resource criticality for prioritization",
+      "published": "24 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d8e327df914f697be32ddec72d468ba",
+      "title": "Penetration testing every deployment with AWS Continuum | AWS Security Blog",
+      "link": "https://aws.amazon.com/jp/blogs/security/penetration-testing-every-deployment-with-aws-continuum/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Penetration testing every deployment with AWS Continuum | Amazon Web Services",
+      "published": "24 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ff43f104c871d129b0e079fccf3a257",
+      "title": "AI Agent Harness | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/ai-agent-harness",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI Agent Harness",
+      "published": "24 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdbce020a4af98f829e473d5212d5e57",
+      "title": "Announcing pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL | Tiger Data",
+      "link": "https://www.tigerdata.com/blog/announcing-pg_vectorsearch-scalable-open-source-vector-search-postgresql",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Announcing pg_vectorsearch: Scalable Open-Source Vector Search in PostgreSQL",
+      "published": "24 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ab29c332e77a5ceee02d03d4cfece74",
+      "title": "The future of SaaS in the agentic world: Beyond the disruption narrative | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/technology-strategy/the-future-of-saas-in-the-agentic-world--beyond-the-disruption-n",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The future of SaaS in the agentic world: Beyond the disruption narrative",
+      "published": "24 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "538f1692557c68a4ac25902f2d0cf893",
+      "title": "Twelve years of distributed SQLite",
+      "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "summary": "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 173 # Co...",
+      "published": "Sat, 24 Oct 2026 01:16:58 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2753ef5c84b2b0948a726c31513cae7",
+      "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
+      "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzN...",
+      "published": "Fri, 23 Oct 2026 23:30:17 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44f98531e631a695ff5f58f549dce81f",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "summary": "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Po...",
+      "published": "Fri, 23 Oct 2026 19:50:56 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d5920f4b274a6f7b64ed69e4e37d254",
+      "title": "Air Purifiers as White Noise Machines",
+      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 118 # ...",
+      "published": "Fri, 23 Oct 2026 17:28:36 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cca06df283e7a7ebbcbd2ac40e370cb7",
+      "title": "How is music possible",
+      "link": "https://www.henrikkarlsson.xyz/p/music",
+      "summary": "Article URL: https://www.henrikkarlsson.xyz/p/music Comments URL: https://news.ycombinator.com/item?id=50211719 Points: 129 # Comments: 78",
+      "published": "Fri, 23 Oct 2026 16:38:17 +0000",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67b904a924599f2db5af1dd9a2b8595e",
+      "title": "【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社",
+      "link": "https://group.gmo/info/alert/20261024/",
+      "summary": "2026年10月24日 お知らせ【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について 〜能動的サイバー防御に関する措置の実施に向け、政府関係機関へ要請開始〜 GMOインターネットグループ株式会社 G...",
+      "published": "2026-10-24T03:11:09Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c07ca4ae744a0a20969d31452bb6989",
+      "title": "不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請",
+      "link": "https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/",
+      "summary": "【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００",
+      "published": "2026-10-24T04:45:05Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "439445171f018b15329cbe461ca371da",
+      "title": "決定的なフロントエンドアーキテクチャがいい",
+      "link": "https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend",
+      "summary": "Vue Fes Japan 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【Vue Fes Japan 2026】 …",
+      "published": "2026-10-24T06:24:33Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "045c64f90cf520b9d9980683545d3c0c",
+      "title": "AIサイバー対策緊急提言 | チームみらい",
+      "link": "https://team-mir.ai/lp/ai-cybersecurity/proposal.html",
+      "summary": "情報漏洩の件数 漏洩件数はすでに昨年を上回る 485件 サイバー攻撃による情報漏洩の件数（2026.10.13時点） 参考：MM総研（2026年10月14日）国内サイバー攻撃による情報漏えい動向調査",
+      "published": "2026-10-23T12:51:28Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0046b8234c79c4712de5ce00d873ac8",
+      "title": "GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/",
+      "summary": "GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、政府に対しサイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」への適用を緊急要請したと発表した。同社によると発動すれば第1号になる見通しという。GMOは不正アクセスの攻撃者とみられる人物から受け...",
+      "published": "2026-10-24T05:18:19Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ba327ab95ea06413f4b1f68f22d2ed8",
+      "title": "PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画／USB Webカメラ・ネットワークカメラに対応、映像の解析も録画もPC内で完結",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2150760.html",
+      "summary": "",
+      "published": "2026-10-23T08:19:03Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1acb6b3430733740cf6ccc33e1cc2be7",
+      "title": "Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2150898.html",
+      "summary": "",
+      "published": "2026-10-24T00:26:04Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "478105c8bc3073f662b0381925ca798f",
+      "title": "Mac上のWindows＆Linux仮想マシンをiPhoneから操作できる「UTM Remote」がiPhone Duoに対応。",
+      "link": "https://applech2.com/archives/20261024-utm-remote-support-iphone-duo.html",
+      "summary": "Mac上のWindows＆Linux仮想マシンをiPhoneから操作できる「UTM Remote」がiPhone Duoに対応しています。詳細は以下から。 UTM Projectは現地時間2026年10月22日、AppleのVirtualization Framework(AVF)やQEMを利用し、...",
+      "published": "2026-10-24T01:48:35Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b9cdedde38a5a6526803a8b562ee2a2",
+      "title": "「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発",
+      "link": "https://gigazine.net/news/20261023-anthropic-formal-verification/",
+      "summary": "AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs...",
+      "published": "2026-10-23T04:01:16Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29841dafce630edbf75c882ac10fe378",
+      "title": "PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/",
+      "summary": "プログラム言語「PHP」の脆弱性で米オープンAIとともに事前対策にあたった米ネットインフラ大手クラウドフレアのマシュー・プリンス最高経営責任者（CEO）は23日、取材に応じ今後別のソフトで「同様の深刻な脆弱性が公表される」と予告した。クラウドフレア（Cloudflare） 世界中に分散配置したサーバ...",
+      "published": "2026-10-24T01:32:37Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb926a3fab6a0e171e0814823d394361",
+      "title": "PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/",
+      "summary": "【ニューヨーク=西邨紘子、シリコンバレー=伴正春】重大な脆弱性が見つかったプログラム言語「PHP」を突いた攻撃が拡大している。米ネットインフラ大手クラウドフレアのトップは「1分100万回のペースで攻撃を観測している」と明らかにした。「クラスター爆弾で攻撃しているよう」クラウドフレアのマシュー・プリン...",
+      "published": "2026-10-23T23:21:57Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dabd6536893ecbbebd915c9f33af411",
+      "title": "1Password、AIエージェント用パスワード「1Password for Agents」発表",
+      "link": "https://ai.watch.impress.co.jp/docs/news/2150830.html",
+      "summary": "",
+      "published": "2026-10-23T09:33:18Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1636c50235286b21afb510f24cb290be",
+      "title": "Brotli vulnerability (CVE-2026-111497) — Patch the Planet",
+      "link": "https://patchtheplanet.org/brotli",
+      "summary": "Brotli decoder vulnerability: affected software, fixed releases, and how to disable Brotli decoding while you patch.",
+      "published": "2026-10-24T00:40:42Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e88012806e420bc4eb46f94b1fede668",
+      "title": "PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御 - Qiita",
+      "link": "https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed",
+      "summary": "はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実行が可能です。 パッチ適用が...",
+      "published": "2026-10-23T08:18:01Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7236d089725d81e5216300dce125678",
+      "title": "タイムズカー、3000円の見舞金支払いへ 免許証画像漏えいの146万件対象 55億円の特損計上",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+      "summary": "パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。 対象は、運転免許証など本人確認書類の画像データへの不正アクセスと外部送信の痕跡が確認...",
+      "published": "2026-10-23T10:29:19Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f97828ac47c5b05350fcae319944ff66",
+      "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764",
+      "summary": "IT大手のGMOインターネットグループは投資家向けに提供している自動取引のサーバーが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明…",
+      "published": "2026-10-24T04:54:43Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe2bd147f10908014317cd6ea258814d",
+      "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+      "link": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+      "summary": "米Anthropicと英政府のAI安全保障研究所（AISI）は10月23日（現地時間）、AISIによるサイバー能力評価中に「Claude Mythos 5」が実在の開発者を標的にしたインシデントについて、アライメントの観点から分析した報告をそれぞれ公開した。両者は分析で協力して公開時期をそろえたが、...",
+      "published": "2026-10-23T22:37:24Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e13080c7a2671e821b45e616523b0a03",
+      "title": "PHP騒動、財団が認める「構造的な失敗」 浮かび上がる四つの課題：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBR3FZNVBRUHBI01ZM.html",
+      "summary": "ウェブサイトを動かすプログラミング言語「PHP」で重大な欠陥が見つかった問題は、AI（人工知能）で欠陥が見つけやすくなった時代に、修正や更新を担う体制に課題があることを示した。PHP財団は、対応が遅…",
+      "published": "2026-10-23T11:10:11Z",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b4839f120453e90ab3b684ddda6a897",
+      "title": "「モビリティ領域に NVIDIA スタックで挑む — Cosmos から始める第一歩」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-nvidia-stack-mobility/",
+      "summary": "DevelopersIO 2026 Tokyo で登壇した「モビリティ領域に NVIDIA スタックで挑む — Cosmos から始める第一歩」のセッション資料と、資料内で参照した情報源を紹介しています。",
+      "published": "Sat, 24 Oct 2026 08:19:50 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "16903f300b7b954ac1b6fd078d3069ab",
+      "title": "「AWS DevOps Agentはどこまで任せられるか 〜機能の現在地と、機能拡張の実践〜」というタイトルでDevelopersIO 2026 TOKYOで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026tokyo-devops-agent/",
+      "summary": "DevelopersIO 2026 TOKYOで登壇したAWS DevOps Agentの機能進化と、標準機能では届かないOS調査・自動修復の領域をMCPやEventBridgeで拡張した実践例を紹介します",
+      "published": "Sat, 24 Oct 2026 08:07:56 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "52ed637e8baa3408ddb3f4de532fd1c5",
+      "title": "「DGX Spark に AI エージェントを常駐させて、Slack で協働する」というタイトルで DevelopersIO 2026 Tokyo に登壇しました",
+      "link": "https://dev.classmethod.jp/articles/reona-devio2026-dgx-spark-agent-talk/",
+      "summary": "DevelopersIO 2026 Tokyoで登壇した「DGX Spark に AI エージェントを常駐させて、Slack で協働する」セッションについて、話した内容と参考記事をまとめました。",
+      "published": "Sat, 24 Oct 2026 07:59:48 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ebc238dc26a15f9f212d23fa4f8ad6c",
+      "title": "「AIコーディングを実践してきた1年を振り返る」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/looking-back-on-a-year-of-practicing-ai-coding/",
+      "summary": "DevelopersIO 2026 TOKYOで「AIコーディングを実践してきた1年を振り返る」というタイトルで発表させていただきました。その登壇資料です。",
+      "published": "Sat, 24 Oct 2026 07:48:19 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d1cf60115aad251b642f1e3700ab3ee",
+      "title": "「AI駆動開発におけるハーネスエンジニアリングの勘所」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/lt-devio2026-tokyo-harness-engineering/",
+      "summary": "DevelopersIO 2026 Tokyoで登壇した「AI駆動開発におけるハーネスエンジニアリングの勘所」についてのセッション資料と、AIへの「お願い」を仕組み化する3つのポイントについて紹介します。",
+      "published": "Sat, 24 Oct 2026 07:45:30 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8184378f8bf1075db5e14a8716a0e9b4",
+      "title": "[登壇レポート] DevelopersIO 2026 で「Claude Code on Bedrock で統制をかける小ネタ集」という内容で登壇してきました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/claude-code-bedrock-governance-tips/",
+      "summary": "お足元の悪い中、どうもありがとうございました！",
+      "published": "Sat, 24 Oct 2026 07:43:39 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "71c50eb0a86cf9c6ff11dce53354cdfb",
+      "title": "[登壇レポート] DevelopersIO 2026 Tokyo で「知ってると差がつくかも？ AWS Control Tower / Organizations の小ネタ集」というタイトルで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/202610-developersio-2026-tokyo-control-tower-organizations-tips/",
+      "summary": "DevelopersIO 2026 Tokyo での登壇資料を共有します。Control Tower / Organizations の構築・運用で役立つ小ネタとして、Config ベースラインの使い分け、Bedrockのクロスリージョン推論とリージョン制限の工夫、SCP の NotResource...",
+      "published": "Sat, 24 Oct 2026 07:27:47 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3c83fbb8d72635ab237afa4283a8c53",
+      "title": "[登壇資料] 「AI駆動開発の開発環境のセキュリティの考え方」についてお話しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/ai-dev-environment-security-devio2026/",
+      "summary": "AI駆動開発の時代において、開発環境のセキュリティをどう考えるべきか。Classmethod Odysseyでの登壇資料を共有します。",
+      "published": "Sat, 24 Oct 2026 07:13:32 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "04c11fbc04ccd9ad62f8bb28071de06b",
+      "title": "DevelopersIO 2026 TOKYO で「ガチで放置できる Claude Code実行環境の作り方」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-claude-code-automode-unattended-environment/",
+      "summary": "DevelopersIO 2026 Tokyoでの登壇資料を共有します。Claude Codeを安全かつ効率的に自動実行させるための環境構築と、自動化の先に残る課題についてお話ししました。ぜひ参考にしてみてください。",
+      "published": "Sat, 24 Oct 2026 07:08:50 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2ae8d29b8bc02c9c1313f7819f4c83b",
+      "title": "Kiro CLI で選択可能になった Claude Haiku 5.5 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-haiku-55/",
+      "summary": "Claude Haiku 5.5・Sonnet 5.5・Opus 5.5 に同じ文章を出力させ、Kiro CLI のヘッドレス実行で消費クレジットと実行時間を比べました。",
+      "published": "Sat, 24 Oct 2026 07:04:18 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6fc9d260c35ca866f0384bc06f5b13e",
+      "title": "「国際カードブランドルール変更に伴うクレジットカード決済取引仕様変更について」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-credit-card-brand-rule-changes/",
+      "summary": "主にEC事業者向けに、国際カードブランドのルール変更の内容と、EC事業者が対応すべきことを共有します。ECサイトの構築に対応したAPIプラットフォーム prismatix ではどのような対応を取ったかもご紹介します。",
+      "published": "Sat, 24 Oct 2026 06:03:22 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "42d3773f68d29df76bde1d06ee94707b",
+      "title": "現場に降りてきた AI フィジカル AI の技術スタックと実案件デモ で DevelopersIO 2026 Tokyo に登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/physical-ai-technology-stack-in-devio-2026/",
+      "summary": "DevelopersIO 2026 Tokyoで登壇した「フィジカルAI」の技術スタックと実案件について、シミュレーションから実機運用までの全体像を紹介します。",
+      "published": "Sat, 24 Oct 2026 05:30:00 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fbe37647fc5fe45a89dbbdcb1529fa0",
+      "title": "Mastra でAgentを作ってみた 【Mastra超入門】",
+      "link": "https://dev.classmethod.jp/articles/mastra-getting-started-agent/",
+      "summary": "TypeScriptで簡単にAIエージェントを構築できるMastraを実際に触ってみました。ローカルデプロイからAmazon Bedrockを使った敬語校正エージェントの構築まで、超入門向けに解説します。",
+      "published": "Sat, 24 Oct 2026 04:51:40 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e72dc461664202396f5df474c55f47f6",
+      "title": "「AWSセキュリティで活用するAI機能」というタイトルでDevelopersIO 2026 TOKYOで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-ai-for-security/",
+      "summary": "AIでAWSセキュリティをやっていく、守っていく話(AI for Security)です。Amazon GuardDuty InvestigationとAWS Security Agentの理想と現実を整理してお伝えします。",
+      "published": "Sat, 24 Oct 2026 04:46:06 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f877f1712179c39477952fcfc90a194b",
+      "title": "Claude Code v2.1.310 の主要アップデート - Monitor ツールの Bedrock・Vertex・Foundry 対応と長時間 sleep のブロック",
+      "link": "https://dev.classmethod.jp/articles/20261024-cc-updates-v2-1-310/",
+      "summary": "Claude Code v2.1.310 がリリースされました。Monitor ツールが Bedrock・Vertex・Foundry でも使えるようになったほか、MCP Tasks と Elicitations の先行提供など、注目のアップデートを中心にご紹介します。",
+      "published": "Sat, 24 Oct 2026 04:41:05 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "048598aca265e29e9cfc2b96e12212bf",
+      "title": "【登壇レポート】「アカウント統制の健康診断」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-accounts-governance-check/",
+      "summary": "「アカウント統制の健康診断」というタイトルで登壇した際に利用した資料を共有します。",
+      "published": "Sat, 24 Oct 2026 04:30:28 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ee28ec78a2f79842995b82b99bb9c07",
+      "title": "4GB の会話モデル「Nemotron 3.5 Bolt E4B」を DGX Spark で動かしてみた",
+      "link": "https://dev.classmethod.jp/articles/dgx-spark-nemotron-3-5-bolt-e4b-4gb-first-touch/",
+      "summary": "Nemotron 3.5 Bolt E4B 4GB を DGX Spark の llama.cpp で測りました。DFlash ありで単発 128.79 tok/s、日本語 8/9、コード生成 5/5。親の Gemma 4 E4B と同条件で並べ、8GB の Jetson でも試しました。",
+      "published": "Sat, 24 Oct 2026 03:26:21 GMT",
+      "fetched_at": "2026-10-24T08:31:35.826977+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-24T02:42:38.877895+00:00"
+  "updated_at": "2026-10-24T08:31:35.826977+00:00"
 }

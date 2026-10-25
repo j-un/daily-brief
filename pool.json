@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "11764f1fb2e7246ef07c6c02fd94d7b1",
-      "title": "Using Claude to reduce the attack surface of code",
-      "link": "https://www.anthropic.com/research/attack-surface-reduction",
-      "summary": "Chris Rohlf Over the past year, we’ve published lots of data that shows that frontier AI models are more than capable of discovering and exploiting se...",
-      "published": "2026-10-23T15:05:50Z",
-      "fetched_at": "2026-10-23T22:46:33.390610+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "67edb7f37a387d49c0d9839522ae7764",
       "title": "「ドパ資料」の作り方 - Qiita",
       "link": "https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&utm_medium=facebook",
@@ -179,7 +169,377 @@
       "fetched_at": "2026-10-25T02:32:24.775659+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "11c34ae421c4d3e08d53b867b7647c85",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://techblog.lycorp.co.jp/ja/20261014b",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プライベートクラウドにおけるVM Live Migrationの通信暗号化の実装と検証（インターンレポート）",
+      "published": "25 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d221c0144fe7f0ebda6b0815c5c03dc7",
+      "title": "影響社数ではなく、顧客の困り具合でインシデントの重さを決める - Link and Motivation Developers' Blog",
+      "link": "https://link-and-motivation.hatenablog.com/entry/2026/10/15/142533",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 影響社数ではなく、顧客の困り具合でインシデントの重さを決める",
+      "published": "25 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f4b804fe39d8067aca3c73c0600dd59",
+      "title": "E2Eの課題を、チームを越えて解いた話 ― 10分以上から約3分半へ - kubell Creator's Note",
+      "link": "https://creators-note.chatwork.com/entry/2026/10/14/164940",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 E2Eの課題を、チームを越えて解いた話 ― 10分以上から約3分半へ",
+      "published": "25 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a4a17c2244b3d80be45bbac20784bb08",
+      "title": "光海底ケーブルはどのように進化する？｜KDDI Tech note",
+      "link": "https://tech-note.kddi.com/n/n98aeefbaab4c",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 光海底ケーブルはどのように進化する？",
+      "published": "25 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "266f43073a44e28fc15a585972cdbd26",
+      "title": "AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！ - Hatena Developer Blog",
+      "link": "https://developer.hatenastaff.com/entry/2026/10/16/123000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代の監視・障害対応を考えるオンラインイベント——AIを味方につける！開発チームから始める運用改善 を開催します！",
+      "published": "25 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "83f4d53865a07d5ad0c8dcdb918132bf",
+      "title": "改訂新版 達人が教えるWebパフォーマンスチューニング | 技術評論社",
+      "link": "https://gihyo.jp/book/2026/978-4-297-16013-5",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 改訂新版達人が教えるWebパフォーマンスチューニング | 技術評論社",
+      "published": "25 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a772cd59c52c620f1b79ed4b57afcec",
+      "title": "Alexaタブレットの衝撃。純正Android採用とパノス・パネイが仕掛けるハード再定義 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/android-weekly-topics-261015",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Alexaタブレットの衝撃。純正Android採用とパノス・パネイが仕掛けるハード再定義 | gihyo.jp",
+      "published": "25 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "91b2416ce55e7fd13a209146ae47ebd9",
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "link": "https://github.com/slee-persis/GVS5H",
+      "summary": "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 156 # Comments: 53",
+      "published": "Sun, 25 Oct 2026 03:56:01 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c15fd2cc4cc470b2f5608cdbc6536006",
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https:/...",
+      "published": "Sun, 25 Oct 2026 02:18:35 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d69968e1269a51af0ff602746d51c7e3",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item...",
+      "published": "Sun, 25 Oct 2026 01:33:49 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86ae1cb9cfb9f341005e545889c32eed",
+      "title": "Small Programs and Languages",
+      "link": "https://ratfactor.com/cards/pl-small",
+      "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 100 # Comments: 7",
+      "published": "Sat, 24 Oct 2026 21:44:23 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c6853d0b174d7a909ee1f14905dc5a8",
+      "title": "SpeedCrunch 1.1",
+      "link": "https://www.speedcrunch.org/",
+      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 137 # Comments: 24",
+      "published": "Sat, 24 Oct 2026 19:19:43 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "968e5ca607f5d27fd6136cac6813ebd1",
+      "title": "Bbtree: Fastest Ordered Map",
+      "link": "https://bbtree.xiangpeng.systems/post/",
+      "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 106 # Comments: 10",
+      "published": "Sat, 24 Oct 2026 18:22:14 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a13d51fc4e323fd58b6b8b894022fafd",
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "link": "https://de.numista.com/9866",
+      "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 115 # Comments: 36",
+      "published": "Sat, 24 Oct 2026 16:41:55 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5dc25340c385dfccbcc46fbfec93888",
+      "title": "Neural chip decodes interactions between brain regions",
+      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525...",
+      "published": "Sat, 24 Oct 2026 15:57:17 +0000",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4cdbc7308f1f2c7a0ffa6a72c18ff74",
+      "title": "思いつきが現実になる世界でこわい - 運河",
+      "link": "https://uiuret.hatenablog.com/entry/2026/10/25/080436",
+      "summary": "僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いた...",
+      "published": "2026-10-25T02:09:50Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d93fc40a5a22178835381182bbc8e037",
+      "title": "「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc",
+      "summary": "AIいじめとは（ABEMA TIMES） AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。 【映像】AIに虐待、続けるとどうなる？ 具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取りが続くな...",
+      "published": "2026-10-25T03:52:45Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e9fa4357ce651fc811d1194d7bdc133",
+      "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」",
+      "link": "https://www.yomiuri.co.jp/national/20261024-GYT1T00360/",
+      "summary": "【読売新聞】 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失っ",
+      "published": "2026-10-24T20:11:22Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31c1122645b6bd4e00bf1033ff884833",
+      "title": "入社4ヶ月で 2つのプロダクトの撤退判断",
+      "link": "https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan",
+      "summary": "コミュニケーションは受け手が決める〜読まれる職務経歴書の作り方/Communication makes your career",
+      "published": "2026-10-24T06:14:58Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "febd55e026ecb5ed87291316e3bdf5bf",
+      "title": "マスク氏、ウクライナ軍のスターリンク利用規約違反を非難",
+      "link": "https://www.afpbb.com/articles/-/3659233",
+      "summary": "ウクライナ軍が使用するスターリンク（2023年2月1日撮影）。(c)YASUYOSHI CHIBA/AFP 【10月25日 AFP】米実業家イーロン・マスク氏は24日、ウクライナ軍が衛星通信サービス「スターリンク」を「人を殺すためのドローン攻撃」に使用し、利用規約に違反したと非難した。ウクライナ軍の...",
+      "published": "2026-10-25T03:32:35Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f5722c79cf953d2a3c4f06d77a3c283",
+      "title": "Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者や開発者向けにcurlやgitなどコマンドラインツールに対する暫定的な回避策を公開。",
+      "link": "https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html",
+      "summary": "Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者向けにcurlやgit、opensslの問題に対してはアップデートまでに暫定的な回避策を公開。ます。詳細は以下から。 電子証明書を発行するインドの認証局eMudhraは2...",
+      "published": "2026-10-25T02:37:31Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "99fc68bca70b065a7559aa42c52dffdc",
+      "title": "パラグラフから始めるアカデミック・ライティング",
+      "link": "https://speakerdeck.com/neuroiwm/paragurafu-kara-hajimeru-akademikku",
+      "summary": "https://researchmap.jp/seitaro_iwama",
+      "published": "2026-10-25T04:31:30Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b083dc7fa25c6eab3bdbbbd10f7d016",
+      "title": "3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介 - Qiita",
+      "link": "https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0",
+      "summary": "Pyxel作者です。 ちょっとした出来心で、3KBしか使えない、小さなゲームエンジンを作ってみました。 名前は「Playload（プレイロード）」。 GitHubにてオープンソースとして公開中です。ぜひスターで応援をよろしくお願いします。 Playloadの基本仕様は以下になります。 JavaScr...",
+      "published": "2026-10-24T13:45:27Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9cf089d23cd076dff5fd15d562d2dcb",
+      "title": "eMudhra中間CA証明書の秘密鍵の侵害について",
+      "link": "https://emudhra.we-have-a-problem.com/ja.html",
+      "summary": "この日本語版は，GrEarlが2026年10月23日時点の英語版を翻訳したものです。最新の情報や詳しい情報は，英語版をご覧ください。 This Japanese page was translated by GrEarl from the English page as of 23rd Octobe...",
+      "published": "2026-10-23T22:32:53Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2c65b665e51829f8af77bd2492490d26",
+      "title": "Software engineering may no longer be a lifetime career",
+      "link": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "summary": "I don’t think there’s compelling evidence that using AI makes you less intelligent overall1. However, it seems pretty obvious that using AI to perform...",
+      "published": "2026-04-29T06:04:12Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "50a4d04e87c501ba8e155e1b0c47e72c",
+      "title": "知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553",
+      "summary": "１１９万円超の損失が出た女性の取引画面＝女性提供（読売新聞） 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失った。個人情報が公開....",
+      "published": "2026-10-24T22:50:39Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d0f3a105158c116a31c5b4cc639f8617",
+      "title": "GitHub CLI's New Expiring Tokens Still Leave Your Refresh Token Exposed to Malware",
+      "link": "https://suzuki-shunsuke.hashnode.dev/github-cli-s-new-expiring-tokens-still-leave-your-refresh-token-exposed-to-malware",
+      "summary": "GitHub CLI (gh) recently added short-lived access tokens that are refreshed automatically. It is a public preview and opt-in for now, but it is planne...",
+      "published": "2026-10-24T15:27:01Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed86891b714ead4124f8b46236fb07eb",
+      "title": "Digital hygiene",
+      "link": "https://karpathy.bearblog.dev/digital-hygiene/",
+      "summary": "17 Mar, 2025 Every now and then I get reminded about the vast fraud apparatus of the internet, re-invigorating my pursuit of basic digital hygiene aro...",
+      "published": "2025-03-19T07:09:09Z",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b3d66bea7263fe0b7f3099ae630149a",
+      "title": "Vue Fes Japan 2026で「あなたの await、OS まで届いてる？ strace で覗く JavaScript の非同期」というタイトルで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/hasuto-vuefes-2026-await-strace-js/",
+      "summary": "Vue Fes Japan 2026 のライトニングトークで登壇した「あなたの await、OS まで届いてる？ strace で覗く JavaScript の非同期」のスライド資料と、伝えたかったことを紹介しています。",
+      "published": "Sun, 25 Oct 2026 08:11:06 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dea37b703c8482bf003b33eaec8d3ce8",
+      "title": "AWS DevOps AgentをSlackのメンションで起動し、読み取り調査させてみた",
+      "link": "https://dev.classmethod.jp/articles/aws-devops-agent-slack-mention-read-only-investigation/",
+      "summary": "CloudWatchアラームが鳴ったときの一次調査を、SlackでAWS DevOps Agentにメンションして頼んでみました。依頼から調査の作成、途中経過、根本原因と緩和策が届くまでの流れをまとめます。",
+      "published": "Sun, 25 Oct 2026 08:10:21 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0f9f405f7d2a8dda96e4cbd5a0fb8f4d",
+      "title": "Amazon Chime SDK で 1 対 1 のビデオ通話を作り、通話後に会議が消えるまでを GetMeeting と CloudTrail で確認してみた",
+      "link": "https://dev.classmethod.jp/articles/chime-sdk-meeting-cleanup-getmeeting-cloudtrail/",
+      "summary": "Amazon Chime SDK で 1 対 1 のビデオ通話を作る際、通話終了後に JoinToken で入り直されないようにするには、会議をしっかり終わらせる必要があります。DeleteMeeting を呼ぶ方法と自動終了を待つ方法を、実際に検証してみました。",
+      "published": "Sun, 25 Oct 2026 07:00:09 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "028ed9c5bf152eccef760815af9b9ec0",
+      "title": "Cowork の組み込みブラウザ機能を利用してデータ入力作業を自動化してみた",
+      "link": "https://dev.classmethod.jp/articles/cowork-buildin-browser-usecase/",
+      "summary": "Coworkの組み込みブラウザ機能を使って、バックオフィス業務のデータ入力を自動化してみました。Excelの顧客情報をWebフォームに自動登録する流れを、実例を交えてご紹介します。",
+      "published": "Sun, 25 Oct 2026 06:45:40 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "89d657f35e9f693fbe4f70c646eb906c",
+      "title": "Transit Gateway の 1:1 NAT で CIDR が重複した 2 つの VPC をつないでみた",
+      "link": "https://dev.classmethod.jp/articles/transit-gateway-1to1-nat-overlapping-cidr/",
+      "summary": "Transit Gateway の 1:1 NAT で、同じ CIDR（10.0.0.0/16）の 2 つの VPC をつないでみました。両方のアタッチメントにルールを 1 つずつ設定すると、NAT 用のリソースを足さずに通信でき、受信側には変換後のアドレスが送信元として届きました。",
+      "published": "Sun, 25 Oct 2026 05:45:24 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7009c83ccf0806ce1985ee030825d89",
+      "title": "[登壇資料] 「AI駆動開発の開発環境のセキュリティの考え方」についてお話しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/ai-dev-environment-security-devio2026-rev/",
+      "summary": "AI駆動開発時代の開発環境におけるセキュリティ上の課題と対策について、DevelopersIO 2026での登壇資料を共有します。",
+      "published": "Sun, 25 Oct 2026 05:07:51 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "771a127fefd25674d97dedc1a29dfd9c",
+      "title": "「薬学部出身の新卒営業がAmazon Bio Discoveryで自由研究してみた！」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-amazon-bio-discovery/",
+      "summary": "DevelopersIO 2026 Tokyoで登壇した「薬学部出身の新卒営業がAmazon Bio Discoveryで自由研究してみた」セッションについて、登壇資料と実際に触ってみた感想を紹介します！",
+      "published": "Sun, 25 Oct 2026 03:26:07 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd1824924b95b68ae9d019d72aa0a79c",
+      "title": "Kiro で Claude Sonnet 5.5 などが GA になったので、現在のモデル一覧をまとめてみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-claude-sonnet-5-5-ga-model-list/",
+      "summary": "Kiro で Claude Sonnet 5.5、GPT-5.6 Terra・Luna、Claude Fable 5.1 が GA になったのを機に、現在のモデルの提供日とクレジット倍率を一覧にしました。",
+      "published": "Sun, 25 Oct 2026 03:03:59 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc4f4a99afe1601b4d2c7c9f78ed5367",
+      "title": "Amazon EventBridge の新しいカスタムイベントバスで、Subscriber のターゲットへの再試行が 24 時間継続しない原因を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-eventbridge-new-bus-subscriber-retry-24-hours/",
+      "summary": "Amazon EventBridge の新しいカスタムイベントバスで、Subscriber の再試行設定がデフォルトでは5回・300秒に制限されていることに気づきました。従来のバスとの違いと、24時間分の再試行が必要な場合の対応方法について解説します。",
+      "published": "Sun, 25 Oct 2026 02:30:28 GMT",
+      "fetched_at": "2026-10-25T08:50:34.884068+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-25T02:32:24.775659+00:00"
+  "updated_at": "2026-10-25T08:50:34.884068+00:00"
 }

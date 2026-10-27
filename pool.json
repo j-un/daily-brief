@@ -1289,7 +1289,107 @@
       "fetched_at": "2026-10-27T20:19:49.182289+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "fb3ff1b53a57e297f351022a6824fbf2",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "summary": "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 134 # Comments: 82",
+      "published": "Tue, 27 Oct 2026 19:55:21 +0000",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fe0e5b4771f46672ae43be438227999",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 112 # Comments: 68",
+      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c471c754d7b4107ff7ca1b83df240912",
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=5...",
+      "published": "Tue, 27 Oct 2026 18:44:17 +0000",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3403c38eeaedf8e284f3548e4d54dfb",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "summary": "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 ...",
+      "published": "Tue, 27 Oct 2026 16:25:30 +0000",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8a7e8c712bc2e923b51137f366cd4d4",
+      "title": "SageMaker MLflow Apps now support MLflow 3.16",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+      "summary": "Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative AI...",
+      "published": "Tue, 27 Oct 2026 20:40:00 GMT",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cab48bfa437b01efd8f024703d3d533f",
+      "title": "Amazon Aurora serverless now supports up to 384 ACUs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/",
+      "summary": "Amazon Aurora serverless now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora PostgreSQL-Compatible Edition, a 50% incr...",
+      "published": "Tue, 27 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2198b74186b75f00b9f5d27ff812c89",
+      "title": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/",
+      "summary": "Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previousl...",
+      "published": "Tue, 27 Oct 2026 15:21:00 GMT",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "05bbaf64bd384e48e931767217b8f559",
+      "title": "AWS End User Messaging adds registration improvements for faster, higher-quality submissions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions",
+      "summary": "AWS End User Messaging now makes it easier to complete messaging registrations correctly the first time, with clearer guidance, explicit field require...",
+      "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "956cf00574e0c46397f75f9239f5931f",
+      "title": "公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」",
+      "link": "https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/",
+      "summary": "【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同",
+      "published": "2026-10-27T14:28:11Z",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba4437b56b6412009ad1cfc4448a5bc3",
+      "title": "[2026年10月28日号]個人的に気になったModern Data Stack情報まとめ",
+      "link": "https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20261028/",
+      "summary": "Modern Data Stack関連の最新情報が次々と発表されている中、この2週間ほどで気になった情報をまとめてみました。",
+      "published": "Tue, 27 Oct 2026 21:32:49 GMT",
+      "fetched_at": "2026-10-27T22:46:15.686027+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-27T20:19:49.182289+00:00"
+  "updated_at": "2026-10-27T22:46:15.686027+00:00"
 }

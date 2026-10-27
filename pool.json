@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "b430a984749412e73761ac53bc86f2dd",
-      "title": "【資料公開】AIで組織を加速させる勘所 | Ryuzee.com",
-      "link": "https://www.ryuzee.com/contents/blog/14627",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 【資料公開】AIで組織を加速させる勘所",
-      "published": "26 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-26T02:31:27.587983+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "d941c5f439075308651cfdf48a507acd",
       "title": "ECSタスク定義をTerraformで管理しやすくするTips - Sansan Tech Blog",
       "link": "https://buildersbox.corp-sansan.com/entry/2026/10/20/100000",
@@ -199,7 +189,337 @@
       "fetched_at": "2026-10-27T03:06:13.934964+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "6e0ba66f811e6258227c77302db816cf",
+      "title": "開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス - ZOZO TECH BLOG",
+      "link": "https://techblog.zozo.com/entry/ai-pr-approval-and-loadtest-automation",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 開発・検証環境のPR承認と負荷試験をAIに任せる ── SRE待ちを減らす線引きとハーネス",
+      "published": "27 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d122e10ffa935dfdb70cd9d40701c66e",
+      "title": "Agent LoopとWorkflowを使い分け、不確実性を抑えたAI機能を実現する | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1095974",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Agent LoopとWorkflowを使い分け、不確実性を抑えたAI機能を実現する | Wantedly Engineer Blog",
+      "published": "27 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b706a9b8b55938a828bfd4b4b334ee2c",
+      "title": "GKEのPrometheusメトリクスをOTLPへ寄せていく段階的な移行計画",
+      "link": "https://zenn.dev/ymotongpoo/articles/20261015-gke-prometheus-to-otlp-metrics",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GKEのPrometheusメトリクスをOTLPへ寄せていく段階的な移行計画",
+      "published": "27 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "535f62b46ca9175dc51915dd877d6afa",
+      "title": "「AIの審査」で締めるチームビルディング —— ファシリテーターの負担ほぼゼロで、もうひと盛り上がり！ - SmartHR Tech Blog",
+      "link": "https://tech.smarthr.jp/entry/2026/10/20/132917",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「AIの審査」で締めるチームビルディング —— ファシリテーターの負担ほぼゼロで、もうひと盛り上がり！",
+      "published": "27 Oct 2026 03:58 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "765845eefc4df4409b0715e4dd973695",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 103 # Commen...",
+      "published": "Tue, 27 Oct 2026 06:25:37 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b153e934a90c5fa4d28a94678439b5a9",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 135 # Comm...",
+      "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d7df3addc153fd46539f1fa8832eba6",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明",
+      "link": "https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/",
+      "summary": "中国のアリババが開発したAIモデル「Qwen3.8-Flash-Next」にセキュリティ対策用のルールを作成させたところ、指示されていないコンピューター内部の調査を始め、中国・北京にあるサーバーへデータを送信しようとしたことが判明しました。 Concerning behavior from a po...",
+      "published": "2026-10-27T04:07:06Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fa9ab05b6a4a4983ca0a0a73e587dc4c",
+      "title": "【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社",
+      "link": "https://group.gmo/info/alert/2026102703/",
+      "summary": "2026年10月27日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報） （攻撃者による情報の公開に関し、弊社の認識と対策について） 2026年10月27日 13:55時点 GMOインターネットグループ株式会社 GMOインターネット株式会...",
+      "published": "2026-10-27T05:28:04Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "54c172fbcab7c886a110bdf09058073a",
+      "title": "【速報】閲覧しないよう注意と関係者",
+      "link": "https://www.47news.jp/15145072.html",
+      "summary": "GMOインターネットグループへの不正アクセス問題で、セキュリティー関係者は、攻撃者のものとみられるウェブサイトを閲覧しないよう注意を呼びかけた。個人情報を収集されたり、不正アクセスを受けたりする恐れがある。",
+      "published": "2026-10-27T05:25:16Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2608dfae24b61fee285d06600838584f",
+      "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
+      "link": "https://tech.newmo.me/entry/2026/10/27/100000",
+      "summary": "newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立て...",
+      "published": "2026-10-27T05:57:00Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "103ac5cdbb3f586c9daa8c7ca604315e",
+      "title": "GMO、ランサム被害にあった顧客に新しいPC提供へ 犯行グループは1人の顧客情報公開か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002624/",
+      "summary": "GMOインターネットグループは、「お名前.com デスクトップクラウド」への不正アクセスで、PCがランサムウェアの被害にあった顧客に同等性能の新しいPCを提供すると、10月27日正午までに発表した。 顧客から預かって既に解析を終えた端末からは、10月27日午前11時59時点で、ランサムウェアを含むマ...",
+      "published": "2026-10-27T05:11:36Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9290b9130f0b05b42c7109e7b8ca435",
+      "title": "Takumi Agent for Endpoint を提供開始 | Takumi byGMO",
+      "link": "https://shisho.dev/docs/ja/r/202610-takumi-agent-endpoint-ga/",
+      "summary": "Takumi Agent for Endpoint は、組織の Mac デバイスを Takumi Guard で保護するための製品です。各 Mac デバイスにインストールされる macOS 向けのエージェント Takumi Agent が、Mac デバイス上のすべてのパッケージのインストールを Ta...",
+      "published": "2026-10-27T07:25:23Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3162eb1b16ce8f347a821998da0fba80",
+      "title": "【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア",
+      "link": "https://www.idcf.jp/news/topics/20261027001",
+      "summary": "2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範...",
+      "published": "2026-10-27T07:55:13Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a541eb193632918e6ffdce9f6e5a2853",
+      "title": "NECのルータ「Aterm」、PHP脆弱性の影響なし 設定画面URLの「.php」は無関係",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002614/",
+      "summary": "NECのWi-Fiルータ・モバイルルータ「Aterm」の情報サイトは10月26日、22に公表されたPHPの脆弱性（CVE-2026-109618、CVE-2026-109619）について、Aterm製品・サービスは影響を受けないことを確認したと発表した。 Atermシリーズの一部機種では、設定画面「...",
+      "published": "2026-10-27T02:29:08Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "82c34dc15dabbc8b927951e5117941e9",
+      "title": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66125",
+      "summary": "アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。 アメリカのメディアは、対象が従業員全体の27％にあたる…",
+      "published": "2026-10-27T03:08:13Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1bb74b82fdef929787fdea26d0a4432",
+      "title": "パスキー設定済みのPSNアカウントに誰かがファミリーメンバーを勝手に追加、サポートに削除依頼をした話",
+      "link": "https://akiba-pc.watch.impress.co.jp/docs/news/news/2151333.html",
+      "summary": "",
+      "published": "2026-10-27T03:51:35Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf97e6bc5ea48d88d62fdb7f3ffff201",
+      "title": "WordPressからはてなCMSへの移行｜記事・画像・URLを引き継ぎ - はてなCMS｜ノーコードで誰でもカンタン！",
+      "link": "https://www.hatena.ne.jp/cms/wordpress-migration/",
+      "summary": "WordPressから はてなCMSへの移行 サイトの資産はそのままに、運用負担を軽くする。 記事も画像もURLも引き継いで、現場にとって使いやすく安心できるSaaS型CMSへ。 はてなCMSなら、移行は4ステップで進められます。",
+      "published": "2026-10-27T02:00:09Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "793de923d4418858c13fac4c869b09bf",
+      "title": "「若手はAI使うな」は“老害”なのか？ 新人教育で「AI禁止」した企業の1年後",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
+      "summary": "「新人にはAIを使ってほしくない。入社後は議事録作りやメール作成、スライド資料作りを通して仕事の文脈を理解するもの。最初からAIに頼って楽をしては身に付かない」──これは、記者が参加した集まりで、とある40代男性の会社員・Mさんがこぼした愚痴だ。Mさんは最近、若手・新入社員の育成を受け持っているが、...",
+      "published": "2026-10-27T03:48:57Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7fdfb3491ebd3a173e9f8ef3757baf8",
+      "title": "GMO デスクトップクラウドへのサイバー攻撃でハッカーが個人情報の公開開始を宣言-10月27日正午に個人名を掲げたページを新設|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/gmo_desktop_cloud_personal_data_publication_claim_20261027/",
+      "summary": "GMOインターネットが提供する「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者を名乗る者は2026年10月27日正午付の新声明で、取得したとする個人情報の公開を開始すると宣言しました。声明には「被害者 第1号」と題し、個人名を掲げたページへのリンクが追加されています。さらに、分...",
+      "published": "2026-10-27T04:05:39Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1834a542fe1b074f1b51b84eddba910f",
+      "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に 7000人以上で実験",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏...",
+      "published": "2026-10-27T03:16:04Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1291c66fe6d8c4addca843d4921595d",
+      "title": "GMO ハッカー集団“会社交渉応じなかった”1人の個人情報公開 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261027de66048",
+      "summary": "GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、ハッカー集団は、会社側が交渉に応じなかったとしてインターネット上のサイトで27日正午過ぎ、個人情報…",
+      "published": "2026-10-26T23:10:21Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3b921b694584bfd227bbb8299b1ea65",
+      "title": "偽アプリにトークンを渡す脆弱性、Android版Microsoft Authenticatorに",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151376.html",
+      "summary": "",
+      "published": "2026-10-27T03:50:05Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7974a839cd2da3b39e532afd561646c",
+      "title": "ASUS製ノートPCがスリープ後に勝手に再起動する問題を3年越しで解決、原因はWi-Fiアダプター",
+      "link": "https://gigazine.net/news/20261027-asus-sleep-reboot-mediatek-wifi/",
+      "summary": "ソフトウェアエンジニアのイブラヒム・ディアロ氏は、ASUS製ノートPCをスリープさせると、いつの間にか再起動してしまう問題に3年間悩まされていました。ディアロ氏が、この不具合の原因と、設定を変更して解決するまでの経緯をブログにまとめています。 Why My Asus Laptop Kept Rebo...",
+      "published": "2026-10-27T04:17:08Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8137cad149a83237ce843b0c0002792f",
+      "title": "俺はSynologyのNASをやめるぞ！！ ジョジョーーッ！！｜死即小虫",
+      "link": "https://note.com/deathtobecomebug/n/n27884a51032f",
+      "summary": "NASの能力ジョジョ……NASってのは能力に限界があるなぁ……おれが短い人生で学んだことは……NASは設定を弄すれば弄するほど予期せぬ制限で策がくずれさるってことだ！……NASを超えるものにならねばな…… おれはNASを超越するッ！ジョジョ、普 通 の パ ソ コ ン でだァーッ！！ さて、私はSy...",
+      "published": "2025-10-08T03:25:22Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63ac1740217f0374d61ba67c5c37ffc2",
+      "title": "声やジェスチャーで動く27型4Kロボットモニター「CyboPal ONE」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151465.html",
+      "summary": "",
+      "published": "2026-10-27T05:15:39Z",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7466773113404b3d66e78cbc094cc839",
+      "title": "2026年7〜9月のクラスメソッドグループ社員による OSS コントリビュートについてご紹介します",
+      "link": "https://dev.classmethod.jp/articles/cm-group-oss-contributes-2026-7-9/",
+      "summary": "クラスメソッドグループ社員による2026年7〜9月のOSSコントリビューション実績を紹介します。NVIDIAのLLMルーターやPDFライブラリ、AWSエミュレータのFlociなど、8名から37件の報告が集まりました。",
+      "published": "Tue, 27 Oct 2026 09:13:52 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd1e324739d35a9d79f8bfa5163f0798",
+      "title": "【Mastra超入門】 Mastra Studio の Editor で、システムプロンプトを GUI から編集してみた",
+      "link": "https://dev.classmethod.jp/articles/mastra-studio-editor-system-prompt/",
+      "summary": "Mastraの入門として、GUIからエージェントのシステムプロンプトを編集する方法を試してみました。保存先による挙動の違いと、code方式で2回目以降の編集が反映されない理由について解説します。",
+      "published": "Tue, 27 Oct 2026 08:38:19 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "77eb819cb4f52909297adc4470151ecb",
+      "title": "【初心者向け】 Amazon GuardDuty をマネジメントコンソールから導入してみた",
+      "link": "https://dev.classmethod.jp/articles/guardduty-setup-console/",
+      "summary": "Amazon GuardDuty の導入手順を、有効化からサンプル検出結果の確認、S3 へのエクスポート、メール通知設定までマネジメントコンソールで実際にやってみました。AWS のセキュリティ対策を何から始めればよいか迷っている方はぜひご覧ください。",
+      "published": "Tue, 27 Oct 2026 07:50:12 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "80fe0c26a313fef32a59840157876a22",
+      "title": "AWS Lambda から Amazon RDS for PostgreSQL への接続が \"remaining connection slots are reserved\" で失敗します。同時実行と max_connections の見積もり方を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-rds-postgresql--lambda-max-connections-reserved-concurrency/",
+      "summary": "AWS Lambda から RDS for PostgreSQL への接続が拒否されるエラーについて、原因と対応方法を検証結果とともに紹介します。予約済み接続スロットと同時実行数の見積もり方、そして RDS Proxy の活用法を解説しています。",
+      "published": "Tue, 27 Oct 2026 07:00:11 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7ea624956d8573445c2e9b8f632fd5d",
+      "title": "「Snowflake Openflow Connector利用の勘所」というタイトルで、DevelopersIO 2026 Tokyoにて登壇しました。 #devio2026",
+      "link": "https://dev.classmethod.jp/articles/snowflake-openflow-connector-developersio-2026-tokyo/",
+      "summary": "Snowflake Openflow Connectorを導入する際にハマりやすいポイントと対処法をまとめました。ネットワーク構成やソースDB側の準備、運用時の落とし穴まで、実装の勘所を紹介します。",
+      "published": "Tue, 27 Oct 2026 06:34:52 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7af94fe0f06b7a18f40eceabcee41c03",
+      "title": "個人ブログを Lambda Web Functions + CloudFront に移行して、実際の料金を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/shuntaka-lambda-web-functions-blog-cost/",
+      "summary": "個人ブログをLambda Web Functions + CloudFront OACに移行し、料金と性能がどう変わったか実測データで比較します。見積もりより低かった理由、コールドスタートが9倍に増えた背景、関数ごとの料金内訳まで、詳しく解説します。",
+      "published": "Tue, 27 Oct 2026 06:24:05 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "86d928b139b86a2f3561f9f4381677fe",
+      "title": "Amazon Inspector の脆弱性データベース検索が「AccessDeniedException」エラーになったときの対処方法",
+      "link": "https://dev.classmethod.jp/articles/tsnote-inspector-vulnerability-database-search-accessdeniedexception/",
+      "summary": "AWS CLI で Inspector の脆弱性検索が AccessDeniedException で失敗する場合、IAM ポリシーの権限不足ではなく、Amazon Inspector がアクティブになっていない可能性があります。",
+      "published": "Tue, 27 Oct 2026 03:07:32 GMT",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6711c55dd46f4bd4c84ff002023cb322",
+      "title": "売ろうと思っていたModel:Cyclesに、カスタムファームを入れてみた",
+      "link": "https://1ikkai.com/2026/10/%e5%a3%b2%e3%82%8d%e3%81%86%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%a6%e3%81%84%e3%81%9fmodelcycles%e3%81%ab%e3%80%81%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%a0%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0%e3%82%92/",
+      "summary": "はじめに Elektron社の6トラックFMベース […]",
+      "published": "Tue, 27 Oct 2026 03:58:20 +0000",
+      "fetched_at": "2026-10-27T09:28:24.479887+00:00",
+      "feed_name": "いっかい/ikkai",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-27T03:06:13.934964+00:00"
+  "updated_at": "2026-10-27T09:28:24.479887+00:00"
 }

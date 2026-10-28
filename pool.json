@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "29d7187011a5f13af4673b98ec94cbf2",
-      "title": "実装より先に仕様を検査する SDD の実践 - newmo 技術ブログ",
-      "link": "https://tech.newmo.me/entry/2026/10/20/120000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 実装より先に仕様を検査する SDD の実践",
-      "published": "27 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-27T03:06:13.934964+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b1fa67838974c8b3081227c8bb0024d8",
       "title": "DGX Spark 2 台で DeepSeek V4 Flash 0731 を動かす：構築と Sonnet 5 との比較 - GMOインターネットグループ グループ研究開発本部",
       "link": "https://recruit.group.gmo/engineer/jisedai/blog/spark_deepseek_v4/",
@@ -269,7 +259,507 @@
       "fetched_at": "2026-10-28T00:50:36.792185+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "0c5e9fd1fc5d2ed1f557392c1f502dbc",
+      "title": "403",
+      "link": "https://engineering.mercari.com/blog/entry/20261016-7c6fdc173f/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Elasticsearch の Autoscaling を改善する: scale-out の高速化と HPA tolerance の調整",
+      "published": "28 Oct 2026 06:55 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e1bb73cde04025ef26636dcf6687e7d",
+      "title": "E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20261015a/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 E2Eテストを爆速にする: オンメモリPostgreSQLのpgmem",
+      "published": "28 Oct 2026 05:55 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b13a3b553d74d90655690654d9cbe49",
+      "title": "相次ぐWEBシステムからの情報漏洩事案について - セキュリティ研究センターブログ",
+      "link": "https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ",
+      "published": "28 Oct 2026 03:55 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "95e9ab09c1d4d9b1d8031f1693503932",
+      "title": "ループエンジニアリングの実践：Claude Code とカスタム lint を組み合わせた自己改善型コードレビューシステムの構築と検証 - GMOインターネットグループ グループ研究開発本部",
+      "link": "https://recruit.group.gmo/engineer/jisedai/blog/loop-engineering-custom-lint-review/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ループエンジニアリングの実践：Claude Code とカスタム lint を組み合わせた自己改善型コードレビューシステムの構築と検証 - GMOインターネットグループ グループ研究開発本部",
+      "published": "28 Oct 2026 02:55 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "99ed319cad4b40fabf7a22c9fdfd4fc6",
+      "title": "AI-DLCワークショップで感じた、PdMに大切なこと - エス・エム・エス エンジニア テックブログ",
+      "link": "https://tech.bm-sms.co.jp/entry/2026/10/20/130000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI-DLCワークショップで感じた、PdMに大切なこと",
+      "published": "28 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7fe08347b6be63e29a537447281d5313",
+      "title": "Git for the US Code",
+      "link": "https://lexifina.com/blog/git-for-the-us-code",
+      "summary": "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 205 # Comments: 105",
+      "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "32bd721b92a4c5d2a4011ad2dccffe54",
+      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+      "link": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "summary": "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 10...",
+      "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6a0f6898e5f3651b5077c4ffa9a971e",
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "summary": "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 146 # Comments: 7...",
+      "published": "Tue, 27 Oct 2026 20:48:49 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a2e50643e4fe51d347623f225d69d3b",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https...",
+      "published": "Tue, 27 Oct 2026 20:35:09 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e849df4272063e0354f96e82e75fa79b",
+      "title": "Four Months of Zig",
+      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "summary": "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 110 # Commen...",
+      "published": "Tue, 27 Oct 2026 20:13:27 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b7ebee1dea205c3803f4c06e1ed5d1d",
+      "title": "Kiro の新しい無料トライアルで 500 クレジットを追加提供",
+      "link": "https://aws.amazon.com/jp/blogs/news/kiros-new-free-trial-gives-you-500-extra-credits/",
+      "summary": "11 月 1 日から Kiro の無料トライアルが変わります。初めて Pro にアップグレードすると、その月の残りは無料になり、12 か月間使える 500 トライアルクレジットも付与されます。プラン料金とクレジットは秒単位で日割り計算されます。上位プランで開始した場合は、日割りの Pro 料金との差...",
+      "published": "Wed, 28 Oct 2026 06:20:37 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "2dcc6f0bfc375c59fb66a735707b2feb",
+      "title": "ドコモSMTBネット銀行が電話・チャット両チャネルで実践する Amazon Connect Customer AI agents による応対高度化",
+      "link": "https://aws.amazon.com/jp/blogs/news/docomo-smtb-net-bank-amazon-connect-customer-ai-agents/",
+      "summary": "コンタクトセンターへの生成 AI 導入は、すでに「試してみる」段階を越えつつあります。導入から数年が経ったコンタクトセンターでよく伺うのは、FAQ の回答精度が思ったほど伸びないという悩みです。窓口を増やすたびに開発が必要になる、利用量が増えたときのコストが読めない、といった二周目の課題もここに重な...",
+      "published": "Wed, 28 Oct 2026 03:14:59 +0000",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ad670e27ebbef767d1ff32658f80096",
+      "title": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+      "summary": "Amazon Elastic Container Service (Amazon ECS) now supports GPU sharing with NVIDIA Multi-Process Service (MPS), enabling you to run multiple Amazon EC...",
+      "published": "Tue, 27 Oct 2026 23:31:00 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f22c3ef79ca4d160e5c442e8ef7cd735",
+      "title": "Amazon Neptune now supports online index rebuild to reclaim storage",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/",
+      "summary": "Amazon Neptune Database now supports online index rebuild, a new capability that helps database administrators and application teams defragment Neptun...",
+      "published": "Tue, 27 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "78d090f33cf7075e3412c9fa385154a6",
+      "title": "トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a",
+      "summary": "",
+      "published": "2026-10-28T02:22:26Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ffcef11391f099c8af51d0c73aaa5f0",
+      "title": "支給PCのスペックがショボすぎて、新人が辞めた。",
+      "link": "https://anond.hatelabo.jp/20261028103922",
+      "summary": "メモリ価格の高騰で、PCの値段は昨年の倍になった。一方、うちの会社のPC調達規程は平成に制定されて以来、一度も改定されていない。 PCは1台10万円未満とする。 うちでは10万円以上になると固定資産として台帳に載り、稟議も社長決裁になる。その稟議を書きたい人がいないので、二十年間守られてきた。 今の...",
+      "published": "2026-10-28T01:39:36Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2484b186f1ff2caface1a98a0946754",
+      "title": "軽量・軽快なウェブ地図描画ライブラリが登場。「MachGL」は本体が90KB程度、東京都全域の3D都市モデルでも100MB未満【地図と位置情報】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/2151651.html",
+      "summary": "",
+      "published": "2026-10-27T22:49:05Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfa256b3dc1d2c2fe6e1d8c239ab2b8b",
+      "title": "ELF-MN1 | 空間再現ディスプレイ（Spatial Reality Display） | ソニー",
+      "link": "https://www.sony.jp/spatial-reality-display/products/ELF-MN1/",
+      "summary": "クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント一度サインアウトして、再度サインインしてください",
+      "published": "2026-10-28T01:56:24Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31f7ebae0fb4c6c77107c154f9ce504b",
+      "title": "生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20261028-476063/",
+      "summary": "先ごろ生成AIによって作られたと見られる『ファイアーエムブレム 万紫千紅』の非公式攻略本が乱造されていることが話題となった（関連記事）。一方で生成AIを利用したゲームの攻略情報のビジネス化の対象は攻略本にとどまらず、攻略Wikiにおいても問題視されている。 たとえば海外メディアEurogamerは、...",
+      "published": "2026-10-28T05:11:14Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "761bfb8e9287fad3fafea6db02bd2b36",
+      "title": "6インチで小型の空間再現ディスプレイ『ELF-MN1』を発売 | ニュースリリース | ソニー",
+      "link": "https://www.sony.jp/CorporateCruise/Press/202610/26-1028/",
+      "summary": "クーポン・お買い物券:coupon枚 ソニーポイント:pointポイント 一度サインアウトして、再度サインインしてください",
+      "published": "2026-10-28T02:54:30Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7b5865e1fa20d6df217f3755103cf4b",
+      "title": "現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI",
+      "link": "https://speakerdeck.com/stillpedant/thinking-systems",
+      "summary": "基盤モデルを中心に発展してきた「現代AI」を構成するトピックの中から、比較的新しく、かつ重要と思われる観点について「歴史・流れ・気持ち」を大事にしながら概観をします。 IBIS 2026 でのチュートリアルセッションでの発表資料を加筆修正した内容となります。 https://ibisml.org…",
+      "published": "2026-10-28T02:50:19Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fa9136f545d1ffefa22540150e0c181",
+      "title": "「7-Zip」はちょっと古臭いかな……という人のための圧縮・解凍ソフト「NanaZip」／Windows 11のマイカ効果、ダークモードなどに対応。独自の拡張・セキュリティ強化も【レビュー】",
+      "link": "https://forest.watch.impress.co.jp/docs/review/2151537.html",
+      "summary": "",
+      "published": "2026-10-28T00:33:17Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ec8713be6e80dc9f41a38b2f0c4bf41",
+      "title": "ソニー、6インチの小型“空間再現ディスプレイ”。PC/スマホとUSB-C接続でお手軽裸眼3D",
+      "link": "https://av.watch.impress.co.jp/docs/news/2151773.html",
+      "summary": "",
+      "published": "2026-10-28T03:51:49Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d1c95ae736e3a45c52f1fbe8b931843",
+      "title": "「AI」の呼称禁止を表明したトランプ大統領--「超知能：SI」への言い換えが隠すもの",
+      "link": "https://japan.cnet.com/article/35254081/",
+      "summary": "20世紀初頭の辞書をひもとくと、「computer」という語は算術計算を仕事とする人、つまり計算する人間を指していた。20世紀半ばには、その意味は電子計算機へと変わった。この意味の変化をもたらしたのは、上からの命令ではなく、労働と技術の変化だった。 いまや私たちは、大統領が英語を取り仕切る新世界に足...",
+      "published": "2026-10-28T03:38:42Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1e45dbedd35e89d3c33e09d47c8565b",
+      "title": "これを待ってた！ 「PhotoCraft」でAIによる生成塗りつぶし・オブジェクトの削除が使えるようになりました、しかも完全無料",
+      "link": "https://coliss.com/articles/build-websites/operation/work/free-local-ai-generative-fill-for-photocraft.html",
+      "summary": "Photoshopをオープンソースで再構築した「PhotoCraft」が早くも日本語フォントの縦書きに対応し、各ツールの使い勝手も向上したとお伝えしたのは先週ですが、あれからさらにバージョンアップを重ね、ついに生成AIも備わりました！ PhotoCraftで足りない機能として生成AI、特に生成塗りつ...",
+      "published": "2026-10-28T00:57:03Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "28de95a599ae21d1d521e4339218a0eb",
+      "title": "推しを机上に。ソニー、裸眼で立体視できる6型空間再現ディスプレイ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151770.html",
+      "summary": "",
+      "published": "2026-10-28T02:41:42Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1592c2e2baa27f03be7e0b82f987367f",
+      "title": "素のClaude CodeとTDDで初見のお題に挑む ― TDDBC仙台11thのセッションログを公開します - t-wadaのブログ",
+      "link": "https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610",
+      "summary": "このブログエントリは、初見のコーディング課題に対して私が素の Claude Code（Skill やプラグインは不使用）とテスト駆動開発で取り組んだ約4時間20分のセッションログを、ほぼ編集せずに整形して記事化したものです。実際に入力したプロンプトだけでなく、AIとの協業において人間がいつ何をどう判...",
+      "published": "2026-10-28T02:54:33Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "84a45da4b32b141972182a4d0ecbb34f",
+      "title": "GMO不正アクセスの犯人サイト、ドメイン停止を確認",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002659/",
+      "summary": "GMOインターネットは10月28日、同社サービスへの不正アクセスをめぐり、犯行声明などを掲載していたWebサイトのドメインが停止されたことを確認したと発表した。 同サイトには、GMOへの脅迫や、サービスの顧客情報と主張する情報などが掲載されていた。同社は、関係事業者などと連携して対応を進め、日本時間...",
+      "published": "2026-10-28T03:45:11Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25bb5682e97dd8be1634db423f0c99b7",
+      "title": "国内PC出荷は3分の2、単価は1.6倍。需要低迷は長期化か",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2151743.html",
+      "summary": "",
+      "published": "2026-10-28T01:51:08Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08efe5779d847bc80663342c977bbfc0",
+      "title": "富士フイルム、磁気テープ20年ぶり大型増産 AIデータ保存リスク低く - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC073490X01C26A0000000/",
+      "summary": "富士フイルムはデータ保存用の磁気テープの供給能力を5倍に高める。大規模な増産投資は約20年ぶり。人工知能（AI）データセンター向けの需要増に応える。AI特需が成熟技術にも波及し、日本企業に恩恵が広がる。100億円投じ供給能力5倍に富士フイルムは神奈川県小田原市の工場に2028年度までに計100億円を...",
+      "published": "2026-10-27T22:59:13Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41ce96f5b56e64d890b6193987cbfba1",
+      "title": "Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "link": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "summary": "Over the past few months, we’ve used an unreleased, internal research model to find critical vulnerabilities in some of the world’s most widely used s...",
+      "published": "2026-10-27T23:29:46Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac35b9c02a0c8236054f5c2a72f57e9a",
+      "title": "GMO、うそをついてハッカーに呆れられてしまう - Qiita",
+      "link": "https://qiita.com/Q11Q/items/73bd326df5069f07f0fe",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? GMOに関しては賃金の問題ではない かつも...",
+      "published": "2026-10-27T11:06:46Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e168c367acfc783226f934963fbb841",
+      "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に 委託先の勤怠システムに設定不備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
+      "summary": "すかいらーくホールディングス傘下で、うどんチェーン「資さんうどん」を運営する資さん（北九州市）は10月27日、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。原因はサーバの管理・運用を委託するカホエンタープライズ（福岡市）側の設定不備。対象は2021年10月～26年10...",
+      "published": "2026-10-28T06:49:30Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ef417e2bf1a261910786053a2d68206",
+      "title": "Flutter やめました。電話アプリを Native にした理由",
+      "link": "https://zenn.dev/ivry/articles/d155267331a3ca",
+      "summary": "はじめに こんにちは。株式会社IVRyで Engineering Managerをしています。tsutou です。 アイブリーのモバイルアプリのユースケースは、電話の転送を受けたり、着信を折り返して発信したりすることがメインです。 体験としては、アイブリーの対話型音声AIで、一次対応を自動化しながら...",
+      "published": "2026-10-28T03:01:42Z",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "760a419f6494b51b13507e88240648f2",
+      "title": "Aurora PostgreSQL の拡張機能のアップグレード方法について教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-aurora-postgresql-extension-upgrades/",
+      "summary": "PostgreSQL の拡張機能のアップグレード方法を紹介します。アップグレードパスの確認から実施までの手順を、実際の SQL コマンドを交えて解説していきます。",
+      "published": "Wed, 28 Oct 2026 07:00:17 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9552b221d68d92a8950c74d99e04403",
+      "title": "Claude Code の回答完了を macOS の通知で受け取り、クリックで作業中のウィンドウに戻れるようにしてみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-hooks-macos-notification/",
+      "summary": "Claude Code の作業完了を見落とさないように、フックと terminal-notifier を組み合わせて macOS 通知の仕組みを作ってみました。通知をクリックすればプロジェクトのウィンドウに戻れる工夫を紹介します。",
+      "published": "Wed, 28 Oct 2026 06:55:42 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d148d50219c18ffcf5e99effaee57a4e",
+      "title": "Amazon ECR の replication backfill で既存イメージを別リージョンへ複製してみた",
+      "link": "https://dev.classmethod.jp/articles/ecr-replication-backfill-existing-images/",
+      "summary": "Amazon ECR の replication backfill で、レプリケーションの設定前に push した既存イメージを東京からバージニア北部へ複製しました。backfill を実行すると、送信元と同じダイジェストのイメージが送信先に揃いました。",
+      "published": "Wed, 28 Oct 2026 05:50:38 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "18ee63832d3fee7dafd0d3f0fd954578",
+      "title": "ダウンロードフォルダに置かれた AGENTS.md（CLAUDE.md）で Claude Code が乗っ取られる攻撃手法を、設定とフックで防ぐ方法",
+      "link": "https://dev.classmethod.jp/articles/claude-code-downloads-agents-md-guard/",
+      "summary": "AI コーディングエージェントが `AGENTS.md` で乗っ取られる手口が話題になりました。この記事では、Claude Code の設定とブラウザの設定でこの攻撃を防ぐ方法を、実際に試しながら紹介します。個人でできる対策から Team プランでの組織一括配置、起きた後の追跡方法まで、段階的に解説...",
+      "published": "Wed, 28 Oct 2026 05:39:25 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c93ae433f06a47ec8d78e8e6ee6033b6",
+      "title": "Lambda の再帰ループ検出が EventBridge の新しい Custom Event Bus に対応したので試してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-recursive-loop-detection-eventbridge-custom-bus/",
+      "summary": "Lambda の再帰ループ検出が EventBridge の Custom Event Bus に対応しました。実際にループを作って試したところ、新しい Custom Event Bus では止まりましたが、従来の Classic とデフォルトイベントバスでは止まりませんでした。",
+      "published": "Wed, 28 Oct 2026 05:11:58 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d69f0810a1e740a2dcf21a27e167c8c",
+      "title": "Claude Code や Codex を使った開発において AI のための仕組みを再発明しないようにしている話",
+      "link": "https://dev.classmethod.jp/articles/ai-coding-agent-no-reinvention/",
+      "summary": "AI を使った開発において、これまで多くの失敗を経験し、そのたび対処してきました。今回はその中で感じてきたことについてまとめました。結論としては、エンジニアが昔から続けてきた手法をまず検討するのがよいと考えています。あわせて、論文や先行事例のやり方と比べた違いも紹介します。",
+      "published": "Wed, 28 Oct 2026 03:30:28 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "35b4d4f3f26ef263bf981e2ffc4ab0b5",
+      "title": "Azure SRE Agent に障害調査から GitHub の修正 PR 作成まで任せてみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-tried-entrusting-azure-sre-agent-from-incident-investigation-to-github-fix-pr-creation/",
+      "summary": "Azure SRE Agent がアラート検知から修正 PR 作成まで自動化する流れを、実際に動かして検証してみました。",
+      "published": "Wed, 28 Oct 2026 03:22:59 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "58c3c050cfee150db7f9db7755c6f412",
+      "title": "Aurora serverless（PostgreSQL）の最大容量が 384 ACU になったので確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-serverless-max-capacity-384-acu/",
+      "summary": "Aurora serverless のメモリ上限が、db.r8g.24xlarge と同じ 768 GiB まで広がりました。Aurora PostgreSQL の最大 ACU が 256 から 384 になったためです。東京リージョンの PostgreSQL 18.6 では、既存クラスターの変更だ...",
+      "published": "Wed, 28 Oct 2026 03:02:21 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef91df0009c524c1176731cf5bd96198",
+      "title": "事業会社に20年いた私がクラスメソッドでの受託開発をたのしめている理由",
+      "link": "https://dev.classmethod.jp/articles/why-i-enjoy-client-work-at-classmethod/",
+      "summary": "事業会社から受託開発企業への転職で、私のキャリアはどう変わったのか。5年以上クラスメソッドで過ごした今、改めてその経験と成長を振り返ってみます。",
+      "published": "Wed, 28 Oct 2026 02:11:21 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b65780776a50c5369c75abd7c5e0bf4f",
+      "title": "【RDS for PostgreSQL】idle_in_transaction_session_timeout で切断されたとき、未コミットの INSERT がどうなるか確認してみた",
+      "link": "https://dev.classmethod.jp/articles/rds-postgresql-idle-in-transaction-session-timeout-rollback/",
+      "summary": "RDS for PostgreSQL で idle_in_transaction_session_timeout を設定し、トランザクション中に放置した接続が切断されたとき、未コミットの INSERT がどうなるかを psql で確認してみました。",
+      "published": "Wed, 28 Oct 2026 01:48:17 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1d0407233bcf64986928c76c99f3fb1",
+      "title": "KMS が ML-KEM 鍵をサポートしたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/kms-ml-kem-key-support/",
+      "summary": "AWS KMS の ML-KEM 鍵を、ECDH 鍵の置き換えとして試しました。入れ替わるのは共有秘密を作る部分だけで、HKDF と AES-256-GCM はそのまま使え、どちらも元の平文に復号できました。送信側の鍵共有は OpenSSL だけで完結します。",
+      "published": "Wed, 28 Oct 2026 01:29:56 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb325ef76884df5092c69398519118ad",
+      "title": "WAF Automatorの管理画面から設定できるルールをまとめてみた",
+      "link": "https://dev.classmethod.jp/articles/waf-automator-console-settings/",
+      "summary": "WAF Automatorの管理画面から設定できる項目について、Web ACL詳細画面の「検知」「ネットワークアクセス」「URLアクセス」「トラフィック」の設定項目を一覧で整理し、各機能の概要と設定内容をご紹介します。",
+      "published": "Wed, 28 Oct 2026 01:21:17 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "17a126f1da71cc2ccd86df1d3a68b7b8",
+      "title": "public previewのPostgreSQL互換TiDB Cloud Starterを触ってみた",
+      "link": "https://dev.classmethod.jp/articles/tidb-cloud-starter-postgresql-trial/",
+      "summary": "public previewのPostgreSQL互換のTiDB Cloud Starterについて、MySQL版との違いをコンソール画面とpsqlで確認してみました。",
+      "published": "Wed, 28 Oct 2026 01:16:16 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc4cb9ffbb0898645ac5b0716f9c6a3f",
+      "title": "RDSのCPUUtilization・DBLoad・DBLoadCPUの違いを負荷をかけて比べてみた",
+      "link": "https://dev.classmethod.jp/articles/rds-metrics-comparison/",
+      "summary": "RDSの負荷を表す3つのメトリクス「CPUUtilization」「DBLoad」「DBLoadCPU」の違いを、実際にCPU負荷とロック待ちを発生させて比較検証してみました。各メトリクスが何を示すのか、どう使い分けるべきかを図表とともに詳しく解説します。",
+      "published": "Wed, 28 Oct 2026 00:56:23 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0003bd5ff22fa40e67903fd02384f2ca",
+      "title": "Amazon EC2 Auto Scaling の新機能 Launch Before Terminate（終了前に起動）を試してみた",
+      "link": "https://dev.classmethod.jp/articles/asg-launch-before-terminate-account-setting/",
+      "summary": "Amazon EC2 Auto Scaling の Launch Before Terminate をアカウント単位で有効にし、リフレッシュ中の台数を確認しました。指定なしのリフレッシュでは、新しいインスタンスが healthy になってから旧インスタンスが終了し、healthy ターゲットは4台を...",
+      "published": "Wed, 28 Oct 2026 00:50:10 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a2d83258571832c955cc51695ba8eb29",
+      "title": "iOSアプリ開発の気になる変更まとめ（2026/10/28）：eMudhraの認証局侵害、iOS 27.2リリースほか",
+      "link": "https://dev.classmethod.jp/articles/ios-dev-weekly-changes-20261028/",
+      "summary": "認証局eMudhraの侵害へのAppleの対応と、必要になったFirebase SDK・Flutter・Homebrewの更新、iOS 27.2の正式リリース、各OSのセキュリティアップデートを整理した。iPhone Duoの発売やXcode 27.2 RCにも触れた。",
+      "published": "Wed, 28 Oct 2026 00:49:23 GMT",
+      "fetched_at": "2026-10-28T07:45:58.125804+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-28T00:50:36.792185+00:00"
+  "updated_at": "2026-10-28T07:45:58.125804+00:00"
 }

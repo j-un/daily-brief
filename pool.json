@@ -1629,7 +1629,187 @@
       "fetched_at": "2026-10-29T20:45:34.928025+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "dffa6111b0b1771a1dfec8613067d9bd",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points:...",
+      "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48f16dfba543da3dacf8d38d0f3e1a8c",
+      "title": "Amazon Aurora now supports post-quantum TLS key exchange",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/",
+      "summary": "Starting today, Amazon Aurora PostgreSQL-Compatible Edition introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you with post-qua...",
+      "published": "Thu, 29 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "da87ad886c261927c8cc9e8e87e51137",
+      "title": "Amazon MSK Connect now supports updating connector plugins and worker configurations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations",
+      "summary": "Amazon MSK Connect (Amazon Managed Streaming for Apache Kafka Connect) now lets you update the custom plugin and worker configuration of an existing c...",
+      "published": "Thu, 29 Oct 2026 15:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ef4fefcec81a7575974998a75db573e",
+      "title": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/",
+      "summary": "AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server and Amazon FSx for NetApp ONTAP as source or destination locations. You can...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "169d73d4d68fac9a0b1271014bc0dfcf",
+      "title": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/",
+      "summary": "Amazon Managed Grafana now supports in-place upgrade from Grafana version 12.4 to 13.2. Upgrading to version 13.2 brings features launched as part of ...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "67d1b64ed0ebb88e75da9fcd6ca6fbaa",
+      "title": "Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/",
+      "summary": "Today, Amazon SageMaker AI announces support for Seekable OCI (SOCI)-indexed container images for training and processing jobs, so your jobs start run...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf5936f543e99c001a400cc04eb31def",
+      "title": "AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/",
+      "summary": "AWS Backup now supports cross-account management, cross-account backup, and delegated administrators in the AWS European Sovereign Cloud (Germany) Reg...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e830c0fcd51ab5e7384a82a4de955dc9",
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "summary": "AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written wit...",
+      "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "12b9bd4bdce15873e74e501496cbc461",
+      "title": "1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20261029-476529/",
+      "summary": "1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 Cygamesは10月29日、『神撃のバハムート』にて10月21日より実施していた緊急メンテナンスを終了した。同メンテナンスは、プログラミング言語「PHP...",
+      "published": "2026-10-29T13:06:34Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "241d17e3eb5d09f38a080e8332736dd5",
+      "title": "必要最低限の自分専用アプリをAIで作る",
+      "link": "https://iwashi.co/2026/10/29/build-my-app",
+      "summary": "最低限の機能を備えた自分専用のアプリを作ればいい、と考えることが最近増えてきた。 Webサービスにしたいわけではない。昨今の事情を考えると、IFは極力Publicに公開したくない。なので、クラウドにデプロイする必要すらない、自分のローカル環境で静かに動けば十分なレベルのアプリだ。どうしても残したいス...",
+      "published": "2026-10-29T04:20:23Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2f8fad7a3f797cb5c930f79984b8035",
+      "title": "GMO犯人捜索マップ",
+      "link": "https://satoru.net/hacker/gmo/261029-map.html",
+      "summary": "地図に戻る IP の一覧 解除 「履歴 ›」を押すと、その IP のアクセス履歴が見られる。 符号場所回線回数開いた時間・ページ 元データ：犯人サイトに仕込まれたトラッカーが記録していた、サイトを開いた人のログ（10/22 22:55〜10/23 18:53、日本時間）。犯人サイトが公開されていた全...",
+      "published": "2026-10-29T22:46:10Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e66e6570e9d6fe07a6d704608369cc08",
+      "title": "デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/10/30/070000",
+      "summary": "こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し...",
+      "published": "2026-10-29T22:25:22Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab3328c1238cefb8fe0868e8c16f38c6",
+      "title": "単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog",
+      "link": "https://www.yasuhisay.info/entry/2026/10/29/093840",
+      "summary": "背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチー...",
+      "published": "2026-10-29T00:52:08Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "621afd9cac9f7c5dd2b824c43f672696",
+      "title": "GitHub - shibukawa/bdf: BDF is a browser document-preview suite: it combines converters for many formats (Go/WASM), a browser renderer of about 23 KB gzipped, and a compact intermediate format.",
+      "link": "https://github.com/shibukawa/bdf",
+      "summary": "English | 日本語 BDF (Browser-specific Document Format) is a document format for previews that browsers can draw straight onto Canvas 2D. Its stable wire...",
+      "published": "2026-10-29T02:25:45Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c560fd9c4bf67a630a13da370da324dc",
+      "title": "無料でマークダウン形式から印刷品質のPDFファイルを日本語組版で作成できる「pfpdf」",
+      "link": "https://gigazine.net/news/20261029-pfpdf/",
+      "summary": "日本語自動翻訳の「PLaMo翻訳」で知られるPreferred Networkが、Markdown から日本語のPDF文書を生成するCLIツール「pfpdf」をオープンソースとして公開しました。pfpdfを使うことで、「文書の中身をMarkdownとGitで管理し、配布用のPDFはコマンド一つで作り...",
+      "published": "2026-10-29T04:47:11Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d24ca81ca8551adebf13a46f4f1e2f2",
+      "title": "KDDI松田社長「堺をAI実装の発進基地に」 フィジカルAIの新会社設立で300億円投資へ",
+      "link": "https://www.itmedia.co.jp/business/articles/2610/29/news021.html",
+      "summary": "フィジカルAIの新会社設立、300億円投資 KDDIは10月1日、フィジカルAI事業を担う新会社「ELYZA Robotics」（東京都文京区）を設立した。 フィジカルAIとは、現実世界の状況を認識し、ロボットなどを通じて実際に動作するAIのことだ。製造や物流などの現場で、人の作業を支援・自動化する...",
+      "published": "2026-10-28T21:32:35Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "808baf82ee4817c913fd3f22d2be1902",
+      "title": "楽天カード、本人認証をワンタイムパスワードに統一 27年2月から順次",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+      "summary": "楽天カードは10月29日、オンライン決済時の本人認証サービス「3Dセキュア」で、ユーザー自身が設定したパスワードを使った認証を2027年2月から順次廃止すると発表した。不正利用の防止が目的で、ワンタイムパスワード方式に統一する。現在、固定パスワード方式を利用している会員には、27年1月31日までに切...",
+      "published": "2026-10-29T10:03:04Z",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06035a1bb59a60149c5fcd59732e3a45",
+      "title": "XEN FX LAB: sequel to Zen Delay adds tweakable spring tank, dub mode",
+      "link": "https://cdm.link/xen-fx-lab/",
+      "summary": "XEN FX LAB is a follow-up to a software hit (and hardware, before that), adding a modeled spring reverb, strike for \"knocking\" the virtual tank, and a...",
+      "published": "Thu, 29 Oct 2026 21:32:54 +0000",
+      "fetched_at": "2026-10-29T23:44:29.544314+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-29T20:45:34.928025+00:00"
+  "updated_at": "2026-10-29T23:44:29.544314+00:00"
 }

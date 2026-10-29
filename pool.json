@@ -1,4 +1,265 @@
 {
-  "articles": [],
-  "updated_at": "2026-10-28T22:46:46.620379+00:00"
+  "articles": [
+    {
+      "entry_id": "072b93503f8acb96619428379bf0ac1f",
+      "title": "Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | AWS News Blog",
+      "link": "https://aws.amazon.com/jp/blogs/aws/introducing-amazon-ecs-gateway-a-fully-managed-ingress-solution-for-ecs-services/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing Amazon ECS Gateway: A fully-managed ingress solution for ECS services | Amazon Web Services",
+      "published": "28 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c907ba4be911e5b5bab5bd6556b1bba",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "link": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 1...",
+      "published": "Wed, 28 Oct 2026 21:19:30 +0000",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a2fcc5f3d88c376d38561042d54a373",
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "Article URL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary Comments URL: https://news.ycombinator.com/item?id=50275128 Points: 115 # ...",
+      "published": "Wed, 28 Oct 2026 15:17:53 +0000",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aad2333b6e128a75e903da896bf94caf",
+      "title": "Amazon CloudFront と AWS WAF によりエッジで MCP エンドポイントを保護する",
+      "link": "https://aws.amazon.com/jp/blogs/news/protect-mcp-endpoints-at-the-edge-with-amazon-cloudfront-and-aws-waf/",
+      "summary": "MCP は、 AI エージェントがツールやデータとやり取りするための標準的な方法として急速に普及しました。もともと MCP は、長時間のセッション、永続的な接続、クライアントとサーバーインスタンスの紐付けを前提としたステートフルなプロトコルでした。 2026 年 7 月 28 日の改定では、 MCP...",
+      "published": "Thu, 29 Oct 2026 00:49:07 +0000",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6839cf4893f116d8caefc4adc5b284b9",
+      "title": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/",
+      "summary": "AWS announces the general availability of Amazon Bedrock AgentCore CLI version 1.0 (@aws/agentcore 1.0.0), rebuilt with faster startup, a consistent c...",
+      "published": "Wed, 28 Oct 2026 20:00:00 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f177160eb26b5423965182b63552c4e7",
+      "title": "Announcing the AWS Marketplace and Amazon Business unified storefront",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront/",
+      "summary": "Today, AWS Marketplace and Amazon Business announced the unified storefront. Organizations can now give their teams one curated catalog that puts soft...",
+      "published": "Wed, 28 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8a7e8c712bc2e923b51137f366cd4d4",
+      "title": "SageMaker MLflow Apps now support MLflow 3.16",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/",
+      "summary": "Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative AI...",
+      "published": "Tue, 27 Oct 2026 20:40:00 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6549abf15755f4440fde02de5d1a3a49",
+      "title": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/",
+      "summary": "AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integrat...",
+      "published": "Fri, 23 Oct 2026 15:43:00 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aeb80506973f3715b1cf864e0aea019b",
+      "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release...",
+      "published": "Mon, 19 Oct 2026 07:30:00 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a590fd19e2e6ea24f6358e9a5ddf52ca",
+      "title": "Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/",
+      "summary": "米Appleは10月28日（現地時間）、Macとして初めてタッチ操作に対応した新型「MacBook Pro」を発表した。新開発の「PROLED XDRディスプレイ」を搭載し、14インチと16インチの2モデルを用意する。日本では29日から予約を受け付け、11月6日に発売する。価格は14インチモデルが4...",
+      "published": "2026-10-28T22:02:19Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3867f3904f7f7c6ca9103181b02ead1",
+      "title": "もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け",
+      "link": "https://japan.cnet.com/article/35254062/",
+      "summary": "情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイ...",
+      "published": "2026-10-28T03:14:20Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "47a83a0acf899df7b8e94d0a97705b63",
+      "title": "いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと",
+      "link": "https://zenn.dev/nayuta/articles/aec9ab2e11a7b7",
+      "summary": "2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人は...",
+      "published": "2026-10-28T13:54:02Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "865e3c19e31d6e342112ba17d94bea59",
+      "title": "Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/clairic",
+      "summary": "Cloudflare⁠⁠、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額⁠⁠・日付などを抽出⁠⁠、JSON形式で出力 Cloudflareは2026年10月19日、文章や画像などの非構造化データから値を抽出するAIモデル「Clairic」のプレビュー提供を発表した。入力中の情報...",
+      "published": "2026-10-21T03:28:41Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4bf69c3580ca2ac05f999592ec2383de",
+      "title": "Windows XPは25周年。あの丘、もう跡形もなかった | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/windows-xp-bliss-hill-today/",
+      "summary": "2001年10月25日に発売されたWindows XPが、25周年を迎えました。 XPといえば、青空と緑の丘の壁紙「Bliss（ブリス）」。電源を入れるたびに、あの景色が出迎えてくれたものです。 image: Robert / YouTubeあの丘は、アメリカ・カリフォルニア州のソノマ郡に実在します...",
+      "published": "2026-10-28T05:48:20Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcf046bb98435b287a9980429694dd92",
+      "title": "Webセキュリティ被害を減らす4つの対策【漫画】 | Web担当者Forum",
+      "link": "https://webtan.impress.co.jp/e/2026/09/04/53119",
+      "summary": "「LINE公式アカウント」の追加メッセージ料金を10月改定、20万通超は1通2.5円に 9月2日 7:03",
+      "published": "2026-09-04T09:16:55Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b12aa238d8e7655371b5ecff0187bbc3",
+      "title": "無料で災害や非常時にオフラインで動作できるサバイバル知識満載のAIアシスタント「Survival LLM」、停電時の食料の安全な保管方法・火傷の手当て方法・水の浄化方法などを信頼できる情報源から回答し出典も表示可能",
+      "link": "https://gigazine.net/news/20261029-survival-llm/",
+      "summary": "「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処置など、緊急時に必要となる信頼できる情報にアクセスできます。...",
+      "published": "2026-10-28T22:09:37Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c647297db297b987cf4812e3d934ff94",
+      "title": "GitHub - pfnet-research/pfpdf: PDF typesetting tool for Markdown files",
+      "link": "https://github.com/pfnet-research/pfpdf",
+      "summary": "A command-line tool that turns Markdown documents into print-quality PDFs with first-class support for Japanese typesetting. It supports GitHub Flavor...",
+      "published": "2026-10-28T15:06:43Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b866d7d60877ae7eea5a1338bc2735bf",
+      "title": "Chizu 🧀: リンクをルールに応じてブラウザとプロファイルへ振り分けるmacOSアプリ",
+      "link": "https://efcl.info/2026/10/28/chizu/",
+      "summary": "macOSの既定のブラウザとして登録しておき、開いたリンクを設定ファイルのルールに応じて、指定したブラウザとプロファイルへ振り分けるアプリ Chizu 🧀 を作りました。 GitHub: azu/chizu Chizuには、ブラウザを選ぶ画面や設定画面はありません。 振り分けのルールは~/.conf...",
+      "published": "2026-10-28T12:59:04Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3f8aa64fad602a66673ad4d2d4f1d336",
+      "title": "JALの予約システムに不正アクセス 約9万人分の予約情報が漏えい 一部ではパスポート番号も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002687/",
+      "summary": "日本航空（JAL）と日本トランスオーシャン航空（JTA）は10月28日、予約や搭乗手続きなどを管理するシステムの提供元が不正アクセスを受け、利用者約9万2000人の予約情報が外部から閲覧された形跡があったと発表した。一部にはパスポート番号や電話番号なども含まれる。運航への影響はないという。 外部から...",
+      "published": "2026-10-28T12:23:50Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f59627dac0533df63dd4ec336b70d5f8",
+      "title": "Emacs Turns 50 | Hacker News",
+      "link": "https://news.ycombinator.com/item?id=50273171",
+      "summary": "I have been using Emacs for more than 30 years now. Other editors have come and gone, Emacs stayed. Parts of my configuration are more than 30 years o...",
+      "published": "2026-10-28T15:37:22Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7789dfbd2dfe3b40aad6a7e421b01318",
+      "title": "VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】",
+      "link": "https://internet.watch.impress.co.jp/docs/event/2151590.html",
+      "summary": "",
+      "published": "2026-10-28T22:58:45Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc453af238726e415189594d718992ba",
+      "title": "【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152066.html",
+      "summary": "",
+      "published": "2026-10-28T23:01:41Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3553201467f07690cb2f481bfc55bbd",
+      "title": "決算:Microsoft、7〜9月32%増益 AI向けクラウド事業が5割増収 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米マイクロソフトが28日発表した2026年7〜9月期決算は売上高が前年同期比19%増の922億7900万ドル（約14兆6000億円）、純利益が32%増の366億ドルだった。人工知能（AI）向けのクラウド事業が約5割の増収となり、成長が加速した。売上高と純利益は市場予想を...",
+      "published": "2026-10-28T22:44:29Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3813a64740658efb6a3ae880154b6256",
+      "title": "Apple、PROLED XDRディスプレイを搭載した画期的なMacBook Proを発表",
+      "link": "https://www.apple.com/jp/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "summary": "Apple、PROLED XDRディスプレイを搭載し、Macで初めてタッチ操作に対応した画期的なMacBook Proを発表 世界最高のプロ向けノートブックが、業界をリードするタンデムOLEDディスプレイや、直感的なタッチ操作の体験、超高速なM5 ProとM5 MaxのパフォーマンスとAI機能、最大...",
+      "published": "2026-10-28T17:24:40Z",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5c5c8b3e591833427c6dead6a866678",
+      "title": "Claude Code v2.1.312 の主要アップデート - 推論プロファイル ARN などで短いシステムプロンプトを使用",
+      "link": "https://dev.classmethod.jp/articles/20261028-cc-updates-v2-1-312/",
+      "summary": "Claude Code v2.1.312がリリースされました。モデル名の認識、システムプロンプト、OpenTelemetryなどの重要な変更を含む39件のアップデートについて、注目ポイントと影響範囲を詳しく解説します。",
+      "published": "Thu, 29 Oct 2026 01:03:54 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "481620956cbc37a237794f9c08ef0830",
+      "title": "DevOps AgentにセルフホストのGrafanaを連携して、Loki / Tempo / AMPのどこまで読めるか確認してみた",
+      "link": "https://dev.classmethod.jp/articles/devops-agent-selfhosted-grafana-loki-tempo-amp/",
+      "summary": "ECS FargateでセルフホストしたGrafana（Loki / Tempo / AMP）をAWS DevOps Agentに連携して、どこまで読めるかを確認してみました。",
+      "published": "Thu, 29 Oct 2026 00:20:38 GMT",
+      "fetched_at": "2026-10-29T01:26:48.016222+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-10-29T01:26:48.016222+00:00"
 }

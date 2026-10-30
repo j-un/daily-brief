@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "017edac71ad0124d6abf4cf4d46bd9d8",
-      "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
-      "link": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
-      "published": "29 Oct 2026 10:55 +0000",
-      "fetched_at": "2026-10-29T14:50:18.067595+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "fe59c3a558b3059651dbeb12029fbd23",
       "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside",
       "link": "https://inside.pixiv.blog/2026/10/22/193321",
@@ -1239,7 +1229,417 @@
       "fetched_at": "2026-10-30T14:43:40.087516+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "0e4d46d15a5057847781983ba1329de2",
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 110 # Comments: 4...",
+      "published": "Fri, 30 Oct 2026 17:57:35 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d746e16e93f4d39294b93c37f122334d",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "summary": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 150 #...",
+      "published": "Fri, 30 Oct 2026 17:27:25 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ac2ceac13b03610702b590d940d457d",
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 ...",
+      "published": "Fri, 30 Oct 2026 17:25:15 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b22ed3570ed0eff99f4968d063aa5fc9",
+      "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+      "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+      "summary": "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 214 # C...",
+      "published": "Fri, 30 Oct 2026 17:24:45 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2affa81707c44d5389a2f319dd8bef2d",
+      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+      "link": "https://github.com/dbreunig/nesformer",
+      "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 120 # Comments: 91",
+      "published": "Fri, 30 Oct 2026 16:40:22 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4877b7ec4c095a35debe80f8a01151c1",
+      "title": "US tech stocks see sharp falls over AI cost fears",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 207 # Comments: 226",
+      "published": "Fri, 30 Oct 2026 16:13:02 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb369b2281c045746500a1f253129031",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: ...",
+      "published": "Fri, 30 Oct 2026 15:52:18 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2217cc19b6775cdae9ca3688d4dd22d",
+      "title": "Florilegium: Procedural Flowers in LaTeX",
+      "link": "https://github.com/kevinraymond/florilegium",
+      "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 133 # Comments: 22",
+      "published": "Fri, 30 Oct 2026 15:48:12 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "443d56e727047ad4cc1dfa201bfb0157",
+      "title": "The federated code forge",
+      "link": "https://tangled.org/blog/forge/",
+      "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 151 # Comments: 53",
+      "published": "Fri, 30 Oct 2026 15:44:29 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d7d50a046ad6f84ab506d22d2f4f4387",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "summary": "Article URL: https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance Comments URL: https://n...",
+      "published": "Fri, 30 Oct 2026 15:39:05 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f611b26eaec41192c078168067977eb6",
+      "title": "ICE wants its mask back, and hired a company to ask",
+      "link": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+      "summary": "Article URL: https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Fri, 30 Oct 2026 15:26:58 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf1c8e54dd8758a3f4a81b9085a59eaa",
+      "title": "Northflank Breached",
+      "link": "https://status.northflank.com",
+      "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 248 # Comments: 161",
+      "published": "Fri, 30 Oct 2026 15:10:31 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1293db3ca6b35ba6142bc827611e2fe",
+      "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+      "link": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+      "summary": "Article URL: https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no Comments URL: https://news.ycombinator.com/item?id=50304419 Points: 24...",
+      "published": "Fri, 30 Oct 2026 14:27:44 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b58246047dd0bfe8feb5aae8eff04f9",
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.c...",
+      "published": "Fri, 30 Oct 2026 12:50:01 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a6cba48d3a05b95d9df11529bf4ec3c",
+      "title": "Web Search now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/",
+      "summary": "Kiro web search gives the agent real-time access to current information on the internet, so its answers draw on up-to-date search results and page con...",
+      "published": "Fri, 30 Oct 2026 19:40:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca841c02a4225d1f801bf7019d177276",
+      "title": "Amazon Connect Customer automatically saves in-progress emails as drafts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/",
+      "summary": "Amazon Connect Customer automatically saves in-progress emails as drafts, helping agents resume work without losing progress when connectivity is inte...",
+      "published": "Fri, 30 Oct 2026 19:30:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "109c6873b7a331d4b946162a2cb8de18",
+      "title": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/",
+      "summary": "Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible c...",
+      "published": "Fri, 30 Oct 2026 18:20:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c3ab41b75ed346d24d46227e05b743a",
+      "title": "Amazon MSK now supports TLS 1.3 for data in transit",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/",
+      "summary": "Amazon MSK now supports version 1.3 of Transport Layer Security (TLS) protocol for MSK Provisioned clusters through encryption policies. TLS 1.3 deliv...",
+      "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "401a756d4c3b82c8576e456dfd082b1a",
+      "title": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now lets you turn off automatic minor version upgrades on new and existing DB instances tha...",
+      "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6f266272b308c39f71afec2870fe142",
+      "title": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/",
+      "summary": "AWS WAF announces automatic SDK integration for Amazon CloudFront distributions. When you enable it, CloudFront adds the script tag for the AWS WAF Ja...",
+      "published": "Fri, 30 Oct 2026 15:57:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b1393157d8116f71bd91394babef98f1",
+      "title": "AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West (N. California) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/",
+      "summary": "AWS Glue Data Catalog now supports automatic table optimization for Apache Iceberg tables in the US West (N. California) Region. Apache Iceberg is an ...",
+      "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e58a344baba15be830ed257968e2a3b0",
+      "title": "文章のAIっぽさを抑えるプロンプト",
+      "link": "https://imoz.jp/scraps/202610_humanizer.html",
+      "summary": "文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指...",
+      "published": "2026-10-30T14:00:14Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7756fdc46d94fb5fd2d12dd58645c405",
+      "title": "エンジニアはAI失業すると思う？",
+      "link": "https://anond.hatelabo.jp/20261030171043",
+      "summary": "安野さんがAI失業について政府に提言を出すなど、本格的に動き出して怖い。自分は27卒で大手SIerにエンジニアとして内定をもらったんだけど、今後食いっぱぐれるのではないのかと不安。多分SIerは無くならないと思ってるけど、そこで働く従業員は要らなくなってしまうのでは。 面接でこの話をした際は内定をも...",
+      "published": "2026-10-30T08:24:40Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9269513036bc4acd37853be8fcf800f6",
+      "title": "GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々",
+      "link": "https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html",
+      "summary": "tl;dr: 利用者側は使わない理由はない カスタムアクションやreusable workflow提供者側に関する仕様はまだ議論中のものもあるため、現状を理解した上で提供方法をアップデートしていくと良い GitHub Actions workflow lockfiles がGA 🎉 全人類待望のGi...",
+      "published": "2026-10-30T14:30:01Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f09ceb41a5b5cebb01e42d8d93e19ed6",
+      "title": "放置してても勝手に育つ!! たった半畳の家庭菜園でお手軽に30玉以上のタマネギを育てる方法【はんじょう農場その3】【空いた時間でなにしてる？】",
+      "link": "https://internet.watch.impress.co.jp/docs/column/hobbytime/2152695.html",
+      "summary": "",
+      "published": "2026-10-30T07:40:59Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e58642a94bbadda3c057bf7fc8379a81",
+      "title": "bliki: LLM Voice",
+      "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the ...",
+      "published": "2026-10-29T23:49:21Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b5d05e9d6dd40cd84a614e915a92883",
+      "title": "AIに物理キーボードを渡して、BIOS操作からPCのトラブル対応まで丸投げしてみた——M5Stack Tab5のカメラとUSBだけで",
+      "link": "https://zenn.dev/sodeyama/articles/tech-tab5-camera-usb-pc-diagnosis",
+      "summary": "きっかけは、自宅サーバーの ext4 障害 株式会社DeploAIで代表取締役CTOをしている袖山剛です。 営業を科学するプロダクトの開発と、お客様の業務にAIを組み込む仕事をしています。 2026年10月、自宅の Linux サーバー（開発用に使っているマシンで、EVO と呼んでいます）で、ルート...",
+      "published": "2026-10-30T03:05:46Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "20a8c04f2a81399cc529a4b6623410ad",
+      "title": "LLMの文体 - Martin Fowler's Bliki (ja)",
+      "link": "https://bliki-ja.github.io/LLM-Voice",
+      "summary": "投稿を読んでいると、LLMが生成した文章を読んでいるのではないかと思うことがある。理由を明確に定義できるわけではないが、共通の特徴があることに気づく（エムダッシュを多用するなどの表面的なことではなく、タペストリーのように大げさな表現を使った文体のことだ）。そうしているうちに読む気が薄れ、時には嫌悪感...",
+      "published": "2026-10-30T02:41:51Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "72967610c5a3e0c085591fa0dcc15fa3",
+      "title": "具体と抽象を往復するエンジニアリング | ドクセル",
+      "link": "https://www.docswell.com/s/miso_taku/Z7N847-2026-10-30-195525",
+      "summary": "給料を上げなければ殺すロボ def who_are_you(): self_introduction = { 'name' : 'ミソノ(miso_taku)', 'twitter' : '@miso_taku0221', 'Qiita' : '@miso_taku', 'job' : 'ブラック企...",
+      "published": "2026-10-30T12:53:03Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3312a0cf58c2ec43dc11f5111f5dbe04",
+      "title": "高精細な3D形状を生成するAIモデル「Hi3D V1.0」、重みを公開",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2152546.html",
+      "summary": "",
+      "published": "2026-10-30T03:28:48Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7407276ac0ba44ea2741d002ff9fe283",
+      "title": "GMO 4000万円損失の被害者「ずっと恐怖と闘っている」 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261030de68556",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、身に覚えのない取り引きでおよそ4000万円の損失が出たという40代の男性が取材に応じ、「いつ自分の個人情報が公開されるか分からず、ず…",
+      "published": "2026-10-30T10:43:47Z",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eab2ef13f0001475f0079f4e97426b4d",
+      "title": "[アップデート] AWS SAM CLI の sam build で、npm workspaces モノレポの依存インストールが1回で済むようになりました",
+      "link": "https://dev.classmethod.jp/articles/samcli-11710-npm-workspaces-monorepo-build/",
+      "summary": "速くなった",
+      "published": "Fri, 30 Oct 2026 17:23:37 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b14d4b36cf1857b77c17bee609d3a43e",
+      "title": "[Kiro] Kiro IDE? CLI? Crew? Choose the App According to Your Style",
+      "link": "https://dev.classmethod.jp/articles/kiro-product-compare/",
+      "summary": "There are three different Kiro applications—IDE, CLI, and Crew—so it can be hard to know which one to use. I tested them all using the same Snake game...",
+      "published": "Fri, 30 Oct 2026 16:00:00 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8876347499ef104de52b82c2a2969365",
+      "title": "CloudflareのWaiting RoomでHTTPヘッダを参照するバイパスルールをダッシュボードから作成してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudflare-waiting-room-http-request-headers-bypass-rule/",
+      "summary": "CloudflareのWaiting Roomで、あるHTTPリクエストヘッダが特定の値の場合に待合室をバイパスするルールを作成してみました。バイパスルール画面の式ビルダーでは作成できないのでカスタムルール画面で式を作成し、バイパスルール画面の式編集でその式を記載するのがポイントです。",
+      "published": "Fri, 30 Oct 2026 15:54:46 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d57f2203cc8b3ae9ddd0692e7d3059b",
+      "title": "Control Towerのコントロール、何から設定する？",
+      "link": "https://dev.classmethod.jp/articles/control-tower-controls-getting-started/",
+      "summary": "AWS Control Towerのコントロールは1,600個以上もあり、初めてみた方は何から手をつければいいのか分からないのではないでしょうか…。 というわけで本記事では、コントロールの分類方法と優先順位を整理して、実装に向けた考え方をまとめました。",
+      "published": "Fri, 30 Oct 2026 14:59:04 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecb07cef4d1e2e87337271445dfebe4d",
+      "title": "「ここ 3 年くらいの CloudWatch アップデート について丸っと解説します」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/cloudwatc-upadte-summary-devio-2026/",
+      "summary": "CloudWatch めっちゃ進化してるぞ！！",
+      "published": "Fri, 30 Oct 2026 14:53:51 GMT",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe39eccf98d274be29f63938b2f89c44",
+      "title": "sndstation will transform cheap gaming consoles into music handhelds",
+      "link": "https://cdm.link/sndstation-linux-distro-for-game-handhelds/",
+      "summary": "Cheap handheld gaming consoles now often pack surprising processing power. But many risk ending up as e-waste. A new open-source project is turning th...",
+      "published": "Fri, 30 Oct 2026 16:49:54 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "0899e6a4077ddb1048b54d8f9ef3b6fa",
+      "title": "HEDD Audio launches TYPE 40 Main and modular XTD system for full-range monitoring",
+      "link": "https://musictech.com/news/gear/hedd-audio-type-40/",
+      "summary": "The Berlin firm’s sealed three-way monitor reaches down to 20 Hz on its own, with up to three self-powered XTD modules per channel for extra output an...",
+      "published": "Fri, 30 Oct 2026 16:12:29 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "d3b71785cc66164a0e9e04877200dc66",
+      "title": "One giant leap for synthkind: Analogue Solutions launches the Series 700, a £33,000 recreation of the Roland System 700",
+      "link": "https://musictech.com/news/gear/one-giant-leap-for-synthkind-analogue-solutions-launches-the-series-700-a-33000-recreation-of-the-roland-system-700/",
+      "summary": "Following its Synthfest UK debut, the Series 700 is open for preorder, with blocks available individually or as a full system. The post One giant leap...",
+      "published": "Fri, 30 Oct 2026 15:55:51 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "fa972f0b05d88714ecc54d47e56b8a06",
+      "title": "Yaeltex unveils next-gen custom MIDI controllers – now with full-colour displays",
+      "link": "https://musictech.com/news/gear/yaeltex-v3/",
+      "summary": "Co-founder Mateo Ferley Yael says displays were “by far the most requested element since V2 came out”. The post Yaeltex unveils next-gen custom MIDI c...",
+      "published": "Fri, 30 Oct 2026 14:55:48 +0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "451296f896fd922b8bd306040627fb8f",
+      "title": "Diego Mapa’s Guide to the Manila Underground",
+      "link": "https://daily.bandcamp.com/scene-report/manila-philippines-underground-scene-report",
+      "summary": "A veteran of Filipino indie music on Manila's music scene, it's \"greatest underrated export.\" Read full story on the Bandcamp Daily.",
+      "published": "Fri, 30 Oct 2026 17:32:33 -0000",
+      "fetched_at": "2026-10-30T20:16:42.165499+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-30T14:43:40.087516+00:00"
+  "updated_at": "2026-10-30T20:16:42.165499+00:00"
 }

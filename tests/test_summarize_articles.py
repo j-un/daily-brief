@@ -60,6 +60,25 @@ def test_truncated_after_last_brace_still_parses_closed_objects():
     assert [item["summary_jp"] for item in got] == ["一件目。", "二件目。"]
 
 
+def test_repeated_json_ignores_the_second_copy():
+    body = json.dumps(
+        {"summaries": [{"id": 0, "summary_jp": "一件目。"}]},
+        ensure_ascii=False,
+    )
+    text = f"{body}\n\n{body}\n\n[REDACTED]"
+    assert parse_summaries(text) == [{"id": 0, "summary_jp": "一件目。"}]
+
+
+def test_salvage_reads_summaries_from_a_later_complete_object(capsys):
+    complete = json.dumps(
+        {"summaries": [{"id": 1, "summary_jp": "完結した要約。"}]},
+        ensure_ascii=False,
+    )
+    text = '{"summaries":[{"id":0,"summary_jp":"途中\n' + complete
+    assert parse_summaries(text) == [{"id": 1, "summary_jp": "完結した要約。"}]
+    assert "完結した 1 件" in capsys.readouterr().err
+
+
 def test_unclosed_json_with_no_complete_object_still_raises():
     with pytest.raises(json.JSONDecodeError):
         parse_summaries('{"summaries":[{"id":0,"summary_jp":"途中')

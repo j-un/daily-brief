@@ -30,13 +30,16 @@ from brief_config import (
 
 
 def extract_json(text: str) -> dict:
-    # コードフェンスを除去し、前後に説明文があっても最外の JSON オブジェクトを取り出す
+    # コードフェンスを除去し、先頭の JSON オブジェクトだけを読む。
+    # 末尾の } まで切ると、同じ JSON が繰り返されたときに2件目が Extra data になる。
     text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL)
     start = text.find("{")
-    end = text.rfind("}")
-    if start != -1 and end != -1 and end > start:
-        text = text[start : end + 1]
-    return json.loads(text)
+    if start == -1:
+        return json.loads(text)
+    obj, _end = json.JSONDecoder().raw_decode(text, start)
+    if not isinstance(obj, dict):
+        raise TypeError("JSON root is not an object")
+    return obj
 
 
 def domain_of(link: str) -> str:

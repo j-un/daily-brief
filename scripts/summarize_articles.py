@@ -41,13 +41,16 @@ id は記事リストの id フィールドの値をそのまま使ってくだ�
 
 
 def extract_json(text: str) -> dict:
-    # コードフェンスを除去し、前後に説明文があっても最外の JSON オブジェクトを取り出す
+    # コードフェンスを除去し、先頭の JSON オブジェクトだけを読む。
+    # 末尾の } まで切ると、同じ JSON が繰り返されたときに2件目が Extra data になる。
     text = re.sub(r"```(?:json)?\s*\n?(.*?)\n?```", r"\1", text, flags=re.DOTALL)
     start = text.find("{")
-    end = text.rfind("}")
-    if start != -1 and end != -1 and end > start:
-        text = text[start:end + 1]
-    return json.loads(text)
+    if start == -1:
+        return json.loads(text)
+    obj, _end = json.JSONDecoder().raw_decode(text, start)
+    if not isinstance(obj, dict):
+        raise TypeError("JSON root is not an object")
+    return obj
 
 
 def salvage_summaries(text: str) -> list[dict]:
@@ -64,7 +67,15 @@ def salvage_summaries(text: str) -> list[dict]:
         except json.JSONDecodeError:
             idx = start + 1
             continue
-        if (
+        if isinstance(obj, dict) and isinstance(obj.get("summaries"), list):
+            found.extend(
+                item
+                for item in obj["summaries"]
+                if isinstance(item, dict)
+                and "id" in item
+                and isinstance(item.get("summary_jp"), str)
+            )
+        elif (
             isinstance(obj, dict)
             and "id" in obj
             and isinstance(obj.get("summary_jp"), str)

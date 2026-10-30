@@ -133,3 +133,11 @@ class TestApplyDomainCap:
             {"link": "https://example.com/1"},
         ]
         assert dropped == {"example.com": 1}
+
+
+def test_extract_json_ignores_a_repeated_object():
+    body = '{"picked":[{"id":0,"category":"tech","starred":false}]}'
+    text = f"{body}\n\n{body}\n\n[REDACTED]"
+    assert select_articles.extract_json(text) == {
+        "picked": [{"id": 0, "category": "tech", "starred": False}]
+    }

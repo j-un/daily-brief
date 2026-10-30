@@ -1639,7 +1639,257 @@
       "fetched_at": "2026-10-30T20:16:42.165499+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "39e585c73e9f724e28c98e863c933fd7",
+      "title": "@matsuu.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/matsuu.bsky.social/post/3mz4vj4naz22f",
+      "summary": "起床成功。本日は #ISUCON です",
+      "published": "30 Oct 2026 23:08 +0000",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f587c321c5c2defb0a5f00e11a21eae4",
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator...",
+      "published": "Fri, 30 Oct 2026 20:23:30 +0000",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bce1a72ebe675221261a39da2fda00a",
+      "title": "Bunny CDN Security Incident",
+      "link": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "summary": "Article URL: https://status.bunny.net/incidents/p6gf1by9kr7m Comments URL: https://news.ycombinator.com/item?id=50308697 Points: 183 # Comments: 36",
+      "published": "Fri, 30 Oct 2026 19:05:22 +0000",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc6b3501ce102f2c81b47a5b85971458",
+      "title": "French national assembly votes 0.055€/GB internet tax",
+      "link": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+      "summary": "Article URL: https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-n...",
+      "published": "Fri, 30 Oct 2026 18:31:56 +0000",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cd707dd1bdf3a91ffbb08e2827b3e39",
+      "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
+      "link": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
+      "summary": "Article URL: https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405 Comments URL: https://news.ycombinator.com/item...",
+      "published": "Fri, 30 Oct 2026 15:23:41 +0000",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cab60a226a9f589576e6f3a824c4af7",
+      "title": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+      "summary": "Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and ...",
+      "published": "Fri, 30 Oct 2026 20:43:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6be0d0d1ccdcedc544e66447c3267987",
+      "title": "Amazon CloudFront now provides viewer ISP and post-quantum TLS details",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/",
+      "summary": "Amazon CloudFront can now forward two new optional headers to your origin. The CloudFront-Viewer-ISP header contains the name of the viewer's internet...",
+      "published": "Fri, 30 Oct 2026 18:15:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "702e98dd4c65e1c8fc6b8b93619a3b86",
+      "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
+      "summary": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics for Amazon Managed Service for Prometheus and Amazon CloudWatch. The integ...",
+      "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cce9c50010c42d369a123eed3b422ce",
+      "title": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/",
+      "summary": "Amazon SageMaker AI inference now supports GPU partitioning, enabling you to run several models on a single GPU instead of dedicating a whole accelera...",
+      "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e55d1d1fb78bf528eaff363c333502ac",
+      "title": "Amazon Redshift announces hands-off automated cross-region backups",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/",
+      "summary": "Amazon Redshift announces automated cross-region snapshot copy for Amazon Redshift. You can now have your Amazon Redshift provisioned cluster or serve...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b077a1e97de57eab767484eb9735a34",
+      "title": "Amazon SageMaker Unified Studio now supports custom designations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/",
+      "summary": "Amazon SageMaker Unified Studio now supports custom designations, named permission sets that control what actions individual project members can perfo...",
+      "published": "Thu, 29 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c0c6eabb5c8c5394276a588e40588bd",
+      "title": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/",
+      "summary": "Web Search on Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filter...",
+      "published": "Fri, 23 Oct 2026 21:04:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e830c0fcd51ab5e7384a82a4de955dc9",
+      "title": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0",
+      "summary": "AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written wit...",
+      "published": "Wed, 21 Oct 2026 15:00:00 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9c25abc2fa3bd697bcaa704223faae7",
+      "title": "AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘",
+      "link": "https://gigazine.net/news/20261030-apple-chip-sellers-impact/",
+      "summary": "以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https:/...",
+      "published": "2026-10-30T11:01:02Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "821715cbda98448b84554b021deff761",
+      "title": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01",
+      "link": "https://note.com/zephel01/n/n4637423e080b",
+      "summary": "CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という...",
+      "published": "2026-10-30T01:31:28Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd6c7eada08f12e1ad2355d2bad4083c",
+      "title": "推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/30/230303",
+      "summary": "2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題...",
+      "published": "2026-10-30T15:04:52Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3560ca754c0ed2f7ec3de54db5f3b50",
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "summary": "数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるように――米Googleは10月29日（現地時間）、このような新機能を発表した。ユーザーは米国とインドのプロバイダーが提供する教科書をGemini Notebookの「ソース」として追加できるようになる。ITmedia AI＋...",
+      "published": "2026-10-30T08:24:59Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "afd5417dd9f657e4d8d6efef6e77f020",
+      "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+      "link": "https://gigazine.net/news/20261030-proton-ceo-ai/",
+      "summary": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メデ...",
+      "published": "2026-10-30T14:12:46Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "07d4cf54c64a103f2fb0a1fbf2f5f9f8",
+      "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html",
+      "summary": "福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…",
+      "published": "2026-10-30T22:18:39Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc7d06d881f353f00d1209902ded7116",
+      "title": "AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される",
+      "link": "https://gigazine.net/news/20261030-minecraft-gpt-sol/",
+      "summary": "AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」と...",
+      "published": "2026-10-30T09:12:39Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b973a1a085d4c56d1f83caa35715af8",
+      "title": "https://dhc-corporate.co.jp/cms_dH8vjpRq/wp-content/uploads/2026/10/0deb6f2426f1d5ab2b2b1824288b374d.pdf",
+      "link": "https://dhc-corporate.co.jp/cms_dH8vjpRq/wp-content/uploads/2026/10/0deb6f2426f1d5ab2b2b1824288b374d.pdf",
+      "summary": "",
+      "published": "2026-10-30T10:18:43Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5efb80197b60512b234fc4fb96ac1a12",
+      "title": "Spotify、AIでカバー曲作成可能に 収益は原曲アーティストに還元 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/",
+      "summary": "【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指し...",
+      "published": "2026-10-30T12:18:50Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fbad67d8a20ec49858f84b1e2996ffbf",
+      "title": "世界のメモリー大手、営業利益が初の米テック超え AI需要が急増 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB29BWD0Z21C26A0000000/",
+      "summary": "米テック大手の巨額の人工知能（AI）投資により半導体企業の業績が急拡大している。世界のメモリー5社の2026年7〜9月期の営業利益と純利益は初めてテック大手を上回った。供給力を超えるメモリー需要の伸びが背景にある。メモリー各社は業績の先行きに強気な見方を示すが、利益の源泉であるテックの投資余力に対し...",
+      "published": "2026-10-30T17:14:52Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "563219883fa065c7e31f770fcf3af94d",
+      "title": "エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～",
+      "link": "https://codezine.jp/article/detail/30081",
+      "summary": "この連載では、AIの時代にエンジニアがどう育つのかを、全8回で考えていきます。第1回から第3回では、何が足りなくなったのか、器とは何か、器はどんな形をしているのかを考えます。第4回では、AIとの付き合い方に自分のパターンが出ることを書きます。第5回から第8回はどう変えるか、変わると何が見えるか、日々...",
+      "published": "2026-10-30T04:00:20Z",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6c3d7305200510ba40fdb689f0dbe9d",
+      "title": "Amazon Inspector の ECR 再スキャン設定で発生した「リクエストに失敗しました」の解消方法を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-inspector-please-tell-me-how-to-resolve-the-request-failed-caused-by-amazon-inspectors-ecr-rescan-settings/",
+      "summary": "",
+      "published": "Fri, 30 Oct 2026 22:58:59 GMT",
+      "fetched_at": "2026-10-30T23:18:51.772419+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-30T20:16:42.165499+00:00"
+  "updated_at": "2026-10-30T23:18:51.772419+00:00"
 }

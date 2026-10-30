@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "abf7eeb15f5aea2086742f0571b413bf",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "published": "29 Oct 2026 05:55 +0000",
-      "fetched_at": "2026-10-29T07:52:22.040351+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4588963ff8683d54132451c5d22e9ec0",
-      "title": "PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog",
-      "link": "https://blog.flatt.tech/entry/php2shell",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針",
-      "published": "29 Oct 2026 02:55 +0000",
-      "fetched_at": "2026-10-29T07:52:22.040351+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "017edac71ad0124d6abf4cf4d46bd9d8",
       "title": "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog",
       "link": "https://www.wiz.io/blog/php2shell-php-rce",
@@ -699,7 +679,567 @@
       "fetched_at": "2026-10-30T07:55:21.722082+00:00",
       "feed_name": "ICON",
       "category": "music"
+    },
+    {
+      "entry_id": "4a14aad21fb2f0c19afd4c9a6a0c8247",
+      "title": "LLMs are making formal software verification feasible at a much larger scale \\ Anthropic",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLMs are making formal software verification feasible at a much larger scale",
+      "published": "30 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7396eac8b21146265a4d91b38bfb2df7",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security — The PHP Foundation — Supporting, Advancing, and Developing the PHP Language",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "published": "30 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a6d2ea92b32368b7d9db9e1e1cbfcdd",
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "summary": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-pr...",
+      "published": "Fri, 30 Oct 2026 12:08:00 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "48c3875fc77930f1245d5d4117219907",
+      "title": "Backdoors in official Claude Code extensions",
+      "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "summary": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563 Comments URL: https://news.ycombinator.com/item?id=50302334 Points: 632 # Comme...",
+      "published": "Fri, 30 Oct 2026 11:05:53 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb808c2ecd5f77190feb5266fb42059f",
+      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
+      "link": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "summary": "Article URL: https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2 Comments URL...",
+      "published": "Fri, 30 Oct 2026 10:22:51 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3233413c4b34eb470b5744381a5a3b43",
+      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+      "link": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 120 # Comme...",
+      "published": "Fri, 30 Oct 2026 10:06:15 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17050898081d0303eec582efc8780594",
+      "title": "Ask HN: Are you tired too in this AI era?",
+      "link": "https://news.ycombinator.com/item?id=50301479",
+      "summary": "Although AI lets us do much more, I feel considerably more tired than before.We need to keep track of many things happening in parallel and read enorm...",
+      "published": "Fri, 30 Oct 2026 09:17:43 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c378952716949cb56b657a895aa22ab",
+      "title": "elect.horse",
+      "link": "https://elect.horse/",
+      "summary": "Article URL: https://elect.horse/ Comments URL: https://news.ycombinator.com/item?id=50301462 Points: 346 # Comments: 95",
+      "published": "Fri, 30 Oct 2026 09:14:34 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "26076a4ad0ede6c1d1bc2fa23cc2d4ee",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "link": "https://github.com/mottopanikeiku/doomformer",
+      "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot ...",
+      "published": "Thu, 29 Oct 2026 23:25:46 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd5a9342bd30a200238a1c8510ececd0",
+      "title": "Proton goes all in on using AI",
+      "link": "https://convo.casa/@b/117525936178835007",
+      "summary": "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 103 # Comments: 105",
+      "published": "Thu, 29 Oct 2026 21:49:28 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dffa6111b0b1771a1dfec8613067d9bd",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points:...",
+      "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0185c0c675e87a5682dda48a92b9de34",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "link": "https://elementary.codes",
+      "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 113 # Comments: 33",
+      "published": "Thu, 29 Oct 2026 20:56:39 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e35b95e2939c8a5e3f1b1ed34a42fbd",
+      "title": "エージェント時代の運用：re:Invent 2026 の AIOps セッション",
+      "link": "https://aws.amazon.com/jp/blogs/news/operating-in-the-agentic-era-aiops-sessions-at-reinvent-2026/",
+      "summary": "re:Invent 2026 のクラウド運用トラックから、AI エージェントによるインシデント調査、修復、リリース検証、監査、モダナイゼーションを扱う AIOps セッションをテーマ別に紹介します。AWS DevOps Agent の事例やハンズオンを含め、目的に応じた推奨ルートもまとめます。",
+      "published": "Fri, 30 Oct 2026 08:00:12 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bd1dc563769ec18dc86a9a846684914",
+      "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog",
+      "link": "https://tech.every.tv/entry/2026/10/30/124255",
+      "summary": "はじめに こんにちは、開発1部の新谷です。 最近、個人情報の漏洩のニュースが増えています。私は普段セキュリティを専門にしているわけではありませんが、漏洩への対策として、そもそも自社で個人情報を持たないように設計する方法はすぐに思いつくと思います。 ただ、それを具体的にどう実現するのかは、詳しく調べた...",
+      "published": "2026-10-30T05:48:02Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "181fb5276da32ab4a3558983ca6c4521",
+      "title": "「Gemini Notebook」、数百冊の教科書を無料で利用可能に",
+      "link": "https://www.watch.impress.co.jp/docs/news/2152548.html",
+      "summary": "",
+      "published": "2026-10-30T04:36:41Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06d8ff8afe8ba593c1bd065c523a1cf0",
+      "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+      "link": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
+      "summary": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we ...",
+      "published": "2026-10-30T02:45:57Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "98adcac54413ee8ca7e321456b740dab",
+      "title": "OpenAIが「AI五原則」を提案、「人間の意図に忠実であれ」「害を最小限に抑えろ」などの指針を自社モデルに適用",
+      "link": "https://gigazine.net/news/20261030-openai-model-spec-five-principles/",
+      "summary": "OpenAIが、自社のAIモデルに求める振る舞いについて定めた指針「Model Spec⁠」を更新し、5つの原則を定めました。このような原則に従うようAIに指示することで、安全かつ有用なモデルを実現するという社内目標を推進できるとしています。 より高性能で有益な AI に向けた Model Spec...",
+      "published": "2026-10-30T04:42:38Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "586884f46beda65bffc62ba3e5020ee8",
+      "title": "事故後に前校長と弁護士4人で遺族対応、校長「深く考えずにやってしまった」 同志社会見",
+      "link": "https://www.sankei.com/article/20261030-GNXVPH4LXZM5XMWDWRSX6PD6WI/",
+      "summary": "辺野古転覆事故後の対応について説明する宿久洋同志社国際中学校・高等学校校長＝10月30日午後、京都市下京区 （寺田康介撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、研修旅行中の同志社国際高校（京都府）2年、武石知華（ともか）さん＝当時（17）＝ら2人が死亡した事故をめぐり、同校を運営する学校法人同志...",
+      "published": "2026-10-30T10:26:49Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2a3156dda6e4fa8bcac6f48a25cd3fb5",
+      "title": "AIの回答で登場する統計データの40％が裏付ける研究結果などがない「ゾンビ統計」であることが明らかに",
+      "link": "https://gigazine.net/news/20261030-ai-assistants-statistics-not-find-study/",
+      "summary": "ChatGPT、Perplexity、Gemini、Claude、Google検索のAIによる概要という5つのAIアシスタントが出力した統計情報1285件を追跡調査したところ、そのほとんどが研究による裏付けのないものだったとAI可視化プラットフォームのTrakkrが報告しています。 Trakkr h...",
+      "published": "2026-10-30T08:18:59Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b15aef79abf6459f0e4a0f30817abe14",
+      "title": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor",
+      "link": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "summary": "Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Today we identified a security i...",
+      "published": "2026-10-30T08:36:01Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e345fa18651f96361aeee224d42fda8",
+      "title": "GPT-6.1 Terraと同等のコーディング性能を発揮するAIモデル「Mistral Large 4」が無償公開される",
+      "link": "https://gigazine.net/news/20261030-mistral-large-4-open/",
+      "summary": "フランスに拠点を置くAI企業のMistralが大規模AIモデル「Mistral Large 4」をオープンモデルとして無償公開しました。コーディング性能ではGPT-6.1 Terraと同等性能という評価もあります。 Mistral Large 4 (Le Chonk) is now open wei...",
+      "published": "2026-10-30T04:38:30Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0871fdba80e3cd3e7a4334e0306b4eea",
+      "title": "NVIDIA、40言語対応の無償文字起こしAI「Nemotron 3.5 Transcribe」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2152693.html",
+      "summary": "",
+      "published": "2026-10-30T09:44:07Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9cdf17026abe00629d9b879dcecddc92",
+      "title": "6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中",
+      "link": "https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/",
+      "summary": "アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 EXCLUSIVE: Pentagon treating military base freezer malfu...",
+      "published": "2026-10-30T04:42:30Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa6b452fb675c8338de48403bc9cbc74",
+      "title": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
+      "link": "https://mistral.ai/news/mistral-large-4-oss/",
+      "summary": "Mistral released Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model, now available with improved coding, cybersecurity, and reasoning...",
+      "published": "2026-10-29T14:50:25Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ab3cd98f5b6546ccc0cd740c4591332",
+      "title": "Herdr UI: a native window for the Herdr daemon",
+      "link": "https://herdrui.dev/",
+      "summary": "",
+      "published": "2026-10-15T02:25:09Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d83aa2d820ab712cb6ad2199b249ca30",
+      "title": "今後のセキュリティの考え方",
+      "link": "https://zenn.dev/cscloud_blog/articles/a987163efae5d8",
+      "summary": "どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...",
+      "published": "2026-10-30T11:11:33Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "72da21e21786006e932dd8e6ce150577",
+      "title": "ERROR ログ1行から障害の一次対応を下準備する Claude Code スキルを作った - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20261030/errorlog",
+      "summary": "楽楽請求の開発チームに所属している takayama です。 本番環境で ERROR ログのアラートが届いたとき、最初の時間を何に使っていますか。 私は、過去の Issue を探したり、障害対応シートに情報を書き写したりする作業に、その時間の多くを使っていました。 そこで、ERROR ログを1行渡す...",
+      "published": "2026-10-30T06:33:29Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73a4f25cbe3e614e1c44ce37fcc187ea",
+      "title": "「リカバリー用USBメモリ」が消える？ Windows 11、クラウドからのリカバリー機能が追加に【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2152507.html",
+      "summary": "",
+      "published": "2026-10-30T03:09:52Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "266e2a56e6758821d2c92ba2430841e1",
+      "title": "なぜエンジニアは「具体」に縛られるのか。細谷功さん×ミノ駆動さんが語る、抽象化スキルの磨き方 - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_954/",
+      "summary": "新しい手法やツールが次々に登場し、開発のスピードがかつてなく上がる一方で、開発現場から消えないすれ違いがあります。それは、ビジネス側の「抽象的な要望」と、開発側の「具体的な実装」が噛み合わないということです。 2026年8月27日開催のイベント「【細谷功さん×ミノ駆動さんが語る】システム開発と『具体...",
+      "published": "2026-10-28T02:17:27Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "530b580e8e80492236f042043498c680",
+      "title": "中城城跡？ 実際と異なるポスターに批判 村観光協会がAIで作成",
+      "link": "https://ryukyushimpo.jp/national/entry-5582135.html",
+      "summary": "【中城】中城村観光協会が11月7日に開催する2026中城村ロゲイニング大会「なかぐすくトレジャーウオーク」の公式ポスターに掲載された中城城跡を思わせる画像が、実際の城跡と大きく異なる点を指摘する投稿がSNSで拡散されている。 AI画像を使った中城村ロゲイニング大会「なかぐすくトレジャーウオーク」のポ...",
+      "published": "2026-10-30T01:52:54Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b58ce5d82c45ba78a075875cabc8958",
+      "title": "ChatGPT Pro全プランとBusiness Premiumの利用上限が2倍に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2152509.html",
+      "summary": "",
+      "published": "2026-10-30T06:27:04Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a809273c1fede10ebf02e6e40575c9d7",
+      "title": "macOS 27.2 Golden GateではmacOSアップグレード時にRosetta 2が削除されないように。macOS 28で開けなくなるIntelアプリへの警告は継続。",
+      "link": "https://applech2.com/archives/20261030-rosetta-is-no-longer-removed-macos-27-2-upgrade-hero.html",
+      "summary": "macOS 27.2 Golden GateではmacOSアップグレード時にRosetta 2が削除されないようになっています。詳細は以下から。 Appleは2026年10月26日、09月にリリースしたmacOS 28 Golden Gateの初のマイナーアップデートとなる「macOS 27.2 G...",
+      "published": "2026-10-30T02:15:26Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e5dfbe61bec2d8cfb8cb12b13e6dbf2",
+      "title": "米国で「コンピューター・情報系」の学生急減 AIでプログラミング職減少が要因か",
+      "link": "https://japan.cnet.com/article/35254194/",
+      "summary": "発表によると、コンピューター・情報科学分野の学生は、2年制大学などの学部でも12.3％減り、大学院でも10.4％減少した。4年制大学、2年制大学など、大学院のいずれでも2桁の減少となった。 医療系は増加、大学院全体では減少 一方、医療系を専攻する学生は増えている。報告書によると、在籍者数は4年制大学...",
+      "published": "2026-10-30T02:43:02Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61d526c390c41b58d075ee1715545faa",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "summary": "GMOインターネットへの不正アクセス問題を巡り、総務省が通信事業者に「ブロッキング」を要請したと、朝日新聞や読売新聞、日本経済新聞などが10月29日に報じた。総務省は、GMOの顧客のものとされる個人情報を掲載した攻撃者側のWebサイトについて、接続を強制的に遮断するよう求めた。27日付の文書で、電気...",
+      "published": "2026-10-30T08:19:46Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "435ca21c9bccb835a6b55879839f43c3",
+      "title": "Tebikiのジョブボード制作裏側 - tebiki Tech Blog",
+      "link": "https://techblog.tebiki.co.jp/yapc-tokyo-2026-tebiki-job-board",
+      "summary": "こんにちは。Tebikiでエンジニアをしているyutaroです。認証・認可周りの開発を担当しています。 TebikiはYAPC::Tokyo 2026にPlatinum Sponsorとして参画することになり、私がイベント企画のリードをしています！ yapcjapan.org この記事では、ジョブボ...",
+      "published": "2026-10-30T06:22:09Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bed2d508b834cf4405595168a918fe0",
+      "title": "GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み",
+      "link": "https://gigazine.net/news/20261030-ai-sleep-knowledge/",
+      "summary": "AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。 The sleep framework: A new way for LLM...",
+      "published": "2026-10-30T00:47:38Z",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cbd842ed7a8d5af33c47e92a0f6f9b1",
+      "title": "【書評】 「Amazon Bedrock実践ガイド」を読みながらRAGの精度改善をしてみた",
+      "link": "https://dev.classmethod.jp/articles/bedrock-practical-guide-book-review/",
+      "summary": "待ちに待った同僚のBedrock実践ガイドが出版されました！おめでとう！ということで書評を書きました",
+      "published": "Fri, 30 Oct 2026 14:37:19 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ef7a820a980f48ac5a5cde9dac74a70",
+      "title": "Windows の ChatGPT デスクトップアプリ with Bedrock を設定したら CreateInference の権限エラーになったときの確認ポイント",
+      "link": "https://dev.classmethod.jp/articles/chatgpt-desktop-windows-bedrock-createinference-permission-error/",
+      "summary": "Windows x ChatGPT デスクトップアプリ with Bedrock でハマったところの備忘録です。",
+      "published": "Fri, 30 Oct 2026 14:17:52 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "50f31e2aa687cf17b482f48ebb908e74",
+      "title": "Kiro CLI V3 の 新機能 「Approve for me」 どの様な操作が確認になるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-cli-v3-approve-for-me/",
+      "summary": "Kiro CLI V3 の Approve for me で、どの操作が承認され、どの操作が確認に回るかを試しました。rm -rf、force push、/tmp への書き込みは確認なしで承認され、スクリプトを sh に渡す操作は確認に回りました。.git や .kiro/hooks への書き込みの...",
+      "published": "Fri, 30 Oct 2026 14:06:39 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8530de31c06d44bd2f2f0c37222685f",
+      "title": "[アップデート] AWS Step FunctionsのワークフローをAgentCore Gateway経由でAIエージェントのツールとして使えるようになりました！",
+      "link": "https://dev.classmethod.jp/articles/step-functions-agentcore-gateway-tools/",
+      "summary": "AgentCore GatewayのターゲットにStep Functionsが対応しました！！",
+      "published": "Fri, 30 Oct 2026 13:46:38 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6ff6e8b42dc6c303ecea887808a24a0",
+      "title": "【Patch Manager】 Windows Update との違いは？ 適用されるパッチの範囲と、自動更新を無効化したときの Scan を確認してみた！",
+      "link": "https://dev.classmethod.jp/articles/patch-manager-windows-update-difference/",
+      "summary": "EC2 の Windows Server のパッチ適用を Patch Manager に一本化するための、検証結果を Q&A と実機確認で整理しました。月次の更新が対象に含まれるのか、自動更新の無効化方法で動作が変わるのかなど、本番環境で気をつけたいポイントをまとめています。",
+      "published": "Fri, 30 Oct 2026 12:56:06 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bae799f699a3d7b458161361e9b5206c",
+      "title": "[アップデート] Kiro Crew v0.10.0 でワーカーごとにバックエンドを指定できるようになったので、Kiro Crew から Claude Code の Slack コネクターを使ってみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-crew-v0100-worker-backend/",
+      "summary": "セッションやエージェントでバックエンドを使い分けることができる神機能が来た...",
+      "published": "Fri, 30 Oct 2026 12:51:31 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc26c46113a2ac5e81f13d0a2ded48c9",
+      "title": "aws loginで使用するIAM権限と、権限不足時の挙動を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/202610-aws-login-test/",
+      "summary": "aws loginを実行する際に必須となるIAM権限について、実機での動作検証を通じて確認します。 ポリシー有無による成否の違いと、SignInLocalDevelopmentAccessマネージドポリシーに含まれる各actionの役割を確認します。",
+      "published": "Fri, 30 Oct 2026 11:22:53 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba9f5029b6c84efda16a4338a85a95fb",
+      "title": "miseの1Passwordの環境変数読み込みのたびに数秒待たされるのを、fnoxのdaemonで解消してみた",
+      "link": "https://dev.classmethod.jp/articles/mise-secret-cache-fnox-daemon/",
+      "summary": "miseの[env]で1Passwordから読み込んでいたトークンが、miseのアップデート後はEnterのたびに読み直されるようになりました。原因を調べて、hook_env.chpwd_onlyとfnoxのdaemonで0.01秒前後まで戻した記録です。",
+      "published": "Fri, 30 Oct 2026 11:10:28 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "06d1b1d1417f3d2ff899c997a6ae2543",
+      "title": "CVE-2026-111497に対するAWS Lambdaのランタイム更新を確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-cve-2026-111497-runtime-update/",
+      "summary": "CVE-2026-111497（HTTP2Shell）というBrotliの脆弱性に対して、AWS Lambdaのマネージドランタイムが修正版を展開しています。 本ブログではNode.js 24を対象に実際に確認してみました。",
+      "published": "Fri, 30 Oct 2026 10:05:06 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "171388118900db656ffcf309f4c2f8d6",
+      "title": "製造業の調達業務でのWork IQ活用について",
+      "link": "https://dev.classmethod.jp/articles/20261030_mbt_ms_workiq/",
+      "summary": "製造業の調達部門のバックオフィスの業務は手作業が多く、書類管理や各種監査対応に課題を抱えています。MicrosoftのWork IQを活用した業務改善の方法について考えます。",
+      "published": "Fri, 30 Oct 2026 09:39:05 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cce8e9bfc3deb329d85636d193878477",
+      "title": "【Amazon Connect】顧客情報 CSV を Customer Profiles に登録してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-profiles-csv-s3/",
+      "summary": "Amazon Connect Customer Profiles に顧客情報を登録する手順を紹介します。CSV ファイルから簡単にデータを取り込み、エージェントワークスペースで顧客情報を活用する方法をまとめました。",
+      "published": "Fri, 30 Oct 2026 09:00:48 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce8d63daf48bbc78889fb5973ab65e42",
+      "title": "Claude Code v2.1.314 の主要アップデート - 作業ディレクトリ外の書き込み拒否とサンドボックス・フックの適用漏れ修正",
+      "link": "https://dev.classmethod.jp/articles/20261030-cc-updates-v2-1-314/",
+      "summary": "Claude Code v2.1.314がリリースされました。今回は119件の変更が入り、特に権限とサンドボックスまわりの改善が目立ちます。作業ディレクトリ外への書き込み拒否設定の追加やセキュリティ関連の修正など、注目のアップデートを紹介します。",
+      "published": "Fri, 30 Oct 2026 08:53:06 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b15db0493213bd286d299fb8a9311a3",
+      "title": "2026年10月 Flociアップデートまとめ、Lambda durable functionsとCognitoのMFAが入った",
+      "link": "https://dev.classmethod.jp/articles/floci-2026-10-lambda-durable-functions-cognito-mfa-update/",
+      "summary": "AWSエミュレータFlociの2.2.0と2.3.0の更新をまとめました。Lambda durable functions、CognitoのTOTP MFA、S3のバケットポリシー評価、EventBridgeの再試行とDLQを2.3.0で動かし、SageMakerなど新サービス6件やリリース日程の変...",
+      "published": "Fri, 30 Oct 2026 08:29:00 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bff93f2f59cd34bd9e3ceac45399073d",
+      "title": "【Claude】 BIツール風のダッシュボードを、Google Drive の Excel を更新するだけで動かしてみた！",
+      "link": "https://dev.classmethod.jp/articles/claude-artifact-dashboard-google-drive-xlsx/",
+      "summary": "Google DriveのExcelを読み込んで、数値を書き換えると自動的にグラフ・KPI・コメントまで変わるダッシュボードをClaudeで作ってみました。毎月の手作業から解放される仕組みを紹介します。",
+      "published": "Fri, 30 Oct 2026 08:17:12 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1571fb3f8bf50d05f97e4086828a83bc",
+      "title": "【Security Hub修復手順】[NetworkFirewall.9] Network Firewall は削除保護を有効にする必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-networkfirewall-9/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Fri, 30 Oct 2026 08:04:56 GMT",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b834180ec8444749931fb2bd0778383",
+      "title": "ローランド SYSTEM-700を完全再現した大型モジュラー・シンセサイザー、Analogue Solutions「Series 700」が発売",
+      "link": "https://icon.jp/archives/28089",
+      "summary": "Analogue Solutionsが新製品、「Series 700」を発表。ローランド SYSTEM-700を完全再現したモジュラー・シンセサイザーが発売になります。 Analogue Solutions「Series […]",
+      "published": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "7d26ad8f244143ec8dbf482c8b5538cf",
+      "title": "Mangle everything: modulated mayhem in circuit-bent Sinevibes Malfunction v3",
+      "link": "https://cdm.link/sinevibes-malfunction-v3/",
+      "summary": "This is why you get intimate with code, line by line. Artemiy at Sinevibes obsessed over details, breaking a filter model by rewiring its internal con...",
+      "published": "Fri, 30 Oct 2026 10:45:52 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "1e61eb65526160395fb29e25471ed66b",
+      "title": "Zeds Dead on two decades of sampling: “The interest is in the history; AI has no history”",
+      "link": "https://musictech.com/features/interviews/zeds-dead-interview-sampling-ai/",
+      "summary": "The producer duo have built their project around honouring creativity of the past, and their most recent tour brought that intention to its zenith The...",
+      "published": "Fri, 30 Oct 2026 09:00:08 +0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "a8cdee81a225a50177dc20a2303f3c20",
+      "title": "Essential Releases, October 30, 2026",
+      "link": "https://daily.bandcamp.com/essential-releases/essential-releases-october-30-2026",
+      "summary": "Experimental electronic, alternative rock, and more. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 30 Oct 2026 13:42:13 -0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "2e23d87582aac8a241730d86b9bd4b41",
+      "title": "OR, “Music for Empty Stadiums”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/or-music-for-empty-stadiums-review",
+      "summary": "Spanish producer John Talabot's ambient rave project, made mid-pandemic, pulses with joyous, cathartic energy. Read full story on the Bandcamp Daily.",
+      "published": "Fri, 30 Oct 2026 13:39:20 -0000",
+      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-10-30T07:55:21.722082+00:00"
+  "updated_at": "2026-10-30T14:43:40.087516+00:00"
 }

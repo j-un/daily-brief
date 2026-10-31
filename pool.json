@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "dfa0dc4cfde26c41c5624ca4e26a87e3",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
-      "published": "30 Oct 2026 01:55 +0000",
-      "fetched_at": "2026-10-30T07:55:21.722082+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4a14aad21fb2f0c19afd4c9a6a0c8247",
       "title": "LLMs are making formal software verification feasible at a much larger scale \\ Anthropic",
       "link": "https://www.anthropic.com/research/formal-verification",
@@ -499,7 +489,357 @@
       "fetched_at": "2026-10-31T07:48:32.550978+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "58b25696a50705815625f02d5217aa62",
+      "title": "LiteLLMパッケージ 再侵害の概要と対策指針 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/litellm_2nd_compromise",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LiteLLMパッケージ 再侵害の概要と対策指針",
+      "published": "31 Oct 2026 10:55 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ae3ed1b6ef842df7d9f511f2a00d90c",
+      "title": "ISUCON2026 選手全員が必須で行う事前準備について : ISUCON公式Blog",
+      "link": "https://isucon.net/archives/60111629.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ISUCON2026 選手全員が必須で行う事前準備について : ISUCON公式Blog",
+      "published": "31 Oct 2026 08:55 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c71876af6df935a31030829c8e59a2cc",
+      "title": "GitHub - google-research/harness2 · GitHub",
+      "link": "https://github.com/google-research/harness2",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub - google-research/harness2",
+      "published": "29 Oct 2026 01:55 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "57f4ab8c9a08bf113dd4185476d39d83",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Sat, 31 Oct 2026 10:21:30 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9c2b9b5c4dbaf60422610fb666d0569",
+      "title": "Switch Lowering in GCC",
+      "link": "https://xoranth.net/gcc-switch/",
+      "summary": "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 106 # Comments: 21",
+      "published": "Sat, 31 Oct 2026 08:02:26 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cb0987e4c264f2fc85743ec47a6a401a",
+      "title": "Digital Minimalism",
+      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "summary": "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 1...",
+      "published": "Sat, 31 Oct 2026 06:16:36 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0fc84c89ca477afacf222a767a959f01",
+      "title": "French digital tax may kill VideoLan non-profit",
+      "link": "https://twitter.com/videolan/status/2116229135919919278",
+      "summary": "Article URL: https://twitter.com/videolan/status/2116229135919919278 Comments URL: https://news.ycombinator.com/item?id=50308631 Points: 106 # Comment...",
+      "published": "Fri, 30 Oct 2026 19:01:14 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bda0de2187058239225e7a7eab84183",
+      "title": "GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への取材でわかった。システムの抜本的な見直しを求めたものの十分な対応がなされずに被害を招いた。脆弱性を指摘したのは、子会社のGMOサイ...",
+      "published": "2026-10-31T08:05:25Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c0ccaf02a3933225df80707a2440cd5",
+      "title": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/10/31/5657.html",
+      "summary": "ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出...",
+      "published": "2026-10-31T07:41:11Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b31ab0309a5fc2c730fde11342403d8b",
+      "title": "偽コンサルの一生 - 孤独な弧度法",
+      "link": "https://2arctan-1.hatenablog.com/entry/2026/10/31/125102",
+      "summary": "こんにちは。 社会人歴10年未満にして、早くも転職回数3回のジョブホッパーです。 最近まで2年ほど(実態はそれ未満なんですが)コンサルタントをやっておりました。 当然、2年程度でコンサルタントとしての所作やスキルが身につくはずもなく、立派な『偽コンサル』が転職市場へと放たれたわけです！ 今日は、そん...",
+      "published": "2026-10-31T08:31:24Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5799e442cf0054ce47046d9024e4ce06",
+      "title": "タッチに対応した新しいMacBook Proに思うこと - Karagana Park",
+      "link": "https://krgn1002.com/2026/10/thoughts-on-the-new-macbook-pro-with-proled-xdr-display/",
+      "summary": "はじめに まず前提として、筆者はMacのディスプレイにタッチ操作（Multi-Touch）を導入することを以前から極めて否定的に見てきた。その理由は以下の通り。 Macの画面を指で触ろうとすると手をあげる必要があるため、使っているうちにすぐに疲労感がでてしまうこと Mac（macOS）は、ポインティ...",
+      "published": "2026-10-31T08:27:30Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "58f9f007937c14e402e97b8ea8f9527b",
+      "title": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de69024",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、2年前に子会社のセキュリティー企業からシステムのぜい弱性を指摘されていたことが関係者への…",
+      "published": "2026-10-31T12:04:26Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "86e4f02354d0a7c5896de7ea875937b5",
+      "title": "視野はAIに、視座は人に / ai-for-breadth-humans-for-perspective",
+      "link": "https://speakerdeck.com/nkzn/ai-for-breadth-humans-for-perspective",
+      "summary": "KomeKaigi 2026で講演しました https://komekaigi.dev/",
+      "published": "2026-10-31T04:05:42Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "474ecfd603fa7a5bd2a880b9e60f5288",
+      "title": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと｜shi3z",
+      "link": "https://note.com/shi3zblog/n/nadf4c6873d6d",
+      "summary": "GPUで動いてるLLMの中でCPUが動く?・・・何を言ってるかわからねえと思うが、とにかくQwenputerを追試して分かったこと、分からなかったこと 「Qwen3.5-4Bの重みの中に32bit RISC-V CPUをコンパイルして埋め込んだ」というモデルがHugging Faceに公開されていた...",
+      "published": "2026-10-30T23:43:11Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a632c923825be3df6ac14127c5277b19",
+      "title": "メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 - すまほん!!",
+      "link": "https://smhn.info/202610-sam-altman-pc-dram-quite-terrible-cloud",
+      "summary": "すまほん!! » AI・人工知能 » メモリ買い占める側が発言。アルトマンCEO「個人PCのメモリは使われてない、ひどい配分なのでクラウドに集約すべき」 オープンなAIモデルを手元のPCで動かす「ローカル推論」は、クラウドに頼らず生成AIを使える手段として関心を集めています。 一方で、AIデータセン...",
+      "published": "2026-10-31T09:02:55Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "de49262e48118e81423c0cf154785e38",
+      "title": "Idolの概要 - 1枚の画像から3D Gaussian Splattingを生成するAI｜npaka",
+      "link": "https://note.com/npaka/n/n66f6eaffeecb",
+      "summary": "1. Idolとは「Idol」は、1枚の画像から3Dオブジェクトを生成するAIモデルです。「Speridlabs」によって、2026年10月に公開されました。 写真やCG画像を入力すると、画像に写っていない裏側もAIが推測し、360度から見られる3Dオブジェクトを生成します。 生成形式には「3D G...",
+      "published": "2026-10-31T06:19:26Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ccea749a6d5fe40010e7923cdfa8cd95",
+      "title": "氾濫する「偽攻略本」問題、Amazonに直撃してみた。『ゼルダ』『FFレゾナンス』など発売前のゲームにまで広がる怪しい書籍―運営元の見解は？ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/10/30/174306.html",
+      "summary": "",
+      "published": "2026-10-30T10:31:00Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "580f27b50311fcbca797af2b096a6d61",
+      "title": "npm ci 時に常に npm audit signatures をする - プププなテクブ",
+      "link": "https://blog.inorinrinrin.com/entry/dd84836d-72cc-2616-9c64-45a9ac6c425b",
+      "summary": "最近 npm init したあとにまずやっていることがあります。それは ci:audit という npm script を用意することです。内容は次の通りです。 \"ci:audit\": \"npm ci --ignore-scripts && npm audit signatures && npm r...",
+      "published": "2026-10-31T06:46:15Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a60b8aad98fcac82144196ad6d5e30a",
+      "title": "RHSB-2026-016 Use-after-free - kernel IPv4 (CVE-2026-98432) | Red Hat Customer Portal",
+      "link": "https://access.redhat.com/security/vulnerabilities/RHSB-2026-016",
+      "summary": "0 Get notified when this content is updated. Follow Please wait... Executive Summary This vulnerability is tracked as CVE-2026-98432 and has been rate...",
+      "published": "2026-10-30T23:49:29Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "acb8d0e4174bb8974c8786a1d5f5fb82",
+      "title": "Apple、512GBのユニファイドメモリ搭載の「Mac Studio (M5 Ultra)」を発売。価格は3,973,800円から。",
+      "link": "https://applech2.com/archives/20261029-mac-studio-m5-ultra-512gb-unified-memory.html",
+      "summary": "Appleが512GBのユニファイドメモリ搭載の「Mac Studio (M5 Ultra)」を発売しています。詳細は以下から。 Appleは2026年08月、Apple M5 Maxチップに加えApple Silicon史上最速のM5 Ultraチップを選択可能な新しい「Mac Studio (M...",
+      "published": "2026-10-29T04:30:14Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d158a1226b8457c944fadc3172ad51c0",
+      "title": "iPad×GoodNotesで過去問を回す勉強法｜電気資格道場の使い方｜電気資格道場",
+      "link": "https://www.denki-shikaku-dojo.com/goodnotes-kakomon-benkyouhou/",
+      "summary": "iPad Air（第5世代） 持ち歩きやすい大きさで、カフェでもよく勉強していました。画面を左右に分けても、問題の文字と図がちゃんと読めます。 11インチ以上がおすすめ！ 画面を左右に分けても、問題と自分のノートが小さくなりすぎません。 👉 iPad AirをAmazonで見る Apple Penc...",
+      "published": "2026-10-30T13:03:05Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e01eaec2b295a9b15fe4784be002acb9",
+      "title": "AI時代、人間の音楽著作権どう守る JASRACが生成曲の検知へ（朝日新聞） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/85e366919356c7205191379528eead81a9a45f97",
+      "summary": "人工知能時代の新システム「KENDRIX」について語る日本音楽著作権協会（JASRAC）の水谷英彦氏=2026年8月28日、東京都港区、赤田康和撮影（朝日新聞） 日本音楽著作権協会（JASRAC）が、生成AI（人工知能）の普及を受け、人間が生み出した音楽を保護するための対策を進めている。AIが自律的...",
+      "published": "2026-10-30T13:24:05Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "adc97d027f32ed8054fdd4538af4d9b1",
+      "title": "喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断",
+      "link": "https://sirabee.com/2026/10/20/20163592078/",
+      "summary": "様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。 現在SNS上では、そうした傾向を如実に象徴するエピソードが物議を醸しているのだ。 ■ポスターコンクール受賞作に「AI生成」疑惑 ことの発端は、「僕が...",
+      "published": "2026-10-31T00:21:28Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c70a357b2053142cd1470e37eac4d398",
+      "title": "GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/",
+      "summary": "GMOグローバルサインが提供するID管理・シングルサインオン（SSO）サービス「GMOトラスト・ログイン」で発生した情報漏えいについて、同社は2026年10月30日15時、外部専門機関による調査結果をまとめた第三報を公表しました。第三者によるファイル取得が確認された対象は、従来公表の2,007社・3...",
+      "published": "2026-10-31T07:51:02Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc3359138f7b29db9064236b8b0e61c6",
+      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+      "summary": "暗号資産取引所で世界最大手のBinanceから約63億ドル（約1兆円）相当の暗号資産が流出した事件について、ブロックチェーン分析企業の米TRM Labsと米Chainalysisが、北朝鮮のハッカー集団「TraderTraitor」が関与したとの分析結果をそれぞれ発表した。同集団は、2025年2月に...",
+      "published": "2026-10-30T22:43:51Z",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2f4cce08f408ce82b04ccc8cb863a64",
+      "title": "GitHub - THU-MAIC/OpenMAIC: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click · GitHub",
+      "link": "https://github.com/THU-MAIC/OpenMAIC",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 THU-MAIC / OpenMAIC ⭐ 42,000 (+115) 🗒 TypeScript Open Multi-Agent Interactive Classroom — Get an immersive, multi-age...",
+      "published": "31 Oct 2026 13:17 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d8c130e960bb1d907d24714b19c8ad1",
+      "title": "GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions · GitHub",
+      "link": "https://github.com/bregman-arie/devops-exercises",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 bregman-arie / devops-exercises ⭐ 85,562 (+341) 🗒 Python Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, An...",
+      "published": "31 Oct 2026 12:17 +0000",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d97cb59a2226e0bd6df0436d6ca68118",
+      "title": "Vite+ 1.0がリリースされたので、アルファ版から増えた機能を試してみた",
+      "link": "https://dev.classmethod.jp/articles/vite-plus-v1-new-features-tried/",
+      "summary": "Vite+ 1.0がリリースされたので、アルファ版のv0.2.1から1.4までに増えた機能を試しました。vpx、vp hooks、create-vite-plus、vp pmやvp envの新しいコマンドなどを、実行結果とあわせて紹介します。",
+      "published": "Sat, 31 Oct 2026 13:52:21 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f620b43f52141dab9c582add0c9e6a4",
+      "title": "Grok Bot で自分の Mac の脆弱性チェックを毎日回してみた",
+      "link": "https://dev.classmethod.jp/articles/grokbot-mac-security-check/",
+      "summary": "Mac に入っているアプリやパッケージが最新の脆弱性の影響を受けるか、毎日自動でチェックして報告するボットを Grok Bot で立ててみました。読み取り専用で構成を取得し、公開の脆弱性情報と照合する仕組みと、実際に動かしてみた結果をお話しします。",
+      "published": "Sat, 31 Oct 2026 13:34:33 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "53272ea9183130ce8eb067a9548a9c2c",
+      "title": "【AWS 初心者向け】EBS のルートボリュームを拡張して、Linux 上の容量の変化を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/ec2-ebs-root-volume-expansion-linux/",
+      "summary": "EBS のサイズを変更したのに、Linux 上で使える容量が増えず、迷ったことはありませんか？この記事では、Amazon Linux 2023 のルートボリュームを実際に拡張しながら、ディスク・パーティション・ファイルシステムの違いと、各操作による容量の変化を初心者向けに解説します。",
+      "published": "Sat, 31 Oct 2026 12:54:13 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbe25b12ce35bfee993047354aaa5495",
+      "title": "Terraform の -minimal-refresh で plan 時間を短縮できるか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/terraform-minimal-refresh/",
+      "summary": "Terraform 1.17 で追加された `-minimal-refresh` オプションを実際に試してみました。3 階層構成で refresh 回数がどれだけ削減され、plan 時間が短くなるかを検証した結果をお伝えします。",
+      "published": "Sat, 31 Oct 2026 11:20:52 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fca247893846df05a3cfcfe31b16156f",
+      "title": "Terraform で Aurora PostgreSQL のポスト量子 TLS 鍵交換を設定できるか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-postgresql-pq-tls-terraform/",
+      "summary": "Aurora PostgreSQL 18 でポスト量子 TLS が利用可能になりました。クラスタパラメータ `ssl_groups` の設定方法を Terraform で試しましたので、その結果をお伝えします。",
+      "published": "Sat, 31 Oct 2026 10:14:29 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ef439564f62e95bdb42b28ae2de1b51",
+      "title": "Claude Code v2.1.316 の主要アップデート - サブエージェントの effort 指定と Opus 4.8 fast mode の非推奨",
+      "link": "https://dev.classmethod.jp/articles/20261031-cc-updates-v2-1-316/",
+      "summary": "Claude Code v2.1.316 がリリースされました。サブエージェントの effort を環境変数で指定できるようになり、セキュリティ関連の修正も多数含まれています。本日は、CLAUDE_CODE_SUBAGENT_EFFORT を試してみました。",
+      "published": "Sat, 31 Oct 2026 09:53:16 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc8bfad5ab40822b4cac6973d89c7843",
+      "title": "CORTEX_USER ・CORTEX_AGENT_USERデータベースロールによるCoCo in Snowsightの表示制御を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/display-control-coco-in-snowsight-with-cortex_user-cortex_agent_user/",
+      "summary": "Snowflake CoCo in Snowsightの利用制御向けのロールが変更されるため、新しい方法と、一部ユーザーのみに表示させる具体的な実装方法を確認してみました。",
+      "published": "Sat, 31 Oct 2026 09:29:04 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7565bb9640a33cc7dc45661383293832",
+      "title": "ハロウィン仕様のKiroのサイトにアクセスして「Kiroween」に参加しよう！",
+      "link": "https://dev.classmethod.jp/articles/join-to-kiroween-2026/",
+      "summary": "Kiroかわいい！ハロウィン仕様のKiroを観察してみました！それはそれとしてKiroのハッカソンも12月4日までやっていますよ！",
+      "published": "Sat, 31 Oct 2026 07:45:22 GMT",
+      "fetched_at": "2026-10-31T14:06:42.645476+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-31T07:48:32.550978+00:00"
+  "updated_at": "2026-10-31T14:06:42.645476+00:00"
 }

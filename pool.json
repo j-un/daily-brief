@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "4a14aad21fb2f0c19afd4c9a6a0c8247",
-      "title": "LLMs are making formal software verification feasible at a much larger scale \\ Anthropic",
-      "link": "https://www.anthropic.com/research/formal-verification",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 LLMs are making formal software verification feasible at a much larger scale",
-      "published": "30 Oct 2026 10:55 +0000",
-      "fetched_at": "2026-10-30T14:43:40.087516+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "24c674ef9cf0805c0791ca6bdd3ae43a",
       "title": "詳解: Amazon EKS Auto Mode によるノード障害の検出、修復、診断の仕組み | Amazon Web Services ブログ",
       "link": "https://aws.amazon.com/jp/blogs/news/under-the-hood-how-amazon-eks-auto-mode-detects-repairs-and-diagnoses-node-failures/",
@@ -839,7 +829,267 @@
       "fetched_at": "2026-10-31T14:06:42.645476+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "8a928e766aec2104b6f3c94c6525aa71",
+      "title": "UK Green party drops longstanding opposition to nuclear power",
+      "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+      "summary": "Article URL: https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy Comments URL: https://news.ycombinator.com/item?id=5031...",
+      "published": "Sat, 31 Oct 2026 17:37:22 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4fb9747a1653f6f6fd252d48f4db2a1",
+      "title": "Casio Watches of the 1980s",
+      "link": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "summary": "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 147 # Comments:...",
+      "published": "Sat, 31 Oct 2026 16:00:48 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a31ef5d4a3ce9fcdec1ecfd91328453",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://new...",
+      "published": "Sat, 31 Oct 2026 14:29:03 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "878f89c2281bade810c6d08b7f0941b1",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 160 # Comments: 110",
+      "published": "Sat, 31 Oct 2026 11:54:59 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf9827198cd4046b14ebdf7539674115",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 267 # Comments...",
+      "published": "Sat, 31 Oct 2026 10:30:11 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ab59995cacbb125b8701c445782186b1",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 254 # Comments: 153",
+      "published": "Sat, 31 Oct 2026 10:23:41 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87530a302fd52dcd7ab2f34c5d3cc350",
+      "title": "1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc",
+      "link": "https://sizu.me/hayatosc/posts/oxi9cff8k2bn",
+      "summary": "上記で紹介している事例がほんの一部なのはわざわざ言うまでもないだろう。もはや逆にどの個人情報が漏えいしていないのか探すほうが簡単なレベルである。どこのワッパーが漏らしたのか知らないが自分のところにも早速迷惑メールが送られてきた。 さて、こんな時代なのだから、個人のセキュリティも向上させることが急務....",
+      "published": "2026-10-31T03:55:45Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b39014025e2501277d7f36ae7be6b915",
+      "title": "GeoJSON入門 JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート",
+      "link": "https://blog.masahiko.info/entry/2026/10/31/113000",
+      "summary": "地理空間データを公開サイトやAPIから入手すると、.geojsonという拡張子のファイルに出会うことがあります。テキストエディタで開くと、波かっこと角かっこが並んだJSONです。 GeoJSONは、JSON（JavaScript Object Notation）で地図上の位置や形を表すための形式です...",
+      "published": "2026-10-31T10:59:48Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c60c695ecb0e8017a6fdeb1187eeb07",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "link": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "summary": "はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プ...",
+      "published": "2026-10-30T01:14:12Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bcd33406237c2bd83c9f3f88762c4316",
+      "title": "GMO 被害者情報集める不審サイト ハッカー側と関連か | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261031de69043",
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べで分かりました。 被害が公表されるより前に開…",
+      "published": "2026-10-31T16:20:52Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e7bd7a3d09e1cf514cd6648395d4e2f",
+      "title": "誰が何をしたか覚えていよう",
+      "link": "https://rememberwhodidwhat.github.io/",
+      "summary": "Q&Aのコーナー 政治的中立性はあるんですか？ 端的に言えば、ありません。 このプロジェクトの目指していることは「誰が何をしたか」これを覚えているための人々のコストを軽減することです。事実に忠実であること、事実に人々がアクセスしやすくなること。これらを重視しますが、その結果、特定の人物や団体の信頼性...",
+      "published": "2026-07-15T22:52:26Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c60fdb5c99c8fbfee541888fa430757",
+      "title": "アカウンタビリティを軸とした AI-Native 開発のデザイン戦略",
+      "link": "https://www.nttdata.com/jp/ja/-/media/nttdatajapan/files/services/adm/ai-native.pdf",
+      "summary": "",
+      "published": "2026-10-31T14:22:35Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "820e074b309a0340c969eddcb3eb9889",
+      "title": "身代金、４割に追加要求 急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス：時事ドットコム",
+      "link": "https://www.jiji.com/jc/article?k=2026103100100&g=eco",
+      "summary": "身代金、４割に追加要求 急増するランサム攻撃―専門家「支払いは解決ではない」・不正アクセス 時事通信 編集局2026年10月31日18時38分配信 【図解】ランサムウエア攻撃を受けた企業の対応 身代金目的でデータを暗号化するウイルス「ランサムウエア」の被害が急増している。身代金を支払っても約４割は追...",
+      "published": "2026-10-31T08:32:12Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6aa3d6f06f982842abbb7575912c860d",
+      "title": "Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/10/31/174341.html",
+      "summary": "",
+      "published": "2026-10-31T09:23:47Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5337ec9126e1fe5e7e8374820659ae4f",
+      "title": "third-intelligence/Haas-ja-v1.0 · Hugging Face",
+      "link": "https://huggingface.co/third-intelligence/Haas-ja-v1.0",
+      "summary": "Use this model Haas-ja-v1.0 Haas-ja-v1.0 is a Japanese speech recognition model built to be both fast and accurate. It is based on NVIDIA's Parakeet-T...",
+      "published": "2026-10-30T21:39:30Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "92d252e4d0496f65b144e0716b4eb979",
+      "title": "AIにありがちな「イマイチなコードコメント」9パターン - Qiita",
+      "link": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
+      "summary": "はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをしていると、「たぶん、これはAI...",
+      "published": "2026-10-31T09:34:07Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "334bbc8f6854d10d74b6ad89d6a5a685",
+      "title": "iPhone Duo レビュー。荒削り、電子書籍特化の逸品 - すまほん!!",
+      "link": "https://smhn.info/202610-202610-iphone-duo-review",
+      "summary": "Apple初の折りたたみiPhone「iPhone Duo」を購入しました。発売は10月23日で、国内価格は36万4800円から。カラーはナイトスカイとスターホワイトの2色で、筆者が購入したのはスターホワイトです。 先に結論を言うと、筆者はかなり気に入っており、満足しています。ただ、今現時点でおすす...",
+      "published": "2026-10-31T11:43:20Z",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05d76cea53edba091b5ba7d40ea168f5",
+      "title": "GitHub - Orkas-AI/Orkas: Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. · GitHub",
+      "link": "https://github.com/Orkas-AI/Orkas",
+      "summary": "💎 Hidden Gem！ 💎 (1000+ new stars) 📦 Orkas-AI / Orkas ⭐ 5,864 (+1,004) 🗒 JavaScript Orkas is an open-source (MIT), local-first AI team for your desktop...",
+      "published": "31 Oct 2026 14:17 +0000",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0098613abeb33e4daef1295f86665bf1",
+      "title": "CloudFront の AWS WAF SDK 自動統合を有効にして、HTML への script タグ挿入と応答の変化を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/waf-cloudfront-automatic-sdk-integration/",
+      "summary": "アプリケーションや CI/CD にタグを組み込むことなく、web ACL の設定だけで WAF SDK のシグナルを Bot Control などの判定に利用できます。一方で、ETag と Range 要求の扱いにも影響します。",
+      "published": "Sat, 31 Oct 2026 17:55:11 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6e7d4be8a334cf3fbd41e987a57ae822",
+      "title": "Amazon ECS の新機能 「ECS Gateway」 を試してみた",
+      "link": "https://dev.classmethod.jp/articles/try-amazon-ecs-gateway/",
+      "summary": "Amazon ECS Gateway でパブリック用とプライベート用のゲートウェイを作り、サービスの入口を分けました。接続したサービスには、AWS が管理するドメイン（on.aws）の HTTPS エンドポイントが割り当てられました。",
+      "published": "Sat, 31 Oct 2026 17:03:26 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0eaff01708fc67926ca5d2ba69bc23ef",
+      "title": "[アップデート] Amazon Redshift の自動クロスリージョンバックアップを Redshift Serverless で試してみた",
+      "link": "https://dev.classmethod.jp/articles/20261031-amazon-redshift-automated-cross-region-backups/",
+      "summary": "Amazon Redshift Serverlessの自動クロスリージョンバックアップ機能を東京から大阪へのコピーで試してみました。有効化時の最新スナップショットが次のスナップショット作成を待たずにコピーされ、以降のスナップショットとリカバリーポイントも自動でコピーされることを確認しました。",
+      "published": "Sat, 31 Oct 2026 15:09:47 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b7089fa054366b9491e8c95d6246368",
+      "title": "Amazon CloudFront の CloudFront-Viewer-ISP と CloudFront-Viewer-TLS-Details をオリジンで受け取ってみた",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-viewer-isp-tls-details/",
+      "summary": "Amazon CloudFront の CloudFront-Viewer-ISP と CloudFront-Viewer-TLS-Details ヘッダーを、オリジンで受け取って確認しました。ISP 名が空白を含む文字列で届き、keyExchange の値で PQC かどうかを見分けられました。",
+      "published": "Sat, 31 Oct 2026 15:00:11 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2f7acdd0fc8eeca572034d701db52de7",
+      "title": "【登壇レポート】DevelopersIO 2026 Tokyo に「コンテナサービスは ECS だけじゃない！Google Cloud の Cloud Runの魅力」というタイトルで登壇しました #devio2026",
+      "link": "https://dev.classmethod.jp/articles/devio2026-tokyo-cloud-run/",
+      "summary": "ECS をメインで扱う人に Google Cloud の Cloud Run の魅力を知ってもらいたくて、ECS と比較した Cloud Run の魅力をテーマに発表しました",
+      "published": "Sat, 31 Oct 2026 14:59:20 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8c1df008e4f9edc49f65e7d41d06362",
+      "title": "EBS スナップショットから、ログインできない EC2 の役割を無停止で調べてみる",
+      "link": "https://dev.classmethod.jp/articles/ebs-snapshot-offline-ec2-investigation-ks/",
+      "summary": "用途不明なEC2インスタンスの実体を調査する必要があったため、EBSスナップショットから別のインスタンスに読み取り専用でマウントし、ファイルとログから役割・利用履歴・定期処理を特定する方法を試してみました。",
+      "published": "Sat, 31 Oct 2026 14:41:53 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fe0f81f992229e0216ac306d9953a54",
+      "title": "Compute Engine にブラウザコンソールから SSH しよう",
+      "link": "https://dev.classmethod.jp/articles/compute-engine-ssh-from-browser-os-login/",
+      "summary": "Compute Engine のインスタンスには、ブラウザから SSH することができます。本記事では、プライベート環境のインスタンスに IAM 権限を通じて SSH アクセスするための設定手順を解説します。",
+      "published": "Sat, 31 Oct 2026 14:37:21 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b1fdde29cd8246b7b04a5e768ab4889",
+      "title": "AWS ConfigのResourceComplianceを記録除外して一部リソースタイプだけコンプライアンス変更通知を設定してみた",
+      "link": "https://dev.classmethod.jp/articles/config-resourcecompliance-scoped-notification/",
+      "summary": "AWS Configの費用高騰を避けたいけど、一部のリソース履歴は残しておきたい…そんな課題はありませんか？今回は、ResourceComplianceの記録を除外しつつ、EventBridgeとの組み合わせで特定のリソースタイプだけ準拠状態を記録する方法をご紹介します。",
+      "published": "Sat, 31 Oct 2026 14:27:42 GMT",
+      "fetched_at": "2026-10-31T19:38:36.663014+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-10-31T14:06:42.645476+00:00"
+  "updated_at": "2026-10-31T19:38:36.663014+00:00"
 }

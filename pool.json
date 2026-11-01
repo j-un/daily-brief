@@ -1,4 +1,165 @@
 {
-  "articles": [],
-  "updated_at": "2026-10-31T23:26:53.332280+00:00"
+  "articles": [
+    {
+      "entry_id": "4490ab6d37b9274de81123cdcb50d6b5",
+      "title": "Linuxカーネル解読室プロジェクト: 新Linuxカーネル解読室 - UDPレイヤーにおける送信処理 (2) - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20261022",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 新Linuxカーネル解読室 - UDPレイヤーにおける送信処理 (2)",
+      "published": "01 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2233e8a03be0c82f63505dc75764811b",
+      "title": "eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/10/23/021328",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 eMudhraの中間CA証明書の秘密鍵の危殆化についてまとめてみた",
+      "published": "01 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "07f402462cdb9e9c6efe40c1520a692b",
+      "title": "内製 Background Coding Agent “haro” で拓く未来の開発体験 - LayerX エンジニアブログ",
+      "link": "https://tech.layerx.co.jp/entry/why-we-built-our-background-agent",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 内製 Background Coding Agent “haro” で拓く未来の開発体験",
+      "published": "31 Oct 2026 23:55 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ace8a6b3d58e6b5e89fc60661c5d0584",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995...",
+      "published": "Sat, 31 Oct 2026 22:46:12 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ee6c85034d7c99eaaf8ed915a4c315d",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180...",
+      "published": "Sat, 31 Oct 2026 22:41:06 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f81ba86167bbc2e077bcfc4f38496c53",
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "summary": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering Comments URL: https://news.ycombinato...",
+      "published": "Sat, 31 Oct 2026 21:07:58 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cbb6a1e767a9766c98a0f89ed69dec8",
+      "title": "It's the memory latency, stupid",
+      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 142 # Commen...",
+      "published": "Sat, 31 Oct 2026 18:38:16 +0000",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78c98adb7d02c405468aecbbe1f26b30",
+      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法",
+      "link": "https://techblog.kazaneya.com/20261030-agent-skills/",
+      "summary": "風音屋では、データエンジニア、データアナリスト、データコンサルタントを募集しています。 書籍執筆者やOSSコントリビューターなど、業界を代表する20名以上のアドバイザーと一緒にベストプラクティスを追求できる環境です。 ご興味のある方は、ぜひご応募ください。 風音屋（@Kazaneya_PR）のゆずた...",
+      "published": "2026-10-30T10:18:57Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a70f6f535bc153f15a8f9e5b1722250",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "summary": "米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化...",
+      "published": "2026-11-01T00:58:30Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cfe941440e84063d7a1409f6ebea1031",
+      "title": "ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」",
+      "link": "https://www.afpbb.com/articles/-/3660265",
+      "summary": "バチカンのサンピエトロ広場での毎週の一般謁見で群衆に手を振るローマ・カトリック教会の教皇レオ14世（2026年10月21日撮影）。（c）Tiziana FABI/AFP 【10月31日 AFP】ローマ・カトリック教会の教皇レオ14世（71）は30日、人工知能（AI）エージェントに法的人格や権利を与え...",
+      "published": "2026-10-31T05:05:33Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f489370db410b79862208d9c4dd65ae",
+      "title": "streamAppendHTML() で AI の回答を HTML のままストリーミング描画する",
+      "link": "https://azukiazusa.dev/blog/stream-append-html/",
+      "summary": "LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では...",
+      "published": "2026-10-31T23:34:46Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "475b0a0cb83db6eb1e841cf32bc4a824",
+      "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
+      "link": "https://aws.amazon.com/security/security-bulletins/2026-160-aws/",
+      "summary": "The sessions are set and your seat is waiting. Register now",
+      "published": "2026-11-01T00:19:58Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8a16d0653347bd43575ef6d2573c70c",
+      "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで",
+      "link": "https://japan.cnet.com/article/35254251/",
+      "summary": "不正アクセスを受けたのは、特典の申し込みなどに使われる外部サービスの提供元、NTTデータの委託先が提供する「デジタル証券プラットフォーム」。楽天証券はNTTデータから、システム内の情報が外部に持ち出された可能性があるとの報告を受けた。発生日時は10月30日としている。 対象は「カゴメ株式会社 第1回...",
+      "published": "2026-10-31T23:27:23Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7265591cb2cc3ee05d32add829f11dfb",
+      "title": "楽天証券、顧客情報流出の可能性 NTTデータ委託先不正アクセスで（CNET Japan） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/005b8b559abd8087bf6998381fecfc02882aa2e1",
+      "summary": "楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は10月31日、デジタル特典付き社債を購入した一部の顧客の情報延べ362件が、外部サービスへの不正アクセスで漏えいした可能性があると発表した。楽天証券自身のシステムが不正アクセスを受けたものではないとしている。 不正アク...",
+      "published": "2026-11-01T01:54:39Z",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "448ab12ef338255eb172b2ec8ed59c00",
+      "title": "[新機能]AI_PARSE_DOCUMENTのAGENTICモードで図表付きPDFを解析し、Cortex Agentでテーブルと横断分析する構成を試してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-try-ai-parse-document-with-agentic-mode/",
+      "summary": "Snowflakeの`AI_PARSE_DOCUMENT`に新しく追加された**`AGENTIC`モード**を使い、PDFのテキストだけでなくグラフや表などの視覚要素も抽出して検索可能にする方法を試してみました。決算報告書と会社紹介資料を事前解析し、Cortex SearchとCortex Anal...",
+      "published": "Sun, 01 Nov 2026 02:19:09 GMT",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "db20d4b1e10e92d88bbf676878568372",
+      "title": "Amazon SQS のメッセージをコンソールで表示しただけで、デッドレターキューに移りました。原因を教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-sqs-console-poll-messages-dlq-receive-count/",
+      "summary": "Amazon SQSのマネジメントコンソールでメッセージを表示しただけなのに、デッドレターキューに移ってしまう現象についての原因と対策をまとめました。",
+      "published": "Sun, 01 Nov 2026 01:00:16 GMT",
+      "fetched_at": "2026-11-01T03:34:14.515044+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-11-01T03:34:14.515044+00:00"
 }

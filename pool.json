@@ -1749,7 +1749,117 @@
       "fetched_at": "2026-11-03T01:55:39.655147+00:00",
       "feed_name": "ICON",
       "category": "music"
+    },
+    {
+      "entry_id": "2e9b9814d1b14a4dcac460fe83e79c74",
+      "title": "Just a moment...",
+      "link": "https://webtan.impress.co.jp/e/2026/10/30/53519",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 メンテ中に503は正しいけど、「robots.txtは200」がグーグル推奨。これは知らなかった！【SEOまとめ】",
+      "published": "03 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8eec7f41b3253bd53f65e782f92eb74f",
+      "title": "AI時代のシニアエンジニアとは - Speaker Deck",
+      "link": "https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代のシニアエンジニアとは",
+      "published": "03 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cd599c865fb39b82e48180bb7df94c2f",
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "link": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947...",
+      "published": "Tue, 03 Nov 2026 00:08:53 +0000",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e9e520178924e7257ee3ffbfdcb1c9f",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "summary": "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news....",
+      "published": "Mon, 02 Nov 2026 17:47:40 +0000",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3249f5ffced6d94bf78b3bf5b2eda205",
+      "title": "Kiro が自身のハーネスの性質を Lean で証明する",
+      "link": "https://aws.amazon.com/jp/blogs/news/harness-properties-in-lean/",
+      "summary": "Kiro が自身のコードの一部を Lean でモデル化し、そのモデルについての定理を証明し、各モデルを TypeScript、Rust、Python のコードと照らし合わせる作業を、自動で進める仕組みを作りました。最初に適用した対象は Kiro 自身です。",
+      "published": "Tue, 03 Nov 2026 02:03:10 +0000",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "401a756d4c3b82c8576e456dfd082b1a",
+      "title": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now lets you turn off automatic minor version upgrades on new and existing DB instances tha...",
+      "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1fa23e9eb22a11889e66cb2c1960fb41",
+      "title": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/",
+      "summary": "AWS Glue Data Catalog now supports OAuth 2.0 bearer token authentication for Apache Iceberg REST Catalog (IRC) APIs using AWS Sign-In. The Apache Iceb...",
+      "published": "Mon, 26 Oct 2026 04:00:00 GMT",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa492c09686154864ae938b6a765c580",
+      "title": "Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/",
+      "summary": "Starting today, you can reserve compute capacity for your Amazon Aurora and Amazon RDS DB instances in one or more Availability Zones for as long as y...",
+      "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4717cd22a59284d0be1d4ef22bb1174",
+      "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+      "summary": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…",
+      "published": "2026-11-02T23:52:35Z",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e196a20ca49f1c358277f464419d20f",
+      "title": "Claude Codeで要件シートからデータ基盤の全体像を作るSkillを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/claude-code-data-platform-overview-skill/",
+      "summary": "データ基盤の案件で要件をまとめるのに時間がかかる課題を解決するため、要件シートの回答からデータ基盤の全体像を HTML で自動生成する Skill を作って試してみました。",
+      "published": "Tue, 03 Nov 2026 02:16:56 GMT",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6bd9bdfede1b5908bfed39ae8f48fed0",
+      "title": "小さな修正こそ不具合の証明に責任を持つべきだと OpenJD で実感した話 #OSSコントリビュート",
+      "link": "https://dev.classmethod.jp/articles/oss-small-fix-proof-openjd/",
+      "summary": "業務で踏んだ不具合を突き止め、OpenJD に小さな修正を送りました。結論としては、修正が小さくても、原因の特定と不具合を証明するテストまでを自分で担って渡すことが大切だと感じました。",
+      "published": "Tue, 03 Nov 2026 01:57:40 GMT",
+      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-03T01:55:39.655147+00:00"
+  "updated_at": "2026-11-03T03:11:49.019861+00:00"
 }

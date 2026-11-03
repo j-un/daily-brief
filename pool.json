@@ -1,36 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "06054f83e63efc955b869c3bee6711df",
-      "title": "AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」 - GIGAZINE",
-      "link": "https://gigazine.net/news/20261027-nietzschian-debugger/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIが答えを教える代わりにあえて質問攻めにすることで開発者を鍛えるデバッグツール「Nietzschian Debugger」",
-      "published": "02 Nov 2026 06:55 +0000",
-      "fetched_at": "2026-11-02T08:40:44.764664+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2608dfae24b61fee285d06600838584f",
-      "title": "プルリクエストのリスクを判定する仕組み - newmo 技術ブログ",
-      "link": "https://tech.newmo.me/entry/2026/10/27/100000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 プルリクエストのリスクを判定する仕組み",
-      "published": "02 Nov 2026 05:55 +0000",
-      "fetched_at": "2026-11-02T08:40:44.764664+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "975be7b71475faab347097ecd33d205d",
-      "title": "3回つくってわかった、 定期実行ジョブ基盤の本質情報 - Speaker Deck",
-      "link": "https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 3回つくってわかった、 定期実行ジョブ基盤の本質情報",
-      "published": "02 Nov 2026 03:55 +0000",
-      "fetched_at": "2026-11-02T08:40:44.764664+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "5b82ece9d64a278f0425e4d8b06a9a9c",
       "title": "MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks",
       "link": "https://www.preferred.jp/ja/blog/tech/1798",
@@ -419,7 +389,637 @@
       "fetched_at": "2026-11-03T08:54:03.510335+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "563219883fa065c7e31f770fcf3af94d",
+      "title": "Security check",
+      "link": "https://codezine.jp/article/detail/30081",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 エンジニアが「勝手に育つ時代」は終わった ～エンジニアを育ててきた装置はAIで壊れた～",
+      "published": "03 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78c98adb7d02c405468aecbbe1f26b30",
+      "title": "AIエージェント向けの業務手順書（Agent Skills）の設計方法 - 風音屋TechBlog",
+      "link": "https://techblog.kazaneya.com/20261030-agent-skills/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIエージェント向けの業務手順書（Agent Skills）の設計方法 - 風音屋TechBlog",
+      "published": "03 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d78c4e7d39f81ec2bcfb362d64dd6d7",
+      "title": "Claude Artifact",
+      "link": "https://claude.ai/artifact/2SSanrK65o9YFD91ec4NLt",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Claude Artifact",
+      "published": "03 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86e4f02354d0a7c5896de7ea875937b5",
+      "title": "視野はAIに、視座は人に / ai-for-breadth-humans-for-perspective - Speaker Deck",
+      "link": "https://speakerdeck.com/nkzn/ai-for-breadth-humans-for-perspective",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 視野はAIに、視座は人に / ai-for-breadth-humans-for-perspective",
+      "published": "03 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "689d934738b7f736bda0bd8699bc5ed7",
+      "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+      "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "summary": "https://archive.ph/RuwsBhttps://blog.google/products-and-platforms/products/educatio... Comments URL: https://news.ycombinator.com/item?id=50353192 Po...",
+      "published": "Tue, 03 Nov 2026 15:25:47 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "416408ca8cc8116015c7d973aeb79dbb",
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "link": "https://news.ycombinator.com/item?id=50352757",
+      "summary": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/...",
+      "published": "Tue, 03 Nov 2026 14:53:41 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b45e1f5cf5f18c57227de9e3347e17e",
+      "title": "Just a little AI resistance, as a treat",
+      "link": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/ Comments URL: https://news.ycombinator.com/item?id=50352257 Poin...",
+      "published": "Tue, 03 Nov 2026 14:14:12 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a5b7e099adb321a406574702bb7a193",
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "link": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "summary": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading Comments URL: https://news.ycombinator.com/item?id=50351111 Points: 678 # Comments:...",
+      "published": "Tue, 03 Nov 2026 12:21:17 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40e39fa7986216b5336b0407feb05405",
+      "title": "Revolut moves to self-hosted GLM",
+      "link": "https://twitter.com/guilleflorvs/status/2117379073785696395",
+      "summary": "Article URL: https://twitter.com/guilleflorvs/status/2117379073785696395 Comments URL: https://news.ycombinator.com/item?id=50350004 Points: 171 # Com...",
+      "published": "Tue, 03 Nov 2026 09:53:59 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb81e18676097368e0c2e27dc90c934d",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "link": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "summary": "Article URL: https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html Comments URL: https://news.ycombinator.com/item?id=50349276...",
+      "published": "Tue, 03 Nov 2026 07:56:21 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6697fd5ffdfda9f3ac4e52771119cf44",
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "summary": "Article URL: https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html Comments URL: https://news.ycombinator.com/item?id=...",
+      "published": "Tue, 03 Nov 2026 07:36:47 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fb2a08103b07f65e0777f836292702f",
+      "title": "Nvidia – open-source auto-ontology",
+      "link": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "Article URL: https://github.com/NVIDIA/auto-ontology Comments URL: https://news.ycombinator.com/item?id=50348962 Points: 236 # Comments: 93",
+      "published": "Tue, 03 Nov 2026 07:04:50 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b784618014376619e94daa68a248a1cb",
+      "title": "Anthropic's growth just flattened",
+      "link": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "summary": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 225 #...",
+      "published": "Mon, 02 Nov 2026 22:33:20 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33a5aba1a802cc75604c166614b3ac4e",
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "link": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "summary": "Article URL: https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/ Comments URL: https://news.ycombinato...",
+      "published": "Mon, 02 Nov 2026 22:26:53 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe95de2a635c655d4993cc674d2e5e45",
+      "title": "ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話",
+      "link": "https://anond.hatelabo.jp/20261103160506",
+      "summary": "お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、...",
+      "published": "2026-11-03T07:06:48Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cbc63c8c7bda4e9029009e98c824272",
+      "title": "毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+      "link": "https://note.com/t_yabuhara/n/n7871bfc65d5c",
+      "summary": "はじめに「毎年1万円弱で更新していたドメインが、ある日突然17万円に…」 そんな話、信じられますか？ しかし、これは私が管理している 「taro.bar」 というドメインで起きた現実です。今回はその経緯と、国際ルールとの衝突をテーマに書いてみようと思います。 実際に起きたことこれまで「taro.ba...",
+      "published": "2025-09-08T08:51:43Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9acd2144de976bff5033dd477f8eacd9",
+      "title": "Protocol Explorer · Learn how the internet works",
+      "link": "https://protocol-explorer-alpha.vercel.app/",
+      "summary": "Watch the internet work, packet by packet. Interactive lessons on HTTP, HTTPS, TCP, UDP, IP, DNS, DHCP, ICMP, SMTP, POP3, IMAP, FTP, SSH and TLS, with...",
+      "published": "2026-11-03T03:40:37Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "db23a67f04f069ad748af2e93606f0b0",
+      "title": "ADRをregoでlintする",
+      "link": "https://zenn.dev/babarot/articles/regomark-adr-checker",
+      "summary": "AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを AD...",
+      "published": "2026-11-03T11:32:21Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7304b37e87cd70cc93d39ddf1a5a8353",
+      "title": "142. ISUCON2026で優勝する方法 w/ kawasy | fukabori.fm",
+      "link": "https://fukabori.fm/episode/142",
+      "summary": "MP3ファイルをダウンロード 内容紹介 kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。 出演者 話したネタ ISUCON2026で、競技中に人間が介入せず優勝 fukabor...",
+      "published": "2026-11-02T14:50:40Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc20f3f34c9ccd9415fdd117554535f4",
+      "title": "セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/",
+      "summary": "セブン―イレブン・ジャパンは3日、宅配サービス「セブンナウ」の業務委託先が不正アクセスを受け顧客情報が流出したと発表した。注文者の名前や住所など16万件超が流出した。不正利用などの被害は現時点で確認されていないという。セブンナウの配達業務の一部を委託しているCBcloud（CBクラウド、東京・千代田...",
+      "published": "2026-11-03T11:16:21Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "500b09abef9a32d1d7f41b027fffb751",
+      "title": "続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎",
+      "link": "https://note.com/t_yabuhara/n/nf9692965d028",
+      "summary": "結論前回お知らせした taro.bar の件は、残念ながら状況が変わりませんでした。上位レジストリによるプレミアム化という説明のもと、更新価格は 171,517 円の提示が維持され、販売会社の裁量では変更できないという回答でした。補償策として、別ドメイン取得に充当できる 1 万円分のポイント付与をご...",
+      "published": "2026-11-03T13:56:36Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a29d5a6e2e2ce9bc97278cafb1d06402",
+      "title": "【やじうまミニレビュー】 550円なのに240W！ワッツの巻取USB-Cケーブルは“やりすぎ”スペック",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2153264.html",
+      "summary": "",
+      "published": "2026-11-03T01:33:41Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7223fb183ef201287fd80fb69941db3",
+      "title": "携帯4社、通品品質は「2強2弱」？ ドコモと楽天モバイルの現状は (1/5)",
+      "link": "https://ascii.jp/elem/000/004/447/4447827/",
+      "summary": "イギリスの調査会社であるOpensignalは10月28日、日本における2026年10月版「モバイル・ネットワーク・ユーザー体感レポート」を発表した。 auが「信頼性」や「一環した品質」の通信品質2部門、動画やゲームなどアプリ体感など8部門で、計10部門で受賞となった。 Opensignalのプリン...",
+      "published": "2026-11-02T23:47:09Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b9fed24e1c59b8dd460992d074131bd",
+      "title": "欧州7カ国のスーパー冷蔵・冷凍庫にサイバー攻撃 大量の食品が廃棄に - BBCニュース",
+      "link": "https://www.bbc.com/japanese/articles/cw4g13jp5l2vo",
+      "summary": "画像説明, スーパーの冷凍庫から大量の食品を廃棄するため取り出すスタッフ（2日、スウェーデン・ショーボ）",
+      "published": "2026-11-03T04:18:56Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2113981953d4ce52d590d17cbf4f21e4",
+      "title": "Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/cve_2025_1974_ingressnightmare_kubernetes_ingress_nginx_eol_20261102/",
+      "summary": "Kubernetes「CVE-2025-1974」はCVSS 9.8、認証不要のコード実行でクラスター侵害のおそれ Ingress NGINXは2026年3月に保守終了 Kubernetes向けのIngress NGINX Controller（ingress-nginx）に存在した重大な脆弱性「C...",
+      "published": "2026-11-02T11:17:07Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b282d6af8ca0f1dcd47b3ccca7b28817",
+      "title": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka",
+      "link": "https://note.com/npaka/n/ncccb2783a262",
+      "summary": "1. はじめに2026年9月8日、Metaは常駐型AIエージェント「Muse」のセキュリティ設計について、技術記事「How We Built Safety Into Muse」を公開しました。 Museは、ユーザーの好みや個人情報を記憶し、メールの確認、予定の管理、買い物、Web操作などを自律的に実...",
+      "published": "2026-11-03T08:33:54Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d281a8d41f7ad087c62ceb5273ad213a",
+      "title": "月額無料のAI通訳イヤフォン「W4 Plus」を試す 翻訳精度をオンラインとオフラインで比較した",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
+      "summary": "Timekettle（タイムケトル）が10月8日に応援購入サービス「Makuake」で先行販売を開始した「W4 Plus」は、AI通訳イヤフォンの新モデルだ。Makuakeでは4万8999円からのリターンを用意しており、一般販売予定価格は6万7999円となっている。リターンは2027年1月末までに配...",
+      "published": "2026-11-03T03:29:37Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f221a79da3cf478e59aa5fdecc50ea98",
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand? | Hacker News",
+      "link": "https://news.ycombinator.com/item?id=50151036",
+      "summary": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m... > I'm an engine...",
+      "published": "2026-11-03T01:10:06Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8ea765edc07641d0b1eb06742bf04c5",
+      "title": "勉強会の懇親会が苦手な人も楽しめる場をつくりたい",
+      "link": "https://speakerdeck.com/ohmori_yusuke/benkyoukai-no-konshinkai-ga-nigatena-hito-mo-tanoshimeru-ba-o-tsukuritai",
+      "summary": "https://fortee.jp/komekaigi-2026/proposal/a8e0ca48-c360-4c2a-ac7c-7c813754b4ac",
+      "published": "2026-10-31T11:37:01Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "57c0b87e8682b5b080e509cf6f11141a",
+      "title": "ChatGPT、チャットなら利用上限を気にせず使える時代が終了へ “高度な推論”も利用量に応じた制限に",
+      "link": "https://ascii.jp/elem/000/004/447/4447897/",
+      "summary": "sponsored 弱点のインターフェースを拡張する必携の周辺機器だ MacBook Neoのカラバリに対応したシゴデキ周辺機器レビュー！ SatechiのUSB Type-Cハブ2機種＆静音モバイルマウス sponsored サードウェーブ「GALLERIA EPC7I-R57T-B」 約19Lの...",
+      "published": "2026-11-02T08:14:17Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac40c8b9062f574e5489578e9931d701",
+      "title": "サム・アルトマン「バグ全部修正するのはもうムリ」 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/",
+      "summary": "GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。 国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案...",
+      "published": "2026-11-03T10:25:28Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c475588a3ca9a31352f41313f9ff6951",
+      "title": "Evernoteの大幅値上げの裏では200回超の実験を通じて料金や機能の調整が進められていた",
+      "link": "https://gigazine.net/news/20261103-evernote-pricing-experiments/",
+      "summary": "メモアプリ「Evernote」では有料プランの再編によって一部のユーザーの利用料金が大きく上がっています。そんなEvernoteについて、ニュースサイトのArs Technicaが長年使い続けるユーザーを収益増につなげる料金戦略を分析しています。 Discontinuing Evernote Per...",
+      "published": "2026-11-02T23:04:26Z",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eeaf9b0a846d0e4c83410f7d635e7084",
+      "title": "GitHub - floci-io/floci: Light, fluffy, and always free - The AWS Local Emulator alternative · GitHub",
+      "link": "https://github.com/floci-io/floci",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 floci-io / floci ⭐ 28,186 (+219) 🗒 Java Light, fluffy, and always free - The AWS Local Emulator alternative",
+      "published": "03 Nov 2026 14:17 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76d7fff5eff11c6414f8d2279c526347",
+      "title": "GitHub - spotify/portal-ai-plugins · GitHub",
+      "link": "https://github.com/spotify/portal-ai-plugins",
+      "summary": "📦 spotify / portal-ai-plugins ⭐ 2,918 (+94) 🗒 TypeScript",
+      "published": "03 Nov 2026 13:17 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e693c29af62039d39031818906700666",
+      "title": "GitHub - Usagi-org/ai-goofish-monitor: 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 · GitHub",
+      "link": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Usagi-org / ai-goofish-monitor ⭐ 16,117 (+204) 🗒 Python 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助...",
+      "published": "03 Nov 2026 12:17 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "164f906daa30d5087d70396c0158e395",
+      "title": "OpenAIがGitサーバーを作り直した「Pando」について調べてみた",
+      "link": "https://dev.classmethod.jp/articles/openai-pando-git-backend/",
+      "summary": "OpenAIのGit互換バックエンドPandoの設計を、pushからfetchまで具体例で解説します。trunkを土台にしたpackfile再利用、ref versionによる依存関係の管理、因果整合性、地域キャッシュ、compactionの役割を整理します。",
+      "published": "Tue, 03 Nov 2026 16:06:03 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ed4ded8f867506939c723efa2438f10",
+      "title": "Aurora MySQL 3.14 がリリースされたので、変更点を確認して PQ 鍵交換を試してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-mysql-314-pq-tls/",
+      "summary": "Aurora MySQL 3.14.0 の PQ 鍵交換を Amazon Corretto 27 から試しました。デフォルトのパラメータグループのまま、設定変更なしで X25519MLKEM768 がネゴシエートされました。",
+      "published": "Tue, 03 Nov 2026 15:49:52 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "00fcbe0201cd55e5f5e76474f6b85a9d",
+      "title": "Aurora MySQL 8.4.10 がリリースされたので、変更点を確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-mysql-8410-release-changes/",
+      "summary": "Aurora MySQL 8.4.10 で max_connections の上限が 50,000 になりました。Aurora Serverless v2（最大 8 ACU）で 16001、30000、50000 を再起動せず設定できることを Data API で確認し、サポート期間も整理しました。",
+      "published": "Tue, 03 Nov 2026 15:14:10 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "be8a2de902b571f51d8a612125c3dd9b",
+      "title": "Claude Enterprise で Claude Code の利用をパターン別に止めてみた",
+      "link": "https://dev.classmethod.jp/articles/claude-enterprise-claude-code-web-desktop-ide-cli/",
+      "summary": "Claude Enterprise の組織設定で Claude Code を制限する際、デスクトップとブラウザだけでなく CLI や IDE からのアクセスもしっかり制御できるのか、4つの使い方で検証してみました。",
+      "published": "Tue, 03 Nov 2026 14:21:33 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "644d03ec5d4a36d9a43f1a3fcc142351",
+      "title": "[新プラン] Amazon Quick で Essentials プランが発表されました",
+      "link": "https://dev.classmethod.jp/articles/amazon-quick-essentials/",
+      "summary": "AI 機能を使っていた組織からすると嬉しいプランの登場だが、BI 機能のみだった組織から見ると、、、どうなるか！？",
+      "published": "Tue, 03 Nov 2026 13:56:50 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "21789337b79f96089df7d182a89b228a",
+      "title": "ISUCON2026 出場記(18位)",
+      "link": "https://dev.classmethod.jp/articles/isucon2026-suekou/",
+      "summary": "コードは1行も書かずAIと挑み、ISUCONで18位を獲得した記録とハーネス設計の知見まとめ",
+      "published": "Tue, 03 Nov 2026 13:53:23 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "561951e3ae7d4a93aa963e32847156a7",
+      "title": "Google Cloud の組織間プロジェクト移行をやってみた",
+      "link": "https://dev.classmethod.jp/articles/myan-google-cloud-cross-org-migration/",
+      "summary": "Google Cloud のプロジェクトを別の組織へ移行する一連の流れ（ロール付与、組織ポリシーの設定、移行、切り戻し、後片付け）を、Gmail アカウント2つで作ったスタンドアロン組織を使って試してみました。ドメインを持っていなくても、個人の環境で組織間の移行を検証できました。",
+      "published": "Tue, 03 Nov 2026 13:48:47 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "80f0e7d0aca9bbe2cc86cb68df531c1a",
+      "title": "FlutterKaigi 2026 公式サイトにコントリビュートした話と、Jaspr 開発者によるセッションのレポート",
+      "link": "https://dev.classmethod.jp/articles/flutterkaigi-2026-jaspr/",
+      "summary": "Dart で Web サイトを作れる Jaspr について、FlutterKaigi 2026 のセッション内容をもとに概要を紹介しつつ、公式サイトを static モードで運用して学んだことをまとめました。",
+      "published": "Tue, 03 Nov 2026 11:42:53 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "34412706516a140254692f01feeb1d51",
+      "title": "Amazon Inspector の AMI スキャンで、約8か月前の Amazon Linux 2023 を更新して再スキャンしてみた",
+      "link": "https://dev.classmethod.jp/articles/inspector-ami-scan-al2023-update/",
+      "summary": "Amazon Inspector の AMI スキャンで、3月版と11月版の AL2023 を比べました。検出は3月版が 3,161件、11月版が 0件でした。3月版を更新して作り直すと 2,743件に減りましたが、残りはすべて旧カーネル 6.18 の rpm で、旧カーネルを撤去して作り直すと 0...",
+      "published": "Tue, 03 Nov 2026 11:02:23 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2cf61cd4870aa4bb2256663a8fdd79c2",
+      "title": "AI が書いて AI が審査する OSS へ再現と検証を添えて修正を送った話 #OSSコントリビュート",
+      "link": "https://dev.classmethod.jp/articles/oss-ai-writes-ai-reviews-beads/",
+      "summary": "Beads で踏んだ不具合を Claude Code と直し、上流へ送りました。送った先の開発元も、AI で修正を作り直して審査していました。結論としては、AI が修正を書き、AI が審査する場でも、受け入れの決め手は不具合の再現と修正の検証でした。",
+      "published": "Tue, 03 Nov 2026 11:00:11 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a4f8794d8f398fa41d104300bade759",
+      "title": "CloudFront から東京リージョンの ALB への応答時間を VPC オリジン・HTTP/HTTPS・Origin Shield で比べてみた",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-vpc-origin-http-origin-shield-latency/",
+      "summary": "CloudFront からオリジンへの応答時間を、VPC オリジンの有無、HTTP/HTTPS、Origin Shield の有無を組み合わせた 8 構成で、地域別に比べました。VPC オリジンによる差は最大でも約 10 ms、Origin Shield は HTTPS で最大約 500 ms 短縮...",
+      "published": "Tue, 03 Nov 2026 10:14:39 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5d5a48e3c6c362407c641cc7416c2cc",
+      "title": "内部ALB経由の Cloud Run へ PSC と VPC Peering でつないで接続元IPを比べてみた",
+      "link": "https://dev.classmethod.jp/articles/psc-vs-vpc-peering-cloud-run-source-ip/",
+      "summary": "",
+      "published": "Tue, 03 Nov 2026 10:13:25 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b82f6acda9d18ed1926773fd387d3ba3",
+      "title": "[Amazon GuardDuty] 100 GB のファイルを S3 マルウェアスキャンに通して、上限の境界・所要時間・料金を実測してみました",
+      "link": "https://dev.classmethod.jp/articles/guardduty-s3-malware-scan-100gb-file-limit-time-cost/",
+      "summary": "Amazon GuardDuty Malware Protection for S3 の 100 GB ファイルスキャン上限について、実測で検証しました。上限は 10 進か 2 進か、超過時の挙動、処理時間や費用がいくらかかるのかを、1 バイト単位で確かめてみました。",
+      "published": "Tue, 03 Nov 2026 09:50:55 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "821148753b87e975acb91d726ec580fb",
+      "title": "Obsidian 1.15のCLIで見出しを指定して追記する",
+      "link": "https://dev.classmethod.jp/articles/obsidian-append-under-heading/",
+      "summary": "Obsidian 1.15で、CLIとURIの追記に見出しを指定するheadingが加わりました。追記される位置、見出し名の一致条件、URIのspacing、見出しが見つからないときの挙動をテスト用のVaultで確かめ、1.14.5とも比べています。",
+      "published": "Tue, 03 Nov 2026 09:35:41 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "132931af93710f2615475352c332a857",
+      "title": "Claude Code v2.1.317 の主要アップデート - 別モデルのサブエージェントの effort 変更と Read のスタブ削除",
+      "link": "https://dev.classmethod.jp/articles/20261103-cc-updates-v2-1-317/",
+      "summary": "Claude Code v2.1.317 がリリースされました。別モデルで動くサブエージェントの effort 変更と Read ツールのスタブ削除を中心に、87 件の変更内容をセキュリティ・破壊的変更・新機能の視点から解説します。本日は、別モデルのサブエージェントの effort を試してみました...",
+      "published": "Tue, 03 Nov 2026 09:26:22 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "41d287a680f59f4032a3d0d0c1465713",
+      "title": "NVIDIA が配る Agent Skills の使い方と探し方を整理してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-agent-skills-catalog-claude-code/",
+      "summary": "NVIDIA のサービスやドキュメントの多さに迷う人向けに、公式 Agent Skills の中身と使い方を紹介します。製品名を出さずに目的だけを伝えても、finder は Omniverse や NeMo RL の skill を選んで推薦しました。Claude Code への入れ方と入れる前の確...",
+      "published": "Tue, 03 Nov 2026 09:21:06 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5cc4029b15ced0e545fed2c39f399065",
+      "title": "EC2 の OS（Ubuntu 24.04 ） パッチ運用を Patch Manager 前提で考えてみた",
+      "link": "https://dev.classmethod.jp/articles/shoma-designed-os-patch-operations-for-ubuntu-24-04-ec2-based-on-patch-manager/",
+      "summary": "EC2 の OS パッチ更新を Ubuntu と Patch Manager で運用する方法を考える機会がありました。現状の調べ方と、セキュリティ更新を Dev・Stg・Prod で段階的に当てる運用ルールをまとめます。",
+      "published": "Tue, 03 Nov 2026 09:11:26 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "868ff1d965de64eca07868d1e7bde2e4",
+      "title": "環境センサー52台・1か月分のデータを流して、AWS IoT Coreで遠隔監視の仕組みを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/hasuto-iot-core-52-sensors-remote-monitoring/",
+      "summary": "公開されている環境センサー52台・約1か月分のデータをAWS IoT Coreに流し、遠隔監視の仕組みを作りました。Grafanaでの現在値表示、Athenaでの月次レポート、停止検知と電池警告を実装し、台数が増えて初めて出た問題と対処をまとめます。",
+      "published": "Tue, 03 Nov 2026 09:06:37 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec320009899308592ed038743022ddaf",
+      "title": "NVIDIA Cosmos Transfer 2.5 で、エッジの閾値と vis の重みが車載映像の変換結果に与える影響を検証してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-cosmos-transfer-2-5-params/",
+      "summary": "NVIDIA Cosmos Transfer 2.5 で車載映像を変換し、エッジの閾値と vis の重みを変更して出力を比べてみました。vis の重みを下げると夜の空は暗くなりましたが、エッジの閾値を下げても、別の建物に置き換わったビルは入力動画と同じ外観になりませんでした。",
+      "published": "Tue, 03 Nov 2026 08:51:45 GMT",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "726147d9abc2adb96acc3af62f74889c",
+      "title": "Mixxx could unlock free and open standalone DJing — but, like, stable",
+      "link": "https://cdm.link/mixxx-could-unlock-free-and-open-standalone-djing/",
+      "summary": "Daniel Schürmann of the long-running libre/free DJ software project Mixxx has a compelling proposal for uniting efforts to develop their DJ software o...",
+      "published": "Tue, 03 Nov 2026 10:40:45 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "d709220770aa760e1c239ee57b5ac59e",
+      "title": "iZotope Photon is a local stem separation and denoising tool that runs off your GPU",
+      "link": "https://musictech.com/news/gear/izotope-photon/",
+      "summary": "That means none of your files get uploaded to the cloud... The post iZotope Photon is a local stem separation and denoising tool that runs off your GP...",
+      "published": "Tue, 03 Nov 2026 16:45:13 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "c254a7d96f04d668dd3447687318ad98",
+      "title": "How Juan Atkins reimagined the electronic sounds of tomorrow",
+      "link": "https://musictech.com/features/juan-atkins-dies-techno-legacy/",
+      "summary": "Electronic music futurist and Detroit pioneer Juan Atkins died suddenly this week. The formidable producer leaves a legacy of innovation in the techno...",
+      "published": "Tue, 03 Nov 2026 16:25:47 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "6ab68d80fa197a2506ef278fe4dd89d1",
+      "title": "“I get really intense feelings, not emotions”: Kaitlyn Aurelia Smith on how synaesthesia shapes her creative process",
+      "link": "https://musictech.com/news/music/kaitlyn-aurelia-smith-on-how-synaesthesia-shapes-her-creative-process/",
+      "summary": "“I usually just let my synaesthesia lead me,” the producer explains. The post “I get really intense feelings, not emotions”: Kaitlyn Aurelia Smith on ...",
+      "published": "Tue, 03 Nov 2026 12:49:45 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "de8613ee805a9cf470e8160a360c115a",
+      "title": "Love Synthesizers’ First Love is an FM synth you can learn without words, numbers or a manual",
+      "link": "https://musictech.com/news/gear/love-synthesizers-first-love/",
+      "summary": "The touchscreen instrument which won Best Innovation at Superbooth 2024, is now shipping in the UK, US and EU. The post Love Synthesizers’ First Love ...",
+      "published": "Tue, 03 Nov 2026 10:32:31 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "6d5cd87111e1a80a9769652c83f9aad4",
+      "title": "My Forever Studio: Warren Huart says no to perfect pianos",
+      "link": "https://musictech.com/shows/podcasts/my-forever-studio/warren-huart/",
+      "summary": "The creator behind Produce Like a Pro enters studio foreverdom, to tell us about overcoming audio disasters, the science of the ear, and the £300 guit...",
+      "published": "Tue, 03 Nov 2026 09:25:23 +0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "8763cf0198318569bd0fb6d220e18623",
+      "title": "The Best Ambient Music on Bandcamp, October 2026",
+      "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-october-2026",
+      "summary": "Our guide to the month’s crucial ambient LPs. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 03 Nov 2026 14:43:34 -0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "c5050e44e38945c9a816711d5ae10ca9",
+      "title": "The Best Jazz on Bandcamp, October 2026",
+      "link": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-october-2026",
+      "summary": "Our guide to the month’s crucial jazz LPs. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 03 Nov 2026 14:43:32 -0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "2e5df7d66b0d7d7fb4298d01e824ea31",
+      "title": "Moses Boyd, “Songs For Sinners”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/moses-boyd-songs-for-sinners-review",
+      "summary": "A conversation that proves why Moses Boyd is so delightfully hard to pin down. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 03 Nov 2026 14:43:27 -0000",
+      "fetched_at": "2026-11-03T17:26:55.140928+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-03T08:54:03.510335+00:00"
+  "updated_at": "2026-11-03T17:26:55.140928+00:00"
 }

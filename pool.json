@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "00e1179c1314be9456c89ea1141a5e58",
-      "title": "The AI cost of JavaScript frameworks",
-      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Poin...",
-      "published": "Sun, 01 Nov 2026 06:06:19 +0000",
-      "fetched_at": "2026-11-01T17:27:06.539153+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9b75c595dd76fbfee3e1339571256156",
-      "title": "KDDI における Amazon EKS Auto Mode 商用導入：カスタムコントローラーによる運用課題の解決 | Amazon Web Services",
-      "link": "https://aws.amazon.com/jp/blogs/news/202611-kddi-eks-auto-mode-case-study/",
-      "summary": "Amazon Web Services ブログ KDDI における Amazon EKS Auto Mode 商用導入：カスタムコントローラーによる運用課題の解決 本稿は、KDDI 株式会社 コア技術統括本部 情報システム本部 DX システム 2 部 フロント SRE グループ 西 総一朗 氏に寄稿...",
-      "published": "2026-10-30T04:20:38Z",
-      "fetched_at": "2026-11-01T17:27:06.539153+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "390bd9a9660b59cbaed2a083c61a18e8",
       "title": "AI-DLCで1年規模の開発を4か月に。速さの先で見えた壁 - ASKUL Engineering BLOG",
       "link": "https://tech.askul.co.jp/entry/2026/10/26/154932",
@@ -1349,7 +1329,427 @@
       "fetched_at": "2026-11-02T19:54:30.604342+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "926e4a570d0f1c706927258f7e935af2",
+      "title": "抽象度が高いものごとを理解できない人が多い→「構造化」能力の開発がカギかもしれない｜沢渡あまね",
+      "link": "https://note.com/amane_sawatari/n/n72a8dbf12d67",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 抽象度が高いものごとを理解できない人が多い→「構造化」能力の開発がカギかもしれない",
+      "published": "03 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "572a9027e57d404e2c86b8e14b0ec246",
+      "title": "ミイダス社内勉強会レポート【馬場さん】AI時代のエンジニアの役割と責任｜miidas_tech",
+      "link": "https://note.com/miidas_tech/n/n09666947d7d8",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ミイダス社内勉強会レポート【馬場さん】AI時代のエンジニアの役割と責任",
+      "published": "03 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a79e4d1157945570745b515a4fc0f72",
+      "title": "macOS 27.2 Golden Gateアップデートでは、/etc/ssl/cert.pemが置き換えられmacOS 27.0以前で削除したeMudhraの証明書問題に関連する2つのルートCA証明書が再び追加されるので注意を。 | AAPL Ch.",
+      "link": "https://applech2.com/archives/20261028-macos-updates-may-restore-emudhra-root-ca-certificates.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 macOS 27.2 Golden Gateアップデートでは、/etc/ssl/cert.pemが置き換えられmacOS 27.0以前で削除したeMudhraの証明書問題に関連する2つのルートCA証明書が再び追加...",
+      "published": "02 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b784618014376619e94daa68a248a1cb",
+      "title": "Anthropic's growth just flattened",
+      "link": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "summary": "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 158 #...",
+      "published": "Mon, 02 Nov 2026 22:33:20 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acdf7e3bc1bfecf937ac65564022222c",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "link": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "summary": "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?i...",
+      "published": "Mon, 02 Nov 2026 22:30:47 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78dea207da1db4a4aa536e44e5878b60",
+      "title": "BYD sold more EVs last month than the US did all quarter",
+      "link": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+      "summary": "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Mon, 02 Nov 2026 21:38:49 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "79179116f9833abb884fa9c82a4ea93e",
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news...",
+      "published": "Mon, 02 Nov 2026 19:27:37 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "921a51f1a19b0865de3095c92ceefd27",
+      "title": "Egoless Mathematics in the AI Era",
+      "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 ...",
+      "published": "Mon, 02 Nov 2026 18:54:44 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87aa459f670ab94155465014fc5ec9ca",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "link": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "summary": "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item...",
+      "published": "Mon, 02 Nov 2026 18:39:38 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7b1315b2fec5a6e197016f7e7794ba7",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "summary": "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 106...",
+      "published": "Mon, 02 Nov 2026 18:12:48 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c23996cc7fd0dbe1622bc72e57d3a10",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "link": "https://momentic.ai/",
+      "summary": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, ...",
+      "published": "Mon, 02 Nov 2026 17:05:25 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "01fedefa0a41f9bf15a12f8cb13ba5f0",
+      "title": "My Favourite Laptop",
+      "link": "https://blog.jsbarretto.com/post/laptop",
+      "summary": "Article URL: https://blog.jsbarretto.com/post/laptop Comments URL: https://news.ycombinator.com/item?id=50339815 Points: 165 # Comments: 127",
+      "published": "Mon, 02 Nov 2026 16:59:57 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4d371a2c63b0a40b2d7c4fe0c1ed45d",
+      "title": "We halved DNS build delay and cut memory use by 85%",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "summary": "Article URL: https://blog.cloudflare.com/dns-targeted-zone-builds/ Comments URL: https://news.ycombinator.com/item?id=50337558 Points: 142 # Comments:...",
+      "published": "Mon, 02 Nov 2026 14:47:28 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a2fa86df60645d5aeee146108ecddbd",
+      "title": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports M8i and R8i instances in additional AWS Regions. Both M8i and R8i instances ar...",
+      "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "dc0826e66964fbbbefe7db954b704a3e",
+      "title": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/",
+      "summary": "A new Anthropic model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. With Haiku 5.5, all three Claude 5.5 models are now ...",
+      "published": "Mon, 02 Nov 2026 20:45:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc09dfcdcc0b01e8afa0ba9a126059ec",
+      "title": "Amazon Aurora MySQL 8.4.10 is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 supports MySQL 8.4.10. We recommend upgrading to the newer minor versions to accept fixes f...",
+      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f52f412f2745144e23020c2f45893368",
+      "title": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/",
+      "summary": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event source mappings (ESM), for Kafka clusters that customers run themselves an...",
+      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8063ac5719631694fafcc1d7dfe86315",
+      "title": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/",
+      "summary": "Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.46, which includes community MySQL fixes and A...",
+      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "671541fb384a56c878b95991573af4d0",
+      "title": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/",
+      "summary": "Amazon Connect Customer now enables you to invoke Model Context Protocol (MCP) tools in customer experience flows through the new 'External Tool' bloc...",
+      "published": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f615e83da19078d8f8c32c500849e099",
+      "title": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/",
+      "summary": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience flows...",
+      "published": "Mon, 02 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a026334cc13e5e2b4f6993bbed624fb",
+      "title": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/",
+      "summary": "Amazon Textract is now available in the Asia Pacific (Tokyo) and Europe (Zurich) Regions. Amazon Textract is a machine learning service that automatic...",
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a043caa47e1607c867afac3773b4023d",
+      "title": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/",
+      "summary": "Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your...",
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "31542d987b45db2344c2b7145167c988",
+      "title": "Amazon CloudFront now supports self-service increases in AWS Service Quotas",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/",
+      "summary": "Amazon CloudFront now supports AWS Service Quotas, so you can view, monitor, and request increases for 28 CloudFront quotas from the Service Quotas co...",
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b867457f685302d97b5e9b63444d121",
+      "title": "Announcing an updated text detection model for Amazon Textract",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model/",
+      "summary": "Amazon Textract now provides an updated text detection model that improves accuracy, expands language support, and enhances multilingual table extract...",
+      "published": "Mon, 02 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5fc122ab3ee97c1cf876106e88ed69c8",
+      "title": "ARCHITECTURE.md",
+      "link": "https://architecture.md/",
+      "summary": "SYSTEM TEMPLATE FOR RAPID CODEBASE COMPREHENSION - HAVE YOUR AGENT TO FILL IN FOR YOUR REPO # Architecture Overview This document serves as a critical...",
+      "published": "2026-11-02T12:45:56Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec1d02f8c33e92b9aee1d9a011123e10",
+      "title": "「日本の防衛はAIで優位に」 米パランティアCEOインタビュー - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/",
+      "summary": "米パランティア・テクノロジーズのアレックス・カープ最高経営責任者（CEO）は日本経済新聞の単独インタビューで「日本は専守防衛型の人工知能（AI）スタック（製品群）の開発で優位に立てる」と自衛隊へのAIシステム供給に意欲をみせた。民間部門には知的財産を守るためにAIの制御・訓練が必要だと指摘した。 米...",
+      "published": "2026-11-02T09:06:32Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5c57c8ef7ccb250c6317ea72c7d9075",
+      "title": "スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2153206.html",
+      "summary": "",
+      "published": "2026-11-02T10:52:51Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f6d7d56d4342cd6b608511e3e500397",
+      "title": "冷凍庫にサイバー攻撃、食品溶け大量廃棄 欧州各地のスーパー - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN02B1R0S6A101C2000000/",
+      "summary": "【ブリュッセル、ロンドン=共同】ベルギーの大手スーパー、デレーズが1〜2日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第2の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を操作し温度を下げるなどの対応に追われた。地元メディアが報じた。ロイター通信...",
+      "published": "2026-11-02T23:12:33Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aefc53601a4707e275feb35ff6b548be",
+      "title": "Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB",
+      "link": "https://ai-data-base.com/archives/139789",
+      "summary": "理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの...",
+      "published": "2026-11-01T04:48:57Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c70eab28115f177c7db98c16a5019c4",
+      "title": "日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/",
+      "summary": "日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。「過去最大の損失が出た。AI関連...",
+      "published": "2026-11-02T09:47:11Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f237722f8a686702dbafc6c69ef780b0",
+      "title": "GitHub - Kohei-Wada/houritsu: Japanese laws as git history, one commit per amendment (generated from the e-Gov law API)",
+      "link": "https://github.com/Kohei-Wada/houritsu",
+      "summary": "Every Japanese law (法令) as git history. One commit is one amending law coming into force: git log laws/act/415/415AC0000000057.md is the amendment his...",
+      "published": "2026-11-02T05:17:51Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4845759ded85d32ac0b0401cd73c7b8d",
+      "title": "カシオ、リングウォッチに“チープカシオ”デザイン",
+      "link": "https://www.watch.impress.co.jp/docs/news/2152258.html",
+      "summary": "",
+      "published": "2026-11-01T14:53:32Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c49eec04d6e712fdca8c5402d7be6191",
+      "title": "欧州各地で冷蔵設備にサイバー攻撃 ベルギーのスーパー40店で温度上昇",
+      "link": "https://www.sankei.com/article/20261102-WBX7YVU235PL5KBT7YS246ZBGM/",
+      "summary": "サイバー攻撃を受けたスーパー「デレーズ」の空になった冷蔵棚＝2日、ベルギー・ブリュッセル近郊（ロイター） ベルギーの大手スーパー、デレーズが１～２日にかけてサイバー攻撃を受け、約40店舗の冷蔵・冷凍設備の温度が上昇した。ベルギー第２の都市アントワープの食肉チェーン店も攻撃を受け、店員らが手動で設備を...",
+      "published": "2026-11-02T13:55:30Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3002fd8f8315b1f9d2ec0506342c93c1",
+      "title": "キーエンス、PLC専用AIエージェント「KV Intelligence」を発売",
+      "link": "https://www.keyence.co.jp/news-events/20261102-kv-intelligence.jsp",
+      "summary": "キーエンス、PLC専用AIエージェント「KV Intelligence」を発売 デバッグも、ラダー作成も、プログラム要約も。自然文で訊くだけで、PLCに関わる困りごとの解決を支援 2026年11月2日 株式会社キーエンス 株式会社キーエンス（本社：大阪市東淀川区）は、PLC専用AIエージェント「KV...",
+      "published": "2026-11-02T14:16:46Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e58ac413dceba90315a646e5e7a0bdd1",
+      "title": "コードレビューをなくして見えたもの",
+      "link": "https://zenn.dev/henteko/articles/b76b15922cdf72",
+      "summary": "この記事の内容をざっくり1分20秒でまとめた動画を作っているので、時間がない方はこちらをご覧ください。 はじめに 半年ほど前に、こんな記事を書きました。 人間によるコードレビューをやめて、実装の前に「コンセプト」をチームで確認するワークフローに移行したい、という内容でした。その記事の最後にこんなこと...",
+      "published": "2026-10-21T14:58:21Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "179705ebc902c3a370c8e8e8882bee77",
+      "title": "ミラティブのエンジニア3人でISUCON2026に参加しました！ - Mirrativ Tech Blog",
+      "link": "https://tech.mirrativ.stream/entry/2026/11/02/225823",
+      "summary": "こんいす！ミラティブでバックエンドエンジニアをしているhamadaです。 ISUCON2026に、社内のバックエンドエンジニア3人で「Team Y3」として出てきました。結果は33位、213,540点でした。 M3賞（ISUポンサーのエムスリー株式会社様による企業賞）をいただきました！ 前回のISU...",
+      "published": "2026-11-02T14:08:14Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "daf712d98d0e13ba5fccd749861be340",
+      "title": "OpenAI・Google・Microsoft、robots.txtでAI学習の許可・拒否を一括指定する新たな仕組みに対応へ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/robots-txt-ai-training-controls",
+      "summary": "OpenAI⁠⁠・Google⁠⁠・Microsoft⁠⁠、robots.txtでAI学習の許可⁠⁠・拒否を一括指定する新たな仕組みに対応へ OpenAI、Google、Microsoftは2026年10月30日、robots.txtでWebコンテンツのAI学習利用を指定する新たな仕組みに対応する方...",
+      "published": "2026-11-02T03:52:03Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "02de5dcef25970c54663411264e47de3",
+      "title": "楽天証券、顧客情報362件が漏えいか NTTデータ委託先に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
+      "summary": "楽天証券は10月31日、「デジタル特典付き社債」を購入した一部顧客の情報のべ362件が漏えいした可能性があると発表した。NTTデータの委託先が提供するシステムが第三者による不正アクセスを受けたため。漏えいした可能性がある項目は明らかにしていない。 NTTデータは今回の不正アクセスを受け、社債購入者向...",
+      "published": "2026-11-02T03:53:35Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76964175cf48c4a432c175b7e04a4780",
+      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/2",
+      "summary": "第2部「本件を通じて得た知見についてのご説明」での熊谷代表の全発言は以下の通り。 改めまして、熊谷です。大変恐縮ですが、PC操作がございますので、このパートは座ってお話をさせてください。 まず最初に、この事件における私たちの基本姿勢についてご説明をさせていただきます。お客さまに対する姿勢は、「誠実に...",
+      "published": "2026-11-02T14:11:06Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "834515d47238f3fe0e650a9cc1ab36df",
+      "title": "「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2153245.html",
+      "summary": "",
+      "published": "2026-11-02T11:37:27Z",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4fbad464a764e395600331380a7669f",
+      "title": "Amazon Kinesis Data Streams の拡張ファンアウトと共有スループットでレコードの遅延を比べてみた",
+      "link": "https://dev.classmethod.jp/articles/kinesis-enhanced-fan-out-vs-shared-throughput-latency/",
+      "summary": "Amazon Kinesis Data Streams のコンシューマーには共有スループットと拡張ファンアウトの 2 種類がありますが、実際の遅延はドキュメントの数字とどう違うのか。Lambda と boto3 の 4 通りのコンシューマーで、1 秒 5 件を 10 分送って測定してみました。",
+      "published": "Tue, 03 Nov 2026 00:30:29 GMT",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "22218a96e96a9e27e40334ed691fcfc9",
+      "title": "iZotope、驚異の音声分離／ノイズ除去ソフト、「Photon」を発表…… 同社製品で初めてGPU処理を採用、ドラム・トラックの分離にも対応",
+      "link": "https://icon.jp/archives/28123",
+      "summary": "iZotopeが新製品、「Photon（フォトン）」をリリース。同社製品で初めて、パソコンのGPUで処理を実行する驚異の音声分離／ノイズ除去ツールの登場です。 iZotope「Photon」 今年7月、映像制作ソフトウェ […]",
+      "published": "Tue, 03 Nov 2026 01:00:00 +0000",
+      "fetched_at": "2026-11-03T01:55:39.655147+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-02T19:54:30.604342+00:00"
+  "updated_at": "2026-11-03T01:55:39.655147+00:00"
 }

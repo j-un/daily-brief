@@ -89,7 +89,117 @@
       "fetched_at": "2026-11-03T17:26:55.140928+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "957f56d221d958905d846225682e1eaf",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "summary": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 121 # C...",
+      "published": "Tue, 03 Nov 2026 21:39:05 +0000",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37b3119423f2edb7b03d24150482b48a",
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "link": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
+      "summary": "Article URL: https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/ Comments URL: https://news.ycombinator.com/item?id=50351319 Poi...",
+      "published": "Tue, 03 Nov 2026 12:42:30 +0000",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "98967991fa6c72ab4a5a63bd84326b6a",
+      "title": "Amazon Connect Customer prefills the email address for new threads started from cases",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/",
+      "summary": "Amazon Connect Customer automatically fills in the customer’s email address from the linked customer profile when agents start a new email thread from...",
+      "published": "Tue, 03 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5215f2c85e5e61a36d371043917042e",
+      "title": "E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み",
+      "link": "https://blog.kuniwak.com/entry/e2ebok",
+      "summary": "目次 前置き 独自用語の整理と拡張について E2Eテストの境界と定義 UIテストとの概念的な差異 UIを操作しないE2Eテスト E2Eテストで検知可能な欠陥 正当性違反 妥当性違反 E2Eテストの利点 単体テストでは検知できない結合バグの検出 高い忠実度 内部設計への非依存性 E2Eテストの欠点と数...",
+      "published": "2026-11-03T21:27:17Z",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d4fb7d858c1c9e9e4cc932e14972437",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？ NECに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "summary": "同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一...",
+      "published": "2026-11-03T22:22:18Z",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d540150271f5d33f64a77c4a2c84a5cc",
+      "title": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正|セキュリティニュースのセキュリティ対策Lab",
+      "link": "https://rocket-boys.co.jp/security-measures-lab/android-sms-of-death-cve-2026-58882-zero-click-dos/",
+      "summary": "Android「SMS of Death」脆弱性、SMS受信だけで通話切断・再起動ループの恐れ CVE-2026-58882をGoogleがCriticalで修正 Androidの電話機能を、細工されたSMSを受信させるだけで停止させる脆弱性「CVE-2026-58882」が公表されました。「SMS...",
+      "published": "2026-11-03T13:06:50Z",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00526243e841c2d3bffde395fe11caf3",
+      "title": "Google、Videostrong に認定 Android デバイスの製造・販売を禁止。Android TV Box のバックドアが理由 | HelenTech",
+      "link": "https://helentech.jp/news-google-bans-videostrong-xcpe-backdoor/",
+      "summary": "Google は 2026 年 11 月 2 日 (現地時間)、Android TV Box などを製造する Videostrong が、ファームウェアにバックドアを組み込んで犯罪者に接続権限を販売していたとして、認定を受けた Android デバイスの製造と販売を禁止したことを発表しました。 この...",
+      "published": "2026-11-03T00:50:12Z",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "527a5708c4879efb37e38fad7ad53732",
+      "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+      "summary": "米Appleは11月2日（現地時間）、第4四半期（2026年7月～9月）の決算を発表した。売上高は前年同期比12％増の1144億7700万ドルで、第4四半期として過去最高を記録した。純利益は12％増の307億1100万ドル（1株当たり2.10ドル）で、純利益と1株当たり利益も第4四半期として過去最高...",
+      "published": "2026-11-03T01:06:38Z",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "00e1508b3144dffe2ffdeadb03017243",
+      "title": "2026 年 10 月の AWS テクニカルサポートノートまとめ",
+      "link": "https://dev.classmethod.jp/articles/summary-of-aws-technical-support-notes-for-october-2026/",
+      "summary": "",
+      "published": "Tue, 03 Nov 2026 22:38:03 GMT",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e715b409226c60a3a4cbb0eba90a8c1",
+      "title": "2026年10月くらいのAWS最新情報ブログとかをキャッチアップする – AWSトレンドチェック勉強会用資料",
+      "link": "https://dev.classmethod.jp/articles/aws-trendcheck-202610/",
+      "summary": "AWSの最新情報や私の独断と偏見で面白いと感じたブログをまとめています。みんなでトレンディになろう。",
+      "published": "Tue, 03 Nov 2026 22:10:29 GMT",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "29a10bbfd39e599e42924bb0bd2d665c",
+      "title": "Extreme Conditions: Inside Nepal’s Metal Underground",
+      "link": "https://daily.bandcamp.com/scene-report/nepal-metal-scene-report",
+      "summary": "In the shadow of the Himalayas, a fiercely independent scene is making a righteous noise. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 03 Nov 2026 18:32:48 -0000",
+      "fetched_at": "2026-11-03T22:43:42.172733+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-03T21:46:23.047047+00:00"
+  "updated_at": "2026-11-03T22:43:42.172733+00:00"
 }

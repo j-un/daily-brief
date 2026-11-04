@@ -1,46 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8eec7f41b3253bd53f65e782f92eb74f",
-      "title": "AI時代のシニアエンジニアとは - Speaker Deck",
-      "link": "https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代のシニアエンジニアとは",
-      "published": "03 Nov 2026 02:55 +0000",
-      "fetched_at": "2026-11-03T03:11:49.019861+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "e58a344baba15be830ed257968e2a3b0",
-      "title": "文章のAIっぽさを抑えるプロンプト - いもす研 (imos laboratory)",
-      "link": "https://imoz.jp/scraps/202610_humanizer.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 文章のAIっぽさを抑えるプロンプト",
-      "published": "03 Nov 2026 06:55 +0000",
-      "fetched_at": "2026-11-03T08:54:03.510335+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9269513036bc4acd37853be8fcf800f6",
-      "title": "GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々",
-      "link": "https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々",
-      "published": "03 Nov 2026 06:55 +0000",
-      "fetched_at": "2026-11-03T08:54:03.510335+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "dd04c7672aa455b0fc839e76b8a5dcd5",
-      "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
-      "link": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 読んでいないコードを私たちはどれだけ信頼できるのか",
-      "published": "03 Nov 2026 03:55 +0000",
-      "fetched_at": "2026-11-03T08:54:03.510335+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "563219883fa065c7e31f770fcf3af94d",
       "title": "Security check",
       "link": "https://codezine.jp/article/detail/30081",
@@ -589,7 +549,387 @@
       "fetched_at": "2026-11-04T04:10:01.342806+00:00",
       "feed_name": "ICON",
       "category": "music"
+    },
+    {
+      "entry_id": "02780df06727bf1f5e364b4acf8532b2",
+      "title": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏 実はオンラインイベントの真っ最中だった（1/4 ページ） - ITmedia NEWS",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002720/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏 実はオンラインイベントの真っ最中だった",
+      "published": "04 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4e93b4e3101c57dc01f77d133168064a",
+      "title": "PHP2Shellへの対応を振り返って - コドモン Product Team Blog",
+      "link": "https://tech.codmon.com/entry/2026/10/23/173909",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 PHP2Shellへの対応を振り返って",
+      "published": "04 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4cbfab836d32f7b38a8dad6c0878c140",
+      "title": "Ubuntu 27.04（tenacious）の開発：渋滞の緩和とUbuntu Core Desktopのリブート | gihyo.jp",
+      "link": "https://gihyo.jp/admin/clip/01/ubuntu-topics/202610/30",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Ubuntu 27.04（tenacious）の開発：渋滞の緩和とUbuntu Core Desktopのリブート | gihyo.jp",
+      "published": "04 Nov 2026 06:55 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac5cf964db5b06dae90f419a67343fd1",
+      "title": "Mackerelのログ機能を正式リリースします——熟練者の知見を、チームの力に - Mackerel ブログ #mackerelio",
+      "link": "https://mackerel.io/ja/blog/entry/announcement/log-ga-release",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Mackerelのログ機能を正式リリースします——熟練者の知見を、チームの力に",
+      "published": "04 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47e518de428b2d027271351d38d95b01",
+      "title": "AWS Weekly Roundup: GPT-6.1 Terra on Bedrock、エージェントツールとしての Step Functions など (2026 年 11 月 2 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/",
+      "summary": "2026 年 10 月 26 日週、特に印象に残ったエージェント関連の発表は、モデルの性能そのものとはまったく […]",
+      "published": "Wed, 04 Nov 2026 09:25:26 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "600925e050078659f7d1526b5ef75782",
+      "title": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11",
+      "summary": "WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operating s...",
+      "published": "Tue, 03 Nov 2026 18:00:00 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a12bb74cbd72b63a554e7e7a52766ffb",
+      "title": "良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261104de70494",
+      "summary": "「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。 この中には、すでに期限切れとなっているカードも多く含ま…",
+      "published": "2026-11-04T09:17:59Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f423cbf646a3389637b0fc0410bc185",
+      "title": "マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた",
+      "link": "https://note.com/uchita_success/n/nfc53d1ef5f81",
+      "summary": "経産省のサイトは、コンサル資料の宝の山。意外なのは、派手なフレームワークが少数だったこと。一流ほど、基本の型を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 マッキンゼーの実物が、誰でも読める理由コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 ...",
+      "published": "2026-11-03T15:24:33Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "20c0e2dc16525c42976bc63d69612ae8",
+      "title": "ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ",
+      "link": "https://chimolog.co/strata-guide/",
+      "summary": "ローカル生成AIに真の民主化をもたらした推論エンジン「Strata」が凄いらしいけど、イマイチ使い方が分からないし、そもそも「凄さ」が分からない。 そう感じている自作PCユーザーが意外と少なくないので、本記事でStrataの使い方を解説します。すでに知ってる人からすれば当たり前の内容も多いですが、誰...",
+      "published": "2026-11-04T09:44:17Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d19d459644e670de9d8369d67d8aa75",
+      "title": "RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に",
+      "link": "https://gigazine.net/news/20261104-ram-altman/",
+      "summary": "OpenAIのサム・アルトマンCEOがXのアカウント名を「Ram Altman」に変更しました。 Ram Altman（@sama）さん / X https://x.com/sama OpenAIをはじめとするAI企業はAIの開発およびサービス展開のために膨大な数のメモリを購入しており、世界的なメモ...",
+      "published": "2026-11-04T07:56:21Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b9ec1702713ba6731f2180962afff00",
+      "title": "「ヘリの爆音で妻がノイローゼに」 GMO熊谷代表の「迷惑行為」を近隣住民が明かす モデルを集めて「シャンパンパーティー」に「もう勘弁してほしい」 | デイリー新潮",
+      "link": "https://www.dailyshincho.jp/article/2026/11041149/",
+      "summary": "「ヘリの爆音で妻がノイローゼに」 GMO熊谷代表の「迷惑行為」を近隣住民が明かす モデルを集めて「シャンパンパーティー」に「もう勘弁してほしい」 会見で見せた涙 11月2日、GMOインターネットグループの熊谷正寿代表(63)は、傘下のGMOインターネットが提供するクラウドサービス「お名前.comデス...",
+      "published": "2026-11-04T05:17:34Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d2dd7eb26785f5d897006647db947915",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "link": "https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest",
+      "summary": "はじめに Zennチームのdyoshikawaです。 ZennではAIによるセキュリティチェックの仕組みを急ピッチで構築しました。現在はPull Request（以下PR）ごとのAIレビューに加えて、AIエージェントによる全自動のペネトレーションテストを毎週GitHub Actionsで回しています...",
+      "published": "2026-11-04T05:25:42Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "37e9e2a496d995dfc57a325754f74e9c",
+      "title": "日本語プログラミングフォント「Cyroit」とそのファミリー8種が一斉アップデート／「Inconsolata」＋「Circle M+」＋「BIZ UDゴシック」、コード特有の可読性にも配慮",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2153421.html",
+      "summary": "",
+      "published": "2026-11-04T09:09:14Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "abd8e562ede9a7cf1ae48640ae0101d4",
+      "title": "ドコモ社長、5G基地局がKDDIやソフトバンクより少ない理由を説明",
+      "link": "https://japan.cnet.com/article/35254374/",
+      "summary": "NTTドコモの前田義晃社長は11月4日の決算説明会で、同社の5G基地局数が他社（KDDIやソフトバンク）より少ない理由について、通信容量を確保できるサブ6（3.7GHz帯、4.5GHz帯）の整備を優先しているためだと説明した。4Gの周波数を5Gに転用するには、基地局を収容する装置の交換工事が必要だと...",
+      "published": "2026-11-04T10:06:48Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b359dc0eb7c173c2d0e9c701f8f92fa7",
+      "title": "【やじうまPC Watch】 メモリ発言で物議のSam Altman氏、「Ram Altman」に改名",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2153619.html",
+      "summary": "",
+      "published": "2026-11-04T08:45:28Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ef0d3e59eb4e03f95584fcb59f913e0",
+      "title": "マスク氏、米中間選挙の民主党勝利に「肩すくめる」絵文字 共和党の巨額献金者",
+      "link": "https://www.cnn.co.jp/usa/35254380.html",
+      "summary": "（CNN） 世界一の富豪イーロン・マスク氏は4日未明、前日投開票の米中間選挙で民主党が歴史的な過半数を確保する見通しとなったことを受け、自身のソーシャルメディア上で反応を示した。同氏は今年の中間選挙で、共和党に対する史上最大規模の献金者の一人となっていた。 マスク氏は自身のプラットフォーム「X（旧ツ...",
+      "published": "2026-11-04T09:10:35Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "11969f08b7fa350bfeaecd2ec751f2ba",
+      "title": "MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード",
+      "link": "https://www.saisoncard.co.jp/customer-support/information/20261104/",
+      "summary": "【MileagePlusセゾンカード会員様限定】家族カード（ファミリーカード）の新規発行＆ご利用で最大9,000マイルプレゼント！",
+      "published": "2026-11-04T09:21:10Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1717838b3ac608de978922f043aa639c",
+      "title": "【速報】グーグル、小中高で検索・AIの利用制限へ",
+      "link": "https://www.47news.jp/15183028.html",
+      "summary": "【ニューヨーク共同】米グーグルは3日、世界各地の小中高の児童生徒が校内や自宅で使う学習用アカウントでインターネット検索や人工知能（AI）の機能の利用を制限する方針を発表した。初期設定では機能を無効とする。",
+      "published": "2026-11-04T09:03:35Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3679a646f688e93a295973e5d9d700a8",
+      "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
+      "summary": "「無印良品」を展開する良品計画（東京都文京区）は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した対象には、クレジットカード「MUJI Car...",
+      "published": "2026-11-04T09:59:35Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bdad768e6ff7802abd4aacaf600de784",
+      "title": "GPT-6 AstraでQwen3.5-0.8Bの重みを直接編集、数学スコアは約6倍に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2153457.html",
+      "summary": "",
+      "published": "2026-11-04T05:41:58Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88a9d70abfef570aec94ffc23f41e6f5",
+      "title": "優秀なテストエンジニアの特徴を調べた研究｜森崎 修司",
+      "link": "https://note.com/smorisaki/n/n8dd86d903e19",
+      "summary": "論文のタイトルはCharacteristics of High Performing Testers – A Case Studyです。ここ(出版社のサイト)から原文を読めます。 Iivonen, J., Mäntylä, M., & Itkonen, J. (2010, September). C...",
+      "published": "2026-11-04T02:25:29Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2df2605908b30da3a897e384a6e0b46b",
+      "title": "「海外モデルでも自前サーバで動かせば100％安全」ではない――チームみらい安野氏が指摘、国産モデルの必要性を強調",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002853/",
+      "summary": "チームみらいの安野貴博党首は11月3日、同党の公式YouTubeチャンネルでの生配信で、海外で開発されたオープンウェイトモデルが国内で稼働する際、意図的に自身の性能を低下させたり、データを漏えいさせたりする可能性があると指摘し、国産モデルの必要性を強調した。 チームみらいは10月23日、デジタル庁に...",
+      "published": "2026-11-04T02:05:29Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2281eaefeaec7b1c9bb343e875fa18fc",
+      "title": "ビックカメラG、メールアドレスなど約1490万件漏えいの可能性 委託先への不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
+      "summary": "ビックカメラとコジマ、ソフマップは11月2日、メールマガジン登録者のメールアドレスなど3社合計で約1490万件が外部に流出した可能性があると発表した。クレジットカード情報や各社の通販サイトのログイン情報は、対象外としている。 原因は、3社がメール配信を委託するアララへの不正アクセスだ。3社は流出の可...",
+      "published": "2026-11-04T03:44:08Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cc1f70b9e3730ace03308839d1f96ef",
+      "title": "【やじうまPC Watch】普通のドライブでCD/DVDの記録面に絵を焼く「Disc Image Studio」 - PC Watch",
+      "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/2153436.html",
+      "summary": "",
+      "published": "2026-11-04T04:01:10Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a82360eac65e91aedd6991659874e895",
+      "title": "「GPT-6 AstraがQwen3.5-0.8Bの重みを書き換えて数学性能を約6倍に改善した」との研究結果、ただし「誤解を招く」との批判も",
+      "link": "https://gigazine.net/news/20261104-gpt-6-astra-qwen-weight-space-programming/",
+      "summary": "マサチューセッツ工科大学(MIT)の研究チームが、AIモデル「GPT-6 Astra」を使って別のAIモデル「Qwen3.5-0.8B」の内部パラメーターを書き換え、数学問題の正答率を7.9％から48.1％に改善したと報告しました。追加学習を行わずに全体のわずか0.016％のパラメーターを変更したこ...",
+      "published": "2026-11-04T03:46:44Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63673aa313d6e88d244913692aa74649",
+      "title": "ロシア企業がドローン攻撃を受けて地下データセンターの建設を計画",
+      "link": "https://gigazine.net/news/20261104-russia-underground-data-center/",
+      "summary": "ロシアの通信会社が、国内のデータセンターを地下に移設する可能性を検討していると地元紙が報じました。ウクライナによるドローン攻撃を懸念してのことだと伝えられています。 «Ростелеком» займется строительством подземных дата-центров - Ведом...",
+      "published": "2026-11-04T04:33:53Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b24c437239f222031621de7b5cc972c",
+      "title": "高市早苗が細野豪志に手を重ねている画像はAIによる偽画像だよ - 電脳塵芥",
+      "link": "https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000",
+      "summary": "https://x.com/f5lMZTk70t7130/status/2117315464347165148 上記の様な高市早苗が細野豪志の手の上に自身の手を重ねている画像が拡散していた。しかし、以下の様にGoogle製によって改変させられたAI画像である。 画像は一から作成されたものではなく、元...",
+      "published": "2026-11-04T04:29:55Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c0e65fd1ec99638732d4532e7ce605e",
+      "title": "古いスマホを音楽専用プレーヤーに。“好きだから作っちゃった”「reTONE」の仕掛け人に聞くプロジェクトの狙い - PHILE WEB",
+      "link": "https://www.phileweb.com/news/audio/202611/04/28324.html",
+      "summary": "古いスマホを音楽専用プレーヤーに。“好きだから作っちゃった”「reTONE」の仕掛け人に聞くプロジェクトの狙い 古いAndroidのスマートフォンを音楽プレーヤー専用機として蘇らせるーーそんな新しいプロジェクト「reTONE」が発表されて、SNS上を中心に大きな話題を集めている。その仕掛け人である（...",
+      "published": "2026-11-03T23:54:58Z",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b3010101444e04707ebf63aca0161de",
+      "title": "GitHub - scenario-labs/skills: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. · GitHub",
+      "link": "https://github.com/scenario-labs/skills",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 scenario-labs / skills ⭐ 2,084 (+224) 🗒 Python Get production-ready images, video, audio, and 3D from any AI agen...",
+      "published": "04 Nov 2026 12:17 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec0f9551adcd2a1719544cf53583bbf0",
+      "title": "iPhone Duoの折り目やカメラの位置を取得する",
+      "link": "https://dev.classmethod.jp/articles/ios27-1-iphone-duo-reserved-regions/",
+      "summary": "iOS 27.1で追加されたiPhone Duo向けAPIの`reservedRegions`について、折り目やカメラが占める領域の取得方法と使い方を詳しく解説します。",
+      "published": "Wed, 04 Nov 2026 12:04:04 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "742ea19d3cfc0305fa915819e83bae11",
+      "title": "マルチアカウント環境でのCost Anomaly Detection、モニター4種の使い分けを整理して、メンバーアカウントで作れる範囲を確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/202611-mitsuguchi-costanomalydetection-kensho/",
+      "summary": "AWS Cost Anomaly Detectionをマルチアカウント環境で運用するとき、4種類のモニターをどう使い分ければいいのでしょう。メンバーアカウントでの実装結果と、管理アカウントでの設計ポイントを整理しました。",
+      "published": "Wed, 04 Nov 2026 08:45:09 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8f1bf7302c5964dd4c7286036dc327b",
+      "title": "herdr のデスクトップアプリと herdr-core を TUI 版と比べながら試してみた",
+      "link": "https://dev.classmethod.jp/articles/reona-herdr-app-herdr-core/",
+      "summary": "Herdr app とそのランタイム herdr-core が公開されました。これまでは TUI 版を使ってましたが、デスクトップアプリと herdr-core を実際に動かし、TUI 版との違いを確かめた結果を紹介します。",
+      "published": "Wed, 04 Nov 2026 07:39:51 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2244beeeb15e7874435c124da8c614d5",
+      "title": "Cloud RunからSendGridでメールを送って、配信結果をCloud Loggingに残してみた",
+      "link": "https://dev.classmethod.jp/articles/cloud-run-sendgrid-event-webhook-cloud-logging/",
+      "summary": "Google CloudにはSESに当たるサービスがないため、Cloud RunからSendGridのWeb APIでメールを送り、配信や開封の結果をEvent WebhookでCloud Loggingに残してみました。受信側では署名を検証し、SendGrid以外からのリクエストを拒否しています。",
+      "published": "Wed, 04 Nov 2026 07:37:15 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d842c02e21ac8cf3cd872dae04c6b4a6",
+      "title": "Amazon Athena の Iceberg テーブルへの同時 UPDATE で ICEBERG_COMMIT_ERROR になったクエリを再試行してみた",
+      "link": "https://dev.classmethod.jp/articles/athena-iceberg-update-commit-error-exponential-backoff/",
+      "summary": "Amazon Athena で Iceberg テーブルへ複数のクライアントから同時に UPDATE すると、`ICEBERG_COMMIT_ERROR` で失敗することがあります。この失敗の実際の起こり方と、効果的な再試行の方法を、実験を通じて確かめてみました。",
+      "published": "Wed, 04 Nov 2026 07:30:11 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "19551407bbd08f84407e6a0acf05dc82",
+      "title": "Security Hub修復手順】[Redshift.15] Redshift セキュリティグループは、制限されたオリジンからのみクラスターポートへの入力を許可する必要があります",
+      "link": "https://dev.classmethod.jp/articles/securityhub-fsbp-remediation-redshift-15/",
+      "summary": "AWS SecurityHub 基礎セキュリティのベストプラクティスコントロール修復手順をご紹介します。",
+      "published": "Wed, 04 Nov 2026 06:48:23 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "61c8ab7d4bfcb731373d9abd1d0ec967",
+      "title": "【Amazon Connect】Connect Customer Cases を導入する方法",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-customer-cases-setup-guide/",
+      "summary": "Connect Customer Cases の導入方法を解説します。ドメイン設定からケース作成、コメント機能まで、実際の画面を交えながら顧客タスク管理を組織内で効率化する方法をご紹介します。",
+      "published": "Wed, 04 Nov 2026 05:42:34 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b18e66d5b4b9fb4114f2a9819bcf091",
+      "title": "[小ネタ]水が配達されるボタンを作ってみた",
+      "link": "https://dev.classmethod.jp/articles/m5sticks3-water-order-button/",
+      "summary": "ボタン一つで水の補充が頼める「水配達ボタン」を作ってみました。",
+      "published": "Wed, 04 Nov 2026 04:29:58 GMT",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "51928b6cd32b3eb0b8eed871cdb15aef",
+      "title": "ROLI – the innovative company specialising in touch-sensitive electronic instruments – has entered administration",
+      "link": "https://musictech.com/news/industry/roli-enters-administration/",
+      "summary": "Customers have reported long delays and limited information about outstanding orders. The post ROLI – the innovative company specialising in touch-sen...",
+      "published": "Wed, 04 Nov 2026 11:42:51 +0000",
+      "fetched_at": "2026-11-04T13:32:15.661992+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-04T04:10:01.342806+00:00"
+  "updated_at": "2026-11-04T13:32:15.661992+00:00"
 }

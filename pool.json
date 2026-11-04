@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "5b82ece9d64a278f0425e4d8b06a9a9c",
-      "title": "MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks",
-      "link": "https://www.preferred.jp/ja/blog/tech/1798",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました",
-      "published": "02 Nov 2026 10:55 +0000",
-      "fetched_at": "2026-11-02T19:54:30.604342+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1592c2e2baa27f03be7e0b82f987367f",
-      "title": "素のClaude CodeとTDDで初見のお題に挑む ― TDDBC仙台11thのセッションログを公開します - t-wadaのブログ",
-      "link": "https://t-wada.hatenablog.jp/entry/red-green-tdd-with-claude-code-202610",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 素のClaude CodeとTDDで初見のお題に挑む ― TDDBC仙台11thのセッションログを公開します",
-      "published": "02 Nov 2026 08:55 +0000",
-      "fetched_at": "2026-11-02T19:54:30.604342+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8eec7f41b3253bd53f65e782f92eb74f",
       "title": "AI時代のシニアエンジニアとは - Speaker Deck",
       "link": "https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha",
@@ -199,7 +179,417 @@
       "fetched_at": "2026-11-03T22:43:42.172733+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "c92ae6762ee567748c8b661862d4069d",
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape - Engineering at Meta",
+      "link": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "published": "04 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "799a29c187dab84f1fa7b58999e8f2e5",
+      "title": "OpenTelemetry Transformation Language reaches v1 | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/ottl-v1/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry Transformation Language reaches v1",
+      "published": "04 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cca3e19b94f6b3f4adfa57e917eb704",
+      "title": "OpenTelemetry eBPF Instrumentation reaches v1.0.0 | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/obi-v1-release/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenTelemetry eBPF Instrumentation reaches v1.0.0",
+      "published": "04 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d644ba20b1eabb4d641acfb746e3a42",
+      "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+      "published": "03 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "040045da2a7e4cc1672650067f481248",
+      "title": "The Internals of PostgreSQL",
+      "link": "https://www.interdb.jp/pg/index.html",
+      "summary": "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 173 # Comments: 10",
+      "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6211dd695228fccc05fd03cf4ee4dee",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "link": "https://arxiv.org/abs/2605.29713",
+      "summary": "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 265 # Comments: 47",
+      "published": "Tue, 03 Nov 2026 21:40:53 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "93c8eb4a1dfbf676fe310b196569e1e4",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "summary": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments...",
+      "published": "Tue, 03 Nov 2026 21:26:44 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "08270449f54384dd53be6cc8e338affc",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "summary": "Article URL: https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/ Comments URL: https://news.ycombinat...",
+      "published": "Tue, 03 Nov 2026 19:27:53 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa966658d7c4380fd922311c991ba3a9",
+      "title": "How I use AI (Oct 2026)",
+      "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "summary": "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 104 # Comments: ...",
+      "published": "Tue, 03 Nov 2026 18:11:11 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17cc0041761499ebc8c8cab5bc346f84",
+      "title": "Bear turns 10, and it still feels like day one",
+      "link": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
+      "summary": "Article URL: https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/ Comments URL: https://news.ycombinator.com/item?id=50353383 ...",
+      "published": "Tue, 03 Nov 2026 15:41:46 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24aedbd85b69eeb3c6b13fbb8215b923",
+      "title": "Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release (GDR) ...",
+      "published": "Tue, 03 Nov 2026 08:30:00 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a2eda9fb751ecc26aab1edbe2f89a4f",
+      "title": "AI エージェントがデスクトップアプリを操作する CLI agent-desktop",
+      "link": "https://azukiazusa.dev/blog/agent-desktop-computer-use-cli/",
+      "summary": "agent-desktop は Vercel Labs が公開している、AI エージェント向けの Computer Use CLI です。スクリーンショットとピクセル座標ではなく OS のアクセシビリティツリーを読み取り、スナップショットごとに発行される ref を指定してデスクトップアプリを操作し...",
+      "published": "2026-11-03T08:51:58Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7d6c3661c9ed804c24ccb6b2732f07e",
+      "title": "新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita",
+      "link": "https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f",
+      "summary": "⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveR...",
+      "published": "2026-11-03T13:02:09Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "617e33aebe53b5003d16815f631a7b8e",
+      "title": "ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」",
+      "link": "https://internet.watch.impress.co.jp/docs/news/2153282.html",
+      "summary": "",
+      "published": "2026-11-03T22:53:51Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c9373c239659fe3370ff240beb27902",
+      "title": "「黙ってブラビアを買いなさい。」アワード大賞受賞モデル“True RGB”の価値と魅力を語りつくす！[Sponsored]",
+      "link": "https://av.watch.impress.co.jp/docs/topic/special/2149395.html",
+      "summary": "",
+      "published": "2026-11-03T23:37:15Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6417939ef526889e1fa37651d7cd2588",
+      "title": "バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ",
+      "link": "https://zenn.dev/uguisu_blog/articles/45d1f446ece415",
+      "summary": "「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっていま...",
+      "published": "2026-11-03T07:36:22Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6cb99ead7024896a74d26fc0f8cc993",
+      "title": "権限は「誰に渡すか」ではなく「何をするか」で分ける 〜AWS IAM Identity Centerの許可セットを5種類に揃えた話〜 - Findy Tech Blog",
+      "link": "https://tech.findy.co.jp/entry/2026/11/04/070000",
+      "summary": "こんにちは。 CTO室/Platform開発チームでSREを担当している富田(@Cooking_ENG)です。 ファインディでは、プロダクトごとにAWSアカウントを分け、AWS IAM Identity Center（以降、Identity Center）で各AWSアカウントへのサインインと権限を管...",
+      "published": "2026-11-04T02:48:34Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e19016f764bda64af083e8b9a34f893b",
+      "title": "委託先メール配信サービスへの不正アクセスに関するお詫びとお知らせ |NEWS|アソビュー株式会社",
+      "link": "https://www.asoview.co.jp/news/articles/AyTdT_tX",
+      "summary": "平素よりアソビュー！をご利用いただき、誠にありがとうございます。このたび、弊社がメール配信に利用している、アララ株式会社（以下「アララ社」）が提供するメール配信サービス「アララメッセージ」（以下「本サ...",
+      "published": "2026-11-03T16:44:45Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "56ff4a609c63454abcbbd1315fefe700",
+      "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
+      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤をMicrosoft Azureへ移行し、コンピュートとスト...",
+      "published": "2026-11-03T13:31:58Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cef2425667fa5fb1b6eb9096d8a667c",
+      "title": "Binance、約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表。",
+      "link": "https://applech2.com/archives/20261104-hackers-compromised-homebrew-binance-attack.html",
+      "summary": "Binanceが約1兆円相当の暗号資産が流出した問題に関し、検索エンジンに表示されたWebサイトから改ざんされたHomebrewをインストールした事が始まりだったと発表しています。詳細は以下から。 暗号資産の取引所を運営するBinanceは2026年10月29日、ハッカーにより約63億4,000万ド...",
+      "published": "2026-11-04T01:42:21Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4efbb332bc04c36afff2327d39357b2b",
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "link": "https://blog.cloudflare.com/zero-wire/",
+      "summary": "November 3, 2026Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities You run security at your organization. It’s 7:00 am, ...",
+      "published": "2026-11-03T17:22:51Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "299178fbd8b7ac39f604b6e08fc8d94d",
+      "title": "アンドパッドSREが抱える課題をPlatform Engineering Kaigi 2026の参加者にぶつけてみた結果 - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/11/04/100000",
+      "summary": "はじめに ブースについて 「Platform Engineering チャレンジ」 当日の様子 ノベルティ ANDPAD バッグ メジャー 御朱印帳 ブースで会話した内容 よく聞かれた質問・話題 参加者の課題感として共通していたこと 印象に残った会話 学び・今後に向けて 参加して見えた業界の動向 ア...",
+      "published": "2026-11-04T01:16:35Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "14dce754392fa8c0d54315b48d8b185d",
+      "title": "GitHub、より高度なコードレビューを行う「Copilot Code Review Max」発表。GitHub Universe 2026",
+      "link": "https://www.publickey1.jp/blog/26/githubcopilot_code_review_maxgithub_universe_2026.html",
+      "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 GitHub Copilotは以前からコードレビューのための機能...",
+      "published": "2026-11-03T14:33:02Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd936c455943f1b02fc1f84e43c85a1c",
+      "title": "ミュンヘン市はなぜ再びオープンソースソフトウェアへ回帰するのか？ 脱Microsoftを巡る欧州の最新事情",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/04/news017.html",
+      "summary": "ミュンヘン市はなぜ再びオープンソースソフトウェアへ回帰するのか？ 脱Microsoftを巡る欧州の最新事情：Windowsフロントライン（1/3 ページ） チェコのプラハで10月上旬に開催された「Open Source Summit Europe」の話題を、ZDNETが報じている。 同ステージに登壇...",
+      "published": "2026-11-03T21:50:10Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06755369b376df1effb1bc8d63890904",
+      "title": "【元半導体設計屋 筑秋 景のシリコン解体新書】 NVIDIAを追うだけじゃない。Intel CTOが探す「GPUの次」とは？",
+      "link": "https://pc.watch.impress.co.jp/docs/column/silicon_exp/2153181.html",
+      "summary": "",
+      "published": "2026-11-03T22:32:07Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf6accb31968fb97468c10f2fd089471",
+      "title": "AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計 - Tabelog Tech Blog",
+      "link": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+      "summary": "目次 はじめに これまでのAI4QAの取り組み 今回の取り組み AIにトリアージさせるためのコンテキスト設計 何を渡すか どう渡すか 判定の基準をどこに持たせるか 結果 定性的評価：トリアージができた3つの例 定量的評価：トリアージ精度が2倍に まとめ 採用情報 はじめに こんにちは。食べログカンパ...",
+      "published": "2026-11-04T03:03:51Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "289030ea252144e087a32ae4ca82cfd0",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "summary": "米Googleは11月3日（現地時間）、K-12（幼稚園から高校まで）の生徒向けアカウントで、生成AI「Gemini」や「Google検索」などを、学校の管理者が明示的に有効にするまで原則オフにすると発表した。学校側が生徒のAI利用を管理できるようにする措置だ。ただし、Google検索に組み込まれた...",
+      "published": "2026-11-03T23:36:51Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6646d6b801009e9cf26750cbb62f1833",
+      "title": "[石川温の「スマホ業界 Watch」] 折りたたみ「iPhone Duo」のアプリ最適化が遅れる理由と2027年への展望",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2153254.html",
+      "summary": "",
+      "published": "2026-11-03T15:09:14Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e9b3c73cd4628d7d26e482c52da1a4f",
+      "title": "「思い出すと震える」悪夢のランサムウェア攻撃、被害からの回復、そしてセキュリティ企業の立ち上げへ――その生々しい経緯をCyber Governance Labの達城利元社長が語る【Security Days Fall 2026】",
+      "link": "https://internet.watch.impress.co.jp/docs/event/2152285.html",
+      "summary": "",
+      "published": "2026-11-03T23:11:56Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c8061521adcc56fe0d8a31ecc963279b",
+      "title": "Hacker Newsのコメント3万9834件から収集した6454本の動画をYouTube風のUIで表示する「HackerTube」",
+      "link": "https://gigazine.net/news/20261104-hacker-tube/",
+      "summary": "「HackerTube」はソーシャルニュースサイトのHacker Newsで推奨された動画のみを集め、YouTube風のUIで表示することができるサイトです。 HackerTube https://hackertube.org/ HackerTube – karpathy https://karpa...",
+      "published": "2026-11-03T23:21:18Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d56a046c2b01360f0c827a63c21c2735",
+      "title": "アソビュー 1580万件が流出か - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/pickup/6601228",
+      "summary": "レジャー施設等のチケット予約システムを手掛ける「アソビュー！」のメール配信システムが第三者による不正アクセスを受け、同社でチケットを購入した人の個人情報が流出した可能性があることが分かりました。福井県立恐竜博物館のチケットを同社経由で購入した人の情報も流出した可能性があり、県が注意を呼び掛けてい.....",
+      "published": "2026-11-03T22:56:06Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "33d27566662cff2c4d41280e156e7f0c",
+      "title": "Claudeプラン名変更で容量半減？→公式が否定 「元々、Max 20xの週次制限はProの10倍」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002862/",
+      "summary": "米Anthropicは10月30日（現地時間）、同社のAI「Claude」のプラン名「Max 5x」を「Max」に、「Max 20x」を「Ultra」に変更した。価格はいずれも据え置きで、それぞれ月額110ドルと220ドルだ。 これに伴い、Ultraプランの使用量の5時間制限が撤廃された一方、同プラ...",
+      "published": "2026-11-04T01:54:12Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "21b445959ddf22a9162785d6c5fe5484",
+      "title": "免許証のコピーは必要だったのか？ タイムズカー問題と本人確認の未来",
+      "link": "https://www.watch.impress.co.jp/docs/topic/2152930.html",
+      "summary": "",
+      "published": "2026-11-03T23:21:32Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a3a8bca124c4c39f0291f590a40b222e",
+      "title": "Macのデスクトップ上に散らかったファイルやフォルダをロボット掃除機が整理/削除してくれるアプリ「RoboDust」がリリース。",
+      "link": "https://applech2.com/archives/20261103-robodust-robot-vacuum-for-your-mac-desktop.html",
+      "summary": "Macのデスクトップ上に散らかったファイルやフォルダをロボット掃除機が片付けて整理してくれるアプリ「RoboDust」がリリースされています。詳細は以下から。 Macを使っているとデスクトップに作業中のファイルやフォルダが数多く作成され、使っていないファイルが散乱してしまう事がありますが、その様な際...",
+      "published": "2026-11-03T04:43:41Z",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f8f9f01d89fe7ab7210cd0c9f23eade",
+      "title": "[Amazon Connect] CloudWatch Alarm の電話通知で最小限の運用コストを検討してみました",
+      "link": "https://dev.classmethod.jp/articles/amazon-connect-cloudwatch-alarm-call-minimum-cost/",
+      "summary": "Amazon Connectを使ったCloudWatch Alarmの電話通知を構築し、実測データから最小コストの運用を検証してみました。",
+      "published": "Wed, 04 Nov 2026 03:00:16 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebb8c36ccfc9c13be1c6e12b7c804fe3",
+      "title": "マーケティング部マーケティング企画室にジョインした秋元です。",
+      "link": "https://dev.classmethod.jp/articles/join-akimoto-20261102/",
+      "summary": "クラスメソッドのマーケティング企画室にジョインした秋元絢子です。これまでの広報マーケティング経験を活かし、クラスメソッドの多様なプロダクトやサービスを多くの人に知ってもらい、新しいお客様との出会いやビジネス拡大に貢献したいと考えています。よろしくお願いいたします。",
+      "published": "Wed, 04 Nov 2026 02:35:23 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a66084a21c150f0f37f79ce2cb9e17c3",
+      "title": "Amazon Quick Flow から呼び出す OpenAPI コネクタアクションに API キー認証を追加してみた",
+      "link": "https://dev.classmethod.jp/articles/quick-flow-openapi-apikey/",
+      "summary": "QuickのOpenAPIアクションは認証オプションがある。使おう",
+      "published": "Wed, 04 Nov 2026 00:49:19 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "bd81fad6c23be7932fc5f6101e960c68",
+      "title": "AWS WAF は Websocket 通信をサポートしますか",
+      "link": "https://dev.classmethod.jp/articles/waf-websocket/",
+      "summary": "AWS WAFがWebsocket通信に対応しているのかについて、その仕様と実際の動作を詳しく解説します。",
+      "published": "Wed, 04 Nov 2026 00:08:33 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e9f305ea0805af36f46af6ce7ad1a310",
+      "title": "2026年10月にリリースされたSnowflakeの新機能・変更点のまとめ #SnowflakeDB",
+      "link": "https://dev.classmethod.jp/articles/snowflake-latest-info-202610/",
+      "summary": "2026年10月にリリースされたSnowflakeの新機能・変更点を、セキュリティアドバイザリから最新機能まで幅広くピックアップしました。AI機能の拡充、Icebergテーブルの強化、そしてガバナンス面での充実を中心とした内容になっています。",
+      "published": "Wed, 04 Nov 2026 00:07:26 GMT",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fce94194f984ee996e3dfcbe3487058f",
+      "title": "入門 モダンC++",
+      "link": "http://www.oreilly.co.jp/books/9784814401819/?utm_source=feed&utm_mediun=referral&utm_content=new_book",
+      "summary": "最新のC++を基礎から学べる入門書。C++は多くの業界で使われてきましたが、何度かの大きな改訂を経て、飛躍的に進化してきました。本書では、最新の規格であるC++23に完全に準拠し、次の規格であるC++26にも触れながら、他書ではあまり解説されていないC++の新機能について詳しく説明します。プログラム...",
+      "published": "2026-11-30T00:00:00+09:00",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "O'Reilly Japan - 新刊・近刊",
+      "category": "book"
+    },
+    {
+      "entry_id": "69645b0fedfb33e2da009923b6a39d43",
+      "title": "Avid、Pro Tools 2026.11をリリース…… 新たに導入された拡張機能によって最大6ステムの音声分離に対応、MPEもサポート",
+      "link": "https://icon.jp/archives/28132",
+      "summary": "AvidがPro Toolsの新バージョン、2026.11をリリース。最大6ステムの音声分離が新しい拡張機能として追加され、MPE（MIDI Polyphonic Expression）にも対応しました。 Avid Pr […]",
+      "published": "Wed, 04 Nov 2026 01:00:00 +0000",
+      "fetched_at": "2026-11-04T04:10:01.342806+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-03T22:43:42.172733+00:00"
+  "updated_at": "2026-11-04T04:10:01.342806+00:00"
 }

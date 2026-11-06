@@ -1,676 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "78d8e6895f33235179ce13c08194f3a5",
-      "title": "コーディングエージェントで変わったOSS開発 ——pecoの改修から3Dモデリング、開発ループの整備とメンテナンスの課題まで | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/10/life-with-ai-agents-01",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 コーディングエージェントで変わったOSS開発 ——pecoの改修から3Dモデリング、開発ループの整備とメンテナンスの課題まで | gihyo.jp",
-      "published": "05 Nov 2026 10:55 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "70cb0773363513a383819bef6c727ae6",
-      "title": "Google、Gemini内で直接ファイルを作成、プレビュー、編集可能に ―PDF、プレゼンテーション、スプレッドシート、MD、LaTeXに対応 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/10/create-files-in-gemini",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google、Gemini内で直接ファイルを作成、プレビュー、編集可能に ―PDF、プレゼンテーション、スプレッドシート、MD、LaTeXに対応 | gihyo.jp",
-      "published": "05 Nov 2026 08:55 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4e4712f6a7635f1df0e26293e4a1139b",
-      "title": "Motorola Signature 27 with GrapheneOS support",
-      "link": "https://motorolanews.com/motorola-signature-27-2/",
-      "summary": "Article URL: https://motorolanews.com/motorola-signature-27-2/ Comments URL: https://news.ycombinator.com/item?id=50380810 Points: 111 # Comments: 39",
-      "published": "Thu, 05 Nov 2026 16:01:34 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "33250ad86d34af0b8146a1b5c2cb93a0",
-      "title": "Image of our satellite-choked night skies",
-      "link": "https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies",
-      "summary": "https://www.theguardian.com/world/2026/nov/04/viral-image-nz... Comments URL: https://news.ycombinator.com/item?id=50379773 Points: 107 # Comments: 73",
-      "published": "Thu, 05 Nov 2026 14:49:07 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "a36b75d6368ee8f6c9d7438e673b5b13",
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "summary": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/ Comments URL: https://news.ycombinator.com/item?id=50379...",
-      "published": "Thu, 05 Nov 2026 14:44:20 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1a2e7b0733140d14b0098f7ccaaaaa1e",
-      "title": "MCP Explained",
-      "link": "https://mcp-explained.com/",
-      "summary": "Article URL: https://mcp-explained.com/ Comments URL: https://news.ycombinator.com/item?id=50379249 Points: 152 # Comments: 75",
-      "published": "Thu, 05 Nov 2026 14:08:35 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "4645172d21450a9aefdb4c9c3b59391a",
-      "title": "Discord is ditching Electron and its new app uses less RAM",
-      "link": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "summary": "Article URL: https://www.theverge.com/news/1027379/discord-ditching-electron-web-app Comments URL: https://news.ycombinator.com/item?id=50378625 Point...",
-      "published": "Thu, 05 Nov 2026 13:05:28 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "69a6104d0a904e24e96bce01489a6194",
-      "title": "Download your favourite YouTube videos",
-      "link": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
-      "summary": "Article URL: https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/ Comments URL: https://news.ycombinator.com/ite...",
-      "published": "Thu, 05 Nov 2026 13:00:11 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f6a4d4028e5afb9f092e3b8e7cbd3a0d",
-      "title": "Obscure audio codec is a perfect fit for the N64",
-      "link": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
-      "summary": "Article URL: https://phoboslab.org/log/2026/11/n64-ulc-codec Comments URL: https://news.ycombinator.com/item?id=50378508 Points: 104 # Comments: 7",
-      "published": "Thu, 05 Nov 2026 12:51:48 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "de4a86af4af11b2ca2f2aa49f428c862",
-      "title": "sshole",
-      "link": "https://sshhole.com",
-      "summary": "Article URL: https://sshhole.com Comments URL: https://news.ycombinator.com/item?id=50378228 Points: 1393 # Comments: 373",
-      "published": "Thu, 05 Nov 2026 12:19:02 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ea40543799b06d6645d5d1e3f606680e",
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "link": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "summary": "Article URL: https://www.openssh.org/releasenotes.html#10.6p2 Comments URL: https://news.ycombinator.com/item?id=50377976 Points: 161 # Comments: 7",
-      "published": "Thu, 05 Nov 2026 11:40:30 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "3a79ec4f3ae88239b627be010ccd402d",
-      "title": "Awesome repositories are no longer awesome",
-      "link": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-      "summary": "Article URL: https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/ Comments URL: https://news.ycombinator.com/item?id=50...",
-      "published": "Thu, 05 Nov 2026 11:16:51 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "9de919f304d71a9ba6e8a7ec51b9a8f7",
-      "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-      "link": "https://hachyderm.io/@damienmiller/117563026759098135",
-      "summary": "Article URL: https://hachyderm.io/@damienmiller/117563026759098135 Comments URL: https://news.ycombinator.com/item?id=50377221 Points: 154 # Comments:...",
-      "published": "Thu, 05 Nov 2026 09:46:17 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2caa86b22c2c5c9773b3c9202fb5663b",
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "link": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "summary": "Article URL: https://ernie.baidu.com/release/ernie-5-5-flash-base/ Comments URL: https://news.ycombinator.com/item?id=50377078 Points: 141 # Comments:...",
-      "published": "Thu, 05 Nov 2026 09:29:12 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "ff2144e468b4889ad5741de0e5e05641",
-      "title": "GPT-6 Astra covertly underperforms on safety research",
-      "link": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-      "summary": "Article URL: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/ Comments URL: https://news.ycombinato...",
-      "published": "Thu, 05 Nov 2026 07:44:30 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "1adccfdf1c31ed5d1d59f514747539f3",
-      "title": "Being a kid making games in the early 2000s",
-      "link": "https://jaytholen.net/teengamedev/",
-      "summary": "Article URL: https://jaytholen.net/teengamedev/ Comments URL: https://news.ycombinator.com/item?id=50375691 Points: 106 # Comments: 45",
-      "published": "Thu, 05 Nov 2026 05:53:53 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Hacker News (100pts+)",
-      "category": "main"
-    },
-    {
-      "entry_id": "536d14714c11e071d20bbb7d9e6095e2",
-      "title": "自作AIエージェントの開発をやめた - 無駄と文化",
-      "link": "https://blog.mudatobunka.org/entry/2026/11/05/100000",
-      "summary": "今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェン...",
-      "published": "2026-11-05T09:16:13Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "1384e3b6a2fd05b5903235437a7439da",
-      "title": "三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71024",
-      "summary": "カードローンなどの保証業務を行っているSMBCコンシューマーファイナンスは、システムが不正アクセスを受け、ローンを申し込んだ人の名前や住所のほか、年収なども含む個人情報が、最大32万人分、漏えいしたと…",
-      "published": "2026-11-05T08:11:57Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e5e6dbc0d0674eae3999c6fcbb15d269",
-      "title": "*sshole · sshhole.com",
-      "link": "https://sshhole.com/",
-      "summary": "*sshole so openssh on musl linux (alpine, openwrt, buildroot, yocto, and a lot of the docker images you've pulled) has had a little problem since 2016...",
-      "published": "2026-11-05T12:50:42Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "5be6358b18a486ff2e42732d9f5d091c",
-      "title": "ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第二報：11月5日 午後6時30分時点） | お知らせ | NTTドコモ",
-      "link": "https://www.docomo.ne.jp/info/notice/page/261105_03_m.html",
-      "summary": "お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ Tweet 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不...",
-      "published": "2026-11-05T10:34:28Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "7fa3d3af0cb923d633b6935400694df0",
-      "title": "GPUI",
-      "link": "https://gpui.rs/",
-      "summary": "GPUI A fast, hybrid immediate and retained mode, GPU-accelerated UI framework for Rust. From the creators of Zed & Delta. use gpui::{ div, prelude::*,...",
-      "published": "2024-01-25T07:44:56Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "850506fed818eb45b7f75edc5174b374",
-      "title": "最近の HTML の新機能の紹介（2026 年版）",
-      "link": "https://zenn.dev/socialplus/articles/50221eafb8a55a",
-      "summary": "こんにちは、steshima です。 今回は、最近の HTML の新機能の中から、知っておくと役立ちそうなものや面白いものをいくつか紹介します。 関係のある機能は続けて並べているので、上から順に読むとつながりが分かりやすいと思います。 Popover API popover 属性を付けた要素を、ポッ...",
-      "published": "2026-11-03T13:16:09Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "65626d69674eccf76db60c3843d2f4fe",
-      "title": "NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出",
-      "link": "https://internet.watch.impress.co.jp/docs/news/2154115.html",
-      "summary": "",
-      "published": "2026-11-05T11:36:15Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "7a6f21fe7268d62d2f7c33e1d1858586",
-      "title": "「NIKKE」PCランチャー改ざん、9月27日以降の起動で不正プログラム侵入のおそれ",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2153966.html",
-      "summary": "",
-      "published": "2026-11-05T08:58:57Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "cf2e8c8f7d5193702796fdc27d4e2cd1",
-      "title": "Agentic autofix for code scanning alerts general availability - GitHub Changelog",
-      "link": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/",
-      "summary": "Agentic autofix for code scanning alerts general availability Agentic autofix for code scanning alerts is now generally available. It remediates alert...",
-      "published": "2026-11-05T05:19:57Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "9f0e680402482643f5140f16df11d6a9",
-      "title": "続・ソフトウェアアーキテクトのための意思決定術: Decision Readiness, Revisited — When AI Changes the Economics of Software Architecture",
-      "link": "https://speakerdeck.com/snoozer05/decision-readiness-revisited",
-      "summary": "「『ソフトウェアアーキテクトのための意思決定術』のその先 ――AIで置き換わる仕事と残る意思決定」の発表資料です #意思決定術_findy https://findy.connpass.com/event/409797/ アーカイブ動画: https://findy-code.io/even…",
-      "published": "2026-11-05T04:39:46Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "a1545926540a19f34f307b2c3489f970",
-      "title": "ソニー「複数シナリオを想定」、SamsungのApple向けCIS参入報道の中",
-      "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/05/news089.html",
-      "summary": "ソニー「複数シナリオを想定」、SamsungのApple向けCIS参入報道の中：TSMCとの協業「勝ち抜くための座組」 ソニーグループ（以下、ソニーG）は2026年11月5日に開催した2026年度第2四半期の決算説明会で、主要顧客向けCMOSイメージセンサー（CIS）の独占供給体制が変わる可能性につ...",
-      "published": "2026-11-05T11:56:45Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "dce60de26b56c20929ecff1c3028a830",
-      "title": "Windows PC向けゲームの「ロード待ち」はなぜ起こる？ 背景に過去との「互換性」",
-      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news082.html",
-      "summary": "Windows PC向けゲームの「ロード待ち」はなぜ起こる？ 背景に過去との「互換性」（1/2 ページ） 昨今のコンソール（据え置き型）ゲーム機は、データのロード（読み出し）時間がかなり短くなった――そのことに気付いている人は多いと思う。「ストレージデバイスがHDDからSSDになったのだから、当たり...",
-      "published": "2026-11-05T09:19:13Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "bb95e378655766aeae956f4b791c9964",
-      "title": "新Kindle出揃う 「価格勝負」から「薄くて上質・カラフル」に",
-      "link": "https://www.watch.impress.co.jp/docs/news/2154084.html",
-      "summary": "",
-      "published": "2026-11-05T10:17:26Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "3543ad3169f4631bfbf17934dc07be85",
-      "title": "C4モデル",
-      "link": "https://www.oreilly.co.jp//books/9784814401949/",
-      "summary": "本書は、ソフトウェアアーキテクチャを可視化する「C4モデル」の、制作者自身によって書かれた包括的な解説書です。C4モデルのシステム、コンテナ、コンポーネント、コードなどの図ごとに、意図、スコープ、内容、有用性などを紹介します。また、「特定の表記法に縛られない」というC4モデルの特性に基づいて、自分の...",
-      "published": "2026-11-05T08:30:02Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "8d023a47752beaaa207ec4eab2dbcac5",
-      "title": "思考プロセスの再現性を求めて。カナリーの「UI生成ワークフロー」の現在地｜Cocoda",
-      "link": "https://cocoda.design/mayuge33/p/p044da4c62735",
-      "summary": "カナリーでは現在、「PRDの作成」から「デザインシステムに沿ったUIの生成」まで、一通りのプロセスをClaude Codeを使ったワークフローで自動で行えるようにプロセスを組むことができています。 目下、多くのプロダクト組織でAIワークフローを当たり前にチームで運用している状態をつくろうとしていると...",
-      "published": "2026-11-04T07:21:39Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "e5d9413e932c5838c9c635042470c2ed",
-      "title": "登記データを「使えるデータ」に変える——法人ベース・レジストリのデータ基盤設計｜デジタル庁",
-      "link": "https://digital-gov.note.jp/n/n6b9910682c7b",
-      "summary": "公的基礎情報データベース（ベース・レジストリ）の構築を担当しているプロダクトマネージャーの佐藤嘉晃です。この記事では、デジタル庁が行政機関向けに提供する法人ベース・レジストリの仕組みについて紹介します。 商業・法人登記は商業登記法に基づき、日本国内の法人の商号・所在地・役員氏名等を正確に登録・公示....",
-      "published": "2026-11-04T05:21:44Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "d00c08c136da601f2aa6d1aa3b0f19d3",
-      "title": "AIに無理やり書道をやらせる「AI書道コンクール」が登場、画像生成AIではなく言語モデルに挑戦させる",
-      "link": "https://gigazine.net/news/20261105-ai-shodo/",
-      "summary": "さまざまなAIモデルに書道に挑戦させ、作品を並べて鑑賞するというサイトが「AI書道コンクール」です。 AI書道コンクール https://aishodo.enpitsu.org/ 『AI書道コンクール』というサイトを作りました。さまざまな言語モデルにむりやり書道をやらせて、みんなでそれを鑑賞するサイ...",
-      "published": "2026-11-05T07:17:15Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "6e6a5b35ebdf86501f9fb05e9b2deddc",
-      "title": "Kimi K3.1 Proの重み公開、無償で商用利用も原則可能",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2153969.html",
-      "summary": "",
-      "published": "2026-11-05T08:36:07Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "0b0ca55bf8f40d68c6719cf80d586ecc",
-      "title": "ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ",
-      "link": "https://www.watch.impress.co.jp/docs/news/2154107.html",
-      "summary": "",
-      "published": "2026-11-05T11:27:49Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "92a70e358b7747fe110de04f3449ad27",
-      "title": "総務省消防庁「安否情報システム」に不正アクセス、サービス停止中",
-      "link": "https://internet.watch.impress.co.jp/docs/news/2154132.html",
-      "summary": "",
-      "published": "2026-11-05T12:42:57Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "3c5b932af80e7e25d850ac96285c20e7",
-      "title": "総務省消防庁 「安否情報システム」への不正アクセス確認 | NHKニュース",
-      "link": "https://news.web.nhk/newsweb/na/nd-20261105de71235",
-      "summary": "総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。 不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい…",
-      "published": "2026-11-05T12:18:50Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "ac236455f32f029f106ac5e67d86af6e",
-      "title": "有事に準備する物のリストとサイバー攻撃に対応する方法｜@May_Roma (めいろま）",
-      "link": "https://note.com/may_roma/n/n6a606fa1a823",
-      "summary": "イギリスだけではなく、オランダやフランスなど世界各国の政府だけではなく、日本の政府もなぜかほぼ同時に災害や友人に備えろと言う通達を出していますが、私は非常に不穏なものを感じています。 欧州でもどう考えても、工作活動にしか見えない事件が頻繁に起きていますし、サイバー攻撃は日本だけではなく、他の国でも....",
-      "published": "2026-10-31T15:35:59Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "b85515f2ea63716bf2c5193c49130135",
-      "title": "#27 緊急！ISUCON2026優勝者に聞く、完全自律AIエージェントの作り方と今後のOSS | kawasy | 八百万のOSS",
-      "link": "https://yaoyorozu-oss.henteko07.com/episode/4b51fca1-644f-4b3d-bcd7-42c44f9cf507",
-      "summary": "今回は、AIエージェントを完全自律で動かしてISUCON2026で優勝したkawasyさんをゲストに迎えたゲスト回です。fukabori.fmで語られた大会の全体像を踏まえて、準備の過程での判断と、その背景にある考え方を伺いました。 kawasyさんは当初から「人間が介入せず、8時間止まらずに最後ま...",
-      "published": "2026-11-05T06:09:57Z",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
-      "entry_id": "193b081c9ab76f54f7882faadbfe2b83",
-      "title": "GitHub - lz4/lz4: Extremely Fast Compression algorithm · GitHub",
-      "link": "https://github.com/lz4/lz4",
-      "summary": "📦 lz4 / lz4 ⭐ 12,233 (+16) 🗒 C Extremely Fast Compression algorithm",
-      "published": "05 Nov 2026 17:17 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "c34811c59d2df7cc8ac56f89a928061a",
-      "title": "GitHub - vercel-labs/agent-browser: Browser automation CLI for AI agents · GitHub",
-      "link": "https://github.com/vercel-labs/agent-browser",
-      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 vercel-labs / agent-browser ⭐ 45,622 (+132) 🗒 Rust Browser automation CLI for AI agents",
-      "published": "05 Nov 2026 16:17 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "104b57e9a4316877012855b4a7c9148d",
-      "title": "GitHub - microsoft/VibeVoice: Open-Source Frontier Voice AI · GitHub",
-      "link": "https://github.com/microsoft/VibeVoice",
-      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 microsoft / VibeVoice ⭐ 55,397 (+214) 🗒 Python Open-Source Frontier Voice AI",
-      "published": "05 Nov 2026 15:17 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "2a4f190b580ce22d24e2113f9c279b44",
-      "title": "GitHub - Thysrael/Horizon: 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达 · GitHub",
-      "link": "https://github.com/Thysrael/Horizon",
-      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 Thysrael / Horizon ⭐ 12,327 (+121) 🗒 Python 📡 Your own AI-powered news radar. Generates daily briefings in English & ...",
-      "published": "05 Nov 2026 10:17 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "GitHub Trending (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "88fe1bacbb9535ec98f8cf7626d5669a",
-      "title": "[AWS Lambda] Web Functions は I/O 待ちの負荷で実行環境がいくつ立つのか、スロットリングまで実測してみました",
-      "link": "https://dev.classmethod.jp/articles/lambda-web-functions-scaling-throttling-io-bound/",
-      "summary": "AWS Lambda Web Functionsの実行環境スケーリングについて、I/O待ち主体の負荷で実測してみました。関数作成直後と暖めた後で環境数や429エラーの出方がどう変わるのか、maxEnvironmentsやrateLimitの上限に当たったときの挙動を確認してみた結果を共有させてくださ...",
-      "published": "Thu, 05 Nov 2026 17:29:19 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "724ed91a05296035626bc1f8ce22d68b",
-      "title": "生成AIと姿勢推定ライブラリを使って作業動画から手順書を自動生成する試行錯誤",
-      "link": "https://dev.classmethod.jp/articles/auto-generate-manual-from-video-ai-pose/",
-      "summary": "作業動画から手順書を自動生成するとき、生成AIが「何をしているか」を判断し、姿勢推定が「どれだけ動いたか」を数値で測る——この役割分けで、初めて実用的な手順書ができるかもしれません。10秒のハンドル操作動画で試してみました。",
-      "published": "Thu, 05 Nov 2026 16:39:49 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "41aace252fe6ea9e01a2f53ef4d8d3b4",
-      "title": "Azureポータルで検証用のサブスクリプションを追加する手順を画面付きで紹介する",
-      "link": "https://dev.classmethod.jp/articles/azure-mca-add-subscription/",
-      "summary": "既存のMicrosoft顧客契約（MCA）の課金アカウントに、Azureポータルから検証用のサブスクリプションを追加した手順を画面付きで紹介します。作成画面で選ぶ請求先とディレクトリの関係、作成後の確認、作成に失敗したときに見直した点もまとめます。",
-      "published": "Thu, 05 Nov 2026 15:48:40 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "beb0c2f1a2fa161f627baaa67acb151c",
-      "title": "Cloudflare AI Searchで日本語のキーワード検索を使うなら、trigramトークナイザを作成時に選ぼう",
-      "link": "https://dev.classmethod.jp/articles/cloudflare-ai-search-cjk-keyword-tokenizer/",
-      "summary": "Cloudflare AI SearchでCJKに対応したtrigramトークナイザを試しました。作成時に選んだインスタンスは日本語の質問でヒットし、porterは0件でした。既存インスタンスをダッシュボードで後から切り替えた範囲では、約9分待っても検索結果は変わりませんでした。",
-      "published": "Thu, 05 Nov 2026 14:35:32 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "a9fd358cf33ba60d4bf17b87ec35ae98",
-      "title": "mise tasks setでmise.tomlのタスクをコメントを残したまま変更し、rmで削除する",
-      "link": "https://dev.classmethod.jp/articles/mise-tasks-set-rm/",
-      "summary": "mise 2026.10.25で追加されたmise tasks setとrmを2026.11.0で試しました。setで書き換わる範囲と残るコメント、--dry-runと--jsonでの事前確認、書き込み先の選び方、rmで消える範囲、--の後ろに渡すコマンドの扱いをまとめます。",
-      "published": "Thu, 05 Nov 2026 14:22:53 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "109415818dd5295aea3725a8860e3f70",
-      "title": "# [Casual] My First Big AWS Event! AWS Cloud and AI Day @ KLCC~",
-      "link": "https://dev.classmethod.jp/articles/aws-cloud-and-ai-day-klcc/",
-      "summary": "I attended AWS Cloud and AI Day in Kuala Lumpur as a walk-in, and it was an amazing experience! Let me share my casual recap of the booths, sessions, ...",
-      "published": "Thu, 05 Nov 2026 14:00:00 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "12bfbb4128428f65382d408cd9c8d679",
-      "title": "新機能 AWS Continuum Code Vulnerabilitiesを使って最近の脆弱性を見つけられるのか試してみた",
-      "link": "https://dev.classmethod.jp/articles/aws-continuum-code-vulnerabilities-ga/",
-      "summary": "# AWS Continuum for code vulnerabilities の要約 ## サービス概要 2026年10月23日にAWSが**Continuum for code vulnerabilities**をGA（一般提供）開始しました。本サービスは、脆弱性の発見から修正提案までをひとつ...",
-      "published": "Thu, 05 Nov 2026 13:28:47 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "9696b71cd7ac932423328503b0b81763",
-      "title": "Vite+ 1.5 がリリースされたので、vp migrate は ts-node をどこまで移行してくれるのか試してみた",
-      "link": "https://dev.classmethod.jp/articles/hasuto-vite-plus-1-5-migrate-ts-node/",
-      "summary": "Vite+ 1.5 の vp migrate で ts-node のプロジェクトを移行してみました。自動で移るのは型チェックをしない ts-node だけで、型チェックありは vp check と分けて手で移す必要がありました。警告に従って直し、ts-node を外すまでを紹介します。",
-      "published": "Thu, 05 Nov 2026 12:58:57 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "557597b4d4b3bffb47c14a744c2a8ca5",
-      "title": "[アップデート] Amazon S3 Tables で Glue の Hive テーブルを Iceberg テーブルへマネージド移行できるようになったので試してみた",
-      "link": "https://dev.classmethod.jp/articles/20261105-amazon-s3-tables-migration-hive-to-iceberg/",
-      "summary": "Amazon S3 Tables が、Hive テーブルを Iceberg テーブルへマネージドに移行できるようになりました。移行用のジョブを用意せず、移行元を使い続けたまま Start → Sync → Complete で移行でき、型の変換は互換性レポートで確認できます。",
-      "published": "Thu, 05 Nov 2026 12:40:46 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "a84cf1add63c6a8fe3e6db26396e62c4",
-      "title": "Auth0 の Tenant ACL を設定してみる ─ ログイン画面が表示される前のリクエストを止める",
-      "link": "https://dev.classmethod.jp/articles/auth0-tenant-acl-setup/",
-      "summary": "Auth0のTenant ACLを検証用テナントで実際に設定し、ログイン画面表示前のリクエストをIPアドレスで遮断する手順を試してみました。管理画面での設定方法からブロック確認まで、実装のポイントをまとめています。",
-      "published": "Thu, 05 Nov 2026 11:22:35 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "962dae0840e2eb7de2d2e3f9b4fe4e26",
-      "title": "Amazon CloudFront に Akamai の True-Client-IP ヘッダーを実装してみた",
-      "link": "https://dev.classmethod.jp/articles/cloudfront-header-trueclientip/",
-      "summary": "Akamai や Cloudflare だとあるのだが、CloudFrotnt でも欲しくなった",
-      "published": "Thu, 05 Nov 2026 11:07:02 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "a12108b7f32fcd15be56424965316aa0",
-      "title": "[新機能]Snowflake CoCo for Excelがプレビューとなったので、自然言語クエリ・CORTEX セル関数・Intelligent refresh をExcelで試してみた",
-      "link": "https://dev.classmethod.jp/articles/snowflake-coco-for-excel-preview/",
-      "summary": "Snowflake CoCo for Excel がプレビューになったので、実際に Excel で自然言語データ取得、PivotTable 作成、CORTEX セル関数、マスキングポリシーの検証を試してみました。",
-      "published": "Thu, 05 Nov 2026 10:56:57 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "eaaa011bbb28b14cc5da64bfb5ea914c",
-      "title": "IAM ユーザーのアクセスキーを廃止して aws login に移行する",
-      "link": "https://dev.classmethod.jp/articles/aws-login-access-key-migration/",
-      "summary": "IAM ユーザーの長期アクセスキーは漏れた際の影響が大きいため、aws login を使った短期認証情報への移行を推奨します。本記事では移行の方法を紹介します。",
-      "published": "Thu, 05 Nov 2026 10:16:52 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "b42086a8ed9fefd58710244d6f140a99",
-      "title": "AIによる情報漏えいを棚卸ししてみた。",
-      "link": "https://dev.classmethod.jp/articles/ai-information-leak-inventory-2026/",
-      "summary": "1,000万件を超える個人情報の漏えいが、この5か月で15件公表された。AIは外からの攻撃を速く安くし、内側には新しい漏えいの経路を増やしている。公表事例と調査をたどって棚卸しした。",
-      "published": "Thu, 05 Nov 2026 09:05:04 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "ce52fcbd5e450e41807c666d433d54e3",
-      "title": "DevOps Agent の スキルとカスタムエージェントを使って、GuardDuty 検出結果を重要度別に振り分けて Slack 通知してみる",
-      "link": "https://dev.classmethod.jp/articles/devops-agent-triage-and-notify-slack/",
-      "summary": "GuardDuty の検出を重要度別に振り分け、DevOps Agent 連携を検証してみました。LOW はログ記録のみ、MEDIUM はカスタムエージェント、HIGH は本調査、という3段階の運用フローを実装し、実際の動作確認を交えて紹介します。",
-      "published": "Thu, 05 Nov 2026 08:54:40 GMT",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "DevelopersIO",
-      "category": "main"
-    },
-    {
-      "entry_id": "4fbfb592a940c5e85d4fd217a0748a2b",
-      "title": "JBL launches its latest line of studio monitors, the 3 Series MKIII – here’s what’s new",
-      "link": "https://musictech.com/news/gear/jbl-3-series-mkiii/",
-      "summary": "The 3 Series MkIII has three different speaker models as well as a subwoofer. The post JBL launches its latest line of studio monitors, the 3 Series M...",
-      "published": "Thu, 05 Nov 2026 17:14:29 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "0aa1fba7787cfa5b03e01924a593a93a",
-      "title": "Splice just released an entirely new DAW, Splice Create – here’s everything you need to know",
-      "link": "https://musictech.com/news/music/splice-create-daw-announced/",
-      "summary": "Splice Create – which has already received a seal of approval from UK rapper and producer Skepta – is now available on Mac in beta, and allows users t...",
-      "published": "Thu, 05 Nov 2026 15:28:03 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "371664b9b845f3b0d0cb1735a182fdc4",
-      "title": "Welsh DJ duo powerhouse Overmono just launched a bus processor built around their own mixing workflow",
-      "link": "https://musictech.com/news/gear/overmono-diamond-cut/",
-      "summary": "The UK duo’s signature mixing workflow becomes a limiter, EQ, saturation, bass and stereo tool all in one plugin, Diamond Cut. The post Welsh DJ duo p...",
-      "published": "Thu, 05 Nov 2026 14:24:44 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "5ef0936993d4a5a98ebbaa58dedf79de",
-      "title": "Daft Punk are transformed into tiny minifigures for new Pyramid Stage LEGO set",
-      "link": "https://musictech.com/news/music/lego-daft-punk-pyramid-stage-set/",
-      "summary": "The idea for a Daft Punk x LEGO collaboration was initially posted on LEGO's Ideas community page in 2020 by a father and son from Luxembourg. The pos...",
-      "published": "Thu, 05 Nov 2026 12:46:40 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "eb0055e2b365ff6f9202613300ee0bbc",
-      "title": "Pro Tools now features AI stem separation",
-      "link": "https://musictech.com/news/pro-tools-now-features-ai-stem-separation/",
-      "summary": "The new feature arrives as an Extension with Pro Tools 2026.11. The post Pro Tools now features AI stem separation appeared first on MusicTech.",
-      "published": "Thu, 05 Nov 2026 10:56:12 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "748904ac9a641ff016be0ca42a42de2c",
-      "title": "Why Jersey’s debut album is supposed to be performed live",
-      "link": "https://musictech.com/features/interviews/jersey-interview-nothings-fake/",
-      "summary": "The French duo’s ‘NOTHING’S FAKE’ was borne out of their affinity for hands-on experimentation and a resistance to DJing The post Why Jersey’s debut a...",
-      "published": "Thu, 05 Nov 2026 09:00:49 +0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
-      "entry_id": "4110b9e7965470a349cecaaff5e7a015",
-      "title": "The Best Contemporary Classical Music on Bandcamp, October 2026",
-      "link": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-october-2026",
-      "summary": "Our guide to the month’s crucial contemporary classical LPs Read full story on the Bandcamp Daily.",
-      "published": "Thu, 05 Nov 2026 14:29:18 -0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
-      "entry_id": "4032764e1b4b2d3590a08ef6a2cdd8db",
-      "title": "The Best Country Music on Bandcamp, October 2026",
-      "link": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-october-2026",
-      "summary": "Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily.",
-      "published": "Thu, 05 Nov 2026 14:29:16 -0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
-      "entry_id": "f243b5fc11fd3c47e995a7b0777ef7e4",
-      "title": "Shygirl, “SWALLOW!”",
-      "link": "https://daily.bandcamp.com/album-of-the-day/shygirl-swallow-review",
-      "summary": "Channeling trip-hop, breakbeat, and more, the British pop auteur pushes nostalgic sounds into shiny new places. Read full story on the Bandcamp Daily.",
-      "published": "Thu, 05 Nov 2026 14:29:05 -0000",
-      "fetched_at": "2026-11-05T17:46:26.486760+00:00",
-      "feed_name": "Bandcamp Daily",
-      "category": "music"
-    },
-    {
       "entry_id": "513ae11503c4d5a5765e34616c1adc0a",
       "title": "MS Paint Remote Code Execution Vulnerability",
       "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
@@ -2399,7 +1729,187 @@
       "fetched_at": "2026-11-06T20:10:10.194787+00:00",
       "feed_name": "Bandcamp Daily",
       "category": "music"
+    },
+    {
+      "entry_id": "7574b93a4909fb0ddd2f000c7475c680",
+      "title": "AI is dramatically accelerating AI research",
+      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Poi...",
+      "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73de156b3c59e8ca5ea2c2b803cd1088",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 244 # Comme...",
+      "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dac27b5d36322178c2b753b24aded74",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "link": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 129 # Comments: 65",
+      "published": "Fri, 06 Nov 2026 19:33:38 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cec111b0b3895c0e073a5e6605e092ac",
+      "title": "Democrats launching congressional investigations into SpaceXAI, META and Apple",
+      "link": "https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/11/06/after-courting-trump-corporate-america-faces-democratic-reckoning/ Comments URL: htt...",
+      "published": "Fri, 06 Nov 2026 19:24:24 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0358b7055c8daf2957ca2d905f13c8e",
+      "title": "We know 15k websites are infected. how do we tell them?",
+      "link": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
+      "summary": "Article URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/ Comments URL: https://news.ycombinator.com/item?id=503...",
+      "published": "Fri, 06 Nov 2026 18:13:35 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf344060c72a716596bf4599a8ad01de",
+      "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+      "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/ Comments URL: http...",
+      "published": "Fri, 06 Nov 2026 18:02:34 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "671dd8ccd7298128ca3510007483a77c",
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 186 # Comments: 42...",
+      "published": "Fri, 06 Nov 2026 16:54:36 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "60ec31a224ecfa85e6f19ca4d8905a47",
+      "title": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/",
+      "summary": "AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region. AWS Agent Registry is a fully m...",
+      "published": "Fri, 06 Nov 2026 19:48:00 GMT",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "014fce48b7f9d0a362439d510dfe633c",
+      "title": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions",
+      "summary": "You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across Amazon MSK clusters and from e...",
+      "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f955ad65e69eef0885ee645862b87db8",
+      "title": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/",
+      "summary": "Amazon Redshift now supports individual strings up to 16 million bytes within SUPER data types. Once you opt in through a database parameter, this enh...",
+      "published": "Fri, 06 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c4abc92cbdde87a6402106cb61bbf7e",
+      "title": "AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/",
+      "summary": "​​AWS Elemental MediaConvert now integrates Smart Subtitles, an AI-powered subtitling solution built on AWS Elemental Inference and the latest speech ...",
+      "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "702e98dd4c65e1c8fc6b8b93619a3b86",
+      "title": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/",
+      "summary": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics for Amazon Managed Service for Prometheus and Amazon CloudWatch. The integ...",
+      "published": "Fri, 30 Oct 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b03b696a2f160607f450b317c3dcdf1",
+      "title": "もう検索エンジンに戻れない",
+      "link": "https://anond.hatelabo.jp/20260930202455",
+      "summary": "もう検索エンジンに戻れない。 別にGoogleが嫌いになったわけじゃない。検索精度が落ちたとか、SEO記事ばかりになったとか、そういう話もあるけど、本質はそこじゃない。 検索エンジンって、思っていたより「自分で頑張る道具」だったんだなと最近気づいた。 たとえばUnityで意味不明なエラーが出たとする...",
+      "published": "2026-09-30T11:35:51Z",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f8f26935ac61c2c73a085fc3d3acfc87",
+      "title": "自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―",
+      "link": "https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001",
+      "summary": "発表のポイント ◆ 大規模言語モデルからカルマンフィルタまで、過去の出力履歴を用いて次の出力を生成する「自己回帰生成モデル」を統一的に扱う熱力学理論を構築しました。 ◆ 出力を生成する過程にどの程度「一方向性」があるかを表す量（エントロピー生成）を効率的に推定する方法を示し、それを大規模言語モデルの...",
+      "published": "2026-11-06T11:53:33Z",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "97f1103f1dcd4044bc0e675fb1e18121",
+      "title": "自分は旧時代のエンジニアになってしまったのでは",
+      "link": "https://www.mobtown.jp/article/old-engineer/",
+      "summary": "最近、生成AIによるバイブコーディングが一般化していくにつれて、自分の中でそことの向き合い方を考えていました。 個人的には、生成AIの出力をそのまま鵜呑みにするのではなく、内容を理解し必要に応じて訂正した上で、自分の責任として成果物を出すのがエンジニアリングだ—、というのが今の自分の結論でした。 そ...",
+      "published": "2026-11-05T13:24:35Z",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35e3377217e9890a654eaeb3a8a438d9",
+      "title": "Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2154280.html",
+      "summary": "",
+      "published": "2026-11-06T04:58:52Z",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "429ceefb7bccd659498f2e08bee83c9e",
+      "title": "GitHub - microsoft/vscode: Visual Studio Code · GitHub",
+      "link": "https://github.com/microsoft/vscode",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 microsoft / vscode ⭐ 194,788 (+295) 🗒 TypeScript Visual Studio Code",
+      "published": "06 Nov 2026 22:17 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffd8d54208ace1f95b1608a4579d4a0b",
+      "title": "GitHub - mpv-player/mpv: 🎥 Command line media player · GitHub",
+      "link": "https://github.com/mpv-player/mpv",
+      "summary": "📦 mpv-player / mpv ⭐ 37,757 (+36) 🗒 C 🎥 Command line media player",
+      "published": "06 Nov 2026 21:17 +0000",
+      "fetched_at": "2026-11-06T23:24:07.002753+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-06T20:10:10.194787+00:00"
+  "updated_at": "2026-11-06T23:24:07.002753+00:00"
 }

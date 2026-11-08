@@ -1,4 +1,315 @@
 {
-  "articles": [],
-  "updated_at": "2026-11-08T03:58:11.643921+00:00"
+  "articles": [
+    {
+      "entry_id": "520be6145933e84e65e8bf8d6c801e19",
+      "title": "Make long-running agents faster with message threads | Claude by Anthropic",
+      "link": "https://claude.com/ja/resources/articles/message-threads",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Make long-running agents faster with message threads",
+      "published": "08 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e8b1c6ad5232d5bdc824f0a5fa10bb3",
+      "title": "Keycloak's observability journey: a guide for project maintainers | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/devex-keycloak/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Keycloak's observability journey: a guide for project maintainers",
+      "published": "08 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "43bee14924bf8651440958a9c6d5c0c5",
+      "title": "ISUCON2026 で優勝しました（当日編）",
+      "link": "https://zenn.dev/luvtechno/articles/isucon2026-competition-day",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ISUCON2026 で優勝しました（当日編）",
+      "published": "08 Nov 2026 06:55 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3716632d7e5508bae3f3ea56eb28e223",
+      "title": "HonoがPRを閉じた理由",
+      "link": "https://slides.yusu.ke/foss4g-2026",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 HonoがPRを閉じた理由",
+      "published": "08 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "70cb0773363513a383819bef6c727ae6",
+      "title": "Google、Gemini内で直接ファイルを作成、プレビュー、編集可能に ―PDF、プレゼンテーション、スプレッドシート、MD、LaTeXに対応 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/10/create-files-in-gemini",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Google、Gemini内で直接ファイルを作成、プレビュー、編集可能に ―PDF、プレゼンテーション、スプレッドシート、MD、LaTeXに対応 | gihyo.jp",
+      "published": "05 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fd76eb13ab2939941a8263491f80979f",
+      "title": "Goodbye Claude, Hello Pi",
+      "link": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 335 # Comments: 197",
+      "published": "Sun, 08 Nov 2026 03:11:48 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9116326703f90a76c0dcf0cc70ba4d5",
+      "title": "GitHub New pull request overview page in public preview",
+      "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/ite...",
+      "published": "Sat, 07 Nov 2026 23:09:40 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e21cade4343fdd6f720cea453a6455e",
+      "title": "Making any integer with four 2s (2025)",
+      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 1...",
+      "published": "Sat, 07 Nov 2026 22:38:58 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b413bec69807976642df6d229fee4b0",
+      "title": "Five memorable books about programming (2008)",
+      "link": "https://prog21.dadgum.com/19.html",
+      "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 119 # Comments: 77",
+      "published": "Sat, 07 Nov 2026 17:30:49 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2634d949ab7df90a328b209433af2741",
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
+      "summary": "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 128 # Comments: 27",
+      "published": "Sat, 07 Nov 2026 16:21:36 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7d0fbc6991eb550802959fcacf1225d",
+      "title": "ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録",
+      "link": "https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931",
+      "summary": "以前から一度泊まってみたいと憧れつつ、距離が遠いためになかなか思いきれなかったホテル川久に泊まってきた。同行者あり。 和歌山へ行くのは2015年10月以来。そのときは紀伊半島を海沿いに走って那智の滝まで向かった。埼玉からだと和歌山へのアクセスはほぼ飛行機一択。 飛行機に乗るのは2023年4月、高松か...",
+      "published": "2026-11-06T07:33:34Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b020b2150a74ae8a32b47c8f7e46bbb",
+      "title": "Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ",
+      "link": "https://ken-it.world/it/2026/11/sumicad-free-bim.html",
+      "summary": "管理人のイエイリです。 木造住宅の設計でBIMソフトを使っていても、確認申請用の図面は結局、Jw_cadで仕上げる。そんな話をよく聞きます。 しかし、施主の要望で窓を一つ動かすだけでも、平面図や立面図、断面図をあちこち直すのは大変です。かといって、高価なBIMソフトを何本もそろえるのも、小規模な工務...",
+      "published": "2026-11-08T04:37:22Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03cba65e795c4bfea327e0d0107a522c",
+      "title": "数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/11/06/5679.html",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第166回）は、スマホでも高速で動くオープンウェイトのAIモデル群「LFM3」や、数百ページの文書を一括解析できるローカルOCRモデル「Unlimited OCR 2」を取り上げます。 また、複数...",
+      "published": "2026-11-07T00:46:51Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c456d15e6dad0c74a6cfa746b5c81d01",
+      "title": "リストラします。会社のMacBookは引き続き使えます",
+      "link": "https://www.watch.impress.co.jp/docs/topic/watchplus/2154253.html",
+      "summary": "",
+      "published": "2026-11-07T22:20:32Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f0ed1d538254d9a37443c3bd6684f65",
+      "title": "AWSを利用する上で知っておきたい名前解決の話 2026",
+      "link": "https://speakerdeck.com/nagisa53/aws-o-riyou-suru-ue-de-shi-te-okitai-namae-kaiketsu-no-hanashi-2026",
+      "summary": "JAWS FESTA 2026 in AKITA",
+      "published": "2026-11-07T13:51:49Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3cb34bdd91c2b2d5d9f4684bce6c5d7c",
+      "title": "仕事、ドパ越えて利益 - オイオイオイ書くわアイツ",
+      "link": "https://ttmmjm.hatenablog.com/entry/2026/11/06/135935",
+      "summary": "AI 使って楽し～ ここ半年くらいで、AI に任せられる仕事がかなり増えた。 障害対応なら、Datadog のログやメトリクスを調べてもらう。 必要なら AWS や Kubernetes の情報も渡す。 大量の調査が短時間で終わって、対応案が出てくる。 依存更新やリファクタリングなら、コードとドキュ...",
+      "published": "2026-11-06T15:36:46Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "566deb86408b4179ffa16a700cffe785",
+      "title": "警告:ジャンプルーキーはそのうちAI漫画で埋まる",
+      "link": "https://anond.hatelabo.jp/20261108174809",
+      "summary": "ジャンプ＋ならともかく、ジャンプルーキーを読んでいるのはよほどの漫画好き、もしくは漫画家志望者だろう。 ジャンプルーキーは投稿に制限や審査がほぼなく、下手だろうが未完成だろうが好きに投稿できる。 はっきり言えば玉石石石石石…混淆なのだが、その中からルーキー賞などを経て、ジャンプ＋の読み切りなどに頭角...",
+      "published": "2026-11-08T08:51:31Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d0afd7c6d411bf5a7105552d55a1439",
+      "title": "AI生成の証拠「透かし」がユーザー追跡の「スパイマーク」と化している",
+      "link": "https://gigazine.net/news/20261108-spymarks-not-watermarks/",
+      "summary": "近年よく目にするようになった「ウォーターマーク」という言葉はメディアが本物であることを確認したりメディアの所有権を主張したりするために用いられる可視の「透かし」を指します。しかし、AIを用いて画像・動画制作ソフトを開発するArtCraftの創業者であるブランドン・トーマス氏は、よく似た別物として我々...",
+      "published": "2026-11-08T03:02:29Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6bea354e7a5cff3b233b2377106a1d6",
+      "title": "【重要】不正アクセスによる情報流出に関するお詫びとお知らせ（第一報）",
+      "link": "https://corporate.teket.jp/news/privacy_261108",
+      "summary": "【重要】不正アクセスによる情報流出に関するお詫びとお知らせ（第一報）",
+      "published": "2026-11-08T06:56:13Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95112bf2bd32d37124650dbcbcd7f8e5",
+      "title": "個人情報“手放す”企業続々 「持たないことが抜本的な解決に」 漏えいなくても運用変更も【#みんなのギモン】（2026年11月8日掲載）｜日テレNEWS NNN",
+      "link": "https://news.ntv.co.jp/category/economy/4524fbcdecaf445bac0d956439508aca",
+      "summary": "企業への不正アクセスにより顧客の個人情報が漏えいする事態が相次いでいるなか、そもそも個人情報を持たないという選択をする企業も出てきています。そこで、今回の#みんなのギモンでは、「個人情報の登録なくなる？」をテーマに解説します。 NTTドコモは「オンラインショップ」と、契約条件の変更などができる「マイ...",
+      "published": "2026-11-08T06:29:39Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee31afbb1be01f27e91c40e31bde6cc8",
+      "title": "ワークマンの新リカバリーウェアを着てみた 温度調節が快適【いつモノコト】",
+      "link": "https://www.watch.impress.co.jp/docs/series/itsmo/2153603.html",
+      "summary": "",
+      "published": "2026-11-07T00:50:45Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "73d89621d8b5ca16ef8121ed4803591e",
+      "title": "オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化",
+      "link": "https://cloud.watch.impress.co.jp/docs/news/2154360.html",
+      "summary": "",
+      "published": "2026-11-06T08:53:07Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0f675ddb9e395dfa2f63588ea287628",
+      "title": "What I run on my $10 USD OpenStick homelab | Bosscher",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "A while ago I bought an OpenStick on a whim for 10 dollars (including shipping!) because it seemed like such a cool novelty piece of hardware. For 10 ...",
+      "published": "2026-11-08T01:21:21Z",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5121a6764095abbef17ca50f3a841ec",
+      "title": "Claude Enteprise で組織設定に追加された IP 許可リストについて試してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-enterprise-ip-allow-list/",
+      "summary": "Claude Enterprise に新しく追加された「IP 許可リスト」機能を、実際に設定して検証してみました。ブラウザ、デスクトップアプリ、モバイルアプリ、IDE、CLIなど、どの利用方法からのアクセスがどのようにブロックされるのか、その動作を詳しく確認した結果をお伝えします。",
+      "published": "Sun, 08 Nov 2026 10:04:11 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "022d8b5bc82cdab71693caf91f644673",
+      "title": "[小ネタ] Google Meetでマイクかカメラがオンの間だけ赤く光るランプをESP32で作ってみた",
+      "link": "https://dev.classmethod.jp/articles/hasuto-esp32-google-meet-lamp/",
+      "summary": "自宅のリビングで会議をしていると、家族が後ろを通ってよいか分かりにくいという悩みがありました。そこで、Google Meetでマイクかカメラがオンの間は赤、両方オフなら緑に光るランプを、ESP32とChrome拡張で作ってみました。",
+      "published": "Sun, 08 Nov 2026 09:02:32 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5d96af992bd02212a17402b4304212a3",
+      "title": "[アップデート] Web Answer on Amazon Bedrock AgentCore がリリースされました！",
+      "link": "https://dev.classmethod.jp/articles/bedrock-agentcore-web-answer-try-harness/",
+      "summary": "Amazon Bedrock AgentCoreのWeb Answerがリリースされたので試してみました！",
+      "published": "Sun, 08 Nov 2026 07:53:36 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ff9255d06940b5f8074a7c5fb8f0200",
+      "title": "Claude Enterprise で CSV アップロード機能を利用してユーザーを追加してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-team-enterprise-csv-upload-user-add/",
+      "summary": "Claude の Team/Enterprise プランで CSV 経由のユーザー追加がどのように動作するのか、実際に検証してみました。既存ユーザーの役割は上書きされるのか、CSV にいないユーザーはどうなるのか、運用上の疑問をクリアにしていきます。",
+      "published": "Sun, 08 Nov 2026 07:50:06 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "891f615c7ea5d2d2db9303d3e8adca51",
+      "title": "CloudWatch が PromQL 対応したので、Amazon Managed Grafana から接続してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-promql-endpoint-amazon-managed-grafana/",
+      "summary": "新規構築であれば、Amazon Managed Prometheus の出番は割と減るのでは？",
+      "published": "Sun, 08 Nov 2026 05:42:05 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "adeb96b8e7cc20097f27fd0b96633400",
+      "title": "AWS Network Firewall の Reject と Alert のドメインリストを Allow と組み合わせ、ルールの評価順序ごとに確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/network-firewall-domain-list-reject-alert-rule-order/",
+      "summary": "AWS Network Firewall のドメインリストルールグループで、Allow・Reject・Alert を組み合わせた場合の動作を実際に検証してみました。ドキュメントで推奨されている設定の効果を、curl の結果とログの記録状況から確認しています。",
+      "published": "Sun, 08 Nov 2026 05:33:38 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "dca2578aba20b9cd4ce2a3304b82b3a2",
+      "title": "Amazon Macie のジョブが完了しても機密データが検出されない原因について",
+      "link": "https://dev.classmethod.jp/articles/tsnote-aws-macie-kms-s3-iam/",
+      "summary": "Amazon Macie で機密データ検出ジョブを実行した際、「処理するオブジェクトの概数」が 0 になる現象と、検出結果が出ない場合の原因特定方法について解説します。",
+      "published": "Sun, 08 Nov 2026 04:12:00 GMT",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5de9d427f9d82ed5ef6e7307d718e2a",
+      "title": "タッチ操作で音づくりができるキュートなFMシンセ、LOVE Synthesizers「FIRST LOVE」が遂に発売…… ピンク／ホワイトの2色展開",
+      "link": "https://icon.jp/archives/28244",
+      "summary": "とてもかわいいデザインのFMシンセ、「FIRST LOVE」の出荷が遂に始まりました。 LOVE Synthesizers「FIRST LOVE」 2024年の『SUPERBOOTH』でお披露目され、大きな反響を呼んだ「 […]",
+      "published": "Sun, 08 Nov 2026 10:00:00 +0000",
+      "fetched_at": "2026-11-08T10:56:29.795708+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    }
+  ],
+  "updated_at": "2026-11-08T10:56:29.795708+00:00"
 }

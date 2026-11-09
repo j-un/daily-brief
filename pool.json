@@ -19,7 +19,287 @@
       "fetched_at": "2026-11-08T10:56:29.795708+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "1b6b2b8e9ca33f4bad5c77ae23828630",
+      "title": "Try the Fastly Platform Free with your AWS Account | Fastly",
+      "link": "https://www.fastly.com/blog/try-fastly-platform-free-aws-account",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Try the Fastly Platform Free with your AWS Account",
+      "published": "08 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4d371a2c63b0a40b2d7c4fe0c1ed45d",
+      "title": "How we halved DNS build delay and cut memory use by 85% | Cloudflare Blog",
+      "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How we halved DNS build delay and cut memory use by 85%",
+      "published": "08 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "acf17ff459493ae7612c7a7442745748",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "link": "https://ketchup3d.github.io/app/",
+      "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 167 # Comments: 32",
+      "published": "Sun, 08 Nov 2026 22:35:35 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e9708ee298bcdd918e0086636636846",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418...",
+      "published": "Sun, 08 Nov 2026 22:20:09 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a02f8f377cc2aaee1d5fde11a5db8b78",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "link": "https://news.ycombinator.com/item?id=50417407",
+      "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 114 # Comments: ...",
+      "published": "Sun, 08 Nov 2026 21:20:20 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c1ccfd54c9ea2b7d2260a7f7e496eed",
+      "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+      "link": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+      "summary": "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=504152...",
+      "published": "Sun, 08 Nov 2026 17:32:55 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c1ac533968478063b95d19c9fed39ec6",
+      "title": "東京製鐵株式会社が挑む、一人ひとりの生産性向上への道 ― AI コーディングツール Kiro の全社導入で、スタッフが自ら業務システムを内製する文化へ",
+      "link": "https://aws.amazon.com/jp/blogs/news/tokyo-steel-kiro-case-study/",
+      "summary": "こんにちは。AWS の犬塚と山澤です。国内最大手の電炉メーカーである東京製鐵株式会社（以下、東京製鐵）では、一人ひとりの生産性向上に向けて、AI コーディングツール「Kiro」を全社に導入し、現場の従業員が自らの手で業務システムを内製する取り組みを進めています。本ブログでは、東京製鐵の皆さまに、Ki...",
+      "published": "Mon, 09 Nov 2026 01:00:25 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "af9fffb10fcb1b913231ae78c0df31ae",
+      "title": "Amazon Route 53 Resolver DNS Firewall によるハイブリッドワークロードの保護",
+      "link": "https://aws.amazon.com/jp/blogs/news/securing-hybrid-workloads-using-amazon-route-53-resolver-dns-firewall/",
+      "summary": "Amazon Route 53 Resolver DNS Firewall による保護をオンプレミスワークロードへ拡張し、ハイブリッド AWS 環境全体で統一された DNS セキュリティポリシーを実現する方法を紹介します。AWS Direct Connect や AWS Site-to-Site V...",
+      "published": "Mon, 09 Nov 2026 00:45:36 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c31ea8c715165345873ad839789fdb7d",
+      "title": "AWS Network Firewall 向け Route 53 Resolved IP Validation の紹介: ドメイン名による非ウェブトラフィック制御と SNI スプーフィング防止",
+      "link": "https://aws.amazon.com/jp/blogs/news/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/",
+      "summary": "AWS は 2026 年 10 月 21 日、AWS Network Firewall 向け Route 53 Resolved IP Validation を追加料金なしでリリースしました。Network Firewall は、新しいアウトバウンド接続の宛先を、Amazon Route 53 Re...",
+      "published": "Mon, 09 Nov 2026 00:35:44 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "c16ad389f4ad65e1a0e4e85fde2bea7f",
+      "title": "Amazon Route 53 Resolver DNS Firewall で高度な DNS 脅威を防ぐ",
+      "link": "https://aws.amazon.com/jp/blogs/news/protect-against-advanced-dns-threats-with-amazon-route-53-resolver-dns-firewall/",
+      "summary": "Amazon VPC 内の DNS クエリは Amazon Route 53 Resolver を経由する独自の経路をたどるため、セキュリティグループや AWS Network Firewall などの制御をバイパスします。この記事では、従来のブロックリストでは捕捉できない DNS トンネリングやド...",
+      "published": "Mon, 09 Nov 2026 00:30:01 +0000",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8e43ed7bcb1e4b9a6610e657d56ba006",
+      "title": "ローカルLLM利用のクリニックを受診してみた PCマニアの院長が自力で構築、その導入効果は？",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "summary": "9月、都内のクリニックがWebサイトに掲載したお知らせがX上で話題を呼んだ。院内のサーバで動かす「ローカルLLM」で診療情報を処理し、外部のAIサービスには患者の情報を送らないという内容だ。 AIで仕事を効率化する人は着実に増えているが、その多くが米OpenAIの「ChatGPT」や米Anthrop...",
+      "published": "2026-11-08T23:17:44Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec1209166a43e619836cb7e9bdb257c5",
+      "title": "コード非公開のWebサイト・アプリ・ゲームを解析し、AIが類似版を生成する無料ツール「Craft Anything」（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/11/09/5686.html",
+      "summary": "Craft Anythingは、お手本にしたい対象を指定して、何を作りたいかを伝えるだけで、「調べる」（Study）、「作る」（Build）、「確認する」（Check）、「完成」（Ready）の4つのステップで新しいプロジェクトを自動生成してくれます。 単にAIがコードを書くだけでなく、完成したもの...",
+      "published": "2026-11-08T22:49:48Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "08db744a76fe1ce593d9589cf8f17ae2",
+      "title": "GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+      "link": "https://github.com/google/elephant-goldfish-model",
+      "summary": "Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source ...",
+      "published": "2026-10-28T01:38:06Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2b90c925644c9d6e5403f4948c22b96",
+      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査 本人は不倫認め謝罪",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
+      "summary": "米NVIDIAは11月8日（現地時間）、創業者でCEOのジェンスン・フアン氏が外国の情報機関による工作の標的になっていたとする報道を受け、取締役会が独立調査を開始すると発表した。 米New York Timesなどの報道によると、米情報当局は、フアン氏と親密な関係にあった中国人実業家アリス・フアン（...",
+      "published": "2026-11-08T23:05:32Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1020f804880c8a397319a8fc8eed0452",
+      "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+      "link": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+      "summary": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRu...",
+      "published": "2026-11-08T23:06:35Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fc9d718ff13e655deff504486e8cdbfd",
+      "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
+      "link": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+      "summary": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定 ターミナルエミュレータ「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。 「Libghostty」は、HashiCo...",
+      "published": "2026-11-08T21:14:27Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7c95c1d33d5870b38c4d8fdd0e8e3ec",
+      "title": "AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】",
+      "link": "https://www.watch.impress.co.jp/docs/series/nishida/2154614.html",
+      "summary": "",
+      "published": "2026-11-08T23:24:01Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5823e526a251ce2935028a4a6347904a",
+      "title": "専門家の葬式を，勝手に始めるな",
+      "link": "https://wtrclred.io/ja/posts/27",
+      "summary": "Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. AI が登場してから，専門家の訃報が増えた． ただし，死んだ本人が書いた訃報で...",
+      "published": "2026-11-08T03:49:38Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "238f4c9c39a56de9cf87e9a57ecbaf52",
+      "title": "ドコモオンラインショップとMy docomoへの不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/11/09/090504",
+      "summary": "2026年11月5日、ドコモは、ドコモオンラインショップとMy docomoへの不正アクセスで顧客情報が流出したことを確認したと公表しました。ここでは関連する情報をまとめます。 経路遮断と一時再開の後に再停止 ドコモオンラインショップとMy docomoでは、2026年11月4日10時30分頃にアラ...",
+      "published": "2026-11-09T00:46:26Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3b759e8c1d9f7d0e55bb10fa033f4339",
+      "title": "サイバー攻撃に強い「基幹インフラ」病院、28年までに30施設 厚労省 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUA066DV0W6A101C2000000/",
+      "summary": "厚生労働省は2028年までに高度医療を提供する国内の約30病院を指定し、サイバー攻撃に強い体制を整備する。救命や災害に対応した大学病院などを念頭に置く。経済安全保障推進法にもとづく基幹インフラ制度の一つと位置づける。27年中にまず関東や近畿、中部など8つの地域ごとに少なくとも1施設を指定する。28年...",
+      "published": "2026-11-06T22:24:31Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2dce9ad2735f3ab6113916af8719e276",
+      "title": "Googleの開発者「Gemini使えば時オカリメイクをiPhone Duoで遊べるよ！」→炎上 : ゴールデンタイムズ",
+      "link": "https://goldennews.blog.jp/archives/52310046.html",
+      "summary": "1 ：ななしさん ：26/11/07(土) 17:26:04 ID:M2eeEPwg ※ツイ消し済み 3 ：ななしさん ：26/11/07(土) 17:27:46 ID:??? 権利意識がなんかアメリカーン 11 ：ななしさん ：26/11/07(土) 17:33:22 ID:??? ハリウッド映画...",
+      "published": "2026-11-08T18:08:36Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e22103ae0c9fbb5bb3a8647f394b8c3",
+      "title": "Windows 11、アプデで「完全新規OS」になる可能性。「27H2」にて、Windows 12になるかは不透明 - すまほん!!",
+      "link": "https://smhn.info/202611-windows-11-27h2-full-os-swap-quality-focus",
+      "summary": "Windows 11は、2027年の次期バージョン「27H2」で、OSの主要な部分を入れ替える大型更新になるかもしれません。 しかし、11月5日のThe Vergeの記事によると、同社はすでに27H2の準備を進行中。同誌のトム・ウォーレン氏が情報筋から得た話では、2024年の24H2と同じく、OSの...",
+      "published": "2026-11-07T12:36:52Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb8442015ee13b490a339a5b1eaff216",
+      "title": "ロシア統計局サイトをハッキングしたグループが戦死者数を推計 : ユーラシアリサーチ 服部倫卓ブログ",
+      "link": "https://www.hattorimichitaka.net/archives/60132544.html",
+      "summary": "先日、ロシア統計局のウェブサイトがハッカーにより乗っ取られ、上掲のような画像が表示される状態となった。画面全体が一枚の画像になっており、リンクから個々の情報を辿ったりすることはできなかったが、ロシア軍の損耗や戦死者数を列挙しており、ロシア内外に向け戦争の犠牲の大きさをアピールするものであった。 そ....",
+      "published": "2026-11-08T23:00:13Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f45a48358f8f577c361b7e8750499214",
+      "title": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す｜落合陽一",
+      "link": "https://note.com/ochyai/n/n7a1dbd68c8fa",
+      "summary": "超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す どういう手順で，僕らは滅ぶことになっているのか落合陽一です．今日は，超知能で人類は滅ぶのか，という話をしたい． この手の話は，結論から入るとだいたい空中戦になる．滅ぶ，滅....",
+      "published": "2026-11-08T06:33:31Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e74a369fee72b42f94f9a41e56760a3",
+      "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+      "link": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+      "summary": "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります。この光るAppleロゴは消灯可能であることが明らかになりました。 PROLED XDRディスプレイ搭載MacBook Proの光るAppleロゴにつ...",
+      "published": "2026-11-07T00:01:53Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b3b9bdb0afbb24967c0e1bcbada3845a",
+      "title": "Ubuntuのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka",
+      "link": "https://note.com/npaka/n/nb718fa9cb373",
+      "summary": "1. はじめにLinuxディストリビューションの「Ubuntu」には、ウイルスやマルウェア、不正アクセス、情報漏洩などから保護するためのセキュリティ機能が標準搭載されています。 Ubuntuには、PC向けの「Ubuntu Desktop」とサーバー向けの「Ubuntu Server」があり、用途によ...",
+      "published": "2026-11-08T13:06:53Z",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b50c5db7fbeace51facaf6496034ac0",
+      "title": "ClaudeからAgentCore Gatewayのインターセプターでユーザー毎に回答を制御できるか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-agentcore-gateway-interceptor-per-user-access-control/",
+      "summary": "AgentCore Gatewayのユーザーごとの認可制御を検証してみました。インバウンド認証とインターセプターを組み合わせることで、同じMCPサーバーでも、ログインユーザーによって返す情報を制限できることを確認します。",
+      "published": "Mon, 09 Nov 2026 01:00:09 GMT",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9c168adaf447f2ed3e7bebd308993ab",
+      "title": "Claude Desktopに組み込まれたMCPサーバー用Node.jsランタイムを確認してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-desktop-mcpb-bundled-node-electron-runtime/",
+      "summary": "Electron製アプリであるClaude Desktopは、Electron自身が持つNode.jsランタイムをMCPサーバーの実行にも使えます。",
+      "published": "Mon, 09 Nov 2026 00:30:13 GMT",
+      "fetched_at": "2026-11-09T01:19:25.442881+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-08T23:04:13.778025+00:00"
+  "updated_at": "2026-11-09T01:19:25.442881+00:00"
 }

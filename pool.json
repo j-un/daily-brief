@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2ab42d42a486592b487ef114d425d260",
-      "title": "クラウドが状態を把握してもIaCがなくならない理由 - YAMAGUCHI::weblog",
-      "link": "https://ymotongpoo.hatenablog.com/entry/2026/11/02/093500",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 クラウドが状態を把握してもIaCがなくならない理由",
-      "published": "09 Nov 2026 05:55 +0000",
-      "fetched_at": "2026-11-09T08:54:05.978114+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "dbf3d3e19589e387b436ae061004a686",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://openai.com/index/scaling-git-at-openai/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Scaling Git at OpenAI",
-      "published": "09 Nov 2026 01:55 +0000",
-      "fetched_at": "2026-11-09T08:54:05.978114+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "c04a0d8360abd877e842b43ee7f613b3",
       "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
       "link": "https://future-architect.github.io/articles/20261102a/",
@@ -1059,7 +1039,467 @@
       "fetched_at": "2026-11-10T11:58:03.690793+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "b632914608ed5e925fe8159de0d07ec1",
+      "title": "Val Town is winding down",
+      "link": "https://blog.val.town/winding-down",
+      "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 108 # Comments: 28",
+      "published": "Tue, 10 Nov 2026 17:31:14 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "edc7b2c806a1214b1e2856d84de05f39",
+      "title": ".name Grandfathered",
+      "link": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 351 # Comments: 63",
+      "published": "Tue, 10 Nov 2026 16:37:44 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5eead49f013c94eac851984bd60c53d7",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "link": "https://www.blender.org/download/releases/5-3/",
+      "summary": "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 284 # Comments: 37",
+      "published": "Tue, 10 Nov 2026 16:15:43 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b795dfd96acc7b5943ecd3aa03ba097c",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ Comments URL: https://news.ycombin...",
+      "published": "Tue, 10 Nov 2026 16:07:15 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "68cf0de7ef57a15cc7c47c6d22b635d1",
+      "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
+      "link": "https://text.npr.org/nx-s1-6029641",
+      "summary": "Article URL: https://text.npr.org/nx-s1-6029641 Comments URL: https://news.ycombinator.com/item?id=50442202 Points: 132 # Comments: 125",
+      "published": "Tue, 10 Nov 2026 15:59:34 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "02c06849379ad93811976f929c61ae45",
+      "title": "Smart home devices should work without the internet",
+      "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 274 ...",
+      "published": "Tue, 10 Nov 2026 15:25:20 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "342170ea6c71b671717a9d795992a8a6",
+      "title": "The Hardest Tarball?",
+      "link": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "summary": "Article URL: https://stoppels.ch/2026/11/07/the-hardest-tarball.html Comments URL: https://news.ycombinator.com/item?id=50441338 Points: 124 # Comment...",
+      "published": "Tue, 10 Nov 2026 15:00:39 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "345d3c394a0c3571368214d22f68e8fd",
+      "title": "Don't buy AR glasses",
+      "link": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "summary": "Article URL: https://blog.yaros.ae/dont-buy-ar-glasses/ Comments URL: https://news.ycombinator.com/item?id=50439805 Points: 120 # Comments: 160",
+      "published": "Tue, 10 Nov 2026 13:10:25 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "53853017961c01b512787f1a912cefcc",
+      "title": "Ableton Live 13",
+      "link": "https://www.ableton.com/en/live/",
+      "summary": "Article URL: https://www.ableton.com/en/live/ Comments URL: https://news.ycombinator.com/item?id=50439695 Points: 189 # Comments: 224",
+      "published": "Tue, 10 Nov 2026 12:58:04 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7d22392f4f83e8c03f67a89b5e0ff59f",
+      "title": "What's new in the .NET 11 runtime",
+      "link": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "summary": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/ Comments URL: https://news.ycombinator.com/item?id=50439284 Points: 162 # Comments: 109",
+      "published": "Tue, 10 Nov 2026 12:20:07 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd875e3abb805b4661ed247e5c2badb4",
+      "title": "AlphaProof Code",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/ Comments URL: https://news.ycombinator.com/item?id=50439193 Points: 486 # Comme...",
+      "published": "Tue, 10 Nov 2026 12:11:12 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a386752461ea22b04003957a9de113ed",
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "link": "https://github.com/HolyArrs/HolyArrs",
+      "summary": "Article URL: https://github.com/HolyArrs/HolyArrs Comments URL: https://news.ycombinator.com/item?id=50439000 Points: 157 # Comments: 125",
+      "published": "Tue, 10 Nov 2026 11:51:19 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c82d5df671bcee731015edcedab04be2",
+      "title": "What constant surveillance is doing to children and parents",
+      "link": "https://www.theatlantic.com/magazine/2026/12/location-tracking-apps-parental-surveillance/689031/",
+      "summary": "https://archive.is/opw0i, https://wallhop.io/https://www.theatlantic.com/magazine/2026... Comments URL: https://news.ycombinator.com/item?id=50438480 ...",
+      "published": "Tue, 10 Nov 2026 10:47:18 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cad633b1fe463236adc4b3a7cc658af9",
+      "title": "AI usage generates a fragile codebase",
+      "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "summary": "Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/ Comments URL: https://news.ycombinator.com/item?id=50438318 Points: 192...",
+      "published": "Tue, 10 Nov 2026 10:25:58 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "58e572436f74d8151a8a63cdd3b75d98",
+      "title": "Queens Public Library under ransomware attack",
+      "link": "https://connect.queenslibrary.org/",
+      "summary": "Article URL: https://connect.queenslibrary.org/ Comments URL: https://news.ycombinator.com/item?id=50437790 Points: 165 # Comments: 104",
+      "published": "Tue, 10 Nov 2026 09:04:39 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ec811dcbf644f5abe100b60b34a6464",
+      "title": "Fossil CO2 emissions decrease in 2026",
+      "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "summary": "Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/ Comments URL: https://news.yc...",
+      "published": "Tue, 10 Nov 2026 08:59:41 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dbd95550e9b7832ace1d4857e873c608",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "Article URL: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor Comments URL: https://news.ycombinator.com/item?id=504371...",
+      "published": "Tue, 10 Nov 2026 07:19:38 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37e3e0ecd4b4662eccb1009642b17a31",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "link": "https://www.ultorg.com/",
+      "summary": "Article URL: https://www.ultorg.com/ Comments URL: https://news.ycombinator.com/item?id=50435898 Points: 132 # Comments: 49",
+      "published": "Tue, 10 Nov 2026 03:59:39 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dfca6b1689fefca84f7901e54d47cbc4",
+      "title": "AWS Partner Central now provides an improved business planning experience",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/",
+      "summary": "AWS Partner Central now offers a new business planning experience in the AWS Console. AWS Partners can initiate plans for growing their AWS business o...",
+      "published": "Tue, 10 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3ff04ccfd886dde038a161d89b1c9a65",
+      "title": "CloudWatch PromQL alarms now support EC2 and Application Auto Scaling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-alarms-autoscaling-group-actions",
+      "summary": "Amazon CloudWatch alarms that use Prometheus Query Language (PromQL) can now trigger Amazon EC2 and Application Auto Scaling step and simple scaling p...",
+      "published": "Tue, 10 Nov 2026 03:00:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef8976ce1670f768c2bd7ccef34b44e8",
+      "title": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
+      "summary": "Amazon OpenSearch Service now supports clone-based upgrades, which let you validate a new OpenSearch version alongside your current one and cut over t...",
+      "published": "Tue, 10 Nov 2026 02:30:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec66952f4ca88561788225d0056b8a88",
+      "title": "Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops",
+      "summary": "Amazon FSx for Lustre now supports up to 192,000 metadata I/O operations per second (IOPS) on file systems that use the Intelligent-Tiering storage cl...",
+      "published": "Thu, 05 Nov 2026 15:39:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff995eea14c6f126b40a095c9a8c0a5c",
+      "title": "AWS Compute Optimizer now supports additional Amazon EC2 instance types in the AWS GovCloud (US) Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-compute-optimizer-amazon-ec2/",
+      "summary": "AWS Compute Optimizer now provides rightsizing recommendations for 389 additional Amazon Elastic Compute Cloud (Amazon EC2) instance types in AWS GovC...",
+      "published": "Fri, 30 Oct 2026 22:50:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4c3ab41b75ed346d24d46227e05b743a",
+      "title": "Amazon MSK now supports TLS 1.3 for data in transit",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/",
+      "summary": "Amazon MSK now supports version 1.3 of Transport Layer Security (TLS) protocol for MSK Provisioned clusters through encryption policies. TLS 1.3 deliv...",
+      "published": "Fri, 30 Oct 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9ef50d684b19ec728292daf5db06e76",
+      "title": "【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita",
+      "link": "https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709",
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 日本のオープンデータ、正直かなり...",
+      "published": "2026-07-11T16:28:07Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e74e114a7c5f589b739203f7983ac013",
+      "title": "【資料公開】「自分の仕事はここまで」はどこから来るのか",
+      "link": "https://www.ryuzee.com/contents/blog/14628",
+      "summary": "みなさんこんにちは。@ryuzeeです。 2026年10月22日に、あるお客様の社内イベントで「『自分の仕事はここまで』はどこから来るのか」というテーマで講演したので、資料を公開します（講演依頼はお気軽にどうぞ！）。 仕事柄いろいろな組織を見ていますが、「担当外のことには手を出さない」「チケットに書...",
+      "published": "2026-11-10T11:36:50Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "94fca1e6c04e5e40d5e2f4a7da206285",
+      "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
+      "summary": "トップだったGemini 4 CarbonをぶっちぎってすべてのAIの頂点に。 2026年11月10日、Anthropicが新しいフラッグシップ/最先端AI「Claude Fable 5.2」をリリースしました。本日からすべての有料ユーザーが利用可能です。Mythos 5.2も同時に発表されています...",
+      "published": "2026-11-10T02:43:46Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2b3047a1893888f0d41f51d1a434cf3",
+      "title": "NVIDIAの「長文コンテキスト不要」論文",
+      "link": "https://zenn.dev/knowledgesense/articles/bd917ed6829121",
+      "summary": "本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題...",
+      "published": "2026-11-10T11:05:58Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b21667c268769b3401611561bbd0b89",
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2 / claude.dev Blog",
+      "link": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "summary": "Multi-agent teams can solve challenging, long-horizon problems. In September, we published the first end-to-end formalization of Fermat’s Last Theorem...",
+      "published": "2026-11-09T22:10:50Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d770cb1066e2cf3aad161de501543147",
+      "title": "一部のNotionワークスペースに影響を与える可能性があるFireworks AIのインシデントに関するお知らせ – Notion (ノーション)ヘルプセンター",
+      "link": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチーム...",
+      "published": "2026-11-10T11:08:32Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7796d5edf90e59f0329a35005c50583b",
+      "title": "Hide your slop PR descriptions behind",
+      "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use ...",
+      "published": "2026-11-10T08:08:12Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b00f5531679e89628468570499fcecba",
+      "title": "オーディオテクニカのモニターヘッドホン、なぜかゲーム配信者界隈でバズる | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
+      "summary": "今、オーディオテクニカの\"モニターヘッドセット\"が、FPSゲーマーの間で流行り出しているらしい。 え？ なんで!? オーディオテクニカのモニターヘッドホンといえば、長年音楽制作の現場で愛されてきた定番機。もちろんゲーム専用ではありません。 そんなモニターヘッドホンをベースに作られたストリーミングヘッ...",
+      "published": "2026-11-10T02:25:54Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aaf8598c607db1fb734d34c3ee4843fd",
+      "title": "Meta「Muse」がApple WatchとWear OSに対応 アバターが動く",
+      "link": "https://www.watch.impress.co.jp/docs/news/2155063.html",
+      "summary": "",
+      "published": "2026-11-10T03:59:53Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c207668db5dc7abc27d46b19dc4253e",
+      "title": "ニンテンドーアカウントの「かんたんログイン」におけるGoogle/Apple連携終了のお知らせ｜お客様へのお知らせ",
+      "link": "https://support.nintendo.com/jp/information/2026/1110/index.html",
+      "summary": "このたび、GoogleまたはAppleのアカウント情報を利用したニンテンドーアカウントへの「かんたんログイン」につきまして、下記のとおりサービスを終了させていただくこととなりました。",
+      "published": "2026-11-10T07:36:10Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e1929d7039216b648b700f7e43e09ac",
+      "title": "【大河原克行の「パソコン業界、東奔西走」】 守るために攻める、レッツノートとタフブックが年100万台に挑む",
+      "link": "https://pc.watch.impress.co.jp/docs/column/gyokai/2154953.html",
+      "summary": "",
+      "published": "2026-11-10T04:01:27Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6cd8308eec9330c30b1b250fe70a1f8d",
+      "title": "なぜ mixi2 は iPhone Duo の発売初日から最適化できたのか？",
+      "link": "https://zenn.dev/mixi/articles/b0ea64fded9503",
+      "summary": "こんにちは！mixi2 エンジニアの久野です🍎 iPhone Duo（以下 Duo）の発売初日、mixi2 がすでに最適化されている！ と話題にしていただきました。 対応を早く進められた理由は、振り返るとこの 3 つです。 ボトムタブが独自実装だったため、縦配置に変更しやすかったこと 分割した画面の...",
+      "published": "2026-11-09T15:07:30Z",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ca276b505c32f2e359625b0a74c001d",
+      "title": "GitHub - we-promise/sure: The personal finance app for everyone (by everyone) · GitHub",
+      "link": "https://github.com/we-promise/sure",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 we-promise / sure ⭐ 11,422 (+184) 🗒 Ruby The personal finance app for everyone (by everyone)",
+      "published": "10 Nov 2026 14:17 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d1bd25a3199bf22dba37c9f95546f3f",
+      "title": "GitHub - addyosmani/agent-skills: Production-grade engineering skills for AI coding agents. · GitHub",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 addyosmani / agent-skills ⭐ 114,792 (+465) 🗒 JavaScript Production-grade engineering skills for AI coding agents.",
+      "published": "10 Nov 2026 13:17 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76bd5c2a949748d0039c76a87922aec0",
+      "title": "GitHub - tokio-rs/topcoat: A batteries-included framework for building web apps · GitHub",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 tokio-rs / topcoat ⭐ 6,591 (+192) 🗒 Rust A batteries-included framework for building web apps",
+      "published": "10 Nov 2026 12:17 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "796198bfe2e21ecd3cf8d0dd2a0a2bab",
+      "title": "Cloudflare Flagshipのフラグをwrangler devで切り替える：ローカルストアの操作とflags pull・remote: trueの使い分け",
+      "link": "https://dev.classmethod.jp/articles/cloudflare-flagship-local-flag-store/",
+      "summary": "Cloudflare Flagshipのバインディングは、wrangler devではローカルのフラグストアで評価します。--localとLocal Explorerでの切り替えと、flags pull・remote: trueでリモートのフラグを使ったときの動きを確かめました。",
+      "published": "Tue, 10 Nov 2026 16:20:38 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "75bb70edfc672d0831675ab124854954",
+      "title": "GuardDuty Runtime MonitoringをEC2のタグ指定で有効化し、タグの付け外しでの挙動を確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/guardduty-runtime-monitoring-ec2-inclusion-tag/",
+      "summary": "GuardDuty Runtime Monitoring でタグを使った EC2 の監視制御について、タグの付け外しや値の大文字小文字の違いがどう影響するのか、実際に検証してみました。ドキュメントに書かれていない細かな挙動を確認します。",
+      "published": "Tue, 10 Nov 2026 15:07:10 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "f040eda1dddfbec4f255418b9aab236e",
+      "title": "【アップデート】Amazon Quick の Reader が「Essentials」ライセンスに移行し、AI 機能を追加のユーザー料金なしで使えるようになります",
+      "link": "https://dev.classmethod.jp/articles/amazon_quick_reader_update/",
+      "summary": "Amazon Quick の Reader ユーザーに AI 機能が大幅に解放されます。月額 $3 の追加費用なしで、自然言語での質問や自動化、資料作成まで利用できるようになった Essentials ライセンスについて、機能と注意点をまとめました。",
+      "published": "Tue, 10 Nov 2026 14:16:25 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "40ff781142edd12c54d361003e95ed83",
+      "title": "Azure StorageにPrivate Endpointを作っても公開アクセスは止まらない？VNetの内と外から読んで確かめた",
+      "link": "https://dev.classmethod.jp/articles/azure-storage-private-endpoint-public-access/",
+      "summary": "Azure StorageにPrivate Endpointを作り、VNet内のVMと手元のPCからBlobを読んで確かめました。作っただけでは公開経路から読め、外から拒否されたのは公開ネットワークアクセスを無効にした後でした。DNSと認可も含めて接続設計を整理します。",
+      "published": "Tue, 10 Nov 2026 11:55:19 GMT",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf7ea4e146a38713de7ae0651bd054cf",
+      "title": "A big win for CD revival? Check out Gadhouse’s new Eric CD Player",
+      "link": "https://musictech.com/news/gear/gadhouse-eric/",
+      "summary": "Doubling as a wall-mountable display piece, the Eric CD Player has built-in FM radio, Bluetooth, plus a four-hour battery for playback on the go. The ...",
+      "published": "Tue, 10 Nov 2026 12:16:15 +0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "57dc16ace1d416f22d922485a64178ee",
+      "title": "Finnish Tango Is Far From Finished",
+      "link": "https://daily.bandcamp.com/scene-report/finnish-tango-scene-report",
+      "summary": "How jazz, prog, punk, and classical musicians are giving Finland's beloved dance music a thoroughly modern makeover. Read full story on the Bandcamp D...",
+      "published": "Tue, 10 Nov 2026 14:49:43 -0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
+    },
+    {
+      "entry_id": "423da65a845f9378832a211b94a4df08",
+      "title": "Dawuna, “Love’s Arp”",
+      "link": "https://daily.bandcamp.com/album-of-the-day/dawuna-loves-arp-review",
+      "summary": "Dawuna builds on the triumph of “Glass Lit Dream” with a soulful exploration of love. Read full story on the Bandcamp Daily.",
+      "published": "Tue, 10 Nov 2026 14:49:38 -0000",
+      "fetched_at": "2026-11-10T19:23:25.521272+00:00",
+      "feed_name": "Bandcamp Daily",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-10T11:58:03.690793+00:00"
+  "updated_at": "2026-11-10T19:23:25.521272+00:00"
 }

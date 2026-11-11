@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "c04a0d8360abd877e842b43ee7f613b3",
-      "title": "サービスレベル設計として捉える非機能の考え方 | フューチャー技術ブログ",
-      "link": "https://future-architect.github.io/articles/20261102a/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 サービスレベル設計として捉える非機能の考え方",
-      "published": "09 Nov 2026 08:55 +0000",
-      "fetched_at": "2026-11-09T20:18:47.314300+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "4b4d87a3731940faec6d580193830e34",
       "title": "freeeにおけるSoftware Factory - Speaker Deck",
       "link": "https://speakerdeck.com/freee/freee-niokeru-software-factory",
@@ -49,7 +39,197 @@
       "fetched_at": "2026-11-10T11:58:03.690793+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "74e6cae12cdd6a8bd73d047c7d749a40",
+      "title": "要望からリリースまでを短く回す、Mackerelログ機能の開発サイクル - Mackerel ブログ #mackerelio",
+      "link": "https://mackerel.io/ja/blog/entry/tech/logs-development-cycle",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 要望からリリースまでを短く回す、Mackerelログ機能の開発サイクル",
+      "published": "10 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5332af4a4cfe811e133085e605baea2f",
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 11...",
+      "published": "Tue, 10 Nov 2026 22:17:56 +0000",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "87a157e6dcf1a8482bf2ed0e8c6ac88a",
+      "title": "AIが進め、人が決める ― AI駆動開発の本当のボトルネックはどこにあったか",
+      "link": "https://aws.amazon.com/jp/blogs/news/mbk-wellness-ai-dlc-workshop/",
+      "summary": "こんにちは。AWS ソリューションアーキテクトの崔 祐碩（Woosuk Choi）です。AI 開発を進めている多くのお客様から「開発を加速したい」というご相談をいただいています。お客様と議論を重ねるたびに、本当のボトルネックは開発そのものではなく、意思決定をめぐるプロセスと組織ではないか、と感じるこ...",
+      "published": "Tue, 10 Nov 2026 23:48:12 +0000",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d910b32bf10ee095a5de07e22ad25a4",
+      "title": "AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views",
+      "summary": "Custom billing views now support AWS Billing Conductor and AWS Billing Transfer views as source views. These are the views AWS maintains per billing g...",
+      "published": "Tue, 10 Nov 2026 23:22:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c1ff9f4f751312b978387fe6d2e942a",
+      "title": "Amazon EC2 G7 instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
+      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Londo...",
+      "published": "Tue, 10 Nov 2026 19:30:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cceade0f408d156280cf7108c2ec3439",
+      "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
+      "summary": "Amazon OpenSearch Service now offers managed cross-Region disaster recovery, so you can meet strict availability and business continuity requirements ...",
+      "published": "Tue, 10 Nov 2026 19:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d6da8f2edde327b7faca4a653b4413f",
+      "title": "Amazon S3 Access Grants now support listing grants across multiple AWS accounts",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/",
+      "summary": "Amazon S3 Access Grants can now discover and list all your grants across multiple AWS accounts with a single API call, eliminating the need to query e...",
+      "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a0495dcdbdf8e96802a48696f4d6574",
+      "title": "Amazon S3 Tables now support S3 server access logging",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/",
+      "summary": "Amazon S3 Tables now support server access logging, providing you detailed records of the requests made to your table buckets. You can now track table...",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a6703e62bb4f0ee90c0a0a9657a2c9b",
+      "title": "AWS Marketplace SaaS free trials now convert automatically to paid subscriptions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-free-trial-conversion/",
+      "summary": "Today, AWS Marketplace announces that free trials of usage-based software as a service (SaaS) products can now convert automatically to paid subscript...",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7ed02b1ac909c601673f9d91b3adf08c",
+      "title": "AWS Network Firewall launches next-generation firewall policy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-launches-ngfw-policy/",
+      "summary": "Today, AWS announces next-generation firewall (NGFW) policy for AWS Network Firewall, a new policy model that provides security teams with a simpler p...",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "077c69f897fd419326831aecb844f838",
+      "title": "Amazon GameLift Servers now supports Game Session Placement Insights",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gamelift-game-session-insights/",
+      "summary": "Amazon GameLift Servers now offers Game Session Placement Insights, delivering detailed, per-placement diagnostic logs for game session queue routing....",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1a0484f37d43644e53fc25ff019f5533",
+      "title": "Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/",
+      "summary": "Amazon DocumentDB (with MongoDB compatibility) 8.0.3 adds hybrid post-quantum key exchange for TLS, wildcard indexes, the $unionWith aggregation stage...",
+      "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b6860624f314c68814061be1969aaac6",
+      "title": "無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計",
+      "link": "https://gigazine.net/news/20261110-leantime/",
+      "summary": "仕事や個人のプロジェクトを進める際はタスクの整理・スケジュールの確認・作業時間の記録などに複数のアプリを使い分けることがあります。そんな作業を1カ所にまとめて管理できるのが無料のオープンソースツール「Leantime」です。カンバン・一覧表・ガントビュー・カレンダー・タイムシートを備えるほか、ADH...",
+      "published": "2026-11-10T14:08:25Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "473313aefe5e2c994a8e68f91c52c4ef",
+      "title": "おやすみ、インターネットの時代",
+      "link": "https://wirelesswire.jp/2026/11/94886/",
+      "summary": "いや、待って。 まず2016年の話してもいい？ あのね、私にもあったはずなんです。2016年が。 去年、電撃結婚された方々や、惜しまれきって解散した方々や、不倫を超暴かれた方々と同様。多分、同じ日数くらいの2016年があったはずなんです。 （加藤はいね） その年は、年明け早々にデヴィッド・ボウイが死...",
+      "published": "2026-11-10T23:02:09Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e6ad46dbcf77d493489e152196a29f75",
+      "title": "AMD次世代CPUコア「Zen 6」公開！Zen 5の最適化版で効くのはL3キャッシュ",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2155080.html",
+      "summary": "",
+      "published": "2026-11-10T17:05:41Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "40e91642a05f00676137bc44036e5ba8",
+      "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
+      "summary": "AI眼鏡で何ができるのか？ まず、AIグラスがどのように進化してきたのかを見てみよう。 AIグラスの先祖にあたるスマートグラスは、Googleが2013年に発売した「Google Glass」が草分けとされる。通常の眼鏡の外側にディスプレイが付いた構造で、一目で普通の眼鏡とは違うことが分かる。メモリ...",
+      "published": "2026-11-10T20:34:16Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f365d7742689a38f73de13a2bca9477",
+      "title": "Windowsに挑むAIネイティブOS「KORA」、元Cyanogen創業者らが発表",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2155269.html",
+      "summary": "",
+      "published": "2026-11-10T14:19:08Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d9e61a9ba353ebc80475d0bbe2492394",
+      "title": "「AI店長」、対人関係に苦戦 指摘が生かされずスタッフからの報告減少 PwCが“売店”で実験",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
+      "summary": "AIに店の経営を任せたところ、人間のスタッフとの間で摩擦が生じ、スタッフが次第にAIへの報告を控えるようになった――。PwC Japanグループ（東京都千代田区、以下PwC）は11月6日、AIに売店の経営判断を任せる実証実験の結果を公表した。AIは約2週間にわたり店舗運営の判断を担ったものの、人間か...",
+      "published": "2026-11-09T23:55:39Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d770cb1066e2cf3aad161de501543147",
+      "title": "一部のNotionワークスペースに影響を与える可能性があるFireworks AIのインシデントに関するお知らせ – Notion (ノーション)ヘルプセンター",
+      "link": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチーム...",
+      "published": "2026-11-10T11:08:32Z",
+      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-10T22:59:09.890845+00:00"
+  "updated_at": "2026-11-11T00:20:02.768746+00:00"
 }

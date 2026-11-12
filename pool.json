@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "d770cb1066e2cf3aad161de501543147",
-      "title": "一部のNotionワークスペースに影響を与える可能性があるFireworks AIのインシデントに関するお知らせ – Notion (ノーション)ヘルプセンター",
-      "link": "https://www.notion.com/ja/help/security-incident-involving-a-third-party-ai-vendor",
-      "summary": "本通知は、Notionが利用するサービス提供会社の1つ、Fireworks AIで発生したセキュリティインシデントについてのお知らせです。一部のNotionワークスペースに影響が及ぶ可能性があります。最新情報は、同社のセキュリティに関する公式更新一覧をご確認ください。 Notionセキュリティチーム...",
-      "published": "2026-11-10T11:08:32Z",
-      "fetched_at": "2026-11-11T00:20:02.768746+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "1409c52b51091fdc46a5c268df1337e2",
       "title": "Inside GitHub's new Git storage architecture - The GitHub Blog",
       "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
@@ -19,7 +9,317 @@
       "fetched_at": "2026-11-11T08:40:35.530982+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "9bc3e14c93482d65b361432cbd6b88b2",
+      "title": "HTTPのエラー理由を示す Problem-Detailsレスポンスヘッダの仕様 - ASnoKaze blog",
+      "link": "https://asnokaze.hatenablog.com/entry/2026/11/06/002145",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 HTTPのエラー理由を示す Problem-Detailsレスポンスヘッダの仕様",
+      "published": "12 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d5e479bf9bad4cad0955971aab9b23b",
+      "title": "AI readiness starts with data ownership | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/data-strategy/ai-readiness-starts-with-data-ownership",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI readiness starts with data ownership",
+      "published": "12 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f6c46be6f11e2e007ef5d90f5e76127d",
+      "title": "10年続くANDPADのモノリスで、後方互換性を保ちながら認可設計を柔軟にするための土台を考えた話 - ANDPAD Tech Blog",
+      "link": "https://tech.andpad.co.jp/entry/2026/11/05/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 10年続くANDPADのモノリスで、後方互換性を保ちながら認可設計を柔軟にするための土台を考えた話",
+      "published": "12 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "adca83eb64ecdccd1863af2283c390fe",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "link": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 262 # Comments: 37",
+      "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "01e7ae3781a6b77a1a3bcf47b5db93ca",
+      "title": "Lock Your GitHub Actions",
+      "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "summary": "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 179 # Comments: 33",
+      "published": "Wed, 11 Nov 2026 22:16:41 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d5ea0970f3635b431570c31a36c650c",
+      "title": "The Utah Teapot",
+      "link": "https://graphics.cs.utah.edu/teapot/",
+      "summary": "https://www.youtube.com/watch?v=k-23LgrFcvs Comments URL: https://news.ycombinator.com/item?id=50457618 Points: 102 # Comments: 26",
+      "published": "Wed, 11 Nov 2026 19:45:10 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bfd3e204b2864ab5ea4200685ae7e727",
+      "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/",
+      "summary": "こんにちは。アマゾン ウェブ サービス ジャパン合同会社 パートナーソリューションアーキテクトの深井宣之です。 […]",
+      "published": "Thu, 12 Nov 2026 01:20:54 +0000",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b9e949960c1a4315043ea387b8d4812",
+      "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+      "summary": "AWS Network Security Manager is now available in AWS European Sovereign Cloud Region and Thirty-One new Regions Today, AWS announces the general avail...",
+      "published": "Wed, 11 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cceade0f408d156280cf7108c2ec3439",
+      "title": "Amazon OpenSearch Service announces managed cross-Region disaster recovery",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/",
+      "summary": "Amazon OpenSearch Service now offers managed cross-Region disaster recovery, so you can meet strict availability and business continuity requirements ...",
+      "published": "Tue, 10 Nov 2026 19:00:00 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "30b79ec516a58d7863ff2691886a823f",
+      "title": "AWS announces AWS Interconnect - last mile preview with Equinix",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/",
+      "summary": "AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 data...",
+      "published": "Wed, 04 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ced082001e579b4179432a19eb9d226",
+      "title": "Mozkey（もずきー）| 書くことに集中できる、日本語入力。",
+      "link": "https://koyasi777.com/mozkey/",
+      "summary": "書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。",
+      "published": "2026-11-12T02:13:52Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31ba66d2502f39ab6a76a291cd9069c0",
+      "title": "人手不足解消へ ファミマがフィジカルAI導入 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261111de74472",
+      "summary": "コンビニ大手のファミリーマートは、店舗の人手不足の解消に向けて、飲料を自動で補充するフィジカルAIを活用したロボットを2027年1月から全国の店舗に本格導入する方針を固めました。 ファミリーマート…",
+      "published": "2026-11-11T22:52:41Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "77c5db3b7a264db7ddb4f7ff1afa0a9e",
+      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+      "link": "https://zenn.dev/ubie_dev/articles/45501469c9c044",
+      "summary": "Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド...",
+      "published": "2026-11-12T01:43:30Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "861390729b8c55eb77e8524a2266de3b",
+      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ 新規投稿は既に終了",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "summary": "米Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると、コミュニティサイトで告知した。「Appleサポートコミュニティは、2026年11月20日（金）をもって閉鎖いたします。本日より新規投稿の受け付けを終了し、以降は閲覧のみ可能となります。引き続き、Appleサポートの公式サイ...",
+      "published": "2026-11-12T00:05:52Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c82dcd50a91bc5df4cc1fdd2a85266f9",
+      "title": "いざという時に使える10のHTML&CSS Tips集vol.3 | ウェブサイト制作事務所corto",
+      "link": "https://corto.jp/note/html-css-tips03/",
+      "summary": "覚えておくと便利なHTML＆CSS Tips集の第3弾です。 今回は、知っておくと役立つTipsを10件、動くデモとともに紹介します。一部のブラウザのみに対応している機能も含まれるため、各節にCan I useで確認した対応状況（2026年11月時点）を記載しました。 details要素で1つだけ開...",
+      "published": "2026-11-11T23:34:28Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a1facee979a20553aa2be3dd14bfeced",
+      "title": "AI支援型リバースエンジニアリング、早くも終焉？ AIが指示に従わなくなったとの報告が続々【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2155772.html",
+      "summary": "",
+      "published": "2026-11-12T02:55:38Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1602ae6f62f4a744a1624b8c97ccc5ff",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開 コードはすべてAIエージェントが記述",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "summary": "米Amazon傘下のAmazon Web Services（AWS）は11月11日（現地時間）、AWSのAPIを手元のPCなどで再現するツール「AWS Emulator」を公開した。開発者はクラウドのリソースを用意しなくても、AWSを使うアプリをローカル環境で構築したりテストしたりできる。AWSアカ...",
+      "published": "2026-11-12T01:20:44Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "41e8fd7d3546045b25c9da1f0e09d46b",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ 「チェックインには人間の確認が必要」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "summary": "米航空大手のUnited Airlinesは11月11日（現地時間）、許可を得ていないサードパーティ製のパーソナルAIエージェントやAIアシスタントによる同社サービスの利用を禁止すると発表した。自社のWebサイトやアプリでの利用を直接制限するほか、旅行代理店や予約サイト（アグリゲータ）を経由した利用...",
+      "published": "2026-11-12T02:01:00Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e3882416a16cdd8300b25061c2cd5ed",
+      "title": "Outlook.comがDMARC認証を受けていないドメインからのメールを拒否",
+      "link": "https://gigazine.net/news/20261112-outlook-rejecting-email-without-dmarc/",
+      "summary": "2026年11月5日から9日にかけて、Outlook.com・Hotmail・Live・MSNといったMicrosoftのコンシューマー向けメールサービスで、DMARCレコードを公開していないドメインからのメールが一部拒否される事象が発生しました。Microsoftからの公式発表がないまま問題が発生...",
+      "published": "2026-11-11T22:11:18Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e8e35d801b32bfa64f02c5d5e4019ab9",
+      "title": "Beyond ARTEX: 45 AI Pentesting Tools and How to Find Them",
+      "link": "https://blog.gitguardian.com/ai-pentesting-tools-beyond-artex/",
+      "summary": "TL;DRAbout 45 open-source frameworks now automate attacks: Each one wires a language model into a loop that runs tools and acts on their output. We ca...",
+      "published": "2026-11-11T23:39:34Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "113b9d242287cd8bb3c56c9905067b37",
+      "title": "NVIDIA、ファンCEOの解任準備と米紙報道 取締役会で進退議論 - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOGN1209D0S6A111C2000000/",
+      "summary": "【シリコンバレー=山田航平】米半導体大手エヌビディアの取締役会が、ジェンスン・ファン最高経営責任者（CEO）の進退をめぐり、11日に議論することが分かった。米紙ウォール・ストリート・ジャーナル（WSJ）は、取締役会が解任準備を進めていると報じた。ブルームバーグ通信によると、エヌビディアの取締役会は外...",
+      "published": "2026-11-12T01:18:26Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f401ed4cd14766d509073f1f8102df20",
+      "title": "Test your applications against AWS locally with AWS Emulator | Amazon Web Services",
+      "link": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "summary": "The sessions are set and your seat is waiting. Register now",
+      "published": "2026-11-11T22:58:04Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6969ca6514be95fd0d9eaa21d06419c6",
+      "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+      "link": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+      "summary": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChro...",
+      "published": "2026-11-12T00:03:49Z",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d94804b0ce09a1f14f39312a7aa5d7c8",
+      "title": "[新サービス] AWS Emulator 発表！実 AWS と比べ、Claude Code にローカルでテストと修正を繰り返させてみた",
+      "link": "https://dev.classmethod.jp/articles/20261112-aws-emulator/",
+      "summary": "Werner Vogels 氏のブログにSwami Sivasubramanian 氏が寄稿した、AWS アカウントもデプロイも不要な AWS Emulator について試しました。DynamoDB と SQS の挙動は実 AWS と同じ結果になり、API は数ミリ秒で応答。Claude Code ...",
+      "published": "Thu, 12 Nov 2026 04:56:06 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ba6c266a2200f8f0d366f24dbbd77953",
+      "title": "CloudWatch Logs のアカウントレベル保持期間ポリシーを、個別設定済みのロググループに適用してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-logs-account-level-retention-policy/",
+      "summary": "Amazon CloudWatch Logs のアカウントレベル保持期間ポリシーを、保持期間を個別設定したロググループへ RETROACTIVE で適用しました。個別設定が7日でも365日でもポリシーの値に置き換わり、プレフィックスが重なるロググループには長い方が適用されました。",
+      "published": "Thu, 12 Nov 2026 04:40:48 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1d291da74d99c0e8e24b75427fa08e43",
+      "title": "【Databricks】Genie Ontologyを整備してGenie Oneの回答精度がどう変わるか試してみた",
+      "link": "https://dev.classmethod.jp/articles/databricks-try-genie-ontology/",
+      "summary": "DatabricksのGenie Ontologyを整備し、生成AIの自然言語分析を実際に試してみました。整備前後での回答精度の変化を具体的に検証します。",
+      "published": "Thu, 12 Nov 2026 04:34:37 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "82cf1516ed7b5b2247b0ac5e14e13def",
+      "title": "AWS Emulatorのfidelityスコアと注意点、エージェント用スキルを確認してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-emulator-fidelity-score-caveats-agent-skill/",
+      "summary": "AWS Emulatorはリリースごとにfidelityスコアを公開しています。1.0.322のスコアをサービス別に集計し、IAMやリージョンの注意点を動かして確かめました。Rancher Desktopでの起動エラーの対処と、aws-emulatorスキルによる互換性チェックの結果も載せています。",
+      "published": "Thu, 12 Nov 2026 04:04:17 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0a2e40229adb1894a84a5b1e79cf55fa",
+      "title": "AWS マネジメントコンソールにリソースベースポリシーが原因でログインできないときの対処方法",
+      "link": "https://dev.classmethod.jp/articles/tsnote-iam-cannot-login-management-console-resource-based-policy/",
+      "summary": "AWS マネジメントコンソールのログイン時に「認証に失敗しました」というエラーが出た場合、リソースベースポリシーで設定されたネットワーク制限が原因かもしれません。この記事では、エラーの原因と対処方法について解説します。",
+      "published": "Thu, 12 Nov 2026 03:52:14 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d120c5c6ddb895fe6284af7574623b3e",
+      "title": "AWS Emulator がリリースされたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-emulator-local-try/",
+      "summary": "AWS が公開したローカル用エミュレータ AWS Emulator を Docker で起動し、S3・SQS・DynamoDB・Lambda の基本操作を試しました。起動にかかった時間は約0.26秒、アイドル時のメモリ使用量は約174MiB でした。",
+      "published": "Thu, 12 Nov 2026 03:29:34 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "856ebf95a7474ada43d6387d03d6cbb8",
+      "title": "Patch Manager で PowerShell 7 系の更新プログラムがインストールされないときの原因の例と対処方法",
+      "link": "https://dev.classmethod.jp/articles/tsnote-systems-manager-patch-manager-powershell/",
+      "summary": "Patch Manager で EC2 インスタンス（Windows Server）にパッチを適用したとき、PowerShell 7 系の更新プログラムがインストールされない原因の例と対処方法をまとめました。",
+      "published": "Thu, 12 Nov 2026 03:12:45 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "18b88976be0939157741d3150c251a76",
+      "title": "[2026年11月12日号]個人的に気になったModern Data Stack情報まとめ",
+      "link": "https://dev.classmethod.jp/articles/modern-data-stack-info-summary-20261112/",
+      "summary": "Modern Data Stack関連の最新情報が次々と発表されている中、この2週間ほどで気になった情報をまとめてみました。",
+      "published": "Thu, 12 Nov 2026 00:31:26 GMT",
+      "fetched_at": "2026-11-12T05:06:51.124119+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-12T00:05:24.131344+00:00"
+  "updated_at": "2026-11-12T05:06:51.124119+00:00"
 }

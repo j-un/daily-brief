@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "1409c52b51091fdc46a5c268df1337e2",
-      "title": "Inside GitHub's new Git storage architecture - The GitHub Blog",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Inside GitHub’s new Git storage architecture",
-      "published": "11 Nov 2026 06:55 +0000",
-      "fetched_at": "2026-11-11T08:40:35.530982+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "9bc3e14c93482d65b361432cbd6b88b2",
       "title": "HTTPのエラー理由を示す Problem-Detailsレスポンスヘッダの仕様 - ASnoKaze blog",
       "link": "https://asnokaze.hatenablog.com/entry/2026/11/06/002145",
@@ -319,7 +309,437 @@
       "fetched_at": "2026-11-12T05:06:51.124119+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "2f8e3e03b842a542f32749d2690c6907",
+      "title": "Lean で税法を定理証明し、本番の税計算を全入力で QA する - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる",
+      "published": "12 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f5e07fc44d449653f3c75611e7eb01ba",
+      "title": "Lean の定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
+      "link": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる",
+      "published": "12 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e212b47e96671bbfab82f2e98f567975",
+      "title": "姿勢推定を用いたバスケットボールにおけるショット期待値モデルの改善 | BLOG - DeNA Engineering",
+      "link": "https://engineering.dena.com/blog/2026/11/kbt-shot-expected-value/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 姿勢推定を用いたバスケットボールにおけるショット期待値モデルの改善 | BLOG - DeNA Engineering",
+      "published": "12 Nov 2026 06:55 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e910828213fb970c0b261d6d78274fad",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://blog.jxck.io/entries/2026-11-04/stand-up-tech-talk.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Stand-Up Tech Talk: エコシステム三部作 | blog.jxck.io",
+      "published": "12 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d22abd9ce76391b95b1f3fe0d21d536a",
+      "title": "NVIDIA Announces CEO Transition",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 29...",
+      "published": "Thu, 12 Nov 2026 13:52:29 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "778c614d75bdf669e5ffcf557a95fa0b",
+      "title": "Anthropic IPO",
+      "link": "https://ipo.anthropic.com/us/",
+      "summary": "Article URL: https://ipo.anthropic.com/us/ Comments URL: https://news.ycombinator.com/item?id=50465829 Points: 232 # Comments: 261",
+      "published": "Thu, 12 Nov 2026 11:46:41 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ab5bdd7216d50ed001035948b292575",
+      "title": "Why Writing Correct Software Is Hard",
+      "link": "https://pron.github.io/posts/correctness-and-complexity",
+      "summary": "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 168 # Comment...",
+      "published": "Thu, 12 Nov 2026 10:28:26 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e99c0a2a285756bc1235869232857f96",
+      "title": "Humble Bundle just killed most of their security through vibecoding",
+      "link": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "summary": "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments ...",
+      "published": "Thu, 12 Nov 2026 06:52:48 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ffd320c81ef72ada0c08e834a7bd04a7",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "summary": "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 ...",
+      "published": "Thu, 12 Nov 2026 02:11:11 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90f53aa15e5d5d2e3cab6e7587a21509",
+      "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "link": "https://github.com/tylertms/Stela",
+      "summary": "Article URL: https://github.com/tylertms/Stela Comments URL: https://news.ycombinator.com/item?id=50460154 Points: 125 # Comments: 52",
+      "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbd9f31a19b79ff5aa8750a5b63c2d9f",
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "link": "https://github.com/huawei-csl/MACaQ",
+      "summary": "Article URL: https://github.com/huawei-csl/MACaQ Comments URL: https://news.ycombinator.com/item?id=50458166 Points: 124 # Comments: 29",
+      "published": "Wed, 11 Nov 2026 20:23:57 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c7bd29cd0656d14859b1de03e0071b9",
+      "title": "無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "summary": "「無印良品」を展開する良品計画（東京都文京区）は11月12日、不正アクセスによる顧客情報の流出について記者会見を開き、清水智社長らが謝罪した。過去に取得したクレジットカード番号の全桁を削除せず保管していた問題について「データの運用管理に不備があった。私どもの落ち度」と説明した。 同社は10月30日、...",
+      "published": "2026-11-12T08:34:31Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "044d50b28c54380e09eb975dd4a62b4b",
+      "title": "MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org",
+      "link": "https://www.hageatama.org/20261112/1794464751",
+      "summary": "パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: CQQRFV muse.ai はい、というわけで、Meta社製AIエージェントのMuseに課金も始めて、いろいろと設定を進...",
+      "published": "2026-11-12T06:35:10Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7a60f4e869fa2bc0103326498f9a46ae",
+      "title": "そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox",
+      "link": "https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B",
+      "summary": "Dockerコンテナは、環境構築やデプロイの容易さから広く普及して久しいと思う ホストマシンを選ばず（サーバーでは大抵Linuxだろうが）、Kubernetesでスケーリングも可能 実行権限やFSの内容も、コンテナ内に閉じているからDCやVPCには影響が出ない。安全！ 安心！ と思ってると死ぬぞ D...",
+      "published": "2026-11-12T10:43:51Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a479e954008a4a72bd9086a6006b0955",
+      "title": "WebサイトをAgent Readyにしよう",
+      "link": "https://unvalley.me/ja/blog/1793627906",
+      "summary": "AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAg...",
+      "published": "2026-11-12T09:11:18Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "824294fb3a197a6b91a3a96e4e8f3fdb",
+      "title": "AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ",
+      "link": "https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review",
+      "summary": "はじめに 伝票画面の表示処理が抱える問題 人間とAIによる大量テストの作成 並行して作ったら、レビューが重くなった 分担して進めたら、設計に差が生まれた 統一のために整えた2つのこと 1. 設計・実装の方針を揃える 2. 基準をレビュースキルにして、セルフチェックを統一する まとめ：AIに書かせるな...",
+      "published": "2026-11-12T06:01:22Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b67c39e4f07562dacb9566231b689c7",
+      "title": "Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）｜TechRacho by BPS株式会社",
+      "link": "https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307",
+      "summary": "私はDHHのRails World 2026オープニングキーノートスピーチを観ていて、これこそがDHHのキーノートで不満に感じていた大きな問題だと気づきました。Rails Worldは「Ruby on Railsの未来を形作る」ためのイベントです。しかしDHHのスピーチは彼個人の持論に終始していて、...",
+      "published": "2026-11-12T08:46:32Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bded8025b8c3f93e15afd7f11cbf70e2",
+      "title": "Claude Fable 5.2、フェルマーの最終定理を約30時間で形式化―1000エージェントの協調実験 | 財経新聞",
+      "link": "https://www.zaikei.co.jp/article/20261111/877067.html",
+      "summary": "アンソロピックは2026年11月9日、1000のClaude Fable 5.2エージェントが、フェルマーの最終定理の証明を約30時間で形式化したと発表した。同社の技術記事によると、実験には初期版モデルを使い、60の目標命題や既存の47補題などを与えた。最終定理の形式化に要した時間は28.7時間だっ...",
+      "published": "2026-11-12T10:22:51Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "29b8b22bb50c65010cf842ba993a56d2",
+      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+      "summary": "宝くじを販売する全国の都道府県と指定都市は11月11日、停止中の「宝くじ公式サイト」で第三者が一部会員のアカウントに不正にログインし、購入したくじの当落を含む会員情報を閲覧した可能性があると発表した。外部で入手したメールアドレスとパスワードでログインを試す「リスト型攻撃」の可能性があるという。 第三...",
+      "published": "2026-11-12T10:14:04Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b0de55009028abb4eb2d2e9eb34691c",
+      "title": "GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack",
+      "summary": "2026年11月10日から12日にかけて、GitHub 上の多数のリポジトリに対して悪性コミットにより GitHub Actions のワークフローに悪性コードが注入される事例が発生しています。 挿入されたコードは、ワークフローや npm フックが実行されると、CI環境内のシークレットを収集し、C2...",
+      "published": "2026-11-12T13:19:39Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3586fd5cc361f2044d6fb2da9c5c5454",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "published": "2026-11-12T02:37:13Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "097db8770a74c036ab1295f831bda469",
+      "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々 メール送受信も任せられる",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
+      "summary": "米MetaのパーソナルAIエージェント「Muse」に11月11日（日本時間）から、専用のメールアドレス（@muse.ai）を持たせられるようになった。日本でも12日までに、「Museのメールアドレスが取れた」との報告が相次いでいる。 ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、...",
+      "published": "2026-11-12T04:11:01Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "573cf602cfd6e061a11ee43c252c5ada",
+      "title": "How we built the agents that built AWS Emulator",
+      "link": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+      "summary": "AWS Emulator is a local emulator of AWS services, 100% written by autonomous AI agents.Thousands of autonomous agents write tests, find issues, and fi...",
+      "published": "2026-11-11T20:27:09Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fff91fe5f84be921b07621f53ca042f",
+      "title": "数十億人のユーザー数をわずか数KBのメモリで推定できるアルゴリズム「HyperLogLog」とは？",
+      "link": "https://gigazine.net/news/20261112-hyperloglog-with-coin-toss/",
+      "summary": "ウェブサイトを訪れたユーザーの数を正確に把握するには、訪問者のIDを記録して重複を取り除く必要があります。しかし、2007年に発表されたアルゴリズム「HyperLogLog」を使えば、わずか数KBのメモリで数十億人規模のユーザー数を推定することが可能です。このHyperLogLogの仕組みについて、...",
+      "published": "2026-11-12T06:04:31Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5430b160424a87419d6c2e9bbe9a0dc",
+      "title": "SONYやAppleやGoogleに「テレビでユーザーの画面や音声を収集しているか？」と質問した結果が公開される",
+      "link": "https://gigazine.net/news/20261112-tv-manufacturer-questions/",
+      "summary": "テレビメーカーは「自動コンテンツ認識(ACR)」と呼ばれる機能を用いてユーザーの閲覧情報を収集しており、ACRを無効化しても収集が続くという調査結果もあります。こうした状況を受けて、海外メディアのThe Vergeがテレビメーカーに対してデータ収集に関する質問状を送り、回答結果を公開しました。 I ...",
+      "published": "2026-11-12T09:53:16Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3b04677197379a750ccd694a10904d4",
+      "title": "「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2155719.html",
+      "summary": "",
+      "published": "2026-11-12T05:25:01Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7346247abe09a4ea69b36c3db5a9164d",
+      "title": "「Node.js」にセキュリティ更新 ～16件の脆弱性を修正、HTTP/2関連が多数／v22.23.5、v24.22.3、v26.13.1が公開",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2155706.html",
+      "summary": "",
+      "published": "2026-11-12T05:24:55Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee42ee2d7d4f941a83f7e589d30ed600",
+      "title": "当社開発環境における情報漏えいのおそれに関するお知らせとお詫び（第一報） | 株式会社サイバーセキュリティクラウド",
+      "link": "https://www.cscloud.co.jp/news/info/20261112-2/",
+      "summary": "公開日：2026年11月12日 株式会社サイバーセキュリティクラウド 平素は格別のご高配を賜り、厚く御礼申し上げます。 このたび、当社がソフトウェア開発に利用している「GitHub」※上の当社管理領域への不審なアクセスを確認し、当該領域に保存されていた個人情報について漏えいのおそれがあることが判明し...",
+      "published": "2026-11-12T04:28:56Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6259f5f951daf66b3ec5bd0fea1115b",
+      "title": "新経営体制でも「クリエイター主権」。新たなAIとの関係を示した「Adobe MAX 2026」【西田宗千佳のRandomTracking】",
+      "link": "https://av.watch.impress.co.jp/docs/series/rt/2155698.html",
+      "summary": "",
+      "published": "2026-11-12T04:42:43Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b031ebbd51673a38a5e8eb9afac6cdc",
+      "title": "Claude Codeでハーネスエンジニアリングを実践する — 5層の設計パターン",
+      "link": "https://zenn.dev/sasadango28/articles/claude-code-harness-engineering-20260415",
+      "summary": "はじめに Claude Codeを使いこなすうえで、「プロンプトをうまく書く」だけでは限界があります。Claude Codeには、AIの振る舞いをコードのように設計・管理するための仕組みが複数用意されています。CLAUDE.md、Skills、Agents、Hooks、Settings——これらを組...",
+      "published": "2026-04-15T21:37:34Z",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1974e4a3544a332f86abeb91be8f29de",
+      "title": "GitHub - ashhart/TensorFold: LLM Inference Engine for Metal, CUDA and Vulkan. · GitHub",
+      "link": "https://github.com/ashhart/TensorFold",
+      "summary": "📦 ashhart / TensorFold ⭐ 1,824 (+58) 🗒 Zig LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "published": "12 Nov 2026 14:18 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e73b6b7a82c3589e82115e83ced119e2",
+      "title": "CloudWatch Logsのデータ保護ポリシーで氏名や住所、マイナンバーをマスクして障害調査に使えるか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-logs-data-protection-japanese-pii-masking/",
+      "summary": "CloudWatch Logsのデータ保護ポリシーで、日本の個人情報がどこまでマスクできるのかを実際に検証してみました。マネージドデータ識別子だけでは不十分な理由と、カスタムデータ識別子の活用方法について紹介します。",
+      "published": "Thu, 12 Nov 2026 10:41:05 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "67521646db7c455a4cf3881f1bde0c63",
+      "title": "Security-JAWS 第43回レポート #secjaws #secjaws43 #jawsug",
+      "link": "https://dev.classmethod.jp/articles/security-jaws-43-report/",
+      "summary": "Security-JAWS 第43回のレポートです。統制とAIのセキュリティの話でした。面白かったですね！",
+      "published": "Thu, 12 Nov 2026 10:22:30 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5204c3cdd04091abe49bc2c12dac07b",
+      "title": "Amazon FSx for Lustre のインテリジェント階層化ストレージクラスでメタデータ IOPS の上限が 192,000 に上がったので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-fsx-lustre-intelligent-tiering-metadata-iops/",
+      "summary": "FSx for Lustre のインテリジェント階層化でも、メタデータ IOPS を SSD と同じ 192,000 まで上げられるようになりました。",
+      "published": "Thu, 12 Nov 2026 09:59:45 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9edcd662a21658bab2bdaf4ded7c6862",
+      "title": "API キーを発行せずに Claude Code から Backlog を使う：Backlog MCP Server の OAuth モードを試してみた",
+      "link": "https://dev.classmethod.jp/articles/backlog-mcp-server-oauth-claude-code-without-api-key/",
+      "summary": "昨今の不正アクセス事件の状況を顧みると、永続的な API キーを使用することに不安を感じていました。Backlog で API キーを使用せずに OAuth を使用する方法を試してみました。",
+      "published": "Thu, 12 Nov 2026 08:20:10 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6706147e70426c3dd2f25b81efc3af3",
+      "title": "Japan IT Week 秋 2026 「Claude Codeで新規事業を伸ばせるか？Zennの試行錯誤の記録」というテーマで登壇しました",
+      "link": "https://dev.classmethod.jp/articles/2026-10-22_japan-it-week-claude-code-zenn/",
+      "summary": "Claude Codeの導入でZennチームの開発スピードはどう変わったのか。月間プルリクエスト数151件→307件に増えた秘訣と、その過程で出てきた課題への対処を、Japan IT Week秋のセッションを基に紹介します。",
+      "published": "Thu, 12 Nov 2026 08:05:31 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b68a753cf559114f0de50e444b68ea6f",
+      "title": "[アップデート] AWS SAM CLI v1.172.1 で AWS Lambda MicroVMs のイメージをビルドできるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/sam-cli-lambdamicrovm-build/",
+      "summary": "できるようになった",
+      "published": "Wed, 11 Nov 2026 22:19:13 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aa62bb4b1fa657983d617aab94776dd",
+      "title": "ECSに環境変数経由で渡したSecrets Manager管理のDB パスワードを、接続エラーなしでローテーションできるかやってみた",
+      "link": "https://dev.classmethod.jp/articles/myan-ecs-secrets-rotation-20261110/",
+      "summary": "Secrets Manager のローテーションをきっかけに ECS on Fargate のサービスを自動で再デプロイする構成を作り、シングルユーザー方式と交代ユーザー方式で、ローテーション中のリクエストがどうなるかを比べてみました。",
+      "published": "Wed, 11 Nov 2026 08:44:45 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aaf99e38e3ac893299a9942699782b5",
+      "title": "WAF AutomatorでURI例外・URI AI例外を設定する方法",
+      "link": "https://dev.classmethod.jp/articles/waf-automator-uri-exceptions/",
+      "summary": "WAF Automatorの管理画面からURI例外・URI AI例外を登録・削除する手順を紹介します。",
+      "published": "Wed, 11 Nov 2026 05:56:42 GMT",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0ca7ab4a0e084f644442e420428c9ae8",
+      "title": "IK Multimedia、AIで最大5声のハーモニーを生成する“ボーカル・ワークステーション”、「ReSing Choir」を発表",
+      "link": "https://icon.jp/archives/28382",
+      "summary": "IK Multimediaが新製品、「ReSing Choir（リシング・クワイア）」を発表。1本のボーカル・トラックから、最大5声のハーモニーをAIボイス・モデルで生成する、これまでに無かった“ボーカル・ワークステーシ […]",
+      "published": "Thu, 12 Nov 2026 11:00:00 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "166260f5333438eae82cd49afa5329a7",
+      "title": "Reading Rainbow, the Buchla synth’s “MARF,” and a prototype’s live debut",
+      "link": "https://cdm.link/reading-rainbow-buchla-marf-steve-horelick/",
+      "summary": "Hold on for a wormhole between different nerd universes. Steve Horelick, the prolific composer behind the music for Reading Rainbow, meets the classic...",
+      "published": "Thu, 12 Nov 2026 13:34:17 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "7e83da40560bdf071481b24e93b82f42",
+      "title": "Watch the Haloplane make music by running pickups through magnetic fields",
+      "link": "https://musictech.com/news/gear/haloplane/",
+      "summary": "The compact device works as a sampler and wavetable synthesizer. The post Watch the Haloplane make music by running pickups through magnetic fields ap...",
+      "published": "Thu, 12 Nov 2026 12:30:34 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "2edc2e18b90fc90e614caa3e40aa6264",
+      "title": "This new app lets you instantly share your favourite parts of your favourite songs with friends",
+      "link": "https://musictech.com/news/music/drops-app/",
+      "summary": "Drops is a new music sharing application that leans into short form music clips and visual content. The post This new app lets you instantly share you...",
+      "published": "Thu, 12 Nov 2026 10:56:15 +0000",
+      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-12T05:06:51.124119+00:00"
+  "updated_at": "2026-11-12T14:22:08.579572+00:00"
 }

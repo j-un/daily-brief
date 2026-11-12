@@ -1569,7 +1569,87 @@
       "fetched_at": "2026-11-11T23:53:47.130110+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "e375b865734bbf70005706f169f086b1",
+      "title": "The harness is a product | Thoughtworks",
+      "link": "https://www.thoughtworks.com/insights/blog/generative-ai/harness-is-a-product",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 The harness is a product",
+      "published": "11 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4a375bb0f2ef0c7da5f7b5c1f7bc6ac3",
+      "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+      "link": "https://twitter.com/watcherguru/status/2120645607866188008",
+      "summary": "Article URL: https://twitter.com/watcherguru/status/2120645607866188008 Comments URL: https://news.ycombinator.com/item?id=50459776 Points: 124 # Comm...",
+      "published": "Wed, 11 Nov 2026 22:36:35 +0000",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "73999bd22c5d11db847d429a9bc2d699",
+      "title": "AWS re:Invent 2026 で見逃せないデジタル主権関連セッション",
+      "link": "https://aws.amazon.com/jp/blogs/news/digital-sovereignty-at-reinvent-2026-sessions-you-wont-want-to-miss/",
+      "summary": "2026 年 11 月 30 日～12 月 4 日にラスベガスで開催される AWS re:Invent 2026 から、デジタル主権に関するブレイクアウトセッション、チョークトーク、ワークショップ、ライトニングトークを 5 つのテーマ別に紹介します。AWS European Sovereign Cl...",
+      "published": "Thu, 12 Nov 2026 00:02:08 +0000",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "850d7a0e57caa6fa49b9e7b2a785e349",
+      "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
+      "summary": "DeepReinforce AI's Ornith-1.0-9B and Ornith-1.0-35B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation mode...",
+      "published": "Wed, 11 Nov 2026 23:36:00 GMT",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "832b361d99b0f5b993f3919187759566",
+      "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
+      "summary": "DeepSeek's DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models are now available on Amazon SageMaker JumpStart, expanding the portfolio...",
+      "published": "Wed, 11 Nov 2026 23:18:00 GMT",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef8976ce1670f768c2bd7ccef34b44e8",
+      "title": "Amazon OpenSearch Service now lets you validate and roll back version upgrades",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service/upgrades/",
+      "summary": "Amazon OpenSearch Service now supports clone-based upgrades, which let you validate a new OpenSearch version alongside your current one and cut over t...",
+      "published": "Tue, 10 Nov 2026 02:30:00 GMT",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5526d388bf5ebade17d40c37db7d3d2",
+      "title": "脆弱性の影響調査を Devin Automations で自動化した話",
+      "link": "https://zenn.dev/rescuenow/articles/2ee1c4b66ecec8",
+      "summary": "処理の流れは、毎日の定期実行と Slack からの依頼の 2 本です。 定期実行: 新着 CVE 登録 毎日の定期実行で Devin Automation が起動し、次の 2 つを行います。 登録: 直近 48 時間に NVD で公開された CVSS 一定以上の CVE のうち、 Notion デー...",
+      "published": "2026-11-11T13:16:39Z",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "450605c2377aa13e347edc249a5cc05a",
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "link": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "summary": "Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Dat...",
+      "published": "2026-11-11T08:55:48Z",
+      "fetched_at": "2026-11-12T00:05:24.131344+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-11T23:53:47.130110+00:00"
+  "updated_at": "2026-11-12T00:05:24.131344+00:00"
 }

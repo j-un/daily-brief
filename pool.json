@@ -1189,7 +1189,147 @@
       "fetched_at": "2026-11-12T21:58:39.063355+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "bacd584038ac0dc2e6854f4a7341deea",
+      "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+      "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "summary": "Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments...",
+      "published": "Thu, 12 Nov 2026 18:22:22 +0000",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "fb355aeff18ca664d1a25cade67316e6",
+      "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+      "link": "https://github.com/chocoford/ExcalidrawZ",
+      "summary": "Article URL: https://github.com/chocoford/ExcalidrawZ Comments URL: https://news.ycombinator.com/item?id=50468944 Points: 100 # Comments: 24",
+      "published": "Thu, 12 Nov 2026 15:25:52 +0000",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "30e09923fff2971b68fd21a4d5ca1570",
+      "title": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/",
+      "summary": "AWS Graviton5-based R9g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility and MySQL compatibility, and fo...",
+      "published": "Thu, 12 Nov 2026 19:02:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3347b00496b7911fa19d95bfb8f35ebf",
+      "title": "Amazon SNS now supports push notifications in four additional AWS Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/",
+      "summary": "Amazon Simple Notification Service (Amazon SNS) now supports sending push notifications in the Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Eur...",
+      "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "449bbd34c94ec16dd66d6f985f9b18a2",
+      "title": "Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/",
+      "summary": "Amazon FSx for Lustre is reducing the minimum provisioned throughput capacity and metadata IOPS on Intelligent-Tiering file systems by 75%, allowing y...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "57977f33d8ec5d5fea93f15a38525429",
+      "title": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/",
+      "summary": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments, enabling advanced routing controls for enterprise hybrid networks. Previousl...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a85d2231a9e34d4364a789a140151619",
+      "title": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/",
+      "summary": "Amazon Managed Service for Apache Flink now supports enhanced snapshots, a capability that lets you capture, export, and restore application state acr...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "53f40af30caa9682b8f64d329d0aafe2",
+      "title": "Amazon RDS for SQL Server now supports M8id and R8id instances",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances",
+      "summary": "Amazon Relational Database Service (Amazon RDS) for SQL Server now supports M8id and R8id instances. These instances are powered by custom Intel Xeon ...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4d4da37063497badcc27d3142a6787ac",
+      "title": "New features for Amazon EC2 Capacity Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/",
+      "summary": "Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help customer...",
+      "published": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "3091cb21f7968ecde29095513d521914",
+      "title": "Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+      "summary": "米Microsoftのクラウドサービス「Microsoft 365」で11月12日（米国時間）、メールサービス「Exchange Online」のメールボックスに接続できない障害が発生した。「Outlook」のWeb版やデスクトップアプリ、モバイルアプリのほか、MAPI、ActiveSync、RES...",
+      "published": "2026-11-12T22:12:28Z",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b22aa0a1b7a0f4158593e6572c7b12e6",
+      "title": "「Appleサポートコミュニティ」、11月20日に閉鎖へ 約30年の助け合いに幕",
+      "link": "https://japan.cnet.com/article/35254763/",
+      "summary": "Appleは米国時間11月10日、「Appleサポートコミュニティ」の新規投稿受け付けを同日で終了し、サイト自体も20日に閉鎖すると発表した。「iPhone」や「HomePod」の特定の不具合について調べたいなら今のうちだ。30年近く運営されてきた、ユーザー同士が助言し支え合うサイトが、まもなく姿を...",
+      "published": "2026-11-12T02:52:00Z",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2192cfbd47989a3e02ad688078cdffd9",
+      "title": "エヌビディア フアンCEOが辞任 業界全体に影響も | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261112de75078",
+      "summary": "アメリカの半導体大手「エヌビディア」は12日、中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられた創業者のジェンスン・フアン氏がCEOを辞任したと発表しました。 AI向け半導体で圧…",
+      "published": "2026-11-12T14:09:31Z",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "993a984f23a174c33a1d11e9e42fc130",
+      "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース",
+      "link": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+      "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Today we're launching AWS Emulator...",
+      "published": "2026-11-12T14:37:20Z",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a31de5224f44403ea13e6eb43042338",
+      "title": "GitHub - QwenLM/qwen-code: An open-source AI coding agent that lives in your terminal. · GitHub",
+      "link": "https://github.com/QwenLM/qwen-code",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 QwenLM / qwen-code ⭐ 29,553 (+151) 🗒 TypeScript An open-source AI coding agent that lives in your terminal.",
+      "published": "12 Nov 2026 22:17 +0000",
+      "fetched_at": "2026-11-12T23:30:38.327865+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-12T21:58:39.063355+00:00"
+  "updated_at": "2026-11-12T23:30:38.327865+00:00"
 }

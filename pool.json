@@ -1,26 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2f8e3e03b842a542f32749d2690c6907",
-      "title": "Lean で税法を定理証明し、本番の税計算を全入力で QA する - freee Developers Hub",
-      "link": "https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる",
-      "published": "12 Nov 2026 10:55 +0000",
-      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
-      "entry_id": "f5e07fc44d449653f3c75611e7eb01ba",
-      "title": "Lean の定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub",
-      "link": "https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Leanの定理証明ガードレールで AI エージェントに業務ルールを守らせる",
-      "published": "12 Nov 2026 08:55 +0000",
-      "fetched_at": "2026-11-12T14:22:08.579572+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "8b8603bc2a6f2e938e56bcf0590c70ea",
       "title": "GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp",
       "link": "https://gihyo.jp/article/2026/11/pdd-kit",
@@ -989,7 +969,407 @@
       "fetched_at": "2026-11-13T11:45:10.898889+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "8bf29155c395584f2ae4746794f48cac",
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "summary": "Article URL: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths Comment...",
+      "published": "Fri, 13 Nov 2026 17:30:10 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "47bc3d253bc2e236b36fe8330991ca1e",
+      "title": "LibreOffice actually works 365 days a year",
+      "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+      "summary": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268 Comments URL: https://news.ycombinator.com/item?id=50486482 Points: 452 # Comm...",
+      "published": "Fri, 13 Nov 2026 17:09:58 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e78098a21aa465bf34b86820787cede",
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "summary": "Article URL: https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e Comments URL: https:...",
+      "published": "Fri, 13 Nov 2026 15:52:04 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1abe764f6860bf280eff199f795457f8",
+      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "link": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IRK8h67ol7Q Comments URL: https://news.ycombinator.com/item?id=50484658 Points: 130 # Comments: 99",
+      "published": "Fri, 13 Nov 2026 15:08:44 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90fbd377cce37cd8c23bce0c2705e808",
+      "title": "EU Digital Identity Wallet rollout: every EU state on one board",
+      "link": "https://myid.ie/business/eu-digital-wallet-tracker/",
+      "summary": "Article URL: https://myid.ie/business/eu-digital-wallet-tracker/ Comments URL: https://news.ycombinator.com/item?id=50484496 Points: 105 # Comments: 6...",
+      "published": "Fri, 13 Nov 2026 14:58:07 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "71e285653e7f7fda98055874e9de0ec0",
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "link": "https://news.ycombinator.com/item?id=50484421",
+      "summary": "U.S. producer prices rose 6.5% YoY in October, the highest since November 2022, below expectations of 6.6% and up from 6.3% previously. PPI increased ...",
+      "published": "Fri, 13 Nov 2026 14:53:32 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0ef8c5ff342b83c0e32efd2ed9f13d1",
+      "title": "A technical vision for the Haskell ecosystem",
+      "link": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+      "summary": "Article URL: https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078 Comments URL: https://news.ycombinator.com/item?id=504...",
+      "published": "Fri, 13 Nov 2026 14:43:12 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d69897e2505cb613dae94e69e2aff94e",
+      "title": "US university students tell surveillance cameras to Flock off",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "summary": "Article URL: https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts Comments URL: https://news.yco...",
+      "published": "Fri, 13 Nov 2026 14:11:56 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7880a4e139bdc22a2435acd623ed79fb",
+      "title": "Why Zig over C for Systems Programming",
+      "link": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
+      "summary": "Article URL: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/ Comments URL: https://news.ycombinator.com/item?id=50483611 Poi...",
+      "published": "Fri, 13 Nov 2026 14:01:13 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1dfbeb5c7d536489e9da24ccc81ebe68",
+      "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+      "link": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+      "summary": "Article URL: https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest Comments URL: https://news.ycombinator.com/item?id=50483480 Point...",
+      "published": "Fri, 13 Nov 2026 13:51:27 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ff7243e769cf2e7378a3f1a191a6b357",
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "link": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/science.132.3436.1291 Comments URL: https://news.ycombinator.com/item?id=50482379 Points: 358 # Comme...",
+      "published": "Fri, 13 Nov 2026 12:10:24 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f77061115e1a199e486a54bb4585c562",
+      "title": "AI is destroying the trust between writers and readers",
+      "link": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "summary": "Article URL: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/ Comments URL: https://news.ycombinator.com/item?id=50481870 Po...",
+      "published": "Fri, 13 Nov 2026 11:13:46 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e172dc3f82d42e2a877859da585a4fd",
+      "title": "The Dawn of the Data Intelligence Engineer",
+      "link": "https://motherduck.com/blog/the-data-intelligence-engineer/",
+      "summary": "Article URL: https://motherduck.com/blog/the-data-intelligence-engineer/ Comments URL: https://news.ycombinator.com/item?id=50480480 Points: 122 # Com...",
+      "published": "Fri, 13 Nov 2026 09:08:18 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "63ad475aa7eebeb5e8b5d7313458f1bc",
+      "title": "TSMC Hacked",
+      "link": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm Comments URL: https://news.ycombinator....",
+      "published": "Fri, 13 Nov 2026 07:39:55 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "21a22c28257b3060b34995ffff5bdc6f",
+      "title": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/",
+      "summary": "A new model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. Grok 4.7 is SpaceXSI's most capable model for coding and knowl...",
+      "published": "Fri, 13 Nov 2026 13:13:00 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "28cd593a3a6e174ca9fd2b6be5624024",
+      "title": "Amazon Connect Customer now supports batch actions on up to 100 cases at once",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-batch-actions-100-cases/",
+      "summary": "Cases in Amazon Connect Customer now lets agents and supervisors assign, comment on, and update the status of up to 100 cases at once, so teams spend ...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f55ec47ad76867c38079f5668202b98",
+      "title": "Announcing Accelerated Compute Insights for Amazon CloudWatch",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/accelerated-compute-insights-cloudwatch/",
+      "summary": "Amazon CloudWatch now offers accelerated compute insights, a capability that provides monitoring and observability for self-hosted AI inference worklo...",
+      "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "360590efc4288b9096352c3ef2871ebe",
+      "title": "AWS DMS Schema Conversion expands offline source conversion to Oracle",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-dms-schema-conversion-expands-offline-source-conversion-to-oracle/",
+      "summary": "AWS Database Migration Service (DMS) Schema Conversion now supports offline source conversion for Oracle Database. You can convert Oracle schemas and ...",
+      "published": "Fri, 06 Nov 2026 23:53:00 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cbc455220acc262446eec06aefc2dd0c",
+      "title": "マネックス証券、不正アクセスでメールアドレス最大113万件と本人確認書類1600件弱が漏洩のおそれ",
+      "link": "https://k-tai.watch.impress.co.jp/docs/news/2156449.html",
+      "summary": "",
+      "published": "2026-11-13T12:34:09Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a826d1f4fee398ec93fa092fdb7cc816",
+      "title": "#26 Home Repo パターン",
+      "link": "https://blog.lai.so/2026-11-13/",
+      "summary": "Home Repoパターンはコーディングエージェントで開発するときのワークスペース構成のパターンで、/grill-me などで知られる Matt Pocock が提唱し、自身のサイト AI Hero で解説しました。 The Home Repo PatternOne repo for your sk...",
+      "published": "2026-11-13T09:55:47Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4773a6c12337cf669b5dda55d0738a59",
+      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+      "link": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+      "summary": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。...",
+      "published": "2026-11-13T06:02:40Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ed1a474f1fa6cf1d232b6b7f5137d15",
+      "title": "AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明",
+      "link": "https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/",
+      "summary": "AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかった...",
+      "published": "2026-11-13T07:26:33Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "817b2fd3b303642de7f440e389666cb2",
+      "title": "良品計画への不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/11/13/162738",
+      "summary": "2026年10月30日、良品計画は公式アプリ「MUJI アプリ」の会員情報が外部に流出した可能性があると公表し、その後の公表で対象を広げました。ここでは関連する情報をまとめます。 公表のたびに広がった対象 最初の公表の対象はMUJI アプリの会員情報に限られていた。その後、ネットストアの会員、氏名や...",
+      "published": "2026-11-13T07:47:29Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1bf4aab5bf0833d6133fb5d354277350",
+      "title": "高品質と高スピードを支える品質のシフトレフトのアプローチ",
+      "link": "https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement",
+      "summary": "自己紹介 ⚫経歴 • 開発者、テストエンジニア、コンサルタント、QAエンジニアとさまざまな立場で さまざまなプロダクトの品質保証や品質管理業務に従事 • テストや品質マネジメントについて執筆・講演・研究・技術指導複数 • 現在は車メーカーで車載開発のQA/テストテックリード、QMアーキテクトを担当 ...",
+      "published": "2026-11-13T00:56:24Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "17b3b8121f60fb817d2fc270ccc08303",
+      "title": "マイクロソフトの障害 在宅勤務の人はどう対応した？ | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261113de75652",
+      "summary": "「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。 都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。 人事部に所…",
+      "published": "2026-11-13T11:08:58Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7685c264cc9bc2407ed6a46be57a7905",
+      "title": "オンラインゲームポータルサイト『ハンゲ（hange）』不正アクセスについて(第4報) | ENSAPIA Tokyo株式会社",
+      "link": "https://ensapia-tokyo.com/news/topics/id=21412/",
+      "summary": "3. 原因 『ハンゲ』サーバーへの第三者による不正アクセスが原因となります。詳細については現在も調査を進めております。 4. お客様へのお願いと二次被害への注意喚起 パスワードの変更: 他社サービスで同一のパスワードを使い回されている場合は、念のため速やかに変更していただきますようお願いいたします。...",
+      "published": "2026-11-13T08:38:59Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8bcc5e70b8e7ac749ffbf12623890c35",
+      "title": "aws-emulatorにTerraformでリソースを作成できるか試してみる | フューチャー技術ブログ",
+      "link": "https://future-architect.github.io/articles/20261113a/",
+      "summary": "（https://aws.amazon.com/jp/products/developer-tools/emulator/ より引用） こんにちは。TIGの伊藤です。2026/11/11、AWSからaws-emulatorというツールが発表されました。 https://aws.amazon.com/...",
+      "published": "2026-11-13T06:21:05Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26de9122e31c44f63a1dd4a9c5a30b2c",
+      "title": "400gを切るモバイルモニター（タッチ対応）と Samsung DeX との相性が良い - えいのうにっき",
+      "link": "https://blog.a-know.me/entry/2026/11/12/225133",
+      "summary": "主にコンテンツを消費することを目的として、ずっと12.9インチの iPad Pro（2018, 第3世代）を愛用していたのですが、いつの間にやら子供に奪われてしまっておりまして。 「それなら仕方がない、もう一台買うか」.....とは、昨今の物価高のなかでは簡単に決断できず。さてどうしたものかと考えあ...",
+      "published": "2026-11-13T00:32:45Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43587130721fc16a8b929f55bddc3e6d",
+      "title": "「Microsoft 365」の障害、発生から12時間を突破 ～メールサービスを中心に影響が拡大【16:45追記】／悪意ある攻撃ではない模様。解決に向けて明るい兆しが見えるも引き続き障害継続中【やじうまの杜】",
+      "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156298.html",
+      "summary": "",
+      "published": "2026-11-13T06:55:30Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f05a2c7e3d454c2d41dc6a236901d45f",
+      "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+      "link": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+      "summary": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want ...",
+      "published": "2026-11-12T15:51:18Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4a33da5939577efb7bec3ec189139bf",
+      "title": "意外な用途も？ 日本語のローマ字入力が限界まで遅くなる「史上最悪のキー配列」が公開中【やじうまWatch】",
+      "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2156140.html",
+      "summary": "",
+      "published": "2026-11-13T02:38:21Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1789024433f6a70cf5ee45358206701c",
+      "title": "宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/27d715bca9199d6f230059857ba8a03352ea0fb3",
+      "summary": "宝くじの発売元である全国の都道府県と指定都市は11月11日、宝くじ公式サイトで一部会員のアカウントに第三者が不正ログインし、会員情報を閲覧した可能性があると発表した。公式サイトとアプリは、パスワードが意図せず変更される事象を確認して一時停止している。対象者には個別にメールで連絡する。 （画像）宝くじ...",
+      "published": "2026-11-12T05:32:31Z",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a74e6f8ad10e0fc941905add7986ceba",
+      "title": "GitHub - Likely7/Veyra-NRVideo: Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience. · GitHub",
+      "link": "https://github.com/Likely7/Veyra-NRVideo",
+      "summary": "🚀 Skyrocketing！ 🚀 (200+ new stars) 📦 Likely7 / Veyra-NRVideo ⭐ 1,411 (+245) 🗒 C++ Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video play...",
+      "published": "13 Nov 2026 17:17 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3bed7958e9a9206d537cfd127849432e",
+      "title": "GitHub - louislam/uptime-kuma: A fancy self-hosted monitoring tool · GitHub",
+      "link": "https://github.com/louislam/uptime-kuma",
+      "summary": "📦 louislam / uptime-kuma ⭐ 93,630 (+61) 🗒 JavaScript A fancy self-hosted monitoring tool",
+      "published": "13 Nov 2026 16:17 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf0815b5d73d4343c0b13a636c709452",
+      "title": "GitHub - backnotprop/plannotator: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. · GitHub",
+      "link": "https://github.com/backnotprop/plannotator",
+      "summary": "🔥 Hot Repo！ 🔥 (100+ new stars) 📦 backnotprop / plannotator ⭐ 10,256 (+100) 🗒 TypeScript The workspace to stay in the loop and on top of agents - shape...",
+      "published": "13 Nov 2026 15:17 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "51dd484e22ce94fe225791c4ef33348e",
+      "title": "GitHub - tradermonty/claude-trading-skills: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. · GitHub",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "📦 tradermonty / claude-trading-skills ⭐ 3,874 (+60) 🗒 Python Claude Code skills for equity investors and traders — market analysis, technical charting...",
+      "published": "13 Nov 2026 13:17 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "GitHub Trending (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "437e97c13a6fd8cc5ea20ec5c6918f77",
+      "title": "[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/route53-recordset-protections/",
+      "summary": "待望の！！",
+      "published": "Fri, 13 Nov 2026 15:37:36 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "18ec3f24b4c4f1536b4a59ab738b50b4",
+      "title": "Amazon ECS Managed Instances が json-file ログドライバーに対応したので、S3、Logsへの転送を試してみた",
+      "link": "https://dev.classmethod.jp/articles/ecs-daemon-json-file-logs/",
+      "summary": "Amazon ECS Managed Instances の json-file ログドライバーと、Managed Daemons のログドライバーボリュームで、nginx のログを AWS 提供の Fluent Bit から S3 と CloudWatch Logs に送りました。プラグインの追加...",
+      "published": "Fri, 13 Nov 2026 15:16:43 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "501cdc4de2b34d0063700df0fb204f57",
+      "title": "メンバーアカウントで Kiro プロファイルを新規作成し、デフォルトのクレジットプーリング有効化状況を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/kiro-creditpooling-newprofile-default/",
+      "summary": "どうやら従来のサブスクリプションプランから始めることは出来ないらしい",
+      "published": "Fri, 13 Nov 2026 12:55:49 GMT",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0de3bef14a816aa5989133c5f62df258",
+      "title": "Harps with flowers that bloom and more fanciful creations of Monique Evette",
+      "link": "https://cdm.link/fanciful-creations-of-monique-evette/",
+      "summary": "If you don't know her work, computer scientist Monique \"Evette\" Byars has built spectacular, animated instruments, merging digital modeling and fabric...",
+      "published": "Fri, 13 Nov 2026 14:06:05 +0000",
+      "fetched_at": "2026-11-13T18:59:48.584910+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-13T11:45:10.898889+00:00"
+  "updated_at": "2026-11-13T18:59:48.584910+00:00"
 }

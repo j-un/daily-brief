@@ -19,7 +19,337 @@
       "fetched_at": "2026-11-12T14:22:08.579572+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "8b8603bc2a6f2e938e56bcf0590c70ea",
+      "title": "GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/pdd-kit",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp",
+      "published": "13 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2e9ce6d02bba31a6d94bd6ab4d42a46",
+      "title": "X、Webアプリ基盤をゼロから再構築 ―3つのサーバーを統合し低速回線での表示を大幅にスピードアップ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/rebuilding-x-web-app-server",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 X、Webアプリ基盤をゼロから再構築 ―3つのサーバーを統合し低速回線での表示を大幅にスピードアップ | gihyo.jp",
+      "published": "12 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7de1f1977cf1a2d5973039d27c5e28d2",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "link": "https://unemploymentlabs.com/checkpoint-forensics",
+      "summary": "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 175 # Comments: 48",
+      "published": "Thu, 12 Nov 2026 21:56:11 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "76021858357497fb91bc6699cacfbddd",
+      "title": "Foundation Models framework",
+      "link": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 131 # Commen...",
+      "published": "Thu, 12 Nov 2026 21:13:26 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc6668176f7238566c828642287c65dc",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "summary": "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news....",
+      "published": "Thu, 12 Nov 2026 21:09:49 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11bd694015d596fc468de9b21e6bdf12",
+      "title": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC 2 Released",
+      "link": "https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/",
+      "summary": "Article URL: https://www.postgresql.org/about/news/postgresql-187-1712-1616-1520-1425-and-19-rc-2-released-3442/ Comments URL: https://news.ycombinato...",
+      "published": "Thu, 12 Nov 2026 14:25:23 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6efc587592592a24f53b3740d09229c6",
+      "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする",
+      "link": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "summary": "2026 年 11 月 11 日、Amazon Web Services (AWS) のローカルエミュレーター […]",
+      "published": "Fri, 13 Nov 2026 02:12:53 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "917b4a4a3e15aa84d727f4f969f31c09",
+      "title": "AWS Quick の Smart Approvals: 必要なところに人の監督を",
+      "link": "https://aws.amazon.com/jp/blogs/news/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+      "summary": "AWS Quick の Smart Approvals は、既存の制御の範囲内で、エージェントが提案するアクションをユーザーの依頼と照らし合わせて評価し、自動で承認するかユーザーに戻すかを決めます。本記事では、そのしくみ、監査の証跡、パイロットから始める導入の進め方を紹介します。",
+      "published": "Fri, 13 Nov 2026 01:57:43 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f338ee1613e9c501813ec22e952c5c13",
+      "title": "AWS Quick をエンタープライズ対応に: 自動化され監査も可能な、アカウント間のリソース昇格",
+      "link": "https://aws.amazon.com/jp/blogs/news/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+      "summary": "AWS Quick のエージェント、アクションコネクタ、ナレッジベース、フロー、スペースを、開発アカウントから本番アカウントへ昇格させる作業は、これまで手作業でした。本記事では、Amazon Bedrock AgentCore 上で動く冪等で監査可能な MCP サーバー「Quick Resource...",
+      "published": "Fri, 13 Nov 2026 01:56:04 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf1214198219dc1442b51c81ef5eeecf",
+      "title": "AWS PrivateLink で企業ネットワークから AWS Quick へのアクセスを保護する",
+      "link": "https://aws.amazon.com/jp/blogs/news/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "summary": "社内ファイアウォールの内側やオンプレミスにあるデータソースに、パブリックインターネットを通らずに AWS Quick から接続する方法を説明します。AWS PrivateLink による VPC エンドポイント、VPC 接続、IAM Identity Center によるアイデンティティ制御、VPC...",
+      "published": "Fri, 13 Nov 2026 01:53:56 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a826f166b421f1b4b92e2774367a985",
+      "title": "AWS Quick のスキルとエージェントの仕組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-skills-and-agents-work-in-aws-quick/",
+      "summary": "AWS Quick でエージェント、スキル、データがどう組み合わさるのかを説明します。チームで使えるスキルの作り方と共有方法、本番用スキルのベストプラクティス、公式カタログとカスタムエージェントの活用方法も紹介します。",
+      "published": "Fri, 13 Nov 2026 01:50:29 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "879ee9e138225d10e87d3902d108303d",
+      "title": "AWS Quick のチャットエージェントを企業アプリケーションに埋め込む",
+      "link": "https://aws.amazon.com/jp/blogs/news/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/",
+      "summary": "AWS Quick の埋め込みチャットを使うと、普段使っているアプリケーションの中で対話型 AI を利用できます。本記事では、Amazon CloudFront、Amazon Cognito、Amazon API Gateway、AWS Lambda を組み合わせ、AWS Quick のチャットエー...",
+      "published": "Fri, 13 Nov 2026 01:48:08 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "66600e7e0cbdd9b683b5030295ade9b4",
+      "title": "AWS Weekly Roundup: AgentCore Runtime V2、Amazon DynamoDB のバルクプット項目など (2026 年 11 月 9 日)",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/",
+      "summary": "新しいものを導入する際のコストの大部分は、新しいもの自体ではなく、移行作業にあります。Hive テーブルを A […]",
+      "published": "Fri, 13 Nov 2026 01:38:23 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee276338c5f230b546bdce3e2409c0d6",
+      "title": "Kiro for Android のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/android/",
+      "summary": "Kiro for Android を Google Play で提供開始しました。Android のユーザーは、スマートフォンから新しい作業を始め、すでに動いているクラウドの作業を引き継ぎ、そのまま進められるようになりました。",
+      "published": "Fri, 13 Nov 2026 01:22:07 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "697044c7d2fd5ff2af85099ef0b98700",
+      "title": "Grok 4.7 が Kiro で使えるようになりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/grok-4-7/",
+      "summary": "SpaceXSI の Grok 4.7 を、Kiro IDE、CLI、Crew、Web で使えるようになりました。Grok 4.7 は数時間に及ぶ難しいタスクでも作業を続け、次に進む前に自分の作業を確かめるように作られています。",
+      "published": "Fri, 13 Nov 2026 01:21:12 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "253d6bd94cf1df1867db9e314fbb53ee",
+      "title": "プロの仕事には、プロの道具を。AWS Quick のご紹介",
+      "link": "https://aws.amazon.com/jp/blogs/news/professional-work-deserves-professional-tools-meet-aws-quick/",
+      "summary": "AWS Quick として初めてのブランドキャンペーンを米国と英国で始めました。本記事では、仕事のためだけに作られた AI ワークスペースである AWS Quick の考え方と、組み込まれたセキュリティとガバナンスを紹介します。",
+      "published": "Fri, 13 Nov 2026 01:12:08 +0000",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "a050f95442b1e554bd45731af243aa45",
+      "title": "Amazon Cognito now supports OAuth 2.0 token exchange",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/",
+      "summary": "Amazon Cognito now supports OAuth 2.0 token exchange (RFC 8693). Amazon Cognito helps you add sign-up, sign-in, and access control to your web applica...",
+      "published": "Thu, 12 Nov 2026 22:00:00 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5607dcdaaa737c1e5bcf251c0a4df9f0",
+      "title": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/",
+      "summary": "AWS Backup logically air-gapped vault now supports Amazon EBS Snapshots Archive. Logically air-gapped vaults are a type of AWS Backup vault that allow...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "493bd15ab436301131259f612236b228",
+      "title": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/",
+      "summary": "AWS Glue introduces automatic version upgrades, a capability that keeps your Apache Spark jobs current on the latest AWS Glue runtime without manual c...",
+      "published": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b9e949960c1a4315043ea387b8d4812",
+      "title": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/",
+      "summary": "AWS Network Security Manager is now available in AWS European Sovereign Cloud Region and Thirty-One new Regions Today, AWS announces the general avail...",
+      "published": "Wed, 11 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c1ff9f4f751312b978387fe6d2e942a",
+      "title": "Amazon EC2 G7 instances now available in additional regions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/",
+      "summary": "Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Londo...",
+      "published": "Tue, 10 Nov 2026 19:30:00 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "97041eccddd4c75e23536136a8c714ca",
+      "title": "インシデント調査報告書チェックリスト",
+      "link": "https://jpcertcc.github.io/ir_report_checklist/index.html",
+      "summary": "レポーター向け インシデント調査報告書作成時のチェックリスト（レポーター向け） インシデント調査を担当する者が、報告書を作成する際に使用します。 ユーザーおよびレポーター向け インシデント調査報告書サンプル チェックリストの基準を、実際の報告書構成と記載例に落とし込んだサンプルです。 PDFを開く ...",
+      "published": "2026-11-11T13:20:41Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "03820b944c6d1634abfeb222655ae1ec",
+      "title": "AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫",
+      "link": "https://zenn.dev/dress_code/articles/568fd547315abe",
+      "summary": "こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれら...",
+      "published": "2026-11-12T03:01:52Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b875befb08308e443101da905604b354",
+      "title": "アウトルックでメール送れず 「マイクロソフト365」で大規模障害：朝日新聞",
+      "link": "https://www.asahi.com/articles/ASVCD6X84VCDUHBI001M.html",
+      "summary": "米マイクロソフトは12日（日本時間13日）、企業向けクラウドサービス「マイクロソフト365」で大規模な障害が起きていると発表した。世界中で電子メールが送信できないなどの不具合が生じているという。「影…",
+      "published": "2026-11-12T22:20:37Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ecd543564a222e5ac7b136aedeeb58e8",
+      "title": "GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨",
+      "link": "https://github.com/tsukumijima/YacchoGPT",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-06-14T22:55:00Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7974c581e79079f84fafb873161f7d62",
+      "title": "AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者",
+      "link": "https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml",
+      "summary": "１５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の顔は「候補者と全く違う」。選挙ポスターを巡っては昨年５月、品位保持などを目的に改正公選法が施行されたが具体的な基準はない。顔を知.....",
+      "published": "2026-11-13T01:21:49Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "712d7294bdc8de5c4675d8bbbe2ee193",
+      "title": "パンダを守るテクノロジーはどのように進化した？ - レバテックLAB",
+      "link": "https://levtech.jp/media/detail_970/",
+      "summary": "中国を象徴する動物といえばパンダ。そんな中国のパンダはそれぞれの時代の最新テクノロジーで分析されてきました。ふんのDNAから顔認識、レノボの国家公園AIエージェント、テンセントの「AI飼育員」まで、中国のパンダ保護×テクノロジーを、技術の層ごとに読み解きます。 中国アジアITライター 山谷 剛史 1...",
+      "published": "2026-11-13T01:07:01Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7bd9486d442272e6b1a9f7d993fff845",
+      "title": "米マイクロソフトのメール「アウトルック」などで大規模システム障害…世界各地にも影響の可能性",
+      "link": "https://www.yomiuri.co.jp/economy/20261113-GYT1T00153/",
+      "summary": "【読売新聞】 【ニューヨーク＝木瀬武】米マイクロソフトのメールサービス「アウトルック」などで１２日、大規模なシステム障害が発生した。北米を中心にメールの送受信などに支障が生じ、同社は世界各地の利用者にも影響が及ぶ可能性があると発表し",
+      "published": "2026-11-12T21:59:29Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0898924d465c0f2408729d53cb695c3",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all ...",
+      "published": "2026-11-12T18:36:08Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "2b0de55009028abb4eb2d2e9eb34691c",
+      "title": "GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog",
+      "link": "https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack",
+      "summary": "2026年11月10日から12日にかけて、GitHub 上の多数のリポジトリに対して悪性コミットにより GitHub Actions のワークフローに悪性コードが注入される事例が発生しています。 挿入されたコードは、ワークフローや npm フックが実行されると、CI環境内のシークレットを収集し、C2...",
+      "published": "2026-11-12T13:19:39Z",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ff7522e3a44623f5331bd3a80419939",
+      "title": "Googleアカウントで認証して、Claudeのカスタムコネクタから自作MCPへ接続してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-custom-connector-google-auth/",
+      "summary": "Claudeのカスタムコネクタから、Amazon Bedrock AgentCore Gateway上の自作MCPサーバーに、Googleアカウントで認証して接続しします。普段使っているGoogleアカウントでログインしてツールを使えることを検証します。",
+      "published": "Fri, 13 Nov 2026 02:00:10 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "b871ffb1327bd469b63e0a8594b9201d",
+      "title": "[アップデート] Amazon ElastiCache Serverless for Valkeyでベクトル検索と集計が使えるようになりました！",
+      "link": "https://dev.classmethod.jp/articles/elasticache-serverless-valkey-search-aggregations/",
+      "summary": "Amazon ElastiCache Serverless for Valkeyでセマンティックキャッシュを構築してみました！",
+      "published": "Fri, 13 Nov 2026 01:36:17 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "083273324644ab5134ab97ba71f3aa99",
+      "title": "Claude Code v2.1.322〜v2.1.323 の主要アップデート - Code Mode の追加と Bash 権限チェック・サンドボックスの修正",
+      "link": "https://dev.classmethod.jp/articles/20261113-cc-updates-v2-1-323/",
+      "summary": "Claude Code v2.1.323 は 294 件の変更を含む大型アップデートです。ツール呼び出しを JavaScript で書く実験的な Code Mode が加わり、Bash の権限チェックとサンドボックスの不具合がまとめて修正されました。未知モデルの想定コンテキスト 1M 化など破壊的変...",
+      "published": "Fri, 13 Nov 2026 00:54:03 GMT",
+      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-12T23:30:38.327865+00:00"
+  "updated_at": "2026-11-13T02:27:00.416933+00:00"
 }

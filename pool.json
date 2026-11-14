@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "8b8603bc2a6f2e938e56bcf0590c70ea",
-      "title": "GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp",
-      "link": "https://gihyo.jp/article/2026/11/pdd-kit",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 GitHub Next、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 | gihyo.jp",
-      "published": "13 Nov 2026 01:55 +0000",
-      "fetched_at": "2026-11-13T02:27:00.416933+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "b282d6af8ca0f1dcd47b3ccca7b28817",
       "title": "個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka",
       "link": "https://note.com/npaka/n/ncccb2783a262",
@@ -129,7 +119,417 @@
       "fetched_at": "2026-11-14T00:34:38.765297+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "5b733b9916288d5bc62ea6bbd82ad454",
+      "title": "相次ぐWEBシステムからの情報漏洩事案について（第2報） - セキュリティ研究センターブログ",
+      "link": "https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 相次ぐWEBシステムからの情報漏洩事案について（第2報） | セキュリティ研究センターブログ",
+      "published": "14 Nov 2026 06:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "064fc97817e76d907949423528a10d11",
+      "title": "ローカル LLM の嬉しい誤算",
+      "link": "https://voluntas.ghost.io/local-llm-gosan/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ローカル LLM の嬉しい誤算",
+      "published": "14 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c6a6b29e52324bd7a00ffee147a6862d",
+      "title": "Linuxカーネル解読室プロジェクト: 新Linuxカーネル解読室 - マルチキュー受信処理 ～性能検証編～ - VA Linux エンジニアブログ",
+      "link": "https://www.valinux.co.jp/blog/entry/20261105",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 新Linuxカーネル解読室 - マルチキュー受信処理 ～性能検証編～",
+      "published": "14 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "90a4016ddc6d348cc1f72a00b26a029b",
+      "title": "@netmarkjp.bsky.social on Bluesky",
+      "link": "https://bsky.app/profile/netmarkjp.bsky.social/post/3n2aoy3xdus2f",
+      "summary": "Gemini in Chrome、UIとしてすごく便利なんだけど、とにかく関係ない情報をガンガン盛り込んでくるし、やめてくれと言っても解決策の提案とかネクストアクションを示してきて、すごく付き合いづらい。 こちらがページの話題・文脈に特化した話をしても、一般的な話をひたすら返してくるのも、これまたつ...",
+      "published": "14 Nov 2026 04:46 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "202eb60959a3d7336df54004ab3c6516",
+      "title": "運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/2026/11/05/101407",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 運用しながら改善する LLM-as-a-Judge の構築",
+      "published": "14 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24caaa995c7489d51f1441d1cd9a0343",
+      "title": "OpenSSHのパスワード認証回避の脆弱性 CVE-2026-123158 についてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/11/06/120149",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 OpenSSHのパスワード認証回避の脆弱性 CVE-2026-123158 についてまとめてみた",
+      "published": "14 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d41b30c397dd4cfada9fc47118b45092",
+      "title": "AI時代に求められる優秀なTechLeadの振る舞い by pospome - Speaker Deck",
+      "link": "https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI時代に求められる優秀なTechLeadの振る舞い",
+      "published": "14 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "efd7f751973b51e669c0fcd8e5613cad",
+      "title": "Backlogの課題とドキュメントの書式を、Claude CodeのSkillsでそろえる | 株式会社ヌーラボ(Nulab inc.)",
+      "link": "https://nulab.com/ja/blog/nulab/backlog-claude-code-skills/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Backlogの課題とドキュメントの書式を、Claude CodeのSkillsでそろえる",
+      "published": "14 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bb7c6bd5d06a5c20c155d42428966318",
+      "title": "DevOpsとソフトウェアデリバリの基礎 - O'Reilly Japan",
+      "link": "https://www.oreilly.co.jp/books/9784814401871/?utm_mediun=referral",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 DevOpsとソフトウェアデリバリの基礎",
+      "published": "14 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec097a71dd3b00ef17d7935a1f162ebb",
+      "title": "Choosing the technology and architecture for pixiv's automatic translation system - pixiv inside",
+      "link": "https://inside.pixiv.blog/2026/11/05/160000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Choosing the technology and architecture for pixiv's automatic translation system",
+      "published": "14 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "367373c4dbf8513749baf933912b11f5",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news...",
+      "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "41d0464371e9ffcd7f238b718608cabf",
+      "title": "Ggml v1.0.0",
+      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 214 # Comments: ...",
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9c3aab9d47de683db10bc5ee3c36fe6",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.co...",
+      "published": "Sat, 14 Nov 2026 02:21:36 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f860c373c1319b29fc5859caed36e239",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news....",
+      "published": "Sat, 14 Nov 2026 02:02:42 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3a3b5514ad2b04dd3e7356d08243609",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "summary": "Article URL: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5 Comments URL: https://news.ycombinator.com/item?id=50492601 Points: 208...",
+      "published": "Sat, 14 Nov 2026 01:30:01 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d8d8787fecdb52bbb1423941a351b65b",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+      "summary": "Article URL: https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html Comments URL: https://news.ycombinator.c...",
+      "published": "Sat, 14 Nov 2026 01:10:22 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "233c10793860b90990ff28b601fef1bd",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item...",
+      "published": "Sat, 14 Nov 2026 00:52:29 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0513a3e99e04f3b0999867a78c6575a",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 111 # Comments: 25",
+      "published": "Sat, 14 Nov 2026 00:06:04 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e1e901015724875756f9ae5bb1fd1159",
+      "title": "What happened to 3Com?",
+      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 124 # Comments: 63",
+      "published": "Fri, 13 Nov 2026 23:48:59 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "efaddb66212cc958862336e661da1e4f",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "link": "https://grounds.top/",
+      "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 130 # Comments: 18",
+      "published": "Fri, 13 Nov 2026 23:17:39 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "67687f2be27bb5a8bcc7ecf39f30eb80",
+      "title": "Terminal borders that don't cost a cell",
+      "link": "https://www.joshka.net/cell-borders/",
+      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 216 # Comments: 88",
+      "published": "Fri, 13 Nov 2026 23:06:40 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "240a7fa7f25262155323cc9609e0646b",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 123 # Comments:...",
+      "published": "Fri, 13 Nov 2026 19:24:47 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "320c93d5ca8ae5d55c01b7f2d272318a",
+      "title": "Apache Airflow UI available in Amazon MWAA Serverless",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/airflow-ui-for-mwaa-serverless/",
+      "summary": "Amazon MWAA Serverless provides the native Apache Airflow UI for your workflows. You can browse workflows, inspect workflow runs and task instances, r...",
+      "published": "Thu, 12 Nov 2026 18:00:00 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "36e2a7ef0794e9651724c01afa70526a",
+      "title": "【速報】マネックス証券、マイナカード画像漏えいか",
+      "link": "https://www.47news.jp/15227159.html",
+      "summary": "マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。",
+      "published": "2026-11-13T15:36:10Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9d5274284038f3a79ce4e2833deafde5",
+      "title": "Microsoft 365、接続障害からおおむね回復 後日詳細を報告へ",
+      "link": "https://www.watch.impress.co.jp/docs/news/2156470.html",
+      "summary": "",
+      "published": "2026-11-14T03:04:03Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "76f9d72e46560ced2c77b1b851fdbd52",
+      "title": "ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到",
+      "link": "https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/",
+      "summary": "人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題の調査や不具合の修正に利用されたとのこと。生成AIの使用を巡...",
+      "published": "2026-11-13T10:30:24Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d3b083d09e04b08453574a5f73569d47",
+      "title": "「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない - Qiita",
+      "link": "https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77",
+      "summary": "はじめに 「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」 こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。 以前、「\"工数が足らない\" からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はその前段、見積もりをどう出すか...",
+      "published": "2026-11-13T14:42:54Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5677055f02ccb2c06015bddf3e958248",
+      "title": "知人の「録画映像」が会議に現れる 北朝鮮の暗号資産窃取「FaceStealer」、FBIが盗撮動画900本超を押収 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/11/13/5722.html",
+      "summary": "米FBIと米司法省は米国時間11月12日、北朝鮮のハッカーが使っていたソーシャルエンジニアリング攻撃「FaceStealer」のクラウド基盤を押収したと発表しました。FBIは、被害者のウェブカメラを盗み撮りした動画900本以上も押収しています。過去18か月で盗まれた暗号資産は4億ドルを超えます。FB...",
+      "published": "2026-11-13T08:27:37Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6b216f3d16125f8ab2a017a0e25e07e",
+      "title": "Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/a2ui-1.0",
+      "summary": "Google⁠⁠、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 GoogleのA2UIチームは2026年11月11日、AIエージェントがフォームやグラフなどの対話型UIを返すためのオープンプロトコル「A2UI」の初の安定版となるバージョン1.0を公開した。利用者の依頼に応じて...",
+      "published": "2026-11-13T00:18:33Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6d76fde6a2820fe0a376f57253896792",
+      "title": "AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita",
+      "link": "https://qiita.com/yama3133/items/11a360fc97ed3ec09742",
+      "summary": "はじめに ゼロトラストは「社内ネットワークの中にいるから信頼する」という前提を置かず、アクセスのたびに身元と権限を確認する考え方です。 この記事では、AWSでどのサービスのどのリソースを作れば形になるのかに絞って整理します。構成を5つのパートに分け、それぞれで作るリソースとAWS CLIのコマンドを...",
+      "published": "2026-11-13T22:56:39Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f76189be1eacadc04ed519961f68f73",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "summary": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise server...",
+      "published": "2026-11-13T15:32:13Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "63f59f34d8c792df976008c1ba7a2fc1",
+      "title": "「GeForce RTX 5090」搭載グラボに50万円超の“幅” そのワケは？",
+      "link": "https://www.itmedia.co.jp/pcuser/articles/2611/14/news013.html",
+      "summary": "「GeForce RTX 5090」搭載グラボに50万円超の“幅” そのワケは？：古田雄介の週末アキバ速報（1/2 ページ） ここ数日、何かと話題になっているNVIDIAだが、秋葉原ではGeForce 50シリーズの最上位である「GeForce RTX 5090」を搭載するグラフィックスカードの価格...",
+      "published": "2026-11-13T21:16:23Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9a6717ebd2da5ffa9bd6b15aaae92e0b",
+      "title": "ng: Neovim のためのシンプルな GUI",
+      "link": "https://zenn.dev/shougo/articles/ng-nvim-simple-gui",
+      "summary": "はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるよう...",
+      "published": "2026-11-13T11:38:14Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c2e6e4adeb880e88ddcce9c8a4dc4b81",
+      "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
+      "link": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+      "summary": "「Home Assistant」は異なるメーカーのIoTデバイスを一元管理して、スマートホームを構築できるオープンソースサービスであり、非営利団体のOpen Home Foundationによって運営されています。そんなOpen Home Foundationの商業部門であるNabu Casaが、非...",
+      "published": "2026-11-13T13:02:09Z",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ac1dc3c04a28aa8ebe54cbc4f2148d0",
+      "title": "Claude Enterprise に親組織用の管理画面が追加されたので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/claude-enterprise-team-admin-page/",
+      "summary": "Claude Enterprise の親組織管理機能が新しく追加されました。これまで各組織の設定に分散していたドメイン認証や SSO、API キー管理などを、親組織の管理画面でまとめて一元管理できるようになったので、その使い方を詳しく紹介します。",
+      "published": "Sat, 14 Nov 2026 08:02:55 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2e0a901e9f1ea44d91c22bf9928ffe0e",
+      "title": "NVIDIAの時系列モデルKumo-TS（旧NV-Tesseract）v1.0.1の異常の説明機能と欠損対応予測を試してみた",
+      "link": "https://dev.classmethod.jp/articles/nvidia-kumo-ts-explain-missingness/",
+      "summary": "NVIDIAの時系列基盤モデルのライブラリ「Kumo-TS」v1.0.1で追加された異常検知の説明機能と欠損対応の予測を、Mac上で実際に動かして検証しました。",
+      "published": "Sat, 14 Nov 2026 07:04:25 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "41289b3feff8294c55a3aa6826644f36",
+      "title": "Amazon EC2 Capacity Manager でオンデマンドインスタンスを起動できそうかを事前にスコアで確かめられるようになりました",
+      "link": "https://dev.classmethod.jp/articles/ec2-capacity-manager-supportability-checks/",
+      "summary": "Amazon EC2 Capacity Manager で、オンデマンドインスタンスを起動できるかを起動前にスコアで確かめられるようになりました。",
+      "published": "Sat, 14 Nov 2026 06:08:57 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5a79143007cfd2b739d863b3e4d6a334",
+      "title": "Gemini Decision 1 に書類画像を見せて OCR の誤りを探させ、Jev・Decisions API と比べてみた",
+      "link": "https://dev.classmethod.jp/articles/gemini-decision-1-ocr-verification/",
+      "summary": "書類5件の画像と OCR の値を Gemini Decision 1・Jev・Decisions API に渡し、誤りの検出結果を比較しました。Gemini Decision 1 は閾値 0.8 で20件中19件の誤りを検出した一方、正しい値61件中24件を誤検知し、閾値によって結果が大きく変わりま...",
+      "published": "Sat, 14 Nov 2026 04:32:28 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b12c723cefcab2ac6d28333d80f47e0",
+      "title": "Gemini Decision 1 で書類の値を突合し、Jev・Decisions API と比べてみた",
+      "link": "https://dev.classmethod.jp/articles/gemini-decision-1-cross-match/",
+      "summary": "decision model の Gemini Decision 1 で書類の値107件を突合し、Jev・Decisions API と正答数や確率の散らばりを比較しました。意味の一致の正答数は Jev を下回りましたが、確率がちょうど0か1になるケースはなく、中間の確率も出ることを確認しました。",
+      "published": "Sat, 14 Nov 2026 01:26:19 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d931dbbb2d75e2b4d16b596f0d80c1e2",
+      "title": "Google の decision model「Gemini Decision 1」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/gemini-decision-1-multimodal/",
+      "summary": "Gemini Decision 1 にテキスト・画像・PDF・音声・動画を渡し、判定結果や入力トークン数、応答時間を検証しました。音声では期限付きの依頼を1件見落としましたが、画像は low でも全問正解し、200問をまとめて聞いても1秒以内に応答しました。",
+      "published": "Sat, 14 Nov 2026 00:55:26 GMT",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "cf2c3eec77480876979df49ab4d4eaf3",
+      "title": "Xfer Records、FM-1をSerum直系のウェーブテーブル・シンセに変貌させるファームウェア、「Shrub」をリリース…… ソフト・シンセとして機能するエディター・プラグインも公開",
+      "link": "https://icon.jp/archives/28415",
+      "summary": "Xfer Recordsが、Serumを元に開発されたFM-1用のファームウェア、「Shrub（シュラブ）」を公開。ソフトウェア・シンセサイザーとして機能するエディター／ライブラリアン・プラグインもリリースされました。 […]",
+      "published": "Sat, 14 Nov 2026 01:00:00 +0000",
+      "fetched_at": "2026-11-14T08:22:26.671580+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-14T00:34:38.765297+00:00"
+  "updated_at": "2026-11-14T08:22:26.671580+00:00"
 }

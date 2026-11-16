@@ -9,7 +9,187 @@
       "fetched_at": "2026-11-16T04:01:58.026065+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "afded9890fc9566a5b3dfea69fc7e2c5",
+      "title": "AI Product Management at Spotify: A View From Three Angles | Spotify Engineering",
+      "link": "https://engineering.atspotify.com/2026/11/ai-product-management-at-spotify-a-view-from-three-angles",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AI Product Management at Spotify: A View From Three Angles | Spotify Engineering",
+      "published": "16 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e3a1c28077f317b273b54b324b8a4f44",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "summary": "https://news.ycombinator.com/item?id=50524260 Comments URL: https://news.ycombinator.com/item?id=50524165 Points: 128 # Comments: 50",
+      "published": "Mon, 16 Nov 2026 22:14:38 +0000",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f85fb76e4d1bcc3e4c9d661850de733",
+      "title": "Rust changed me as a developer",
+      "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "summary": "Article URL: https://blog.startifact.com/posts/how-rust-changed-me/ Comments URL: https://news.ycombinator.com/item?id=50522563 Points: 152 # Comments...",
+      "published": "Mon, 16 Nov 2026 20:16:50 +0000",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1418436dd7135b4bbd6668daaee498b2",
+      "title": "Squircles",
+      "link": "https://linebender.org/wiki/curves/squircle/",
+      "summary": "Article URL: https://linebender.org/wiki/curves/squircle/ Comments URL: https://news.ycombinator.com/item?id=50515151 Points: 108 # Comments: 34",
+      "published": "Mon, 16 Nov 2026 07:55:10 +0000",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4492c80292aa854ae460a0119cdf2650",
+      "title": "Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/",
+      "summary": "Amazon S3 Vectors now supports hybrid search that combines vector similarity search with full-text search within a single query. By combining semantic...",
+      "published": "Mon, 16 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "97a932cb31e7df2361d22489d453eff7",
+      "title": "AWS KMS now supports key sharing with AWS Resource Access Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/",
+      "summary": "AWS Key Management Service (KMS) now integrates with AWS Resource Access Manager (RAM), giving you a simpler and more consistent way to share KMS keys...",
+      "published": "Mon, 16 Nov 2026 18:00:00 GMT",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5052652bc001c2535425131a29d149b5",
+      "title": "AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/",
+      "summary": "AWS Secrets Manager now supports managed external secrets for Auth0, Okta, and Palo Alto Networks. Long-lived credentials that are not rotated increas...",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "246d8975036d2d31bff0df74876d2706",
+      "title": "IAM Identity Center now supports VPC endpoints and network access controls",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/",
+      "summary": "AWS IAM Identity Center now supports interface VPC endpoints powered by AWS PrivateLink and network access controls, enabling you to keep IAM Identity...",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e38b2ecf52e5b1a78f5f4dcd249d3f50",
+      "title": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/",
+      "summary": "Amazon Virtual Private Cloud (VPC) now supports Networking Flexible Cost Allocation (FCA), which splits shared networking costs by the resources that ...",
+      "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "25987f3d25ffe4475f0de6ebf14dfd5f",
+      "title": "スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog",
+      "link": "https://piyolog.hatenadiary.jp/entry/2026/11/17/030254",
+      "summary": "2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は取材に対して認め、利用者にメールで通知しています。ここでは関連する情報をまとめます。 運用系システムへの不正アクセス 理研が神戸市の施設で運用する富岳の運用系システムが、外部の...",
+      "published": "2026-11-16T21:42:53Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "18435ceddecfdeb854b9b4dbd3f3720b",
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "summary": "米Microsoftは11月15日（現地時間）、12日に発生したMicrosoft 365の大規模障害について、暫定的なインシデントレポートを公表した。7月に適用した修正に潜んでいた不具合が、サーバの負荷増加と処理能力の低下によって表面化し、障害が世界規模に連鎖したという。 Copilot、AIエー...",
+      "published": "2026-11-16T22:24:29Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "256f6f0465396eac396cdb0a367b7938",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "summary": "米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、...",
+      "published": "2026-11-16T14:22:24Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26a433d6dc7b9f62d4b9fc209197e4f0",
+      "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+      "link": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+      "summary": "神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラウザ上にインメモリのファイルシステム、プロセス、シグナル、パ...",
+      "published": "2026-11-16T19:25:09Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0cb73dd9bbdf8381e5276af309debcc",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "link": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるMicroVMを実現する「Hyperlight-Unikraf...",
+      "published": "2026-11-16T19:05:37Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c676306796d90eeab1926e35c43d07a4",
+      "title": "スパコン「富岳」不正アクセス受け停止 利用者情報流出の恐れ | 毎日新聞",
+      "link": "https://mainichi.jp/articles/20261116/k00/00m/040/139000c",
+      "summary": "理化学研究所計算科学研究センターのスーパーコンピューター「富岳」＝神戸市中央区で2020年6月16日、望月亮一撮影 理化学研究所が運用するスーパーコンピューター「富岳」のシステムが、今月12日に外部の第三者から不正アクセスを受けたことが判明した。富岳は企業や大学が研究開発に活用しており、利用者約42...",
+      "published": "2026-11-16T13:51:52Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "159760c1d82453116878347d022a8866",
+      "title": "Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/11/16/5734.html",
+      "summary": "Leoは40基搭載のVulcan LV-01打ち上げが10分で異常、衛星軌道投入できず。原因調査と再開へ。今後はULA以外にもAriane 6等で打ち上げを分散、最終的に数千基規模の衛星網を目指す。",
+      "published": "2026-11-16T07:48:08Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6b8d16b41aced037566901240b240490",
+      "title": "Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
+      "summary": "ははーん、\"遊べるプレーヤー\"だなこれ！ 「シンセ作りやめようと思ってる」と語って間もないうちに、ユニークなギターアンプ兼スピーカーを発表した、Teenage Engineering（TE）。音ネタから完全に離れる感じはなさそうですね。 その傾向をさらに裏付けるようなリーク情報が出てきました。TEの...",
+      "published": "2026-11-16T14:53:47Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bea85b5ab673eafe692bce4a770d6605",
+      "title": "QA生産性を爆上げさせるためのQA AIプラットフォーム構築",
+      "link": "https://zenn.dev/gatechnologies/articles/8bdea59269eb10",
+      "summary": "図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初...",
+      "published": "2026-11-16T15:11:21Z",
+      "fetched_at": "2026-11-16T23:55:19.594496+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-16T22:37:22.521809+00:00"
+  "updated_at": "2026-11-16T23:55:19.594496+00:00"
 }

@@ -2879,7 +2879,97 @@
       "fetched_at": "2026-11-18T22:47:17.882578+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "06e741ec574a5c8993ec946c70649c9a",
+      "title": "A Primer on Fourier Series (2025)",
+      "link": "https://arxiv.org/abs/2510.18203",
+      "summary": "Article URL: https://arxiv.org/abs/2510.18203 Comments URL: https://news.ycombinator.com/item?id=50546922 Points: 102 # Comments: 27",
+      "published": "Wed, 18 Nov 2026 14:44:33 +0000",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "650d4027ef393f8b31b65efad9b6961d",
+      "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+      "summary": "AWS Glue ETL now offers the Apache Spark Optimization Agent, which analyzes completed Spark job runs and delivers cost and performance optimization re...",
+      "published": "Wed, 18 Nov 2026 20:00:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "64ba85371e29b036c8d43dc39854a4a3",
+      "title": "Amazon CloudFront standard logging now supports CMCD and additional log fields",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields",
+      "summary": "Amazon CloudFront standard logging now supports additional access log fields that were previously available only in CloudFront real-time logs. You can...",
+      "published": "Wed, 18 Nov 2026 19:28:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "34886a83848a74fdc11c072fc0fc3ce1",
+      "title": "AWS IAM account access manager is now even easier to deploy and use",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-account-access-manager-easier/",
+      "summary": "Deploying and using AWS Identity and Access Management (IAM) account access manager is now even easier: you can use AWS managed policies to enable and...",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b9d7fb0a42873413b4ab06a9d1e5fe5c",
+      "title": "Amazon S3 Replication adds exclusions and Multi-Region key resolution",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-replication-exclusions-multi-region-key-resolution/",
+      "summary": "You can now replicate data in Amazon S3 buckets with fewer replication rules using two new S3 Replication capabilities, exclusions and Multi-Region ke...",
+      "published": "Wed, 18 Nov 2026 07:00:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4dcfed269b5880189d66b846cd8a61b9",
+      "title": "Amazon SageMaker HyperPod now supports higher pod density on EKS-orchestrated clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-higher-pod-density/",
+      "summary": "Amazon SageMaker HyperPod now supports higher pod density per node on EKS-orchestrated clusters, allowing you to get more out of every instance. This ...",
+      "published": "Wed, 18 Nov 2026 01:45:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8020b3bce79d4b083417a6df9348e428",
+      "title": "Amazon EBS now supports associating additional KMS keys with snapshots",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/",
+      "summary": "Amazon Elastic Block Store (EBS) now supports associating additional AWS Key Management Service (KMS) keys with EBS snapshots. This new capability ena...",
+      "published": "Mon, 16 Nov 2026 22:00:00 GMT",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "408270eb65368c4a5fd0ccabf201f101",
+      "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+      "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+      "summary": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによ...",
+      "published": "2026-11-18T14:07:11Z",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7016310f89ff3fe72d17add9ec7f7773",
+      "title": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
+      "summary": "アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…",
+      "published": "2026-11-18T12:57:29Z",
+      "fetched_at": "2026-11-18T23:11:41.064283+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-18T22:47:17.882578+00:00"
+  "updated_at": "2026-11-18T23:11:41.064283+00:00"
 }

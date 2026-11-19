@@ -1999,7 +1999,157 @@
       "fetched_at": "2026-11-19T22:50:09.728266+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "31ac0701c30f29246b464a883982acc7",
+      "title": "Amazon CloudFront adds IP based routing and connection logs to SaaS Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging",
+      "summary": "Amazon CloudFront now allows web development and SaaS platforms to serve different tiers of customers on the same wildcard domain by using IP addresse...",
+      "published": "Thu, 19 Nov 2026 20:26:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "4de87be7ceee6dcc35cc1d7d729f51f5",
+      "title": "Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants",
+      "summary": "Amazon CloudFront now lets web development platforms and SaaS providers move a customer's domain to their platform in a single request with no downtim...",
+      "published": "Thu, 19 Nov 2026 20:22:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "12c877988adb5a452d1fccafaf579cb1",
+      "title": "Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/",
+      "summary": "Amazon Inspector Code Security now supports GitHub Enterprise Server (GHES) integration and private network connectivity for GHES and GitLab Self-Mana...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "6489d18e6593e03d119521b00e10ab44",
+      "title": "Amazon S3 Tables now support promoting replicas to writable tables",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-replication-writable-tables/",
+      "summary": "Amazon S3 Tables replication now lets you make a read-only replica of your Apache Iceberg table a standalone, writable table with a single API call. S...",
+      "published": "Thu, 19 Nov 2026 06:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8fa8d2eed15314a3d85266e3f7ffece2",
+      "title": "Amazon OpenSearch Memory is now generally available",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/",
+      "summary": "Today, AWS announced the general availability of Amazon OpenSearch Memory, a new serverless capability in Amazon OpenSearch Service for adding persist...",
+      "published": "Wed, 18 Nov 2026 21:09:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "650d4027ef393f8b31b65efad9b6961d",
+      "title": "Introducing the Apache Spark Optimization Agent for AWS Glue ETL",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/",
+      "summary": "AWS Glue ETL now offers the Apache Spark Optimization Agent, which analyzes completed Spark job runs and delivers cost and performance optimization re...",
+      "published": "Wed, 18 Nov 2026 20:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f76dfb84fb5556cc01c31f3e7ae0dc05",
+      "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
+      "summary": "Amazon CloudFront (CF) now supports WebSocket and gRPC traffic to application origins in AWS regions, with mutual TLS authentication between CF and th...",
+      "published": "Wed, 18 Nov 2026 18:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e01f7d9f751be64c6373c59a95a1bd6b",
+      "title": "Amazon Aurora DSQL now supports audit logging",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-dsql-audit-logging/",
+      "summary": "Amazon Aurora DSQL now supports database-internal audit logging, a fully managed capability that captures SQL statements executed on your cluster. Pre...",
+      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "45ad5a12aaf437ae8cc3fdd8e7992509",
+      "title": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/",
+      "summary": "AWS Elemental Inference now lets you customize how it analyzes your live video in two ways. You can create functions that ask custom questions of the ...",
+      "published": "Tue, 17 Nov 2026 20:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "44d9912382600caeecd31dba480924cd",
+      "title": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries",
+      "summary": "Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the...",
+      "published": "Tue, 17 Nov 2026 19:17:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "846dfd111bcd441268e5939361caa6f5",
+      "title": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/",
+      "summary": "Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data pre...",
+      "published": "Tue, 17 Nov 2026 19:00:00 GMT",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "9ed36cf21c51a1491042598a4310083a",
+      "title": "約2,500万人のデータで「Firefox」の“指紋”対策を強化 ～Mozillaが研究成果を発表／一意に識別されるユーザーの割合を75％から46％に削減",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2157865.html",
+      "summary": "",
+      "published": "2026-11-19T09:37:47Z",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a175783745fe160ccc57f48b0624cd78",
+      "title": "[石野純也の「スマホとお金」] 最小構成9万4600円の「AQUOS sense11」、メモリー増量や薄型化でミッドハイを狙うシャープの戦略",
+      "link": "https://k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
+      "summary": "",
+      "published": "2026-11-19T11:57:46Z",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "99e7979762d1c2501bddfadf460386d0",
+      "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
+      "link": "https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
+      "summary": "Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的...",
+      "published": "2026-11-19T13:44:45Z",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4f5f838298c32637e5f6dcd7b36bba7",
+      "title": "Korg’s phase8 acoustic synthesizer adds companion app, updated firmware",
+      "link": "https://cdm.link/korgs-phase8-update-companion/",
+      "summary": "Korg's phase8 remains an acoustic, resonating fascination, just at a time when everything seems lost in a sea of software. The companion app we saw fi...",
+      "published": "Thu, 19 Nov 2026 21:45:37 +0000",
+      "fetched_at": "2026-11-19T23:08:16.899756+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-19T22:50:09.728266+00:00"
+  "updated_at": "2026-11-19T23:08:16.899756+00:00"
 }

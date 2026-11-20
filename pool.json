@@ -2109,7 +2109,137 @@
       "fetched_at": "2026-11-20T22:27:03.248204+00:00",
       "feed_name": "MusicTech",
       "category": "music"
+    },
+    {
+      "entry_id": "02375be1122ec160f7b66e59552d08ed",
+      "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
+      "summary": "Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and ...",
+      "published": "Fri, 20 Nov 2026 20:30:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b541c3b50e6f0e7ddd404c07d984a8f5",
+      "title": "Amazon MSK Standard Brokers adds support for Apache Kafka version 4.2",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-msk-standard-version-42/",
+      "summary": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) now supports Apache Kafka version 4.2 on Standard brokers. A key highlight of this release is Q...",
+      "published": "Fri, 20 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "56376c634e2fbc60d65e92809f66b54c",
+      "title": "AWS Lambda adds support for Node.js 26",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-nodejs-26/",
+      "summary": "AWS Lambda now supports creating serverless applications using Node.js 26, for both Lambda Web Functions and Lambda Event Functions. Developers can us...",
+      "published": "Fri, 20 Nov 2026 15:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "eaab9ca71419efacc719b5da986f00cc",
+      "title": "Amazon RDS for Db2 now supports new Canadian time zones",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-new-canadian-time",
+      "summary": "​​Amazon RDS for Db2 now supports four new time zones, America/Vancouver, America/Edmonton, America/Inuvik, and America/Winnipeg, that reflect the upd...",
+      "published": "Fri, 20 Nov 2026 08:49:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ff600ea4766efcc42953d510c5f5556",
+      "title": "Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/",
+      "summary": "Amazon Relational Database Service (Amazon RDS) Custom for SQL Server now supports the latest Cumulative Updates (CU) and General Distribution Release...",
+      "published": "Fri, 20 Nov 2026 08:30:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "90b174aa4cd6f952748996c6ce266c90",
+      "title": "AWS Agent Registry now supports WebBotAuth bot registration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/",
+      "summary": "AWS Agent Registry now supports registering WebBotAuth (WBA) bots as a new record type, making it easier to verify legitimate bot traffic through a st...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f2594aedc749d4a3ec8a8acbf835223b",
+      "title": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/",
+      "summary": "AWS Lambda MicroVMs now supports customer managed keys (CMK) in AWS Key Management Service (KMS) for data encryption at rest. CMK gives you full contr...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b04e8e32956f4b8dc1752acaaf13683a",
+      "title": "AWS Secrets Store CSI Driver Provider now supports AssumeRole for cross-account secret access",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-store-csi-driver-assumerole/",
+      "summary": "The AWS Secrets Store CSI Driver Provider now supports AssumeRole (role-chaining), allowing Kubernetes pods to access secrets and parameters across AW...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d2cffd6a8bbc06c57a58987f85b339f",
+      "title": "AWS Agent Registry now offers naming and public discovery capabilities",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/",
+      "summary": "AWS Agent Registry now offers public naming capabilities, making it easy to attach verified domain names to your agents and AI tools. Developers and n...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "64ae412e9c7fe03fc59c9b6e6ed0324b",
+      "title": "Amazon Route 53 now supports health checks for private endpoints",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/",
+      "summary": "Amazon Route 53 now offers Private Endpoint Health Checks, enabling business-critical workloads that never touch the public internet, such as internal...",
+      "published": "Thu, 19 Nov 2026 19:50:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "e32eb3cece5756112c9ca6773a9d51da",
+      "title": "Amazon Aurora DSQL now supports PL/pgSQL functions and procedures",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-plpgsql-support/",
+      "summary": "Amazon Aurora DSQL now supports PL/pgSQL, enabling developers to create and execute stored functions and procedures directly in the database. Amazon A...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5bd1dfd93bdaa0d313e22d466822f5f",
+      "title": "AWS Transform automates source and migration target actions to accelerate cutover",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/",
+      "summary": "AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Tr...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a69b693b2745d7c84232f226ba717f2f",
+      "title": "「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可",
+      "link": "https://forest.watch.impress.co.jp/docs/news/2158261.html",
+      "summary": "",
+      "published": "2026-11-20T11:11:54Z",
+      "fetched_at": "2026-11-20T23:15:36.104829+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-20T22:27:03.248204+00:00"
+  "updated_at": "2026-11-20T23:15:36.104829+00:00"
 }

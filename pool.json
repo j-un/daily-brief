@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "70fbaf1445b7d0ca0f33e312bbe55ed6",
-      "title": "Suno Bridge is a new way to sync up your AI creation with your production projects",
-      "link": "https://musictech.com/news/music/suno-ai-bridge/",
-      "summary": "Currently, Suno Bridge is in beta and only works with Ableton Live 12, specifically on Mac. Suno will expand its compatibility in future. The post Sun...",
-      "published": "Mon, 16 Nov 2026 14:35:25 +0000",
-      "fetched_at": "2026-11-18T22:47:17.882578+00:00",
-      "feed_name": "MusicTech",
-      "category": "music"
-    },
-    {
       "entry_id": "a8fafaadd322443541f9cfba5f57ad3f",
       "title": "『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
       "link": "https://joisino.hatenablog.com/entry/searchrecbook",
@@ -19,7 +9,557 @@
       "fetched_at": "2026-11-19T14:58:10.659721+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "820495d2e714f407eb66159cf9f25fc0",
+      "title": "Building an Agent Harness for OTel Instrumentation with GenAI Semantic Conventions and Weaver | OpenTelemetry",
+      "link": "https://opentelemetry.io/blog/2026/agent-harness-genai-instrumentation/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Building an Agent Harness for OTel Instrumentation with GenAI Semantic Conventions and Weaver",
+      "published": "20 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e21bc7292362a8249cab633c3837f06a",
+      "title": "How and when to deliver AI at a fixed cost with AWS | AWS Public Sector Blog",
+      "link": "https://aws.amazon.com/jp/blogs/publicsector/how-and-when-to-deliver-ai-at-a-fixed-cost-with-aws/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 How and when to deliver AI at a fixed cost with AWS | Amazon Web Services",
+      "published": "20 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4fe89f3437bed2f1de75309b329fb7f2",
+      "title": "Boosting Amazon RDS for PostgreSQL with AWS Graviton5: Benchmarks | AWS Database Blog",
+      "link": "https://aws.amazon.com/jp/blogs/database/boosting-amazon-rds-with-aws-graviton5-benchmarks/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Boosting Amazon RDS for PostgreSQL with AWS Graviton5: Benchmarks | Amazon Web Services",
+      "published": "20 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c417e71ada8a212c7ee838e735be930",
+      "title": "Improve RDS Proxy multiplexing for PostgreSQL, Part 1: Common causes | AWS Database Blog",
+      "link": "https://aws.amazon.com/jp/blogs/database/improve-rds-proxy-multiplexing-for-postgresql-part-1-common-causes/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Improve RDS Proxy multiplexing for PostgreSQL, Part 1: Common causes | Amazon Web Services",
+      "published": "19 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f36af518cf4217c1c19b5ee16a9d9e9",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "link": "https://git-aarvin.github.io/mei/",
+      "summary": "Article URL: https://git-aarvin.github.io/mei/ Comments URL: https://news.ycombinator.com/item?id=50568130 Points: 293 # Comments: 168",
+      "published": "Thu, 19 Nov 2026 23:35:35 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ff23dcc07064596c65d04d84091377e",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "summary": "Article URL: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87 Comments URL: https://news.ycom...",
+      "published": "Thu, 19 Nov 2026 23:32:11 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7738d19f5befa47881b20295aa3552fa",
+      "title": "Synology Security Advisory",
+      "link": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 12...",
+      "published": "Thu, 19 Nov 2026 22:13:40 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd8ad04eeb6fd0003dd4275e9b5ca4d2",
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "link": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "summary": "Article URL: https://restofworld.org/2026/ai-jobs-skills-gig-work/ Comments URL: https://news.ycombinator.com/item?id=50562500 Points: 127 # Comments:...",
+      "published": "Thu, 19 Nov 2026 16:45:50 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9f0e5d677846bd14a1ad3c20b60064e5",
+      "title": "PostgreSQL 19 Released",
+      "link": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+      "summary": "Article URL: https://www.postgresql.org/about/news/postgresql-19-released-3449/ Comments URL: https://news.ycombinator.com/item?id=50560357 Points: 10...",
+      "published": "Thu, 19 Nov 2026 14:11:37 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "355d35336818c28179445dad3a94cf3e",
+      "title": "株式会社 BTM 様がシステム調査エージェントを Amazon Bedrock AgentCore でリアーキテクチャするまで",
+      "link": "https://aws.amazon.com/jp/blogs/news/genai-case-study-btm2/",
+      "summary": "本ブログは株式会社 BTM 様と Amazon Web Services Japan 合同会社が共同で執筆いた […]",
+      "published": "Fri, 20 Nov 2026 02:37:40 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "6dea9b01f0fe53cfd41a39f1764cbebe",
+      "title": "AWS Lambda が Lambda Managed Instances 上のイベント関数向けに GPU インスタンスをサポートするようになりました",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/",
+      "summary": "AWS Lambda Managed Instances (LMI) 上で実行されるイベント関数向けに、EC2 […]",
+      "published": "Fri, 20 Nov 2026 02:14:59 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "fdad915ea849421b8e47405ab95116e6",
+      "title": "4 大陸、4 人の新たな AWS ヒーロー: 2026 年を締めくくる",
+      "link": "https://aws.amazon.com/jp/blogs/news/four-continents-four-new-aws-heroes-closing-out-2026/",
+      "summary": "AWS re:Invent が間近に迫る中、新たな AWS ヒーローの皆様をご紹介できることを大変光栄に思いま […]",
+      "published": "Fri, 20 Nov 2026 02:01:08 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc79fe302f6e1b72de1946153e69deda",
+      "title": "コーエーテクモゲームス「信長の野望 出陣」が API サーバーを AWS Graviton4 に移行し、大幅なコスト削減と応答性能の向上を実現",
+      "link": "https://aws.amazon.com/jp/blogs/news/koei-tecmo-nobunaga_shutsujin-amazon-ec2-graviton/",
+      "summary": "株式会社コーエーテクモゲームス（以下、コーエーテクモゲームス）は、数多くの人気タイトルを世に送り出してきたゲー […]",
+      "published": "Fri, 20 Nov 2026 01:03:54 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "03859e7607e4654bd2305f39ca51d940",
+      "title": "Amazon Cognito now supports client ID metadata documents",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/",
+      "summary": "Amazon Cognito now supports OAuth client ID metadata documents (CIMD). Amazon Cognito helps you implement secure sign-in and access control for users,...",
+      "published": "Thu, 19 Nov 2026 21:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "26c3f4c677ff9b77de204ff6134cdbb5",
+      "title": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/",
+      "summary": "Amazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, i...",
+      "published": "Thu, 19 Nov 2026 20:06:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "db7c90069bdfaa8876f8f462ecc3bb34",
+      "title": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/",
+      "summary": "Amazon WorkSpaces Applications now supports WebAuthn redirection, so users can sign in to websites and applications in their streaming session with a ...",
+      "published": "Thu, 19 Nov 2026 19:57:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b1b60f364770fe01e50c82c91258dfa",
+      "title": "AgentCore runtime instances now support Nested Virtualization",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-nested-virtualization/",
+      "summary": "Amazon Bedrock AgentCore runtime instances now support nested virtualization, so your agents can run their own virtual machines and emulators inside a...",
+      "published": "Thu, 19 Nov 2026 10:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "a7628d0d7a4b7937de966caa12fe3901",
+      "title": "AWS expands Amazon Connect Customer Competency to Software Partners",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-competency-software-partners/",
+      "summary": "AWS announces the expansion of the Amazon Connect Customer Competency to Software Partners. The AWS Specialization now recognizes both Services and So...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7f74cceaef47ced93ad551c420044d78",
+      "title": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/",
+      "summary": "Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners who...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e24475c917d108191f611da60c2663f",
+      "title": "AWS STS announces GetScopedCredentials to scope down permissions at runtime",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/",
+      "summary": "AWS Security Token Service (AWS STS) announces GetScopedCredentials, a new API that lets you scope down the permissions of existing temporary security...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "2652dba18c837e2617e3c403b8a69d1a",
+      "title": "AWS Continuum for Penetration Testing now supports pause and resume",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-pause-resume/",
+      "summary": "AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you pause a running penetration test job and resume it later from its las...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "63321c50bf12d19ddf4a1ad508f3070f",
+      "title": "AWS Site-to-Site VPN now supports post-quantum key exchanges",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/site-to-site-vpn-post-quantum/",
+      "summary": "AWS Site-to-Site VPN now supports post-quantum key exchanges to help improve the security posture of your VPN tunnels. This feature supports your migr...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "aebd28fc436c6197edffcf6ed58ad69a",
+      "title": "Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-thf-european-sovereign/",
+      "summary": "Second-generation AWS Outposts racks are now supported in the AWS European Sovereign Cloud (Germany) Region. Outposts racks extend AWS infrastructure,...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "8ea54cc76182174ede7fce6dd0c77852",
+      "title": "Amazon Bedrock AgentCore Identity adds private certificate authority support",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-identity-private-ca/",
+      "summary": "Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs) for custom OAuth 2.0 credential providers. If you already connect...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f21072d89e90ebe692badfc1ae2958fc",
+      "title": "Amazon Cognito now supports dynamic client registration",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/",
+      "summary": "Amazon Cognito now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control fo...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "547df6296815d7dbf04702d9f99b9022",
+      "title": "AWS Network Load Balancer now supports mutual TLS authentication",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/",
+      "summary": "AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who ne...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0884e88437d1e08f321e4ae2d8abddaa",
+      "title": "AWS Network Firewall launches explicit proxy functionality and NAT Gateway association",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/",
+      "summary": "You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network addres...",
+      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca373187cd0a6e453c9a57d011deb16d",
+      "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
+      "link": "https://blog.shibayu36.org/entry/2026/11/17/120000",
+      "summary": "最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claud...",
+      "published": "2026-11-18T03:37:49Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ec9bb532aed474d38049fb2d9834220",
+      "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
+      "summary": "",
+      "published": "2026-11-19T21:48:20Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "bbdbab92773792db61f203cb6e7604b5",
+      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+      "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」とい...",
+      "published": "2026-11-19T23:45:17Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b65ebe49ed0dbd9b853991354f025e72",
+      "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
+      "link": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
+      "summary": "生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいですね。 0. 前提 この記事の...",
+      "published": "2026-11-19T15:25:02Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e6b48599bc124fdad2dc338f3052a93",
+      "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+      "link": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+      "summary": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのよう...",
+      "published": "2026-11-19T23:35:14Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "10927033b401adfc9244cf5fcd15b821",
+      "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
+      "link": "https://gigazine.net/news/20261120-rdma-over-usb4-windows/",
+      "summary": "MicrosoftがWindows搭載PC同士をUSB4ケーブルで相互接続する機能「RDMA over USB4」を発表しました。PC同士を相互接続することで、メモリやGPU計算能力を共有して大型のAIモデルを高速実行することができます。 Introducing RDMA over USB4® on...",
+      "published": "2026-11-20T02:41:17Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "25dd3e674e5ead46f31345bc2be78ef4",
+      "title": "録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能",
+      "link": "https://gigazine.net/news/20261119-speech-cpp/",
+      "summary": "日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。 nyosegawa/sp...",
+      "published": "2026-11-19T14:07:49Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8056cf352e5aec8b921e018532d28e74",
+      "title": "【やじうまミニレビュー】 Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた",
+      "link": "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html",
+      "summary": "",
+      "published": "2026-11-19T21:43:09Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5c5c00cdcabedcce7f58d6f8a7f33d01",
+      "title": "Antigravityを他社AIから操作すると「垢BAN」？ 注意点をGoogle Cloud日本法人に聞いた",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
+      "summary": "「Google Antigravity」（以下、Antigravity）をサードパーティのAIツールを介して利用すると規約違反でアカウント停止の可能性――米Googleが定めたこのような規約が話題だ。一部のユーザーの間ではAntigravityをヘッドレスで起動できる「agy -p」コマンドなどの利...",
+      "published": "2026-11-19T23:28:20Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "06b52267468d04b4bdb81c98a8dbf4ce",
+      "title": "「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type",
+      "link": "https://type.jp/et/feature/32219/",
+      "summary": "NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソ...",
+      "published": "2026-11-20T04:31:59Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "815606c41c00a460e9c74f4ade497fed",
+      "title": "Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達",
+      "link": "https://joho-todai.com/impossible-os-new-operating-system-linux-windows/",
+      "summary": "南アフリカの開発者がCとアセンブリでOSをゼロから書いている。UEFIブートローダーからSMPカーネル、コンポジットデスクトップまで。Win32がネイティブAPI。初回リリース目標は2028年8月8日。 Impossible OS LinuxでもWindowsでもないWindowsの対抗馬を名乗るO...",
+      "published": "2026-11-19T11:29:27Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "573fe9a18f3bfbc58d68c3296ca397ae",
+      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "summary": "「焼肉きんぐ」「ゆず庵」「丸源ラーメン」などを運営する物語コーポレーション（愛知県豊橋市）が、グループの公式アプリ計11本すべてで、会員の氏名と電話番号の項目を廃止していたことが、ITmedia NEWSの取材で分かった。利用者の予約や来店時の手続きは、これまでと変わらないという。",
+      "published": "2026-11-19T11:45:02Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b0b6ce9287cb125489c16de893daa8b",
+      "title": "“積みCD民”に救世主！アイオー「CDレコプレーヤー」で録音、スマホへコピー、CD-Rバックアップを試す[Sponsored]",
+      "link": "https://av.watch.impress.co.jp/docs/topic/special/2150156.html",
+      "summary": "",
+      "published": "2026-11-19T23:34:17Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "91da535bfc63a9383d10fdf6bb46a5b3",
+      "title": "Introducing the new AWS WAF security analytics dashboard | Amazon Web Services",
+      "link": "https://aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard/",
+      "summary": "88% of agent pilots stall. Learn what the rest do differently",
+      "published": "2026-11-20T01:02:27Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a0ac19e64979117664919737fe28ec33",
+      "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び ウマ娘やグラブル、イープラスなど緊急メンテ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
+      "summary": "PHP開発元は11月18日、4週間ごとの定例リリースとして、「緊急」脆弱性への対処を含むセキュリティリリースを予告。19日午後11時ごろから修正版を順次公開し、更新を呼び掛けた。 「緊急」の脆弱性はサポート中の全バージョンに影響するが、悪用するには「既定でない設定か一般的でない構成が必要」だ。 一方...",
+      "published": "2026-11-20T00:22:39Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "35d7ed5b303e4d117d84938a2cdbfbb2",
+      "title": "Web制作者は要チェック！ 新しいユニバーサルセレクタ、アプリのインストールを要求できるinstall要素など、Chrome 158で追加された6つのCSSとUIの新機能",
+      "link": "https://coliss.com/articles/build-websites/operation/work/chrome-158-adds-6-new-css-feature.html",
+      "summary": "昨日アップデートされたChrome 158に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目は、新しいユニバーサルセレクタ「::highlight(*)」、Webアプリのインストールを要求できるinstall要素、開いているタブを別のデバイスに送信できる新機能など、...",
+      "published": "2026-11-19T01:05:58Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e19f05f318e996704cc9307a1d618752",
+      "title": "Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003276/",
+      "summary": "Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由 日本のPC市場を席巻した「PC-98」は、なぜ主役の座を降りたのか。WindowsやPC/AT互換機に押されたのは確かだが、実は生みの親自身もPC-98に見切りをつけていた。 かつて「国民機」と呼ばれ、日本のPC市場を席巻...",
+      "published": "2026-11-18T11:25:01Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "718304207adf99bce26a7a0a602d0fdc",
+      "title": "生成AIの普及によるWebサイトのトラフィック激減と当社での対策 | 社長ブログ | 才流",
+      "link": "https://sairu.co.jp/blog/110567/",
+      "summary": "ChatGPTやGoogleのAI Overviews（AIによる概要）が普及し、BtoBの買い手の情報収集行動が変わっている。たとえば、サービスサイトや営業資料に掲載された情報から比較表を作る作業を、AIに聞いて済ませる人が増えている。 当社のWebサイトの数字にも、その影響が出ている。 本記事で...",
+      "published": "2026-11-20T02:51:03Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3a250d72cb47897131ac276d6206c9f8",
+      "title": "Ruby2Shell (GHSA-34m4-m9fh-gqp5)",
+      "link": "https://verialabs.com/ruby2shell/",
+      "summary": "ruby2ßhell A one-byte heap overflow to remote code execution in Ruby's string case conversion. Reachable without authentication in the default configu...",
+      "published": "2026-11-19T07:31:46Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "7490e3f13e236f68d909d3142672f2cf",
+      "title": "phpAfterShell: From Interrupted Session Writes to Remote Code Execution | depthfirst",
+      "link": "https://depthfirst.com/research/phpaftershell",
+      "summary": "phpAfterShell: From Interrupted Session Writes to Remote Code Execution TL;DR: PHP can update a file-backed session while parsing an unauthenticated m...",
+      "published": "2026-11-19T23:08:38Z",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b8f22f5213d876bdd49976f83eb1300",
+      "title": "Aurora PostgreSQL のエクスプレス構成の VPC サポートと、クラスターの VPC 変更を試してみた",
+      "link": "https://dev.classmethod.jp/articles/aurora-move-cluster-to-different-vpc/",
+      "summary": "Aurora PostgreSQL のエクスプレス構成で、VPC 内にクラスターを作成できるようになりました。VPC 外のクラスターを VPC へ移動することも、VPC 間で移動することもできるようになりました。どちらの移動も、エンドポイントは同じまま、30秒前後で完了しました。",
+      "published": "Fri, 20 Nov 2026 04:33:06 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "13e17469e456df725cc6c6bb5f2b3d3d",
+      "title": "Transit Gateway と Gateway Load Balancer を network function attachment で直接つないでみた",
+      "link": "https://dev.classmethod.jp/articles/transit-gateway-gwlb-network-function-attachment/",
+      "summary": "AWS Transit Gateway の network function attachment（Gateway Load Balancer タイプ）で、GWLB エンドポイント用のサブネットとルートテーブルを作らずに通信をアプライアンスへ通せました。GENEVE パケットに付くコンテキストも確認...",
+      "published": "Fri, 20 Nov 2026 03:39:51 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a51fcd44d406695dd0132a232c0910f5",
+      "title": "AWS マネジメントコンソールで複数回スイッチロールする場合の許可する信頼ポリシーを教えてください",
+      "link": "https://dev.classmethod.jp/articles/tsnote-iam-multiple-switch-role-trust-policy-management-console/",
+      "summary": "AWS マネジメントコンソールで複数回スイッチロールする際、最終的なロールの信頼ポリシーでは元のIAMユーザーを許可する必要があります。",
+      "published": "Fri, 20 Nov 2026 02:31:02 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "18f700fee428da6c532d62f4c0abcea2",
+      "title": "2026年11月の PHP セキュリティリリースに対する AWS の告知を確認してみた",
+      "link": "https://dev.classmethod.jp/articles/php-security-release-nov2026-al2023-aws/",
+      "summary": "AWS Security Bulletin 2026-190-AWS をもとに、PHP の修正版（8.2.36 / 8.3.37 / 8.4.28 / 8.5.13）を Amazon Linux 2023 で適用する手順、AWS WAF の対応、AWS の構成別の対応をまとめました。",
+      "published": "Fri, 20 Nov 2026 02:21:51 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dfa14f550511ff70ed36a243002c5e8",
+      "title": "AWS Lambda の Event Function の 30 分タイムアウトを非同期呼び出しと Step Functions で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-event-function-30-minute-timeout/",
+      "summary": "AWS Lambda の on-demand Event Function に 1,800 秒のタイムアウトを設定し、非同期呼び出しと Step Functions Standard で実行しました。どちらも 15 分を超えて動作、1,800 秒まで動き続ける関数は 1,800 秒で打ち切られました...",
+      "published": "Fri, 20 Nov 2026 01:38:31 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "0298726f773365b176ebd651f89f8f02",
+      "title": "Slack 検索の返信がメインの行に出る問題を解決した話（GAS）",
+      "link": "https://dev.classmethod.jp/articles/Slack-search-permalink/",
+      "summary": "GASでSlackのメッセージ検索結果を出力する際に、スレッド内の返信をメインの投稿として出力してしまう問題が発生しました。その原因と、`permalink`を活用した解決策について紹介します。",
+      "published": "Fri, 20 Nov 2026 00:09:30 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "13170c4c0933bccb6d98341d4572e5f7",
+      "title": "Amazon Bedrock AgentCore Policyでユーザーごとにツールの呼び出しを制御できるか検証してみた",
+      "link": "https://dev.classmethod.jp/articles/agentcore-gateway-policy-per-user-access-control/",
+      "summary": "Amazon Bedrock AgentCore Policyを使い、Cognitoのグループとツールの引数に応じてAgentCore Gatewayのツール呼び出しを制御できるか検証しました。グループによるツールの制限や本人の情報だけを取得させる制御の検証を実施します。",
+      "published": "Fri, 20 Nov 2026 00:00:18 GMT",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ca3a86f2444c1b1324946887a68fddf",
+      "title": "Save big on headphones, MIDI controllers, audio interfaces and more in Thomann’s Black Friday sale",
+      "link": "https://musictech.com/news/gear/black-friday-deals-thomann/",
+      "summary": "No need to wait until November 27 to grab a bargain — the discounts are already coming in The post Save big on headphones, MIDI controllers, audio int...",
+      "published": "Thu, 19 Nov 2026 16:21:47 +0000",
+      "fetched_at": "2026-11-20T05:03:20.824990+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-19T23:08:16.899756+00:00"
+  "updated_at": "2026-11-20T05:03:20.824990+00:00"
 }

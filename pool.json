@@ -349,7 +349,497 @@
       "fetched_at": "2026-11-22T09:07:45.923549+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "80f7f1968fdda88b37533088a7580b3b",
+      "title": "GitHub - AikidoSec/safe-chain: Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Free to use, no tokens required. · GitHub",
+      "link": "https://github.com/AikidoSec/safe-chain",
+      "summary": "npmとPyPIに対応したマルウェア対策ツール。npmなどを使ってインストールする際にAikidoのスキャンを実行できる。この無料ツールはnpmとPyPIのみ対応。他エコシステム対応が必要なら有料版のAikido Device Protectionを検討してね",
+      "published": "22 Nov 2026 15:47 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2fdf51802f055f735054d47979746b3d",
+      "title": "GitHub - loov/goda: Go Dependency Analysis toolkit · GitHub",
+      "link": "https://github.com/loov/goda",
+      "summary": "Goの依存関係をGraphViz形式のグラフで出力できるツール。",
+      "published": "22 Nov 2026 15:40 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "731accee4a4e7f101563913ab25319b1",
+      "title": "AWS Continuum for code vulnerabilities が一般提供を開始しました | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-continuum-for-code-vulnerabilities-is-now-generally-available/",
+      "summary": "日本語記事きてた。",
+      "published": "22 Nov 2026 15:33 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1ba8a459f5f9b3298129236b76b03a55",
+      "title": "AWS セキュリティハンズオン連続開催のご案内 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/aws-security-handson-series/",
+      "summary": "気づくの遅れたけど、まだいくつかこれから開催のものがあります。",
+      "published": "22 Nov 2026 15:32 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b8e3dc899930c40f64fbae480201ee9",
+      "title": "Kiro for Students の対象大学を新たに 41 校追加しました | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/41-more-universities/",
+      "summary": "神戸大、東大、東北大が含まれることを確認。",
+      "published": "22 Nov 2026 15:31 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d6cd8251746dab0f05dae510018310de",
+      "title": "GitHub - MMFoundation/WallpaperMachine: Wallpaper Engine wallpapers on your Mac. A free, open-source app that plays scene, video and web wallpapers from the Steam Workshop. Apple silicon, macOS 15+. · GitHub",
+      "link": "https://github.com/MMFoundation/WallpaperMachine",
+      "summary": "Windows用の壁紙制御アプリWallpaper EngineをmacOSで再実装したオープンソースアプリ。Featureにpixivってあって、どうやらpixivでランキング上位の画像を壁紙に設定したりもできる模様。",
+      "published": "22 Nov 2026 15:25 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e4a982eb74919ad69a97c1d52be941de",
+      "title": "GitHub - alejandrobujan/tendedero: Capture it. Copy it. Hang it all out to dry. A tiny native macOS app that hangs every screenshot, and anything you copy, on a line at the top of your screen, and finds any word on it. · GitHub",
+      "link": "https://github.com/alejandrobujan/tendedero",
+      "summary": "macOSでスクリーンショットや録画した動画を画面上部に並べてすぐにピックできるツール。うまく説明できないけどこれ何気に便利だな。スクショを撮ってあれこれすることが多いなら便利そう。brew install --cask tendedero",
+      "published": "22 Nov 2026 15:11 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c7bb4c620124d4dd96bfb6eed5c8e45d",
+      "title": "GitHub - antonreshetov/image-optimizer: A tool for optimizing images and vector graphics. · GitHub",
+      "link": "https://github.com/antonreshetov/image-optimizer",
+      "summary": "jpeg, png, gif, svgに対応した画像サイズ圧縮ツール。内部実装はmozjpeg, pngquant, gifsicle, SVGOを利用している模様。macOS, Windows, Linux対応。GUI実装とCLIと両方用意されてる。macOSならbrew install --ca...",
+      "published": "22 Nov 2026 15:04 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7b444743741fd900007d98858308ce8a",
+      "title": "機械可読性ルール適合チェックツール「Harunobu」｜デジタル庁",
+      "link": "https://www.digital.go.jp/resources/machine-readability-rule/harunobu",
+      "summary": "Excel・CSV・TSVファイルの機械可読性を「行政データにおける機械可読性に関するルール」に照らして点検し、100点満点で採点する判定ツール。Python実装。",
+      "published": "22 Nov 2026 14:58 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b8cadcd3d6fbe4d97a780f95bd9223d4",
+      "title": "llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/llama.cpp-v1.0.0",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 llama.cpp 1.0.0リリース ——API・ABIの非互換変更をメジャーバージョンの更新で明示へ | gihyo.jp",
+      "published": "22 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c0513a3e99e04f3b0999867a78c6575a",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://unsloth.ai/docs/models/qwen3.8",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Qwen3.8 - How to Run Locally | Unsloth Documentation",
+      "published": "22 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4e42abc3283b7e555973d13242e0c90",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "link": "https://github.com/gulivan/worker755",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 130 # Comments: 33",
+      "published": "Sun, 22 Nov 2026 13:56:58 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86d5f034b271629922f55d88ccd46ee6",
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinat...",
+      "published": "Sun, 22 Nov 2026 08:57:34 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac980b887d5b0b6486fec29d5b7a439f",
+      "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+      "link": "https://github.com/EL4CTEO/fast-anything",
+      "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 126 # Comments: 94",
+      "published": "Sun, 22 Nov 2026 04:10:09 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7107832ddcb2de388ca53ce24fc7a4ed",
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 129 # Comment...",
+      "published": "Sun, 22 Nov 2026 02:10:02 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a6c4255afce1d1f679b1ef81e75d4ab5",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "link": "https://www.pandex.io",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 130 # Comments: 31",
+      "published": "Sat, 21 Nov 2026 20:47:41 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f4f7150b9d3465a1db84a7d9cdd53c3b",
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "link": "https://onurgumus.github.io/zero-csharp/index.html",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 167 # Comments: 11...",
+      "published": "Sat, 21 Nov 2026 15:39:09 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8153057b5ce4c240e64fece6594cbb62",
+      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+      "link": "https://simple-bench.com/",
+      "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 179 # Comments: 165",
+      "published": "Sat, 21 Nov 2026 13:16:12 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "307a74f6303b2b9280286acbeff6b558",
+      "title": "タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79936",
+      "summary": "音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。 「タワーレコ…",
+      "published": "2026-11-22T10:00:18Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b708becd7d6491e5d7bf16d8a3568dc3",
+      "title": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..",
+      "link": "https://anond.hatelabo.jp/20261122011458",
+      "summary": "なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてないというけど、ほかの飲食店も電車もバスもUIや支払い方法はバラバラ スマホのアプリだってUI全部別々でまったく統一されてない ビデオゲームだってそう SNSのUIを統一しろなんて言うやついない なんでセルフレジだけそんなに嫌なんだ...",
+      "published": "2026-11-21T16:15:51Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61ad2272c1cb20ef14ff546996b1eaf1",
+      "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+      "link": "https://note.com/cgbeginner/n/n5856d402f125",
+      "summary": "2026年11月21日をもって、世界はシンギュラリティに突入したのではないか。 この日、AnthropicのAI「Claude」との共同作業で書かれた「リーマン予想の証明」について、検証コミュニティが「正しい」と認定した。独立に検証したマサチューセッツ工科大学の数学者アンドリュー・サザーランド氏も「...",
+      "published": "2026-11-22T13:51:31Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4be8ebf07b12b7380969582ec9fb9e5",
+      "title": "フロントエンドのテストカバレッジは 100%強制がいい",
+      "link": "https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100",
+      "summary": "JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【JSConf JP 2026】 https:/…",
+      "published": "2026-11-22T03:34:41Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "0d6f2680fe95e0d503474e462414d02b",
+      "title": "Google が実践する最先端の SRE",
+      "link": "https://sre-magazine.net/articles/7/aoto/",
+      "summary": "はじめに こんにちは。Datadog Japan で Sales Engineer をしている 木村健人(AoTo)です。Google Cloud の公式ユーザーグループである Jagu’e’r(Japan Google Cloud Usergroup for Enterprise) では、オブザー...",
+      "published": "2025-03-24T09:45:20Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "85a3062acef9eff105ff370398473f0b",
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
+      "summary": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの...",
+      "published": "2026-11-22T06:09:34Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "61f909164eb214da6bdf9031dd49b0b5",
+      "title": "プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript",
+      "link": "https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory",
+      "summary": "JSConf 2026",
+      "published": "2026-11-22T08:57:45Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e82a2deb0272a8736a15111eed848e2f",
+      "title": "21世紀の精神異常者による/ための生活習慣制御【2026-11-23】 - 二千三百五十五年",
+      "link": "https://obsolete.hatenadiary.com/entry/2026/11/21/231159",
+      "summary": "まえがきのまえがき 本稿は、現在はてなブログ向けに作成している『抑鬱の生活、抑鬱のObsidian、抑鬱の再帰的自己改善』(仮題)というエントリの一部をベースに作成したものです。単体でも読めるようにしてありますが、私はより大きい風呂敷を広げて大きい話をする意図と予定があります。チャンネルを登録し、高...",
+      "published": "2026-11-22T00:59:22Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6f0d2a204930f6ffbb45492e66f1e1e7",
+      "title": "六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79904",
+      "summary": "北海道帯広市に本社がある菓子メーカー「六花亭」のオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性がある問題で、会社は、カード情報の不正利用とみられる被害が…",
+      "published": "2026-11-22T05:57:24Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aa6b7e20eb132f985358eceaf39e585b",
+      "title": "AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは? | NHKニュース",
+      "link": "https://news.web.nhk/newsweb/na/nd-20261122de79817",
+      "summary": "アメリカの新興AI企業、アンソロピックに所属する数学者が、数学の難問とされる「リーマン予想」をAIを使って証明したと主張しました。専門家による検証で認められれば歴史的な成果となります。 「リーマン…",
+      "published": "2026-11-22T01:22:11Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c3f143597ce2a580fb745e04716d0a8f",
+      "title": "ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由",
+      "link": "https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423",
+      "summary": "Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？",
+      "published": "2026-11-22T01:52:45Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "43630add702c54e7d8c0456ab57b78b9",
+      "title": "「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io",
+      "link": "https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html",
+      "summary": "「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。...",
+      "published": "2026-11-20T00:41:46Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "f1ca91c2ff72d69777f173ec9b9a5fbd",
+      "title": "Rust で疎ボリュームのライブラリ brodo を Claude Code と作った",
+      "link": "https://zenn.dev/akahmys/articles/454a729a00401f",
+      "summary": "brodo について brodo は 3 次元の疎なボリュームを扱う Rust のライブラリです。必要なボクセルにだけ値を持ち、ファイルに保存したものはコピーなしでそのまま読んだり、mmap したり、圧縮したりできます。OpenVDB の .vdb も読み書きできます。1.0.0 を crates....",
+      "published": "2026-11-09T13:21:56Z",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "201132107c2b55dc235f3ab295e484cd",
+      "title": "[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス]",
+      "link": "https://dev.classmethod.jp/articles/new-aws-signup/",
+      "summary": "これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。",
+      "published": "Sun, 22 Nov 2026 17:20:08 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9584861df8f7f66e33a7ad1c3f752941",
+      "title": "BigQuery Daya Engineering AgentのAgent Observabilityを試してみた",
+      "link": "https://dev.classmethod.jp/articles/bigquery-dea-agent-observability-ga/",
+      "summary": "2026年11月19日、BigQueryの Data Engineering Agent で agent observability が GA になりました。Cloud Monitoring でトークン消費・遅延を、Cloud Trace で実行トレースを見られるようになったこの機能を、実際に GC...",
+      "published": "Sun, 22 Nov 2026 17:14:45 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "89f02a052b55bc3cafb10cd7603b6f2d",
+      "title": "EventBridge の Webhook Events がサポートされたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/eventbridge-webhook-events-sqs/",
+      "summary": "Amazon EventBridge の Webhook Events を試しました。HMAC 署名、静的トークン、Basic 認証の3方式で curl から送り、SQS 宛ての Subscriber で受け取りました。status での絞り込みと、署名違いの 403 拒否も確認しました。",
+      "published": "Sun, 22 Nov 2026 15:36:03 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e0e84a1a4d2f24c71f21e5bc77c5ff22",
+      "title": "Azure Policyのdenyで既存リソースは止まる？更新拒否・タグ変更・修復を実機で確かめた",
+      "link": "https://dev.classmethod.jp/articles/azure-policy-existing-resources/",
+      "summary": "Azure Policyのdenyを既存リソースのあるリソースグループに割り当てて確かめました。既存のストレージアカウントは止まらず、不適合として記録されただけでした。設定の更新は拒否され、タグだけの変更は通り、修復タスクは何も直しませんでした。",
+      "published": "Sun, 22 Nov 2026 15:05:17 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4f6d60d141015a2198fa5149181624e",
+      "title": "CloudFormation StackSets の操作の進捗が ステージ別・リージョン別に確認可能になったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-cloudformation-stacksets-progress-visibility/",
+      "summary": "AWS CloudFormation StackSets の操作の進捗を、ステージ別・リージョン別に AWS CLI で確認しました。3リージョンへのデプロイでは、実行中に進捗率とスタックインスタンスの件数が変わり、完了後も最終値を取得できました。",
+      "published": "Sun, 22 Nov 2026 15:02:07 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "53cbb4b95cb49871dec8372b30c67a9e",
+      "title": "Azure Service Busの重複検出で二重処理は防げる？同じMessageIdの再送と再配信を試した",
+      "link": "https://dev.classmethod.jp/articles/azure-service-bus-duplicate-boundaries/",
+      "summary": "Azure Service Busの重複検出を実機で試しました。同じMessageIdで再送したメッセージは、送信が成功しても捨てられ、1件目の受信後でも時間窓の中なら同じでした。一方、完了を通知する前に受信をやめると同じメッセージが再配信されました。",
+      "published": "Sun, 22 Nov 2026 14:58:30 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6c720d73110b9d9263c9076a14611454",
+      "title": "AzureのマネージドID、システム割り当てとユーザー割り当てはどう選ぶ？削除と作り直しで確かめた",
+      "link": "https://dev.classmethod.jp/articles/azure-managed-identity-lifecycle-choice/",
+      "summary": "AzureのマネージドIDを、作り直した後も同じIDを残すか、同じ権限を共有してよいかの2軸で比べます。実機では、システム割り当ては作り直すと別のIDになり、ユーザー割り当ては残りました。IDを消してもロールの割り当ては残り、「不明」と表示されました。",
+      "published": "Sun, 22 Nov 2026 14:56:21 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e89d43c36e4188601b7f94422551a912",
+      "title": "Amazon DynamoDB ベクトル検索のインラインフィルターが範囲比較・IN・属性の有無・OR / NOT に対応したので試してみた",
+      "link": "https://dev.classmethod.jp/articles/dynamodb-vector-search-inline-filter-operators/",
+      "summary": "Amazon DynamoDB ベクトル検索のインラインフィルターで、範囲比較、IN、属性の有無、OR / NOT を使った検索を試しました。合成データで検索したところ、各条件で返ったアイテムは、手元のデータから求めた該当アイテムと一致しました。",
+      "published": "Sun, 22 Nov 2026 14:42:06 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "376521997e98b1a3c1f95320566368ae",
+      "title": "Amazon S3 Vectors の filterable metadata が 40 KB に拡張されたので試してみた",
+      "link": "https://dev.classmethod.jp/articles/s3-vectors-filterable-metadata-40kb/",
+      "summary": "1 ベクトルあたりの上限が 2 KB から 40 KB に引き上げられました。新しいバケットのインデックスで約 38 KB を書き込み、短い属性と 2,000 バイトの属性のどちらでも絞り込めたので、その手順と結果を紹介します。",
+      "published": "Sun, 22 Nov 2026 14:24:32 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "4912c8ef4175d458d43a729e7df33f4d",
+      "title": "AWS Lambda の関数状態変化イベントを EventBridge ルールで受け取ってみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-function-state-events-eventbridge/",
+      "summary": "Lambda 関数のデプロイや状態の変化を、GetFunction API のポーリングなしで EventBridge のイベントとして拾えるようになりました。関数の作成・更新・公開・削除で実際に届くイベントの種類と中身を確認し、関数 ARN と state で絞り込むルールも試しました。",
+      "published": "Sun, 22 Nov 2026 13:54:46 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "92367e5dc36969fb5c73108be61894f9",
+      "title": "Snowflake の OIDC フェデレーション認証を Microsoft Entra ID で試してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-oidc-entra-id-try/",
+      "summary": "Snowflake の OIDC フェデレーション認証を Microsoft Entra ID で試してみました。マネージドプロバイダーのため設定は簡単で、パスワードなしのユーザーでも Entra ID でサインインできる仕組みを紹介します。",
+      "published": "Sun, 22 Nov 2026 13:28:12 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "e612b3943bd015d735ff48cf6c9905a4",
+      "title": "AWS Lambda の Node.js 26 ランタイムを Event Functions と Web Functions で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-nodejs-26-support/",
+      "summary": "AWS Lambda の Node.js 26（v26.13.1）を Event Functions と Web Functions で試しました。Node.js 24 から V8 14.6、Undici 8 に更新され、Event Functions では Temporal API が追加設定なし...",
+      "published": "Sun, 22 Nov 2026 13:17:38 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5125a8dabc44a90e3a61dc2007b2f519",
+      "title": "AWS Lambda の Python 3.15 を Event Functions と Web Functions で試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-python-315-support/",
+      "summary": "Event Functions では Python 3.15 ランタイムが GA、Web Functions では public preview として提供が始まったので、それぞれで動作を確認しました。frozendict、sentinel などの新機能が使え、Web Functions では Fa...",
+      "published": "Sun, 22 Nov 2026 12:48:04 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "055b4e22d50d245287cefff543cfbdc2",
+      "title": "Snowflake Cortex Agents のドキュメント生成機能を Teams・Copilot 連携で試してみた",
+      "link": "https://dev.classmethod.jp/articles/cortex-agents-document-generation-teams-copilot/",
+      "summary": "Snowflake Cortex Agents のドキュメント生成機能を Teams・Microsoft 365 Copilot で使ってみたときの検証結果をまとめました。",
+      "published": "Sun, 22 Nov 2026 11:43:45 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "350347774fc5167667d32832993de428",
+      "title": "[アップデート] AWS Agent Registryでドメインに紐づけたレコードを組織外へ公開できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/aws-agent-registry-public-discovery/",
+      "summary": "AWS Agent Registryの新機能を試してみました！ドメインをレコードに紐付けることで、組織外の人にもエージェントやMCPサーバーを公開・発見できる機能です！",
+      "published": "Sun, 22 Nov 2026 09:18:32 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1f519f1374dd36229992b1195ddaa7d9",
+      "title": "[アップデート] AWS Quick の Web アプリの UI が一新されてデスクトップと統一されたぽいので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-quick-launches-new-web-experience-updated/",
+      "summary": "デスクトップ版っぽくなった。最初迷うぞ",
+      "published": "Sun, 22 Nov 2026 09:16:21 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ee1bfb8f2fb390907d2f855f94d4cb28",
+      "title": "AWS Lambda durable functions の OpenTelemetry サポートを試してみた",
+      "link": "https://dev.classmethod.jp/articles/lambda-durable-functions-opentelemetry-tracing/",
+      "summary": "OpenTelemetry プラグインにより、複数回の invocation に分かれる durable execution が、1つの trace ID にまとまります。step の所要時間や retry を1本のトレースで追えるため、ボトルネックや障害の原因の特定に役立つ可能性があります。",
+      "published": "Fri, 20 Nov 2026 18:43:50 GMT",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ef6f5c0b1003b9d68950eb86d70a548",
+      "title": "Lexiconの名機、Model 93 Prime Timeを再現したディレイ・ペダルが登場…… サウンドと機能、外観を忠実に再現",
+      "link": "https://icon.jp/archives/28679",
+      "summary": "Lexiconの名機、Model 93 Prime Timeを元に開発されたペダルが発売になるもようです。 Falling Edge Technologies – Model 31 (Image via Fa […]",
+      "published": "Sun, 22 Nov 2026 09:00:00 +0000",
+      "fetched_at": "2026-11-22T17:30:56.719253+00:00",
+      "feed_name": "ICON",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-22T09:07:45.923549+00:00"
+  "updated_at": "2026-11-22T17:30:56.719253+00:00"
 }

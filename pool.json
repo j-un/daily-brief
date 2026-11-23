@@ -19,7 +19,367 @@
       "fetched_at": "2026-11-23T01:10:01.180698+00:00",
       "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
       "category": "main"
+    },
+    {
+      "entry_id": "f45514d32b81bc6ef461c3474477d036",
+      "title": "AWS CLI v2と出力が同じで最大550倍速いawsrをRustで作った - Conao3 Notes",
+      "link": "https://s.conao3.com/blog/2026/f681b9",
+      "summary": "わいわい。awsコマンド自体の高速化で通信が速くなるわけではないけども。",
+      "published": "23 Nov 2026 04:06 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0c5efbf5b9d44df0b8444c3dafb6a8e2",
+      "title": "第933回 Ubuntuが特定のCVEに対応できているかの確認方法 | gihyo.jp",
+      "link": "https://gihyo.jp/admin/serial/01/ubuntu-recipe/0933",
+      "summary": "「CVE番号に対するUbuntuの対応状況を確認する上で最も簡単な手段がproコマンドの利用」「Ubuntu Proに加入しなくても利用できます」ほう。pro fix --dry-run CVE-2026-98432",
+      "published": "23 Nov 2026 04:01 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9bd1dc563769ec18dc86a9a846684914",
+      "title": "個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog",
+      "link": "https://tech.every.tv/entry/2026/10/30/124255",
+      "summary": "個人情報を保管する専用のSaaS、やはりあるのか。skyflow。ただ国内事業者ではあまりなさそう？情報銀行やPDSという言葉はあるもののやや性質が異なるように見受けられる。",
+      "published": "23 Nov 2026 02:47 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd04c7672aa455b0fc839e76b8a5dcd5",
+      "title": "読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog",
+      "link": "https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000",
+      "summary": "経営層がKPIや売上・利益などの実績データを見て事業判断するのと似ている。その意味では現場も同じことをやることになるし、それは経営層のノウハウが現場でも活きる可能性がある（逆も然り）ということか。",
+      "published": "23 Nov 2026 02:34 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "4b3198f2483868dd4858705041b5c036",
+      "title": "SQLを学びつつ事件の謎を解いていくプログラミング系の推理ADV『Ghost in the SQL Data』Steam配信開始！事件の矛盾を見つけろ | Game*Spark - 国内・海外ゲーム情報サイト",
+      "link": "https://www.gamespark.jp/article/2026/10/29/174245.html",
+      "summary": "デモ版やってみた。日本語対応。ただSQLを書くだけでなく一部推理が必要な要素も含まれてる。SQL学習に良さそう。",
+      "published": "23 Nov 2026 02:18 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11b6931fe129af4e96b754d52a74e573",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://www.percona.com/blog/inside-kvrocks/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Inside Kvrocks",
+      "published": "23 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ef87086bca360f6e38419777f7823178",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines \\ Anthropic",
+      "link": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Updating our coordinated vulnerability disclosure policy timelines",
+      "published": "23 Nov 2026 03:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f0cb73dd9bbdf8381e5276af309debcc",
+      "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場 － Publickey",
+      "link": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+      "published": "23 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "296adaa38a855b0703ee8367e3cd2143",
+      "title": "​​​AWS observability maturity assessment: from guesswork to a blueprint​​ | AWS Cloud Operations Blog",
+      "link": "https://aws.amazon.com/jp/blogs/mt/aws-observability-maturity-assessment-from-guesswork-to-a-blueprint/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 ​​​AWS observability maturity assessment: from guesswork to a blueprint​​ | Amazon Web Services",
+      "published": "23 Nov 2026 02:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e7dd2be832bdf4d6837e2bacfaccebe3",
+      "title": "Just a moment...",
+      "link": "https://nordpass.com/yPNR2weqT6HmxVXbgqJdkG4vbS5tCYvD/",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Top 200 Most Common Passwords | NordPass",
+      "published": "23 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "24882bdf284a611e730a35840015f8cc",
+      "title": "git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン",
+      "link": "https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタンプをUTCで作成すべき",
+      "published": "23 Nov 2026 01:55 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "10e92aee0ceaa1a0f7d343739ec4c6cc",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "link": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 257 # Comments: 42",
+      "published": "Mon, 23 Nov 2026 01:13:51 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b582999145519a7e325e2b43960dfdb",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "summary": "Article URL: https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/ Comments URL: https://news.ycombinator.com/item?id=50605479 Points:...",
+      "published": "Sun, 22 Nov 2026 23:57:45 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "438ca2090a9b9149308da2c731b167c9",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Po...",
+      "published": "Sun, 22 Nov 2026 23:06:37 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "33beaa6a5cf3c7704fb0dd63e1be6501",
+      "title": "Agent swarm trying to solve P vs. NP",
+      "link": "https://pequalnp.com/",
+      "summary": "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 136 # Comments: 110",
+      "published": "Sun, 22 Nov 2026 21:53:45 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "66cc21b93343408094d13cc8dcf7cd5c",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "link": "https://nyx.net/",
+      "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 116 # Comments: 14",
+      "published": "Sun, 22 Nov 2026 20:15:59 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2152a072c6946872a63defa453c79161",
+      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 ...",
+      "published": "Sun, 22 Nov 2026 19:51:46 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0d0594b3b2bee76b30b348c75271947",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "link": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603...",
+      "published": "Sun, 22 Nov 2026 19:41:30 +0000",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec7d60f1a58d1937d1b55b7e3df9a2d9",
+      "title": "Webメール開発を大幅に変えたJMAPというゲームチェンジャー",
+      "link": "https://speakerdeck.com/tascript/jmap-is-game-changer",
+      "summary": "JSConfJP 2026の登壇資料です",
+      "published": "2026-11-22T15:40:52Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6992c49826023d0b142079e18911a275",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "summary": "米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開...",
+      "published": "2026-11-22T23:16:06Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec0a0fc220b326d8fa534026f9e3e148",
+      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
+      "link": "https://zenn.dev/ruri/articles/code-as-spec",
+      "summary": "表の最後の行が、自然言語でしか書けない部分です。何のために作っているのか、どこまでを作らないのか、まだ作っていないものは何か。これはコードをいくら読んでも出てきません。「コードが正」を進めすぎて、ここまで消してしまうと危険です。消した次の日に、エージェントが「やらない」と決めた機能を親切に作り始.....",
+      "published": "2026-11-06T14:28:13Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8c8e40a0d4825ac2fbaabaa1be4149f7",
+      "title": "Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 | ギズモード・ジャパン",
+      "link": "https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/",
+      "summary": "Kindle Paperwhiteで漫画を読んでいると、ちょっと惜しいと思うことがあります。 左右いっぱいに広がる見開きのシーン。紙の本なら一度に見られるのに、電子書籍ではページを切り替えたり、画面を横向きにして小さく表示したり。 そんな声に応えてくれるのが、10.3（対角約26.2cm）インチの電...",
+      "published": "2026-11-22T00:48:38Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c711dc7eaa6995a26d6fdead2d97db2c",
+      "title": "無料の画像生成AI「MiniMax H3-Image」はここがすごい Nano Bananaのようなモデルがローカルで動くのが当たり前に (1/4)",
+      "link": "https://ascii.jp/elem/000/004/453/4453903/",
+      "summary": "11日、MiniMaxが新しい画像生成モデル「H3-Image」を公開しました。3日には、Pruna AIから動画AI「H3」を蒸留して作られた画像AIモデル「P-H3-Image（現在の公開名はP-Image-OSS）」が登場したばかりです。H3-Imageは8月に開発中であると明らかにされていた...",
+      "published": "2026-11-22T22:59:11Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b5e2aa6a6411d30be82276f7b9f15653",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
+      "summary": "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利...",
+      "published": "2026-11-23T00:10:21Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d1141a88d12cc9bc712511d604a739b3",
+      "title": "Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も",
+      "link": "https://cginterest.com/2026/11/20/eden-blender/",
+      "summary": "Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースか...",
+      "published": "2026-11-21T00:16:49Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8dd15a221d091969a1d2c5a75494b2f0",
+      "title": "リリースしたで終わらない。 観測できるフロントエンド開発",
+      "link": "https://speakerdeck.com/yamakenji24/20261122-jsconf2026-lt-kenji-yamashita",
+      "summary": "UIを改善してリリースした。でも、本当に良くなったのか分からない。そんな経験はありませんか？ 本LTでは、私たちのチームが、UI改善の効果を確かめるためにどのような取り組みをしているかを紹介します。開発前の観測指標の整理から、イベント設計やダッシュボードの作成、リリース後の観測と次の改善につなげるま...",
+      "published": "2026-11-22T11:10:48Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5d4beca70b7aca1651d9c2fe7aefbd1",
+      "title": "なぜiPhoneのFirefoxにGeckoが載らないのか。Appleが課す「別アプリ」の壁をMozillaが批判",
+      "link": "https://joho-todai.com/why-iphone-firefox-lacks-gecko-mozilla-criticizes-apple/",
+      "summary": "EUでは2024年初頭にデジタル市場法（DMA）に基づいてAppleが代替ブラウザエンジンの利用を認める枠組みを導入した。日本でも2025年12月18日にスマートフォンソフトウェア競争促進法（スマホ法）が全面施行され、公正取引委員会がAppleを規制事業者として指定した。Appleは日本の利用者向け...",
+      "published": "2026-11-22T02:40:21Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "edfff4f12e48f0f18781ac9beec5e099",
+      "title": "アマゾンが迫られた「10億ドル」の地域融和策、AIデータセンター建設凍結の波紋（小久保重信） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/expert/articles/8a874f9bd3a7c1c2d97094f32690eb3fd309dbf4",
+      "summary": "10月上旬、米アマゾン・ウェブ・サービス（AWS）は、データセンターを展開する米国の地域社会に向けて今後5年間で10億ドル（約1600億円）超を追加拠出する支援策を発表した。あわせて、施設立地にあたって行政機関と結んできた秘密保持契約（NDA）を撤廃する方針を明らかにした。 The race our...",
+      "published": "2026-11-21T23:28:24Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "88651750ceb68c0cc38495e84bf2fcc7",
+      "title": "ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」",
+      "link": "https://gigazine.net/news/20261123-lastbook-offline-knowledge/",
+      "summary": "「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild soci...",
+      "published": "2026-11-22T15:26:08Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8db3de6eb8d7c28a52d1a4b781e83d8d",
+      "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
+      "link": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
+      "summary": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 AI agents give up their secrets un...",
+      "published": "2026-11-21T12:01:57Z",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "050420d15607dd16e2adeb1934725094",
+      "title": "S3 汎用バケットの GET/HEAD が 11,000 リクエスト/秒に引き上げられたので、Go で 17,000 リクエスト/秒を流してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-s3-increased-read-request-rate/",
+      "summary": "Amazon S3 汎用バケットの GET/HEAD は、従来の 5,500 リクエスト/秒から、プレフィックスごとに少なくとも 11,000 リクエスト/秒になりました。Go で実装した S3 クライアントで、新規バケットの単一プレフィックスへ GET を流し、17,000 リクエスト/秒が通った...",
+      "published": "Mon, 23 Nov 2026 04:34:49 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cea58c4b02b87f914b2b508a6a23ba1",
+      "title": "[AWS Technical Support Note] บริการ AI ของ AWS ตัวไหนบ้างที่สามารถเลือกไม่ให้นำข้อมูลไปใช้ปรับปรุงบริการ (opt-out) ได้",
+      "link": "https://dev.classmethod.jp/articles/tsnote-thai-ai-services-opt-out-target-services/",
+      "summary": "มาดูกันเลยว่ามีบริการอะไรบ้างที่เลือกไม่เข้าร่วมได้ผ่านนโยบายการเลือกไม่เข้าร่วมบริการ AI ของ AWS Organizations",
+      "published": "Mon, 23 Nov 2026 02:46:43 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "583bf14bca7f19c127966a9ee813466c",
+      "title": "EventBridgeの新機能「Webhook Events」を試してみた。",
+      "link": "https://dev.classmethod.jp/articles/eventbridge-webhook-events/",
+      "summary": "Amazon EventBridge の新機能 Webhook Events を東京リージョンで実装し、HMAC 署名検証、SQS 配信、ログ可視化を通じた動作確認と運用ハマりどころを紹介します。",
+      "published": "Mon, 23 Nov 2026 02:40:56 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "11db52a0c871ee8eaf82d5b6eac11313",
+      "title": "[待望のアップデート] Amazon Quick on desktop が既存のサインイン方式に対応！IAM フェデレーションと招待ユーザーで試してみた",
+      "link": "https://dev.classmethod.jp/articles/20261123-amazon-quick-desktop-iam-federation/",
+      "summary": "Amazon Quick on desktop が既存のサインイン方式に対応！既存の最もよく使われている認証方式 IAM フェデレーションと招待ユーザーでログインしてきたユーザーが Quick コンソールでデスクトップコネクタを追加するだけで、Web 版と同じ方法でデスクトップアプリにサインインでき...",
+      "published": "Mon, 23 Nov 2026 02:29:07 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9e396ff21b26d4abdda3573d39ad2648",
+      "title": "ArkorでNext.jsのPPRの届き方をレスポンスから確かめてみた",
+      "link": "https://dev.classmethod.jp/articles/hasuto-arkor-ppr-shell-streaming/",
+      "summary": "先日の jsconf で Arkor を教えてもらったので、触ってみました。わざと3秒待つページをデプロイし、Next.jsのPPRでstatic shellと動的な部分がどの順番で届くのかを、レスポンスの到着時刻、x-arkor-edgeヘッダー、管理画面のBuild outputから確かめていま...",
+      "published": "Mon, 23 Nov 2026 01:51:09 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f8f5db85a9fe69ce0a6275f795a4a09",
+      "title": "Amazon Textract Insights で1つの PDF を一括で分割・分類・項目抽出してみた",
+      "link": "https://dev.classmethod.jp/articles/textract-insights-mixed-packet/",
+      "summary": "Amazon Textract Insights が GA となりました。複数の書類が混在した PDF を1回のリクエストで分割・分類・項目抽出できる新機能を検証してみました。",
+      "published": "Mon, 23 Nov 2026 01:13:39 GMT",
+      "fetched_at": "2026-11-23T04:58:00.181907+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-23T01:10:01.180698+00:00"
+  "updated_at": "2026-11-23T04:58:00.181907+00:00"
 }

@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "2df9c52b7c22e96a6d1be2f457d9286c",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "summary": "Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. ...",
-      "published": "2026-11-21T16:27:12Z",
-      "fetched_at": "2026-11-22T01:49:47.729284+00:00",
-      "feed_name": "はてなブックマーク - テクノロジー",
-      "category": "main"
-    },
-    {
       "entry_id": "40d5168d4f8cfe7d154b6182c456fe6a",
       "title": "エンタープライズ品質の設計を実現するAIエージェント開発入門｜リックテレコム",
       "link": "https://www.ric.co.jp/book/new-publication/detail/3294",
@@ -379,7 +369,1007 @@
       "fetched_at": "2026-11-23T04:58:00.181907+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "9c207668db5dc7abc27d46b19dc4253e",
+      "title": "403 Forbidden",
+      "link": "https://support.nintendo.com/jp/information/2026/1110/index.html",
+      "summary": "あらまぁ。以降はパスキー推奨か。",
+      "published": "23 Nov 2026 14:45 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "78ce7918c97b1815176f548dff6e8ea7",
+      "title": "GitHub - lattice-writer/lattice: A local-first, agent-first LaTeX writing app for macOS: live PDF, annotations, papers and Overleaf sync · GitHub",
+      "link": "https://github.com/lattice-writer/lattice",
+      "summary": "macOS用LaTeXエディタ。AIエージェント連携機能あり。brew install --cask lattice",
+      "published": "23 Nov 2026 14:42 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7c76c5b69820a31580f752a9ffef9ede",
+      "title": "GitHub - KiwiCanopy/KiwiDesk: Tiling that feels like it shipped with macOS. Works out of the Box, settings menu, in-app updates, native Desktops kept intact, Lua underneath. Accessibility only, never SIP. · GitHub",
+      "link": "https://github.com/KiwiCanopy/KiwiDesk",
+      "summary": "macOS用タイル型ウィンドウマネージャ。brew install --cask kiwidesk",
+      "published": "23 Nov 2026 14:39 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f23d75fd918c521a437370df88985762",
+      "title": "TiDB から PostgreSQL へ、本番 DB を書き込みを止めて切り替えた記録",
+      "link": "https://zenn.dev/hirahara/articles/tidb-to-postgresql-cutover",
+      "summary": "「171 表、2,012 列、693 索引、126 外部キー」はそれなりに大きい規模との認識だが、TiDBから離れる理由は何だろうか。RUへの言及もあるからコストかな？",
+      "published": "23 Nov 2026 14:26 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3d2fc65944cf16f0d66e76b21df967a8",
+      "title": "Home - Ziggy Data Language",
+      "link": "https://ziggy-lang.io/",
+      "summary": "APIや設定ファイルなどでの利用を想定したデータシリアライズ言語。JSONのsupersetと。",
+      "published": "23 Nov 2026 14:18 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6efc587592592a24f53b3740d09229c6",
+      "title": "AWS Emulator を使用してローカルで AWS に対してアプリケーションをテストする | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/test-your-applications-against-aws-locally-with-aws-emulator/",
+      "summary": "日本語公式ブログにきてた。",
+      "published": "23 Nov 2026 14:14 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "097a34895c5bc36f6216f2cce1e242ad",
+      "title": "MacBookの画面の角をタップして操作できるLidTapが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202611131/",
+      "summary": "「タッチ操作非搭載のMacBookの画面タップをモーションセンサーで検出して操作するLidTap」力業だ",
+      "published": "23 Nov 2026 14:11 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5b162599fb4630fbe0ba4fe58e388687",
+      "title": "コードベースから重複した箇所を探せるjscpdが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202611122/",
+      "summary": "ほう",
+      "published": "23 Nov 2026 14:09 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "cc79f8ecbd2faf5a64a70ec19e72d386",
+      "title": "GitHub - allisonhere/tidemail: Keyboard-first terminal email client: IMAP/SMTP, Gmail & Outlook OAuth, unified inbox, themes. Go + Bubble Tea. · GitHub",
+      "link": "https://github.com/allisonhere/tidemail",
+      "summary": "TUIベースのメールクライアント。CLIツールも用意されていて、AIエージェントがメールの読み書きもできるようにAgent Skillも用意されている。Go実装。macOSはbrew install tidemailでインストール可。",
+      "published": "23 Nov 2026 14:06 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "676b91457ae2890014b71839e9c18512",
+      "title": "Python 3.15の新プロファイラーTachyonの紹介 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/monthly-python-2611",
+      "summary": "良さそう。覚えておく。",
+      "published": "23 Nov 2026 13:58 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "16827cd3be4248833935bb3f7a8c8ab6",
+      "title": "AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 #ClaudeCode - Qiita",
+      "link": "https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a",
+      "summary": "テストの強さを測る mutation testing（ミューテーションテスト） と、そのツールの Stryker。",
+      "published": "23 Nov 2026 13:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ccac51aaceb101f0bf455af24b1689d",
+      "title": "Cloud Run コンテナ設計・構築［本格］入門 Google Cloudガイド＋ハンズオン 馬勝淳史(著) - ＳＢクリエイティブ | 版元ドットコム",
+      "link": "https://www.hanmoto.com/bd/isbn/9784815631970",
+      "summary": "2026年11月20日発売。",
+      "published": "23 Nov 2026 13:54 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "608386f1613e16d9e90d2c6e57655246",
+      "title": "レイテンシー ソフトウェアシステムの応答性を高めるための設計・計測・最適化 - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1125101147",
+      "summary": "「ハードウェアの物理的制約から分散システム設計、並行処理まで、レイテンシー削減手法を体系化した技術解説書」良さそう。2026年11月17日発売。",
+      "published": "23 Nov 2026 13:50 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "53760da076f626b4b29ae3aa6192dfe8",
+      "title": "Visual Studio Code完全入門 改訂2版 GitHub Copilot対応 Webクリエイター&エンジニアの作業がはかどる高機能エディターの操り方 - インプレスブックス",
+      "link": "https://book.impress.co.jp/books/1126101019",
+      "summary": "改訂2版でAIコーディング支援「GitHub Copilot」の章を新設。2026年11月17日発売。",
+      "published": "23 Nov 2026 13:49 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bc5e960efc601ef6fd83d68b561863cf",
+      "title": "MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/muse-watch-device",
+      "summary": "画面いっぱいに。主張が激しい。",
+      "published": "23 Nov 2026 13:48 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "86e2a08d5a50a1726024d103ecc619bb",
+      "title": "退屈なCoding AgentはMuseにやらせよう",
+      "link": "https://zenn.dev/watany/articles/342b9815dd0553",
+      "summary": "「Muse(無料)の中身Muse Spark 1.3はコードが割と書ける方のモデルだ。型落ちとは言え、GPT5.6 SolとかGrok 4.6程度のモデルがタダで使えている状態である」わいわい",
+      "published": "23 Nov 2026 13:42 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "662a4e013b6b6b9396e03d159259cd2e",
+      "title": "Amazon Athena がクエリ実行のオブザーバビリティを高めるシステムテーブルを導入 | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/amazon-athena-introduces-system-tables-for-query-execution-observability/",
+      "summary": "Amazon Athenaで実行したクエリーの把握や改善に活用できると。ここに載ってるクエリーはそのまま流用できそうなのでAthenaをご利用の皆様は是非ともご確認ください。",
+      "published": "23 Nov 2026 13:36 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f36e82e8c96534d1e13c2e0cd328910",
+      "title": "AMS Trusted Remediator でコスト最適化とセキュリティ修復を自動化する | Amazon Web Services ブログ",
+      "link": "https://aws.amazon.com/jp/blogs/news/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/",
+      "summary": "Trusted Advisor、Security Hub CSPM、Compute Optimizer が検出した推奨事項（コスト最適化、セキュリティ改善、パフォーマンス向上、耐障害性、サービス制限など）の修復作業を自動化・標準化するソリューション。ほう",
+      "published": "23 Nov 2026 13:33 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "97ed0e509426e18e3329c358a947d0b4",
+      "title": "同僚とコーディングエージェントを共有できるLodyが良さげかも | kawarimidoll.com",
+      "link": "https://kawarimidoll.com/posts/202611101/",
+      "summary": "ほう。仕事などチームで取り組む場合にいいかも？",
+      "published": "23 Nov 2026 13:30 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "6ca5e3b313e9bce8d50864849e36ea4f",
+      "title": "フロー指向アーキテクチャ ドメイン駆動設計、Wardley Mapping、チームトポロジーによる適応型システム | オーム社",
+      "link": "https://www.ohmsha.co.jp/book/9784274235634.html",
+      "summary": "2026年11月17日発売。",
+      "published": "23 Nov 2026 13:28 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "22a0c56c859fb8b7538f295707a3c578",
+      "title": "「Zabbix 8.0 LTS」リリース ─ OpenTelemetry対応で統合オブザーバビリティを強化 | Think IT（シンクイット）",
+      "link": "https://thinkit.co.jp/news/39720",
+      "summary": "OpenTelemetryに基づくアプリケーションパフォーマンス監視(APM)をサポートやMCPサーバ機能、ClickHouseへの履歴保存など。なかなかにアツイ。",
+      "published": "23 Nov 2026 13:26 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a86efb63c2c287536910fb150be1d728",
+      "title": "Windows 11で30年以上続いた「Shiftキー誤爆問題」がついに改善へ | ソフトアンテナ",
+      "link": "https://softantenna.com/blog/windows-11-sticky-keys-notification-improvement/",
+      "summary": "Shiftキーの連打で出てくる固定キー有効化ダイアログ上で「二度と表示しない」を選択可能に。うおー。",
+      "published": "23 Nov 2026 13:23 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ca53248c3d2333aa104959e1ce30efbd",
+      "title": "GitHub - yetidevworks/drydock: What's uncommitted, unpushed, and unreleased across every repo you own. A live TUI dashboard for a fleet of git repos. · GitHub",
+      "link": "https://github.com/yetidevworks/drydock",
+      "summary": "ローカルにcloneされた複数のGitリポジトリの状態（ブランチ名や未コミットの変更の有無など）を一括して俯瞰できるTUIツール。Rust実装。homebrew公式に登録されたのでbrew install drydockでインストール可。",
+      "published": "23 Nov 2026 12:33 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9619c1f18897c8db9bf4afa928d1e17b",
+      "title": "GitHub - iamrohithrnair/emeraldian: A terminal UI for your Obsidian vault: live-preview notes, backlinks, images, a force-directed graph and an assistant · GitHub",
+      "link": "https://github.com/iamrohithrnair/emeraldian",
+      "summary": "ターミナルで動作するObsidian向けのTUIクライアントアプリ。Rust実装。homebrew公式に追加されたのでbrew install emeraldianでインストール可能。",
+      "published": "23 Nov 2026 12:12 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f50add52566cf99f9fe49be546222d53",
+      "title": "【増枠】赤坂これから会議〜AI時代、エンジニアはどう働き、どう生きる？〜 - connpass",
+      "link": "https://lycorptech-jp.connpass.com/event/409956/",
+      "summary": "現地開催",
+      "published": "23 Nov 2026 12:03 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d982fbf92629e41d9dec3c2d0287f59e",
+      "title": "SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話",
+      "link": "https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763",
+      "summary": "そう、これ自分も昔ハマったことがある。ちなみにMySQLも同様の制御になっているはず。",
+      "published": "23 Nov 2026 12:02 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17a40cda90288e99f83c1c95eae3a22f",
+      "title": "バイブコーディングに必要なキーボードはこれです。エイプリルフールネタではなく実際…",
+      "link": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
+      "summary": "バイブコーディングに必要なキーボードはこれです。エイプリルフールネタではなく実際に売ってる。8k polling rateやアクチュエーションポイントは本当に必要とされてるのか。",
+      "published": "23 Nov 2026 11:56 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e5e6dbc0d0674eae3999c6fcbb15d269",
+      "title": "*sshole · sshhole.com",
+      "link": "https://sshhole.com/",
+      "summary": "この問題が今まで見つからなかった理由として、musl環境でopensshサーバを待ち受けるなんて状況があまり考えにくかった（musl環境なら組み込み想定でもっと軽いsshdを使う）ってのはありそうだと思いました。",
+      "published": "23 Nov 2026 11:42 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "9c481fa50700e1595ed7eaac4fa442ab",
+      "title": "GitHub - bl4ckr0ss3/knife: A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife. · GitHub",
+      "link": "https://github.com/bl4ckr0ss3/knife",
+      "summary": "PE, ELF, Mach-O, WebAssemblyなどのバイナリ形式をリバースエンジニアリングするためのTUIツール。Rust実装。brew install knife",
+      "published": "23 Nov 2026 11:38 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "c5293fbd8d08b145eefad2559513222e",
+      "title": "GitHub - rezigned/upmd: upmd - Run tasks and workflows from Markdown. · GitHub",
+      "link": "https://github.com/rezigned/upmd",
+      "summary": "Markdownで書かれたコードブロック部分をワークフローとして順次実行が可能なTUIツール。手順書と実際の実行を兼ねられそう。Rust実装。",
+      "published": "23 Nov 2026 11:36 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e12949955ccd815bed6b5a3553d650aa",
+      "title": "3,600 件のテスト名の移行を Agent Skill で AI に任せた話 | Wantedly Engineer Blog",
+      "link": "https://www.wantedly.com/companies/wantedly/post_articles/1106115",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 3,600 件のテスト名の移行を Agent Skill で AI に任せた話 | Wantedly Engineer Blog",
+      "published": "23 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0258d1cde26cb42fffcc7ef011f7828f",
+      "title": "Just a moment...",
+      "link": "https://medium.com/eureka-engineering/ai-agent-pairs-navi-overview-cd1bd92daec6",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 全社員の仕事を AI Native にする、ペアーズの内製 Background Agent 基盤「Pairs Navi」 | by TAKASHI NARIKAWA | Pairs Engineering | ...",
+      "published": "23 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac0340dfae2731e717f456045b124676",
+      "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "link": "https://zenn.dev/mizchi/articles/mutation-test-quality",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 おい、 Mutation Test をやれ。テスト品質を、測るために",
+      "published": "23 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3db9b9a90cf174085bcce8ccaa0ac183",
+      "title": "AIを活用したPerlのGo移植（テスト編） - Mirrativ Tech Blog",
+      "link": "https://tech.mirrativ.stream/entry/2026/11/17/100000",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AIを活用したPerlのGo移植（テスト編）",
+      "published": "23 Nov 2026 08:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e47927a56a9c1f38df2806b198169379",
+      "title": "Microsoft、AIコーディングのトークン費用を抑えるTokenEconomizerプラグインを紹介 | gihyo.jp",
+      "link": "https://gihyo.jp/article/2026/11/tokeneconomizer",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Microsoft、AIコーディングのトークン費用を抑えるTokenEconomizerプラグインを紹介 | gihyo.jp",
+      "published": "23 Nov 2026 06:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "025f0bc7af542e9959f60b45f982f29f",
+      "title": "pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts | Socket",
+      "link": "https://socket.dev/blog/pnpm-introduces-new-lockfile-format",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 pnpm Introduces New Lockfile Format to Reduce Git Merge Conflicts",
+      "published": "23 Nov 2026 05:55 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "17de5cdec97671afff9e6b7c54564e9e",
+      "title": "Ladybird Is Now in Alpha",
+      "link": "https://ladybird.org/posts/alpha/",
+      "summary": "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 202 # Comments: 33",
+      "published": "Mon, 23 Nov 2026 16:13:12 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e88453f27c54f913c8a3df1b18678eb6",
+      "title": "Jensen Huang Reinstated as Nvidia CEO",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director Comments URL: https://news.yc...",
+      "published": "Mon, 23 Nov 2026 14:01:23 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e27c29bc7a7b7b74cd46e9f981a0fb32",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "summary": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... Comments URL: https://news.ycombinator.com/item?id=50611576 Points: 339 # Comments: 15...",
+      "published": "Mon, 23 Nov 2026 14:00:18 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8aa7ac6be56dea1e82a7cf404e71a98f",
+      "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+      "link": "https://github.com/mikuta0407/win4wine",
+      "summary": "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 114 # Comments: 60",
+      "published": "Mon, 23 Nov 2026 12:28:11 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "de22ae58475a8d7ea0704dbf0eb69794",
+      "title": "The next circle of security hell",
+      "link": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+      "summary": "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 ...",
+      "published": "Mon, 23 Nov 2026 11:34:16 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1c5becbbc0fd53fda956b68cb85a71d6",
+      "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+      "link": "https://github.com/os6/nospeaker",
+      "summary": "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 135 # Comments: 62",
+      "published": "Mon, 23 Nov 2026 11:31:54 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a891b76437f3f3156e9cd5e803e20e7b",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "link": "https://z.ai/blog/glm-5.4",
+      "summary": "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 696 # Comments: 254",
+      "published": "Mon, 23 Nov 2026 10:06:43 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac710a7ca88e29e30b97589174eeb5fa",
+      "title": "GTA 6 building personal behavioral profile for every player",
+      "link": "https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve",
+      "summary": "Article URL: https://huijzer.xyz/posts/174/gta-6-building-personal-behavioral-profile-for-eve Comments URL: https://news.ycombinator.com/item?id=50609...",
+      "published": "Mon, 23 Nov 2026 08:51:50 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "37dc6dd3a52d6b673c97187877055fa9",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "link": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 217 # Comments...",
+      "published": "Mon, 23 Nov 2026 05:00:49 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce586a1c71739f5eb037a4d46f2b6bec",
+      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+      "link": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/101651402807...",
+      "published": "Mon, 23 Nov 2026 04:31:32 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "368452c044ee37b538cf8f0e24242d06",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "link": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 509 # Comments: 209",
+      "published": "Mon, 23 Nov 2026 03:49:24 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3595e91be83ce938aba27852032bdeb3",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "link": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 161 # Comm...",
+      "published": "Mon, 23 Nov 2026 01:50:23 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2ee025d052cf77613664f27d3a5a2f20",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "link": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points:...",
+      "published": "Sun, 22 Nov 2026 22:10:58 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "215fe07a7c8dd26787b0bf62324227ff",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "link": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com...",
+      "published": "Sun, 22 Nov 2026 21:33:12 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d872c2fbe17361b2828781c33fe4d98d",
+      "title": "1 つのスタックで VCF 全体を: EVS Deployment Orchestrator を使用して Amazon EVS へ VMware Cloud Foundation 9 をデプロイ",
+      "link": "https://aws.amazon.com/jp/blogs/news/one-stack-full-vcf-deploying-vmware-cloud-foundation-9-on-amazon-evs-with-the-evs-deployment-orchestrator/",
+      "summary": "以前の段階的な自動化ワークフローを改善し、EVS Deployment Orchestrator (EDO) としてまとめ直しました。EDO はオープンソースのツールで、solutions-for-amazon-evs リポジトリで公開されています。AWS CloudFormation スタックを ...",
+      "published": "Mon, 23 Nov 2026 09:33:31 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "f880a6acef59186467b178aee7d7e8a3",
+      "title": "Amazon CloudWatch Query Studio now supports saved queries",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries",
+      "summary": "Amazon CloudWatch Query Studio now lets you save your PromQL and SQL metrics queries and reuse them. You no longer need to rewrite or search for queri...",
+      "published": "Sat, 21 Nov 2026 03:00:00 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "f7a233f1bb19f99b8c9298a69c29eac3",
+      "title": "AWS DevOps Agent achieves FedRAMP Class D Certification in AWS GovCloud (US-West)",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-fedramp-class-d/",
+      "summary": "AWS DevOps Agent is now certified at the Federal Risk and Authorization Management (FedRAMP) Class D level in AWS GovCloud (US). AWS DevOps Agent is y...",
+      "published": "Fri, 20 Nov 2026 21:11:00 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "0e174b251de09c2fb3dae66a1e764922",
+      "title": "AWS Parallel Computing Service now supports managed instance health checks",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pcs-instance-health-checks/",
+      "summary": "AWS Parallel Computing Service (AWS PCS) now supports instance health checks, which can find hardware faults and software problems on accelerated inst...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "ea2ba52f263d9ef092b0ae5d71919671",
+      "title": "AWS Parallel Computing Service now supports network topology-aware scheduling",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pcs-network-topology-scheduling/",
+      "summary": "AWS Parallel Computing Service (AWS PCS) now supports network topology-aware scheduling, which can place the nodes of each multi-node Slurm job as clo...",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "5ee0680a16d7f73a57d587aa76b3e4a3",
+      "title": "著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話",
+      "link": "https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
+      "summary": "こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。...",
+      "published": "2026-11-23T10:14:56Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "aab492042375a6b737be9f64cfb152d2",
+      "title": "Lean で手続き的プログラム の証明が書けるようになった",
+      "link": "https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f",
+      "summary": "Leanで、最近手続き的プログラムの形式検証がDafnyのようにできるようになりました。それについて軽く紹介します",
+      "published": "2026-11-23T08:38:03Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "15458fc3346cf213c43fd8b2d70c12ff",
+      "title": "なぜ今形式検証なのか",
+      "link": "https://zenn.dev/ncdc/articles/dcec80b0c067b0",
+      "summary": "形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を...",
+      "published": "2026-11-23T06:15:16Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "26bb8c68b0425608f319b3e32d1c720e",
+      "title": "AI時代、結局\"食いっぱぐれるエンジニア\"と\"生き残るエンジニア\"を分けるものは何か - rokujyouhitoma's blog",
+      "link": "https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112",
+      "summary": "※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳...",
+      "published": "2026-11-23T04:51:41Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe7ad95787320399ebd01eca1183492a",
+      "title": "優秀な人が小さくまとまる現象 - pospomeのプログラミング日記",
+      "link": "https://www.pospome.work/entry/2026/11/23/125036",
+      "summary": "株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) エンジニアに限らずですが、優秀な人ほど物事を進める際のリスクを認識できるようになります。経験を積むと「これをやるとこうなりそうだな」という予測が立つようになるので、それ自体はとても良いことです。 ただ、過度にリスクを...",
+      "published": "2026-11-23T04:14:27Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "95be73ea5b608634a51950432b10af7b",
+      "title": "｢野村は100%､楽天･SBIは50%｣は過去の話…NISA口座を乗っ取られても｢全額戻るとは限らない｣補償の新ルール（プレジデントオンライン） - Yahoo!ニュース",
+      "link": "https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358",
+      "summary": "情報流出の可能性についての楽天証券の告知を表示するスマートフォン画面＝2026年11月17日午後 - 写真＝共同通信社（株式会社プレジデント社）個人投資家が増える中、証券口座が犯罪者の標的になっている。ファイナンシャルプランナーでIT講師も務める川淵ゆかりさんは「口座を乗っ取られて被害が出た場合でも...",
+      "published": "2026-11-23T05:30:40Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b0cf765549655f3156fcc319b034c029",
+      "title": "氷河期オタクエンジニアおじさん、底辺文化地域で暮らす。",
+      "link": "https://anond.hatelabo.jp/20261123174519",
+      "summary": "地域については「電車で東京に通勤通学は可能な範囲」とだけ言っておく たぶんそこを知ってる人たちなら言わなくとも「ああ、あそこあたりか…」)とわかってしまうかもしれないけど 当方、IT業界の底辺を彷徨い続けてきた就職氷河期世代のエンジニアおじさんなのだが、 コロナ禍の頃に転職して、そこからフルリモート...",
+      "published": "2026-11-23T08:55:57Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "80c18158ca3feabadf8d27d98a2fe15e",
+      "title": "ChatGPT の速さを支える OpenAI の Performance Factory",
+      "link": "https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+      "summary": "エージェントを活用した開発の驚異的なスピードにより、従来のパフォーマンスエンジニアリングの手法では対応しきれなくなっています。このスピードに対応するため、私たちは Performance Factory を構築しました。Codex と OpenAI のモデルの能力を最大限に活用し、性能劣化をかつてな...",
+      "published": "2026-11-23T08:01:24Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eda177e81514d9dbace33f3911ca3424",
+      "title": "ホワイトハッカー、ダサぃ。 — El Kentaro",
+      "link": "https://buymeacoffee.com/elkentaro/leyebimeji",
+      "summary": "大漏洩祭りが進行する中、あいも変わらず「ホワイトハッカー」がメディアでも政府筋でも話題になっている。 はっきり言おう。「ホワイトハッカー」はダサい。「セキュリティトップガン」はもっとダサいが、その少し下あたりに「ホワイトハッカー」は存在する。 なぜダサいのか。それはそもそも「ハッカー」というのは、....",
+      "published": "2026-11-23T10:35:22Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "197a3ed1dab6dac8b574212753188891",
+      "title": "ジェンスン・フアン氏、11日間の不在の後、NVIDIAのCEOに返り咲き | テクノエッジ TechnoEdge",
+      "link": "https://www.techno-edge.net/article/2026/11/23/5793.html",
+      "summary": "NVIDIAの創業者であるジェンスン・フアン氏が、社長兼CEO（代表取締役）として復帰しました。 NVIDIAが2026年11月23日（米国時間）、取締役会が全会一致で決定したとして発表。取締役会はフアン氏との協議・面談を経て、同氏の誠実さとNVIDIAを率いる能力に納得したとして復帰を承認。米国の...",
+      "published": "2026-11-23T15:05:16Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "1b0432482de5629d3efd7fae64926d96",
+      "title": "GitHub - google-gemini/gemini-api-cli: An (experimental) CLI for the Gemini API",
+      "link": "https://github.com/google-gemini/gemini-api-cli",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-11-10T00:04:23Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4ac5fc0978326e0cab6cdf0618640384",
+      "title": "Windows Server 2016 からの Active Directory 移行、アップグレードにあたっての考慮事項",
+      "link": "https://jpwinsup.github.io/blog/2026/08/05/ActiveDirectory/PromotionAndDemotion/windows-server-2016-ad-migration-considerations/?utm_source=chatgpt.com",
+      "summary": "本記事はマイクロソフト社員によって公開されております。 (作成にあたり Copilot の力を借りています) こんにちは。Windows Commercial Support Directory Services チームです。 Windows Server 2016 は 2027 年 1 月 12 ...",
+      "published": "2026-11-23T11:49:03Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "d4e62d99c06d029ccda3086361ce49c9",
+      "title": "無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要",
+      "link": "https://gigazine.net/news/20261123-sill/",
+      "summary": "Macで作業していると手元のiPhoneやiPadから特定のアプリケーションだけを操作したいことがあります。そこでMacのウィンドウをリアルタイムで転送し、タッチ・キーボード・トラックパッド・Apple Pencilなどで操作できるようにしたサーバー不要の無料のオープンソースアプリが「Sill」です...",
+      "published": "2026-11-23T03:11:56Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eeacec6acdda8bf954373b8ce393545c",
+      "title": "Windows Server 2016 からの Active Directory 移行、アップグレードにあたっての考慮事項",
+      "link": "https://jpwinsup.github.io/blog/2026/08/05/ActiveDirectory/PromotionAndDemotion/windows-server-2016-ad-migration-considerations/",
+      "summary": "本記事はマイクロソフト社員によって公開されております。 (作成にあたり Copilot の力を借りています) こんにちは。Windows Commercial Support Directory Services チームです。 Windows Server 2016 は 2027 年 1 月 12 ...",
+      "published": "2026-08-06T15:42:51Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "89a58d4305a36a33f672f0a69fa6c0d5",
+      "title": "プログラミングのド素人がAIを利用して快活CLUBの空き状況確認アプリを作った日記 - ネットに影響される人の日記",
+      "link": "https://htnmiki.hatenablog.com/entry/2026/11/23/133843",
+      "summary": "みなさん快活CLUBを利用していますか？ 私はかなり利用しています。ひとり旅をするときの宿泊はだいたい快活CLUBです。そう、金が無いので。宿泊施設にあれこれ望まないタイプでとりあえず寝られればいい。そこに数万円とかもったいないなーという貧乏性なので。そんな貧乏自己紹介はさておき最近の快活CLUBは...",
+      "published": "2026-11-23T04:40:21Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "ce0f609443a4183e85a9599d8489e99c",
+      "title": "Webメール開発を大幅に変えたJMAPというゲームチェンジャー",
+      "link": "https://speakerdeck.com/tascript/jmap-is-game-changer?slide=105",
+      "summary": "JSConfJP 2026の登壇資料です",
+      "published": "2026-11-23T04:36:58Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8963d9be6f10fe91afaa58ea06f7a3c0",
+      "title": "脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する - Qiita",
+      "link": "https://qiita.com/heki-dm/items/77ecaacd592d1c4459df",
+      "summary": "はじめに Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。 CVSS 9.8 (Critical) CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 「数字が大きいほどヤバいんだろうな」くらいの理解で済ませていたのですが、...",
+      "published": "2026-11-22T09:00:16Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "51ec19e7c40f5941fe7c52d588c75301",
+      "title": "MPLUS_FONTS/fonts/MPLUS3 at master · coz-m/MPLUS_FONTS",
+      "link": "https://github.com/coz-m/MPLUS_FONTS/tree/master/fonts/MPLUS3",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You...",
+      "published": "2026-11-23T07:00:23Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b4fb0270c9351bcc9f42985050e641cd",
+      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "summary": "一方、「Microsoft 365 Personal」や「Microsoft 365 Family」を含む個人アカウントでは、To Doアプリが終了してもPlannerは使えない。Microsoftはこうしたユーザーに、残したいタスクやリストを決めて、ほかのタスク管理アプリを選ぶよう勧めている。 T...",
+      "published": "2026-11-23T03:27:25Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "05b58eb1a5c1461735d25d033ff07813",
+      "title": "数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～",
+      "link": "https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka",
+      "summary": "CloudNative Days Winter 2026の発表資料",
+      "published": "2026-11-22T10:21:35Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "4f37a0a2fb58333effac06468d01123a",
+      "title": "Advice for the next 100 Rust GUIs",
+      "link": "https://linebender.org/blog/next-100-guis/",
+      "summary": "This is a followup to Advice for the next dozen Rust GUIs, published 4.5 years ago. The world is different in many ways, but some of the advice there ...",
+      "published": "2026-11-22T17:50:21Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "44393c9e26bde9cd592ed3b3a92f9cdb",
+      "title": "NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる - AUTOMATON",
+      "link": "https://automaton-media.com/articles/newsjp/20261123-480470/",
+      "summary": "NVIDIAグラボの「SSD無限酷使」現象、修正パッチを適用しても直らないとの報告。ちょっと改善するも、まだ書き込みまくる 「GeForce Game Ready Driver」のホットフィックス621.35配信後も、PCを操作していない間にもSSDへの大量の書き込みがおこなわれる不具合が継続してい...",
+      "published": "2026-11-23T06:49:40Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "346b62497eaeff3b116ba32bcee0aac6",
+      "title": "macOSネイティブのAlfred UIやLLMを利用したワークフローを作成できるようになったMac用多機能ランチャー「Alfred v6」がリリース。",
+      "link": "https://applech2.com/archives/20261123-alfred-6-now-availabe.html",
+      "summary": "macOSネイティブUIを利用したワークフローを作成できるAlfred UIやmacOS 27 Golden Gate向けに刷新した設定画面などを実装したMac用多機能ランチャー「Alfred v6」がリリースされています。詳細は以下から。 英Running with Crayons Ltdは現地時...",
+      "published": "2026-11-23T03:30:11Z",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a8c2e036ccb2c31ce0f2b29f97c20a74",
+      "title": "[Grafana] Ductus で、日付で分けたキー・シングルテーブル設計・GSI などの DynamoDB テーブルを、テーブルを変えずに表示してみました",
+      "link": "https://dev.classmethod.jp/articles/grafana-ductus-dynamodb-date-split-single-table-gsi/",
+      "summary": "DynamoDB に溜めた時系列データを Grafana で可視化したいというよくあるニーズに対して、既存のテーブル設計を変えずに対応できるツール「Ductus」を使った具体的な方法を紹介します。日付で分けたキー、シングルテーブル設計、GSI など 4 つのテーブル設計パターンを、datasets....",
+      "published": "Mon, 23 Nov 2026 16:47:40 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "139e0b13c3bf72517c52fd0afdd28884",
+      "title": "Amazon Cognito のマルチリージョンレプリケーションで、東京のユーザープールのレプリカを大阪に作ってみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-cognito-mrr-osaka-replica/",
+      "summary": "Amazon Cognito のマルチリージョンレプリケーション（MRR）の追加リージョン対応を受け、東京のユーザープールのレプリカを大阪に作成しました。INACTIVE のレプリカでも東京で作成したユーザーを大阪から読み取れ、ACTIVE にすると大阪のエンドポイントでトークンを取得できました。",
+      "published": "Mon, 23 Nov 2026 16:45:35 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c796ff1c84ee86c78ad314dc3ae4f0b",
+      "title": "AWS Network Firewall の automated Internet firewall を試してみた",
+      "link": "https://dev.classmethod.jp/articles/network-firewall-automated-internet-firewall/",
+      "summary": "パブリックプレビューの提供が始まった AWS Network Firewall の automated Internet firewall を AWS CLI で作成し、ルートテーブルを追加・変更せずに IGW で検査と NAT が行われることを確認しました。",
+      "published": "Mon, 23 Nov 2026 16:09:33 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5f8d80e872e04e7a28f9cc0e2ca93f90",
+      "title": "Amazon CloudWatch の PromQL でサポートされた 30 日幅のクエリを試してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-promql-30day-query-window/",
+      "summary": "Amazon CloudWatch の PromQL で 30 日幅のクエリを試しました。query_range は 30 日分を 1 リクエストで取得でき、range selector の上限は 24 時間でした。ALB の SLO 期間の可用性とエラーバジェット残量は、それぞれ 1 クエリで計算...",
+      "published": "Mon, 23 Nov 2026 15:25:45 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "873f9cba307e6db13200b8369030c708",
+      "title": "ECS Action Logs のログ記録対象が追加されたので、Fargate のタスクのイベントを確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-ecs-action-logs-task-events/",
+      "summary": "Amazon ECS Action Logs のタスクのイベントを Fargate で試しました。イメージ取得失敗、コンテナの異常終了、コンテナのヘルスチェック失敗はそれぞれ別のイベント名で記録され、異常終了では終了コードを detail.containers[].exitCode で確認できました...",
+      "published": "Mon, 23 Nov 2026 14:55:51 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ae0b3654470104bc9671d5fe60029860",
+      "title": "CloudFront マルチテナントで stg と prod を分けて静的サイトを配信してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-multitenant-stg-prod/",
+      "summary": "CloudFront のマルチテナントディストリビューションを使って、1つのディストリビューションで stg と prod を分けて管理する構成を試しました。開発環境には Basic 認証をかけ、本番環境は認証なしで公開する、という要件を実装しています。",
+      "published": "Mon, 23 Nov 2026 13:00:08 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "7e35acc9fb5d8115db3dd4dc9b146bdf",
+      "title": "Security Command Centerの脅威の検出結果をSendGridでメール通知してみた",
+      "link": "https://dev.classmethod.jp/articles/scc-threat-findings-sendgrid-notification/",
+      "summary": "Security Command Centerの脅威の検出結果を、Pub/SubのpushサブスクリプションとCloud Run functionsを経由してSendGridでメール通知する仕組みを作りました。送信に失敗したときの再試行とアラートの動きと、SendGridのクリック計測の扱いをまとめ...",
+      "published": "Mon, 23 Nov 2026 11:53:01 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "c09a788e7a0da0bc2dd52e0d4baa4670",
+      "title": "Snowflake の SAML SSO と SCIM プロビジョニングを Microsoft Entra ID で試してみた",
+      "link": "https://dev.classmethod.jp/articles/snowflake-saml-sso-scim-entra-id/",
+      "summary": "Snowflake で Microsoft Entra ID を使った SAML 2.0 SSO と SCIM によるユーザーのプロビジョニングを実装してみました。メタデータ URL を活用した設定方法から SCIM での自動ユーザー作成まで、実際の手順を紹介します。",
+      "published": "Mon, 23 Nov 2026 09:04:26 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8454d79d4a4eefd98d22b8ddf06c000c",
+      "title": "[アップデート] AWS Quick の認証は IAM Identity Center のアカウントインスタンスが新しい定番、デスクトップアプリのサインインまで試してみた",
+      "link": "https://dev.classmethod.jp/articles/20261117-amazon-quick-desktop-idc-sign-in/",
+      "summary": "AWS Quick on desktop が Web 版と同じサインイン方法に対応しました。IAM Identity Center のアカウントインスタンスなら MFA を使え、利用者ごとの IAM ユーザーも不要です。構築からデスクトップアプリへのサインインまでの手順と、導入時の考慮事項を紹介しま...",
+      "published": "Mon, 23 Nov 2026 07:45:48 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "184f3928271515a219d36bb68f56e641",
+      "title": "EventBridge Scheduler で新カスタムイベントバスへの配信と AWS SDK 連携を試してみた",
+      "link": "https://dev.classmethod.jp/articles/eventbridge-scheduler-event-bus-targets/",
+      "summary": "新カスタムイベントバスへのイベント配信と、EC2 の停止、Lambda の予約済み同時実行数の変更を、Lambda 関数を利用せずに実行できました。各検証のコマンドと、バスに届いたイベントの形を紹介します。",
+      "published": "Mon, 23 Nov 2026 07:09:29 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ed8d81775d9a547e00a850f50a978021",
+      "title": "[アップデート] Amazon CognitoがクライアントIDメタデータドキュメント（CIMD）に対応しました！",
+      "link": "https://dev.classmethod.jp/articles/cognito-cimd-claude-code/",
+      "summary": "CognitoがCIMDに対応しました！！最近Cognitoの進化がすごいですね・・・",
+      "published": "Mon, 23 Nov 2026 07:07:30 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8167e2edacfea587ac5fea18d64e084e",
+      "title": "CloudFront VPC Origin で Internal ALB にカスタムヘッダーを付けてみた",
+      "link": "https://dev.classmethod.jp/articles/cloudfront-vpc-origin-custom-header/",
+      "summary": "CloudFront の VPC Origin と Internal ALB を組み合わせ、カスタムヘッダーとリスナールールでセキュアなオリジンアクセスを実装する方法を、Terraform での実装例を交えて紹介します。",
+      "published": "Mon, 23 Nov 2026 06:23:58 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "06ee7020b094672a1ad6cbd79c0fdc47",
+      "title": "Amazon FSx for NetApp ONTAP の第3世代ファイルシステムを作成して NFS でマウントしてみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-fsx-ontap-third-generation-create-nfs-mount/",
+      "summary": "Amazon FSx for NetApp ONTAP の第3世代ファイルシステム（MULTI_AZ_3）を最小構成で作成し、t9g.small から NFS でマウントしました。作成開始からマウント成功までは約17分で、SSD 1,024 GiB の構成で describe-file-system...",
+      "published": "Mon, 23 Nov 2026 06:21:49 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "596e4ff751ea16fcbee7aa62ca8a021a",
+      "title": "Amazon Athenaに導入されたシステムテーブルを使ってみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-athena-system-table-introduction-query_executions/",
+      "summary": "Amazon Athenaに新たに導入されたシステムテーブルについて、有効化からクエリ実行まで実際に使ってみましたのでご紹介します。",
+      "published": "Mon, 23 Nov 2026 06:17:06 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d69c3b1c52ba42541954ea26008e3d38",
+      "title": "[アップデート] AWS Pricing Calculator に GetUsageLinesEstimatedCost が追加されたので使ってみた",
+      "link": "https://dev.classmethod.jp/articles/aws-pricing-calculator-api/",
+      "summary": "calculator.aws みたいに作成と共有できる機能があると良いのだが",
+      "published": "Mon, 23 Nov 2026 05:56:23 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "3e09747cb3bbd60c3c3b7a87e1354cb8",
+      "title": "Aurora MySQL 8.4.12 がリリースされました",
+      "link": "https://dev.classmethod.jp/articles/aurora-mysql-8-4-12-release/",
+      "summary": "Amazon Aurora MySQL 8.4.12 がリリースされました。MySQL 8.4 の最新のマイナーバージョンで、重大度の高い CVE 3件の修正とバグ修正を含みます。東京リージョンで作成したクラスターのバージョンが 8.4.12 であることを、RDS Data API で確認しました。",
+      "published": "Mon, 23 Nov 2026 05:47:41 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "03c7fdd1fcf26f2ce11f0de7cd565f2d",
+      "title": "AWS Lambda で SQS FIFO のバッチサイズを 10,000 にしたイベントソースマッピングを試してみた",
+      "link": "https://dev.classmethod.jp/articles/aws-lambda-sqs-fifo-batch-size-10000/",
+      "summary": "AWS Lambda の SQS FIFO イベントソースマッピング（provisioned mode）にバッチサイズ 10,000 を設定し、1,000 グループの 10,000 件を処理しました。呼び出し回数は、BatchSize 10 の ESM の 1,000 回に対して 2 回でした。各グ...",
+      "published": "Mon, 23 Nov 2026 05:16:03 GMT",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "9b1d9a6be9832512c96287eed648616b",
+      "title": "teenage engineering EP/BC-1とEP-133、SIDEKICKを、DJセットのようにセッティングできる木製スタンドが登場",
+      "link": "https://icon.jp/archives/28720",
+      "summary": "SynthToysが、teenage engineeringマシン用の新作スタンドをお披露目。注目を集めています。 SynthToys’s new stand (Image via Instagram) シン […]",
+      "published": "Mon, 23 Nov 2026 08:00:00 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "6baedc9a45c8cdd59391023b9586c04f",
+      "title": "SYSTEM-1／SYSTEM-8のPlug-Outが解析された——元オーナーが思うこと",
+      "link": "https://1ikkai.com/2026/11/system-1%ef%bc%8fsystem-8%e3%81%aeplug-out%e3%81%8c%e8%a7%a3%e6%9e%90%e3%81%95%e3%82%8c%e3%81%9f-%e5%85%83%e3%82%aa%e3%83%bc%e3%83%8a%e3%83%bc%e3%81%8c%e6%80%9d%e3%81%86%e3%81%93/",
+      "summary": "2026年11月21日、RolandのSYSTEM […]",
+      "published": "Mon, 23 Nov 2026 08:05:46 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "いっかい/ikkai",
+      "category": "music"
+    },
+    {
+      "entry_id": "bed52b9600a868aebd46be0c97d98f94",
+      "title": "Photophore 2, a 100-oscillator iOS/AUv3 flock synth twelve years in the making",
+      "link": "https://cdm.link/photophore-2-auv3/",
+      "summary": "Photophore renders a swarm of one hundred oscillators as a flock navigating a three-dimensional habitat. First seen on CDM in 2014, version 2 of Taika...",
+      "published": "Mon, 23 Nov 2026 15:23:13 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "CDM Create Digital Music",
+      "category": "music"
+    },
+    {
+      "entry_id": "f08d9f9f4e874350fc00f1274cbdd151",
+      "title": "Black Friday: The best deals we’ve found at Sweetwater for producers and DJs (so far)",
+      "link": "https://musictech.com/guides/buyers-guide/black-friday-cyber-monday-sweetwater-deals/",
+      "summary": "Sweetwater is slashing prices across 5,000 products for Black Friday and Cyber Weekend, including on Ableton Move, Moog Muse, and more. The post Black...",
+      "published": "Mon, 23 Nov 2026 14:20:36 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
+    },
+    {
+      "entry_id": "71dd3e406e6614db7a732807f03a6743",
+      "title": "Soundtoys plugins are favoured by top producers – and you can get up to 75% off ahead of Black Friday, with prices as low as £26!",
+      "link": "https://musictech.com/news/gear/black-friday-2026-soundtoys-deals-plugin-boutique/",
+      "summary": "Save big on the SuperPlate, Decapitator, and even the complete Soundtoys collection for a limited time only... The post Soundtoys plugins are favoured...",
+      "published": "Mon, 23 Nov 2026 10:30:18 +0000",
+      "fetched_at": "2026-11-23T16:57:37.684538+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-23T04:58:00.181907+00:00"
+  "updated_at": "2026-11-23T16:57:37.684538+00:00"
 }

@@ -949,7 +949,207 @@
       "fetched_at": "2026-11-22T23:01:07.215789+00:00",
       "feed_name": "はてなブックマーク - テクノロジー",
       "category": "main"
+    },
+    {
+      "entry_id": "af53d67cfec94ee38d06c2a35fc1902d",
+      "title": "GitHub - texpile/texpile: Modern offline LaTeX & Typst editor with visual and source editing. · GitHub",
+      "link": "https://github.com/texpile/texpile",
+      "summary": "LaTeX, Typst, Markdownに対応したオープンソースなエディタ。コード直接もWYSIWYGでも両方かけてプレビュー機能も搭載。作図機能もあり。Linux, macOS, Windowsに対応。macOSであればbrew install --cask texpileでインストール可。",
+      "published": "23 Nov 2026 01:00 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ec0a0fc220b326d8fa534026f9e3e148",
+      "title": "spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする",
+      "link": "https://zenn.dev/ruri/articles/code-as-spec",
+      "summary": "コードのように書かれた仕様書より、仕様書のように書かれたコードを。一理ある。",
+      "published": "23 Nov 2026 00:56 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "36e9e43ea32c0037be06032f7540682b",
+      "title": "Editorはもう古い。新ロールへ安全に移る768試行",
+      "link": "https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration",
+      "summary": "Google Cloudで Owner・Editor・Viewer の後継となる新しい基本ロール Admin・Writer・Reader。ただし必ずしも1対1に対応しないので注意と。途中で切り替えるの結構大変かもしれない。",
+      "published": "23 Nov 2026 00:46 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "dd631eb4ece5236fdc21213e3ce0588c",
+      "title": "GitHub - Shougo/goda.vim: Go based dark powered framework for Vim/Neovim · GitHub",
+      "link": "https://github.com/Shougo/goda.vim",
+      "summary": "Vim/NeovimプラグインをGoで書ける。わいわい",
+      "published": "23 Nov 2026 00:36 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "3c60c695ecb0e8017a6fdeb1187eeb07",
+      "title": "WASIじゃない、もう一つのインターフェース「WALI」という提案",
+      "link": "https://zenn.dev/progate/articles/wali-webassembly-linux-interface",
+      "summary": "WebAssembly Linux Interface。「WASIのような新しいAPIを作るのはやめて、Linuxのシステムコールをそのままwasmに見せてしまおう」「LLVMやRustにもすでにターゲットとして入っていました」ほう。",
+      "published": "23 Nov 2026 00:34 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "44b997c460ae5fb8fa390f493d1a2bfd",
+      "title": "PostgreSQL Observability Architectural Map",
+      "link": "https://meob.github.io/pg-observability-map/",
+      "summary": "PostgreSQLの内部アーキテクチャと、その構成要素を調査・解析するためのビュー、クエリー、関数などを俯瞰できるサイト。バージョン15以降に対応。わいわい。",
+      "published": "23 Nov 2026 00:27 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@matsuu (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "40d5168d4f8cfe7d154b6182c456fe6a",
+      "title": "エンタープライズ品質の設計を実現するAIエージェント開発入門｜リックテレコム",
+      "link": "https://www.ric.co.jp/book/new-publication/detail/3294",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 エンタープライズ品質の設計を実現するAIエージェント開発入門｜リックテレコム",
+      "published": "22 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "336109de3e0a803ea179bb14c0150aa7",
+      "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ＳＢクリエイティブ | 版元ドットコム",
+      "link": "https://www.hanmoto.com/bd/isbn/9784815631338",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 体系的に学ぶ 安全なWebアプリケーションの作り方 第3版 徳丸 浩(著) - ＳＢクリエイティブ",
+      "published": "22 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "7cf819a334a7d5c22007f8a5908dbd7b",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 127 # Comments: 89",
+      "published": "Sun, 22 Nov 2026 23:12:10 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "f22fe240c1087c850c6bac28d2914102",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845...",
+      "published": "Sun, 22 Nov 2026 21:01:16 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "11b36f8a9adc216d6309efb8122a74d7",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "link": "https://smallsf.com/",
+      "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 128 # Comments: 54",
+      "published": "Sun, 22 Nov 2026 20:33:23 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8a0e26db5571dca6cf01164cb25865fe",
+      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
+      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=5059...",
+      "published": "Sun, 22 Nov 2026 13:37:10 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "bf5e6905484f440a903cc873871a0e48",
+      "title": "AI is becoming a disaster for the climate",
+      "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points:...",
+      "published": "Sun, 22 Nov 2026 12:19:46 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "ebc5e24f7cec7d9a5d315e7684e6d26a",
+      "title": "AI Supply Chain Security: What Canary Tokens Found",
+      "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "summary": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens Comments URL: https://news.ycombinator.com/item?id=50596511 Points: 10...",
+      "published": "Sun, 22 Nov 2026 05:11:43 +0000",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "da9b6ac8cedaf680f928c2686a24a06a",
+      "title": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ",
+      "link": "https://note.com/yamac_/n/n198bdc344c64",
+      "summary": "Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回...",
+      "published": "2026-11-22T10:08:35Z",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "45eca16aee53348d5c6e0346a512042e",
+      "title": "証明が得られたあとに−−証明を理解するという仕事｜加藤文元",
+      "link": "https://note.com/katobungen/n/n2326bd68a80e",
+      "summary": "2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明...",
+      "published": "2026-11-22T06:23:00Z",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59a008d2b71f57274247f0986be1687b",
+      "title": "この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)",
+      "link": "https://note.com/varu3/n/n4476366008f8",
+      "summary": "技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それ....",
+      "published": "2026-11-22T14:37:53Z",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6a6d2b0a88fd28dd3189556173a1a912",
+      "title": "S3 Storage Lens がインテリジェント階層化ストレージクラスのアクセス階層別の内訳に対応したので確認してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-s3-storage-lens-intelligent-tiering-access-tiers/",
+      "summary": "S3 Storage Lens で Intelligent-Tiering のアクセス階層ごとのオブジェクト数まで見られるようになりました。",
+      "published": "Mon, 23 Nov 2026 00:47:55 GMT",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "ac518b791d8454cb838e1d920e692409",
+      "title": "CloudTrail の新機能「データイベントカバレッジ」を試してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudtrail-data-event-coverage-getting-started/",
+      "summary": "この記事では、2026 年 9 月に追加された CloudTrail の新機能「データイベントカバレッジ」について、概要と S3 バケットを例にしたハンズオンを紹介します。この機能はリソースごとのデータイベントの記録状況を確認し、記録対象を追加できるものであり、監査・コンプライアンスの観点から記録漏...",
+      "published": "Mon, 23 Nov 2026 00:46:09 GMT",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "37f97707396e304078aa828c742e73c5",
+      "title": "AWS サンプル「RAPID」の閉域モードで、インターネットに出ない書類審査環境を作ってみた",
+      "link": "https://dev.classmethod.jp/articles/try-rapid-document-review-closed-network/",
+      "summary": "RAPID 閉域モードでデプロイしてみました。",
+      "published": "Mon, 23 Nov 2026 00:43:08 GMT",
+      "fetched_at": "2026-11-23T01:10:01.180698+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
     }
   ],
-  "updated_at": "2026-11-22T23:01:07.215789+00:00"
+  "updated_at": "2026-11-23T01:10:01.180698+00:00"
 }

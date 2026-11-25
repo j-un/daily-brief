@@ -1,4 +1,165 @@
 {
-  "articles": [],
-  "updated_at": "2026-11-24T23:10:25.319685+00:00"
+  "articles": [
+    {
+      "entry_id": "81cddf68086fd22a0f89b5bb9f3ff2e6",
+      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
+      "link": "https://cloud.google.com/blog/products/data-analytics/introducing-okf-v0-3?hl=en",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 Introducing OKF v0.3",
+      "published": "24 Nov 2026 23:55 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2629e9d488b411713c262d977c3786fb",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "link": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=5...",
+      "published": "Tue, 24 Nov 2026 21:51:21 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0b109bc7e36ce0d90185f0d15f43bdfc",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?...",
+      "published": "Tue, 24 Nov 2026 21:02:22 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8906423b55166d54f22a180cf761a818",
+      "title": "AWS STS GetScopedCredentials で既存セッションの権限をスコープダウン",
+      "link": "https://aws.amazon.com/jp/blogs/news/scope-down-permissions-of-existing-sessions-using-aws-sts-getscopedcredentials/",
+      "summary": "GetScopedCredentials は、既存の一時的なセキュリティ認証情報の権限をスコープダウンできる新しい AWS STS API です。AI エージェントやサブエージェントごとに、呼び出し元の IAM アイデンティティを維持したまま、権限の縮小やセッション期間の短縮を適用した認証情報を割り...",
+      "published": "Wed, 25 Nov 2026 00:15:24 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "47250c2b83d0c3ccd9a6c2d16c18a512",
+      "title": "AWS Security Incident Response がセキュリティの検出結果をトリアージする仕組み",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-aws-security-incident-response-triages-your-security-findings/",
+      "summary": "AWS Security Incident Response は、Amazon GuardDuty と AWS Security Hub CSPM からの脅威の検出結果を継続的にトリアージしますが、その作業のほとんどはケースとして表に出ません。この記事では、取り込まれた検出結果がアーカイブ、プロアク...",
+      "published": "Wed, 25 Nov 2026 00:13:06 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b7f9e0e28bd2a2ed5139ccc6b04735c",
+      "title": "Amazon GuardDuty の脅威検出機能をカスタマイズしてアラート疲れを軽減",
+      "link": "https://aws.amazon.com/jp/blogs/news/reduce-alert-fatigue-by-customizing-threat-detection-features-in-amazon-guardduty/",
+      "summary": "アラート疲れを軽減するため、Amazon GuardDuty の脅威検出機能をカスタマイズする方法を 3 つのステージで紹介します。Custom Detection Rules のドライランモードでノイズを測定してからライブモードで有効化する手順、ファイルハッシュを含む脅威エンティティリストの活用、...",
+      "published": "Wed, 25 Nov 2026 00:10:17 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "19f159e5ed90364ab83cd157b9e128ec",
+      "title": "Greenlight Financial が Amazon Bedrock AgentCore で自律型 SOC ソリューションを構築した方法",
+      "link": "https://aws.amazon.com/jp/blogs/news/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/",
+      "summary": "Greenlight Financial が Amazon Bedrock AgentCore 上に構築した自律型 SOC ソリューションを紹介します。Tier 1 と Tier 2 のスーパーバイザーによる階層型マルチエージェントシステム、30 を超える専門エージェント、継続的な学習を支えるエピソ...",
+      "published": "Wed, 25 Nov 2026 00:07:05 +0000",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "Amazon Web Services ブログ",
+      "category": "main"
+    },
+    {
+      "entry_id": "0192f783d0cb9e032bf835273996c577",
+      "title": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/",
+      "summary": "Amazon Connect Customer analytics dashboards now support grouping historical metrics by time interval on trailing widgets, giving contact center manag...",
+      "published": "Tue, 24 Nov 2026 17:00:00 GMT",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "cceeea80f513d6374496dbe41bc58f29",
+      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "summary": "Amazon SageMaker HyperPod now supports managed cluster extensions for Slurm clusters. You can install, configure, update, and remove managed features ...",
+      "published": "Mon, 23 Nov 2026 20:00:00 GMT",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "AWS Recent Announcements",
+      "category": "main"
+    },
+    {
+      "entry_id": "1e1b41094e9c17722d2b6322abba9ead",
+      "title": "個人開発 with AI",
+      "link": "https://zenn.dev/holygrail/scraps/dec6ae85d06b4f",
+      "summary": "## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ>プで読む。 - 冒頭に現在地を置く。複...",
+      "published": "2026-11-24T22:02:28Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "59b89730ec93461a7143d4486d8889a7",
+      "title": "ワコムがMBOで株式非公開化へ、新事業やM&Aの加速を目指す",
+      "link": "https://pc.watch.impress.co.jp/docs/news/2158842.html",
+      "summary": "",
+      "published": "2026-11-24T22:51:55Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "38735194bc1d231580a7a1ae713bd4d4",
+      "title": "楽天証券、顧客からの預かり資産残高168万件漏洩 性別や国籍も - 日本経済新聞",
+      "link": "https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
+      "summary": "不正アクセスによる顧客情報流出を巡って楽天証券は24日、追加の調査結果を公表した。株式など顧客からの預かり資産残高の情報が約168万口座分漏洩した。性別や国籍など7項目の漏洩も新たに確認したと明らかにした。国内株や投資信託などの商品区分別での残高情報が漏れた。個別の保有銘柄や過去の取引履歴の情報は含...",
+      "published": "2026-11-24T21:28:35Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "eb9939525c1f6cf78fd2559ed4dd3959",
+      "title": "AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達",
+      "link": "https://www.publickey1.jp/blog/26/awsdynamodbextenddb10.html",
+      "summary": "AWS、DynamoDB互換データベースをローカルマシンで構築可能にするオープンソース「ExtendDB」がバージョン1.0に到達 Amazon Web Services（AWS）は、同社がクラウドサービスとして提供しているNoSQLデータベース「Amazon DynamoDB」の互換データベースを...",
+      "published": "2026-11-24T16:30:34Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "30e8a1815903848f94d8a3609010cdd6",
+      "title": "jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース",
+      "link": "https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html",
+      "summary": "jQuery開発チームは、JavaScriptライブラリ「jQuery」の最新版となる「jQuery 4.1」正式版のリリースを発表しました。 また同時にjQuery 3.x系の最後のリリースとなる「jQuery 3.8」も同時にリリースしました。 jQuery 4.x系は、基本的にはいわゆるモダン...",
+      "published": "2026-11-24T16:30:31Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b7756fa29576dfcfbabe008ddfef37d1",
+      "title": "はてブで投資系のブクマにスター付けまくってる謎のアカウント",
+      "link": "https://anond.hatelabo.jp/20261121084231",
+      "summary": "なんなの？",
+      "published": "2026-11-24T13:49:03Z",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c15d3e83ed8422b3920c253bc4dad182",
+      "title": "Cognitoのトークン交換をAgentCore Gatewayで試してみた",
+      "link": "https://dev.classmethod.jp/articles/cognito-token-exchange-agentcore-obo/",
+      "summary": "Amazon CognitoがOAuth 2.0のトークン交換に対応したので、AgentCore Gatewayと組み合わせて試してみました！",
+      "published": "Tue, 24 Nov 2026 23:29:35 GMT",
+      "fetched_at": "2026-11-25T00:15:09.948464+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    }
+  ],
+  "updated_at": "2026-11-25T00:15:09.948464+00:00"
 }

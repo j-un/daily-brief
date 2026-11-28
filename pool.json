@@ -1,16 +1,6 @@
 {
   "articles": [
     {
-      "entry_id": "43630add702c54e7d8c0456ab57b78b9",
-      "title": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有してい…",
-      "link": "https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html",
-      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io",
-      "published": "26 Nov 2026 23:55 +0000",
-      "fetched_at": "2026-11-27T06:00:06.724693+00:00",
-      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
-      "category": "main"
-    },
-    {
       "entry_id": "bffa64c0533517e7b1670f798cb05065",
       "title": "インシデント調査報告書チェックリスト",
       "link": "https://jpcertcc.github.io/ir_report_checklist/",
@@ -519,7 +509,337 @@
       "fetched_at": "2026-11-28T09:38:57.957024+00:00",
       "feed_name": "DevelopersIO",
       "category": "main"
+    },
+    {
+      "entry_id": "99f9a25ad42eaaa76802bea7e95fd6d8",
+      "title": "AndroidでもPDFの書類をアプリ内で見れるようにした話 〜主に排他制御について〜 - Timee Product Team Blog",
+      "link": "https://tech.timee.co.jp/entry/android_pdf_viewer",
+      "summary": "#ばばさん通信ダイジェスト 賛否関わらず話題になった/なりそうなものを共有しています。 AndroidでもPDFの書類をアプリ内で見れるようにした話 〜主に排他制御について〜",
+      "published": "28 Nov 2026 10:55 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "@netmarkjp - BABA Toshiaki (Bluesky)",
+      "category": "main"
+    },
+    {
+      "entry_id": "a21da8fb3e203227bcb8297067c5f254",
+      "title": "Silently degrading the model's capabilities IS sabotage",
+      "link": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+      "summary": "Article URL: https://twitter.com/TimSweeneyEpic/status/2126682647862862063 Comments URL: https://news.ycombinator.com/item?id=50678901 Points: 158 # C...",
+      "published": "Sat, 28 Nov 2026 15:55:54 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1cc1bfe473565ae5912fe8bcb44d1604",
+      "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+      "link": "https://scriptor-pro.github.io/luciole-mono/",
+      "summary": "TLDR : Atkinson Hyperlegible Mono alternativeLuciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers b...",
+      "published": "Sat, 28 Nov 2026 12:50:15 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "2db2dbaeed8c4ad464f72e00dd5ab092",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "link": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "summary": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/ Comments URL: https://news.ycombinator.com/item?id=50676752 Points: 146 # C...",
+      "published": "Sat, 28 Nov 2026 11:57:04 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "e400b7891ea4e250ba6751b1dd436260",
+      "title": "Audible removes download option for purchased audiobooks",
+      "link": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "summary": "Article URL: https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks Comments URL: https://news.ycombinator.com/item?id...",
+      "published": "Sat, 28 Nov 2026 11:51:27 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "0db51e6bdd0bb3b8bffccb9f6317bb70",
+      "title": "Farewell",
+      "link": "https://github.com/p-e-w/heretic/issues/601",
+      "summary": "Article URL: https://github.com/p-e-w/heretic/issues/601 Comments URL: https://news.ycombinator.com/item?id=50676672 Points: 806 # Comments: 336",
+      "published": "Sat, 28 Nov 2026 11:42:26 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "d09e8118739d86e70483368237e14512",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "link": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "summary": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html Comments URL: https://news.ycombinator.com/item?id=50676390 Points: 559 # Commen...",
+      "published": "Sat, 28 Nov 2026 10:37:40 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8674f5254d6a7612f67af9f3176231ef",
+      "title": "Diablo II",
+      "link": "https://www.filfre.net/2026/11/diablo-ii/",
+      "summary": "Article URL: https://www.filfre.net/2026/11/diablo-ii/ Comments URL: https://news.ycombinator.com/item?id=50676199 Points: 151 # Comments: 60",
+      "published": "Sat, 28 Nov 2026 09:54:19 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "1946c80e46bc189613d53de169638480",
+      "title": "Knuth: Moratorium on Error Reports",
+      "link": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "summary": "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50674452 Points: 356 # Comm...",
+      "published": "Sat, 28 Nov 2026 03:49:21 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "Hacker News (100pts+)",
+      "category": "main"
+    },
+    {
+      "entry_id": "8711019395f1011c22d07d73cc091b3d",
+      "title": "パスキーは最強で美しいよ、正しく実装すればね",
+      "link": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
+      "summary": "はじめに 近年、パスワード漏洩やフィッシングによる不正アクセス、さらには証券口座の乗っ取りといった認証にまつわるセキュリティ事件が後を絶ちません。こうしたニュースが出るたびに、「パスワードを使い回さないようにしよう」「SMS や認証アプリによる 2 段階認証を設定しよう」といった対策記事や呼びかけを...",
+      "published": "2026-11-28T08:31:00Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "618e83e2c28a704093d0cd231dc130ae",
+      "title": "生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ",
+      "link": "https://tjo.hatenablog.com/entry/2026/11/28/185602",
+      "summary": "先日のことですが、以下のNature Human Behavior掲載論文がSNSで話題になっているのを見かけました。 最初に見た時はそれほど反応が伸びていなかったんですが、後日メディアで取り上げられたことで再度バズっていたのでした。 既に様々な媒体で解説記事が出ているので何番煎じになるかもはや分か...",
+      "published": "2026-11-28T10:03:10Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "678c122ca0ecd11e30a1ce08a82bef21",
+      "title": "GitHub Actions の lockfile と workflow 定義がずれたとき何が起こるのか - blog.re-taro.dev",
+      "link": "https://blog.re-taro.dev/p/01M7MSE6RTX3ZBPPK94XZC6ZZW/",
+      "summary": "はじめに GitHub Actions に workflow dependency lockfile が導入された。 .github/workflows/actions.lock に、workflow が依存する action とその commit SHA を記録しておく仕組みである。 lockfi...",
+      "published": "2026-11-28T12:43:49Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "31f53815e50079bd8f461fc8a2968143",
+      "title": "腰を守ろう。座り仕事にエルゴノミクスチェアが最適解なわけ【小寺信良のくらしDX】",
+      "link": "https://www.watch.impress.co.jp/docs/series/kodera/2159299.html",
+      "summary": "",
+      "published": "2026-11-28T01:36:42Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "6aa8bc7edae2442687aad71dbd13c20c",
+      "title": "CTOからエンジニアへ",
+      "link": "https://speakerdeck.com/mirakui/20261127-yapc-lt",
+      "summary": "YAPC::Tokyo 2026 https://blog.yapcjapan.org/entry/2026/11/13/182428",
+      "published": "2026-11-28T08:36:55Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "e2c53c0aeae7df9920542076be6fd0e2",
+      "title": "ISUCONの立ち上げから現在まで関わった15年、運営と引き継ぎの記録 - 941::blog",
+      "link": "https://blog.kushii.net/archives/2026/11/28/194645",
+      "summary": "2011年に始まったISUCON。わたしは立ち上げからISUCON13まで運営の主担当をやってきました。2026年の開催でその運営からも退くことになり、無事にイベントも終わったのでキリがよいところで色々書き残しておきます。 15年もやっていると忘れていることも結構あって、今のうちに成り立ちや各回の運...",
+      "published": "2026-11-28T12:01:23Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "8b0362c2e404d91dcf662d7e6b9eaeac",
+      "title": "CQRS+ES実践ガイド / CQRS+ES Practice Guide",
+      "link": "https://speakerdeck.com/nrslib/cqrs-es-practice-guide",
+      "summary": "JJUG CCC 2026 Fall の講演資料です CQRS+ES を実践するために必要な、実装の手法からモデリング、各種落とし穴の対策等をお話しています イベント概要：https://jjug.doorkeeper.jp/events/199505 CQRS+ES実践ガイド：https:/…",
+      "published": "2026-11-28T09:23:13Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "897a380800b2b7b2b29bd2d850214ddb",
+      "title": "1時間で作るPerlOS: Yet Another Perl Computer",
+      "link": "https://zenn.dev/takesako/articles/8623cbed6c1bb6",
+      "summary": "💡 の解説は後から読んでも構いません。まずは手を動かして、OSを完成させましょう。 用語 QEMU（キューエミュ）：CPUや周辺機器をソフトウェアで再現するエミュレータ。Quick Emulatorの略。QEMUは、実物のハードウェアがなくても、ソフトウェアでCPUや周辺機器の動きを再現できます。C...",
+      "published": "2026-11-28T08:05:37Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "c9a6237df435b751df0db03eefaf126a",
+      "title": "AI音声による虚偽通報が深刻化",
+      "link": "https://gigazine.net/news/20261128-fake-911-call-ai/",
+      "summary": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。 Swatting calls using AI means fake 911 calls are harder to detect : NPR ht...",
+      "published": "2026-11-27T23:02:45Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "a364c27c3c5b5dea9098818cd270a833",
+      "title": "もう他人ごとじゃないイベントソーシング：社会を支える既存システムへの部分適用",
+      "link": "https://es.kosui.workers.dev/",
+      "summary": "YAPC::Tokyo 2026 ライブコーディング・ハンズオン・40分 もう他人ごとじゃないイベントソーシング 社会を支える既存システムへの部分適用 全体を移行しなくても、既存の更新処理に記録を足せば、足した後の変更を説明できることを確かめます。題材は架空の動物病院の来院管理です。",
+      "published": "2026-11-28T06:22:48Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "910344f8f2e8dacd3e854a9f2eb8d75b",
+      "title": "AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026",
+      "link": "https://speakerdeck.com/visional_engineering_and_design/architecture-con2026",
+      "summary": "2026年11月26日より開催の「アーキテクチャConference 2026」の登壇資料です。 https://architecture-con.findy-tools.io/2026 ▼関連情報 AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human…",
+      "published": "2026-11-27T07:38:36Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "b2b9e6fd3653e087e05f7e4863f94ab8",
+      "title": "組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知",
+      "link": "https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/",
+      "summary": "アーキテクチャConference 2026の登壇資料はこちらです。",
+      "published": "2026-11-27T08:07:20Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "3febf0ca527569866582976d5c51c0fc",
+      "title": "Androidスマホの世界シェア、7〜9月期として過去最低の74％に iPhone躍進 理由は？",
+      "link": "https://japan.cnet.com/article/35255520/",
+      "summary": "調査会社Counterpoint Researchの集計によると、2026年7〜9月に世界で販売されたスマートフォンのうち、Android搭載機が占める割合は74％だった。前年同期の79％から5ポイント低下し、7〜9月期としては同社の調査史上最低となった。スマートフォン全体の販売台数は前年同期比16...",
+      "published": "2026-11-27T22:48:50Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "23d4891f15c6b8b6ee7ef987443f250d",
+      "title": "Home | D2 Documentation",
+      "link": "https://d2lang.com/",
+      "summary": "D2: Declarative DiagrammingA modern language that turns text to diagrams Explore docs Create beautiful diagrams in minutes. Simple syntax. Endlessly c...",
+      "published": "2023-05-08T07:37:32Z",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "はてなブックマーク - テクノロジー",
+      "category": "main"
+    },
+    {
+      "entry_id": "5393a4cef30d70b8fa46967e2d4532bf",
+      "title": "Kiro Enterprise で GPT 6 Luna が Preview として利用できるようになりました",
+      "link": "https://dev.classmethod.jp/articles/kiro-enterprise-gpt-6-luna/",
+      "summary": "GPT 6 Luna が Kiro Enterprise で Preview として提供開始されました。クレジット倍率は前バージョンの GPT-5.6 Luna の 3分の1です。100K トークンを超えるリクエストでは Haiku 5.5 に近い倍率です。費用対効果の良いモデルとして利用できる可能...",
+      "published": "Sat, 28 Nov 2026 15:48:58 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "d5529ba7f15fc706af010255bc188192",
+      "title": "ELB for Envoy で Transit Gateway 越しの別 VPC の ALB へ HTTPS でリバースプロキシしてみた",
+      "link": "https://dev.classmethod.jp/articles/elb-for-envoy-transit-gateway-1to1-nat/",
+      "summary": "ELB for Envoy から別 VPC の ALB へ、通常の Transit Gateway 経由でも、CIDR が重複する VPC をつなぐ 1:1 NAT 経由でも、ホスト名を照合した HTTPS で転送できました。1:1 NAT では ALB の DNS 名だと接続がタイムアウトし、プラ...",
+      "published": "Sat, 28 Nov 2026 15:11:23 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "a9d56c1cb4e69072206f32a43106afc6",
+      "title": "Amazon Route 53 のアフィニティルーティングを試してみた",
+      "link": "https://dev.classmethod.jp/articles/amazon-route53-az-affinity-routing/",
+      "summary": "Amazon Route 53 のアフィニティルーティング（affinity routing）を試しました。クライアントと同じ AZ のレコードが返ること、なければ Zone Group、Region、Global の順に切り替わること、パブリックホストゾーンでは VPC の外からのクエリに Glo...",
+      "published": "Sat, 28 Nov 2026 14:20:29 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "5e54194cea832a87ef80aad8ba555d45",
+      "title": "Amazon Kinesis Data Streams がサポートしたキューを試してみた",
+      "link": "https://dev.classmethod.jp/articles/kinesis-data-streams-queues-getting-started/",
+      "summary": "Amazon Kinesis Data Streams で、オンデマンドモードのデータストリームから、シャードを意識せずにデータを受信できるようになりました。AWS CLI でキューからレコードを受信して ack してみました。",
+      "published": "Sat, 28 Nov 2026 12:40:04 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "8f2a7514f98e7006b33e62345f9a48e0",
+      "title": "[アップデート] Amazon CloudWatch Query Studio でクエリを保存して再利用できるようになったので試してみた",
+      "link": "https://dev.classmethod.jp/articles/cloudwatch-query-studio-saved-queries/",
+      "summary": "Amazon CloudWatch の Query Studio でクエリを保存・再利用できるようになったので、コンソールと AWS CLI からの操作を試してみました。",
+      "published": "Sat, 28 Nov 2026 11:41:40 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "fe5fe385fe79456b14f02a43df2b99fb",
+      "title": "Amazon OpenSearch Service Optimized engine で index を S3 Tables へ公開してみた",
+      "link": "https://dev.classmethod.jp/articles/opensearch-publish-indices-s3-tables/",
+      "summary": "index を公開してできたテーブルを、DuckDB から S3 Tables の table bucket を指定して、集計クエリで照会できました。catalog publishing を有効にした domain の作成から、公開、DuckDB での照会までのコマンドと設定を紹介します。",
+      "published": "Sat, 28 Nov 2026 10:02:56 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "842882fc91b5ecca692a511f4cc09255",
+      "title": "初めて技術書典に出展してみました（技術書典21・『筋肉を支える技術』）",
+      "link": "https://dev.classmethod.jp/articles/techbookfest21-first-exhibit-muscle-tech-book/",
+      "summary": "",
+      "published": "Sat, 28 Nov 2026 09:52:06 GMT",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "DevelopersIO",
+      "category": "main"
+    },
+    {
+      "entry_id": "2d00ee67e6ddb17b5d11df02524e01a9",
+      "title": "Abletonのハードウェア製品のプロモーションが30日で終了…… PushとMoveが20％OFF、Push Upgrade Kitも対象",
+      "link": "https://icon.jp/archives/28870",
+      "summary": "Abletonのハードウェア製品のプロモーションが間もなく終了。PushとMoveを20％OFFで入手できるラスト・チャンスです。 11月30日まで、PushとMoveが20％OFF Abletonが今月10日から実施し […]",
+      "published": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "020d319275def9ea0018e2eb96570061",
+      "title": "ALM/Busy Circuits、新作モジュール Bits Happenを発売…… 4出力のシーケンサーとしても機能する、斬新なアイディアのウェーブテーブル・オシレーターが登場",
+      "link": "https://icon.jp/archives/28848",
+      "summary": "ALM/Busy Circuitsが新製品、Bits Happenを発売。シーケンサーとしても機能する斬新なウェーブテーブル・オシレーターが登場しました。 ALM/Busy Circuits – Bits H […]",
+      "published": "Sat, 28 Nov 2026 10:00:00 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "ICON",
+      "category": "music"
+    },
+    {
+      "entry_id": "9631f78e7118ce1b524b304e31da27fa",
+      "title": "Get 30% off the Soundcraft 24-channel desk from the studio behind the Sisters of Mercy and Shed Seven albums",
+      "link": "https://musictech.com/news/gear/get-30-off-a-soundcraft-24-channel-desk-from-the-studio-behind-the-sisters-of-mercy-and-shed-seven-albums/",
+      "summary": "A black, 1980s Soundcraft analogue console from the late Bruce Haden’s RIC RAC Studios is on Reverb for £1679.30, down from £2,399. The post Get 30% o...",
+      "published": "Sat, 28 Nov 2026 15:02:40 +0000",
+      "fetched_at": "2026-11-28T17:52:47.013489+00:00",
+      "feed_name": "MusicTech",
+      "category": "music"
     }
   ],
-  "updated_at": "2026-11-28T09:38:57.957024+00:00"
+  "updated_at": "2026-11-28T17:52:47.013489+00:00"
 }
